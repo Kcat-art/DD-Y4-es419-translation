@@ -1,76 +1,87 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: y4-msg-translator\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-
-msgctxt "100"
-msgid "You should rest up, %s. I'd be glad to take over for you if you need it."
-msgstr ""
-
-msgctxt "124"
-msgid "I'll be okay on my own for now."
-msgstr ""
-
-msgctxt "136"
-msgid "Sorry, gonna have to pass."
-msgstr ""
-
-msgctxt "148"
-msgid "I'm good."
-msgstr ""
-
-msgctxt "160"
-msgid "Nah, I'm fine."
-msgstr ""
-
-msgctxt "172"
-msgid "Right. Try not to overdo it."
-msgstr ""
-
-msgctxt "196"
-msgid "That's a good idea. Go ahead."
-msgstr ""
-
-msgctxt "208"
-msgid "Sure, why not. I'm always down to chill for a bit."
-msgstr ""
-
-msgctxt "220"
-msgid "Guess I don't mind catchin' my breath."
-msgstr ""
-
-msgctxt "232"
-msgid "All right, I'll let you take things from here."
-msgstr ""
-
-msgctxt "244"
-msgid "Okay, take it easy for a while. I'll be back soon."
-msgstr ""
-
-msgctxt "268"
-msgid "Cancel"
-msgstr ""
-
-msgctxt "280"
-msgid "Switch to Kiryu"
-msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es_419\n"
+"Language-Team: es-419\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: unknown-project\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: unknown-project\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: es-419\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid000200b8.po\n"
+"X-Crowdin-File-ID: 58608\n"
+"PO-Revision-Date: 2026-04-20 02:51\n"
 
 msgctxt "2160"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "2164"
 msgid "Player"
-msgstr ""
+msgstr "Player"
 
 msgctxt "2168"
 msgid "Talk_No"
-msgstr ""
+msgstr "Talk_No"
 
 msgctxt "2172"
 msgid "Talk_Yes"
-msgstr ""
+msgstr "Talk_Yes"
+
+msgctxt "100_Kiryu"
+msgid "You should rest up, %s. I'd be glad to take over for you if you need it."
+msgstr "Deberías descansar, %s. Estaré encantado de hacerme cargo de todo."
+
+msgctxt "124_Player"
+msgid "I'll be okay on my own for now."
+msgstr "Estaré bien por ahora."
+
+msgctxt "136_Player"
+msgid "Sorry, gonna have to pass."
+msgstr "Lo siento, voy a tener que pasar."
+
+msgctxt "148_Player"
+msgid "I'm good."
+msgstr "Estoy bien."
+
+msgctxt "160_Player"
+msgid "Nah, I'm fine."
+msgstr "No, estoy bien."
+
+msgctxt "172_Kiryu"
+msgid "Right. Try not to overdo it."
+msgstr "Bien, intenta no exagerar."
+
+msgctxt "196_Player"
+msgid "That's a good idea. Go ahead."
+msgstr "Buena idea. Adelante."
+
+msgctxt "208_Player"
+msgid "Sure, why not. I'm always down to chill for a bit."
+msgstr "Claro, por qué no. Siempre estoy dispuesto a relajarme un poco."
+
+msgctxt "220_Player"
+msgid "Guess I don't mind catchin' my breath."
+msgstr "Supongo que no me importa recuperar el aliento."
+
+msgctxt "232_Player"
+msgid "All right, I'll let you take things from here."
+msgstr "Muy bien, dejaré que tomes las riendas a partir de aquí."
+
+msgctxt "244_Kiryu"
+msgid "Okay, take it easy for a while. I'll be back soon."
+msgstr "Está bien, tómalo con calma un rato. Volveré pronto."
+
+msgctxt "268_Kiryu"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "280_Kiryu"
+msgid "Switch to Kiryu"
+msgstr "Cambiar a Kiryu"
 

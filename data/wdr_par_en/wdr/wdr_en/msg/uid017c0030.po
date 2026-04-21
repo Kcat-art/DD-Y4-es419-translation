@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es_419\n"
+"Language-Team: es-419\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: unknown-project\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: unknown-project\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: es-419\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid017c0030.po\n"
+"X-Crowdin-File-ID: 58982\n"
+"PO-Revision-Date: 2026-04-20 23:20\n"
+
+msgctxt "332"
+msgid "Do you want to fish here?"
+msgstr "¿Quiere pescar aquí?"
+
+msgctxt "4208"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "4212"
+msgid "Fishing"
+msgstr "Pesca"
+
+msgctxt "344_Player"
+msgid "(Let's do some fishing.)"
+msgstr "(Hora de pescar un poco.)"
+
+msgctxt "368_Player"
+msgid "(On second thought... Maybe not.)"
+msgstr "(Pensándolo bien... quizá no)."
+
+msgctxt "380_Fishing"
+msgid "Select your bait, then decide where to cast your line.\\r\n"\n"\\r\n"\n"Each type of bait has a different range of effect, and the fish won't bite if you use the wrong bait. Items in your possession that can be used as bait will be shown in a list."
+msgstr "Seleccione su cebo, después, decida donde lanzar el sedal.\\r\n"\n"\\r\n"\n"Cada tipo de cebo tiene un rango de efecto diferente, y \\r\n"\n"los peces no pican si se usa el cebo incorrecto. Los \\r\n"\n"objetos en su posesión que se puedan usar de cebo se \\r\n"\n"le mostrarán en una lista."
+
+msgctxt "392_Fishing"
+msgid "The gauge shows where fish are most concentrated.\\r\n"\n"Use bait that is effective in those areas."
+msgstr "La barra muestra dónde se concentran más los peces.\\r\n"\n"Utilice cebo efectivo en esas áreas."
+
+msgctxt "404_Fishing"
+msgid "Cast your line and wait for a fish to bite.\\r\n"\n"\\r\n"\n"The <Action:Button_Cross@Fishing> icon will appear when a fish is biting. Quickly press <Action:Button_Cross@Fishing> and reel the line in."
+msgstr "Lance el sedal y espere a que un pez muerda el anzuelo.\\r\n"\n"\\r\n"\n"El ícono <Action:Button_Cross@Fishing> aparecerá cuando un pez pique. \\r\n"\n"Presione rápidamente <Action:Button_Cross@Fishing> y recoja el sedal."
+
+msgctxt "416_Fishing"
+msgid "<Action:Button_R1@Fishing> reels in, while <Action:Button_L1@Fishing> adds slack. Pay attention to the Tension Gauge, and don't let the fish snap your line. Use <Action:Button_LS_Left@Fishing><Action:Button_LS_Right@Fishing>, following the movement of the fish. Move it up and down to raise or lower the pole."
+msgstr "<Action:Button_R1@Fishing> enrolla, mientras que <Action:Button_L1@Fishing> suelta. Preste atención al indicador de tensión y no deje que los peces rompan el sedal. Mueva<Action:Button_LS_Left@Fishing><Action:Button_LS_Right@Fishing> siguiendo el movimiento del pez. Mueva arriba y abajo \\r\n"\n"para subir o bajar la caña."
+
+msgctxt "428_Fishing"
+msgid "If you control the line's tension and completely reel it in, you will successfully catch the fish."
+msgstr "Si controla la tensión del sedal y lo trae entero, \\r\n"\n"capturará el pescado con éxito."
+
+msgctxt "440_Player"
+msgid "(I bet there are lots of fish over there...)"
+msgstr "(Apuesto a que hay muchos peces por allí...)"
+
+msgctxt "464_Player"
+msgid "(All right, let's get the bait ready. This is what I've got with me...)"
+msgstr "(Muy bien, a preparar el cebo. Esto es lo que llevo encima...)"
+
+msgctxt "476_Player"
+msgid "(I should review the instructions.)"
+msgstr "(Debería repasar las instrucciones.)"
+
+msgctxt "488_Player"
+msgid "(Maybe later.)"
+msgstr "(Tal vez más tarde)."
+
+msgctxt "500_Player"
+msgid "(I didn't get a bite...)"
+msgstr "(Nada mordió el anzuelo...)"
+
+msgctxt "512_Player"
+msgid "(My timing was off...)"
+msgstr "(Se me fue la mano...)"
+
+msgctxt "524_Player"
+msgid "(The line broke...)"
+msgstr "(Se rompió el sedal...)"
+
+msgctxt "536_Player"
+msgid "(The fish got away...)"
+msgstr "(El pez se escapó...)"
+
+msgctxt "560_Player"
+msgid "(I need to put new bait on.)"
+msgstr "(Necesito poner cebo nuevo.)"
+
+msgctxt "572_Player"
+msgid "(That's enough for now.)"
+msgstr "(Es suficiente por ahora.)"
+
+msgctxt "584_Player"
+msgid "Go Fishing"
+msgstr "Ir de Pesca"
+
+msgctxt "596_Player"
+msgid "Don't Fish"
+msgstr "No Pescar"
+
+msgctxt "608_Player"
+msgid "Go Fishing"
+msgstr "Ir de Pesca"
+
+msgctxt "620_Player"
+msgid "Read Instructions"
+msgstr "Leer las Instrucciones"
+
+msgctxt "632_Player"
+msgid "Don't Fish"
+msgstr "No Pescar"
+
+msgctxt "644_Player"
+msgid "Keep Fishing"
+msgstr "Seguir Pescando"
+
+msgctxt "656_Player"
+msgid "Stop Fishing"
+msgstr "Dejar de Pescar"
+

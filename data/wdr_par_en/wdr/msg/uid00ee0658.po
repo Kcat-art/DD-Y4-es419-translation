@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-419\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee0658.po\n"
 "X-Crowdin-File-ID: 61064\n"
-"PO-Revision-Date: 2026-04-20 02:51\n"
+"PO-Revision-Date: 2026-04-20 23:28\n"
 
 msgctxt "140"
 msgid "You gained 500 EXP."
@@ -54,12 +54,8 @@ msgid "Soul Orbs disappear after being spent, so be careful when selecting which
 msgstr "Los Orbes de Alma desaparecen después de usarse, así que piensa bien qué habilidades desbloquearás."
 
 msgctxt "104_Soul Brother"
-msgid "This information has been added as a <Color:14>memo<Color:Default>.\r\n"
-"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
-"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\r\n"
-"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\r\n"
-"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\n"\n"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\n"\n"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\n"\n"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"\n"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 msgctxt "116_Soul Brother"
 msgid "Train your soul and turn it into powerful skills! That's all you need to do to make yourself strong, brother!"

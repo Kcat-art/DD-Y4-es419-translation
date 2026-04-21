@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-419\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee0656.po\n"
 "X-Crowdin-File-ID: 60172\n"
-"PO-Revision-Date: 2026-04-20 02:51\n"
+"PO-Revision-Date: 2026-04-20 23:28\n"
 
 msgctxt "168"
 msgid "You gained 500 EXP."
@@ -50,12 +50,8 @@ msgid "Additionally, you can view the Map within the Pause Menu by pressing the 
 msgstr "Además, puede ver el Mapa dentro del Menú de Pausa presionando <Action:Button_Options@Adventure>. Ahí podrás tener una vista general de Kamurocho, incluídas las azoteas y zonas subterráneas. También muestra información sobre los establecimientos, como tiendas y restaurantes."
 
 msgctxt "132_Maps"
-msgid "This information has been added as a <Color:14>memo<Color:Default>.\r\n"
-"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
-"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\r\n"
-"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\r\n"
-"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\n"\n"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\n"\n"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\n"\n"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"\n"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 msgctxt "144_Directionally Challenged Man"
 msgid "So if this is Tenkaichi Street, then Theater Square is over there... But it's not... Ugh, stupid maps! Guess it's time for another \"adventure\"!"

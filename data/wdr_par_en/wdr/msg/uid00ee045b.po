@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-419\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee045b.po\n"
 "X-Crowdin-File-ID: 61106\n"
-"PO-Revision-Date: 2026-04-20 02:51\n"
+"PO-Revision-Date: 2026-04-20 23:28\n"
 
 msgctxt "588"
 msgid "You paid <Color:8>50,000 yen<Color:Default>."
@@ -118,10 +118,8 @@ msgid "Are you going to help me or not? My friend Zhao-san over in Little Asia s
 msgstr "No me desvíes del tema. Me enteré de ti por Zhao-san, en Pequeña Asia. Dicen que eres muy acertada, ¿verdad? ...con tu \"videncia\"."
 
 msgctxt "240_Naomi"
-msgid "Heh, yes, but my services do not come cheap,\r\n"
-"Detective Tanimura."
-msgstr "...Je, je, mis servicios de videncia tienen un alto precio,\r\n"
-"Detective Tanimura."
+msgid "Heh, yes, but my services do not come cheap,\\r\n"\n"Detective Tanimura."
+msgstr "...Je, je, mis servicios de videncia tienen un alto precio,\\r\n"\n"Detective Tanimura."
 
 msgctxt "252_Tanimura"
 msgid "You know who I am?"
@@ -196,10 +194,8 @@ msgid "I'm trying to find the evidence Yabe, that sex industry writer, left behi
 msgstr "Estoy buscando la evidencia que dejó Yabe, aquel escritor de la industria sexual."
 
 msgctxt "492_Naomi"
-msgid "Hrmmm... That's no ordinary information you seek.\r\n"
-"It is going to cost you."
-msgstr "Mmm... La información que buscas no es cualquier cosa.\r\n"
-"Te va a costar."
+msgid "Hrmmm... That's no ordinary information you seek.\\r\n"\n"It is going to cost you."
+msgstr "Mmm... La información que buscas no es cualquier cosa.\\r\n"\n"Te va a costar."
 
 msgctxt "504_Tanimura"
 msgid "How much?"

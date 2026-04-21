@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-419\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00910144.po\n"
 "X-Crowdin-File-ID: 60224\n"
-"PO-Revision-Date: 2026-04-20 02:51\n"
+"PO-Revision-Date: 2026-04-20 23:28\n"
 
 msgctxt "248"
 msgid "<Color:9>You learned Dash Kick.<Color:Default>"
@@ -147,8 +147,7 @@ msgstr "Ahora que lo dices, puede que sí. Me siento más ligero, un poco más �
 
 msgctxt "260_Abilities Learned via Training"
 msgid "You can check abilities learned via training in the <Color:14>Abilities<Color:Default> screen in the Pause Menu."
-msgstr "Puedes revisar los detalles de las técnicas que aprendas mediante\n"
-"entrenamiento en la sección de <Color:14>Habilidades<Color:Default> que está en el menú de pausa."
+msgstr "Puedes revisar los detalles de las técnicas que aprendas mediante\n"\n"entrenamiento en la sección de <Color:14>Habilidades<Color:Default> que está en el menú de pausa."
 
 msgctxt "272_Saigo"
 msgid "Every person has to train differently, depending on their build and usual exercise regimen."
@@ -203,10 +202,6 @@ msgid "Great. I'll be waiting."
 msgstr "Perfecto. Te estaré esperando."
 
 msgctxt "428_Akiyama"
-msgid "This information has been added as a <Color:14>memo<Color:Default>.\r\n"
-"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
-"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\r\n"
-"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\r\n"
-"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\n"\n"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\n"\n"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\n"\n"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"\n"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 

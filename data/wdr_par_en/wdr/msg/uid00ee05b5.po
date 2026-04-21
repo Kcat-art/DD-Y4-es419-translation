@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-419\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee05b5.po\n"
 "X-Crowdin-File-ID: 58482\n"
-"PO-Revision-Date: 2026-04-20 02:51\n"
+"PO-Revision-Date: 2026-04-20 23:28\n"
 
 msgctxt "92"
 msgid "You got a <Color:8>Kamiyama Weapon Catalog<Color:Default>."
@@ -67,13 +67,11 @@ msgstr "Oye... Sí que le diste una buena a esos tipos allá atrás. Te digo que
 
 msgctxt "68_Player"
 msgid "Oh yeah? I appreciate the compliment, but I'm actually kinda in a hurry here."
-msgstr "¿En serio? Te lo agradezco.\n"
-"Lo siento, pero estoy un poco apurado..."
+msgstr "¿En serio? Te lo agradezco.\n"\n"Lo siento, pero estoy un poco apurado..."
 
 msgctxt "80_Kamiyama"
 msgid "Oh, wait! Uh, here... Take this, please! Take a look at it when you have the time!"
-msgstr "¡Oh, espera! Por favor, toma esto.\n"
-"Si tienes tiempo, échale un vistazo."
+msgstr "¡Oh, espera! Por favor, toma esto.\n"\n"Si tienes tiempo, échale un vistazo."
 
 msgctxt "116_Player"
 msgid "A weapon catalog? What're you trying to imply here?"
@@ -85,26 +83,19 @@ msgstr "¡Oh, nada de nada! ¡Te lo prometo! Solo pensé que podrías estar inte
 
 msgctxt "140_Kamiyama"
 msgid "You know that back alley up in the northeast part of the city? That's where I'm shacked up. It's a bit of a maze back there... so sorry in advance."
-msgstr "La tienda está en el noreste de Kamurocho,\n"
-"en una zona un poco complicada. Puedes venir más tarde."
+msgstr "La tienda está en el noreste de Kamurocho,\n"\n"en una zona un poco complicada. Puedes venir más tarde."
 
 msgctxt "152_Kamiyama"
 msgid "Anyway, see you later. Hope you stop by soon!"
-msgstr "En fin, hasta luego.\n"
-"¡Espero que te pases pronto!"
+msgstr "En fin, hasta luego.\n"\n"¡Espero que te pases pronto!"
 
 msgctxt "164_Kamiyama"
-msgid "This information has been added as a <Color:14>memo<Color:Default>.\r\n"
-"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
-"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\r\n"
-"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\r\n"
-"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\n"\n"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\n"\n"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\n"\n"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"\n"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 msgctxt "176_Kamiyama"
 msgid "Want to come by my shop now? I'll show you how to get there."
-msgstr "¿Te gustaría venir a la tienda ahora?\n"
-"Puedo llevarte."
+msgstr "¿Te gustaría venir a la tienda ahora?\n"\n"Puedo llevarte."
 
 msgctxt "188_Player"
 msgid "Huh? Oh, no, uh..."

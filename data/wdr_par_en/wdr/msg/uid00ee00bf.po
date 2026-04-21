@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-419\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee00bf.po\n"
 "X-Crowdin-File-ID: 60498\n"
-"PO-Revision-Date: 2026-04-20 02:51\n"
+"PO-Revision-Date: 2026-04-20 23:28\n"
 
 msgctxt "3684"
 msgid "You got a <Color:8>DARTSLIVE Membership Card<Color:Default>."
@@ -614,20 +614,16 @@ msgid "Example: You are winning by 200 points and your first throw hits 15, your
 msgstr "Ejemplo: Vas ganando por 200 puntos y en tu primer lanzamiento aciertas un 15, en el segundo también aciertas un 15 y en el tercer lanzamiento aciertas un doble 15. El hit count del tercer lanzamiento se limita a uno, lo que da un total de tres aciertos en la ronda."
 
 msgctxt "5148_Bartender"
-msgid "Note that if the score gap is 199 or less, points exceeding 200 are awarded, and the hit count is also valid.\r\n"
-"Example: You are winning by 199 points, and you hit triple 20. Your hit count is three, and you get 60 points, raising your point total to 259."
-msgstr "Ten en cuenta que si la diferencia de puntaje es de 199 o menos, los puntos que excedan los 200 se otorgarán, y el conteo de aciertos también será válido.\r\n"
-"Ejemplo: Estás ganando por 199 puntos y aciertas un triple 20. Tu conteo de aciertos es tres y obtienes 60 puntos, lo que eleva tu total de puntos a 259."
+msgid "Note that if the score gap is 199 or less, points exceeding 200 are awarded, and the hit count is also valid.\\r\n"\n"Example: You are winning by 199 points, and you hit triple 20. Your hit count is three, and you get 60 points, raising your point total to 259."
+msgstr "Ten en cuenta que si la diferencia de puntaje es de 199 o menos, los puntos que excedan los 200 se otorgarán, y el conteo de aciertos también será válido.\\r\n"\n"Ejemplo: Estás ganando por 199 puntos y aciertas un triple 20. Tu conteo de aciertos es tres y obtienes 60 puntos, lo que eleva tu total de puntos a 259."
 
 msgctxt "5160_Bartender"
 msgid "This game is exclusive to Yakuza 4. See how many bull's-eyes－inner or outer－you can hit in a row. "
 msgstr "Este minijuego es exclusivo de Yakuza 4. Consiste en ver cuántas veces seguidas puedes acertar en la diana, ya sea en el bullseye interno o el externo. "
 
 msgctxt "5172_Bartender"
-msgid "If you reach a new personal high score, you can upload that score to the online ranking. \r\n"
-"*If your score is too low for the ranking, you will not be able to upload it to the online ranking."
-msgstr "Si logras un nuevo récord personal, podrás subir tu puntuación al ranking en línea.\r\n"
-"*Si tu puntuación es demasiado baja para aparecer en el ranking, no podrás subirla."
+msgid "If you reach a new personal high score, you can upload that score to the online ranking. \\r\n"\n"*If your score is too low for the ranking, you will not be able to upload it to the online ranking."
+msgstr "Si logras un nuevo récord personal, podrás subir tu puntuación al ranking en línea.\\r\n"\n"*Si tu puntuación es demasiado baja para aparecer en el ranking, no podrás subirla."
 
 msgctxt "5184_Bartender"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
@@ -858,20 +854,16 @@ msgid "Example: You are winning by 200 points and your first throw hits 15, your
 msgstr "Ejemplo: Vas ganando por 200 puntos y en tu primer lanzamiento aciertas un 15, en el segundo también aciertas un 15 y en el tercer lanzamiento aciertas un doble 15. El hit count del tercer lanzamiento se limita a uno, lo que da un total de tres aciertos en la ronda."
 
 msgctxt "6612_Bartender"
-msgid "Note that if the score gap is 199 or less, points exceeding 200 are awarded, and the hit count is also valid.\r\n"
-"Example: You are winning by 199 points, and you hit triple 20. Your hit count is three, and you get 60 points, raising your point total to 259."
-msgstr "Ten en cuenta que si la diferencia de puntaje es de 199 o menos, los puntos que excedan los 200 se otorgarán, y el conteo de aciertos también será válido.\r\n"
-"Ejemplo: Estás ganando por 199 puntos y aciertas un triple 20. Tu conteo de aciertos es tres y obtienes 60 puntos, lo que eleva tu total de puntos a 259."
+msgid "Note that if the score gap is 199 or less, points exceeding 200 are awarded, and the hit count is also valid.\\r\n"\n"Example: You are winning by 199 points, and you hit triple 20. Your hit count is three, and you get 60 points, raising your point total to 259."
+msgstr "Ten en cuenta que si la diferencia de puntaje es de 199 o menos, los puntos que excedan los 200 se otorgarán, y el conteo de aciertos también será válido.\\r\n"\n"Ejemplo: Estás ganando por 199 puntos y aciertas un triple 20. Tu conteo de aciertos es tres y obtienes 60 puntos, lo que eleva tu total de puntos a 259."
 
 msgctxt "6624_Bartender"
 msgid "This game is exclusive to Yakuza 4. See how many bull's-eyes－inner or outer－you can hit in a row. "
 msgstr "Este minijuego es exclusivo de Yakuza 4. Consiste en ver cuántas veces seguidas puedes acertar en la diana, ya sea en el bullseye interno o el externo. "
 
 msgctxt "6636_Bartender"
-msgid "If you reach a new personal high score, you can upload that score to the online ranking. \r\n"
-"*If your score is too low for the ranking, you will not be able to upload it to the online ranking."
-msgstr "Si logras un nuevo récord personal, podrás subir tu puntuación al ranking en línea. \r\n"
-"*Si tu puntuación es demasiado baja para aparecer en el ranking, no podrás subirla."
+msgid "If you reach a new personal high score, you can upload that score to the online ranking. \\r\n"\n"*If your score is too low for the ranking, you will not be able to upload it to the online ranking."
+msgstr "Si logras un nuevo récord personal, podrás subir tu puntuación al ranking en línea. \\r\n"\n"*Si tu puntuación es demasiado baja para aparecer en el ranking, no podrás subirla."
 
 msgctxt "6648_Bartender"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
@@ -1102,20 +1094,16 @@ msgid "Example: You are winning by 200 points and your first throw hits 15, your
 msgstr "Ejemplo: Vas ganando por 200 puntos y en tu primer lanzamiento aciertas un 15, en el segundo también aciertas un 15 y en el tercer lanzamiento aciertas un doble 15. El hit count del tercer lanzamiento se limita a uno, lo que da un total de tres aciertos en la ronda."
 
 msgctxt "8076_Bartender"
-msgid "Note that if the score gap is 199 or less, points exceeding 200 are awarded, and the hit count is also valid.\r\n"
-"Example: You are winning by 199 points, and you hit triple 20. Your hit count is three, and you get 60 points, raising your point total to 259."
-msgstr "Ten en cuenta que si la diferencia de puntaje es de 199 o menos, los puntos que excedan los 200 se otorgarán, y el conteo de aciertos también será válido.\r\n"
-"Ejemplo: Estás ganando por 199 puntos y aciertas un triple 20. Tu conteo de aciertos es tres y obtienes 60 puntos, lo que eleva tu total de puntos a 259."
+msgid "Note that if the score gap is 199 or less, points exceeding 200 are awarded, and the hit count is also valid.\\r\n"\n"Example: You are winning by 199 points, and you hit triple 20. Your hit count is three, and you get 60 points, raising your point total to 259."
+msgstr "Ten en cuenta que si la diferencia de puntaje es de 199 o menos, los puntos que excedan los 200 se otorgarán, y el conteo de aciertos también será válido.\\r\n"\n"Ejemplo: Estás ganando por 199 puntos y aciertas un triple 20. Tu conteo de aciertos es tres y obtienes 60 puntos, lo que eleva tu total de puntos a 259."
 
 msgctxt "8088_Bartender"
 msgid "This game is exclusive to Yakuza 4. See how many bull's-eyes－inner or outer－you can hit in a row. "
 msgstr "Este minijuego es exclusivo de Yakuza 4. Consiste en ver cuántas veces seguidas puedes acertar en la diana, ya sea en el bullseye interno o el externo. "
 
 msgctxt "8100_Bartender"
-msgid "If you reach a new personal high score, you can upload that score to the online ranking. \r\n"
-"*If your score is too low for the ranking, you will not be able to upload it to the online ranking."
-msgstr "Si logras un nuevo récord personal, podrás subir tu puntuación al ranking en línea. \r\n"
-"*Si tu puntuación es demasiado baja para aparecer en el ranking, no podrás subirla."
+msgid "If you reach a new personal high score, you can upload that score to the online ranking. \\r\n"\n"*If your score is too low for the ranking, you will not be able to upload it to the online ranking."
+msgstr "Si logras un nuevo récord personal, podrás subir tu puntuación al ranking en línea. \\r\n"\n"*Si tu puntuación es demasiado baja para aparecer en el ranking, no podrás subirla."
 
 msgctxt "8112_Bartender"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
@@ -1346,20 +1334,16 @@ msgid "Example: You are winning by 200 points and your first throw hits 15, your
 msgstr "Ejemplo: Vas ganando por 200 puntos y en tu primer lanzamiento aciertas un 15, en el segundo también aciertas un 15 y en el tercer lanzamiento aciertas un doble 15. El hit count del tercer lanzamiento se limita a uno, lo que da un total de tres aciertos en la ronda."
 
 msgctxt "9540_Bartender"
-msgid "Note that if the score gap is 199 or less, points exceeding 200 are awarded, and the hit count is also valid.\r\n"
-"Example: You are winning by 199 points, and you hit triple 20. Your hit count is three, and you get 60 points, raising your point total to 259."
-msgstr "Ten en cuenta que si la diferencia de puntaje es de 199 o menos, los puntos que excedan los 200 se otorgarán, y el conteo de aciertos también será válido.\r\n"
-"Ejemplo: Estás ganando por 199 puntos y aciertas un triple 20. Tu conteo de aciertos es tres y obtienes 60 puntos, lo que eleva tu total de puntos a 259."
+msgid "Note that if the score gap is 199 or less, points exceeding 200 are awarded, and the hit count is also valid.\\r\n"\n"Example: You are winning by 199 points, and you hit triple 20. Your hit count is three, and you get 60 points, raising your point total to 259."
+msgstr "Ten en cuenta que si la diferencia de puntaje es de 199 o menos, los puntos que excedan los 200 se otorgarán, y el conteo de aciertos también será válido.\\r\n"\n"Ejemplo: Estás ganando por 199 puntos y aciertas un triple 20. Tu conteo de aciertos es tres y obtienes 60 puntos, lo que eleva tu total de puntos a 259."
 
 msgctxt "9552_Bartender"
 msgid "This game is exclusive to Yakuza 4. See how many bull's-eyes－inner or outer－you can hit in a row. "
 msgstr "Este minijuego es exclusivo de Yakuza 4. Consiste en ver cuántas veces seguidas puedes acertar en la diana, ya sea en el bullseye interno o el externo. "
 
 msgctxt "9564_Bartender"
-msgid "If you reach a new personal high score, you can upload that score to the online ranking. \r\n"
-"*If your score is too low for the ranking, you will not be able to upload it to the online ranking."
-msgstr "Si logras un nuevo récord personal, podrás subir tu puntuación al ranking en línea. \r\n"
-"*Si tu puntuación es demasiado baja para aparecer en el ranking, no podrás subirla."
+msgid "If you reach a new personal high score, you can upload that score to the online ranking. \\r\n"\n"*If your score is too low for the ranking, you will not be able to upload it to the online ranking."
+msgstr "Si logras un nuevo récord personal, podrás subir tu puntuación al ranking en línea. \\r\n"\n"*Si tu puntuación es demasiado baja para aparecer en el ranking, no podrás subirla."
 
 msgctxt "9576_Bartender"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"

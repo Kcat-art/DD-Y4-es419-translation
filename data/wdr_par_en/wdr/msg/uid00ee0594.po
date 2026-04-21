@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-419\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee0594.po\n"
 "X-Crowdin-File-ID: 60474\n"
-"PO-Revision-Date: 2026-04-20 02:51\n"
+"PO-Revision-Date: 2026-04-20 23:28\n"
 
 msgctxt "164"
 msgid "You gained 500 EXP."
@@ -58,12 +58,8 @@ msgid "There's also a rumor that some homeless people have made the underground 
 msgstr "También hay rumores acerca de gente sin hogar, que ha terminado viviendo en el subterráneo. Quizás descubras más acerca de esto conforme continúes explorando la zona."
 
 msgctxt "128_Wise Homeless Man"
-msgid "This information has been added as a <Color:14>memo<Color:Default>.\r\n"
-"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
-"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\r\n"
-"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\r\n"
-"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\n"\n"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\n"\n"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\n"\n"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"\n"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 msgctxt "140_Wise Homeless Man"
 msgid "You'd be surprised just how deep the underground goes..."

@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-419\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e60459.po\n"
 "X-Crowdin-File-ID: 62056\n"
-"PO-Revision-Date: 2026-04-20 02:51\n"
+"PO-Revision-Date: 2026-04-20 23:28\n"
 
 msgctxt "404"
 msgid "You got a <Color:8>Seal of the Dragon<Color:Default>."
@@ -122,10 +122,8 @@ msgid "Because it has the words of both your real father and your foster father.
 msgstr "Porque contiene las palabras tanto de tu padre biológico como de tu padre adoptivo."
 
 msgctxt "284_Tanimura"
-msgid "Right. It tells the story of two brave men who gave their\r\n"
-"lives to fight against a giant crime syndicate..."
-msgstr "Así es. Cuenta la historia de dos hombres valientes que dieron\r\n"
-"sus vidas luchando contra un enorme sindicato del crimen..."
+msgid "Right. It tells the story of two brave men who gave their\\r\n"\n"lives to fight against a giant crime syndicate..."
+msgstr "Así es. Cuenta la historia de dos hombres valientes que dieron\\r\n"\n"sus vidas luchando contra un enorme sindicato del crimen..."
 
 msgctxt "356_Tanimura"
 msgid "Well, I guess I'll see you around."

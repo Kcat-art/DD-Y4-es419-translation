@@ -15,5 +15,3 @@
 | Entradas revisadas | **0/81372** |
 | % de traducción | **0,02%** |
 | % de revisión | **0,00%** |
-
-> Estas insignias pueden colocarse una sola vez en el README del repositorio y seguirán actualizándose automáticamente mientras este archivo JSON se regenere con cada subida.

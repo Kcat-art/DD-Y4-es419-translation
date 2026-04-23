@@ -12,7 +12,7 @@ MSGSTR_RE = re.compile(r'^msgstr\s+"(.*)"\s*$', re.MULTILINE)
 
 
 def format_pct(value: float) -> str:
-    return f"{value:.2f}".replace('.', ',')
+    return f"{value:.2f}".replace(".", ",")
 
 
 def badge_color(pct: float) -> str:
@@ -26,10 +26,12 @@ def badge_color(pct: float) -> str:
         return "orange"
     return "red"
 
+
 def combined_progress_pct(translated: int, reviewed: int, total: int) -> float:
     if total <= 0:
         return 0.0
     return ((translated + reviewed) * 100.0) / (2.0 * total)
+
 
 def iter_entries(text: str):
     blocks = text.split("\n\n")
@@ -39,7 +41,7 @@ def iter_entries(text: str):
         lines = block.splitlines()
         if any(line.startswith('msgid ""') for line in lines[:4]):
             continue
-        if 'msgid ' not in block or 'msgstr ' not in block:
+        if "msgid " not in block or "msgstr " not in block:
             continue
         yield block
 
@@ -77,6 +79,8 @@ def classify_area(repo_relative: str) -> str | None:
 def build_readme_progress_md(summary: dict, areas: dict) -> str:
     lines = []
     lines.append("## Progreso del proyecto")
+    lines.append("")
+    lines.append(f"**Progreso global:** {format_pct(summary['pct_global'])}%")
     lines.append("")
     lines.append(
         f"**Traducción global:** {summary['entries_translated']}/{summary['entries_total']} "
@@ -187,6 +191,7 @@ def main():
         "entries_reviewed": entries_reviewed,
         "pct_translated": round(pct_translated, 2),
         "pct_reviewed": round(pct_reviewed, 2),
+        "pct_global": round(pct_global, 2),
         "areas": areas_out,
     }
 
@@ -203,6 +208,7 @@ def main():
         "message": f"{format_pct(pct_translated)}%",
         "color": badge_color(pct_translated),
     }
+
     review_badge = {
         "schemaVersion": 1,
         "label": "revisión",
@@ -210,12 +216,25 @@ def main():
         "color": badge_color(pct_reviewed),
     }
 
+    global_badge = {
+        "schemaVersion": 1,
+        "label": "progreso global",
+        "message": f"{format_pct(pct_global)}%",
+        "color": badge_color(pct_global),
+    }
+
     (OUT_DIR / "translation_badge.json").write_text(
         json.dumps(translation_badge, indent=2, ensure_ascii=False) + "\n",
         encoding="utf-8"
     )
+
     (OUT_DIR / "review_badge.json").write_text(
         json.dumps(review_badge, indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8"
+    )
+
+    (OUT_DIR / "global_badge.json").write_text(
+        json.dumps(global_badge, indent=2, ensure_ascii=False) + "\n",
         encoding="utf-8"
     )
 

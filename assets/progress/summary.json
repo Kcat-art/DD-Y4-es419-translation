@@ -7,6 +7,7 @@
   "entries_reviewed": 0,
   "pct_translated": 0.34,
   "pct_reviewed": 0.0,
+  "pct_global": round(pct_global, 2),
   "areas": {
     "Cinemáticas": {
       "files_total": 7,

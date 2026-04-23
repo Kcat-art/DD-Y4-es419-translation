@@ -92,6 +92,9 @@ jobs:
           echo "--- summary.json ---"
           cat assets/progress/summary.json || true
           echo
+          echo "--- global_badge.json ---"
+          cat assets/progress/global_badge.json || true
+          echo
           echo "--- translation_badge.json ---"
           cat assets/progress/translation_badge.json || true
           echo

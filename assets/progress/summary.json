@@ -1,10 +1,32 @@
 {
-  "files_total": 2418,
-  "files_translated": 0,
+  "files_total": 2425,
+  "files_translated": 2,
   "files_reviewed": 0,
-  "entries_total": 81372,
-  "entries_translated": 53,
+  "entries_total": 81688,
+  "entries_translated": 281,
   "entries_reviewed": 0,
-  "translation_percent": "0,07%",
-  "review_percent": "0,00%"
+  "pct_translated": 0.34,
+  "pct_reviewed": 0.0,
+  "areas": {
+    "Cinemáticas": {
+      "files_total": 7,
+      "files_translated": 2,
+      "files_reviewed": 0,
+      "total": 316,
+      "translated": 228,
+      "reviewed": 0,
+      "pct_translated": 72.15,
+      "pct_reviewed": 0.0
+    },
+    "Diálogos": {
+      "files_total": 2418,
+      "files_translated": 0,
+      "files_reviewed": 0,
+      "total": 81372,
+      "translated": 53,
+      "reviewed": 0,
+      "pct_translated": 0.07,
+      "pct_reviewed": 0.0
+    }
+  }
 }

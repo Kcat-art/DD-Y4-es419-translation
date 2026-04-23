@@ -1,101 +1,108 @@
-from __future__ import annotations
-
-import json
 from pathlib import Path
-from typing import Dict, List
+import json
+import re
+from collections import defaultdict
 
 ROOT = Path(__file__).resolve().parents[2]
-PO_ROOT = ROOT / "data" / "wdr_par_en" / "wdr" / "msg"
 OUT_DIR = ROOT / "assets" / "progress"
+OUT_DIR.mkdir(parents=True, exist_ok=True)
+
+STATUS_RE = re.compile(r'^#\.\s+lineStatus:\s*(.+)$', re.MULTILINE)
+MSGSTR_RE = re.compile(r'^msgstr\s+"(.*)"\s*$', re.MULTILINE)
 
 
-def decode_po_string(token: str) -> str:
-    token = token.strip()
-    if not token.startswith('"'):
-        return ""
-    try:
-        return json.loads(token)
-    except Exception:
-        return token.strip('"')
-
-
-def parse_po_entries(path: Path) -> List[Dict[str, str]]:
-    entries: List[Dict[str, str]] = []
-    current = {"msgid": None, "msgstr": "", "status": "todo"}
-    active_field = None
-
-    def flush() -> None:
-        nonlocal current, active_field
-        if current["msgid"] is None:
-            active_field = None
-            return
-        if current["msgid"] == "":
-            current = {"msgid": None, "msgstr": "", "status": "todo"}
-            active_field = None
-            return
-        entries.append({
-            "msgid": current["msgid"],
-            "msgstr": current["msgstr"],
-            "status": current["status"],
-        })
-        current = {"msgid": None, "msgstr": "", "status": "todo"}
-        active_field = None
-
-    for raw_line in path.read_text(encoding="utf-8", errors="replace").splitlines():
-        line = raw_line.rstrip("\n")
-        stripped = line.strip()
-
-        if stripped.startswith("#. y4:status="):
-            current["status"] = stripped.split("=", 1)[1].strip() or "todo"
-            continue
-
-        if stripped.startswith("msgid "):
-            if current["msgid"] is not None:
-                flush()
-            current["msgid"] = decode_po_string(stripped[6:])
-            active_field = "msgid"
-            continue
-
-        if stripped.startswith("msgstr "):
-            current["msgstr"] = decode_po_string(stripped[7:])
-            active_field = "msgstr"
-            continue
-
-        if stripped.startswith('"'):
-            value = decode_po_string(stripped)
-            if active_field == "msgid" and current["msgid"] is not None:
-                current["msgid"] += value
-            elif active_field == "msgstr":
-                current["msgstr"] += value
-            continue
-
-        if not stripped:
-            flush()
-
-    flush()
-    return entries
-
-
-def percent_string(done: int, total: int) -> str:
-    pct = (100.0 * done / total) if total else 0.0
-    return f"{pct:.2f}".replace(".", ",") + "%"
+def format_pct(value: float) -> str:
+    return f"{value:.2f}".replace('.', ',')
 
 
 def badge_color(pct: float) -> str:
-    if pct >= 100.0:
+    if pct >= 99.99:
         return "brightgreen"
     if pct >= 75.0:
         return "green"
     if pct >= 50.0:
-        return "yellowgreen"
-    if pct >= 25.0:
         return "yellow"
-    if pct > 0.0:
+    if pct >= 25.0:
         return "orange"
     return "red"
 
 
-def main() -> None:
+def iter_entries(text: str):
+    blocks = text.split("\n\n")
+    for block in blocks:
+        if not block.strip():
+            continue
+        lines = block.splitlines()
+        if any(line.startswith('msgid ""') for line in lines[:4]):
+            continue
+        if 'msgid ' not in block or 'msgstr ' not in block:
+            continue
+        yield block
+
+
+def parse_po(path: Path):
+    text = path.read_text(encoding="utf-8", errors="replace")
+    total = translated = reviewed = 0
+
+    for block in iter_entries(text):
+        total += 1
+
+        msgstr_match = MSGSTR_RE.search(block)
+        if msgstr_match and msgstr_match.group(1) != "":
+            translated += 1
+
+        statuses = STATUS_RE.findall(block)
+        if statuses and statuses[-1].strip().lower() == "reviewed":
+            reviewed += 1
+
+    return total, translated, reviewed
+
+
+def classify_area(repo_relative: str) -> str | None:
+    p = repo_relative.replace("\\", "/").lower()
+
+    if p.startswith("data/auth/subtitle/"):
+        return "Cinemáticas"
+
+    if "/msg/" in p:
+        return "Diálogos"
+
+    return None
+
+
+def build_readme_progress_md(summary: dict, areas: dict) -> str:
+    lines = []
+    lines.append("## Progreso del proyecto")
+    lines.append("")
+    lines.append(
+        f"**Traducción global:** {summary['entries_translated']}/{summary['entries_total']} "
+        f"({format_pct(summary['pct_translated'])}%)  "
+    )
+    lines.append(
+        f"**Revisión global:** {summary['entries_reviewed']}/{summary['entries_total']} "
+        f"({format_pct(summary['pct_reviewed'])}%)"
+    )
+    lines.append("")
+    lines.append("| Área | Traducción | Revisión |")
+    lines.append("|---|---:|---:|")
+
+    order = ["Diálogos", "Cinemáticas"]
+    for area_name in order:
+        if area_name not in areas:
+            continue
+        data = areas[area_name]
+        lines.append(
+            f"| {area_name} | "
+            f"{data['translated']}/{data['total']} ({format_pct(data['pct_translated'])}%) | "
+            f"{data['reviewed']}/{data['total']} ({format_pct(data['pct_reviewed'])}%) |"
+        )
+
+    return "\n".join(lines) + "\n"
+
+
+def main():
+    print("[1/5] Buscando archivos .po...", flush=True)
+
     files_total = 0
     files_translated = 0
     files_reviewed = 0
@@ -103,35 +110,68 @@ def main() -> None:
     entries_translated = 0
     entries_reviewed = 0
 
-    for po_path in sorted(PO_ROOT.rglob("*.po")):
-        entries = parse_po_entries(po_path)
+    areas = defaultdict(lambda: {
+        "files_total": 0,
+        "files_translated": 0,
+        "files_reviewed": 0,
+        "total": 0,
+        "translated": 0,
+        "reviewed": 0,
+    })
+
+    po_files = []
+    for po in ROOT.rglob("*.po"):
+        posix = po.as_posix()
+        if "/.git/" in posix or "/cache/" in posix or "/backups/" in posix:
+            continue
+        po_files.append(po)
+
+    print(f"[2/5] Encontrados: {len(po_files)}", flush=True)
+    print("[3/5] Calculando progreso global y por categoría...", flush=True)
+
+    for po in po_files:
+        total, translated, reviewed = parse_po(po)
+        repo_relative = po.relative_to(ROOT).as_posix()
+
         files_total += 1
-        file_total = len(entries)
-        file_translated = 0
-        file_reviewed = 0
+        entries_total += total
+        entries_translated += translated
+        entries_reviewed += reviewed
 
-        for entry in entries:
-            entries_total += 1
-            translated = bool(entry["msgstr"].strip())
-            reviewed = entry["status"].strip().lower() == "reviewed"
-            if translated:
-                entries_translated += 1
-                file_translated += 1
-            if reviewed:
-                entries_reviewed += 1
-                file_reviewed += 1
-
-        if file_total > 0 and file_translated == file_total:
-            files_translated += 1
-        if file_total > 0 and file_reviewed == file_total:
+        if total > 0 and reviewed == total:
             files_reviewed += 1
+        elif total > 0 and translated == total:
+            files_translated += 1
 
-    translation_pct_value = (100.0 * entries_translated / entries_total) if entries_total else 0.0
-    review_pct_value = (100.0 * entries_reviewed / entries_total) if entries_total else 0.0
-    translation_pct = percent_string(entries_translated, entries_total)
-    review_pct = percent_string(entries_reviewed, entries_total)
+        area = classify_area(repo_relative)
+        if area:
+            areas[area]["files_total"] += 1
+            areas[area]["total"] += total
+            areas[area]["translated"] += translated
+            areas[area]["reviewed"] += reviewed
 
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
+            if total > 0 and reviewed == total:
+                areas[area]["files_reviewed"] += 1
+            elif total > 0 and translated == total:
+                areas[area]["files_translated"] += 1
+
+    pct_translated = (entries_translated * 100.0 / entries_total) if entries_total else 0.0
+    pct_reviewed = (entries_reviewed * 100.0 / entries_total) if entries_total else 0.0
+
+    areas_out = {}
+    for area_name, data in areas.items():
+        pct_area_translated = (data["translated"] * 100.0 / data["total"]) if data["total"] else 0.0
+        pct_area_reviewed = (data["reviewed"] * 100.0 / data["total"]) if data["total"] else 0.0
+        areas_out[area_name] = {
+            "files_total": data["files_total"],
+            "files_translated": data["files_translated"],
+            "files_reviewed": data["files_reviewed"],
+            "total": data["total"],
+            "translated": data["translated"],
+            "reviewed": data["reviewed"],
+            "pct_translated": round(pct_area_translated, 2),
+            "pct_reviewed": round(pct_area_reviewed, 2),
+        }
 
     summary = {
         "files_total": files_total,
@@ -140,27 +180,45 @@ def main() -> None:
         "entries_total": entries_total,
         "entries_translated": entries_translated,
         "entries_reviewed": entries_reviewed,
-        "translation_percent": translation_pct,
-        "review_percent": review_pct,
+        "pct_translated": round(pct_translated, 2),
+        "pct_reviewed": round(pct_reviewed, 2),
+        "areas": areas_out,
     }
+
+    print("[4/5] Escribiendo assets/progress/...", flush=True)
+
+    (OUT_DIR / "summary.json").write_text(
+        json.dumps(summary, indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8"
+    )
 
     translation_badge = {
         "schemaVersion": 1,
         "label": "traducción",
-        "message": translation_pct,
-        "color": badge_color(translation_pct_value),
+        "message": f"{format_pct(pct_translated)}%",
+        "color": badge_color(pct_translated),
     }
-
     review_badge = {
         "schemaVersion": 1,
         "label": "revisión",
-        "message": review_pct,
-        "color": badge_color(review_pct_value),
+        "message": f"{format_pct(pct_reviewed)}%",
+        "color": badge_color(pct_reviewed),
     }
 
-    (OUT_DIR / "summary.json").write_text(json.dumps(summary, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    (OUT_DIR / "translation_badge.json").write_text(json.dumps(translation_badge, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    (OUT_DIR / "review_badge.json").write_text(json.dumps(review_badge, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    (OUT_DIR / "translation_badge.json").write_text(
+        json.dumps(translation_badge, indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8"
+    )
+    (OUT_DIR / "review_badge.json").write_text(
+        json.dumps(review_badge, indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8"
+    )
+
+    readme_progress = build_readme_progress_md(summary, areas_out)
+    (OUT_DIR / "readme_progress.md").write_text(readme_progress, encoding="utf-8")
+
+    print("[5/5] Progreso generado correctamente.", flush=True)
+    print(json.dumps(summary, indent=2, ensure_ascii=False), flush=True)
 
 
 if __name__ == "__main__":

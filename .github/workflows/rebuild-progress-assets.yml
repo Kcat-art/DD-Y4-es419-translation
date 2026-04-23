@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'data/**/*.po'
+      - 'README.md'
       - '.github/workflows/rebuild-progress-assets.yml'
       - 'tools/progress/build_progress_assets.py'
   workflow_dispatch:
@@ -50,6 +51,38 @@ jobs:
           python -u tools/progress/build_progress_assets.py 2>&1 | tee workflow_logs/progress_build.log
           echo "::endgroup::"
 
+      - name: Update README progress section
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          readme_path = Path("README.md")
+          progress_path = Path("assets/progress/readme_progress.md")
+
+          if not readme_path.exists():
+              raise SystemExit("README.md no existe")
+          if not progress_path.exists():
+              raise SystemExit("assets/progress/readme_progress.md no existe")
+
+          readme = readme_path.read_text(encoding="utf-8")
+          progress = progress_path.read_text(encoding="utf-8").strip()
+
+          start = "<!-- PROGRESS_SECTION_START -->"
+          end = "<!-- PROGRESS_SECTION_END -->"
+
+          start_idx = readme.find(start)
+          end_idx = readme.find(end)
+
+          if start_idx == -1 or end_idx == -1 or end_idx < start_idx:
+              raise SystemExit("No se encontraron los marcadores del README")
+
+          new_block = f"{start}\n{progress}\n{end}"
+          updated = readme[:start_idx] + new_block + readme[end_idx + len(end):]
+
+          readme_path.write_text(updated, encoding="utf-8")
+          PY
+
       - name: Show generated files
         shell: bash
         run: |
@@ -64,15 +97,19 @@ jobs:
           echo
           echo "--- review_badge.json ---"
           cat assets/progress/review_badge.json || true
+          echo
+          echo "--- readme_progress.md ---"
+          cat assets/progress/readme_progress.md || true
           echo "::endgroup::"
 
       - name: Upload workflow logs and outputs
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-artifact@v4
         with:
           name: progress-run-${{ github.run_number }}
           path: |
             workflow_logs/
             assets/progress/
+            README.md
           if-no-files-found: error
 
       - name: Commit generated assets
@@ -81,7 +118,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add assets/progress
+          git add assets/progress README.md
 
           if git diff --cached --quiet; then
             echo "No changes to commit."

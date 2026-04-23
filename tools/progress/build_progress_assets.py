@@ -26,6 +26,10 @@ def badge_color(pct: float) -> str:
         return "orange"
     return "red"
 
+def combined_progress_pct(translated: int, reviewed: int, total: int) -> float:
+    if total <= 0:
+        return 0.0
+    return ((translated + reviewed) * 100.0) / (2.0 * total)
 
 def iter_entries(text: str):
     blocks = text.split("\n\n")
@@ -157,6 +161,7 @@ def main():
 
     pct_translated = (entries_translated * 100.0 / entries_total) if entries_total else 0.0
     pct_reviewed = (entries_reviewed * 100.0 / entries_total) if entries_total else 0.0
+    pct_global = combined_progress_pct(entries_translated, entries_reviewed, entries_total)
 
     areas_out = {}
     for area_name, data in areas.items():

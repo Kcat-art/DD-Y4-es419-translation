@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'data/wdr_par_en/wdr/msg/**/*.po'
+      - 'data/**/*.po'
       - '.github/workflows/rebuild-progress-assets.yml'
       - 'tools/progress/build_progress_assets.py'
   workflow_dispatch:
@@ -12,37 +12,81 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: repo-progress-assets
-  cancel-in-progress: true
-
 jobs:
-  rebuild-progress-assets:
+  rebuild-progress:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Show basic context
+        run: |
+          echo "Repo: $GITHUB_REPOSITORY"
+          echo "Ref:  $GITHUB_REF"
+          echo "SHA:  $GITHUB_SHA"
+          echo "Actor:$GITHUB_ACTOR"
+          echo "Workspace: $GITHUB_WORKSPACE"
+
+      - name: Show changed PO files
+        run: |
+          echo "::group::Changed files"
+          git diff --name-only HEAD~1 HEAD || true
+          echo "::endgroup::"
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Rebuild progress assets
-        run: python tools/progress/build_progress_assets.py
-
-      - name: Commit updated assets
+      - name: Run progress builder
         shell: bash
         run: |
-          if git diff --quiet -- assets/progress; then
-            echo "No progress asset changes detected."
+          mkdir -p assets/progress
+          mkdir -p workflow_logs
+          echo "::group::Generate progress assets"
+          python -u tools/progress/build_progress_assets.py 2>&1 | tee workflow_logs/progress_build.log
+          echo "::endgroup::"
+
+      - name: Show generated files
+        shell: bash
+        run: |
+          echo "::group::Generated files"
+          ls -lah assets/progress || true
+          echo
+          echo "--- summary.json ---"
+          cat assets/progress/summary.json || true
+          echo
+          echo "--- translation_badge.json ---"
+          cat assets/progress/translation_badge.json || true
+          echo
+          echo "--- review_badge.json ---"
+          cat assets/progress/review_badge.json || true
+          echo "::endgroup::"
+
+      - name: Upload workflow logs and outputs
+        uses: actions/upload-artifact@v7
+        with:
+          name: progress-run-${{ github.run_number }}
+          path: |
+            workflow_logs/
+            assets/progress/
+          if-no-files-found: error
+
+      - name: Commit generated assets
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/progress
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/progress
           git commit -m "Update progress assets"
           git push

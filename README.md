@@ -265,7 +265,7 @@ Proyecto de traducción realizado por **Dragones de Dojima**.
 
 ## Coordinador del proyecto
 
-- Karu
+- [Karu](https://github.com/KaruCentral)
 
 ## Romhacking
 

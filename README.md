@@ -280,7 +280,7 @@ Proyecto de traducción realizado por **Dragones de Dojima**.
 
 - KeyBlueG
 - sasha malvada
-- dani64amv
+- [dani64amv](https://github.com/dani65amv)
 
 ## Traductores
 

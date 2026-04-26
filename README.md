@@ -270,7 +270,7 @@ Proyecto de traducción realizado por **Dragones de Dojima**.
 ## Romhacking
 
 - Brazil Alliance
-- Kcat0
+- [Kcat0](https://github.com/Kcat-art)
 
 ## Edición gráfica
 

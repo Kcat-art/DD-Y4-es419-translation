@@ -1,214 +1,179 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: y4-msg-translator\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es_419\n"
+"Language-Team: es-419\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: unknown-project\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: unknown-project\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: es-419\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee00b1.po\n"
+"X-Crowdin-File-ID: 58690\n"
+"PO-Revision-Date: 2026-04-25 23:54\n"
 
-#. y4:file_status=untranslated
-#. y4:last_translator=Keiner
-
-#. y4:line_status=todo
 msgctxt "284"
 msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
-msgstr ""
+msgstr "Has obtenido el <Color:8>collar de Haruka<Color:Default>."
 
-#. y4:line_status=todo
 msgctxt "344"
 msgid "Haruka will now occasionally predict the outcome of a round when you are playing cho-han."
-msgstr ""
+msgstr "Haruka ahora predecirá ocasionalmente el resultado de una ronda cuando estés jugando cho-han."
 
-#. y4:line_status=todo
 msgctxt "392"
 msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
-msgstr ""
+msgstr "Has obtenido el <Color:8>almuerzo de Haruka<Color:Default>."
 
-#. y4:line_status=todo
 msgctxt "452"
 msgid "You got <Color:8>Haruka's First-aid Kit<Color:Default>."
-msgstr ""
+msgstr "Has obtenido el <Color:8>botiquín de Haruka<Color:Default>."
 
-#. y4:line_status=todo
 msgctxt "512"
 msgid "You got a <Color:8>Red Jewel<Color:Default>."
-msgstr ""
+msgstr "Obtuviste una <Color:8>Joya Roja<Color:Default>."
 
-#. y4:line_status=todo
 msgctxt "572"
 msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
-msgstr ""
+msgstr "Has obtenido el <Color:8>amuleto de Haruka<Color:Default>."
 
-#. y4:line_status=todo
 msgctxt "632"
 msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
-msgstr ""
+msgstr "Has obtenido el <Color:8>chocolate de Haruka<Color:Default>."
 
-#. y4:line_status=todo
 msgctxt "692"
 msgid "You got <Color:8>Haruka's Candy<Color:Default>."
-msgstr ""
+msgstr "Has obtenido el <Color:8>dulce de Haruka<Color:Default>."
 
-#. y4:line_status=todo
 msgctxt "788"
 msgid "The manager of Poppo Tenkaichi Street is now your ally."
-msgstr ""
+msgstr "El gerente del Poppo de la Calle Tenkaichi ahora es tu aliado."
 
-#. y4:line_status=todo
 msgctxt "8892"
 msgid "Manager"
-msgstr ""
+msgstr "Gerente"
 
-#. y4:line_status=todo
 msgctxt "8896"
 msgid "Talk_Ojigi"
-msgstr ""
+msgstr "Talk_Ojigi"
 
-#. y4:line_status=todo
 msgctxt "8900"
 msgid "Haruka"
-msgstr ""
+msgstr "Haruka"
 
-#. y4:line_status=todo
 msgctxt "8904"
 msgid "HAL_stand_tlk_happy_small"
-msgstr ""
+msgstr "HAL_stand_tlk_happy_small"
 
-#. y4:line_status=todo
 msgctxt "8908"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
-#. y4:line_status=todo
 msgctxt "8912"
 msgid "HAL_stand_tlk_unhappy_small"
-msgstr ""
+msgstr "HAL_stand_tlk_unhappy_small"
 
-#. y4:line_status=translated
-#. y4:translated_by=Keiner
 msgctxt "104_Manager"
 msgid "Welcome."
-msgstr "B"
+msgstr "Bienvenido."
 
-#. y4:line_status=todo
 msgctxt "116_Haruka"
 msgid "Uncle Kaz! Will you buy me a <Color:8>Tauriner<Color:Default>?"
-msgstr ""
+msgstr "¡Tío Kaz! ¿Me compras un <Color:8>Tauriner<Color:Default>?"
 
-#. y4:line_status=todo
 msgctxt "128_Kiryu"
 msgid "(Haruka wants a <Color:8>Tauriner<Color:Default>...)"
-msgstr ""
+msgstr "(Haruka quiere un <Color:8>Tauriner<Color:Default>...)."
 
-#. y4:line_status=todo
 msgctxt "152_Haruka"
 msgid "Aww, I wanted a <Color:8>Tauriner<Color:Default>..."
-msgstr ""
+msgstr "Ay, quería un <Color:8>Tauriner<Color:Default>..."
 
-#. y4:line_status=todo
 msgctxt "164_Manager"
 msgid "Thank you very much."
-msgstr ""
+msgstr "Muchas gracias."
 
-#. y4:line_status=todo
 msgctxt "188_Haruka"
 msgid "Thanks, Uncle Kaz!"
-msgstr ""
+msgstr "¡Gracias, tío Kaz!"
 
-#. y4:line_status=todo
 msgctxt "200_Kiryu"
 msgid "(Haruka sure is happy...)"
-msgstr ""
+msgstr "(Haruka parece feliz...)."
 
-#. y4:line_status=todo
 msgctxt "272_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
-#. y4:line_status=todo
 msgctxt "332_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I wanna come to play cho-han with you next time, okay?"
-msgstr ""
+msgstr "¡Muchas gracias, tío Kaz! Quiero ir contigo a jugar al cho-han la próxima vez, ¿vale?"
 
-#. y4:line_status=todo
 msgctxt "380_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
-#. y4:line_status=todo
 msgctxt "440_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
-#. y4:line_status=todo
 msgctxt "500_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
-#. y4:line_status=todo
 msgctxt "560_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
-#. y4:line_status=todo
 msgctxt "620_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
-#. y4:line_status=todo
 msgctxt "680_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
-#. y4:line_status=todo
 msgctxt "740_Manager"
 msgid "Thank you very much. You're Akiyama-san, right? We really appreciate your frequent visits to our store."
-msgstr ""
+msgstr "Muchas gracias. Usted es Akiyama-san, ¿verdad? De verdad apreciamos mucho que visite nuestra tienda tan seguido."
 
-#. y4:line_status=todo
 msgctxt "752_Manager"
 msgid "You may not remember, but you've actually helped me out in the past."
-msgstr ""
+msgstr "Quizá no lo recuerde, pero en el pasado usted me ayudó."
 
-#. y4:line_status=todo
 msgctxt "764_Manager"
 msgid "I was able to turn over a new leaf because of the money that you lent me. Thanks to you, I'm the manager of this store now."
-msgstr ""
+msgstr "Pude rehacer mi vida gracias al dinero que me prestaste. Ahora, gracias a ti, soy el gerente de esta tienda."
 
-#. y4:line_status=todo
 msgctxt "776_Manager"
 msgid "Now it's my turn to pay you back. I'll be there for you if you ever get caught in a fight nearby!"
-msgstr ""
+msgstr "Ahora me toca a mí devolverle el favor. ¡Si alguna vez se mete en una pelea por aquí cerca, puede contar conmigo!"
 
-#. y4:line_status=translated
-#. y4:translated_by=Keiner
 msgctxt "800_Manager"
 msgid "Welcome."
 msgstr "Bienvenido."
 
-#. y4:line_status=todo
 msgctxt "824_Manager"
 msgid "Thank you, sir. Please come again soon."
-msgstr ""
+msgstr "Gracias, señor. Por favor, vuelva pronto."
 
-#. y4:line_status=todo
 msgctxt "836_Manager"
 msgid "Thank you very much."
-msgstr ""
+msgstr "Muchas gracias."
 
-#. y4:line_status=translated
-#. y4:translated_by=Keiner
 msgctxt "848_Manager"
 msgid "Welcome."
 msgstr "Bienvenido."
 
-#. y4:line_status=todo
 msgctxt "872_Manager"
 msgid "Thank you, sir. Please come again soon."
-msgstr ""
+msgstr "Gracias, señor. Por favor, vuelva pronto."
 
-#. y4:line_status=todo
 msgctxt "884_Manager"
 msgid "Thank you very much."
-msgstr ""
+msgstr "Muchas gracias."
 

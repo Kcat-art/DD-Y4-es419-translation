@@ -1,11 +1,11 @@
 ## Progreso del proyecto
 
-**Progreso global:** 1,39%
+**Progreso global:** 28,09%
 
-**Traducción global:** 3016/108289 (2,79%)  
-**Revisión global:** 0/108289 (0,00%)
+**Traducción global:** 112439/200111 (56,19%)  
+**Revisión global:** 0/200111 (0,00%)
 
 | Área | Traducción | Revisión |
 |---|---:|---:|
-| Diálogos | 53/81372 (0,07%) | 0/81372 (0,00%) |
-| Cinemáticas | 2960/3050 (97,05%) | 0/3050 (0,00%) |
+| Diálogos | 81425/162744 (50,03%) | 0/162744 (0,00%) |
+| Cinemáticas | 3159/3162 (99,91%) | 0/3162 (0,00%) |

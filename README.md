@@ -286,4 +286,4 @@ Proyecto de traducción realizado por **Dragones de Dojima**.
 
 - lauU
 - Brasi
-- Master
+- [Master](https://github.com/MastterCry)

@@ -284,6 +284,6 @@ Proyecto de traducción realizado por **Dragones de Dojima**.
 
 ## Traductores
 
-- lauU
+- [lauU](https://github.com/laupank)
 - Brasi
 - [Master](https://github.com/MastterCry)

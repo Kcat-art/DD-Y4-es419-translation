@@ -279,7 +279,7 @@ Proyecto de traducción realizado por **Dragones de Dojima**.
 ## Revisores
 
 - KeyBlueG
-- sasha malvada
+- [sasha malvada](https://github.com/sashasssas)
 - [dani64amv](https://github.com/dani65amv)
 
 ## Traductores

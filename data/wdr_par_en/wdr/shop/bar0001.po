@@ -1,236 +1,293 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/shop/bar0001.po\n"
-"X-Crowdin-File-ID: 57664\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_translator=sasha
+#. y4:last_reviewer=sasha
+
+#. y4:line_status=translated
 msgctxt "920"
 msgid "Quit  "
 msgstr "Salir  "
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=sasha
 msgctxt "927"
 msgid "Cancel the order.  "
 msgstr "Cancelar el pedido.  "
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=sasha
 msgctxt "947"
 msgid "Order"
 msgstr "Pagar"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=sasha
+#. y4:reviewed_by=sasha
 msgctxt "953"
 msgid "Order the currently selected item.  "
-msgstr "Pedir el objeto actualmente seleccionado.  "
+msgstr "Pedir el artículo seleccionado."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=sasha
 msgctxt "990"
 msgid "(I haven't picked anything.)  "
 msgstr "(No he escogido nada)"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=sasha
 msgctxt "1021"
 msgid "(I'm short on cash.)  "
 msgstr "(Me hace falta dinero)"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=sasha
 msgctxt "1044"
 msgid "Thank you. That'll be %s."
 msgstr "Gracias. Eso sería %s."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=sasha
 msgctxt "1070"
 msgid "(I'd better not drink any more...)  "
 msgstr "(Creo que ya es suficiente...)  "
 
+#. y4:line_status=reviewed
+#. y4:translated_by=sasha
+#. y4:reviewed_by=sasha
 msgctxt "1135"
 msgid "A Yamazaki whisky made with carefully selected, mature malts for a flavorful, smooth finish."
-msgstr "Un whisky Yamazaki elaborado con maltas cuidadosamente seleccionadas y maduras, que ofrecen un sabor rico y un final suave."
+msgstr "Whisky Yamazaki elaborado con maltas cuidadosamente seleccionadas y maduradas, ofrece un final suave y sabroso."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=sasha
+#. y4:reviewed_by=sasha
 msgctxt "1228"
 msgid "This is one of Japan's top single malt whiskies. It's become such a status symbol that whisky aficionados the world over have heard of it."
-msgstr "Este es uno de los mejores whiskies de malta de Japón. Se ha convertido en un símbolo tan grande que los aficionados al whisky de todo el mundo han oído hablar de él."
+msgstr "Este es uno de los mejores whiskies de malta pura de Japón. Un símbolo de estatus reconocido por aficionados de todo el mundo."
 
+#. y4:line_status=translated
 msgctxt "1367"
 msgid "They use carefully selected, perfectly matured single malts to get that great, smooth flavor. It's popular overseas, too."
 msgstr "Utilizan pura malta cuidadosamente seleccionada y perfectamente madurada para obtener ese gran sabor suave. También es popular en el extranjero."
 
+#. y4:line_status=translated
 msgctxt "1489"
 msgid "A whisky made in the Southern Alps of Japan. Has a fruity flavor with smoky accents."
 msgstr "Un whisky elaborado en los Alpes del Sur de Japón. Tiene un sabor afrutado con acentos ahumados."
 
+#. y4:line_status=translated
 msgctxt "1574"
 msgid "This one's made at Suntory's Hakushu distillery in Japan's South Alps, an area famous for its mountain spring water."
 msgstr "Este whisky se elabora en la destilería Hakushu de Suntory, en los Alpes del Sur de Japón...una zona famosa por su agua de manantial de montaña."
 
+#. y4:line_status=translated
 msgctxt "1691"
 msgid "Its fruity, creamy flavor combined with a distinctly smoky accent makes for a superb drinking experience."
 msgstr "Su sabor afrutado y cremoso combinado con un distintivo punto ahumado crea una experienci increíble al beberlo."
 
+#. y4:line_status=translated
 msgctxt "1797"
 msgid "I recommend taking the first drink straight up, to fully appreciate its quality."
 msgstr "Recomiendo tomar el primer trago directamente, para apreciar completamente su calidad."
 
+#. y4:line_status=translated
 msgctxt "1878"
 msgid "One of Japan's premium brands, known internationally for its mellow flavor."
 msgstr "Una de las marcas prémium de Japón, conocida internacionalmente por su sabor suave."
 
+#. y4:line_status=translated
 msgctxt "1954"
 msgid "This is a premium Japanese whisky that has won over whisky lovers around the world."
 msgstr "Se trata de un whisky japonés premium que ha conquistado a los amantes del whisky de todo el mundo."
 
+#. y4:line_status=translated
 msgctxt "2038"
 msgid "This whisky starts with a single malt aged in Japanese Mizunara oak and then blended with over thirty different, painstakingly selected single malts."
 msgstr "Este whisky comienza con una malta única añejada en roble Mizunara japonés y luego se mezcla con más de treinta maltas únicas, seleccionadas meticulosamente."
 
+#. y4:line_status=translated
 msgctxt "2188"
 msgid "The mellow flavor produced by this process has earned it a gold prize in an international competition. The finish is particularly good."
 msgstr "El sabor suave producido por este proceso le ha valido un premio de oro en una competencia internacional. El acabado es especialmente bueno."
 
+#. y4:line_status=translated
 msgctxt "2324"
 msgid "A malt whisky good for experts and first-timers alike."
 msgstr "Un whisky de malta bueno tanto para expertos como para primerizos."
 
+#. y4:line_status=translated
 msgctxt "2379"
 msgid "The Hokuto is the result of extensive research into developing an easy to drink malt whisky. It really reins in whisky's powerful taste, making it good for first-timers."
 msgstr "El Hokuto es el resultado de una extensa investigación para desarrollar un whisky de malta fácil de beber. Realmente suaviza el poderoso sabor del whisky, lo que lo hace ideal para principiantes."
 
+#. y4:line_status=translated
 msgctxt "2549"
 msgid "I think people who usually drink shochu will enjoy this whisky. The bamboo charcoal filtration gives it a clean, pure taste."
-msgstr "Creo que la gente que beba shochu regularmente disfrutará este whisky.\n"
-"La filtración de carbón de bambú le da un sabor limpio y puro."
+msgstr "Creo que la gente que beba shochu regularmente disfrutará este whisky.\nLa filtración de carbón de bambú le da un sabor limpio y puro."
 
+#. y4:line_status=translated
 msgctxt "2674"
 msgid "It's especially good mixed with an equal part of water or soda on the rocks. "
 msgstr "Queda muy bien mezclado con una parte igual de agua o refresco con hielo. "
 
+#. y4:line_status=translated
 msgctxt "2752"
 msgid "The father of Japanese whisky, and possibly the most popular whisky in all of Japan."
 msgstr "El padre del whisky japonés, y posiblemente el whisky más popular de todo Japón."
 
+#. y4:line_status=translated
 msgctxt "2837"
 msgid "Kakubin is probably the most popular whisky in Japan, wouldn't you agree? Some call it the father of Japanese whisky.  "
 msgstr "Kakubin es probablemente el whisky mas popular en Japón, no estas de acuerdo? Algunos lo llaman el padre del whisky japonés.  "
 
+#. y4:line_status=translated
 msgctxt "2957"
 msgid "Its popularity shows no signs of waning, even after seventy years on the market. It has a sweet aroma, depth, and full body. "
 msgstr "Su popularidad no muestra signos de disminuir, aún después de setenta años en el mervado. Tiene un aroma dulce, profundo y mucho cuerpo. "
 
+#. y4:line_status=translated
 msgctxt "3083"
 msgid "The name Kakubin comes from its unique squared bottle shape."
 msgstr "El nombre \"Kakubin\" viene de su peculiar botella cuadrada."
 
+#. y4:line_status=translated
 msgctxt "3144"
 msgid "A carefully distilled spirit with a bright aroma and sweet fullness."
 msgstr "Un aguardiente cuidadosamente destilado, de aroma brillante y dulce plenitud."
 
+#. y4:line_status=translated
 msgctxt "3213"
 msgid "Another extremely popular Japanese whisky. Malt whisky aged in sherry barrels at the Yamazaki Distillery are blended with carefully selected malt and grain whiskies."
 msgstr "Otro whisky japonés extremadamente popular. El whisky de malta envejecido en barricas de jerez en la destilería Yamazaki se mezcla con whiskies de malta y grano cuidadosamente seleccionados."
 
+#. y4:line_status=translated
 msgctxt "3379"
 msgid "It has a bright aroma and delivers a sweet fullness in the mouth, and the finish is deep and mellow."
 msgstr "Tiene un aroma brillante y ofrece una dulzura plena en la boca, y el final es profundo y suave."
 
+#. y4:line_status=translated
 msgctxt "3480"
 msgid "A lot of people call it Daruma, because the round shape of its bottle looks like a Daruma doll. "
 msgstr "Mucha gente lo llama \"Daruma\" por la peculiar forma esférica de su botella, que parece un múñeco Daruma. "
 
+#. y4:line_status=translated
 msgctxt "3577"
 msgid "Standard Ballantine's scotch. Not too heavy, not too light, but just right."
 msgstr "Whisky Ballantine's escocés clásico. Ni muy fuerte, ni muy suave, lo justo."
 
+#. y4:line_status=translated
 msgctxt "3653"
 msgid "That's a standard scotch, made from a blend of over forty varieties of single malts. Not too heavy, not too light. It's got a great balance to it. "
 msgstr "Es un whisky escocés estándar, hecho de una mezcla de más de cuarenta variedades de malta única. No es demasiado fuerte, ni demasiado ligero. Tiene un gran equilibrio. "
 
+#. y4:line_status=translated
 msgctxt "3801"
 msgid "And the price isn't too high, either. I recommend it to casual scotch drinkers. It's also a nice intro to blended whisky, if you've never tried one before."
 msgstr "Y el precio tampoco es demasiado alto. Lo recomiendo para bebedores de whisky escocés ocasionales. También es una buena introducción al whisky mezclado, si nunca has probado uno antes."
 
+#. y4:line_status=translated
 msgctxt "3957"
 msgid "A silky bourbon with a sharp, clean finish."
 msgstr "Un sedoso whisky bourbon, con un acabado nítido y limpio."
 
+#. y4:line_status=translated
 msgctxt "4001"
 msgid "People have enjoyed this bourbon since the day it first came out in 1860. It's the quintessential bourbon. The flavor is very American.   "
 msgstr "La gente ha estad disfrutando de este bourbon desde el día que se vendió por primera vez en 1860. Es el bourbon por excelencia. Tiene un sabor muy americano.   "
 
+#. y4:line_status=translated
 msgctxt "4140"
 msgid "Silky and smooth on the tongue, with a clean finish. This whiskey's reasonable price also makes it a wonderful choice for a casual drink.  "
 msgstr "Sedoso y suave en la lengua, con un final agradable. El precio razonable de este whisky lo hace una elección genial para beber de forma casual.  "
 
+#. y4:line_status=translated
 msgctxt "4280"
 msgid "One of Japan's top brandies, famous for its fruity aroma and smooth flavor."
 msgstr "Uno de los mejores aguardientes de Japón, famoso por su aroma afrutado y sabor suave."
 
+#. y4:line_status=translated
 msgctxt "4356"
 msgid "That's one of Japan's premium brandies. This bestseller has won over countless people with its bright, fruity bouquet and smooth taste."
 msgstr "Esa es una de las brandies premium de Japón. Este bestseller ha conquistado a incontables personas con su brillante bouquet afrutado y su sabor suave."
 
+#. y4:line_status=translated
 msgctxt "4492"
 msgid "As for the name... V.S.O.P stands for Very Superior Old Pale. But you probably already knew that.  "
 msgstr "En cuanto al nombre... V.S.O.P significa Very Superior Old Pale. Pero probablemente ya lo sabías.  "
 
+#. y4:line_status=translated
 msgctxt "4592"
 msgid "A fruity brandy that's incredibly easy to drink."
 msgstr "Un aguardiente de frutas increíblemente fácil de beber."
 
+#. y4:line_status=translated
 msgctxt "4641"
 msgid "This is a well-priced brandy you can drink every day and still not get tired of. It's characterized by crisp fruit flavors that come from the freshest grapes."
 msgstr "Se trata de un brandy a buen precio que puedes beber todos los días y aún así no cansarte. Se caracteriza por sabores frutales frescos que provienen de las uvas más frescas."
 
+#. y4:line_status=translated
 msgctxt "4800"
 msgid "It has a crisp finish that makes it quite easy to drink. You can drink it straight or use it in all sorts of cocktails.  "
 msgstr "Tiene un final fresco que lo hace bastante fácil de beber. Puedes beberlo solo o utilizarlo en todo tipo de cócteles.  "
 
+#. y4:line_status=translated
 msgctxt "4922"
 msgid "A stellar shochu made with top-grade sweet potatoes from southern Kagoshima prefecture. Has a rounded body and a fruity fragrance."
 msgstr "Un shochu excepcional elaborado con batatas de primera calidad de la prefectura de Kagoshima, en el sur de Japón. Tiene un cuerpo redondeado y una fragancia afrutada."
 
+#. y4:line_status=translated
 msgctxt "5053"
 msgid "The Kuromaru is an exquisite blend of two types of shochu, one rich and strong and the other light and full of fruit aromas."
 msgstr "El Kuromaru es una exquisita mezcla de dos tipos de shochu, uno rico y fuerte, y el otro ligero y lleno de aromas afrutados."
 
+#. y4:line_status=translated
 msgctxt "5178"
 msgid "A unique variety of sweet potato from the Kagoshima region gives it a mild flavor and refreshing, clean finish."
 msgstr "Una variedad única de batata de la región de Kagoshima le da un sabor suave y un final refrescante y limpio."
 
+#. y4:line_status=translated
 msgctxt "5290"
 msgid "A premium Japanese beer made with only the finest malts."
 msgstr "Una cerveza japonesa de primera calidad elaborada únicamente con las mejores maltas."
 
+#. y4:line_status=translated
 msgctxt "5347"
 msgid "This beer won Japan's first gold award in an international competition and then defended the title for the next two years. It's a premium beer by Japanese and world standards."
-msgstr "Esta cerveza ganó el primer premio dorado japonés en una competición internacional, y ha defendido el título los dos siguientes años.\n"
-"Es una cerveza exclusiva para los estandares mundiales."
+msgstr "Esta cerveza ganó el primer premio dorado japonés en una competición internacional, y ha defendido el título los dos siguientes años.\nEs una cerveza exclusiva para los estandares mundiales."
 
+#. y4:line_status=translated
 msgctxt "5523"
 msgid "Unyielding commitment to quality ingredients and Suntory's years of brewing know-how produce a delicious, almost magical flavor. "
 msgstr "Un compromiso inquebrantable con ingredientes de calidad y los años de experiencia cervecera de Suntory producen un sabor delicioso, casi mágico. "
 
+#. y4:line_status=translated
 msgctxt "5653"
 msgid "A frosty glass of this beer while nibbling sashimi or enjoying a Blu-ray movie on your day off... Now that's what I call living."
 msgstr "Un vaso helado de esta cerveza mientras saboreas sashimi o disfrutas de una película en Blu-ray en tu día libre... Eso es lo que yo llamo vivir."
 
+#. y4:line_status=translated
 msgctxt "5782"
 msgid "A clean spring water soju made with premier Korean barley."
 msgstr "Un soju de agua de manantial puro hecho con la mejor cebada coreana."
 
+#. y4:line_status=translated
 msgctxt "5841"
 msgid "A prime example of Korean soju. A natural spring water base gives it a clean taste, while premium Korean barley gives it a mellow, rounded flavor."
 msgstr "Un excelente ejemplo de soju coreano. Una base de agua de manantial natural le da un sabor limpio, mientras que la cebada coreana de primera calidad le da un sabor suave y trabajado."
 
+#. y4:line_status=translated
 msgctxt "5988"
 msgid "It's not all that expensive, either. I'd say it offers excellent value for the price. I used to drink this all the time, and its taste is still as familiar as an old friend. "
 msgstr "No es tan caro, tampoco. Diría que ofece un excelente valor por su precio. Solia beber esto todo el día, y su sabor sigue siendo tan familiar como un viejo amigo. "
 
+#. y4:line_status=translated
 msgctxt "6163"
 msgid "To me, this bottle of soju brings back a lot of fond memories.  "
 msgstr "A mí, esta botella de soju me trae muchos buenos recuerdos.  "

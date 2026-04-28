@@ -1,312 +1,338 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00260075.po\n"
-"X-Crowdin-File-ID: 60780\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_translator=sasha
+#. y4:last_reviewer=sasha
+
+#. y4:line_status=translated
 msgctxt "8900"
 msgid "Baby"
 msgstr "Bebé"
 
+#. y4:line_status=translated
 msgctxt "8904"
 msgid "Date"
 msgstr "Date"
 
+#. y4:line_status=translated
 msgctxt "8908"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
+#. y4:line_status=translated
 msgctxt "8912"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 msgctxt "8916"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "8920"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:line_status=translated
 msgctxt "8924"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
+#. y4:line_status=translated
 msgctxt "8928"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
 
+#. y4:line_status=translated
 msgctxt "8932"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "8936"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
+#. y4:line_status=translated
 msgctxt "8940"
 msgid "M_nml_stand_tlk_kagamu_st"
 msgstr "M_nml_stand_tlk_tukamu_st"
 
+#. y4:line_status=translated
 msgctxt "8944"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
+#. y4:line_status=translated
 msgctxt "8948"
 msgid "Talk_Udekumi_Yes"
 msgstr "Talk_Udekumi_Yes"
 
+#. y4:line_status=translated
 msgctxt "8952"
 msgid "M_nml_stand_tlk_kagamu_ed"
 msgstr "M_nml_stand_tlk_kagamu_ed"
 
+#. y4:line_status=translated
 msgctxt "8956"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
+#. y4:line_status=translated
 msgctxt "8960"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "8964"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "8968"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:line_status=translated
 msgctxt "8972"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "8976"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
+#. y4:line_status=translated
 msgctxt "8980"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "8984"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "8988"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "8992"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:line_status=translated
 msgctxt "8996"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=translated
 msgctxt "9000"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "9004"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=sasha
+#. y4:reviewed_by=sasha
 msgctxt "56_Baby"
 msgid "Goo goo..."
-msgstr "Gu gu..."
+msgstr "Gu, gu..."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=sasha
 msgctxt "68_Date"
 msgid "We did it, Kiryu! He stopped crying!"
 msgstr "¡Lo logramos, Kiryu! ¡Dejó de llorar!"
 
+#. y4:line_status=translated
 msgctxt "80_Kiryu"
-msgid "And you can finally stop trying to scream over him. But\\r\n"
-"yeah, he's calm now."
-msgstr "Y al fin puedes dejar de intentar gritar más que él. Pero\\r\n"
-"sí, ya se calmó."
+msgid "And you can finally stop trying to scream over him. But\\r\nyeah, he's calm now."
+msgstr "Y al fin puedes dejar de intentar gritar más que él. Pero\\r\nsí, ya se calmó."
 
+#. y4:line_status=translated
 msgctxt "92_Date"
 msgid "Man... I feel like just a few hours of that shaved years off my life."
-msgstr "Amigo... me siento como si unas horas de esto me hubieran \\r\n"
-"sacado años de vida."
+msgstr "Amigo... me siento como si unas horas de esto me hubieran \\r\nsacado años de vida."
 
+#. y4:line_status=translated
 msgctxt "104_Kiryu"
 msgid "Nothing a few drinks can't fix. Anyway, where'd this kid come from?"
-msgstr "Nada que unas copas no puedan arreglar. Bueno, ¿de dónde \\r\n"
-"salió este pequeño?"
+msgstr "Nada que unas copas no puedan arreglar. Bueno, ¿de dónde \\r\nsalió este pequeño?"
 
+#. y4:line_status=translated
 msgctxt "116_Date"
 msgid "Oh yeah, I never told you, did I?"
 msgstr "Ah sí, no te llegué a contar, ¿no?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=sasha
 msgctxt "128_Date"
-msgid "Well, when I came over to the bar earlier, I heard this\\r\n"
-"noise coming from the back alley."
-msgstr "Bueno, cuando llegué antes al bar, escuché \\r\n"
-"un ruido que provenía del callejón de atrás."
+msgid "Well, when I came over to the bar earlier, I heard this\\r\nnoise coming from the back alley."
+msgstr "Bueno, cuando llegué antes al bar, escuché \\r\nun ruido que provenía del callejón de atrás."
 
+#. y4:line_status=translated
 msgctxt "140_Date"
-msgid "And when I went to take a look, I found this baby lying on\\r\n"
-"the back steps. Almost like somebody hid him there. It was bizarre."
-msgstr "Y cuando fuí a echar un vistazo, me encontré este bebé \\r\n"
-"estirado sobre la escalera trasera. Como si alguien lo \\r\n"
-"hubiese dejado ahí. Muy extraño."
+msgid "And when I went to take a look, I found this baby lying on\\r\nthe back steps. Almost like somebody hid him there. It was bizarre."
+msgstr "Y cuando fuí a echar un vistazo, me encontré este bebé \\r\nestirado sobre la escalera trasera. Como si alguien lo \\r\nhubiese dejado ahí. Muy extraño."
 
+#. y4:line_status=translated
 msgctxt "152_Date"
-msgid "He was crying like a damn banshee, too. I didn't know what\\r\n"
-"to do... so I brought him in."
-msgstr "Lloraba como un alma en pena. No sabía qué hacer...\\r\n"
-"así que lo traje dentro."
+msgid "He was crying like a damn banshee, too. I didn't know what\\r\nto do... so I brought him in."
+msgstr "Lloraba como un alma en pena. No sabía qué hacer...\\r\nasí que lo traje dentro."
 
+#. y4:line_status=translated
 msgctxt "164_Kiryu"
-msgid "You said it looked like he was hidden there? That doesn't\\r\n"
-"sound like your run-of-the-mill abandoned baby. Did they leave a note?"
-msgstr "¿Decías que parecía como si estuviera escondido? No parece\\r\n"
-"el típico caso de bebé abandonado. ¿Dejaron una nota?"
+msgid "You said it looked like he was hidden there? That doesn't\\r\nsound like your run-of-the-mill abandoned baby. Did they leave a note?"
+msgstr "¿Decías que parecía como si estuviera escondido? No parece\\r\nel típico caso de bebé abandonado. ¿Dejaron una nota?"
 
+#. y4:line_status=translated
 msgctxt "176_Date"
 msgid "You know, I didn't even think to check. Lemme go take a look."
 msgstr "Sabes, no pensé ni en comprobarlo. Déjame ir a ver."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=sasha
+#. y4:reviewed_by=sasha
 msgctxt "200_Date"
-msgid "Here we go. Found something. This handwriting's awful,\\r\n"
-"though. Whoever wrote it was sure in a hurry."
-msgstr "Aquí está. Encontré algo. Muy mala caligrafía.\\r\n"
-"Quien sea que lo haya escrito estaba en un apuro."
+msgid "Here we go. Found something. This handwriting's awful,\\r\nthough. Whoever wrote it was sure in a hurry."
+msgstr "Aquí está. Encontré algo. Muy mala caligrafía.\\r\nQuien sea que lo haya escrito estaba en un buen apuro."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=sasha
 msgctxt "212_Kiryu"
 msgid "What does it say?"
 msgstr "¿Qué dice?"
 
+#. y4:line_status=translated
 msgctxt "224_Date"
 msgid "\"Please take care of my baby. And, I'm sorry.\""
 msgstr "\"Por favor, cuide a mi bebé. Y lo siento.\""
 
+#. y4:line_status=translated
 msgctxt "236_Kiryu"
 msgid "We should bring him to the police."
 msgstr "Deberíamos llevarlo a la policía."
 
+#. y4:line_status=translated
 msgctxt "248_Date"
-msgid "I mean, yeah... but then we'll be stuck at the station 'til\\r\n"
-"they make sure everything checks out."
-msgstr "A ver, sí... pero no nos dejaran salir de comisaría hasta\\r\n"
-"que se aseguren que todo está en orden."
+msgid "I mean, yeah... but then we'll be stuck at the station 'til\\r\nthey make sure everything checks out."
+msgstr "A ver, sí... pero no nos dejaran salir de comisaría hasta\\r\nque se aseguren que todo está en orden."
 
+#. y4:line_status=translated
 msgctxt "260_Date"
-msgid "You ask me, whoever left him here has got to be still in\\r\n"
-"town. Let's go out and look for them."
-msgstr "Si me preguntas a mí, quien sea que lo haya dejado aquí \\r\n"
-"debe seguir en la ciudad. Vamos a buscarle."
+msgid "You ask me, whoever left him here has got to be still in\\r\ntown. Let's go out and look for them."
+msgstr "Si me preguntas a mí, quien sea que lo haya dejado aquí \\r\ndebe seguir en la ciudad. Vamos a buscarle."
 
+#. y4:line_status=translated
 msgctxt "272_Kiryu"
 msgid "Yeah, not a bad idea."
 msgstr "Sí, no es mala idea."
 
+#. y4:line_status=translated
 msgctxt "284_Date"
-msgid "But I will say, with how many people we've got here... I'd\\r\n"
-"have thought <Italic>somebody</Italic> would have been able to get him to\\r\n"
-"stop crying."
-msgstr "Eso sí, con todos los que somos... Hubiera creído que \\r\n"
-"<Italic>alguien</Italic> fuera capaz de que dejara\\r\n"
-"de llorar."
+msgid "But I will say, with how many people we've got here... I'd\\r\nhave thought <Italic>somebody</Italic> would have been able to get him to\\r\nstop crying."
+msgstr "Eso sí, con todos los que somos... Hubiera creído que \\r\n<Italic>alguien</Italic> fuera capaz de que dejara\\r\nde llorar."
 
+#. y4:line_status=translated
 msgctxt "296_Akiyama"
 msgid "Sorry, kids aren't really my forte."
 msgstr "Lo siento, los niños no son mi punto fuerte."
 
+#. y4:line_status=translated
 msgctxt "320_Saejima"
 msgid "...He'd just cry more if he saw my mug starin' back at him."
 msgstr "...Hubiera llorado más si me llega a ver el careto de frente."
 
+#. y4:line_status=translated
 msgctxt "344_Tanimura"
 msgid "I think you're just the nurturing father this kid was looking for, Date-san."
 msgstr "Yo creo que eras el padre idílico que necesitaba, Date."
 
+#. y4:line_status=translated
 msgctxt "368_Date"
-msgid "*sigh* Forget it. We just need to focus on finding whoever\\r\n"
-"dropped this kid off. There must be someone nearby who saw\\r\n"
-"them do it."
-msgstr "*suspira* En fin. Tenemos que concentrarnos en encontrar\\r\n"
-"a quien haya dejado al niño tirado. Tiene que haber alguien\\r\n"
-"cerca que lo haya visto."
+msgid "*sigh* Forget it. We just need to focus on finding whoever\\r\ndropped this kid off. There must be someone nearby who saw\\r\nthem do it."
+msgstr "*suspira* En fin. Tenemos que concentrarnos en encontrar\\r\na quien haya dejado al niño tirado. Tiene que haber alguien\\r\ncerca que lo haya visto."
 
+#. y4:line_status=translated
 msgctxt "380_Tanimura"
-msgid "I'll handle it. I'm a detective, after all. If this doesn't\\r\n"
-"fall under the jurisdiction of Community Safety, I don't\\r\n"
-"know what would."
-msgstr "Yo me ocupo. Al fin y al cabo, soy detective. Si esto no\\r\n"
-"cae dentro de mi jurisdicción de Seguridad de la \\r\n"
-"Comunidad, no sé qué otra cosa me queda."
+msgid "I'll handle it. I'm a detective, after all. If this doesn't\\r\nfall under the jurisdiction of Community Safety, I don't\\r\nknow what would."
+msgstr "Yo me ocupo. Al fin y al cabo, soy detective. Si esto no\\r\ncae dentro de mi jurisdicción de Seguridad de la \\r\nComunidad, no sé qué otra cosa me queda."
 
+#. y4:line_status=translated
 msgctxt "392_Date"
 msgid "Forget it. You're supposed to be \"dead,\" remember?"
 msgstr "Ni lo sueñes. Se supone que estás 'muerto', ¿recuerdas?"
 
+#. y4:line_status=translated
 msgctxt "404_Tanimura"
 msgid "Oops."
 msgstr "Ups."
 
+#. y4:line_status=translated
 msgctxt "416_Date"
-msgid "Oops is right. The police would get wind of you flashing\\r\n"
-"your badge around in a heartbeat."
-msgstr "Exacto, 'ups'. La policía no tardaría en oír sobre ti\\r\n"
-"enseñando la placa por ahí como si nada."
+msgid "Oops is right. The police would get wind of you flashing\\r\nyour badge around in a heartbeat."
+msgstr "Exacto, 'ups'. La policía no tardaría en oír sobre ti\\r\nenseñando la placa por ahí como si nada."
 
+#. y4:line_status=translated
 msgctxt "428_Tanimura"
-msgid "I guess you're right. But we don't really have anyone else\\r\n"
-"who's capable enough."
-msgstr "Supongo que tienes razón. Pero realmente no tenemos a\\r\n"
-"nadie más que tenga la capacidad de hacerlo."
+msgid "I guess you're right. But we don't really have anyone else\\r\nwho's capable enough."
+msgstr "Supongo que tienes razón. Pero realmente no tenemos a\\r\nnadie más que tenga la capacidad de hacerlo."
 
+#. y4:line_status=translated
 msgctxt "440_Date"
 msgid "What, the escaped convict and troubled moneylender don't strike confidence into your heart?"
-msgstr "¿Qué? ¿Acaso el convicto fugado y el prestamista en \\r\n"
-"problemas no te generan confianza?"
+msgstr "¿Qué? ¿Acaso el convicto fugado y el prestamista en \\r\nproblemas no te generan confianza?"
 
+#. y4:line_status=translated
 msgctxt "452_Akiyama"
 msgid "You hear what he's saying about us?"
 msgstr "¿Has oído lo que nos ha llamado?"
 
+#. y4:line_status=translated
 msgctxt "464_Saejima"
 msgid "Sure as hell do."
 msgstr "Te aseguro que sí."
 
+#. y4:line_status=translated
 msgctxt "476_Date"
 msgid "Guess I'll just have to head out there myself."
 msgstr "Supongo que me toca a mí."
 
+#. y4:line_status=translated
 msgctxt "488_Kiryu"
 msgid "No, I'll do it."
 msgstr "No, yo lo haré."
 
+#. y4:line_status=translated
 msgctxt "500_Date"
 msgid "Huh? Why?"
 msgstr "¿Eh? ¿Por qué?"
 
+#. y4:line_status=translated
 msgctxt "512_Kiryu"
-msgid "I've had enough piss on my face tonight to last a lifetime.\\r\n"
-"He's all yours, Date."
-msgstr "Ya tengo el suficiente pis en la cara para el resto de mi \\r\n"
-"vida. Es todo tuyo, Date."
+msgid "I've had enough piss on my face tonight to last a lifetime.\\r\nHe's all yours, Date."
+msgstr "Ya tengo el suficiente pis en la cara para el resto de mi \\r\nvida. Es todo tuyo, Date."
 
+#. y4:line_status=translated
 msgctxt "524_Date"
 msgid "Hey, you can't just dump him on me like this!"
 msgstr "¡Oye, no puedes dejármelo a mi así como así!"
 
+#. y4:line_status=translated
 msgctxt "536_Kiryu"
 msgid "Let's just say we're even now. Good luck."
 msgstr "Digamos que ahora estamos en paz. Buena suerte."

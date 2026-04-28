@@ -9,16 +9,6 @@
   "pct_reviewed": 0.0,
   "pct_global": 44.16,
   "areas": {
-    "Cinemáticas": {
-      "files_total": 136,
-      "files_translated": 136,
-      "files_reviewed": 0,
-      "total": 3162,
-      "translated": 3162,
-      "reviewed": 0,
-      "pct_translated": 100.0,
-      "pct_reviewed": 0.0
-    },
     "Diálogos": {
       "files_total": 2418,
       "files_translated": 1808,
@@ -27,6 +17,16 @@
       "translated": 68313,
       "reviewed": 0,
       "pct_translated": 83.95,
+      "pct_reviewed": 0.0
+    },
+    "Cinemáticas": {
+      "files_total": 136,
+      "files_translated": 136,
+      "files_reviewed": 0,
+      "total": 3162,
+      "translated": 3162,
+      "reviewed": 0,
+      "pct_translated": 100.0,
       "pct_reviewed": 0.0
     }
   }

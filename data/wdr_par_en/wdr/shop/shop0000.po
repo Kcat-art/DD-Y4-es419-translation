@@ -1,187 +1,169 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/shop/shop0000.po\n"
-"X-Crowdin-File-ID: 57510\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:reviewed_by=dani64amv
+#. y4:last_translator=dani64amv
+#. y4:last_reviewer=dani64amv
+
+#. y4:line_status=translated
 msgctxt "728"
 msgid "Quit"
 msgstr "Salir"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "733"
 msgid "Cancel the order."
 msgstr "Cancelar el pedido."
 
+#. y4:line_status=translated
 msgctxt "751"
 msgid "Order"
 msgstr "Pagar"
 
+#. y4:line_status=translated
 msgctxt "757"
 msgid "Order the currently selected item.  "
 msgstr "Pedir el objeto actualmente seleccionado.  "
 
+#. y4:line_status=translated
+#. y4:translated_by=dani64amv
 msgctxt "794"
 msgid "(I haven't picked anything.)  "
-msgstr "(No he escogido nada)"
+msgstr "(No he escogido nada)."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=dani64amv
+#. y4:reviewed_by=dani64amv
 msgctxt "825"
 msgid "(I'm short on cash.)  "
-msgstr "(Me hace falta dinero)"
+msgstr "(Me hace falta dinero)."
 
+#. y4:line_status=translated
 msgctxt "848"
 msgid "That comes to %s."
 msgstr "Sería un total de %s."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "866"
 msgid "(I can't carry any more stuff.)"
 msgstr "(No puedo llevar más cosas)."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "898"
 msgid "(They're sold out.)"
 msgstr "(Están agotados)."
 
+#. y4:line_status=translated
 msgctxt "918"
-msgid "This is Temp 1. Its unique sweet flavor sets it apart\n"
-"from Temp 2."
-msgstr "Esto es Temp 1. Su sabor dulce único lo diferencia de \n"
-"Temp 2."
+msgid "This is Temp 1. Its unique sweet flavor sets it apart\nfrom Temp 2."
+msgstr "Esto es Temp 1. Su sabor dulce único lo diferencia de \nTemp 2."
 
+#. y4:line_status=translated
 msgctxt "985"
-msgid "Temp 2 is a popular product of Settsu province, made\n"
-"traditionally with their famous water."
-msgstr "Temp 2 es un producto popular de la provincia de Settsu, \n"
-"elaborado tradicionalmente con su famosa agua."
+msgid "Temp 2 is a popular product of Settsu province, made\ntraditionally with their famous water."
+msgstr "Temp 2 es un producto popular de la provincia de Settsu, \nelaborado tradicionalmente con su famosa agua."
 
+#. y4:line_status=translated
 msgctxt "1077"
-msgid "This strong Temp 3 was made from Satsuma's famous\n"
-"sweet potatoes."
-msgstr "Este Temp 3 fuerte fue hecho con las famosas batatas de \n"
-"Satsuma."
+msgid "This strong Temp 3 was made from Satsuma's famous\nsweet potatoes."
+msgstr "Este Temp 3 fuerte fue hecho con las famosas batatas de \nSatsuma."
 
+#. y4:line_status=translated
 msgctxt "1143"
-msgid "This ramen has a chicken and pork-based soup combined\n"
-"with spices and soy sauce for a rich, tasty flavor."
-msgstr "Este ramen tiene un caldo a base de pollo y cerdo combinado\n"
-"con especias y salsa de soya para un sabor rico y delicioso."
+msgid "This ramen has a chicken and pork-based soup combined\nwith spices and soy sauce for a rich, tasty flavor."
+msgstr "Este ramen tiene un caldo a base de pollo y cerdo combinado\ncon especias y salsa de soya para un sabor rico y delicioso."
 
+#. y4:line_status=translated
 msgctxt "1249"
-msgid "Miso and pork mixed with spicy vegetables make for\n"
-"a succulent soup in this miso ramen."
+msgid "Miso and pork mixed with spicy vegetables make for\na succulent soup in this miso ramen."
 msgstr "El miso y la carne de cerdo mezclados con verduras picantes dan lugar a una suculenta sopa en este ramen de miso."
 
+#. y4:line_status=translated
 msgctxt "1337"
-msgid "Delicious tonkotsu ramen full of pork fat and a rich pork\n"
-"extract base."
+msgid "Delicious tonkotsu ramen full of pork fat and a rich pork\nextract base."
 msgstr "Delicioso ramen tonkotsu lleno de grasa de cerdo y con una rica base de extracto de cerdo."
 
+#. y4:line_status=translated
 msgctxt "1409"
-msgid "This shio ramen has a chicken-based broth with seafood\n"
-"and vegetables, along with spices to accentuate the flavor."
-msgstr "Este shio ramen tiene un caldo a base de pollo con mariscos\n"
-"y verduras, junto con especias que realzan el sabor."
+msgid "This shio ramen has a chicken-based broth with seafood\nand vegetables, along with spices to accentuate the flavor."
+msgstr "Este shio ramen tiene un caldo a base de pollo con mariscos\ny verduras, junto con especias que realzan el sabor."
 
+#. y4:line_status=translated
 msgctxt "1524"
-msgid "A Super Cup of squid yakisoba. Its flavor is enhanced\n"
-"with fresh, tasty squid."
-msgstr "Una Súper Taza de yakisoba de calamar. Su sabor se\n"
-"realza con calamar fresco y sabroso."
+msgid "A Super Cup of squid yakisoba. Its flavor is enhanced\nwith fresh, tasty squid."
+msgstr "Una Súper Taza de yakisoba de calamar. Su sabor se\nrealza con calamar fresco y sabroso."
 
+#. y4:line_status=translated
 msgctxt "1603"
-msgid "Includes mouth-watering wontons and soy sauce for \n"
-"a rich, flavorful soup."
-msgstr "Incluye deliciosos wontons y salsa de soja para\n"
-"una rica y sabrosa sopa."
+msgid "Includes mouth-watering wontons and soy sauce for \na rich, flavorful soup."
+msgstr "Incluye deliciosos wontons y salsa de soja para\nuna rica y sabrosa sopa."
 
+#. y4:line_status=translated
 msgctxt "1678"
-msgid "Includes fluffy eggs, seafood, and seaweed extract. \n"
-"Especially delicious."
-msgstr "Incluye huevos esponjosos, mariscos y extracto de algas. \n"
-"Especialmente delicioso."
+msgid "Includes fluffy eggs, seafood, and seaweed extract. \nEspecially delicious."
+msgstr "Incluye huevos esponjosos, mariscos y extracto de algas. \nEspecialmente delicioso."
 
+#. y4:line_status=translated
 msgctxt "1753"
-msgid "Offers minced meat, sesame paste, miso, and \n"
-"noodles. The soup is exquisite."
-msgstr "Ofrece carne picada, pasta de sésamo, miso y fideos.\n"
-"La sopa es exquisita."
+msgid "Offers minced meat, sesame paste, miso, and \nnoodles. The soup is exquisite."
+msgstr "Ofrece carne picada, pasta de sésamo, miso y fideos.\nLa sopa es exquisita."
 
+#. y4:line_status=translated
 msgctxt "1830"
-msgid "Includes fish sauce, garlic, and hot peppers. A spicy, \n"
-"Korean-style soup."
-msgstr "Incluye salsa de pescado, ajo y ají picante. Una sopa\n"
-"picante al estilo coreano."
+msgid "Includes fish sauce, garlic, and hot peppers. A spicy, \nKorean-style soup."
+msgstr "Incluye salsa de pescado, ajo y ají picante. Una sopa\npicante al estilo coreano."
 
+#. y4:line_status=translated
 msgctxt "1905"
-msgid "Offers cabbage, seaweed, corn, and other veggies for\n"
-"a rich and hearty cup of soup."
-msgstr "Ofrece col, alga marina, maíz y otras verduras para una\n"
-"taza de sopa rica y sustanciosa."
+msgid "Offers cabbage, seaweed, corn, and other veggies for\na rich and hearty cup of soup."
+msgstr "Ofrece col, alga marina, maíz y otras verduras para una\ntaza de sopa rica y sustanciosa."
 
+#. y4:line_status=translated
 msgctxt "1989"
-msgid "Snow cabbage, minced chicken, sesame oil, soaked\n"
-"in chicken broth."
-msgstr "Col de nieve, pollo picado, aceite de sésamo, empapado\n"
-"en caldo de pollo."
+msgid "Snow cabbage, minced chicken, sesame oil, soaked\nin chicken broth."
+msgstr "Col de nieve, pollo picado, aceite de sésamo, empapado\nen caldo de pollo."
 
+#. y4:line_status=translated
 msgctxt "2056"
-msgid "Includes eggs, mushrooms, hot spices, and vinegar,\n"
-"giving it a unique, hot and sour flavor."
-msgstr "Incluye huevos, champiñones, especias picantes y vinagre,\n"
-"lo que le confiere un sabor único, picante y agrio."
+msgid "Includes eggs, mushrooms, hot spices, and vinegar,\ngiving it a unique, hot and sour flavor."
+msgstr "Incluye huevos, champiñones, especias picantes y vinagre,\nlo que le confiere un sabor único, picante y agrio."
 
+#. y4:line_status=translated
 msgctxt "2148"
-msgid "An instant cup of soup with a miso base and lots of\n"
-"savory pork. So delicious, you'll drink every last drop."
-msgstr "Una sopa instantánea con base de miso y mucho cerdo\n"
-"sabroso. Tan deliciosa que te beberás hasta la última gota."
+msgid "An instant cup of soup with a miso base and lots of\nsavory pork. So delicious, you'll drink every last drop."
+msgstr "Una sopa instantánea con base de miso y mucho cerdo\nsabroso. Tan deliciosa que te beberás hasta la última gota."
 
+#. y4:line_status=translated
 msgctxt "2257"
-msgid "Delicious tonkotsu ramen in a pork-based soup. It's\n"
-"also got chicken, vegetables, and quality backfat.\n"
-"You'll drink it down to the last drop."
-msgstr "Delicioso ramen tonkotsu en un caldo a base de cerdo.\n"
-"También lleva pollo, verduras y grasa de cerdo de\n"
-"calidad. Te lo beberás hasta la última gota."
+msgid "Delicious tonkotsu ramen in a pork-based soup. It's\nalso got chicken, vegetables, and quality backfat.\nYou'll drink it down to the last drop."
+msgstr "Delicioso ramen tonkotsu en un caldo a base de cerdo.\nTambién lleva pollo, verduras y grasa de cerdo de\ncalidad. Te lo beberás hasta la última gota."
 
+#. y4:line_status=translated
 msgctxt "2399"
-msgid "I think you'll agree that our tan tan noodles are a cut\n"
-"above the rest. They're made with roasted sesame\n"
-"seeds, and rich sesame paste."
-msgstr "Creo que estarás de acuerdo en que nuestros fideos\n"
-"tan tan están por encima de los demás. Están hechos\n"
-"con semillas de sésamo tostado y pasta de sésamo rica."
+msgid "I think you'll agree that our tan tan noodles are a cut\nabove the rest. They're made with roasted sesame\nseeds, and rich sesame paste."
+msgstr "Creo que estarás de acuerdo en que nuestros fideos\ntan tan están por encima de los demás. Están hechos\ncon semillas de sésamo tostado y pasta de sésamo rica."
 
+#. y4:line_status=translated
 msgctxt "2534"
-msgid "Our finest udon made with chunky, specially selected\n"
-"ingredients in a rich beef and vegetable curry broth,\n"
-"simmered to perfection."
-msgstr "Nuestro mejor udon, elaborado con ingredientes especialmente\n"
-"seleccionados, en un rico caldo de ternera y verduras al curry,\n"
-"cocinado a fuego lento hasta la perfección."
+msgid "Our finest udon made with chunky, specially selected\ningredients in a rich beef and vegetable curry broth,\nsimmered to perfection."
+msgstr "Nuestro mejor udon, elaborado con ingredientes especialmente\nseleccionados, en un rico caldo de ternera y verduras al curry,\ncocinado a fuego lento hasta la perfección."
 
+#. y4:line_status=translated
 msgctxt "2665"
-msgid "The green onions and backfat really set this special\n"
-"tonkotsu ramen apart. My mouth is watering just\n"
-"thinking about it."
-msgstr "Las cebollas verdes y la grasa son el sello de este\n"
-"ramen tonkotsu, se me hace agua la boca de solo\n"
-"pensar en ello."
+msgid "The green onions and backfat really set this special\ntonkotsu ramen apart. My mouth is watering just\nthinking about it."
+msgstr "Las cebollas verdes y la grasa son el sello de este\nramen tonkotsu, se me hace agua la boca de solo\npensar en ello."
 
+#. y4:line_status=translated
 msgctxt "2785"
-msgid "The tender seaweed in this ramen always\n"
-"reminds me of the ocean."
-msgstr "Las suaves algas en este ramen siempre\n"
-"me recuerdan al océano."
+msgid "The tender seaweed in this ramen always\nreminds me of the ocean."
+msgstr "Las suaves algas en este ramen siempre\nme recuerdan al océano."
 

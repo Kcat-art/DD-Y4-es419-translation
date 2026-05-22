@@ -1,128 +1,132 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/shop/shop0025.po\n"
-"X-Crowdin-File-ID: 57560\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_translator=dani64amv
+#. y4:last_reviewer=dani64amv
+
+#. y4:line_status=translated
 msgctxt "532"
 msgid "Quit"
 msgstr "Salir"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "537"
 msgid "Cancel the order."
 msgstr "Cancelar el pedido."
 
+#. y4:line_status=translated
 msgctxt "555"
 msgid "Order"
 msgstr "Pagar"
 
+#. y4:line_status=translated
 msgctxt "561"
 msgid "Order the currently selected item.  "
 msgstr "Pedir el objeto actualmente seleccionado.  "
 
+#. y4:line_status=translated
 msgctxt "598"
 msgid "(I haven't picked anything.)  "
 msgstr "(No he escogido nada)"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=dani64amv
+#. y4:reviewed_by=dani64amv
 msgctxt "629"
 msgid "(I'm short on cash.)  "
-msgstr "(Me hace falta dinero)"
+msgstr "(Me hace falta dinero)."
 
+#. y4:line_status=translated
 msgctxt "652"
 msgid "All right. That comes to %s."
 msgstr "Muy bien. Eso da %s."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "681"
 msgid "(I can't carry any more stuff.)"
 msgstr "(No puedo llevar más cosas)."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "713"
 msgid "(They're sold out.)"
 msgstr "(Están agotados)."
 
+#. y4:line_status=translated
 msgctxt "733"
-msgid "This is a blunt weapon designed for self-defense, but\n"
-"I wouldn't try using it in a brawl."
-msgstr "Este es un arma contundente diseñada para autodefensa,\n"
-"pero no intentaría usarla en una pelea."
+msgid "This is a blunt weapon designed for self-defense, but\nI wouldn't try using it in a brawl."
+msgstr "Este es un arma contundente diseñada para autodefensa,\npero no intentaría usarla en una pelea."
 
+#. y4:line_status=translated
 msgctxt "823"
-msgid "Not a very powerful weapon, but it's compact and\n"
-"easy to hide."
-msgstr "No es un arma muy poderosa, pero es compacta y\n"
-"fácil de ocultar."
+msgid "Not a very powerful weapon, but it's compact and\neasy to hide."
+msgstr "No es un arma muy poderosa, pero es compacta y\nfácil de ocultar."
 
+#. y4:line_status=translated
 msgctxt "886"
-msgid "I don't need to explain how this works, do I? It's\n"
-"designed for self-defense."
-msgstr "No necesito explicar cómo funciona esto, ¿verdad?\n"
-"Está diseñado para la autodefensa."
+msgid "I don't need to explain how this works, do I? It's\ndesigned for self-defense."
+msgstr "No necesito explicar cómo funciona esto, ¿verdad?\nEstá diseñado para la autodefensa."
 
+#. y4:line_status=translated
 msgctxt "964"
 msgid "Basically a mini flamethrower. So, what do you think?"
 msgstr "Básicamente un mini lanzallamas. Entonces, ¿qué opinas?"
 
+#. y4:line_status=translated
 msgctxt "1018"
 msgid "The next generation in self-defense technology."
 msgstr "La próxima generación en tecnología de autodefensa."
 
+#. y4:line_status=translated
 msgctxt "1066"
 msgid "This is your run-of-the-mill wooden driver."
 msgstr "Este es su controlador de madera común y corriente."
 
+#. y4:line_status=translated
 msgctxt "1110"
 msgid "Perfect for kali stick beginners."
 msgstr "Perfecto para principiantes en el palo de kali."
 
+#. y4:line_status=translated
 msgctxt "1144"
 msgid "A good nunchaku set for beginners to start out with."
 msgstr "Un buen set de nunchaku para principiantes."
 
+#. y4:line_status=translated
 msgctxt "1197"
-msgid "The street brawler's weapons of choice. Put them on\n"
-"your fists to increase the power of your punches."
-msgstr "Las armas preferidas del luchador callejero. Ponlos en\n"
-"tus puños para aumentar el poder de tus golpes."
+msgid "The street brawler's weapons of choice. Put them on\nyour fists to increase the power of your punches."
+msgstr "Las armas preferidas del luchador callejero. Ponlos en\ntus puños para aumentar el poder de tus golpes."
 
+#. y4:line_status=translated
 msgctxt "1299"
-msgid "I thought it might be a good idea to send away for a\n"
-"few of these."
-msgstr "Pensé que podría ser una buena idea mandar a buscar un\n"
-"pocos de estos."
+msgid "I thought it might be a good idea to send away for a\nfew of these."
+msgstr "Pensé que podría ser una buena idea mandar a buscar un\npocos de estos."
 
+#. y4:line_status=translated
 msgctxt "1366"
-msgid "You're gonna need a lot of upper body strength to\n"
-"swing this thing around."
+msgid "You're gonna need a lot of upper body strength to\nswing this thing around."
 msgstr "Vas a necesitar mucha fuerza en la parte superior del cuerpo para balancear esta cosa."
 
+#. y4:line_status=translated
 msgctxt "1441"
-msgid "Collapsible and easy to store in a purse or jacket\n"
-"pocket. It's good for blocking low attacks, too."
-msgstr "Plegable y fácil de almacenar en una bolsa o chaqueta\n"
-"de bolsillo. También es bueno para bloquear ataques bajos."
+msgid "Collapsible and easy to store in a purse or jacket\npocket. It's good for blocking low attacks, too."
+msgstr "Plegable y fácil de almacenar en una bolsa o chaqueta\nde bolsillo. También es bueno para bloquear ataques bajos."
 
+#. y4:line_status=translated
 msgctxt "1541"
 msgid "A standard tonfa made of iron."
 msgstr "Una tonfa estándar hecha de hierro."
 
+#. y4:line_status=translated
 msgctxt "1572"
-msgid "That's a double action revolver. That means pulling \n"
-"the trigger both cocks the hammer and fires the gun.\n"
-"Well worth the price."
-msgstr "Ese es un revólver de doble acción. Eso significa que\n"
-"al apretar del gatillo, tanto se arma el martillo como se\n"
-"dispara el arma. Merece totalmente el precio."
+msgid "That's a double action revolver. That means pulling \nthe trigger both cocks the hammer and fires the gun.\nWell worth the price."
+msgstr "Ese es un revólver de doble acción. Eso significa que\nal apretar del gatillo, tanto se arma el martillo como se\ndispara el arma. Merece totalmente el precio."
 

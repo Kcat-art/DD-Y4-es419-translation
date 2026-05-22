@@ -1,76 +1,78 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/shop/shop0005.po\n"
-"X-Crowdin-File-ID: 57520\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:reviewed_by=dani64amv
+#. y4:last_translator=dani64amv
+#. y4:last_reviewer=dani64amv
+
+#. y4:line_status=translated
 msgctxt "224"
 msgid "Quit"
 msgstr "Salir"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "229"
 msgid "Cancel the order."
 msgstr "Cancelar el pedido."
 
+#. y4:line_status=translated
 msgctxt "247"
 msgid "Order"
 msgstr "Pagar"
 
+#. y4:line_status=translated
 msgctxt "253"
 msgid "Order the currently selected item.  "
 msgstr "Pedir el objeto actualmente seleccionado.  "
 
+#. y4:line_status=translated
 msgctxt "290"
 msgid "(I haven't picked anything.)  "
 msgstr "(No he escogido nada)"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=dani64amv
+#. y4:reviewed_by=dani64amv
 msgctxt "321"
 msgid "(I'm short on cash.)  "
-msgstr "(Me hace falta dinero)"
+msgstr "(Me hace falta dinero)."
 
+#. y4:line_status=translated
 msgctxt "344"
 msgid "Thank you very much. That is %s."
 msgstr "Muchas gracias. Serán %s."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "377"
 msgid "(I can't carry any more stuff.)"
 msgstr "(No puedo llevar más cosas)."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "409"
 msgid "(They're sold out.)"
 msgstr "(Están agotados)."
 
+#. y4:line_status=translated
 msgctxt "429"
-msgid "This premium beer was specially brewed to maximize\n"
-"the rich, refreshing taste of hops and barley."
-msgstr "Esta cerveza prémium fue especialmente elaborada\n"
-"para maximizar el rico y refrescante sabor del lúpulo\n"
-"y la cebada."
+msgid "This premium beer was specially brewed to maximize\nthe rich, refreshing taste of hops and barley."
+msgstr "Esta cerveza prémium fue especialmente elaborada\npara maximizar el rico y refrescante sabor del lúpulo\ny la cebada."
 
+#. y4:line_status=translated
 msgctxt "527"
-msgid "Delicious malt and two types of hops were joined in\n"
-"a special brewing process for this rich, great-tasting\n"
-"beer."
-msgstr "Una deliciosa malta y dos tipos de lúpulo se unieron en\n"
-"un proceso de elaboración especial para esta cerveza\n"
-"de sabor rico y delicioso."
+msgid "Delicious malt and two types of hops were joined in\na special brewing process for this rich, great-tasting\nbeer."
+msgstr "Una deliciosa malta y dos tipos de lúpulo se unieron en\nun proceso de elaboración especial para esta cerveza\nde sabor rico y delicioso."
 
+#. y4:line_status=translated
 msgctxt "640"
-msgid "A canned, lemon-flavored alcoholic beverage. It's \n"
-"short for \"shochu highball.\""
-msgstr "Una bebida alcohólica enlatada con sabor a limón. Es \n"
-"abreviación de \"shochu highball\""
+msgid "A canned, lemon-flavored alcoholic beverage. It's \nshort for \"shochu highball.\""
+msgstr "Una bebida alcohólica enlatada con sabor a limón. Es \nabreviación de \"shochu highball\""
 

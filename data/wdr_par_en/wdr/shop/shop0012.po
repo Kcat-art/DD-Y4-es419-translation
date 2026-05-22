@@ -1,103 +1,108 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/shop/shop0012.po\n"
-"X-Crowdin-File-ID: 57534\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:reviewed_by=dani64amv
+#. y4:last_translator=dani64amv
+#. y4:last_reviewer=dani64amv
+
+#. y4:line_status=translated
 msgctxt "392"
 msgid "Quit"
 msgstr "Salir"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "397"
 msgid "Cancel the order."
 msgstr "Cancelar el pedido."
 
+#. y4:line_status=translated
 msgctxt "415"
 msgid "Order"
 msgstr "Pagar"
 
+#. y4:line_status=translated
 msgctxt "421"
 msgid "Order the currently selected item.  "
 msgstr "Pedir el objeto actualmente seleccionado.  "
 
+#. y4:line_status=translated
 msgctxt "458"
 msgid "(I haven't picked anything.)  "
 msgstr "(No he escogido nada)"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=dani64amv
+#. y4:reviewed_by=dani64amv
 msgctxt "489"
 msgid "(I'm short on cash.)  "
-msgstr "(Me hace falta dinero)"
+msgstr "(Me hace falta dinero)."
 
+#. y4:line_status=translated
 msgctxt "512"
 msgid "Will that be all for you?"
 msgstr "¿Eso será todo?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "538"
 msgid "(I can't carry any more stuff.)"
 msgstr "(No puedo llevar más cosas)."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "570"
 msgid "(They're sold out.)"
 msgstr "(Están agotados)."
 
+#. y4:line_status=translated
 msgctxt "590"
 msgid "The king of champagnes. Sure to turn heads."
-msgstr "El rey de los champagnes. Seguro que atraerá\n"
-"todas las miradas."
+msgstr "El rey de los champagnes. Seguro que atraerá\ntodas las miradas."
 
+#. y4:line_status=translated
 msgctxt "634"
 msgid "Classy champagne for a classy man."
 msgstr "Champán con clase para un hombre con clase."
 
+#. y4:line_status=translated
 msgctxt "669"
-msgid "A slightly more premium champagne for the\n"
-"discerning customer."
-msgstr "Un champán ligeramente prémium para un\n"
-"cliente más exigente."
+msgid "A slightly more premium champagne for the\ndiscerning customer."
+msgstr "Un champán ligeramente prémium para un\ncliente más exigente."
 
+#. y4:line_status=translated
 msgctxt "732"
-msgid "A middle-of-the-road champagne. Not bad, but\n"
-"nothing too special."
-msgstr "Un champán de calidad media. No está mal, pero\n"
-"nada demasiado especial."
+msgid "A middle-of-the-road champagne. Not bad, but\nnothing too special."
+msgstr "Un champán de calidad media. No está mal, pero\nnada demasiado especial."
 
+#. y4:line_status=translated
 msgctxt "798"
-msgid "A Yamazaki whisky made with carefully selected,\n"
-"mature malts for a flavorful, smooth finish."
-msgstr "Un whisky Yamazaki elaborado con maltas\n"
-"cuidadosamente seleccionadas y maduras, que\n"
-"ofrecen un sabor rico y un final suave."
+msgid "A Yamazaki whisky made with carefully selected,\nmature malts for a flavorful, smooth finish."
+msgstr "Un whisky Yamazaki elaborado con maltas\ncuidadosamente seleccionadas y maduras, que\nofrecen un sabor rico y un final suave."
 
+#. y4:line_status=translated
 msgctxt "891"
 msgid "A simple draft beer with a nice head of foam."
-msgstr "Una cerveza de barril sencilla con una buena\n"
-"espuma."
+msgstr "Una cerveza de barril sencilla con una buena\nespuma."
 
+#. y4:line_status=translated
 msgctxt "937"
-msgid "This is a cocktail of crème de cassis liqueur and \n"
-"orange juice."
-msgstr "Este es un cóctel de licor de crème de cassis y \n"
-"jugo de naranja."
+msgid "This is a cocktail of crème de cassis liqueur and \norange juice."
+msgstr "Este es un cóctel de licor de crème de cassis y \njugo de naranja."
 
+#. y4:line_status=translated
 msgctxt "1003"
 msgid "Plain old orange juice, pulp and all."
 msgstr "Jugo de naranja, con pulpa y todo."
 
+#. y4:line_status=translated
 msgctxt "1041"
-msgid "A clean spring water soju made with premier Korean\n"
-"barley."
+msgid "A clean spring water soju made with premier Korean\nbarley."
 msgstr "Un soju de agua de manantial limpia elaborado con cebada coreana de primera calidad."
 

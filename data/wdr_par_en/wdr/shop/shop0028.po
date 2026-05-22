@@ -1,125 +1,132 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/shop/shop0028.po\n"
-"X-Crowdin-File-ID: 57566\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_translator=dani64amv
+#. y4:last_reviewer=dani64amv
+
+#. y4:line_status=translated
 msgctxt "532"
 msgid "Quit"
 msgstr "Salir"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "537"
 msgid "Cancel the order."
 msgstr "Cancelar el pedido."
 
+#. y4:line_status=translated
 msgctxt "555"
 msgid "Order"
 msgstr "Pagar"
 
+#. y4:line_status=translated
 msgctxt "561"
 msgid "Order the currently selected item.  "
 msgstr "Pedir el objeto actualmente seleccionado.  "
 
+#. y4:line_status=translated
 msgctxt "598"
 msgid "(I haven't picked anything.)  "
 msgstr "(No he escogido nada)"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=dani64amv
+#. y4:reviewed_by=dani64amv
 msgctxt "629"
 msgid "(I'm short on cash.)  "
-msgstr "(Me hace falta dinero)"
+msgstr "(Me hace falta dinero)."
 
+#. y4:line_status=translated
 msgctxt "652"
 msgid "Thanks. That'll be %s."
 msgstr "Gracias, eso serían %s."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "675"
 msgid "(I can't carry any more stuff.)"
 msgstr "(No puedo llevar más cosas)."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "707"
 msgid "(They're sold out.)"
 msgstr "(Están agotados)."
 
+#. y4:line_status=translated
 msgctxt "727"
-msgid "The seventh installment of a film about a space ninja.\n"
-"It's chock full of weird sci-fi weapons."
+msgid "The seventh installment of a film about a space ninja.\nIt's chock full of weird sci-fi weapons."
 msgstr "La séptima entrega de una película sobre un ninja espacial. Puede darte diseños de armas."
 
+#. y4:line_status=translated
 msgctxt "823"
 msgid "A documentary about a man known as the God of Golf."
 msgstr "Un documental sobre un hombre conocido como el Dios del Golf."
 
+#. y4:line_status=translated
 msgctxt "875"
 msgid "A high school romcom about baseball."
 msgstr "Una comedia romántica de secundaria sobre béisbol."
 
+#. y4:line_status=translated
 msgctxt "912"
-msgid "A documentary that follows the life of a master\n"
-"swordsmith. It's extremely rare and valuable."
-msgstr "Un documental que sigue la vida de un maestro\n"
-"herrero de espadas. Es extremadamente raro y valioso."
+msgid "A documentary that follows the life of a master\nswordsmith. It's extremely rare and valuable."
+msgstr "Un documental que sigue la vida de un maestro\nherrero de espadas. Es extremadamente raro y valioso."
 
+#. y4:line_status=translated
 msgctxt "1006"
 msgid "This boxing movie is a real tear jerker."
 msgstr "Esta película de boxeo es para echarse a llorar."
 
+#. y4:line_status=translated
 msgctxt "1047"
-msgid "The newest movie starring Dragon Smash! People\n"
-"have been waiting for this one for a long time, but it\n"
-"was worth the wait."
-msgstr "¡La nueva película protagonizada por Dragon Smash! Las personas\n"
-"han estado esperando esta por mucho tiempo, pero valió la pena."
+msgid "The newest movie starring Dragon Smash! People\nhave been waiting for this one for a long time, but it\nwas worth the wait."
+msgstr "¡La nueva película protagonizada por Dragon Smash! Las personas\nhan estado esperando esta por mucho tiempo, pero valió la pena."
 
+#. y4:line_status=translated
 msgctxt "1169"
-msgid "The long-awaited DVD of a popular mental training\n"
-"TV series."
-msgstr "El esperado DVD de un popular entrenamiento mental\n"
-"de una serie en TV."
+msgid "The long-awaited DVD of a popular mental training\nTV series."
+msgstr "El esperado DVD de un popular entrenamiento mental\nde una serie en TV."
 
+#. y4:line_status=translated
 msgctxt "1230"
-msgid "A sexy idol makes her debut in this movie. The\n"
-"gunplay is surprisingly well choreographed."
-msgstr "Una ídolo sexy hace su debut en esta película. El\n"
-"Gunplay está sorprendentemente bien coreografiado."
+msgid "A sexy idol makes her debut in this movie. The\ngunplay is surprisingly well choreographed."
+msgstr "Una ídolo sexy hace su debut en esta película. El\nGunplay está sorprendentemente bien coreografiado."
 
+#. y4:line_status=translated
 msgctxt "1321"
-msgid "This is a video about old ladies running. I guess some\n"
-"people like this sort of thing."
+msgid "This is a video about old ladies running. I guess some\npeople like this sort of thing."
 msgstr "Este es un video sobre ancianas corriendo. Supongo que algunos le gustan este tipo de cosas."
 
+#. y4:line_status=translated
 msgctxt "1408"
 msgid "This fitness DVD is a big hit. It actually got me dieting."
 msgstr "Este DVD de fitness es un gran éxito. De hecho, me puso a dieta."
 
+#. y4:line_status=translated
 msgctxt "1467"
-msgid "This DVD is a good introduction to self-defense\n"
-"weapons."
+msgid "This DVD is a good introduction to self-defense\nweapons."
 msgstr "Este DVD es una buena introducción a las armas de auto-defensa."
 
+#. y4:line_status=translated
 msgctxt "1524"
 msgid "This DVD introduces a lot of basic brawling techniques."
 msgstr "Este DVD presenta muchas técnicas básicas de pelea."
 
+#. y4:line_status=translated
 msgctxt "1580"
 msgid "If you like occult stuff, you'll enjoy this DVD."
 msgstr "Si te gustan las cosas ocultas, disfrutarás de este DVD."
 
+#. y4:line_status=translated
 msgctxt "1629"
-msgid "The title says it all. You gotta be a badass to kick ass.\n"
-"This is a great guide."
-msgstr "El título lo dice todo. Tienes que ser un badass para patear el culo.\n"
-"Esta es una gran guía."
+msgid "The title says it all. You gotta be a badass to kick ass.\nThis is a great guide."
+msgstr "El título lo dice todo. Tienes que ser un badass para patear el culo.\nEsta es una gran guía."
 

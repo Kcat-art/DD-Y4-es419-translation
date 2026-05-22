@@ -1,111 +1,108 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/shop/shop0030.po\n"
-"X-Crowdin-File-ID: 57570\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:reviewed_by=dani64amv
+#. y4:last_translator=dani64amv
+#. y4:last_reviewer=dani64amv
+
+#. y4:line_status=translated
 msgctxt "392"
 msgid "Quit"
 msgstr "Salir"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "397"
 msgid "Cancel the order."
 msgstr "Cancelar el pedido."
 
+#. y4:line_status=translated
 msgctxt "415"
 msgid "Order"
 msgstr "Pagar"
 
+#. y4:line_status=translated
 msgctxt "421"
 msgid "Order the currently selected item.  "
 msgstr "Pedir el objeto actualmente seleccionado.  "
 
+#. y4:line_status=translated
 msgctxt "458"
 msgid "(I haven't picked anything.)  "
 msgstr "(No he escogido nada)"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=dani64amv
+#. y4:reviewed_by=dani64amv
 msgctxt "489"
 msgid "(I'm short on cash.)  "
-msgstr "(Me hace falta dinero)"
+msgstr "(Me hace falta dinero)."
 
+#. y4:line_status=translated
 msgctxt "512"
 msgid "%s please."
 msgstr "%s por favor."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "523"
 msgid "(I can't carry any more stuff.)"
 msgstr "(No puedo llevar más cosas)."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "555"
 msgid "(They're sold out.)"
 msgstr "(Están agotados)."
 
+#. y4:line_status=translated
 msgctxt "575"
-msgid "This is a plate made of platinum. Pretty rare and \n"
-"worth a lot."
-msgstr "Este es un plato hecho de platino. Bastante raro y \n"
-"costoso."
+msgid "This is a plate made of platinum. Pretty rare and \nworth a lot."
+msgstr "Este es un plato hecho de platino. Bastante raro y \ncostoso."
 
+#. y4:line_status=translated
 msgctxt "639"
-msgid "This plate is made of gold. It's worth its weight in... \n"
-"Well, it's made of gold. Need I say more?"
-msgstr "Este plato está hecho de oro. Lo vale por su peso en... \n"
-"Bueno, está hecho de oro. ¿Hace falta decir más?"
+msgid "This plate is made of gold. It's worth its weight in... \nWell, it's made of gold. Need I say more?"
+msgstr "Este plato está hecho de oro. Lo vale por su peso en... \nBueno, está hecho de oro. ¿Hace falta decir más?"
 
+#. y4:line_status=translated
 msgctxt "738"
-msgid "This plate is made of silver. Only worth a fraction of a\n"
-"gold plate, but valuable nonetheless."
-msgstr "Este plato está hecho de plata. Solo vale una fracción de un \n"
-"plato de oro, pero nada valioso."
+msgid "This plate is made of silver. Only worth a fraction of a\ngold plate, but valuable nonetheless."
+msgstr "Este plato está hecho de plata. Solo vale una fracción de un \nplato de oro, pero nada valioso."
 
+#. y4:line_status=translated
 msgctxt "833"
-msgid "A plate made of bronze. Nothing special, but it could\n"
-"probably fetch some decent cash."
-msgstr "Un plato hecho de bronce. Nada especial, pero\n"
-"probablemente podría valer algo de dinero."
+msgid "A plate made of bronze. Nothing special, but it could\nprobably fetch some decent cash."
+msgstr "Un plato hecho de bronce. Nada especial, pero\nprobablemente podría valer algo de dinero."
 
+#. y4:line_status=translated
 msgctxt "920"
-msgid "This plate is made of iron. Might be more useful for \n"
-"beating someone over the head, but it's still worth a\n"
-"fistful of yen."
-msgstr "Este plato está hecho de hierro. Podría ser más útil para\n"
-"golpear a alguien en la cabeza, pero aun así vale un\n"
-"puñado de yenes."
+msgid "This plate is made of iron. Might be more useful for \nbeating someone over the head, but it's still worth a\nfistful of yen."
+msgstr "Este plato está hecho de hierro. Podría ser más útil para\ngolpear a alguien en la cabeza, pero aun así vale un\npuñado de yenes."
 
+#. y4:line_status=translated
 msgctxt "1044"
 msgid "Tauriner Maximum is the ultimate energy drink."
 msgstr "Tauriner Maximum es la bebida energética definitiva."
 
+#. y4:line_status=translated
 msgctxt "1091"
-msgid "This chain mail dates back to Japan's Sengoku Period.\n"
-"It still provides solid protection against bladed\n"
-"weapons."
-msgstr "Esta cota de malla se remonta al período Sengoku de\n"
-"Japón. Aún proporciona una sólida protección contra\n"
-"armas cortantes."
+msgid "This chain mail dates back to Japan's Sengoku Period.\nIt still provides solid protection against bladed\nweapons."
+msgstr "Esta cota de malla se remonta al período Sengoku de\nJapón. Aún proporciona una sólida protección contra\narmas cortantes."
 
+#. y4:line_status=translated
 msgctxt "1204"
-msgid "We've had this Gambler's Binding custom made, and\n"
-"you won't find it anywhere else. Pretty nice, huh?"
-msgstr "Hemos hecho a medida este sarashi de apostador y\n"
-"no lo encontrarás en ningún otro lugar. Bastante bonito, ¿eh?"
+msgid "We've had this Gambler's Binding custom made, and\nyou won't find it anywhere else. Pretty nice, huh?"
+msgstr "Hemos hecho a medida este sarashi de apostador y\nno lo encontrarás en ningún otro lugar. Bastante bonito, ¿eh?"
 
+#. y4:line_status=translated
 msgctxt "1305"
-msgid "This is the Goddess of Children Amulet. I don't have \n"
-"to tell you what this thing's for... do I?"
-msgstr "Este es el Amuleto de Kishimojin. Un símbolo de \n"
-"protección para los niños y la armonía familiar."
+msgid "This is the Goddess of Children Amulet. I don't have \nto tell you what this thing's for... do I?"
+msgstr "Este es el Amuleto de Kishimojin. Un símbolo de \nprotección para los niños y la armonía familiar."
 

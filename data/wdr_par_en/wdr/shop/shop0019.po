@@ -1,79 +1,82 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/shop/shop0019.po\n"
-"X-Crowdin-File-ID: 57548\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_translator=dani64amv
+#. y4:last_reviewer=dani64amv
+
+#. y4:line_status=translated
 msgctxt "252"
 msgid "Quit"
 msgstr "Salir"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "257"
 msgid "Cancel the order."
 msgstr "Cancelar el pedido."
 
+#. y4:line_status=translated
 msgctxt "275"
 msgid "Order"
 msgstr "Pagar"
 
+#. y4:line_status=translated
 msgctxt "281"
 msgid "Order the currently selected item.  "
 msgstr "Pedir el objeto actualmente seleccionado.  "
 
+#. y4:line_status=translated
 msgctxt "318"
 msgid "(I haven't picked anything.)  "
 msgstr "(No he escogido nada)"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=dani64amv
+#. y4:reviewed_by=dani64amv
 msgctxt "349"
 msgid "(I'm short on cash.)  "
-msgstr "(Me hace falta dinero)"
+msgstr "(Me hace falta dinero)."
 
+#. y4:line_status=translated
 msgctxt "372"
 msgid "Hey, thanks! That'll be %s."
 msgstr "Gracias. Eso será %s."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "400"
 msgid "(I can't carry any more stuff.)"
 msgstr "(No puedo llevar más cosas)."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "432"
 msgid "(They're sold out.)"
 msgstr "(Están agotados)."
 
+#. y4:line_status=translated
 msgctxt "452"
-msgid "A popular after work drink. It charges up your health\n"
-"and Heat a little."
-msgstr "Una bebida popular para después del trabajo. \n"
-"Recarga un poco tu Heat y salud."
+msgid "A popular after work drink. It charges up your health\nand Heat a little."
+msgstr "Una bebida popular para después del trabajo. \nRecarga un poco tu Heat y salud."
 
+#. y4:line_status=translated
 msgctxt "525"
-msgid "One of our most popular products. It'll charge up your\n"
-"Heat a bit."
-msgstr "Uno de nuestros productos más populares. Cargará tu\n"
-"Heat un poco."
+msgid "One of our most popular products. It'll charge up your\nHeat a bit."
+msgstr "Uno de nuestros productos más populares. Cargará tu\nHeat un poco."
 
+#. y4:line_status=translated
 msgctxt "592"
-msgid "You like that black umbrella? You could probably use\n"
-"it for a weapon. Hell, my pops was a beast with one."
-msgstr "¿Te gusta ese paraguas negro? Probablemente podrías usarlo\n"
-"como arma. Demonios, mi padre era una bestia con uno."
+msgid "You like that black umbrella? You could probably use\nit for a weapon. Hell, my pops was a beast with one."
+msgstr "¿Te gusta ese paraguas negro? Probablemente podrías usarlo\ncomo arma. Demonios, mi padre era una bestia con uno."
 
+#. y4:line_status=translated
 msgctxt "698"
-msgid "This smells so bad, it might save your ass in a fight. \n"
-"Just leave it behind when you go to the club!"
-msgstr "Esto huele tan mal que podría salvarte el culo en una pelea. \n"
-"¡Solo olvídalo cuando vayas al club!"
+msgid "This smells so bad, it might save your ass in a fight. \nJust leave it behind when you go to the club!"
+msgstr "Esto huele tan mal que podría salvarte el culo en una pelea. \n¡Solo olvídalo cuando vayas al club!"
 

@@ -1,87 +1,92 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/shop/shop0013.po\n"
-"X-Crowdin-File-ID: 57536\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:reviewed_by=dani64amv
+#. y4:last_translator=dani64amv
+#. y4:last_reviewer=dani64amv
+
+#. y4:line_status=translated
 msgctxt "308"
 msgid "Quit"
 msgstr "Salir"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "313"
 msgid "Cancel the order."
 msgstr "Cancelar el pedido."
 
+#. y4:line_status=translated
 msgctxt "331"
 msgid "Order"
 msgstr "Pagar"
 
+#. y4:line_status=translated
 msgctxt "337"
 msgid "Order the currently selected item.  "
 msgstr "Pedir el objeto actualmente seleccionado.  "
 
+#. y4:line_status=translated
 msgctxt "374"
 msgid "(I haven't picked anything.)  "
 msgstr "(No he escogido nada)"
 
+#. y4:line_status=translated
+#. y4:translated_by=dani64amv
 msgctxt "405"
 msgid "(I'm short on cash.)  "
-msgstr "(Me hace falta dinero)"
+msgstr "(Me hace falta dinero)."
 
+#. y4:line_status=translated
 msgctxt "428"
 msgid "Will that be all for you?"
 msgstr "¿Eso será todo?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "454"
 msgid "(I can't carry any more stuff.)"
 msgstr "(No puedo llevar más cosas)."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "486"
 msgid "(They're sold out.)"
 msgstr "(Están agotados)."
 
+#. y4:line_status=translated
 msgctxt "506"
 msgid "This gorgeous platter is overflowing with fresh fruits."
 msgstr "Esta hermosa bandeja rebosa de frutas frescas."
 
+#. y4:line_status=translated
 msgctxt "562"
 msgid "A basket of deep-fried chicken thigh meat."
 msgstr "Una cesta de muslos de pollo fritos."
 
+#. y4:line_status=translated
 msgctxt "605"
-msgid "These vegetable sticks are made only from the \n"
-"freshest organic vegetables."
-msgstr "Estas brochetas de verduras están hechas\n"
-"únicamente con las verduras orgánicas más frescas."
+msgid "These vegetable sticks are made only from the \nfreshest organic vegetables."
+msgstr "Estas brochetas de verduras están hechas\núnicamente con las verduras orgánicas más frescas."
 
+#. y4:line_status=translated
 msgctxt "681"
-msgid "We lightly grill this fresh ray fin over coals to give it \n"
-"that sweet, roasted flavor."
-msgstr "Asamos ligeramente esta aleta de raya fresca sobre\n"
-"brasas para darle ese dulce sabor tostado."
+msgid "We lightly grill this fresh ray fin over coals to give it \nthat sweet, roasted flavor."
+msgstr "Asamos ligeramente esta aleta de raya fresca sobre\nbrasas para darle ese dulce sabor tostado."
 
+#. y4:line_status=translated
 msgctxt "768"
-msgid "This high-grade chocolate was made by a renowned\n"
-"European patissier."
-msgstr "Este chocolate de alta calidad fue elaborado por un\n"
-"reconocido pastelero europeo."
+msgid "This high-grade chocolate was made by a renowned\nEuropean patissier."
+msgstr "Este chocolate de alta calidad fue elaborado por un\nreconocido pastelero europeo."
 
+#. y4:line_status=translated
 msgctxt "837"
-msgid "These fresh vegetables have been marinated in salt \n"
-"and flavored with seaweed broth."
-msgstr "Estas verduras frescas han sido marinadas en sal \n"
-"y aderezadas con caldo de algas marinas."
+msgid "These fresh vegetables have been marinated in salt \nand flavored with seaweed broth."
+msgstr "Estas verduras frescas han sido marinadas en sal \ny aderezadas con caldo de algas marinas."
 

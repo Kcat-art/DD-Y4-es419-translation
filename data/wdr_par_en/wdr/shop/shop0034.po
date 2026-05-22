@@ -1,107 +1,102 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/shop/shop0034.po\n"
-"X-Crowdin-File-ID: 57578\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=untranslated
+#. y4:last_translator=dani64amv
+
+#. y4:line_status=translated
 msgctxt "392"
 msgid "Quit"
 msgstr "Salir"
 
+#. y4:line_status=translated
 msgctxt "397"
 msgid "Cancel the order."
 msgstr "Cancelar el pedido."
 
+#. y4:line_status=translated
 msgctxt "415"
 msgid "Order"
 msgstr "Pagar"
 
+#. y4:line_status=translated
 msgctxt "421"
 msgid "Order the currently selected item.  "
 msgstr "Pedir el objeto actualmente seleccionado.  "
 
+#. y4:line_status=translated
 msgctxt "458"
 msgid "(I haven't picked anything.)  "
 msgstr "(No he escogido nada)"
 
+#. y4:line_status=translated
+#. y4:translated_by=dani64amv
 msgctxt "489"
 msgid "(I'm short on cash.)  "
-msgstr "(Me hace falta dinero)"
+msgstr "(Me hace falta dinero)."
 
+#. y4:line_status=translated
 msgctxt "512"
 msgid "Thank you. That'll be %s."
 msgstr "Gracias. Eso sería %s."
 
+#. y4:line_status=translated
 msgctxt "538"
 msgid "(I can't carry any more stuff.)"
 msgstr "(No puedo llevar más cosas)."
 
+#. y4:line_status=translated
 msgctxt "570"
 msgid "(They're sold out.)"
 msgstr "(Están agotados)."
 
+#. y4:line_status=translated
 msgctxt "590"
-msgid "The limited-edition Kamuro Burger: an enticing\n"
-"combination of avocado, tomato, and cheese. To go."
-msgstr "La hamburguesa Kamuro de edición limitada: una tentadora\n"
-"combinación de aguacate, tomate, y queso. Para llevar."
+msgid "The limited-edition Kamuro Burger: an enticing\ncombination of avocado, tomato, and cheese. To go."
+msgstr "La hamburguesa Kamuro de edición limitada: una tentadora\ncombinación de aguacate, tomate, y queso. Para llevar."
 
+#. y4:line_status=translated
 msgctxt "688"
-msgid "Our classic burger set, with a Smile Burger, fries, and\n"
-"a drink. To go."
-msgstr "Nuestro clásico combo, con una Hamburguesa Smile,\n"
-"papas fritas y una bebida. Para llevar."
+msgid "Our classic burger set, with a Smile Burger, fries, and\na drink. To go."
+msgstr "Nuestro clásico combo, con una Hamburguesa Smile,\npapas fritas y una bebida. Para llevar."
 
+#. y4:line_status=translated
 msgctxt "760"
-msgid "This set includes a Smile Cheeseburger, fries, and a\n"
-"drink. To go."
-msgstr "Este combo incluye una hamburguesa de queso Smile,\n"
-"papas fritas y una bebida. Para llevar."
+msgid "This set includes a Smile Cheeseburger, fries, and a\ndrink. To go."
+msgstr "Este combo incluye una hamburguesa de queso Smile,\npapas fritas y una bebida. Para llevar."
 
+#. y4:line_status=translated
 msgctxt "827"
-msgid "This set includes a Teriyaki Smile Burger with special\n"
-"sauce, fries, and a drink. To go."
-msgstr "Este combo incluye una hamburguesa Teriyaki Smile\n"
-"con salsa especial, papas fritas y una bebida. Para llevar."
+msgid "This set includes a Teriyaki Smile Burger with special\nsauce, fries, and a drink. To go."
+msgstr "Este combo incluye una hamburguesa Teriyaki Smile\ncon salsa especial, papas fritas y una bebida. Para llevar."
 
+#. y4:line_status=translated
 msgctxt "916"
-msgid "As advertised, this set comes with a King Smile \n"
-"Burger, fries, and a drink. To go."
+msgid "As advertised, this set comes with a King Smile \nBurger, fries, and a drink. To go."
 msgstr "Como se anuncia, este combo viene con una Hamburguesa Rey Smile, papas fritas y una bebida. Para llevar."
 
+#. y4:line_status=translated
 msgctxt "1000"
-msgid "A tasty Tuna Burger with a unique texture. Fries and \n"
-"a drink come with this set. To go."
-msgstr "Una sabrosa hamburguesa de atún con una textura única. \n"
-"Patatas fritas y una bebida. Para llevar."
+msgid "A tasty Tuna Burger with a unique texture. Fries and \na drink come with this set. To go."
+msgstr "Una sabrosa hamburguesa de atún con una textura única. \nPatatas fritas y una bebida. Para llevar."
 
+#. y4:line_status=translated
 msgctxt "1089"
-msgid "A tender, stewed pork burger with fries and a drink.\n"
-"To go."
-msgstr "Una tierna hamburguesa de cerdo estofado con papas\n"
-"fritas y una bebida. Para llevar."
+msgid "A tender, stewed pork burger with fries and a drink.\nTo go."
+msgstr "Una tierna hamburguesa de cerdo estofado con papas\nfritas y una bebida. Para llevar."
 
+#. y4:line_status=translated
 msgctxt "1149"
-msgid "A Smile Shake made with fresh milk. Sure to put a \n"
-"smile on anyone's face. To go."
-msgstr "Un batido Smile hecho con leche fresca. Seguro que \n"
-"hará sonreír a cualquiera. Para llevar."
+msgid "A Smile Shake made with fresh milk. Sure to put a \nsmile on anyone's face. To go."
+msgstr "Un batido Smile hecho con leche fresca. Seguro que \nhará sonreír a cualquiera. Para llevar."
 
+#. y4:line_status=translated
 msgctxt "1231"
-msgid "The golden-fried standard of french fries. Served \n"
-"with a smile. To go."
+msgid "The golden-fried standard of french fries. Served \nwith a smile. To go."
 msgstr "Las clásicas y doradas papas fritas. Servidas con una sonrisa. Para llevar."
 

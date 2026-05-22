@@ -1,118 +1,113 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/shop/shop0003.po\n"
-"X-Crowdin-File-ID: 57516\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:reviewed_by=dani64amv
+#. y4:last_translator=dani64amv
+#. y4:last_reviewer=dani64amv
+
+#. y4:line_status=translated
 msgctxt "420"
 msgid "Quit"
 msgstr "Salir"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "425"
 msgid "Cancel the order."
 msgstr "Cancelar el pedido."
 
+#. y4:line_status=translated
 msgctxt "443"
 msgid "Order"
 msgstr "Pagar"
 
+#. y4:line_status=translated
 msgctxt "449"
 msgid "Order the currently selected item.  "
 msgstr "Pedir el objeto actualmente seleccionado.  "
 
+#. y4:line_status=translated
 msgctxt "486"
 msgid "(I haven't picked anything.)  "
 msgstr "(No he escogido nada)"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=dani64amv
+#. y4:reviewed_by=dani64amv
 msgctxt "517"
 msgid "(I'm short on cash.)  "
-msgstr "(Me hace falta dinero)"
+msgstr "(Me hace falta dinero)."
 
+#. y4:line_status=translated
 msgctxt "540"
 msgid "Thank you very much. That is %s."
 msgstr "Muchas gracias. Serán %s."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "573"
 msgid "(I can't carry any more stuff.)"
 msgstr "(No puedo llevar más cosas)."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=dani64amv
 msgctxt "605"
 msgid "(They're sold out.)"
 msgstr "(Están agotados)."
 
+#. y4:line_status=translated
 msgctxt "625"
-msgid "A delicious blend of Guatemalan coffee beans, a little\n"
-"milk, and a hint of sugar."
-msgstr "Una deliciosa mezcla de granos de café guatemalteco,\n"
-"un poco de leche y un toque de azúcar."
+msgid "A delicious blend of Guatemalan coffee beans, a little\nmilk, and a hint of sugar."
+msgstr "Una deliciosa mezcla de granos de café guatemalteco,\nun poco de leche y un toque de azúcar."
 
+#. y4:line_status=translated
 msgctxt "707"
-msgid "Only contains the finest coffee beans for a rich, \n"
-"luxurious flavor."
-msgstr "Contiene únicamente los mejores granos de café \n"
-"para un sabor rico y lujoso."
+msgid "Only contains the finest coffee beans for a rich, \nluxurious flavor."
+msgstr "Contiene únicamente los mejores granos de café \npara un sabor rico y lujoso."
 
+#. y4:line_status=translated
 msgctxt "776"
-msgid "Bitter, but it's smoother than you'd expect. A real \n"
-"adult taste."
-msgstr "Amargo, pero es más suave de lo que esperas. Un \n"
-"sabor realmente adulto."
+msgid "Bitter, but it's smoother than you'd expect. A real \nadult taste."
+msgstr "Amargo, pero es más suave de lo que esperas. Un \nsabor realmente adulto."
 
+#. y4:line_status=translated
 msgctxt "842"
-msgid "Popular for its roasted scent and rich, refreshing \n"
-"aftertaste."
-msgstr "Popular por su aroma tostado y su rico y refrescante \n"
-"sabor residual."
+msgid "Popular for its roasted scent and rich, refreshing \naftertaste."
+msgstr "Popular por su aroma tostado y su rico y refrescante \nsabor residual."
 
+#. y4:line_status=translated
 msgctxt "906"
 msgid "Pairs with anything and helps you lose weight."
 msgstr "Combina con todo y ayuda a perder peso."
 
+#. y4:line_status=translated
 msgctxt "953"
-msgid "A half liter of Suntory Mineral Water from the \n"
-"Minami Alps. I hear it's runoff from Mount  \n"
-"Kai-Komagatake."
-msgstr "Medio litro de Agua Mineral Suntory de Minami Alps.\n"
-"Escuché que es el deshielo del Monte Kai-Komagatake."
+msgid "A half liter of Suntory Mineral Water from the \nMinami Alps. I hear it's runoff from Mount  \nKai-Komagatake."
+msgstr "Medio litro de Agua Mineral Suntory de Minami Alps.\nEscuché que es el deshielo del Monte Kai-Komagatake."
 
+#. y4:line_status=translated
 msgctxt "1062"
-msgid "A half liter of Suntory's Iyemon green tea, brewed in\n"
-"the purest spring water."
-msgstr "Medio litro de té verde de limón Suntory, elaborado\n"
-"con el agua de manantial más pura."
+msgid "A half liter of Suntory's Iyemon green tea, brewed in\nthe purest spring water."
+msgstr "Medio litro de té verde de limón Suntory, elaborado\ncon el agua de manantial más pura."
 
+#. y4:line_status=translated
 msgctxt "1141"
-msgid "A half liter of Suntory's Iyemon Rich green tea, \n"
-"brewed in the purest spring water for an extra bold\n"
-"flavor."
-msgstr "Medio litro de té verde Iyemon Rich de Suntory,\n"
-"elaborado en el agua de manantial más pura para un\n"
-"sabor extra audaz."
+msgid "A half liter of Suntory's Iyemon Rich green tea, \nbrewed in the purest spring water for an extra bold\nflavor."
+msgstr "Medio litro de té verde Iyemon Rich de Suntory,\nelaborado en el agua de manantial más pura para un\nsabor extra audaz."
 
+#. y4:line_status=translated
 msgctxt "1251"
-msgid "Lemon soda packed with 70 lemons worth of\n"
-"vitamin C and juice squeezed from real lemons. It's\n"
-"both refreshing and healthy. "
-msgstr "Refresco de limón con 70 limones llenos de vitamina\n"
-"C y jugo exprimido de autenticos limones.\n"
-"Es refrescante y saludable. "
+msgid "Lemon soda packed with 70 lemons worth of\nvitamin C and juice squeezed from real lemons. It's\nboth refreshing and healthy. "
+msgstr "Refresco de limón con 70 limones llenos de vitamina\nC y jugo exprimido de autenticos limones.\nEs refrescante y saludable. "
 
+#. y4:line_status=translated
 msgctxt "1375"
-msgid "Sesame-wheat tea is  great for lowering blood\n"
-"pressure."
-msgstr "El té de sésamo y trigo es excelente para reducir la \n"
-"presión arterial."
+msgid "Sesame-wheat tea is  great for lowering blood\npressure."
+msgstr "El té de sésamo y trigo es excelente para reducir la \npresión arterial."
 

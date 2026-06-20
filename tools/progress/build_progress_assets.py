@@ -7,7 +7,15 @@ ROOT = Path(__file__).resolve().parents[2]
 OUT_DIR = ROOT / "assets" / "progress"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-STATUS_RE = re.compile(r'^#\.\s+lineStatus:\s*(.+)$', re.MULTILINE)
+LINE_STATUS_RE = re.compile(
+    r'^#\.\s+(?:lineStatus\s*:\s*|y4:line_status\s*=\s*)(.+)$',
+    re.MULTILINE | re.IGNORECASE
+)
+
+FILE_STATUS_RE = re.compile(
+    r'^#\.\s+(?:fileStatus\s*:\s*|y4:file_status\s*=\s*)(.+)$',
+    re.MULTILINE | re.IGNORECASE
+)
 MSGSTR_RE = re.compile(r'^msgstr\s+"(.*)"\s*$', re.MULTILINE)
 
 
@@ -46,9 +54,16 @@ def iter_entries(text: str):
         yield block
 
 
+def normalize_status(value: str) -> str:
+    return value.strip().strip('"').lower()
+
+
 def parse_po(path: Path):
     text = path.read_text(encoding="utf-8", errors="replace")
     total = translated = reviewed = 0
+
+    file_statuses = FILE_STATUS_RE.findall(text)
+    file_reviewed = any(normalize_status(s) == "reviewed" for s in file_statuses)
 
     for block in iter_entries(text):
         total += 1
@@ -57,8 +72,12 @@ def parse_po(path: Path):
         if msgstr_match and msgstr_match.group(1) != "":
             translated += 1
 
-        statuses = STATUS_RE.findall(block)
-        if statuses and statuses[-1].strip().lower() == "reviewed":
+        line_statuses = LINE_STATUS_RE.findall(block)
+
+        if line_statuses:
+            if normalize_status(line_statuses[-1]) == "reviewed":
+                reviewed += 1
+        elif file_reviewed:
             reviewed += 1
 
     return total, translated, reviewed

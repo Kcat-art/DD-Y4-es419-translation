@@ -287,4 +287,3 @@ Proyecto de traducción realizado por **Dragones de Dojima**.
 - [lauU](https://github.com/laupank)
 - [Brasi](https://github.com/BrasiGaming)
 - [Master](https://github.com/MastterCry)
-test

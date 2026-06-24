@@ -1,33 +1,37 @@
 {
   "files_total": 4998,
-  "files_translated": 4393,
-  "files_reviewed": 22,
-  "entries_total": 112389,
-  "entries_translated": 99374,
-  "entries_reviewed": 1202,
-  "pct_translated": 88.42,
-  "pct_reviewed": 1.07,
-  "pct_global": 44.74,
+  "files_translated": 4337,
+  "files_reviewed": 24,
+  "entries_total": 107548,
+  "entries_translated": 94829,
+  "entries_reviewed": 1177,
+  "entries_hidden": 4841,
+  "hidden_terms_count": 15,
+  "pct_translated": 88.17,
+  "pct_reviewed": 1.09,
+  "pct_global": 44.63,
   "areas": {
     "Cinemáticas": {
       "files_total": 136,
-      "files_translated": 131,
-      "files_reviewed": 5,
+      "files_translated": 129,
+      "files_reviewed": 7,
       "total": 3162,
       "translated": 3162,
-      "reviewed": 316,
+      "reviewed": 318,
+      "hidden": 0,
       "pct_translated": 100.0,
-      "pct_reviewed": 9.99
+      "pct_reviewed": 10.06
     },
     "Diálogos": {
       "files_total": 2418,
-      "files_translated": 1822,
+      "files_translated": 1820,
       "files_reviewed": 16,
-      "total": 81372,
-      "translated": 68416,
-      "reviewed": 236,
-      "pct_translated": 84.08,
-      "pct_reviewed": 0.29
+      "total": 76921,
+      "translated": 64261,
+      "reviewed": 211,
+      "hidden": 4451,
+      "pct_translated": 83.54,
+      "pct_reviewed": 0.27
     }
   }
 }

@@ -1,60 +1,56 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid000203ee.po\n"
-"X-Crowdin-File-ID: 60774\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=translated
 msgctxt "1140"
 msgid "Worker Kawasaki"
 msgstr "Trabajador Kawasaki"
 
+#. y4:line_status=translated
 msgctxt "1144"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "1148"
 msgid "Worker Omori"
 msgstr "Trabajador Omori"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "1152"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "56_Worker Kawasaki"
 msgid "Something isn't right with that manhole."
 msgstr "Algo anda mal con esa alcantarilla."
 
+#. y4:line_status=translated
 msgctxt "68_Worker Omori"
-msgid "I know, it's creeping me out. I keep hearing noises\\r\n"
-"coming from beyond the blocked-off area."
-msgstr "Lo sé, da miedo. Sigo escuchando sonidos\\r\n"
-"que vienen desde el área bloqueada."
+msgid "I know, it's creeping me out. I keep hearing noises\\r\ncoming from beyond the blocked-off area."
+msgstr "Lo sé, da miedo. Sigo escuchando sonidos\\r\nque vienen desde el área bloqueada."
 
+#. y4:line_status=translated
 msgctxt "80_Worker Kawasaki"
-msgid "Yeah, me too. And if I didn't know any better, I'd swear\\r\n"
-"I saw footprints leading in and out of the darn thing."
-msgstr "Yo igual. Además, juraría que vi huellas\\r\n"
-"que van y vienen de la cosa esa."
+msgid "Yeah, me too. And if I didn't know any better, I'd swear\\r\nI saw footprints leading in and out of the darn thing."
+msgstr "Yo igual. Además, juraría que vi huellas\\r\nque van y vienen de la cosa esa."
 
+#. y4:line_status=translated
 msgctxt "92_Worker Omori"
-msgid "Oh, they're real. But I took a closer look, and get this:\\r\n"
-"they're not work boots like ours, they're dress shoes."
-msgstr "Oh, son reales. Las miré más de cerca, y escucha esto:\\r\n"
-"No son de botas de trabajo como las nuestras, son de zapatos de vestir."
+msgid "Oh, they're real. But I took a closer look, and get this:\\r\nthey're not work boots like ours, they're dress shoes."
+msgstr "Oh, son reales. Las miré más de cerca, y escucha esto:\\r\nNo son de botas de trabajo como las nuestras, son de zapatos de vestir."
 
+#. y4:line_status=translated
 msgctxt "104_Saejima"
 msgid "(What're dressed-up folks doing crawlin' down a manhole?)"
 msgstr "(¿Qué hace gente de traje arrastrándose por una alcantarilla?)."

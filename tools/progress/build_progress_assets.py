@@ -1,22 +1,26 @@
+from __future__ import annotations
+
 from pathlib import Path
+import ast
 import json
 import re
 from collections import defaultdict
 
 ROOT = Path(__file__).resolve().parents[2]
 OUT_DIR = ROOT / "assets" / "progress"
+HIDDEN_LINES_PATH = ROOT / "assets" / "companion" / "hidden_lines.json"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 LINE_STATUS_RE = re.compile(
     r'^#\.\s+(?:lineStatus\s*:\s*|y4:line_status\s*=\s*)(.+)$',
-    re.MULTILINE | re.IGNORECASE
+    re.MULTILINE | re.IGNORECASE,
 )
-
 FILE_STATUS_RE = re.compile(
     r'^#\.\s+(?:fileStatus\s*:\s*|y4:file_status\s*=\s*)(.+)$',
-    re.MULTILINE | re.IGNORECASE
+    re.MULTILINE | re.IGNORECASE,
 )
-MSGSTR_RE = re.compile(r'^msgstr\s+"(.*)"\s*$', re.MULTILINE)
+REVIEWED_BY_RE = re.compile(r'^#\.\s+y4:reviewed_by\s*=\s*(.+)$', re.MULTILINE | re.IGNORECASE)
+FIELD_START_RE = re.compile(r'^(msgctxt|msgid|msgstr)\s+(.+)$')
 
 
 def format_pct(value: float) -> str:
@@ -41,8 +45,44 @@ def combined_progress_pct(translated: int, reviewed: int, total: int) -> float:
     return ((translated + reviewed) * 100.0) / (2.0 * total)
 
 
+def normalize_status(value: str) -> str:
+    return value.strip().strip('"').lower()
+
+
+def po_unquote(value: str) -> str:
+    value = value.strip()
+    if not value.startswith('"'):
+        return ""
+    try:
+        return ast.literal_eval(value)
+    except Exception:
+        return value.strip('"')
+
+
+def extract_po_field(block: str, field_name: str) -> str:
+    lines = block.splitlines()
+    out: list[str] = []
+    collecting = False
+    for line in lines:
+        m = FIELD_START_RE.match(line)
+        if m:
+            current = m.group(1)
+            collecting = current == field_name
+            if collecting:
+                out.append(po_unquote(m.group(2)))
+            continue
+        if collecting and line.strip().startswith('"'):
+            out.append(po_unquote(line.strip()))
+            continue
+        if collecting and (line.startswith('#') or line.strip() == ""):
+            continue
+        if collecting:
+            break
+    return "".join(out)
+
+
 def iter_entries(text: str):
-    blocks = text.split("\n\n")
+    blocks = re.split(r'\n\s*\n', text)
     for block in blocks:
         if not block.strip():
             continue
@@ -54,44 +94,65 @@ def iter_entries(text: str):
         yield block
 
 
-def normalize_status(value: str) -> str:
-    return value.strip().strip('"').lower()
+def load_hidden_terms() -> list[str]:
+    if not HIDDEN_LINES_PATH.exists():
+        return []
+    try:
+        data = json.loads(HIDDEN_LINES_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        return []
+    terms = data.get("blocked_terms", [])
+    if not isinstance(terms, list):
+        return []
+    cleaned = sorted({str(term).strip().lower() for term in terms if str(term).strip()})
+    return cleaned
 
 
-def parse_po(path: Path):
+def is_hidden_entry(block: str, hidden_terms: list[str]) -> bool:
+    if not hidden_terms:
+        return False
+    haystack = "\n".join(
+        [
+            extract_po_field(block, "msgctxt"),
+            extract_po_field(block, "msgid"),
+            extract_po_field(block, "msgstr"),
+        ]
+    ).lower()
+    return any(term in haystack for term in hidden_terms)
+
+
+def parse_po(path: Path, hidden_terms: list[str]):
     text = path.read_text(encoding="utf-8", errors="replace")
-    total = translated = reviewed = 0
-
+    total = translated = reviewed = hidden = 0
     file_statuses = FILE_STATUS_RE.findall(text)
     file_reviewed = any(normalize_status(s) == "reviewed" for s in file_statuses)
 
     for block in iter_entries(text):
+        if is_hidden_entry(block, hidden_terms):
+            hidden += 1
+            continue
         total += 1
-
-        msgstr_match = MSGSTR_RE.search(block)
-        if msgstr_match and msgstr_match.group(1) != "":
+        msgstr = extract_po_field(block, "msgstr")
+        if msgstr != "":
             translated += 1
 
         line_statuses = LINE_STATUS_RE.findall(block)
-
-        if line_statuses:
-            if normalize_status(line_statuses[-1]) == "reviewed":
-                reviewed += 1
+        if line_statuses and normalize_status(line_statuses[-1]) == "reviewed":
+            reviewed += 1
+        elif REVIEWED_BY_RE.search(block):
+            reviewed += 1
         elif file_reviewed:
             reviewed += 1
 
-    return total, translated, reviewed
+    return total, translated, reviewed, hidden
 
 
 def classify_area(repo_relative: str) -> str | None:
     p = repo_relative.replace("\\", "/").lower()
-
     if p.startswith("data/auth/subtitle/"):
         return "Cinemáticas"
-
     if "/msg/" in p:
         return "Diálogos"
-
     return None
 
 
@@ -103,16 +164,17 @@ def build_readme_progress_md(summary: dict, areas: dict) -> str:
     lines.append("")
     lines.append(
         f"**Traducción global:** {summary['entries_translated']}/{summary['entries_total']} "
-        f"({format_pct(summary['pct_translated'])}%)  "
+        f"({format_pct(summary['pct_translated'])}%)"
     )
     lines.append(
         f"**Revisión global:** {summary['entries_reviewed']}/{summary['entries_total']} "
         f"({format_pct(summary['pct_reviewed'])}%)"
     )
+    if summary.get("entries_hidden"):
+        lines.append(f"**Líneas bloqueadas excluidas:** {summary['entries_hidden']}")
     lines.append("")
     lines.append("| Área | Traducción | Revisión |")
     lines.append("|---|---:|---:|")
-
     order = ["Diálogos", "Cinemáticas"]
     for area_name in order:
         if area_name not in areas:
@@ -123,12 +185,14 @@ def build_readme_progress_md(summary: dict, areas: dict) -> str:
             f"{data['translated']}/{data['total']} ({format_pct(data['pct_translated'])}%) | "
             f"{data['reviewed']}/{data['total']} ({format_pct(data['pct_reviewed'])}%) |"
         )
-
     return "\n".join(lines) + "\n"
 
 
 def main():
     print("[1/5] Buscando archivos .po...", flush=True)
+    hidden_terms = load_hidden_terms()
+    if hidden_terms:
+        print(f"[hidden] Excluyendo {len(hidden_terms)} término(s) de assets/companion/hidden_lines.json", flush=True)
 
     files_total = 0
     files_translated = 0
@@ -136,6 +200,7 @@ def main():
     entries_total = 0
     entries_translated = 0
     entries_reviewed = 0
+    entries_hidden = 0
 
     areas = defaultdict(lambda: {
         "files_total": 0,
@@ -144,6 +209,7 @@ def main():
         "total": 0,
         "translated": 0,
         "reviewed": 0,
+        "hidden": 0,
     })
 
     po_files = []
@@ -157,13 +223,14 @@ def main():
     print("[3/5] Calculando progreso global y por categoría...", flush=True)
 
     for po in po_files:
-        total, translated, reviewed = parse_po(po)
+        total, translated, reviewed, hidden = parse_po(po, hidden_terms)
         repo_relative = po.relative_to(ROOT).as_posix()
 
         files_total += 1
         entries_total += total
         entries_translated += translated
         entries_reviewed += reviewed
+        entries_hidden += hidden
 
         if total > 0 and reviewed == total:
             files_reviewed += 1
@@ -176,7 +243,7 @@ def main():
             areas[area]["total"] += total
             areas[area]["translated"] += translated
             areas[area]["reviewed"] += reviewed
-
+            areas[area]["hidden"] += hidden
             if total > 0 and reviewed == total:
                 areas[area]["files_reviewed"] += 1
             elif total > 0 and translated == total:
@@ -197,6 +264,7 @@ def main():
             "total": data["total"],
             "translated": data["translated"],
             "reviewed": data["reviewed"],
+            "hidden": data["hidden"],
             "pct_translated": round(pct_area_translated, 2),
             "pct_reviewed": round(pct_area_reviewed, 2),
         }
@@ -208,6 +276,8 @@ def main():
         "entries_total": entries_total,
         "entries_translated": entries_translated,
         "entries_reviewed": entries_reviewed,
+        "entries_hidden": entries_hidden,
+        "hidden_terms_count": len(hidden_terms),
         "pct_translated": round(pct_translated, 2),
         "pct_reviewed": round(pct_reviewed, 2),
         "pct_global": round(pct_global, 2),
@@ -215,11 +285,7 @@ def main():
     }
 
     print("[4/5] Escribiendo assets/progress/...", flush=True)
-
-    (OUT_DIR / "summary.json").write_text(
-        json.dumps(summary, indent=2, ensure_ascii=False) + "\n",
-        encoding="utf-8"
-    )
+    (OUT_DIR / "summary.json").write_text(json.dumps(summary, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
     translation_badge = {
         "schemaVersion": 1,
@@ -227,14 +293,12 @@ def main():
         "message": f"{format_pct(pct_translated)}%",
         "color": badge_color(pct_translated),
     }
-
     review_badge = {
         "schemaVersion": 1,
         "label": "revisión",
         "message": f"{format_pct(pct_reviewed)}%",
         "color": badge_color(pct_reviewed),
     }
-
     global_badge = {
         "schemaVersion": 1,
         "label": "progreso global",
@@ -242,23 +306,10 @@ def main():
         "color": badge_color(pct_global),
     }
 
-    (OUT_DIR / "translation_badge.json").write_text(
-        json.dumps(translation_badge, indent=2, ensure_ascii=False) + "\n",
-        encoding="utf-8"
-    )
-
-    (OUT_DIR / "review_badge.json").write_text(
-        json.dumps(review_badge, indent=2, ensure_ascii=False) + "\n",
-        encoding="utf-8"
-    )
-
-    (OUT_DIR / "global_badge.json").write_text(
-        json.dumps(global_badge, indent=2, ensure_ascii=False) + "\n",
-        encoding="utf-8"
-    )
-
-    readme_progress = build_readme_progress_md(summary, areas_out)
-    (OUT_DIR / "readme_progress.md").write_text(readme_progress, encoding="utf-8")
+    (OUT_DIR / "translation_badge.json").write_text(json.dumps(translation_badge, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    (OUT_DIR / "review_badge.json").write_text(json.dumps(review_badge, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    (OUT_DIR / "global_badge.json").write_text(json.dumps(global_badge, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    (OUT_DIR / "readme_progress.md").write_text(build_readme_progress_md(summary, areas_out), encoding="utf-8")
 
     print("[5/5] Progreso generado correctamente.", flush=True)
     print(json.dumps(summary, indent=2, ensure_ascii=False), flush=True)

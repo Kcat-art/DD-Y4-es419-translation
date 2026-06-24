@@ -170,8 +170,6 @@ def build_readme_progress_md(summary: dict, areas: dict) -> str:
         f"**Revisión global:** {summary['entries_reviewed']}/{summary['entries_total']} "
         f"({format_pct(summary['pct_reviewed'])}%)"
     )
-    if summary.get("entries_hidden"):
-        lines.append(f"**Líneas bloqueadas excluidas:** {summary['entries_hidden']}")
     lines.append("")
     lines.append("| Área | Traducción | Revisión |")
     lines.append("|---|---:|---:|")
@@ -287,23 +285,30 @@ def main():
     print("[4/5] Escribiendo assets/progress/...", flush=True)
     (OUT_DIR / "summary.json").write_text(json.dumps(summary, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
+    translation_pct = summary["pct_translated"]
+    review_pct = summary["pct_reviewed"]
+    global_pct = summary["pct_global"]
+
     translation_badge = {
         "schemaVersion": 1,
         "label": "traducción",
-        "message": f"{format_pct(pct_translated)}%",
-        "color": badge_color(pct_translated),
+        "message": f"{format_pct(translation_pct)}%",
+        "color": badge_color(translation_pct),
+        "cacheSeconds": 300,
     }
     review_badge = {
         "schemaVersion": 1,
         "label": "revisión",
-        "message": f"{format_pct(pct_reviewed)}%",
-        "color": badge_color(pct_reviewed),
+        "message": f"{format_pct(review_pct)}%",
+        "color": badge_color(review_pct),
+        "cacheSeconds": 300,
     }
     global_badge = {
         "schemaVersion": 1,
         "label": "progreso global",
-        "message": f"{format_pct(pct_global)}%",
-        "color": badge_color(pct_global),
+        "message": f"{format_pct(global_pct)}%",
+        "color": badge_color(global_pct),
+        "cacheSeconds": 300,
     }
 
     (OUT_DIR / "translation_badge.json").write_text(json.dumps(translation_badge, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")

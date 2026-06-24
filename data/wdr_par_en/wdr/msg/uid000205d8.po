@@ -1,119 +1,126 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid000205d8.po\n"
-"X-Crowdin-File-ID: 61770\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=translated
 msgctxt "176"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "4120"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "4124"
 msgid "Main Characters' Possessions"
 msgstr "Pertenencias de los protagonistas"
 
+#. y4:line_status=translated
 msgctxt "4128"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "4132"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "4136"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "116_Akiyama"
 msgid "By the way, are you strapped for cash at all? We're already in pretty deep, so feel free to use my money."
-msgstr "Por cierto, ¿andas corto de dinero? Bah, no te preocupes por eso, usa el mío.\n"
-"Usa todo lo que quieras."
+msgstr "Por cierto, ¿andas corto de dinero? Bah, no te preocupes por eso, usa el mío.\nUsa todo lo que quieras."
 
+#. y4:line_status=translated
 msgctxt "128_Main Characters' Possessions"
-msgid "When you are able to swap between main characters, your money, points accumulated from the Casino and Coliseum, as well as items stored in the Item Box will all be consolidated.\\r\n"
-"Also, places that only certain main characters could enter may now be accessible by others. Try exploring Kamurocho with each of the four main characters."
-msgstr "Una vez puedas cambiar entre los protagonistas, se unificarán tu dinero, los puntos acumulados en el Casino y el Coliseo, así como los objetos guardados en la caja de objetos.\\r\n"
-"Además, los lugares exclusivos de cada protagonista estarán disponibles para todos los demás. Recuerda explorar Kamurocho con cada protagonista."
+msgid "When you are able to swap between main characters, your money, points accumulated from the Casino and Coliseum, as well as items stored in the Item Box will all be consolidated.\\r\nAlso, places that only certain main characters could enter may now be accessible by others. Try exploring Kamurocho with each of the four main characters."
+msgstr "Una vez puedas cambiar entre los protagonistas, se unificarán tu dinero, los puntos acumulados en el Casino y el Coliseo, así como los objetos guardados en la caja de objetos.\\r\nAdemás, los lugares exclusivos de cada protagonista estarán disponibles para todos los demás. Recuerda explorar Kamurocho con cada protagonista."
 
+#. y4:line_status=translated
 msgctxt "140_Main Characters' Possessions"
-msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\n"
-"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\n"
-"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\n"
-"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"
-"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nRead <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\nYou can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
+#. y4:line_status=translated
 msgctxt "152_Akiyama"
 msgid "Well, the money from my place is gonna be sitting pretty on the roof of the Millennium Tower, so I can't let you have any of that. It'll be from my own personal account."
 msgstr "Bueno, recuerda que todo el dinero del negocio se irá a la azotea de la torre Millennium, así que no tomaremos de ese. Solo te daré del dinero que tengo en mis bolsillos."
 
+#. y4:line_status=translated
 msgctxt "188_Akiyama"
-msgid "Hey there, %s-san. Why don't you kick back, relax?\\r\n"
-"I can handle any errands that need running."
-msgstr "Hey, %s-san. ¿Por qué no tomas un descanso?\\r\n"
-"Yo puedo encargarme de tus asuntos pendientes."
+msgid "Hey there, %s-san. Why don't you kick back, relax?\\r\nI can handle any errands that need running."
+msgstr "Hey, %s-san. ¿Por qué no tomas un descanso?\\r\nYo puedo encargarme de tus asuntos pendientes."
 
+#. y4:line_status=translated
 msgctxt "212_Player"
 msgid "No, it's okay."
 msgstr "No, está bien."
 
+#. y4:line_status=translated
 msgctxt "224_Player"
 msgid "Sorry, gonna have to take a rain check."
 msgstr "Lo siento, lo dejaré para después."
 
+#. y4:line_status=translated
 msgctxt "236_Player"
 msgid "Think I'm good."
 msgstr "...Aún no, je."
 
+#. y4:line_status=translated
 msgctxt "248_Player"
 msgid "Appreciate the offer, but I'm gonna have to pass."
 msgstr "No, por ahora no."
 
+#. y4:line_status=translated
 msgctxt "260_Akiyama"
 msgid "Suit yourself. Just don't come crying to me when you're tired later."
 msgstr "Ya veo, pero no te esfuerces demasiado."
 
+#. y4:line_status=translated
 msgctxt "284_Player"
 msgid "That's a good idea. Thanks, Akiyama."
 msgstr "Qué buena idea. Gracias, Akiyama."
 
+#. y4:line_status=translated
 msgctxt "296_Player"
 msgid "Sure, guess I wouldn't mind taking a little breather."
 msgstr "Tienes razón, creo que aceptaré tu oferta."
 
+#. y4:line_status=translated
 msgctxt "308_Player"
 msgid "Yeah, gotta catch my breath."
 msgstr "...Claro, nunca está de más un pequeño descanso."
 
+#. y4:line_status=translated
 msgctxt "320_Player"
 msgid "Thanks, I'll do that."
 msgstr "Gracias, lo haré."
 
+#. y4:line_status=translated
 msgctxt "332_Akiyama"
 msgid "Awesome. I'll swing 'round later, okay?"
 msgstr "Déjame el resto a mí. Tú descansa y relájate."
 
+#. y4:line_status=translated
 msgctxt "356_Akiyama"
 msgid "No, it's okay."
 msgstr "No, está bien."
 
+#. y4:line_status=translated
 msgctxt "368_Akiyama"
 msgid "Sure."
 msgstr "Claro."

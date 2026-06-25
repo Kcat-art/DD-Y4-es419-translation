@@ -420,7 +420,7 @@ def load_font(size: int, bold: bool = False):
     return ImageFont.load_default()
 
 
-def draw_bar(draw, x: int, y: int, width: int, height: int, pct: float, fill, bg, border) -> None:
+def draw_bar(draw, x: int, y: int, width: int, height: int, pct: float, fill, bg) -> None:
     pct = max(0.0, min(100.0, float(pct)))
     radius = height // 2
 
@@ -428,8 +428,6 @@ def draw_bar(draw, x: int, y: int, width: int, height: int, pct: float, fill, bg
         [x, y, x + width, y + height],
         radius=radius,
         fill=bg,
-        outline=border,
-        width=1,
     )
 
     filled = int(round(width * (pct / 100.0)))
@@ -445,22 +443,22 @@ def draw_bar(draw, x: int, y: int, width: int, height: int, pct: float, fill, bg
 
 
 def create_progress_card(summary: dict, output_path: Path) -> None:
-    width = 980
-    height = 360
+    width = 760
+    height = 210
 
-    bg = (15, 17, 21)
-    panel = (25, 27, 34)
-    border = (55, 59, 70)
+    bg = (18, 18, 22)
+    panel = (27, 29, 36)
+    border = (48, 52, 62)
 
-    text_main = (242, 243, 245)
-    text_soft = (176, 181, 191)
-    text_dim = (135, 141, 154)
+    text_main = (238, 239, 242)
+    text_soft = (166, 171, 181)
+    text_dim = (128, 134, 146)
 
     translation_color = (76, 163, 255)
     review_color = (88, 201, 116)
     global_color = (238, 238, 238)
 
-    track_color = (56, 60, 70)
+    track_color = (58, 62, 72)
 
     entries_total = as_int(summary.get("entries_total", 0))
     entries_translated = as_int(summary.get("entries_translated", 0))
@@ -473,27 +471,22 @@ def create_progress_card(summary: dict, output_path: Path) -> None:
     img = Image.new("RGB", (width, height), bg)
     draw = ImageDraw.Draw(img)
 
-    title_font = load_font(34, bold=True)
-    subtitle_font = load_font(18)
-    label_font = load_font(24, bold=True)
-    value_font = load_font(24, bold=True)
-    detail_font = load_font(17)
+    title_font = load_font(24, bold=True)
+    subtitle_font = load_font(14)
+    label_font = load_font(17, bold=True)
+    value_font = load_font(17, bold=True)
+    detail_font = load_font(12)
 
     draw.rounded_rectangle(
-        [20, 20, width - 20, height - 20],
-        radius=24,
+        [10, 10, width - 10, height - 10],
+        radius=16,
         fill=panel,
         outline=border,
         width=1,
     )
 
-    draw.text((46, 42), "Yakuza 4 es-419", font=title_font, fill=text_main)
-    draw.text(
-        (46, 84),
-        "Progreso actual de traducción",
-        font=subtitle_font,
-        fill=text_soft,
-    )
+    draw.text((26, 22), "Progreso actual", font=title_font, fill=text_main)
+    draw.text((26, 52), "Yakuza 4 es-419", font=subtitle_font, fill=text_soft)
 
     rows = [
         (
@@ -509,46 +502,49 @@ def create_progress_card(summary: dict, output_path: Path) -> None:
             review_color,
         ),
         (
-            "Progreso global",
+            "Global",
             pct_global,
             "",
             global_color,
         ),
     ]
 
-    start_y = 140
-    row_gap = 72
+    start_y = 86
+    row_gap = 40
 
-    label_x = 46
-    bar_x = 300
-    bar_w = 500
-    bar_h = 20
+    label_x = 26
+    bar_x = 170
+    bar_w = 380
+    bar_h = 12
 
-    pct_x = 835
-    detail_x = 835
+    pct_x = 590
+    detail_x = 590
 
     for index, (label, pct, detail, color) in enumerate(rows):
         y = start_y + index * row_gap
 
-        draw.text((label_x, y), label, font=label_font, fill=text_main)
+        draw.text((label_x, y - 3), label, font=label_font, fill=text_main)
 
         draw_bar(
             draw=draw,
             x=bar_x,
-            y=y + 8,
+            y=y + 2,
             width=bar_w,
             height=bar_h,
             pct=pct,
             fill=color,
             bg=track_color,
-            border=track_color,
         )
 
-        pct_text = f"{format_pct(pct)}%"
-        draw.text((pct_x, y), pct_text, font=value_font, fill=text_main)
+        draw.text(
+            (pct_x, y - 4),
+            f"{format_pct(pct)}%",
+            font=value_font,
+            fill=text_main,
+        )
 
         if detail:
-            draw.text((detail_x, y + 30), detail, font=detail_font, fill=text_dim)
+            draw.text((detail_x, y + 16), detail, font=detail_font, fill=text_dim)
 
     img.save(output_path, "PNG")
 
@@ -612,10 +608,68 @@ def send_to_discord(payload: dict, image_path: Path | None = None) -> None:
         response.read()
 
 
+def repo_display_name(repo_full: str) -> str:
+    if not repo_full:
+        return "el repositorio"
+
+    return repo_full.split("/")[-1]
+
+
+def build_title(users: list[str], repo_name: str) -> str:
+    if len(users) == 1:
+        return f"{users[0]} hizo cambios en {repo_name}"
+
+    if len(users) == 2:
+        return f"{users[0]} y {users[1]} hicieron cambios en {repo_name}"
+
+    return f"{len(users)} usuarios hicieron cambios en {repo_name}"
+
+
+def build_user_value(stats: dict, entries_total: int, pct_translated: float, pct_reviewed: float) -> str:
+    parts = []
+
+    translated = stats["translated"]
+    reviewed = stats["reviewed"]
+    edited = stats["edited"]
+
+    translated_files = len(stats["translated_files"])
+    reviewed_files = len(stats["reviewed_files"])
+    edited_files = len(stats["edited_files"])
+
+    if translated > 0:
+        translated_gain = pct_gain(translated, entries_total)
+
+        parts.append(
+            f"Tradujo **{translated}** {plural(translated, 'línea')} "
+            f"en **{translated_files}** {plural(translated_files, 'archivo')}\n"
+            f"Traducción global: **{format_pct(pct_translated)}%** "
+            f"(**+{format_pct(translated_gain)}%**)"
+        )
+
+    if reviewed > 0:
+        reviewed_gain = pct_gain(reviewed, entries_total)
+
+        parts.append(
+            f"Revisó **{reviewed}** {plural(reviewed, 'línea')} "
+            f"en **{reviewed_files}** {plural(reviewed_files, 'archivo')}\n"
+            f"Revisión global: **{format_pct(pct_reviewed)}%** "
+            f"(**+{format_pct(reviewed_gain)}%**)"
+        )
+
+    if edited > 0:
+        parts.append(
+            f"Ajustó **{edited}** traducciones existentes "
+            f"en **{edited_files}** {plural(edited_files, 'archivo')}"
+        )
+
+    return "\n\n".join(parts)
+
+
 def build_payload(
     per_user: dict,
     summary: dict,
     branch: str,
+    repo_full: str,
 ) -> dict | None:
     entries_total = as_int(summary.get("entries_total", 0))
     entries_translated = as_int(summary.get("entries_translated", 0))
@@ -626,10 +680,7 @@ def build_payload(
     pct_global = as_float(summary.get("pct_global", 0.0))
 
     user_fields = []
-
-    total_translated_now = 0
-    total_reviewed_now = 0
-    total_edited_now = 0
+    active_users = []
 
     for user, stats in sorted(per_user.items()):
         translated = stats["translated"]
@@ -639,27 +690,17 @@ def build_payload(
         if translated == 0 and reviewed == 0 and edited == 0:
             continue
 
-        total_translated_now += translated
-        total_reviewed_now += reviewed
-        total_edited_now += edited
-
-        translated_gain = pct_gain(translated, entries_total)
-        reviewed_gain = pct_gain(reviewed, entries_total)
-
-        translated_files = len(stats["translated_files"])
-        reviewed_files = len(stats["reviewed_files"])
-
-        value = (
-            f"Tradujo **{translated}** {plural(translated, 'línea')} "
-            f"en **{translated_files}** {plural(translated_files, 'archivo')}\n"
-            f"Traducción global: **{format_pct(pct_translated)}%** "
-            f"(**+{format_pct(translated_gain)}%**)\n\n"
-            f"Revisó **{reviewed}** {plural(reviewed, 'línea')} "
-            f"en **{reviewed_files}** {plural(reviewed_files, 'archivo')}\n"
-            f"Revisión global: **{format_pct(pct_reviewed)}%** "
-            f"(**+{format_pct(reviewed_gain)}%**)\n\n"
-            f"Ajustó **{edited}** traducciones existentes"
+        value = build_user_value(
+            stats=stats,
+            entries_total=entries_total,
+            pct_translated=pct_translated,
+            pct_reviewed=pct_reviewed,
         )
+
+        if not value.strip():
+            continue
+
+        active_users.append(user)
 
         user_fields.append({
             "name": user,
@@ -670,6 +711,8 @@ def build_payload(
     if not user_fields:
         return None
 
+    repo_name = repo_display_name(repo_full)
+
     description = (
         f"**Traducción:** **{format_pct(pct_translated)}%** "
         f"({entries_translated}/{entries_total})\n"
@@ -678,28 +721,14 @@ def build_payload(
         f"**Progreso global:** **{format_pct(pct_global)}%**"
     )
 
-    summary_value = (
-        f"Traducidas: **{total_translated_now}** "
-        f"{plural(total_translated_now, 'línea')}\n"
-        f"Revisadas: **{total_reviewed_now}** "
-        f"{plural(total_reviewed_now, 'línea')}\n"
-        f"Ajustadas: **{total_edited_now}** traducciones existentes"
-    )
-
     payload = {
         "username": "Dragones de Dojima",
         "embeds": [
             {
-                "title": "Progreso de traducción actualizado",
+                "title": build_title(active_users, repo_name),
                 "description": description,
                 "color": 10165305,
-                "fields": user_fields[:20] + [
-                    {
-                        "name": "Resumen de este envío",
-                        "value": summary_value,
-                        "inline": False,
-                    }
-                ],
+                "fields": user_fields[:20],
                 "image": {
                     "url": "attachment://progress_card.png",
                 },
@@ -717,6 +746,7 @@ def main() -> None:
     before = os.environ.get("BEFORE_SHA", "")
     after = os.environ.get("AFTER_SHA", "HEAD")
     branch = os.environ.get("GITHUB_REF_NAME", "main")
+    repo_full = os.environ.get("GITHUB_REPOSITORY", "Kcat-art/DD-Y4-es419-translation")
 
     hidden_terms = load_hidden_terms()
     commits = get_commits(before, after)
@@ -748,10 +778,12 @@ def main() -> None:
         per_user[author]["edited_files"].update(stats["edited_files"])
 
     summary = load_summary()
+
     payload = build_payload(
         per_user=per_user,
         summary=summary,
         branch=branch,
+        repo_full=repo_full,
     )
 
     if payload is None:
@@ -762,7 +794,7 @@ def main() -> None:
     create_progress_card(summary, card_path)
 
     send_to_discord(payload, card_path)
-    print("Reporte enviado a Discord.")
+    print("enviado a discord")
 
 
 if __name__ == "__main__":

@@ -6,24 +6,29 @@ import os
 import re
 import subprocess
 import urllib.request
+import uuid
 from collections import defaultdict
 from pathlib import Path
-from urllib.parse import quote
+
+from PIL import Image, ImageDraw, ImageFont
 
 
 ROOT = Path(__file__).resolve().parents[1]
 HIDDEN_LINES_PATH = ROOT / "assets" / "companion" / "hidden_lines.json"
 SUMMARY_PATH = ROOT / "assets" / "progress" / "summary.json"
 
-FIELD_START_RE = re.compile(r'^(msgctxt|msgid|msgstr)\s+(.+)$')
+FIELD_START_RE = re.compile(r'^(msgctxt|msgid|msgstr(?:\[\d+\])?)\s+(.+)$')
+
 LINE_STATUS_RE = re.compile(
-    r'^#\.\s+(?:lineStatus\s*:\s*|y4:line_status\s*=\s*)(.+)$',
+    r'^#\.\s+(?:lineStatus\s*:\s*|line_status\s*=\s*|y4:line_status\s*=\s*)(.+)$',
     re.MULTILINE | re.IGNORECASE,
 )
+
 FILE_STATUS_RE = re.compile(
-    r'^#\.\s+(?:fileStatus\s*:\s*|y4:file_status\s*=\s*)(.+)$',
+    r'^#\.\s+(?:fileStatus\s*:\s*|file_status\s*=\s*|y4:file_status\s*=\s*)(.+)$',
     re.MULTILINE | re.IGNORECASE,
 )
+
 REVIEWED_BY_RE = re.compile(
     r'^#\.\s+y4:reviewed_by\s*=\s*(.+)$',
     re.MULTILINE | re.IGNORECASE,
@@ -65,6 +70,30 @@ def normalize_status(value: str) -> str:
     return value.strip().strip('"').lower()
 
 
+def as_int(value, default: int = 0) -> int:
+    try:
+        return int(value)
+    except Exception:
+        return default
+
+
+def as_float(value, default: float = 0.0) -> float:
+    try:
+        return float(str(value).strip().replace("%", "").replace(",", "."))
+    except Exception:
+        return default
+
+
+def format_pct(value: float) -> str:
+    return f"{value:.2f}".replace(".", ",")
+
+
+def plural(n: int, singular: str, plural_form: str | None = None) -> str:
+    if n == 1:
+        return singular
+    return plural_form or f"{singular}s"
+
+
 def extract_po_field(block: str, field_name: str) -> str:
     lines = block.splitlines()
     output: list[str] = []
@@ -75,6 +104,10 @@ def extract_po_field(block: str, field_name: str) -> str:
 
         if match:
             current_field = match.group(1)
+
+            if current_field.startswith("msgstr"):
+                current_field = "msgstr"
+
             collecting = current_field == field_name
 
             if collecting:
@@ -99,11 +132,13 @@ def iter_po_blocks(text: str):
     for block in re.split(r"\n\s*\n", text):
         if not block.strip():
             continue
-        lines = block.splitlines()
-        if any(line.startswith('msgid ""') for line in lines[:4]):
+
+        if 'msgid ""' in block and "Project-Id-Version" in block:
             continue
-        if "msgid " not in block or "msgstr " not in block:
+
+        if "msgid " not in block or "msgstr" not in block:
             continue
+
         yield block
 
 
@@ -312,7 +347,7 @@ def load_github_username_map() -> dict[str, str]:
     except Exception:
         return {}
 
-    username_map = {}
+    username_map: dict[str, str] = {}
 
     for commit in event.get("commits", []):
         sha = commit.get("id")
@@ -321,6 +356,7 @@ def load_github_username_map() -> dict[str, str]:
 
         if sha and username:
             username_map[sha] = username
+
     return username_map
 
 
@@ -352,10 +388,6 @@ def load_summary() -> dict:
         return {}
 
 
-def format_pct(value: float) -> str:
-    return f"{value:.2f}".replace(".", ",")
-
-
 def pct_gain(lines: int, total: int) -> float:
     if total <= 0:
         return 0.0
@@ -363,56 +395,214 @@ def pct_gain(lines: int, total: int) -> float:
     return (lines * 100.0) / total
 
 
-def progress_bar(pct: float, size: int = 20) -> str:
-    filled = round((pct / 100.0) * size)
-    filled = max(0, min(size, filled))
-    return "█" * filled + "░" * (size - filled)
+def load_font(size: int, bold: bool = False):
+    if bold:
+        candidates = [
+            "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+            "/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf",
+            "C:/Windows/Fonts/segoeuib.ttf",
+            "C:/Windows/Fonts/arialbd.ttf",
+        ]
+    else:
+        candidates = [
+            "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+            "/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf",
+            "C:/Windows/Fonts/segoeui.ttf",
+            "C:/Windows/Fonts/arial.ttf",
+        ]
+
+    for path in candidates:
+        try:
+            return ImageFont.truetype(path, size)
+        except Exception:
+            pass
+
+    return ImageFont.load_default()
 
 
-def badge_color(pct: float) -> str:
-    if pct >= 99.99:
-        return "brightgreen"
-    if pct >= 75.0:
-        return "green"
-    if pct >= 50.0:
-        return "yellow"
-    if pct >= 25.0:
-        return "orange"
-    return "red"
+def draw_bar(draw, x: int, y: int, width: int, height: int, pct: float, fill, bg, border) -> None:
+    pct = max(0.0, min(100.0, float(pct)))
+    radius = height // 2
 
-
-def shield_part(value: str) -> str:
-    value = str(value).replace("-", "--")
-    return quote(value, safe="")
-
-
-def static_badge_url(label: str, message: str, color: str, version: str) -> str:
-    return (
-        "https://raster.shields.io/badge/"
-        f"{shield_part(label)}-{shield_part(message)}-{shield_part(color)}"
-        "?style=for-the-badge"
-        "&cacheSeconds=60"
-        f"&v={quote(version, safe='')}"
+    draw.rounded_rectangle(
+        [x, y, x + width, y + height],
+        radius=radius,
+        fill=bg,
+        outline=border,
+        width=1,
     )
 
+    filled = int(round(width * (pct / 100.0)))
 
-def make_compare_url(server: str, repo: str, before: str, after: str) -> str:
-    if before and not before.startswith("0000000"):
-        return f"{server}/{repo}/compare/{before}...{after}"
+    if filled > 0:
+        filled = max(filled, height)
 
-    return f"{server}/{repo}/commit/{after}"
+        draw.rounded_rectangle(
+            [x, y, x + filled, y + height],
+            radius=radius,
+            fill=fill,
+        )
 
 
-def send_to_discord(payload: dict) -> None:
+def create_progress_card(summary: dict, output_path: Path) -> None:
+    width = 980
+    height = 360
+
+    bg = (15, 17, 21)
+    panel = (25, 27, 34)
+    border = (55, 59, 70)
+
+    text_main = (242, 243, 245)
+    text_soft = (176, 181, 191)
+    text_dim = (135, 141, 154)
+
+    translation_color = (76, 163, 255)
+    review_color = (88, 201, 116)
+    global_color = (238, 238, 238)
+
+    track_color = (56, 60, 70)
+
+    entries_total = as_int(summary.get("entries_total", 0))
+    entries_translated = as_int(summary.get("entries_translated", 0))
+    entries_reviewed = as_int(summary.get("entries_reviewed", 0))
+
+    pct_translated = as_float(summary.get("pct_translated", 0.0))
+    pct_reviewed = as_float(summary.get("pct_reviewed", 0.0))
+    pct_global = as_float(summary.get("pct_global", 0.0))
+
+    img = Image.new("RGB", (width, height), bg)
+    draw = ImageDraw.Draw(img)
+
+    title_font = load_font(34, bold=True)
+    subtitle_font = load_font(18)
+    label_font = load_font(24, bold=True)
+    value_font = load_font(24, bold=True)
+    detail_font = load_font(17)
+
+    draw.rounded_rectangle(
+        [20, 20, width - 20, height - 20],
+        radius=24,
+        fill=panel,
+        outline=border,
+        width=1,
+    )
+
+    draw.text((46, 42), "Yakuza 4 es-419", font=title_font, fill=text_main)
+    draw.text(
+        (46, 84),
+        "Progreso actual de traducción",
+        font=subtitle_font,
+        fill=text_soft,
+    )
+
+    rows = [
+        (
+            "Traducción",
+            pct_translated,
+            f"{entries_translated}/{entries_total}",
+            translation_color,
+        ),
+        (
+            "Revisión",
+            pct_reviewed,
+            f"{entries_reviewed}/{entries_total}",
+            review_color,
+        ),
+        (
+            "Progreso global",
+            pct_global,
+            "",
+            global_color,
+        ),
+    ]
+
+    start_y = 140
+    row_gap = 72
+
+    label_x = 46
+    bar_x = 300
+    bar_w = 500
+    bar_h = 20
+
+    pct_x = 835
+    detail_x = 835
+
+    for index, (label, pct, detail, color) in enumerate(rows):
+        y = start_y + index * row_gap
+
+        draw.text((label_x, y), label, font=label_font, fill=text_main)
+
+        draw_bar(
+            draw=draw,
+            x=bar_x,
+            y=y + 8,
+            width=bar_w,
+            height=bar_h,
+            pct=pct,
+            fill=color,
+            bg=track_color,
+            border=track_color,
+        )
+
+        pct_text = f"{format_pct(pct)}%"
+        draw.text((pct_x, y), pct_text, font=value_font, fill=text_main)
+
+        if detail:
+            draw.text((detail_x, y + 30), detail, font=detail_font, fill=text_dim)
+
+    img.save(output_path, "PNG")
+
+
+def send_to_discord(payload: dict, image_path: Path | None = None) -> None:
     webhook = os.environ["DISCORD_WEBHOOK_URL"]
 
-    data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+    if image_path is None:
+        data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+
+        request = urllib.request.Request(
+            webhook,
+            data=data,
+            headers={
+                "Content-Type": "application/json",
+                "User-Agent": "dd-y4-translation-progress",
+            },
+            method="POST",
+        )
+
+        with urllib.request.urlopen(request) as response:
+            response.read()
+
+        return
+
+    boundary = f"----dd-y4-boundary-{uuid.uuid4().hex}"
+    payload_json = json.dumps(payload, ensure_ascii=False)
+
+    file_bytes = image_path.read_bytes()
+    file_name = image_path.name
+
+    body = bytearray()
+
+    body.extend(f"--{boundary}\r\n".encode("utf-8"))
+    body.extend(b'Content-Disposition: form-data; name="payload_json"\r\n')
+    body.extend(b"Content-Type: application/json; charset=utf-8\r\n\r\n")
+    body.extend(payload_json.encode("utf-8"))
+    body.extend(b"\r\n")
+
+    body.extend(f"--{boundary}\r\n".encode("utf-8"))
+    body.extend(
+        f'Content-Disposition: form-data; name="files[0]"; filename="{file_name}"\r\n'.encode("utf-8")
+    )
+    body.extend(b"Content-Type: image/png\r\n\r\n")
+    body.extend(file_bytes)
+    body.extend(b"\r\n")
+
+    body.extend(f"--{boundary}--\r\n".encode("utf-8"))
 
     request = urllib.request.Request(
         webhook,
-        data=data,
+        data=bytes(body),
         headers={
-            "Content-Type": "application/json",
+            "Content-Type": f"multipart/form-data; boundary={boundary}",
             "User-Agent": "dd-y4-translation-progress",
         },
         method="POST",
@@ -425,23 +615,15 @@ def send_to_discord(payload: dict) -> None:
 def build_payload(
     per_user: dict,
     summary: dict,
-    before: str,
-    after: str,
-    repo: str,
-    server: str,
     branch: str,
-    run_id: str,
 ) -> dict | None:
-    entries_total = int(summary.get("entries_total", 0))
-    entries_translated = int(summary.get("entries_translated", 0))
-    entries_reviewed = int(summary.get("entries_reviewed", 0))
+    entries_total = as_int(summary.get("entries_total", 0))
+    entries_translated = as_int(summary.get("entries_translated", 0))
+    entries_reviewed = as_int(summary.get("entries_reviewed", 0))
 
-    pct_translated = float(summary.get("pct_translated", 0.0))
-    pct_reviewed = float(summary.get("pct_reviewed", 0.0))
-    pct_global = float(summary.get("pct_global", 0.0))
-
-    compare_url = make_compare_url(server, repo, before, after)
-    run_url = f"{server}/{repo}/actions/runs/{run_id}" if run_id else compare_url
+    pct_translated = as_float(summary.get("pct_translated", 0.0))
+    pct_reviewed = as_float(summary.get("pct_reviewed", 0.0))
+    pct_global = as_float(summary.get("pct_global", 0.0))
 
     user_fields = []
 
@@ -464,13 +646,16 @@ def build_payload(
         translated_gain = pct_gain(translated, entries_total)
         reviewed_gain = pct_gain(reviewed, entries_total)
 
+        translated_files = len(stats["translated_files"])
+        reviewed_files = len(stats["reviewed_files"])
+
         value = (
-            f"Tradujo **{translated}** líneas en "
-            f"**{len(stats['translated_files'])}** archivos\n"
+            f"Tradujo **{translated}** {plural(translated, 'línea')} "
+            f"en **{translated_files}** {plural(translated_files, 'archivo')}\n"
             f"Traducción global: **{format_pct(pct_translated)}%** "
             f"(**+{format_pct(translated_gain)}%**)\n\n"
-            f"Revisó **{reviewed}** líneas en "
-            f"**{len(stats['reviewed_files'])}** archivos\n"
+            f"Revisó **{reviewed}** {plural(reviewed, 'línea')} "
+            f"en **{reviewed_files}** {plural(reviewed_files, 'archivo')}\n"
             f"Revisión global: **{format_pct(pct_reviewed)}%** "
             f"(**+{format_pct(reviewed_gain)}%**)\n\n"
             f"Ajustó **{edited}** traducciones existentes"
@@ -486,84 +671,42 @@ def build_payload(
         return None
 
     description = (
-        f"**Progreso global:** `{progress_bar(pct_global)}` "
-        f"**{format_pct(pct_global)}%**\n"
-        f"**Traducción:** `{progress_bar(pct_translated)}` "
-        f"**{format_pct(pct_translated)}%** "
+        f"**Traducción:** **{format_pct(pct_translated)}%** "
         f"({entries_translated}/{entries_total})\n"
-        f"**Revisión:** `{progress_bar(pct_reviewed)}` "
-        f"**{format_pct(pct_reviewed)}%** "
-        f"({entries_reviewed}/{entries_total})"
+        f"**Revisión:** **{format_pct(pct_reviewed)}%** "
+        f"({entries_reviewed}/{entries_total})\n"
+        f"**Progreso global:** **{format_pct(pct_global)}%**"
     )
 
-    version = after[:12]
-
-    badge_global = static_badge_url(
-        "progreso global",
-        f"{format_pct(pct_global)}%",
-        badge_color(pct_global),
-        version,
+    summary_value = (
+        f"Traducidas: **{total_translated_now}** "
+        f"{plural(total_translated_now, 'línea')}\n"
+        f"Revisadas: **{total_reviewed_now}** "
+        f"{plural(total_reviewed_now, 'línea')}\n"
+        f"Ajustadas: **{total_edited_now}** traducciones existentes"
     )
-
-    badge_translation = static_badge_url(
-        "traducción",
-        f"{format_pct(pct_translated)}%",
-        badge_color(pct_translated),
-        version,
-    )
-
-    badge_review = static_badge_url(
-        "revisión",
-        f"{format_pct(pct_reviewed)}%",
-        badge_color(pct_reviewed),
-        version,
-    )
-
-    main_embed = {
-        "title": "Progreso de traducción actualizado",
-        "description": description,
-        "url": compare_url,
-        "color": 10165305,
-        "fields": user_fields[:20] + [
-            {
-                "name": "Resumen de este envío",
-                "value": (
-                    f"Traducidas: **{total_translated_now}** líneas\n"
-                    f"Revisadas: **{total_reviewed_now}** líneas\n"
-                    f"Ajustadas: **{total_edited_now}** traducciones existentes\n"
-                    f"[Ver cambios]({compare_url})\n"
-                    f"[Ver workflow]({run_url})"
-                ),
-                "inline": False,
-            }
-        ],
-        "footer": {
-            "text": f"Rama: {branch} · Yakuza 4 es-419"
-        },
-    }
 
     payload = {
-        "username": "Progreso de traducción",
+        "username": "Dragones de Dojima",
         "embeds": [
-            main_embed,
             {
-                "url": compare_url,
+                "title": "Progreso de traducción actualizado",
+                "description": description,
+                "color": 10165305,
+                "fields": user_fields[:20] + [
+                    {
+                        "name": "Resumen de este envío",
+                        "value": summary_value,
+                        "inline": False,
+                    }
+                ],
                 "image": {
-                    "url": badge_global,
+                    "url": "attachment://progress_card.png",
                 },
-            },
-            {
-                "url": compare_url,
-                "image": {
-                    "url": badge_translation,
+                "footer": {
+                    "text": f"Rama: {branch} · Yakuza 4 es-419",
                 },
-            },
-            {
-                "url": compare_url,
-                "image": {
-                    "url": badge_review,
-                },
-            },
+            }
         ],
     }
 
@@ -573,11 +716,7 @@ def build_payload(
 def main() -> None:
     before = os.environ.get("BEFORE_SHA", "")
     after = os.environ.get("AFTER_SHA", "HEAD")
-
-    repo = os.environ.get("GITHUB_REPOSITORY", "Kcat-art/DD-Y4-es419-translation")
-    server = os.environ.get("GITHUB_SERVER_URL", "https://github.com")
     branch = os.environ.get("GITHUB_REF_NAME", "main")
-    run_id = os.environ.get("GITHUB_RUN_ID", "")
 
     hidden_terms = load_hidden_terms()
     commits = get_commits(before, after)
@@ -609,24 +748,21 @@ def main() -> None:
         per_user[author]["edited_files"].update(stats["edited_files"])
 
     summary = load_summary()
-
     payload = build_payload(
         per_user=per_user,
         summary=summary,
-        before=before,
-        after=after,
-        repo=repo,
-        server=server,
         branch=branch,
-        run_id=run_id,
     )
 
     if payload is None:
         print("No hubo líneas traducidas, revisadas ni ajustadas para reportar.")
         return
 
-    send_to_discord(payload)
-    print("enviado a discord.")
+    card_path = ROOT / "progress_card.png"
+    create_progress_card(summary, card_path)
+
+    send_to_discord(payload, card_path)
+    print("Reporte enviado a Discord.")
 
 
 if __name__ == "__main__":

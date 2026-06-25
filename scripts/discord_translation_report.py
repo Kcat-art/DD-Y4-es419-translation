@@ -446,19 +446,18 @@ def create_progress_card(summary: dict, output_path: Path) -> None:
     width = 760
     height = 210
 
-    bg = (18, 18, 22)
-    panel = (27, 29, 36)
-    border = (48, 52, 62)
+    bg = (0, 0, 0)
+    line = (28, 28, 30)
 
-    text_main = (238, 239, 242)
-    text_soft = (166, 171, 181)
-    text_dim = (128, 134, 146)
+    text = (242, 242, 242)
+    muted = (165, 165, 165)
 
-    translation_color = (76, 163, 255)
-    review_color = (88, 201, 116)
+    translation_color = (65, 145, 255)
+    review_color = (72, 210, 105)
     global_color = (238, 238, 238)
 
-    track_color = (58, 62, 72)
+    marker_color = (218, 22, 205)
+    track_color = (48, 49, 56)
 
     entries_total = as_int(summary.get("entries_total", 0))
     entries_translated = as_int(summary.get("entries_translated", 0))
@@ -471,64 +470,54 @@ def create_progress_card(summary: dict, output_path: Path) -> None:
     img = Image.new("RGB", (width, height), bg)
     draw = ImageDraw.Draw(img)
 
-    title_font = load_font(24, bold=True)
-    subtitle_font = load_font(14)
-    label_font = load_font(17, bold=True)
-    value_font = load_font(17, bold=True)
-    detail_font = load_font(12)
+    title_font = load_font(26, bold=False)
+    label_font = load_font(25, bold=False)
+    value_font = load_font(18, bold=True)
+    count_font = load_font(12, bold=False)
 
-    draw.rounded_rectangle(
-        [10, 10, width - 10, height - 10],
-        radius=16,
-        fill=panel,
-        outline=border,
-        width=1,
-    )
+    title = "Progreso:"
+    title_bbox = draw.textbbox((0, 0), title, font=title_font)
+    title_w = title_bbox[2] - title_bbox[0]
 
-    draw.text((26, 22), "Progreso actual", font=title_font, fill=text_main)
-    draw.text((26, 52), "Yakuza 4 es-419", font=subtitle_font, fill=text_soft)
+    draw.text(((width - title_w) // 2, 8), title, font=title_font, fill=text)
+    draw.line([0, 45, width, 45], fill=line, width=2)
 
     rows = [
-        (
-            "Traducción",
-            pct_translated,
-            f"{entries_translated}/{entries_total}",
-            translation_color,
-        ),
-        (
-            "Revisión",
-            pct_reviewed,
-            f"{entries_reviewed}/{entries_total}",
-            review_color,
-        ),
-        (
-            "Global",
-            pct_global,
-            "",
-            global_color,
-        ),
+        ("Traducción", pct_translated, f"{entries_translated}/{entries_total}", translation_color),
+        ("Revisión", pct_reviewed, f"{entries_reviewed}/{entries_total}", review_color),
+        ("Progreso global", pct_global, "", global_color),
     ]
 
-    start_y = 86
-    row_gap = 40
+    start_y = 72
+    row_gap = 52
 
-    label_x = 26
-    bar_x = 170
-    bar_w = 380
-    bar_h = 12
+    marker_x = 18
+    label_x = 34
 
-    pct_x = 590
-    detail_x = 590
+    bar_x = 310
+    bar_y_offset = 10
+    bar_w = 310
+    bar_h = 18
+
+    value_x = 635
 
     for index, (label, pct, detail, color) in enumerate(rows):
         y = start_y + index * row_gap
 
-        draw.text((label_x, y - 3), label, font=label_font, fill=text_main)
+        draw.line([0, y - 13, width, y - 13], fill=line, width=2)
+
+        draw.rounded_rectangle(
+            [marker_x, y + 1, marker_x + 8, y + 29],
+            radius=4,
+            fill=marker_color,
+        )
+
+        draw.text((label_x, y - 2), label, font=label_font, fill=text)
 
         draw_bar(
             draw=draw,
             x=bar_x,
-            y=y + 2,
+            y=y + bar_y_offset,
             width=bar_w,
             height=bar_h,
             pct=pct,
@@ -537,14 +526,14 @@ def create_progress_card(summary: dict, output_path: Path) -> None:
         )
 
         draw.text(
-            (pct_x, y - 4),
+            (value_x, y + 2),
             f"{format_pct(pct)}%",
             font=value_font,
-            fill=text_main,
+            fill=text,
         )
 
         if detail:
-            draw.text((detail_x, y + 16), detail, font=detail_font, fill=text_dim)
+            draw.text((value_x, y + 24), detail, font=count_font, fill=muted)
 
     img.save(output_path, "PNG")
 
@@ -794,7 +783,6 @@ def main() -> None:
     create_progress_card(summary, card_path)
 
     send_to_discord(payload, card_path)
-    print("enviado a discord")
 
 
 if __name__ == "__main__":

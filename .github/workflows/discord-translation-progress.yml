@@ -1,0 +1,43 @@
+name: Discord translation progress
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**/*.po"
+      - "scripts/discord_translation_report.py"
+      - "tools/progress/build_progress_assets.py"
+      - ".github/workflows/discord-translation-progress.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  discord-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Build progress assets
+        run: python tools/progress/build_progress_assets.py
+
+      - name: Send Discord translation report
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_TRANSLATION_WEBHOOK }}
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_SERVER_URL: ${{ github.server_url }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+          GITHUB_RUN_ID: ${{ github.run_id }}
+        run: python scripts/discord_translation_report.py

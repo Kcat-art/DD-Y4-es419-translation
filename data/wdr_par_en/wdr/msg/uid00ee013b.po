@@ -1,126 +1,106 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee013b.po\n"
-"X-Crowdin-File-ID: 62444\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=translated
 msgctxt "3060"
 msgid "Manager"
 msgstr "Gerente"
 
+#. y4:line_status=translated
 msgctxt "3064"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:line_status=todo
 msgctxt "3068"
 msgid "Easy Game Prizes"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "3072"
 msgid "Normal Game Prizes"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "3076"
 msgid "Hard Game Prizes"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "3080"
 msgid "Extra Hard Course Prizes"
 msgstr ""
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "3084"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
+#. y4:line_status=translated
 msgctxt "3088"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "3092"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=todo
 msgctxt "100_Manager"
 msgid "Hello, sir. We have a variety of fabulous prizes for you here! Interested in hearing what we've got?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "112_Manager"
-msgid "\\r\n"
-"　　　　　　　　 S Rank (2,300+ Points)\\r\n"
-"　　　　　　　　 　　Southpaw Bracelet\\r\n"
-"　　　　　　　　 A Rank (1,900+ Points)\\r\n"
-"　　　　　　　　 　　Chunk of Wood (Maple)\\r\n"
-"　　　　　　　　 B Rank (1,500+ Points)\\r\n"
-"　　　　　　　　 　　Tauriner\\r\n"
-"　　　　　　　　 C Rank (1,100+ Points)\\r\n"
-"　　　　　　　　 　　Salmon Onigiri"
+msgid "\\r\n　　　　　　　　 S Rank (2,300+ Points)\\r\n　　　　　　　　 　　Southpaw Bracelet\\r\n　　　　　　　　 A Rank (1,900+ Points)\\r\n　　　　　　　　 　　Chunk of Wood (Maple)\\r\n　　　　　　　　 B Rank (1,500+ Points)\\r\n　　　　　　　　 　　Tauriner\\r\n　　　　　　　　 C Rank (1,100+ Points)\\r\n　　　　　　　　 　　Salmon Onigiri"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "124_Manager"
-msgid "\\r\n"
-"　　　　　　　　 S Rank (2,800+ Points)\\r\n"
-"　　　　　　　　 　　Tourmaline Bracelet\\r\n"
-"　　　　　　　　 A Rank (2,400+ Points)\\r\n"
-"　　　　　　　　 　　Plastic Shin Guards\\r\n"
-"　　　　　　　　 B Rank (2,000+ Points)\\r\n"
-"　　　　　　　　 　　Chunk of Wood (Ash)\\r\n"
-"　　　　　　　　 C Rank (1,600+ Points)\\r\n"
-"　　　　　　　　 　　Club Sandwich"
+msgid "\\r\n　　　　　　　　 S Rank (2,800+ Points)\\r\n　　　　　　　　 　　Tourmaline Bracelet\\r\n　　　　　　　　 A Rank (2,400+ Points)\\r\n　　　　　　　　 　　Plastic Shin Guards\\r\n　　　　　　　　 B Rank (2,000+ Points)\\r\n　　　　　　　　 　　Chunk of Wood (Ash)\\r\n　　　　　　　　 C Rank (1,600+ Points)\\r\n　　　　　　　　 　　Club Sandwich"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "136_Manager"
-msgid "\\r\n"
-"　　　　　　　　 S Rank (3,000+ Points)\\r\n"
-"　　　　　　　　 　　Metal Bat\\r\n"
-"　　　　　　　　 A Rank (2,600+ Points)\\r\n"
-"　　　　　　　　 　　Staminan XX\\r\n"
-"　　　　　　　　 B Rank (2,200+ Points)\\r\n"
-"　　　　　　　　 　　Staminan X\\r\n"
-"　　　　　　　　 C Rank (1,800+ Points)\\r\n"
-"　　　　　　　　 　　Tauriner +"
+msgid "\\r\n　　　　　　　　 S Rank (3,000+ Points)\\r\n　　　　　　　　 　　Metal Bat\\r\n　　　　　　　　 A Rank (2,600+ Points)\\r\n　　　　　　　　 　　Staminan XX\\r\n　　　　　　　　 B Rank (2,200+ Points)\\r\n　　　　　　　　 　　Staminan X\\r\n　　　　　　　　 C Rank (1,800+ Points)\\r\n　　　　　　　　 　　Tauriner +"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "148_Manager"
-msgid "\\r\n"
-"　　　　　　　　 S Rank (3,500+ Points)\\r\n"
-"　　　　　　　　 　　Staminan Spark\\r\n"
-"　　　　　　　　 A Rank (3,000+ Points)\\r\n"
-"　　　　　　　　 　　Chunk of Wood (Sacred)\\r\n"
-"　　　　　　　　 B Rank (2,500+ Points)\\r\n"
-"　　　　　　　　 　　Toughness ZZ\\r\n"
-"　　　　　　　　 C Rank (2,000+ Points)\\r\n"
-"　　　　　　　　 　　Staminan X"
+msgid "\\r\n　　　　　　　　 S Rank (3,500+ Points)\\r\n　　　　　　　　 　　Staminan Spark\\r\n　　　　　　　　 A Rank (3,000+ Points)\\r\n　　　　　　　　 　　Chunk of Wood (Sacred)\\r\n　　　　　　　　 B Rank (2,500+ Points)\\r\n　　　　　　　　 　　Toughness ZZ\\r\n　　　　　　　　 C Rank (2,000+ Points)\\r\n　　　　　　　　 　　Staminan X"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "160_Manager"
 msgid "We take pride in our fabulous prizes－hell, we'd rather go bankrupt than start offering half-baked prizes! Play as much as you can and go for an S-Rank score in Extra Hard mode!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "172_Player"
 msgid "Not right now."
 msgstr "Ahora no."
 
+#. y4:line_status=todo
 msgctxt "184_Manager"
 msgid "Oh, really? Well, they're all great prizes, so we hope you'll play to win one or more!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "196_Manager"
 msgid "Sure, let's hear it."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "208_Manager"
 msgid "Not right now."
 msgstr "Ahora no."

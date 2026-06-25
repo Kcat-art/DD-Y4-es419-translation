@@ -1,207 +1,221 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee035a.po\n"
-"X-Crowdin-File-ID: 61862\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=todo
 msgctxt "344"
 msgid "You got <Color:8>Ecopoints<Color:Default>."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "6028"
 msgid "Shifty Man"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "6032"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:line_status=translated
 msgctxt "6036"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "6040"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "6044"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:line_status=translated
 msgctxt "6048"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "6052"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "6056"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "6060"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "6064"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
+#. y4:line_status=todo
 msgctxt "6068"
 msgid "Mean Green Machine"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "6072"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=todo
 msgctxt "128_Shifty Man"
-msgid "Hey there, buddy. Not too often I see guys like you down\\r\n"
-"in a place like this."
+msgid "Hey there, buddy. Not too often I see guys like you down\\r\nin a place like this."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "140_Shifty Man"
-msgid "Let me guess. You're concerned about the slow deterioration\\r\n"
-"of our natural environment, so you've come to me, the expert on all things grassy and green."
+msgid "Let me guess. You're concerned about the slow deterioration\\r\nof our natural environment, so you've come to me, the expert on all things grassy and green."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "152_Player"
 msgid "Uh... Actually, I..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "164_Shifty Man"
-msgid "Relax, big guy. I won't bite. But I will drop a big old\\r\n"
-"knowledge bomb on you."
+msgid "Relax, big guy. I won't bite. But I will drop a big old\\r\nknowledge bomb on you."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "176_Shifty Man"
-msgid "You know how much trash gets collected in Kamurocho in a\\r\n"
-"year? 22,000 tons. 60 tons every single day. That's as much\\r\n"
-"as two humpback whales! Every day!"
+msgid "You know how much trash gets collected in Kamurocho in a\\r\nyear? 22,000 tons. 60 tons every single day. That's as much\\r\nas two humpback whales! Every day!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "188_Shifty Man"
-msgid "And that doesn't include the litter strewn around town that\\r\n"
-"nobody bothers to pick up. Which, trust me, is a lot."
+msgid "And that doesn't include the litter strewn around town that\\r\nnobody bothers to pick up. Which, trust me, is a lot."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "200_Shifty Man"
-msgid "So, I've devoted my life to making this city as clean as\\r\n"
-"possible."
+msgid "So, I've devoted my life to making this city as clean as\\r\npossible."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "212_Shifty Man"
 msgid "Yes!"
 msgstr "¡Sí!"
 
+#. y4:line_status=todo
 msgctxt "224_Player"
 msgid "...And?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "236_Man"
 msgid "Hm?"
 msgstr "¿Mm?"
 
+#. y4:line_status=todo
 msgctxt "248_Player"
 msgid "What's any of this have to do with me?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "260_Shifty Man"
 msgid "Oh! Right!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "272_Shifty Man"
-msgid "'Round here they call me the Mean Green Machine! No matter\\r\n"
-"how high that trash stacks, I'll always be there to whisk it away!"
+msgid "'Round here they call me the Mean Green Machine! No matter\\r\nhow high that trash stacks, I'll always be there to whisk it away!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "284_Mean Green Machine"
-msgid "Speaking of, trash has something of a special value down\\r\n"
-"here in the underground."
+msgid "Speaking of, trash has something of a special value down\\r\nhere in the underground."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "296_Player"
 msgid "What do you mean... value?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "308_Mean Green Machine"
-msgid "You heard me! Down here, trash makes the world go 'round!\\r\n"
-"Ditch your cash, bring me some trash!"
+msgid "You heard me! Down here, trash makes the world go 'round!\\r\nDitch your cash, bring me some trash!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "320_Mean Green Machine"
-msgid "I'll appraise whatever bits of trash you give me, and give\\r\n"
-"you the appropriate number of points. Points are like our\\r\n"
-"money, mind you."
+msgid "I'll appraise whatever bits of trash you give me, and give\\r\nyou the appropriate number of points. Points are like our\\r\nmoney, mind you."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "332_Mean Green Machine"
 msgid "Here, take this."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "368_Mean Green Machine"
-msgid "With points, you can buy all sorts of stuff. Items, food,\\r\n"
-"equipment. Though of course, this only applies to the shops\\r\n"
-"we run down in these here sewers."
+msgid "With points, you can buy all sorts of stuff. Items, food,\\r\nequipment. Though of course, this only applies to the shops\\r\nwe run down in these here sewers."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "380_Mean Green Machine"
-msgid "Oh, and keep in mind any trash you've got is worthless until\\r\n"
-"I get my hands on it. Don't worry, I won't rip you off or\\r\n"
-"nothing."
+msgid "Oh, and keep in mind any trash you've got is worthless until\\r\nI get my hands on it. Don't worry, I won't rip you off or\\r\nnothing."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "392_Mean Green Machine"
-msgid "One more thing! Just 'cause you nab a piece of trash, that\\r\n"
-"doesn't mean it's gone forever. Someone's bound to litter\\r\n"
-"again in the same spot if you wait long enough."
+msgid "One more thing! Just 'cause you nab a piece of trash, that\\r\ndoesn't mean it's gone forever. Someone's bound to litter\\r\nagain in the same spot if you wait long enough."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "404_Mean Green Machine"
-msgid "Anyway, why don't you start with that little speck of smut\\r\n"
-"over there? Just bring it on over to me."
+msgid "Anyway, why don't you start with that little speck of smut\\r\nover there? Just bring it on over to me."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "428_Mean Green Machine"
 msgid "Thanks for stopping by. What can I trash you for?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "452_Mean Green Machine"
-msgid "Come back when you've got your hands on some more trash.\\r\n"
-"And don't forget to have a clean day!"
+msgid "Come back when you've got your hands on some more trash.\\r\nAnd don't forget to have a clean day!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "476_Mean Green Machine"
-msgid "Come back when you've got your hands on some more trash.\\r\n"
-"And don't forget to have a clean day!"
+msgid "Come back when you've got your hands on some more trash.\\r\nAnd don't forget to have a clean day!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "488_Mean Green Machine"
 msgid "If you say so. Have a clean day!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "500_Shifty Man"
 msgid "Appraise Trash"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "512_Shifty Man"
 msgid "Green Store"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "524_Shifty Man"
 msgid "Leave"
 msgstr "Irse"

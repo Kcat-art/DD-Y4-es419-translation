@@ -1,243 +1,276 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee01da.po\n"
-"X-Crowdin-File-ID: 62038\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=todo
 msgctxt "960"
 msgid "You got a <Color:8>Pure Gold Manjiro<Color:Default>."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "6180"
 msgid "Employee"
 msgstr "Empleado"
 
+#. y4:line_status=translated
 msgctxt "6184"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "6188"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "6192"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "6196"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
+#. y4:line_status=translated
 msgctxt "6200"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=todo
 msgctxt "660_Employee"
-msgid "Welcome, sir.\\r\n"
-"Do you know the password you can get in 777town?"
+msgid "Welcome, sir.\\r\nDo you know the password you can get in 777town?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "672_Employee"
-msgid "Oh, no...\\r\n"
-"I don't know the password."
+msgid "Oh, no...\\r\nI don't know the password."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "684_Employee"
 msgid "Is that so? Please visit www.777town.net/ryu/ to find it."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "696_Employee"
 msgid "Yeah, I know it."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "708_Employee"
-msgid "Very well, then let's proceed to the password.\\r\n"
-"It is seven characters in total.\\r\n"
-"What is the first character?"
+msgid "Very well, then let's proceed to the password.\\r\nIt is seven characters in total.\\r\nWhat is the first character?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "732_Employee"
-msgid "All right.\\r\n"
-"What's the second character?"
+msgid "All right.\\r\nWhat's the second character?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "756_Employee"
-msgid "Oh ho...\\r\n"
-"Right then, what's the third character?"
+msgid "Oh ho...\\r\nRight then, what's the third character?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "780_Employee"
-msgid "There we go!\\r\n"
-"What's the fourth character?"
+msgid "There we go!\\r\nWhat's the fourth character?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "804_Employee"
-msgid "Hmmm, I see.\\r\n"
-"Three characters left!\\r\n"
-"Please tell me the fifth character."
+msgid "Hmmm, I see.\\r\nThree characters left!\\r\nPlease tell me the fifth character."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "828_Employee"
-msgid "Okay, two characters left!\\r\n"
-"What's the sixth character?"
+msgid "Okay, two characters left!\\r\nWhat's the sixth character?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "852_Employee"
 msgid "Okay, time for the seventh and final character!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "876_Employee"
-msgid "All right!\\r\n"
-"Let's see if it's correct or not!\\r\n"
-"If you get all seven characters right, you'll get a special prize!"
+msgid "All right!\\r\nLet's see if it's correct or not!\\r\nIf you get all seven characters right, you'll get a special prize!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "888_Employee"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=todo
 msgctxt "912_Employee"
 msgid "Oh, I'm sorry, sir! You'll have to try again!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "924_Employee"
-msgid "Amazing! You're absolutely right!\\r\n"
-"Congratulations!"
+msgid "Amazing! You're absolutely right!\\r\nCongratulations!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "936_Employee"
 msgid "Here is your fabulous gift!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "984_Employee"
 msgid "Yeah, I know the password."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "996_Employee"
 msgid "No, I don't."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1008_Employee"
 msgid "Go"
 msgstr "Go"
 
+#. y4:line_status=translated
 msgctxt "1020_Employee"
 msgid "7"
 msgstr "7"
 
+#. y4:line_status=translated
 msgctxt "1032_Employee"
 msgid "Se"
 msgstr "Se"
 
+#. y4:line_status=translated
 msgctxt "1044_Employee"
 msgid "Pa"
 msgstr "Pa"
 
+#. y4:line_status=todo
 msgctxt "1056_Employee"
 msgid "－"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1068_Employee"
 msgid "7"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1080_Employee"
 msgid "Ga"
 msgstr "Ga"
 
+#. y4:line_status=translated
 msgctxt "1092_Employee"
 msgid "Chi"
 msgstr "Chi"
 
+#. y4:line_status=translated
 msgctxt "1104_Employee"
 msgid "Ru"
 msgstr "Ru"
 
+#. y4:line_status=todo
 msgctxt "1116_Employee"
 msgid "7"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1128_Employee"
 msgid "Sa"
 msgstr "Sa"
 
+#. y4:line_status=translated
 msgctxt "1140_Employee"
 msgid "Su"
 msgstr "Su"
 
+#. y4:line_status=translated
 msgctxt "1152_Employee"
 msgid "Do"
 msgstr "Do"
 
+#. y4:line_status=translated
 msgctxt "1164_Employee"
 msgid "t"
 msgstr "t"
 
+#. y4:line_status=translated
 msgctxt "1176_Employee"
 msgid "Mi"
 msgstr "Mi"
 
+#. y4:line_status=translated
 msgctxt "1188_Employee"
 msgid "Ro"
 msgstr "Ro"
 
+#. y4:line_status=translated
 msgctxt "1200_Employee"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 msgctxt "1212_Employee"
 msgid "O"
 msgstr "O"
 
+#. y4:line_status=todo
 msgctxt "1224_Employee"
 msgid "－"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1236_Employee"
 msgid "Dai"
 msgstr "Dai"
 
+#. y4:line_status=translated
 msgctxt "1248_Employee"
 msgid "Ji"
 msgstr "Ji"
 
+#. y4:line_status=translated
 msgctxt "1260_Employee"
 msgid "w"
 msgstr "w"
 
+#. y4:line_status=translated
 msgctxt "1272_Employee"
 msgid "H"
 msgstr "H"
 
+#. y4:line_status=todo
 msgctxt "1284_Employee"
 msgid "Kou"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1296_Employee"
 msgid "Ro"
 msgstr "Ro"
 
+#. y4:line_status=translated
 msgctxt "1308_Employee"
 msgid "n"
 msgstr "n"
 
+#. y4:line_status=translated
 msgctxt "1320_Employee"
 msgid "D"
 msgstr "D"
 
+#. y4:line_status=translated
 msgctxt "1332_Employee"
 msgid "Ki"
 msgstr "Ki"

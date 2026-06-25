@@ -1,64 +1,66 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid0009057f.po\n"
-"X-Crowdin-File-ID: 62696\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=translated
 msgctxt "1000"
 msgid "Boyfriend"
 msgstr "Novio"
 
+#. y4:line_status=translated
 msgctxt "1004"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "1008"
 msgid "Girlfriend"
 msgstr "Novia"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "1012"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "1016"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "1020"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
+#. y4:line_status=translated
 msgctxt "84_Boyfriend"
-msgid "What do you say we go play some golf? I hear you\\r\n"
-"can play a round for pretty cheap these days."
-msgstr "¿Te animas a jugar golf? Escuché que podemos jugar\\r\n"
-"una ronda a un precio bastante razonable."
+msgid "What do you say we go play some golf? I hear you\\r\ncan play a round for pretty cheap these days."
+msgstr "¿Te animas a jugar golf? Escuché que podemos jugar\\r\nuna ronda a un precio bastante razonable."
 
+#. y4:line_status=translated
 msgctxt "96_Girlfriend"
 msgid "That does sound kinda nice. But isn't it a bit far?"
 msgstr "Eso suena bastante bien. Pero, ¿no está un poco lejos?"
 
+#. y4:line_status=translated
 msgctxt "108_Boyfriend"
 msgid "Not if we take a taxi. We'd be there in no time."
 msgstr "No si tomamos un taxi. Llegaríamos en un santiamén."
 
+#. y4:line_status=translated
 msgctxt "120_Girlfriend"
 msgid "Yeah? Okay, then let's get going!"
 msgstr "¿En serio? ¡Entonces vámonos!"
 
+#. y4:line_status=translated
 msgctxt "132_Boyfriend"
 msgid "You got it! We better hurry, 'cause the course closes at sundown."
 msgstr "¡Entendido! Es mejor que nos apuremos, porque el campo cierra al atardecer."

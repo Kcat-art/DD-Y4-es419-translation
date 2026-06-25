@@ -1,499 +1,566 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00910101.po\n"
-"X-Crowdin-File-ID: 58150\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=translated
 msgctxt "800"
 msgid "You got a <Color:8>Woodcarving Set<Color:Default>."
 msgstr "Has obtenido un <Color:8>set de tallado en madera<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "18740"
 msgid "Punk-like Man"
 msgstr "Hombre con aspecto de matón"
 
+#. y4:line_status=translated
 msgctxt "18744"
 msgid "M_ykz_damage_tlk_no"
 msgstr "M_ykz_damage_tlk_no"
 
+#. y4:line_status=translated
 msgctxt "18748"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "18752"
 msgid "Old Man"
 msgstr "Abuelo"
 
+#. y4:line_status=translated
 msgctxt "18756"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:line_status=translated
 msgctxt "18760"
 msgid "Relieved Homeless Man"
 msgstr "Indigente aliviado"
 
+#. y4:line_status=translated
 msgctxt "18764"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "18768"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:line_status=translated
 msgctxt "18772"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
+#. y4:line_status=translated
 msgctxt "18776"
 msgid "Master"
 msgstr "Maestro"
 
+#. y4:line_status=translated
 msgctxt "18780"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:line_status=translated
 msgctxt "18784"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "18788"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "18792"
 msgid "Ken-chan"
 msgstr "Ken-chan"
 
+#. y4:line_status=translated
 msgctxt "18796"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:line_status=translated
 msgctxt "18800"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "18804"
 msgid "Talk_Request"
 msgstr "Talk_Request"
 
+#. y4:line_status=translated
 msgctxt "18808"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:line_status=translated
 msgctxt "18812"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
+#. y4:line_status=translated
 msgctxt "18816"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 msgctxt "18820"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 msgctxt "18824"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
+#. y4:line_status=translated
 msgctxt "18828"
 msgid "Master's Helper - Saejima"
 msgstr "Ayudante del Sennin - Saejima"
 
+#. y4:line_status=translated
 msgctxt "18832"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "18836"
 msgid "Panicked Homeless Man"
 msgstr "Indigente con pánico"
 
+#. y4:line_status=translated
 msgctxt "18840"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "18844"
 msgid "Talk_Cry"
 msgstr "Talk_Cry"
 
+#. y4:line_status=translated
 msgctxt "116_Punk-like Man"
 msgid "Who the hell is this guy? Some sorta monster or somethin'!?"
 msgstr "Oye, ¿quién demonios es este tipo? ¡¿Es un monstruo?!"
 
+#. y4:line_status=translated
 msgctxt "128_Punk-like Man"
 msgid "Dammit! This ain't the last you heard of us, old man!"
 msgstr "¡Maldita sea! ¡Recuérdame, hijo de puta!"
 
+#. y4:line_status=translated
 msgctxt "176_Saejima"
 msgid "Street punks and their cowardly lines never change."
 msgstr "Matones siendo cobardes, eso nunca cambia."
 
+#. y4:line_status=translated
 msgctxt "188_Old Man"
 msgid "You saved my life. Thank you."
 msgstr "Me salvaste la vida. Gracias."
 
+#. y4:line_status=translated
 msgctxt "200_Saejima"
 msgid "Thank this guy, not me. He's the one that was doin' all the worryin'."
-msgstr "No, si quieres agradecerle a alguien, agradécele a él.\\r\n"
-"Fue el que más se preocupó por ti."
+msgstr "No, si quieres agradecerle a alguien, agradécele a él.\\r\nFue el que más se preocupó por ti."
 
+#. y4:line_status=translated
 msgctxt "224_Relieved Homeless Man"
 msgid "Master, you okay!? Did they hurt you?"
 msgstr "¡¿Maestro, está bien?! ¿Está herido?"
 
+#. y4:line_status=translated
 msgctxt "236_Old Man"
 msgid "Oh, it's you. Yeah, I'm all right."
 msgstr "Ah, tú. No te preocupes, estoy bien."
 
+#. y4:line_status=translated
 msgctxt "248_Relieved Homeless Man"
 msgid "Thank goodness! I was scared outta my mind!"
 msgstr "¡Gracias a Dios! ¡Estaba bastante preocupado!"
 
+#. y4:line_status=translated
 msgctxt "260_Relieved Homeless Man"
 msgid "I owe you, sir! You really are something! By the way, what was your name again?"
-msgstr "¡Muchas gracias! ¡Eres realmente fuerte!\\r\n"
-"Por cierto, ¿cómo te llamas?"
+msgstr "¡Muchas gracias! ¡Eres realmente fuerte!\\r\nPor cierto, ¿cómo te llamas?"
 
+#. y4:line_status=translated
 msgctxt "272_Saejima"
 msgid "Saejima. You?"
 msgstr "Saejima. ¿Y ustedes?"
 
+#. y4:line_status=translated
 msgctxt "284_Relieved Homeless Man"
 msgid "People call me Ken-chan. And this here's the Master."
 msgstr "La gente me llama Ken-chan. Y este de aquí es el maestro."
 
+#. y4:line_status=translated
 msgctxt "296_Master"
 msgid "I didn't come up with that nickname, but call me whatever you want."
-msgstr "Es un apodo que me puse yo solo...\\r\n"
-"llámame como quieras."
+msgstr "Es un apodo que me puse yo solo...\\r\nllámame como quieras."
 
+#. y4:line_status=translated
 msgctxt "308_Saejima"
 msgid "So why were them punks after ya anyways?"
 msgstr "Entonces, ¿por qué te molestan esos matones?"
 
+#. y4:line_status=translated
 msgctxt "320_Master"
 msgid "Been down here lookin' for a certain somethin'. Somethin' important."
 msgstr "He estado aquí buscando algo. Algo importante."
 
+#. y4:line_status=translated
 msgctxt "332_Master"
 msgid "But then those hoodlums showed up, spoutin' nonsense about buried treasure and the like."
 msgstr "Pero según ellos es un tesoro o algo así."
 
+#. y4:line_status=translated
 msgctxt "344_Saejima"
 msgid "Somethin' important?"
 msgstr "¿Algo importante?"
 
+#. y4:line_status=translated
 msgctxt "356_Master"
 msgid "Yep. Ain't even sure what it is exactly. My father only told me about it on his deathbed."
-msgstr "Ni siquiera yo sé que es.\\r\n"
-"Solo lo oí cuando mi padre exhaló su último aliento."
+msgstr "Ni siquiera yo sé que es.\\r\nSolo lo oí cuando mi padre exhaló su último aliento."
 
+#. y4:line_status=translated
 msgctxt "368_Master"
 msgid "Said he buried somethin' important beneath the streets of Kamurocho."
 msgstr "Dijo que enterró algo importante bajo las calles de Kamurocho."
 
+#. y4:line_status=translated
 msgctxt "380_Saejima"
 msgid "I see..."
 msgstr "Ya veo..."
 
+#. y4:line_status=translated
 msgctxt "392_Master"
 msgid "He told me the general location, but we got more sewers an' newfangled underground malls croppin' up every day. Makes things harder to find."
-msgstr "Me dijo la ubicación aproximada, pero en las profundidades\\r\n"
-"de Kamurocho, hay lugares como alcantarillas y calles subterráneas,\\r\n"
-"y varias cosas nuevas se han desarrollado.\n"
+msgstr "Me dijo la ubicación aproximada, pero en las profundidades\\r\nde Kamurocho, hay lugares como alcantarillas y calles subterráneas,\\r\ny varias cosas nuevas se han desarrollado.\n"
 
+#. y4:line_status=translated
 msgctxt "404_Saejima"
 msgid "So ya mean he buried whatever it is before all this was built?"
 msgstr "¿Así que fue enterrado antes de que se construyera todo eso?"
 
+#. y4:line_status=translated
 msgctxt "416_Master"
 msgid "Exactly. I reckon durin' the war."
 msgstr "Sí, así es. Probablemente durante la guerra."
 
+#. y4:line_status=translated
 msgctxt "428_Saejima"
 msgid "Wow, that's a long time ago. So how many years ya been diggin'?"
-msgstr "Eso suena a muchísimo tiempo...\\r\n"
-"¿Y has estado cavando durante cuántos años?"
+msgstr "Eso suena a muchísimo tiempo...\\r\n¿Y has estado cavando durante cuántos años?"
 
+#. y4:line_status=translated
 msgctxt "440_Master"
 msgid "Well, heard from my father 'bout it when I was 50, so I reckon maybe 25 years. Give or take a few."
-msgstr "Mmm... escuché la historia de mi padre cuando tenía unos 50 años,\\r\n"
-"así que unos 25 años más o menos.\n"
+msgstr "Mmm... escuché la historia de mi padre cuando tenía unos 50 años,\\r\nasí que unos 25 años más o menos.\n"
 
+#. y4:line_status=translated
 msgctxt "452_Saejima"
 msgid "25 years..."
 msgstr "25 años..."
 
+#. y4:line_status=translated
 msgctxt "464_Ken-chan"
 msgid "Master, this guy's pretty strong. How about asking him to help you dig?"
-msgstr "Maestro. Este tipo parece muy fuerte,\\r\n"
-"¿qué tal si le pedimos que nos ayude a cavar?\n"
+msgstr "Maestro. Este tipo parece muy fuerte,\\r\n¿qué tal si le pedimos que nos ayude a cavar?\n"
 
+#. y4:line_status=translated
 msgctxt "476_Master"
 msgid "And why would I do that?"
 msgstr "¿Qué dices?"
 
+#. y4:line_status=translated
 msgctxt "488_Ken-chan"
 msgid "You've been saying your back hurts, right? And you're not getting any younger."
-msgstr "Hace poco dijiste que te dolía la espalda, ¿verdad?\\r\n"
-"Si no cavamos rápido, ¡terminarás muerto antes de descubrir el secreto!"
+msgstr "Hace poco dijiste que te dolía la espalda, ¿verdad?\\r\nSi no cavamos rápido, ¡terminarás muerto antes de descubrir el secreto!"
 
+#. y4:line_status=translated
 msgctxt "500_Master"
 msgid "Oh, shut yer trap! I still got it in me!"
 msgstr "¡Cállate! ¡Todavía estoy lleno de energía!"
 
+#. y4:line_status=translated
 msgctxt "512_Ken-chan"
 msgid "You don't have to be so hardheaded! Saejima-san, will you help the Master dig?"
-msgstr "Vamos, no tienes que ser tan terco.\\r\n"
-"Oye, Saejima-san, ¿qué tal si nos ayudas con la excavación?"
+msgstr "Vamos, no tienes que ser tan terco.\\r\nOye, Saejima-san, ¿qué tal si nos ayudas con la excavación?"
 
+#. y4:line_status=translated
 msgctxt "524_Ken-chan"
 msgid "Please!"
 msgstr "¡Por favor!"
 
+#. y4:line_status=translated
 msgctxt "536_Saejima"
 msgid "Ya really been digging this hole for 25 years?"
 msgstr "¿De verdad has estado cavando durante 25 años?"
 
+#. y4:line_status=translated
 msgctxt "548_Master"
 msgid "Pretty much."
 msgstr "Bueno, algo así."
 
+#. y4:line_status=translated
 msgctxt "560_Saejima"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "572_Saejima"
 msgid "I see. Well, I'll help whenever I got the time."
-msgstr "Está bien.\\r\n"
-"Cuando tenga tiempo, te ayudaré."
+msgstr "Está bien.\\r\nCuando tenga tiempo, te ayudaré."
 
+#. y4:line_status=translated
 msgctxt "584_Master"
 msgid "Seriously, kid? You ain't even involved. Might not be anything in it for ya either."
-msgstr "¿En serio lo harás?\\r\n"
-"¿Aunque no tenga nada que ver contigo?"
+msgstr "¿En serio lo harás?\\r\n¿Aunque no tenga nada que ver contigo?"
 
+#. y4:line_status=translated
 msgctxt "596_Saejima"
 msgid "Consider it karma. Plus, haven't had a good workout since comin' to Kamurocho. Don't worry about it."
-msgstr "Desde que llegué a Kamurocho he dejado de hacer ejercicio.\\r\n"
-"Supongo que ya va siendo hora de hacer un poco."
+msgstr "Desde que llegué a Kamurocho he dejado de hacer ejercicio.\\r\nSupongo que ya va siendo hora de hacer un poco."
 
+#. y4:line_status=translated
 msgctxt "608_Ken-chan"
 msgid "Perfect! You just might find what you're looking for before you pass on, Master!"
 msgstr "¡Qué bien! ¡Quizás encuentres algo importante antes de descansar en paz, maestro!"
 
+#. y4:line_status=translated
 msgctxt "620_Master"
 msgid "Will you quit talkin' about me dyin' already!? Geez!"
-msgstr "¡Llevas hablando como si estuviera en mi lecho de muerte!\\r\n"
-"¡Por Dios!"
+msgstr "¡Llevas hablando como si estuviera en mi lecho de muerte!\\r\n¡Por Dios!"
 
+#. y4:line_status=translated
 msgctxt "632_Master"
 msgid "Saejima, was it? I may talk a lot, but I can't stop the years from pilin' on."
-msgstr "Saejima, ¿verdad? Incluso si eres terco,\\r\n"
-"no puedes evitar el paso del tiempo."
+msgstr "Saejima, ¿verdad? Incluso si eres terco,\\r\nno puedes evitar el paso del tiempo."
 
+#. y4:line_status=translated
 msgctxt "644_Master"
 msgid "Honestly, this old man'd be really happy if ya lent a hand, even if it's only for a little."
-msgstr "Si puedes ayudarme aunque sea un poco,\\r\n"
-"realmente te lo agradecería."
+msgstr "Si puedes ayudarme aunque sea un poco,\\r\nrealmente te lo agradecería."
 
+#. y4:line_status=translated
 msgctxt "656_Saejima"
 msgid "Got it. I'll come by and help when I can."
 msgstr "Entendido. Cuando tenga tiempo, vendré a ayudar."
 
+#. y4:line_status=translated
 msgctxt "668_Master"
 msgid "Thank you, son. I'm in your debt."
 msgstr "Muchas gracias por tu amabilidad, hijo."
 
+#. y4:line_status=translated
 msgctxt "680_Master"
 msgid "Ain't much of a reward, I guess, but do ya know about <Color:7>Revelations<Color:Default>?"
-msgstr "Supongo que no es mucho, pero,\\r\n"
-"¿has oído algo de las <Color:7>Revelaciones<Color:Default>?"
+msgstr "Supongo que no es mucho, pero,\\r\n¿has oído algo de las <Color:7>Revelaciones<Color:Default>?"
 
+#. y4:line_status=translated
 msgctxt "692_Saejima"
 msgid "Revelations?"
 msgstr "¿Revelaciones?"
 
+#. y4:line_status=translated
 msgctxt "704_Master"
 msgid "Yep. Revelations allow you to learn new techniques by observing various events around town."
 msgstr "Sí, exacto. Es cuando estás por la ciudad y ves algo que te llena de nuevas ideas e inspiración."
 
+#. y4:line_status=translated
 msgctxt "716_Master"
 msgid "Might just be able to discover somethin' new if ya capture those decisive moments in material form."
-msgstr "Capturar ese momento decisivo\\r\n"
-"puede llevar a descubrimientos inesperados."
+msgstr "Capturar ese momento decisivo\\r\npuede llevar a descubrimientos inesperados."
 
+#. y4:line_status=translated
 msgctxt "728_Saejima"
 msgid "But I don't have a camera. Never been much good with machines anyway."
-msgstr "Pero no tengo ninguna cámara.\\r\n"
-"De igual forma, no soy tan bueno con la tecnología."
+msgstr "Pero no tengo ninguna cámara.\\r\nDe igual forma, no soy tan bueno con la tecnología."
 
+#. y4:line_status=translated
 msgctxt "740_Master"
 msgid "Same here. Couldn't afford it either. That's why I use these babies."
-msgstr "Estamos igual. No podía tener algo tan caro.\\r\n"
-"Es por eso que uso esto."
+msgstr "Estamos igual. No podía tener algo tan caro.\\r\nEs por eso que uso esto."
 
+#. y4:line_status=translated
 msgctxt "752_Saejima"
 msgid "A hammer and chisel?"
 msgstr "¿Un martillo y un cincel?"
 
+#. y4:line_status=translated
 msgctxt "764_Master"
 msgid "I'll give ya some good carvin' wood too. Use that there hammer and chisel to carve the events you see."
-msgstr "También te daré un poco de madera.\\r\n"
-"Así podrás tallar los eventos que ocurran con el martillo y el cincel."
+msgstr "También te daré un poco de madera.\\r\nAsí podrás tallar los eventos que ocurran con el martillo y el cincel."
 
+#. y4:line_status=translated
 msgctxt "776_Master"
 msgid "Ask Ken-chan about what's goin' on above ground. He may have some good information."
 msgstr "Pregúntale a Ken-chan si sabe donde podría estar ocurriendo algo."
 
+#. y4:line_status=translated
 msgctxt "788_Saejima"
 msgid "I think I get it. I'll give it a try."
 msgstr "Está bien. Lo intentaré."
 
+#. y4:line_status=translated
 msgctxt "824_Punk-like Man"
-msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\n"
-"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\n"
-"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\n"
-"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"
-"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nRead <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\nYou can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
+#. y4:line_status=translated
 msgctxt "896_Saejima"
 msgid "(Well, looks like I've settled things here. Time to investigate that legendary info dealer. Wonder if any of the homeless might know something...)"
 msgstr "(Bueno, parece que todo se resolvió. Hora de investigar sobre ese informante legendario. Tal vez un indigente sepa algo)."
 
+#. y4:line_status=translated
 msgctxt "944_Panicked Homeless Man"
 msgid "Over there!"
 msgstr "¡Mira, por ahí!"
 
+#. y4:line_status=translated
 msgctxt "968_Punk-like Man"
 msgid "Enough bull, old man. It's time you told us the truth."
 msgstr "Ya es hora abuelo. Dí la verdad."
 
+#. y4:line_status=translated
 msgctxt "980_Punk-like Man"
 msgid "We don't like to get rough with frail geezers, so do us a favor and start talking."
-msgstr "Tampoco queremos ser violentos con los mayores.\\r\n"
-"Así que, por favor, conversemos un poco."
+msgstr "Tampoco queremos ser violentos con los mayores.\\r\nAsí que, por favor, conversemos un poco."
 
+#. y4:line_status=translated
 msgctxt "992_Old Man"
 msgid "I can't let you go any further! All these years o' hard work woulda been for nothing!"
 msgstr "¡No te dejaré pasar de aquí! ¡No dejaré que mis años de esfuerzo se echen a perder!"
 
+#. y4:line_status=translated
 msgctxt "1004_Punk-like Man"
 msgid "We know you're hiding tons of buried treasure back there! That's why you been digging like this since the stone age!"
-msgstr "Sabemos que hay un montón de tesoros ahí, ¿verdad?\\r\n"
-"Por eso has estado cavando tan duro todos estos años, ¿no?"
+msgstr "Sabemos que hay un montón de tesoros ahí, ¿verdad?\\r\nPor eso has estado cavando tan duro todos estos años, ¿no?"
 
+#. y4:line_status=translated
 msgctxt "1016_Old Man"
 msgid "There ain't no buried treasure! Now get the hell outta here!"
-msgstr "¡No hay ningún tesoro!\\r\n"
-"¡Largo de aquí!"
+msgstr "¡No hay ningún tesoro!\\r\n¡Largo de aquí!"
 
+#. y4:line_status=translated
 msgctxt "1028_Punk-like Man"
 msgid "It's no fair if you hog all that money to yourself. Share the loot why don't you, grandpa?"
-msgstr "No es justo que te lo guardes todo para ti, viejo.\\r\n"
-"Compartámoslo todos juntos."
+msgstr "No es justo que te lo guardes todo para ti, viejo.\\r\nCompartámoslo todos juntos."
 
+#. y4:line_status=translated
 msgctxt "1040_Punk-like Man"
 msgid "Come on, this is taking too long. If you're not gonna move, then we'll just have to move you!"
-msgstr "Oye, esto ya se está tardando demasiado.\\r\n"
-"Quitemos al viejo de en medio y hagámosle entrar en razón."
+msgstr "Oye, esto ya se está tardando demasiado.\\r\nQuitemos al viejo de en medio y hagámosle entrar en razón."
 
+#. y4:line_status=translated
 msgctxt "1052_Panicked Homeless Man"
 msgid "Oh no! They're gonna kill the Master!"
 msgstr "¡Ay no! ¡Van a matar al maestro!"
 
+#. y4:line_status=translated
 msgctxt "1064_Panicked Homeless Man"
 msgid "You look like a pretty strong guy. Please get rid of those hooligans and save the Master!"
 msgstr "Pareces ser un hombre fuerte. ¡Por favor! ¡Deshazte de esa gente y ayuda al maestro!"
 
+#. y4:line_status=translated
 msgctxt "1076_Saejima"
 msgid "Sorry, can't get involved. Fight yer own battles with yer own friends."
-msgstr "Lo siento, no quiero problemas. \\r\n"
-"¿Por qué no reúnes a tu gente y pelean?"
+msgstr "Lo siento, no quiero problemas. \\r\n¿Por qué no reúnes a tu gente y pelean?"
 
+#. y4:line_status=translated
 msgctxt "1088_Panicked Homeless Man"
 msgid "But nobody really likes the Master. He's not exactly the social type..."
-msgstr "¡Pero el maestro no está muy bien considerado por todos!\\r\n"
-"No se le da muy bien socializar..."
+msgstr "¡Pero el maestro no está muy bien considerado por todos!\\r\nNo se le da muy bien socializar..."
 
+#. y4:line_status=translated
 msgctxt "1100_Panicked Homeless Man"
 msgid "But he's still a good guy! You gotta help him out!"
-msgstr "¡Pero no es mala persona!\\r\n"
-"¡Así que quiero ayudarle de alguna manera!"
+msgstr "¡Pero no es mala persona!\\r\n¡Así que quiero ayudarle de alguna manera!"
 
+#. y4:line_status=translated
 msgctxt "1112_Panicked Homeless Man"
 msgid "Please! You're my only hope!"
 msgstr "¡Por favor! ¡Eres mi única esperanza!"
 
+#. y4:line_status=translated
 msgctxt "1124_Saejima"
 msgid "...Oh, for crying out loud."
 msgstr "... Por el amor de Dios."
 
+#. y4:line_status=translated
 msgctxt "1136_Saejima"
 msgid "Fine. When ya put it like that, guess I can't just sit back and watch the old man die."
 msgstr "Está bien, está bien. Supongo que no puedo dejar que muera."
 
+#. y4:line_status=translated
 msgctxt "1148_Saejima"
 msgid "I'll talk to 'em."
 msgstr "Hablaré con ellos."
 
+#. y4:line_status=translated
 msgctxt "1160_Panicked Homeless Man"
 msgid "Really!? Thank you, kind sir!"
 msgstr "¡¿En serio?! ¡Muchas gracias, señor!"
 
+#. y4:line_status=translated
 msgctxt "1172_Punk-like Man"
 msgid "Listen, gramps, tell us what we wanna know or it ain't the retirement home you're headed for. Got it?"
-msgstr "Abuelo, si no me respondes en un minuto,\\r\n"
-"te romperé la cara, y es en serio, ¿vale?"
+msgstr "Abuelo, si no me respondes en un minuto,\\r\nte romperé la cara, y es en serio, ¿vale?"
 
+#. y4:line_status=translated
 msgctxt "1184_Saejima"
 msgid "Wait right there."
 msgstr "Un momento."
 
+#. y4:line_status=translated
 msgctxt "1208_Saejima"
 msgid "You kids havin' fun pickin' on senior citizens? Ain't ya supposed to care for the elderly?"
-msgstr "¿Disfrutan metiéndose así con los viejos?\\r\n"
-"¿No deberían mostrar un poco de respeto?"
+msgstr "¿Disfrutan metiéndose así con los viejos?\\r\n¿No deberían mostrar un poco de respeto?"
 
+#. y4:line_status=translated
 msgctxt "1220_Punk-like Man"
 msgid "Who the fuck are you, huh? One of this guy's homeless friends?"
 msgstr "¿Qué pasa contigo? ¿Estás con este viejo?"
 
+#. y4:line_status=translated
 msgctxt "1232_Saejima"
 msgid "Don't matter. Just let this whole thing go and get lost."
 msgstr "Eso no importa. Deberían irse a casa."
 
+#. y4:line_status=translated
 msgctxt "1244_Punk-like Man"
 msgid "So you're after the loot too! You think we don't know what's up?"
-msgstr "Vas tras el tesoro también, ¿verdad?\\r\n"
-"¡Eres un ingenuo si piensas que te lo quedarás con esas bonitas palabras!"
+msgstr "Vas tras el tesoro también, ¿verdad?\\r\n¡Eres un ingenuo si piensas que te lo quedarás con esas bonitas palabras!"
 
+#. y4:line_status=translated
 msgctxt "1256_Saejima"
 msgid "Gimme a break already. Kids these days dunno when to listen."
 msgstr "Para nada... Los niños de hoy en día no escuchan."
 
+#. y4:line_status=translated
 msgctxt "1268_Punk-like Man"
 msgid "Enough talk! We're gonna float both your geriatric corpses down the fuckin' sewer!"
 msgstr "¡Ya basta de hablar! ¡Te mostraremos como enviamos tu cuerpo flotando por la alcantarilla!"
 
+#. y4:line_status=translated
 msgctxt "1292_Punk-like Man"
 msgid "Help Him"
 msgstr "Ayudarle"
 
+#. y4:line_status=translated
 msgctxt "1304_Punk-like Man"
 msgid "Don't Help"
 msgstr "No ayudarle"

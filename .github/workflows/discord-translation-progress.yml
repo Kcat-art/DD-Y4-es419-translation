@@ -13,9 +13,15 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: discord-translation-progress-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   discord-report:
     runs-on: ubuntu-latest
+
+    if: github.actor != 'github-actions[bot]'
 
     steps:
       - name: Checkout repository

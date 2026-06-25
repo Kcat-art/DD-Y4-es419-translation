@@ -300,7 +300,44 @@ def get_commits(before: str, after: str) -> list[str]:
     return commits
 
 
+def load_github_username_map() -> dict[str, str]:
+    event_path = os.environ.get("GITHUB_EVENT_PATH")
+
+    if not event_path:
+        return {}
+
+    try:
+        with open(event_path, "r", encoding="utf-8") as f:
+            event = json.load(f)
+    except Exception:
+        return {}
+
+    username_map = {}
+
+    for commit in event.get("commits", []):
+        sha = commit.get("id")
+        author = commit.get("author") or {}
+        username = author.get("username")
+
+        if sha and username:
+            username_map[sha] = username
+    return username_map
+
+
+GITHUB_USERNAME_MAP = load_github_username_map()
+
+
 def commit_author(commit: str) -> str:
+    username = GITHUB_USERNAME_MAP.get(commit)
+
+    if username:
+        return username
+
+    actor = os.environ.get("GITHUB_ACTOR")
+
+    if actor:
+        return actor
+
     author = git("show", "-s", "--format=%an", commit, allow_fail=True).strip()
     return author or "Usuario desconocido"
 

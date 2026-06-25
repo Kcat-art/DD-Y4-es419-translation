@@ -1,44 +1,133 @@
-name: Discord translation progress
+name: Rebuild progress assets
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
+
     paths:
-      - "**/*.po"
-      - "scripts/discord_translation_report.py"
-      - "tools/progress/build_progress_assets.py"
-      - ".github/workflows/discord-translation-progress.yml"
+      - 'data/**/*.po'
+      - 'README.md'
+      - '.github/workflows/rebuild-progress-assets.yml'
+      - 'tools/progress/build_progress_assets.py'
+  workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  discord-report:
+  rebuild-progress:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Set up Python
+      - name: Show basic context
+        run: |
+          echo "Repo: $GITHUB_REPOSITORY"
+          echo "Ref:  $GITHUB_REF"
+          echo "SHA:  $GITHUB_SHA"
+          echo "Actor:$GITHUB_ACTOR"
+          echo "Workspace: $GITHUB_WORKSPACE"
+
+      - name: Show changed PO files
+        run: |
+          echo "::group::Changed files"
+          git diff --name-only HEAD~1 HEAD || true
+          echo "::endgroup::"
+
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: '3.11'
 
-      - name: Install dependencies
-        run: python -m pip install pillow
+      - name: Run progress builder
+        shell: bash
+        run: |
+          mkdir -p assets/progress
+          mkdir -p workflow_logs
+          echo "::group::Generate progress assets"
+          python -u tools/progress/build_progress_assets.py 2>&1 | tee workflow_logs/progress_build.log
+          echo "::endgroup::"
 
-      - name: Build progress assets
-        run: python tools/progress/build_progress_assets.py
+      - name: Update README progress section
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
 
-      - name: Send Discord translation report
-        env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_TRANSLATION_WEBHOOK }}
-          BEFORE_SHA: ${{ github.event.before }}
-          AFTER_SHA: ${{ github.sha }}
-          GITHUB_REF_NAME: ${{ github.ref_name }}
-          GITHUB_ACTOR: ${{ github.actor }}
-        run: python scripts/discord_translation_report.py
+          readme_path = Path("README.md")
+          progress_path = Path("assets/progress/readme_progress.md")
+
+          if not readme_path.exists():
+              raise SystemExit("README.md no existe")
+          if not progress_path.exists():
+              raise SystemExit("assets/progress/readme_progress.md no existe")
+
+          readme = readme_path.read_text(encoding="utf-8")
+          progress = progress_path.read_text(encoding="utf-8").strip()
+
+          start = "<!-- PROGRESS_SECTION_START -->"
+          end = "<!-- PROGRESS_SECTION_END -->"
+
+          start_idx = readme.find(start)
+          end_idx = readme.find(end)
+
+          if start_idx == -1 or end_idx == -1 or end_idx < start_idx:
+              raise SystemExit("No se encontraron los marcadores del README")
+
+          new_block = f"{start}\n{progress}\n{end}"
+          updated = readme[:start_idx] + new_block + readme[end_idx + len(end):]
+
+          readme_path.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Show generated files
+        shell: bash
+        run: |
+          echo "::group::Generated files"
+          ls -lah assets/progress || true
+          echo
+          echo "--- summary.json ---"
+          cat assets/progress/summary.json || true
+          echo
+          echo "--- global_badge.json ---"
+          cat assets/progress/global_badge.json || true
+          echo
+          echo "--- translation_badge.json ---"
+          cat assets/progress/translation_badge.json || true
+          echo
+          echo "--- review_badge.json ---"
+          cat assets/progress/review_badge.json || true
+          echo
+          echo "--- readme_progress.md ---"
+          cat assets/progress/readme_progress.md || true
+          echo "::endgroup::"
+
+      - name: Upload workflow logs and outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: progress-run-${{ github.run_number }}
+          path: |
+            workflow_logs/
+            assets/progress/
+            README.md
+          if-no-files-found: error
+
+      - name: Commit generated assets
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/progress README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update progress assets"
+          git push

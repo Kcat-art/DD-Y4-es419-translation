@@ -17,46 +17,91 @@ msgstr ""
 "X-Crowdin-File-ID: 61468\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "6020"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "6024"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "6028"
 msgid "Hana"
 msgstr "Hana"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "6032"
 msgid "P_aki_sitsofa_tlk_phone_lp"
 msgstr "P_aki_sitsofa_tlk_phone_lp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "6036"
 msgid "P_aki_sitsofa"
 msgstr "P_aki_sitsofa"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "6040"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "6044"
 msgid "P_aki_sitsofa_tlk_kamae_ed"
 msgstr "P_aki_sitsofa_tlk_kamae_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "6048"
 msgid "P_aki_stand"
 msgstr "P_aki_stand"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "68_Akiyama"
 msgid "(Phew, I'm beat... Well, it looks like we got an impostor on the loose. Question is: what do I do about it?)"
 msgstr "(Uf, Qué cansancio... bueno, tal parece que tenemos un impostor suelto. La verdadera pregunta es: ¿Qué hago al respecto?)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "80_Akiyama"
 msgid "(Better talk to Hana-chan. She should be able to come up with something.)"
 msgstr "(Mejor hablo con Hana-chan. A lo mejor se le ocurre algo.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=2
 msgctxt "128_Hana"
 msgid "Yes, hello? What is it, Chief?"
 msgstr "Sí, ¿hola? ¿Qué pasa, Jefe?"
@@ -67,6 +112,13 @@ msgid "Hey, Hana-chan. Listen, somebody's impersonating me, and\\r\n"
 msgstr "Hola, Hana-chan. Escúchame, Hay alguien que se está haciendo pasar por mí, y\\r\n"
 "claramente, no es para nada bueno."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=2
 msgctxt "152_Hana"
 msgid "Really?"
 msgstr "¿De verdad?"
@@ -85,6 +137,13 @@ msgid "It's like he's got some kind of customer-exploiting, pseudo\\r\n"
 msgstr "Es como si tuviera otra empresa para explotarlos, como\\r\n"
 "una empresa de limpieza o algo parecido."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=2
 msgctxt "188_Hana"
 msgid "Pretty small-scale scam, considering how much work he's probably putting into it..."
 msgstr "Qué estafa a más pequeña escala, considerando cuanto tiempo está invirtiéndole..."
@@ -103,14 +162,35 @@ msgstr "Te llamé por me preguntaba como podía castigar\\r\n"
 "a este impostor. ¿Te importaría encontrarlo por mí,\\r\n"
 "por favor?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=2
 msgctxt "224_Hana"
 msgid "Sure. One minute..."
 msgstr "Claro. Dame un segundo..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=2
 msgctxt "296_Hana"
 msgid "Okay, yeah. He's sketchy for sure."
 msgstr "Vale, pues sí. Es obvio que no es alguien confiable."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=2
 msgctxt "308_Hana"
 msgid "He came to Kamurocho and opened up shop about a month ago..."
 msgstr "Llegó a Kamurocho y abrió una tienda hace poco menos de un mes..."
@@ -121,6 +201,13 @@ msgid "He's not just a moneylender, either. He's also a courier, a\\r\n"
 msgstr "No es solo un prestamista. También es un repartidor, un\\r\n"
 "reparador... Y la lista sigue."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=23
+#. y4:msg_location=T0.P23
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "332_Akiyama"
 msgid "Interesting. A courier, huh?"
 msgstr "Interesante. Un repartidor, ¿eh?"
@@ -131,6 +218,13 @@ msgid "What do you think? Should I try to come up with a fitting\\r\n"
 msgstr "¿Tú qué opinas? ¿Debería ingeniarme un castigo\\r\n"
 "acorde?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=25
+#. y4:msg_location=T0.P25
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "356_Akiyama"
 msgid "Oh, would you? That'd be great!"
 msgstr "¿Oh, Lo harías por mí? ¡Estaría genial!"
@@ -147,15 +241,35 @@ msgid "After a while, I'll make contact with him, so just go along\\r\n"
 msgstr "Después de un rato, me contactaré con él, así que solo\\r\n"
 "síguele la corriente a lo que sea que te diga."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=28
+#. y4:msg_location=T0.P28
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "392_Akiyama"
 msgid "Sounds good. Thanks, Hana-chan."
 msgstr "Suena bien. Gracias, Hana-chan."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=29
+#. y4:msg_location=T0.P29
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=2
 msgctxt "404_Hana"
 msgid "Sure! Heheheh, this is going to be fun..."
 msgstr "¡Claro! Jejeje, Me divertiré mucho..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=37
+#. y4:msg_location=T0.P37
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "500_Akiyama"
 msgid "(Yikes. She's enjoying this a little too much. All right, now to check out this fake Sky Finance. <Color:7>Park Alley<Color:Default>, was it?)"
 msgstr "(Vaya. Parece que lo está disfrutando demasiado. Pues bien, hora de ir a ver este Sky Finance falso. ¿Estaba en el <Color:7>Callejón Del Parque<Color:Default>?)"
-

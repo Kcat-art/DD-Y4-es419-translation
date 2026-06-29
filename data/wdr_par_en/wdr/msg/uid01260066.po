@@ -17,19 +17,38 @@ msgstr ""
 "X-Crowdin-File-ID: 61112\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1104"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1108"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "68_Player"
 msgid "(I get three tries at this UFO Catcher for 500 yen.)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "152_Player"
 msgid "(I get three tries at this UFO Catcher for 500 yen.)"
 msgstr ""
-

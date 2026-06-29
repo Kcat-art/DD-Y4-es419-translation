@@ -10,33 +10,51 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1436"
 msgid "Bar Owner"
 msgstr "Dueño del Bar"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1440"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1444"
 msgid "Bar Manager"
 msgstr "Encargado del Bar"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1448"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1452"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1456"
 msgid "Saejima"
 msgstr "Saejima"
@@ -62,12 +80,25 @@ msgid "True, but as long as we've got mouths to feed and bladders\\r\nto fill, I
 msgstr "Es cierto, pero mientras tengamos bocas que alimentar y\\r\nvejigas que llenar, yo mantendré este lugar funcionando."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Bar Owner
+#. y4:msg_speaker_id=0
 msgctxt "132_Bar Owner"
 msgid "You and me both. Guess we'll be doing this until we drop."
 msgstr "Lo mismo digo. Creo que vamos a estar en esto hasta que no demos más."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=5
 msgctxt "144_Saejima"
 msgid "(Guess not all change is for the better. Maybe I'll grab a cold one or two and think back on the good ol' days.)"
 msgstr "(Parece que no todo cambio es para bien. A lo mejor me tome una o dos cervezas bien frías y recuerde los viejos tiempos)."
-

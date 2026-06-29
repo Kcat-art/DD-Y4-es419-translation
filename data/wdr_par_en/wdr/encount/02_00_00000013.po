@@ -17,47 +17,101 @@ msgstr ""
 "X-Crowdin-File-ID: 57898\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1420"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1424"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1428"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1432"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1436"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "116_Man"
 msgid "I don't have enough money to buy my next meal. Don't you feel sorry for me?"
 msgstr "No tengo suficiente dinero para comprar mi próxima comida. ¿No te doy pena?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "Well, then how about you make a little contribution, huh?"
 msgstr "Entonces, ¿qué tal si haces una pequeña contribución, eh?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Man"
 msgid "I'm so sorry!"
 msgstr "¡Lo siento mucho!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "164_Man"
 msgid "Actually, I'm so full, I couldn't eat another bite. Here. Go have a nice meal on me!"
 msgstr "En realidad, estoy tan lleno que no podría comer ni un bocado más. Toma. ¡Ve a disfrutar de una buena comida por mi cuenta!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
 msgctxt "176_Man"
 msgid "You got a roasted %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "212_Man"
 msgid "Please have mercy! I really don't have anything else on me!"
 msgstr "¡Por favor, ten piedad! ¡De verdad no tengo nada más!"
-

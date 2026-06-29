@@ -17,34 +17,66 @@ msgstr ""
 "X-Crowdin-File-ID: 57682\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4900"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4904"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4908"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4912"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4916"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4920"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "Looks like you got a good buzz on, huh? Niiice. I wouldn't mind a nice stiff drink myself..."
 msgstr "Parece que ya estás bien borracho, ¿eh? Geniaaal. Yo también quiero disfrutar de un buen trago..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "140_Man"
 msgid "...bought with your money, that is. So hand it over and no one gets hurt!"
 msgstr "...comprado con tu dinero, claro. ¡Así que entrégalo y nadie saldrá herido!"
@@ -54,19 +86,47 @@ msgid "Damn filthy drunk... I got no problem with having a drink or three, but I
 msgstr "Maldito borracho asqueroso... ¡No tengo problema con tomar una o tres copas, pero traspaso la línea cuando se trata de\n"
 "vómito, como en el que acabo de pisar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "164_Man"
 msgid "You say it ain't yours? Who asked you, pal? I'm still gonna beat your ass into the ground!"
 msgstr "¿Dices que no es tuyo? ¿Quién te preguntó, amigo? ¡De todos modos voy a partirte la cara!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "176_Man"
 msgid "Hey, pops. Must be nice having the money to tie one on like that. Me, I'm fresh out, and to tell you the truth, it's kinda pissing me off."
 msgstr "Oye, viejo. Debe ser agradable tener el dinero para emborracharse así. Yo, en cambio, estoy sin un centavo, y para serte sincero, me\n"
 "está empezando a molestar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "188_Man"
 msgid "That does it! I gotta let out this aggression! Sorry, pops, but you're next in line for the beatin' of a lifetime!"
 msgstr "¡Eso es! ¡Tengo que liberar esta agresión! ¡Lo siento, viejo, pero eres el siguiente en la fila para la paliza de tu vida!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "224_Man"
 msgid "Stop! That's enough!"
 msgstr "¡Para! ¡Ya basta!"
@@ -75,43 +135,106 @@ msgctxt "236_Man"
 msgid "Shit, my bad! I fucked up! Here, just－just take this."
 msgstr "¡Mierda, lo siento! La cagué. Solo... solo toma esto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
 msgctxt "248_Man"
 msgid "You got a crummy %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "272_Man"
 msgid "Urgh... Shit! I might wind up pukin', myself. Guess that's what happens when a guy takes all those kicks to the gut."
 msgstr "Ugh... ¡Mierda! Podría terminar vomitando yo también. Supongo que eso pasa cuando alguien recibe tantas patadas en el estómago."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "284_Man"
 msgid "It never pays to pick a fight with a drunk. Huh? Oh, nothing. I wasn't talkin' about you. Here. Take this, and we'll call it even."
 msgstr "Nunca vale la pena pelearse con un borracho. ¿Eh? Oh, nada. No estaba hablando de ti. Toma esto, y estaremos a mano."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
 msgctxt "296_Man"
 msgid "You got a whisky-soaked %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "320_Man"
 msgid "Son of a bitch! I sure got my ass handed to me that time."
 msgstr "¡Hijo de puta! Me dieron una paliza esa vez."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "332_Man"
 msgid "Man, nothing's ever easy, is it? Look, just take this and get the hell outta here."
 msgstr "Hombre, nunca nada es fácil, ¿verdad? Mira, solo toma esto y lárgate de aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=11
+#. y4:msg_location=T2.P11
 msgctxt "344_Man"
 msgid "You got a hopeful %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "392_Man"
 msgid "Sorry for buggin' you... I'll pay for my own drinks."
 msgstr "Lo siento por molestarte... Pagaré mis propias bebidas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=2
+#. y4:msg_location=T3.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "404_Man"
 msgid "I feel awful. Urp! I'll never lay a finger on a drunk again as long as I live..."
 msgstr "Me siento fatal. ¡Urp! No volveré a ponerle un dedo encima a un borracho mientras viva..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=3
+#. y4:msg_location=T3.P3
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "416_Man"
 msgid "What do you want? Get lost! They'll be carting you off in a body bag the next time you mess with me. Understand?"
 msgstr "¿Qué quieres? ¡Lárgate! La próxima vez que te metas conmigo, te llevarán en una bolsa para cadáveres. ¿Entiendes?"
-

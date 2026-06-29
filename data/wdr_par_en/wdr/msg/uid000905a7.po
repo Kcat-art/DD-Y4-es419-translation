@@ -17,19 +17,38 @@ msgstr ""
 "X-Crowdin-File-ID: 61158\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "404"
 msgid "Scared Businesswoman"
 msgstr "Mujer de negocios asustada"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "408"
 msgid "Confident Businesswoman"
 msgstr "Mujer de negocios confiada"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Scared Businesswoman
+#. y4:msg_speaker_id=0
 msgctxt "84_Scared Businesswoman"
 msgid "My gosh, was that a yakuza!?"
 msgstr "Dios mío, ¿¡eso era un yakuza!?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Confident Businesswoman
+#. y4:msg_speaker_id=1
 msgctxt "96_Confident Businesswoman"
 msgid "He must have been. Most likely a pretty powerful one, by the look of things."
 msgstr "Debe haberlo sido. Probablemente uno muy poderoso, por lo que parece."
-

@@ -17,42 +17,84 @@ msgstr ""
 "X-Crowdin-File-ID: 61136\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1240"
 msgid "Irritable Voter"
 msgstr "Elector Irritable"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1244"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1248"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1252"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1256"
 msgid "Honest Voter"
 msgstr "Votante Honesto"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1260"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "1264"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Irritable Voter
+#. y4:msg_speaker_id=0
 msgctxt "84_Irritable Voter"
 msgid "That Numai sure has a sneaky way of getting publicity."
 msgstr "Numai tiene una forma bastante descarada de ganarse la popularidad, ¿no crees?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "96_Saejima"
 msgid "Hey, you two. Somebody send ya here to make trouble?"
 msgstr "Oigan ustedes dos. ¿Alguien les pidió que interrumpieran el discurso?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Irritable Voter
+#. y4:msg_speaker_id=0
 msgctxt "108_Irritable Voter"
 msgid "Excuse me? I don't know what you're talking about."
 msgstr "¿Eh? ¿De qué estás hablando?"
@@ -63,7 +105,13 @@ msgid "Wait, what? Is Numai-san the kind of person who'd slap\\r\n"
 msgstr "¿Será que? ¿Numai-san es del tipo de persona que censura\\r\n"
 "la libertad de expresión? Eso me decepciona un poco..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "132_Saejima"
 msgid "(Aw, shit. He actually wanted to hear what the guy had to say.)"
 msgstr "(Maldición. Parece que sí le interesaba lo que tenía que decir el tipo)."
-

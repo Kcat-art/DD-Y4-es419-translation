@@ -17,18 +17,34 @@ msgstr ""
 "X-Crowdin-File-ID: 58738\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1160"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1164"
 msgid "Studious Dude"
 msgstr "Tipo Estudioso"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1168"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "84_Tanimura"
 msgid "Hey, did you just say someone got abducted?"
 msgstr "Oiga, ¿es cierto que alguien fue secuestrado?"
@@ -41,19 +57,46 @@ msgstr "Sí, yo mismo lo vi. Una mujer muy guapa fue prácticamente\\r\n"
 "arrastrada a la fuerza por un tipo que daba mucho miedo.\\r\n"
 "Ella forcejeaba con todas sus fuerzas..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "108_Tanimura"
 msgid "Dammit... You see where they went?"
 msgstr "¡Maldición...! ¿Vio hacia dónde fueron?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Studious Dude
+#. y4:msg_speaker_id=1
 msgctxt "120_Studious Dude"
 msgid "They got into a car waiting just over there. I heard them say something about the harbor."
 msgstr "Subieron a un auto que los esperaba ahí mismo. Alcance a oír que dijeron algo del puerto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "132_Tanimura"
 msgid "Okay, thanks."
 msgstr "Entendido, gracias."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "144_Tanimura"
 msgid "(So that guy wasn't bluffing when they said they took her to the docks. Better hurry over there.)"
 msgstr "(Parece que es cierto que la llevaron al muelle. No puedo perder más tiempo, debo dirigirme allí de inmediato)."
-

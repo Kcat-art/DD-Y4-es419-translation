@@ -10,33 +10,51 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1560"
 msgid "Fashionable Businesswoman"
 msgstr "Empresaria a la Moda"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1564"
 msgid "Stylish Businesswoman"
 msgstr "Empresaria con Estilo"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1568"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1572"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1576"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1580"
 msgid "Saejima"
 msgstr "Saejima"
@@ -57,17 +75,37 @@ msgid "I only go sometimes. A girl's gotta treat herself, right?\\r\nAnd drinkin
 msgstr "Solo voy de vez en cuando. Una tiene que darse sus gustitos, ¿no?\\r\nY tomar con los chicos de la oficina es tan... aburrido."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Stylish Businesswoman
+#. y4:msg_speaker_id=1
 msgctxt "120_Stylish Businesswoman"
 msgid "Don't remind me. Our manager's one \"hug\" away from a sexual harassment lawsuit... Okay, fine. Let's go live it up!"
 msgstr "Ni me lo digas. Nuestro jefe está a un \"abrazo\" de una demanda por acoso sexual... Pues, Muy bien. ¡Vamos a divertirnos!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Fashionable Businesswoman
+#. y4:msg_speaker_id=0
 msgctxt "132_Fashionable Businesswoman"
 msgid "Awesome. Hot guys and cold drinks, here we come!"
 msgstr "¡Qué bien! ¡Chicos guapos y bebidas frías, allá vamos!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=5
 msgctxt "144_Saejima"
 msgid "(A host club? Is that like a hostess club but with fellas tryin' to please the ladies? Shit... times have changed.)"
 msgstr "(¿Un host club? ¿Es como un club de hostess, pero con chicos tratando de complacer a las mujeres? Vaya... cómo han cambiado los tiempos)."
-

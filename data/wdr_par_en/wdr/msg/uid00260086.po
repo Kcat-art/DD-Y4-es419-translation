@@ -10,72 +10,118 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "5996"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "6000"
 msgid "Sync_kyoro_st"
 msgstr "Sync_kyoro_st"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "6004"
 msgid "Tadokoro"
 msgstr "Tadokoro"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "6008"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "6012"
 msgid "Sync_kyoro_ed"
 msgstr "Sync_kyoro_ed"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "6016"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "6020"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "6024"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "6028"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "6032"
 msgid "Casino Manager"
 msgstr "Gerente del casino"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "6036"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "6040"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "6044"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "68_Saejima"
 msgid "What is this place?"
 msgstr "¿Qué es este lugar?"
@@ -86,6 +132,13 @@ msgid "During the redevelopment of Purgatory a few years ago,\\r\nthe local home
 msgstr "Durante los años de la reurbanización del Purgatorio, los\nsintechos que vivían allí fueron expulsados. Y con afán de\ntener un nuevo refugio, decidieron fundar este lugar."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "92_Saejima"
 msgid "Aha. So this here's their Dragon Palace."
 msgstr "Ya veo... Conque este es el Palacio del Dragón."
@@ -111,6 +164,13 @@ msgid "So what's this gig about, anyhow? Ya want me\\r\nto count cards or someth
 msgstr "Comprendo. ¿Y qué es lo que debo hacer en este supuesto\ntrabajo? ¿Estafar al casino y luego largarnos con todo el\ndinero?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Tadokoro
+#. y4:msg_speaker_id=2
 msgctxt "152_Tadokoro"
 msgid "Well now, that's not a bad idea. But I'm afraid not."
 msgstr "No suena mal... Pero me temo que no será nada de eso."
@@ -131,11 +191,25 @@ msgid "The manager will fill you in on the fine details.\\r\nRight this way."
 msgstr "El gerente le contará todos los detalles. Sígame."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Tadokoro
+#. y4:msg_speaker_id=2
 msgctxt "236_Tadokoro"
 msgid "This is Suzuki-san. He'll be your bouncer today."
 msgstr "Le presento a Suzuki-san. Él será su guardia el día de hoy."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "248_Saejima"
 msgid "Pleasure."
 msgstr "Un gusto."
@@ -156,6 +230,13 @@ msgid "But as word spread, people from all walks of life started\\r\nshowing up,
 msgstr "Pero, al correrse la voz, personas de todas las castas\nsociales comenzaron a aparecer. Y, a este punto, casi\ntodos los días lidiamos con clientes \"complicados\"."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "296_Saejima"
 msgid "Difficult how?"
 msgstr "¿Complicados en qué sentido?"
@@ -181,6 +262,13 @@ msgid "I get what you're sayin'. Seems like nowadays,\\r\nthe civvies here in Ka
 msgstr "Ya veo. Se podría decir que los civiles comunes causan más\nproblemas que la misma yakuza hoy en día."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=25
+#. y4:msg_location=T0.P25
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "356_Saejima"
 msgid "So where do I come in?"
 msgstr "Y dígame, ¿qué tengo que hacer exactamente?"
@@ -196,7 +284,13 @@ msgid "Oh, okay. So I just gotta take out the trash,\\r\nis what you're sayin'."
 msgstr "Está bien. Entonces, básicamente, me encargo de sacar la\nbasura, ¿no?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=28
+#. y4:msg_location=T0.P28
+#. y4:msg_speaker=Casino Manager
+#. y4:msg_speaker_id=9
 msgctxt "392_Casino Manager"
 msgid "More or less, yes. Thank you again."
 msgstr "Algo así. Es una interpretación válida. Le doy las gracias\nnuevamente."
-

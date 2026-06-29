@@ -10,118 +10,330 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3116"
 msgid "Dealer"
 msgstr "Crupier"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3120"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3124"
 msgid "Player"
 msgstr "Player"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3128"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3132"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3136"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Play -> T0.P1 | 2. Not Now -> T0.P15
 msgctxt "144_Dealer"
 msgid "Welcome. Here, you can play Texas hold 'em poker. Would you like to play?"
 msgstr "Bienvenido. Aquí puedes jugar al póker Texas hold 'em. ¿Quieres jugar?"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play
 msgctxt "156_Player"
 msgid "Sure, I'll play."
 msgstr "Claro, jugaré."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. Low Stakes (5 chips/10 chips) -> T0.P3 | 2. High Stakes (50 chips/100 chips) -> T0.P9
 msgctxt "168_Dealer"
 msgid "An excellent choice. What stakes would you like to play for?"
 msgstr "Una elección excelente. ¿Con qué apuestas le gustaría jugar?"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play
 msgctxt "180_Player"
 msgid "I'll go with the low stakes."
 msgstr "Iré con las apuestas bajas."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play
 msgctxt "204_Dealer"
 msgid "The starting bets are as follows: 5 chips for rounds one and two, then 10 chips on rounds three and four."
 msgstr "Las apuestas iniciales son las que sigue: 5 fichas para las rondas uno y dos, luego, 10 fichas en las rondas tres y cuatro."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play
 msgctxt "216_Dealer"
 msgid "Please take a seat, sir."
 msgstr "Por favor, tome asiento señor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play
 msgctxt "240_Dealer"
 msgid "You'll need a minimum of 100 chips to play low-stakes poker, sir."
 msgstr "Necesitarás un mínimo de 100 fichas para jugar al póker de bajo riesgo, señor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play
 msgctxt "252_Player"
 msgid "I'll go with the high stakes."
 msgstr "Voy a ir con las apuestas altas."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play
 msgctxt "276_Dealer"
 msgid "The starting bets are as follows: 50 chips for rounds one and two, then 100 chips on rounds three and four."
 msgstr "Las apuestas iniciales son las que sigue: 50 fichas para las rondas uno y dos, luego, 100 fichas en las rondas tres y cuatro."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play
 msgctxt "288_Dealer"
 msgid "Please take a seat, sir."
 msgstr "Por favor, tome asiento señor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play
 msgctxt "312_Dealer"
 msgid "You'll need a minimum of 1,000 chips to play high-stakes poker, sir."
 msgstr "Necesitarás un mínimo de 1000 fichas para jugar al póker de alto riesgo, señor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not Now
 msgctxt "324_Player"
 msgid "Not right now."
 msgstr "Ahora no."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not Now
 msgctxt "336_Dealer"
 msgid "Very well. We hope you'll play with us next time."
 msgstr "Muy bien. Esperamos que vuelvas a jugar con nosotros."
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P1
+#. y4:msg_branch_segment=T0.P1..P14
+#. y4:msg_branch_target_text=Sure, I'll play.
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "348_Dealer"
 msgid "Play"
 msgstr "Jugar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P15
+#. y4:msg_branch_segment=T0.P15..P16
+#. y4:msg_branch_target_text=Not right now.
+#. y4:msg_branch_raw=01 11 00 0f 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "360_Dealer"
 msgid "Not Now"
 msgstr "Ahora no"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P3
+#. y4:msg_branch_segment=T0.P3..P8
+#. y4:msg_branch_target_text=I'll go with the low stakes.
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 1d 00 00 00 00 00 00 00 00
 msgctxt "372_Dealer"
 msgid "Low Stakes (5 chips/10 chips)"
 msgstr "Apuestas Bajas (5 fichas/10 fichas)"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P9
+#. y4:msg_branch_segment=T0.P9..P16
+#. y4:msg_branch_target_text=I'll go with the high stakes.
+#. y4:msg_branch_raw=01 11 00 09 00 00 00 20 00 00 00 00 00 00 00 00
 msgctxt "384_Dealer"
 msgid "High Stakes (50 chips/100 chips)"
 msgstr "Apuestas Altas (50 fichas/100 fichas)"
-

@@ -17,23 +17,43 @@ msgstr ""
 "X-Crowdin-File-ID: 58910\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
 msgctxt "140"
 msgid "You got <Color:255,255,200,255>Taihei Boulevard Locker Key A-4<Color:Default>."
 msgstr "Has obtenido la <Color:255,255,200,255>llave del casillero A-4 del Bulevar Taihei<Color:Default>."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1184"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1188"
 msgid "Talk_Syagamu_st"
 msgstr "Talk_Syagamu_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1192"
 msgid "Talk_Syagamu_ed"
 msgstr "Talk_Syagamu_ed"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "56_Player"
 msgid "(There's something here...)"
 msgstr "(Hay algo ahí...)."
-

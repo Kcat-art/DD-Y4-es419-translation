@@ -17,102 +17,217 @@ msgstr ""
 "X-Crowdin-File-ID: 60792\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "5384"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "5388"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "5392"
 msgid "Kamuro Phoenix Boss"
 msgstr "Jefe de Fénix Kamuro"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "5396"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "5400"
 msgid "Feather"
 msgstr "Pluma"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "5404"
 msgid "Talk_Udekumi_Yes"
 msgstr "Talk_Udekumi_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "5408"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "5412"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "5416"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "5420"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "5424"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "5428"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "5432"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "5436"
 msgid "M_ykz_sitgrd_tlk_kamae_ed"
 msgstr "M_ykz_sitgrd_tlk_kamae_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=14
 msgctxt "5440"
 msgid "M_ykz_stand"
 msgstr "M_ykz_stand"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "56_Kiryu"
 msgid "You're the boss of the Kamuro Phoenix?"
 msgstr "¿Eres el Jefe de los Fénix Kamuro?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Kamuro Phoenix Boss
+#. y4:msg_speaker_id=2
 msgctxt "68_Kamuro Phoenix Boss"
 msgid "That's me. They call me the boss. Or just Feather for short. It's a real pleasure."
 msgstr "Ese soy yo. Me llaman el jefe. O Pluma para abreviar. Es un placer."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "80_Kiryu"
 msgid "Those punks of yours keep getting in my way. They think they'll be the strongest in Kamurocho once they beat me, but they have a long ways to go."
 msgstr "Esos gamberros tuyos se siguen poniendo en mi camino. Piensan que serán los más fuertes de Kamurocho una vez me derroten, pero tienen un largo camino que recorrer."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Feather
+#. y4:msg_speaker_id=4
 msgctxt "92_Feather"
 msgid "Figured as much. I'd heard how strong you are, straight from the sixth's mouth."
 msgstr "Me lo imaginaba. He oído lo fuerte que eres, directamente de la boca del sexto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "104_Kiryu"
 msgid "You know Daigo?"
 msgstr "¿Conoces a Daigo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Feather
+#. y4:msg_speaker_id=4
 msgctxt "116_Feather"
 msgid "Yeah, he showed me a thing or two when we were in middle school."
 msgstr "Sí, me enseñó una cosa o dos cuando esabamos en la secundaria."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Feather
+#. y4:msg_speaker_id=4
 msgctxt "128_Feather"
 msgid "After he became the sixth chairman, he started asking if I wanted to join the Tojo Clan. Course, I had to politely refuse."
 msgstr "Cuando se convirtió en el sexto presidente, empezó a preguntarme si quería unirme al Clan Tojo. Por supuesto, tuve que negarme amablemente."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "140_Kiryu"
 msgid "So you're telling me you turned down a position in the Tojo Clan so you could run around like a poster boy for \"Remember the '80s\"?"
 msgstr "¿Me estás diciendo que rechazaste una posición en el Clan Tojo para poder ir por ahí como un chico de poster de \"Remember de '80s\"?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Feather
+#. y4:msg_speaker_id=4
 msgctxt "152_Feather"
 msgid "Hey, I've got my own way of doing things. I've had it with people raggin' on my classic style. The look is all part of the way I roll."
 msgstr "Hey, tengo mi manera de hacer las cosas. Estoy harto de que la gente se burle de mi estilo clásico. La apariencia es una parte de mi manera de ser."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Feather
+#. y4:msg_speaker_id=4
 msgctxt "164_Feather"
 msgid "Anyway, Dojima-san is one thing, but having to kiss ass with some has-been I don't even know? I'll take a pass on that."
 msgstr "De todos modos, Dojima-san es una cosa, ¿pero tener que besarle el culo a alguien que ni siquiera conozco? Voy a pasar."
@@ -121,47 +236,123 @@ msgctxt "176_Feather"
 msgid "I'm making my own gang. The ones that get what I'm about and stick with me－I'll take good care of 'em."
 msgstr "Estoy creando mi propia banda. A los que entienden lo que soy y se quedan conmigo - cuidaré bien de ellos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "188_Kiryu"
 msgid "Heh."
 msgstr "Je."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Feather
+#. y4:msg_speaker_id=4
 msgctxt "200_Feather"
 msgid "What? I say something funny?"
 msgstr "¿Qué? ¿He dicho algo gracioso?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "212_Kiryu"
 msgid "All those punks of yours really seem to trust you. I was kind of curious to meet the guy behind it all."
 msgstr "Esos gamberros tuyos parecen confiar mucho en tí. Tenía curiosidad de conocer al tipo detrás de todo eso."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Feather
+#. y4:msg_speaker_id=4
 msgctxt "224_Feather"
 msgid "And...?"
 msgstr "¿Y...?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "236_Kiryu"
 msgid "I hoped maybe we could sort this thing out. You can imagine my disappointment at the boss being a reject from Peter Pan and his Lost Boys."
 msgstr "Esperaba que pudieramos arreglar este asunto. Puedes imaginar mi decepción de que el jefe sea un rechazado de Peter Pan y sus Lost Boys."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Feather
+#. y4:msg_speaker_id=4
 msgctxt "248_Feather"
 msgid "What!?"
 msgstr "¡¿Qué?!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "260_Kiryu"
 msgid "Look, there are plenty of guys out there who don't want to join the system and bow down to the man. I can't deny that."
 msgstr "Mira, hay un montón de tipos que no quieren unirse al sistema y doblegarse ante el hombre. No voy a negar eso."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "272_Kiryu"
 msgid "But you're going about it all wrong, playing dress-up and causing trouble like that."
 msgstr "Pero lo que estás haciendo está mal, jugar a disfrazarte y causar problemas de esa forma."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Feather
+#. y4:msg_speaker_id=4
 msgctxt "284_Feather"
 msgid "Hahah! That all you've got to say?"
 msgstr "¡Jajaja! ¿Eso es todo lo que tienes que decir?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Feather
+#. y4:msg_speaker_id=4
 msgctxt "296_Feather"
 msgid "You sure talk tough for some has-been yakuza! I'm gonna be the new power in Kamurocho. All I gotta do is beat you first!"
 msgstr "¡Desde luego hablas muy duro para ser un Yakuza venido a menos! Voy a ser el nuevo poder en Kamurocho. ¡Lo único que tengo que hacer es vencerte primero!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Feather
+#. y4:msg_speaker_id=4
 msgctxt "308_Feather"
 msgid "Ain't nothin' more to sort out! This ends now!"
 msgstr "'No hay nada más que resolver! ¡Esto acaba ahora!"
-

@@ -17,23 +17,49 @@ msgstr ""
 "X-Crowdin-File-ID: 58666\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "712"
 msgid "Man Speaking in Broken Japanese"
 msgstr "Hombre con un japonés mediocre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "716"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Man Speaking in Broken Japanese
+#. y4:msg_speaker_id=0
 msgctxt "56_Man Speaking in Broken Japanese"
 msgid "Welcome, welcome! Want to buy something?"
 msgstr "¡Buenas, buenas! ¿Gusta comprar algo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Man Speaking in Broken Japanese
+#. y4:msg_speaker_id=0
 msgctxt "80_Man Speaking in Broken Japanese"
 msgid "Thanks! Come again, yes?"
 msgstr "¡Gracias! ¡Vuelva otra vez! ¿si?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Man Speaking in Broken Japanese
+#. y4:msg_speaker_id=0
 msgctxt "92_Man Speaking in Broken Japanese"
 msgid "Really? Well, come again please!"
 msgstr "¿Bueno? ¡Ok, vuelve otra vez, por favor!"
-

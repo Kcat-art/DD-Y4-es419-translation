@@ -17,35 +17,67 @@ msgstr ""
 "X-Crowdin-File-ID: 58402\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1392"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1396"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1400"
 msgid "Asian Woman"
 msgstr "Mujer asiática"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1404"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1408"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1412"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "84_Akiyama"
 msgid "Hi! I'm a scout for a hostess club."
 msgstr "Mucho gusto, trabajo como cazatalentos en un club de hostess.\\r\n"
 "¿Está interesada?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Asian Woman
+#. y4:msg_speaker_id=2
 msgctxt "96_Asian Woman"
 msgid "?"
 msgstr "¿?"
@@ -56,15 +88,35 @@ msgid "I'm a scout. For a hostess club. Any chance you'd be\\r\n"
 msgstr "Soy cazatalentos en un club de hostess.\\r\n"
 "¿Le gustaría trabajar con nosotros?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Asian Woman
+#. y4:msg_speaker_id=2
 msgctxt "120_Asian Woman"
 msgid "*speaking foreign language*"
 msgstr "对不起，我不会说日语"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "132_Akiyama"
 msgid "(Oops. Shouldn't have assumed she speaks Japanese...)"
 msgstr "(Ay, creo que ella no habla japonés...)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "144_Akiyama"
 msgid "Sorry to bother you! Goodbye!"
 msgstr "¡Perdón por interrumpirla! ¡Cuidese!"
-

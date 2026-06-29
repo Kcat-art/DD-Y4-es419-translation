@@ -10,28 +10,50 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "444"
 msgid "Noa"
 msgstr "Noa"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "448"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "452"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Noa
+#. y4:msg_speaker_id=0
 msgctxt "56_Noa"
 msgid "Finally, the last hole! Hit it with all you've got!"
 msgstr "¡Finalmente, el último hoyo! ¡Dale con todo!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "68_Akiyama"
 msgid "Just watch me nail this."
 msgstr "Solo mírame cómo la meto."
-

@@ -17,39 +17,83 @@ msgstr ""
 "X-Crowdin-File-ID: 62646\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
 msgctxt "136"
 msgid "You got <Color:8>20,000 yen<Color:Default>."
 msgstr "Obtuviste <Color:8>20 000 yenes<Color:Default>."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1620"
 msgid "Relieved Old Woman"
 msgstr "Anciana aliviada"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1624"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1628"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1632"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Relieved Old Woman
+#. y4:msg_speaker_id=0
 msgctxt "100_Relieved Old Woman"
 msgid "Thank goodness. I'm really fond of this bag."
 msgstr "Gracias a dios. Me gusta mucho esta bolsa."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=2
 msgctxt "112_Tanimura"
 msgid "Glad you got it back. You take care now."
 msgstr "Me alegro de que la tengas de vuelta. Cuídate."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Relieved Old Woman
+#. y4:msg_speaker_id=0
 msgctxt "124_Relieved Old Woman"
 msgid "Thank you so much. I don't know if I'm supposed to be doing this, but I'd like you to have this."
 msgstr "Muchas gracias. No sé si se supone que debo hacer esto, pero me gustaría que tuviera esto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Relieved Old Woman
+#. y4:msg_speaker_id=0
 msgctxt "208_Relieved Old Woman"
 msgid "I really appreciate what you did."
 msgstr "Aprecio mucho lo que hiciste."
-

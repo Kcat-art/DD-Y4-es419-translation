@@ -10,168 +10,406 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4104"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4108"
 msgid "Stranger"
 msgstr "Desconocido"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4112"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4116"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4120"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4124"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "4128"
 msgid "Sodachi"
 msgstr "Sodachi"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "4132"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "4136"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "4140"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "4144"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "4148"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "4152"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "4156"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "100_Saejima"
 msgid "(Gotta stay outta the cops' sight till I make it to the hideout...)"
 msgstr "(Tengo que mantenerme alejado de los policías hasta llegar al escondite...)"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Stranger
+#. y4:msg_speaker_id=1
 msgctxt "124_Stranger"
 msgid "Hey! Wait, Saejima-san!"
 msgstr "¡Oye! ¡Espera, Saejima-san!"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Stranger
+#. y4:msg_speaker_id=1
 msgctxt "148_Stranger"
 msgid "I just watched you fight! It was impressive how you withstood all that pain! I was moved!"
 msgstr "¡Te vi pelear! ¡Es impresionante como aguantaste todo ese dolor! ¡Fue conmovedor!"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "160_Saejima"
 msgid "Who the hell are ya?"
 msgstr "¿Y quién se supone que eres?"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Stranger
+#. y4:msg_speaker_id=1
 msgctxt "172_Stranger"
 msgid "Oh, sorry! My name is Sodachi. I run a dojo in the neighborhood."
 msgstr "¡Ah, disculpa! Me llamo Sodachi. Dirijo un dojo de por aquí."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "184_Saejima"
 msgid "Well whaddya want with me?"
 msgstr "¿Y qué quieres de mí?"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=6
 msgctxt "196_Sodachi"
 msgid "To tell you the truth, I was hoping you could help me with something."
 msgstr "Para serte sincero, esperaba que me pudieras ayudar con algo."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "208_Saejima"
 msgid "Help ya...?"
 msgstr "¿Ayudar con algo...?"
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=6
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Follow to the Dojo -> T0.P11 | 2. Decline -> T0.P14
 msgctxt "220_Sodachi"
 msgid "Yes... But let's talk at my dojo. That way you can see it for yourself. It's really close by. Do you have a little time to spare?"
 msgstr "Sí... ¿qué tal si hablamos en el dojo? Así podrás verlo tú mismo. Es por acá cerca. ¿Tienes tiempo?"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Follow to the Dojo
 msgctxt "232_Saejima"
 msgid "Fine. But make it quick."
 msgstr "Vale. Pero que sea rápido."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Follow to the Dojo
 msgctxt "244_Sodachi"
 msgid "Great! Woohoo! Just follow me and we'll be there in a jiffy!"
 msgstr "¡Qué bien! ¡Yujuu! ¡Sígueme, estaremos allí en un santiamén!"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Decline
 msgctxt "268_Saejima"
 msgid "Sorry. Ain't got the time."
 msgstr "Disculpa. No tengo tiempo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Decline
 msgctxt "280_Sodachi"
 msgid "I see... I bet you're a pretty busy guy! No worries! Heheh... Heh..."
 msgstr "Entiendo... ¡apuesto a que eres alguien bastante ocupado!, ¡no te preocupes! Je, je, je... je..."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Decline
 msgctxt "292_Sodachi"
 msgid "Rats... There's no hope left... My dojo is finished!"
 msgstr "Caray... Ya no hay esperanza... ¡Mi dojo está acabado!"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Decline
 msgctxt "304_Sodachi"
 msgid "So, this is what utter despair feels like... My chest, oh, it hurts!"
 msgstr "¿Así se siente la desesperación? El pecho, ¡me duele!"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Decline
 msgctxt "316_Saejima"
 msgid "Enough already. I'll go with ya. Just keep it short."
 msgstr "Ya es suficiente. Te acompañaré. Pero que sea rápido."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Decline
 msgctxt "328_Sodachi"
 msgid "Great! Woohoo! Follow me! Right this way! Let's go!"
 msgstr "¡Qué bien! ¡Yujuuu! ¡Sígueme! ¡Por aquí! ¡Vamos!"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P11
+#. y4:msg_branch_segment=T0.P11..P13
+#. y4:msg_branch_target_text=Fine. But make it quick.
+#. y4:msg_branch_raw=01 11 00 0b 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "352_Saejima"
 msgid "Follow to the Dojo"
 msgstr "Ir al dojo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P14
+#. y4:msg_branch_segment=T0.P14..P20
+#. y4:msg_branch_target_text=Sorry. Ain't got the time.
+#. y4:msg_branch_raw=01 11 00 0e 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "364_Saejima"
 msgid "Decline"
 msgstr "No ir"
-

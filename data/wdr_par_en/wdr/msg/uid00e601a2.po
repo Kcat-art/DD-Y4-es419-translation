@@ -17,35 +17,71 @@ msgstr ""
 "X-Crowdin-File-ID: 60416\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1988"
 msgid "Pickpocket"
 msgstr "Niño carterista"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1992"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1996"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2000"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2004"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Pickpocket
+#. y4:msg_speaker_id=0
 msgctxt "100_Pickpocket"
 msgid "Three, four, five... That big guy sure was slim pickings."
 msgstr "Tres, cuatro, cinco... Vaya, y yo que creía que robarle a\n"
 "ese tipo valdría la pena."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "112_Saejima"
 msgid "I'll be takin' back the cash ya stole, kid."
 msgstr "Eso que tienes ahí no es tuyo, mocoso."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Pickpocket
+#. y4:msg_speaker_id=0
 msgctxt "124_Pickpocket"
 msgid "What the... Hey! Can you prove this money is yours?"
 msgstr "¿Eh?... ¿Qué dijiste? ¡No puedes probar que no es mío!"
@@ -56,15 +92,35 @@ msgid "Easy, now. Didn't your old man ever teach you not to take\\r\n"
 msgstr "Cálmate. ¿Acaso tu papá nunca te enseño a no tomar lo que\n"
 "no es tuyo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Pickpocket
+#. y4:msg_speaker_id=0
 msgctxt "148_Pickpocket"
 msgid "Shut up! My dad's gone!"
 msgstr "¡¿Y qué sabes tú?! ¡Él ya no está aquí!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "160_Saejima"
 msgid "Kid..."
 msgstr "Oye..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "172_Saejima"
 msgid "C'mere a sec."
 msgstr "Ven, acompáñame."
-

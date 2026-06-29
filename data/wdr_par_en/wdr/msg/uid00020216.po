@@ -10,253 +10,582 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "9128"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "9132"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "9136"
 msgid "P_sae_stand"
 msgstr "P_sae_stand"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "9140"
 msgid "Idle"
 msgstr "Idle"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "9144"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "68_Kiryu"
 msgid "Glad to see you're up. How are you feeling?"
 msgstr "Me alegra ver que estás arriba. ¿Cómo te sientes?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "80_Saejima"
 msgid "Fine enough. Sorry 'bout all the trouble."
 msgstr "Bastante bien. Perdón por las molestias."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "92_Kiryu"
 msgid "Don't worry about it."
 msgstr "No hay de que."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "104_Kiryu"
 msgid "The kids are out for a few days on a field trip, so I have plenty of time on my hands."
 msgstr "Los niños estáran fuera por unos días en una excursión, por lo que tendre mucho tiempo en mis manos."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "116_Saejima"
 msgid "Huh, guess luck ain't always goin' against me."
 msgstr "Eh, Supongo que la suerte no siempre va en mi contra."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "128_Kiryu"
 msgid "Now, I have to ask. What happened to you?"
 msgstr "Ahora te preguntare. ¿Qué te pasó?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "140_Saejima"
 msgid "I, uh..."
 msgstr "Yo, eh..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "152_Kiryu"
 msgid "Do you remember being passed out on the beach this morning? Haruka found you while she was out walking our dog."
 msgstr "¿Recuerdas haberte desmayado por la playa esta mañana? Haruka te encontró mientras estaba paseando a nuestro perro."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "164_Saejima"
 msgid "Haruka?"
 msgstr "¿Haruka?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "176_Kiryu"
 msgid "The girl who's been watching over you."
 msgstr "La chica que ha estado vigilándote."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "188_Saejima"
 msgid "Oh... So that's her name."
 msgstr "Oh... Así que ese es su nombre."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "200_Kiryu"
 msgid "Yeah. Guess that means you still have your memory."
 msgstr "Sí. Supongo que eso significa que todavía recuerrdas algo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "212_Saejima"
 msgid "Mhm."
 msgstr "Mhm."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "224_Kiryu"
 msgid "Then tell me. How'd you end up washing up on our beach?"
 msgstr "Entonces dime. ¿Cómo terminaste bañandote en nuestra playa?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "236_Saejima"
 msgid "Uh..."
 msgstr "Eh..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "248_Kiryu"
 msgid "Is there a reason you don't want to tell me?"
 msgstr "¿Hay alguna razón que te impida decirmelo?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "260_Saejima"
 msgid "Nah, it ain't that. It's just..."
 msgstr "No, no es eso. Es solo..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "272_Kiryu"
 msgid "Can you at least tell me your name?"
 msgstr "¿Puedes al menos decirme tu nombre?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "284_Saejima"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "296_Kiryu"
 msgid "You can't even do that?"
 msgstr "Ni siquiera puedes hacer eso?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "308_Saejima"
 msgid "Naw, I owe it to ya for all the help..."
 msgstr "No, te lo debo por toda la ayuda..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "320_Saejima"
 msgid "But don't folks usually introduce themselves 'fore they go askin' a guy to do the same?"
 msgstr "Pero, ¿Que no es costumbre presentarse antes de pedir a alguien que haga lo mismo?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=23
+#. y4:msg_location=T0.P23
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "332_Kiryu"
 msgid "Fair point."
 msgstr "Buen Punto."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "344_Saejima"
 msgid "Sorry. Not tryin' to ruffle any feathers."
 msgstr "Perdón. No quiero parecer molesto."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=25
+#. y4:msg_location=T0.P25
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "356_Kiryu"
 msgid "It's okay. My name's Kiryu. Kazuma Kiryu."
 msgstr "Está bien. Mi nombre es Kiryu. Kazuma Kiryu."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "368_Saejima"
 msgid "(Hold up, that's the guy Hamazaki was talkin' about!)"
 msgstr "(¡Espera, eres ese tipo del que Hamazaki estaba hablando!)"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=27
+#. y4:msg_location=T0.P27
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "380_Kiryu"
 msgid "Something wrong?"
 msgstr "¿Todo bien?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=28
+#. y4:msg_location=T0.P28
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "392_Saejima"
 msgid "Oh, uh... Nah, it's nothin'."
 msgstr "Oh, eh... No, no es nada."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=29
+#. y4:msg_location=T0.P29
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "404_Kiryu"
 msgid "All right, I gave you my name. Your turn now."
 msgstr "Muy bien, te di mi nombre. Ahora es tu turno."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=30
+#. y4:msg_location=T0.P30
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "416_Saejima"
 msgid "It's... Suzuki. Yeah, that's it."
 msgstr "Es... Suzuki. Sí, eso es."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=31
+#. y4:msg_location=T0.P31
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "428_Kiryu"
 msgid "Suzuki-san, huh? Common name, though not really around here. I take it you're from the mainland?"
 msgstr "Suzuki, ¿eh? Bueno es un nombre común, aunque no realmente de por acá. ¿Supongo que eres del continente?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "440_Saejima"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=33
+#. y4:msg_location=T0.P33
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "452_Kiryu"
 msgid "I'll take that as a yes. Anyway, what are you going to do now? You didn't have a wallet or anything on you when you washed up."
 msgstr "Lo tomaré como un sí. De todos modos, ¿qué vas a hacer ahora? No tenías una billetera ni nada contigo cuando te lavaste."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=34
+#. y4:msg_location=T0.P34
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "464_Saejima"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=35
+#. y4:msg_location=T0.P35
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "476_Kiryu"
 msgid "You won't be able to go to the doctor or check in with the police without your ID."
 msgstr "No podrás ir a un médico ni consultar con la policía sin tu identificación."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=36
+#. y4:msg_location=T0.P36
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "488_Kiryu"
 msgid "I can help you get in touch with your family if you need a hand, though."
 msgstr "Puedo ayudarte a ponerte en contacto con tu familia si necesitas una mano."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "500_Saejima"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=38
+#. y4:msg_location=T0.P38
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "512_Kiryu"
 msgid "Suzuki-san? I can't help you if you don't tell me what you need."
 msgstr "¿Suzuki-san? No puedo ayudarte si no me dices lo que necesitas."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "524_Saejima"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=45
+#. y4:msg_location=T0.P45
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "596_Saejima"
 msgid "Lemme ask ya somethin'... Is your name really Kiryu?"
 msgstr "Déjame preguntarte algo... ¿Enserio te llamas Kiryu?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=46
+#. y4:msg_location=T0.P46
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "608_Kiryu"
 msgid "That's me."
 msgstr "Así es."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=47
+#. y4:msg_location=T0.P47
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "620_Saejima"
 msgid "Heh. Well ain't life mysterious."
 msgstr "Je. La vida obra de maneras misteriosas."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=48
+#. y4:msg_location=T0.P48
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "632_Saejima"
 msgid "Who'd have thought I'd end up floatin' right to your damn doorstep?"
 msgstr "¿Quién habría pensado que naufragaría directo a tu puerta?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=49
+#. y4:msg_location=T0.P49
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "644_Kiryu"
 msgid "I don't think I understand."
 msgstr "¿Por qué sería un problema?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=50
+#. y4:msg_location=T0.P50
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "656_Saejima"
 msgid "Kiryu-san. Ya gotta help me."
 msgstr "Kiryu-san. Tienes que ayudarme."
-

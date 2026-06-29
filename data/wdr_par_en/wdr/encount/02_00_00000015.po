@@ -17,44 +17,95 @@ msgstr ""
 "X-Crowdin-File-ID: 57828\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1512"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1516"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1520"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1524"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "116_Man"
 msgid "Word is someone's been on the rampage, tearing this place apart. Is it you?"
 msgstr "Se dice que alguien ha estado causando estragos, destrozando este lugar. ¿Eres tú?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "Well, all right. It might not be you after all, but I still have all this pent-up aggression and you're a convenient outlet!"
 msgstr "Bueno, está bien. Puede que no seas tú después de todo, ¡pero todavía tengo toda esta agresividad contenida y tú\n"
 "eres un desahogo conveniente!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Man"
 msgid "How did you get so strong? I'll never beat the likes of you..."
 msgstr "¿Cómo lograste ser tan fuerte? Nunca podré vencer a alguien como tú..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "164_Man"
 msgid "Sorry for turning on you like that. Take this, with my apologies."
 msgstr "Lo siento por haberte atacado así. Toma esto, con mis disculpas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
 msgctxt "176_Man"
 msgid "You got a disturbingly warm %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "212_Man"
 msgid "That didn't do much to cool my head. Ow..."
 msgstr "Eso no ayudó mucho a calmarme. Ay..."
-

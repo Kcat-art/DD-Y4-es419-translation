@@ -10,42 +10,70 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2024"
 msgid "Taxi Driver"
 msgstr "Taxista"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2028"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2032"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2036"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2040"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2044"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "2048"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Taxi Driver
+#. y4:msg_speaker_id=0
 msgctxt "84_Taxi Driver"
 msgid "Most exciting drive I've had in years... Makes this cigarette taste that much better."
 msgstr "El viaje más emocionante en años, sin dudar... hace que este cigarro sepa aún mejor."
@@ -56,21 +84,49 @@ msgid "'Scuse me. You picked up a young girl on Senryo Avenue,\\r\nright?"
 msgstr "Disculpa, ¿no llevaste a una joven en la avenida Senryo?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Taxi Driver
+#. y4:msg_speaker_id=0
 msgctxt "108_Taxi Driver"
 msgid "Sure did. Made it over here in record time, too."
 msgstr "Por supuesto. Y llegué en un santiamén."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "120_Akiyama"
 msgid "Do you know where she went after she got out?"
 msgstr "¿Sabes a dónde se fue después de salir del taxi?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Taxi Driver
+#. y4:msg_speaker_id=0
 msgctxt "132_Taxi Driver"
 msgid "Yeah, she went into that hotel. Try Room 406."
 msgstr "Claro, entró al hotel. Busca en el cuarto 406."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "144_Akiyama"
 msgid "...How do you know her room number?"
 msgstr "... ¿Y cómo sabes el número de su habitación?"
@@ -81,7 +137,13 @@ msgid "Well, the whole time she was in my cab, she kept muttering\\r\n\"406, 406
 msgstr "Durante el viaje, no paraba de decir \"406, 406\". Se notaba\\r\nque estaba bastante nerviosa."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "168_Akiyama"
 msgid "Careless of her... Hey, thanks. You've been a big help."
 msgstr "Qué desconsiderada... Gracias, me has echado una mano."
-

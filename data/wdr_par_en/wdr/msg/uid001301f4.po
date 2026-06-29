@@ -17,39 +17,83 @@ msgstr ""
 "X-Crowdin-File-ID: 61094\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
 msgctxt "108"
 msgid "You got <Color:8>15,000 yen<Color:Default>."
 msgstr "Obtuviste <Color:8>15 000 yenes<Color:Default>."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1780"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1784"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1788"
 msgid "Rubbernecker"
 msgstr ""
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1792"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "72_Tanimura"
 msgid "You guys can take care of the rest. Don't be too harsh on him, all right?"
 msgstr "Vosotros podéis encargaros del resto. No seais muy duros con el, ¿vale?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Rubbernecker
+#. y4:msg_speaker_id=2
 msgctxt "84_Rubbernecker"
 msgid "Hey, mister! Can I have a word with you?"
 msgstr "Hey, ¡señor! ¿Puedo hablar con usted?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Rubbernecker
+#. y4:msg_speaker_id=2
 msgctxt "96_Rubbernecker"
 msgid "Mister, you were awesome up there! I want to give you this for the great show!"
 msgstr "Señor, ¡estuvo increíble ahí arriba! ¡Quiero darle esto por el gran show!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Rubbernecker
+#. y4:msg_speaker_id=2
 msgctxt "180_Rubbernecker"
 msgid "Mister! You were awesome up there!"
 msgstr "¡Señor! ¡Estuvo increíble ahí arriba!"
-

@@ -17,50 +17,98 @@ msgstr ""
 "X-Crowdin-File-ID: 60480\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
 msgctxt "92"
 msgid "This's a test. Volume:BGM,0.3,1."
 msgstr "This's a test. Volume:BGM,0.3,1."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
 msgctxt "104"
 msgid "This's a test. BGM:kaiwabgm_love"
 msgstr "This's a test. BGM:kaiwabgm_love"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
 msgctxt "128"
 msgid "This's a test. Volume:environmental sounds,0.6,1.5."
 msgstr "This's a test. Volume:environmental sounds,0.6,1.5."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
 msgctxt "164"
 msgid "This's a test. Volume:environmental sounds,0.7,1.3."
 msgstr "This's a test. Volume:environmental sounds,0.7,1.3."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
 msgctxt "188"
 msgid "This's a test. BGM:kaiwabgm_sadness"
 msgstr "This's a test. BGM:kaiwabgm_sadness"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1592"
 msgid "kaiwabgm_loneliness"
 msgstr "kaiwabgm_loneliness"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1596"
 msgid "kaiwabgm_love"
 msgstr "kaiwabgm_love"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1600"
 msgid "kaiwabgm_funny"
 msgstr "kaiwabgm_funny"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1604"
 msgid "kaiwabgm_fuonb"
 msgstr "kaiwabgm_fuonb"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1608"
 msgid "kaiwabgm_happy"
 msgstr "kaiwabgm_happy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1612"
 msgid "kaiwabgm_sadness"
 msgstr "kaiwabgm_sadness"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
 msgctxt "56_kaiwabgm_loneliness"
 msgid "This's a test. BGM:NONE"
 msgstr "This's a test. BGM:NONE"
@@ -71,27 +119,56 @@ msgid "This's a test. BGM:kaiwabgm_loneliness\\r\n"
 msgstr "This's a test. BGM:kaiwabgm_loneliness\\r\n"
 "Volume: BGM,0.65,1"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
 msgctxt "80_kaiwabgm_loneliness"
 msgid "This's a test. Not doing anything."
 msgstr "This's a test. Not doing anything."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
 msgctxt "116_kaiwabgm_funny"
 msgid "This's a test. BGM:kaiwabgm_funny,10"
 msgstr "This's a test. BGM:kaiwabgm_funny,10"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
 msgctxt "140_kaiwabgm_loneliness"
 msgid "This's a test. BGM:NONE"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
 msgctxt "152_kaiwabgm_fuonb"
 msgid "This's a test. kaiwabgm_fuonB."
 msgstr "This's a test. kaiwabgm_fuonB."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
 msgctxt "176_kaiwabgm_happy"
 msgid "This's a test. BGM:kaiwabgm_happy"
 msgstr "This's a test. BGM:kaiwabgm_happy"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
 msgctxt "200_kaiwabgm_loneliness"
 msgid "Test continuation."
 msgstr "Test continuation."
-

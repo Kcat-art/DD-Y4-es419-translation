@@ -11,32 +11,54 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4812"
 msgid "Kido"
 msgstr "Kido"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4816"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4820"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4824"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4828"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "132_Kido"
 msgid "You sure you wanna go, Saejima-san?"
 msgstr "¿Vas a ir, Saejima-san?"
@@ -47,26 +69,61 @@ msgid "Yeah. Time to settle the score for all the shit\\r\nmy boss and I've been
 msgstr "Sí. Voy a ajustar cuentas por las que mi jefe\\r\ny yo tuvimos que pasar hace 25 años."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "156_Kido"
 msgid "25 years is a long-ass wait, man."
 msgstr "25 años es bastante tiempo, hombre."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "168_Saejima"
 msgid "You're tellin' me, kid."
 msgstr "Dímelo a mí, chico."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "180_Kido"
 msgid "Only one problem. The streets are still swarming with cops."
 msgstr "Solo hay un problema. Las calles siguen repletas de policías."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "192_Kido"
 msgid "No way you'll make it to the Millennium Tower aboveground."
 msgstr "Será imposible que salgas de aquí y vayas directo a la Torre Millenium."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "204_Saejima"
 msgid "Then how do I get there?"
 msgstr "Entonces, ¿cómo puedo llegar allí?"
@@ -87,52 +144,142 @@ msgid "Go through the basement parking lot, past the central sewer,\\r\nand come
 msgstr "Atraviesa el estacionamiento subterráneo, pasa la alcantarilla\\r\ncentral y sales por una tapa de alcantarilla frente a la Torre Millennium."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "252_Saejima"
 msgid "Sounds pretty fuckin' complicated, but I think I got it."
 msgstr "Suena bastante complicado, pero creo que lo entiendo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "264_Kido"
 msgid "You'll be fine as long as you can avoid the cops."
 msgstr "Si logras evitar a los policías, deberías estar bien."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "276_Kido"
 msgid "Sorry, man. Wish I could do more to help."
 msgstr "... Lo siento. Al final, esto es lo único que puedo hacer por ti."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "288_Saejima"
 msgid "Heh, ya done more than enough. Thanks for everything, Kido."
 msgstr "Je, ya has hecho más que suficiente. Gracias por todo, Kido."
 
 #. y4:line_status=translated
 #. y4:translated_by=Keiner
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "300_Kido"
 msgid "You bet."
 msgstr "Saejima-san..."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Not yet. -> T1.P1 | 2. Alright. -> T1.P3
 msgctxt "324_Kido"
 msgid "You wanna catch some Z's before it gets dark, Saejima-san?"
 msgstr "Saejima-san, ¿quieres descansar hasta la noche?"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Not yet.
 msgctxt "336_Saejima"
 msgid "Nah, not yet."
 msgstr "No, aún no."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Not yet.
 msgctxt "348_Kido"
 msgid "Oh, all right."
 msgstr "Oh, está bien."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Alright.
 msgctxt "360_Saejima"
 msgid "Yeah, I think I'll kick back a little."
 msgstr "Sí, creo que voy a descansar un poco."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Alright.
 msgctxt "372_Kido"
 msgid "Sounds good."
 msgstr "Me parece bien."
@@ -143,12 +290,37 @@ msgid "I'll go check out the best route for you to get\\r\nto the Millennium Tow
 msgstr "Mientras descansas, buscaré la mejor ruta\\r\nhasta la Torre Millennium."
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P1
+#. y4:msg_branch_segment=T1.P1..P2
+#. y4:msg_branch_target_text=Nah, not yet.
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "420_Kido"
 msgid "Not yet."
 msgstr "Todavía no."
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P6
+#. y4:msg_branch_target_text=Yeah, I think I'll kick back a little.
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "432_Kido"
 msgid "Alright."
 msgstr "Está bien."
-

@@ -17,22 +17,37 @@ msgstr ""
 "X-Crowdin-File-ID: 58718\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1100"
 msgid "Chatty Guy"
 msgstr "Tipo Hablador"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1104"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1108"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1112"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1116"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
@@ -43,6 +58,13 @@ msgid "Hey, pal, you hear some shit's going down with the loan shark\\r\n"
 msgstr "Oye, amigo, ¿has oído que hay problemas con el prestamista\\r\n"
 "que vive aquí?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "96_Kiryu"
 msgid "I didn't even know there <Italic>was</Italic> a loan shark here."
 msgstr "Ni siquiera sabía que <Italic>había</Italic> un prestamista aquí."
@@ -53,6 +75,13 @@ msgid "Oh yeah, up on the top floor. Sounds like the cops are\\r\n"
 msgstr "Ah, sí, arriba, en el último piso. Parece que al fin le cayó\\r\n"
 "la ley."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "120_Kiryu"
 msgid "Why, what did he do?"
 msgstr "¿Por qué? ¿Qué hizo?"
@@ -62,4 +91,3 @@ msgid "Dunno! I bet it was something nice and meaty, though. They\\r\n"
 "were carrying out tons of stuff from his place!"
 msgstr "Pues, no estoy muy seguro, pero vi que estaban sacando un\\r\n"
 "montón de cosas del local. ¡Seguro que hicieron algo turbio!"
-

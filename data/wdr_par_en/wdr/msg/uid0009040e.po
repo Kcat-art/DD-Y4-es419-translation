@@ -17,30 +17,57 @@ msgstr ""
 "X-Crowdin-File-ID: 58578\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "6596"
 msgid "Ajikawa"
 msgstr "Ajikawa"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "6600"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "6604"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "6608"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "6612"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "6616"
 msgid "SetM_nml_sitcnt_mail"
 msgstr "SetM_nml_sitcnt_mail"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Ajikawa
+#. y4:msg_speaker_id=0
 msgctxt "280_Ajikawa"
 msgid "Akiyama-san!"
 msgstr "¡Akiyama-san!"
@@ -51,6 +78,17 @@ msgid "You have those \"mouthwatering texture\" and offal dish\\r\n"
 msgstr "¿Ya tienes una recomendación de algún Menú, que tenga un\\r\n"
 "sabor que haga agua la boca, y el plato de menudos?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "304_Akiyama"
 msgid "Sure, I'm ready."
 msgstr "Sí, lo tengo."
@@ -61,30 +99,107 @@ msgid "First, please tell me what your favorite yakiniku shop is\\r\n"
 msgstr "Bien, en primer lugar dime como se llama tu restaurante de\\r\n"
 "yakiniku favorito, por favor."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "328_Akiyama"
 msgid "It's \"Korai,\" on Shichifuku Street."
 msgstr "Es \"Korai\", de la calle Shichifuku."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "340_Akiyama"
 msgid "It's \"Banrai,\" on Shichifuku Street."
 msgstr "Eh... \"Banrai\" de la calle Shichifuku."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "352_Akiyama"
 msgid "It's \"Kanrai,\" on Shichifuku Street."
 msgstr "El \"Kanrai\" de la calle Shichifuku."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Ajikawa
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=2
+#. y4:msg_decision_choices=1. The Grade A Sirloin. -> T0.P10 | 2. The Kimchi Combo. -> T0.P8 | 3. The Grade A Kalbi. -> T0.P9
 msgctxt "364_Ajikawa"
 msgid "Ah, so there's a great place on Shichifuku Street, is there? Tell me, which of their dishes has the best, mouthwatering texture?"
 msgstr "Ah, entonces hay un lugar muy bueno en la calle Shichifuku, cuéntame ¿cuál de sus platos tiene ese... sabor, ese que te hace agua la boca?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "376_Akiyama"
 msgid "The Kimchi Combo, I'd say."
 msgstr "El combo Kimchi, diría yo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "388_Akiyama"
 msgid "The Grade A Kalbi, I'd say."
 msgstr "El Kalbi de Clase A, diría yo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "400_Akiyama"
 msgid "The Grade A Sirloin, I'd say."
 msgstr "El Solomillo de Clase A, diría yo."
@@ -95,18 +210,62 @@ msgid "So that's what you should order when you want to experience\\r\n"
 msgstr "Entonces, eso es lo que hay que pedir cuando quieras experimentar\\r\n"
 "un sabor inigualable."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Ajikawa
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=3
+#. y4:msg_decision_choices=1. The Horumon-yaki. -> T0.P13 | 2. The Liver Sashimi. -> T0.P14 | 3. The Grade A Harami. -> T0.P15
 msgctxt "424_Ajikawa"
 msgid "Now, what would you say is their most unique offal dish?"
 msgstr "Ahora, ¿cuál es el plato de menudos más único y exclusivo?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "436_Akiyama"
 msgid "Probably the Horumon-yaki."
 msgstr "El Horumon-yaki, probablemente."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "448_Akiyama"
 msgid "Probably the Liver Sashimi."
 msgstr "El Sashimi de hígado, posiblemente."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "460_Akiyama"
 msgid "Probably the Grade A Harami."
 msgstr "El Harami de Clase A, quizás."
@@ -123,6 +282,17 @@ msgid "And my stomach's calmed down a bit, too. I'm going to run\\r\n"
 msgstr "Y también mi estómago ya se calmó un poco. ¡Voy a ir corriendo\\r\n"
 "ahora mismo a probar esos deliciosos platos por mí mismo!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "496_Akiyama"
 msgid "Huh? You sure you want to do that?"
 msgstr "¿Eh? ¿Seguro que puedes comer?"
@@ -133,6 +303,17 @@ msgid "I'll be fine if I stick to your recommendations. After all,\\r\n"
 msgstr "Estaré bien mientras solo pruebe tus recomendaciones. De todos modos,\\r\n"
 "tengo que ir a comprobar el ambiente del lugar, también."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "520_Akiyama"
 msgid "Ah, right. Well, don't overdo it."
 msgstr "Ah, cierto. Bueno, no te fuerces."
@@ -143,6 +324,17 @@ msgid "I won't. Oh, and I have something I want to give you, so\\r\n"
 msgstr "No te preocupes. Ah, y tengo algo que me gustaría darte, así que\\r\n"
 "nos encontramos aquí más tarde, ¿te parece?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "544_Akiyama"
 msgid "Sure. Enjoy yourself."
 msgstr "Sí, claro. Disfrútalo."
@@ -159,47 +351,189 @@ msgid "Oh, okay. I really am sorry to be putting you through all\\r\n"
 msgstr "Oh, bueno. Lamento ponerte en esta situación.\\r\n"
 "Gracias por tu ayuda."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P2
+#. y4:msg_branch_segment=T0.P2..P26
+#. y4:msg_branch_target_text=Sure, I'm ready.
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "664_Ajikawa"
 msgid "Tell Him"
 msgstr "Contarle"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P27
+#. y4:msg_branch_segment=T0.P27..P31
+#. y4:msg_branch_target_text=Uh... My memory's pretty foggy. Let me check again, and I'll\nbe right back.
+#. y4:msg_branch_raw=01 11 00 1b 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "676_Ajikawa"
 msgid "Double-check It First"
 msgstr "Compruébalo una vez más"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P4
+#. y4:msg_branch_segment=T0.P4..P4
+#. y4:msg_branch_target_text=It's "Korai," on Shichifuku Street.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 1e 00 00 00 00 00 00 00 00
 msgctxt "688_Ajikawa"
 msgid "\"Korai,\" on Shichifuku Street."
 msgstr "\"Korai\", de la calle Shichifuku."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P6
+#. y4:msg_branch_segment=T0.P6..P31
+#. y4:msg_branch_target_text=It's "Kanrai," on Shichifuku Street.
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 1f 00 00 00 00 00 00 00 00
 msgctxt "700_Ajikawa"
 msgid "\"Kanrai,\" on Shichifuku Street."
 msgstr "\"Kanrai\" de la calle Shichifuku."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P5
+#. y4:msg_branch_segment=T0.P5..P5
+#. y4:msg_branch_target_text=It's "Banrai," on Shichifuku Street.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 1f 00 00 00 00 00 00 00 00
 msgctxt "712_Ajikawa"
 msgid "\"Banrai,\" on Shichifuku Street."
 msgstr "\"Banrai\" de la calle Shichifuku."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P10
+#. y4:msg_branch_segment=T0.P10..P31
+#. y4:msg_branch_target_text=The Grade A Sirloin, I'd say.
+#. y4:msg_branch_raw=01 11 00 0a 00 00 00 14 00 00 00 00 00 00 00 00
 msgctxt "724_Ajikawa"
 msgid "The Grade A Sirloin."
 msgstr "El Solomillo de Clase A."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P8
+#. y4:msg_branch_segment=T0.P8..P8
+#. y4:msg_branch_target_text=The Kimchi Combo, I'd say.
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "736_Ajikawa"
 msgid "The Kimchi Combo."
 msgstr "El Combo Kimchi."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P9
+#. y4:msg_branch_segment=T0.P9..P9
+#. y4:msg_branch_target_text=The Grade A Kalbi, I'd say.
+#. y4:msg_branch_raw=01 11 00 09 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "748_Ajikawa"
 msgid "The Grade A Kalbi."
 msgstr "El Kalbi de Clase A."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P13
+#. y4:msg_branch_segment=T0.P13..P13
+#. y4:msg_branch_target_text=Probably the Horumon-yaki.
+#. y4:msg_branch_raw=01 11 00 0d 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "760_Ajikawa"
 msgid "The Horumon-yaki."
 msgstr "El Horumon-yaki."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P14
+#. y4:msg_branch_segment=T0.P14..P14
+#. y4:msg_branch_target_text=Probably the Liver Sashimi.
+#. y4:msg_branch_raw=01 11 00 0e 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "772_Ajikawa"
 msgid "The Liver Sashimi."
 msgstr "El Sashimi de Hígado."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P15
+#. y4:msg_branch_segment=T0.P15..P31
+#. y4:msg_branch_target_text=Probably the Grade A Harami.
+#. y4:msg_branch_raw=01 11 00 0f 00 00 00 13 00 00 00 00 00 00 00 00
 msgctxt "784_Ajikawa"
 msgid "The Grade A Harami."
 msgstr "El Harami de Clase A."
-

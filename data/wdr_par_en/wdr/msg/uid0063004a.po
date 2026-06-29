@@ -17,14 +17,27 @@ msgstr ""
 "X-Crowdin-File-ID: 62902\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4576"
 msgid "Erena"
 msgstr "Erena"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4580"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "256_Erena"
 msgid "Karaoke! I can't wait."
 msgstr ""
@@ -37,14 +50,41 @@ msgctxt "280_Erena"
 msgid "Hehe! You're so much fun! <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
 msgctxt "292_Erena"
 msgid "Now it's your turn to sing."
 msgstr ""
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Sure. -> T2.P3 | 2. I'd rather not. -> T2.P5
 msgctxt "304_Erena"
 msgid "Hey, why don't we sing somethin' together?"
 msgstr ""
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "316_Akiyama"
 msgid "Looks like I don't have much of a choice."
 msgstr ""
@@ -53,18 +93,56 @@ msgctxt "328_Erena"
 msgid "Hehe, I can't wait to hear ya sing! <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P5
+#. y4:msg_branch_segment=T2.P5..P6
+#. y4:msg_branch_target_text=I'd rather not.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "340_Akiyama"
 msgid "I'd rather not."
 msgstr "Preferiría no hacerlo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I'd rather not.
 msgctxt "352_Erena"
 msgid "What? Are you kidding? One song ain't gonna kill ya..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "364_Erena"
 msgid "Ugh, that was a mess. You're not really into this sorta thing, are ya?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "376_Akiyama"
 msgid "Sorry."
 msgstr "Lo siento."
@@ -74,14 +152,41 @@ msgid "You can sure make a girl feel like the center of the world!\\r\n"
 "That was amazing! <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
 msgctxt "400_Erena"
 msgid "Now it's your turn to sing."
 msgstr ""
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Sure. -> T2.P3 | 2. I'd rather not. -> T2.P5
 msgctxt "412_Erena"
 msgid "Hey, why don't we sing somethin' together?"
 msgstr ""
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "424_Akiyama"
 msgid "Looks like I don't have much of a choice."
 msgstr ""
@@ -90,26 +195,78 @@ msgctxt "436_Erena"
 msgid "Hehe, I can't wait to hear ya sing! <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P5
+#. y4:msg_branch_segment=T2.P5..P6
+#. y4:msg_branch_target_text=I'd rather not.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "448_Akiyama"
 msgid "I'd rather not."
 msgstr "Preferiría no hacerlo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I'd rather not.
 msgctxt "460_Erena"
 msgid "What? Are you kidding? One song ain't gonna kill ya..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "472_Erena"
 msgid "How'd that sound?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=1
+#. y4:msg_location=T5.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "484_Akiyama"
 msgid "You were fantastic."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "496_Erena"
 msgid "Ugh! Why can't you do it right!?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "508_Akiyama"
 msgid "Sorry."
 msgstr "Lo siento."
@@ -118,23 +275,81 @@ msgctxt "520_Erena"
 msgid "That was some serious harmonizin'! <Color:7>♥<Color:Default> I think we might be soul mates... <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=1
+#. y4:msg_location=T7.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "532_Akiyama"
 msgid "Heheh..."
 msgstr "Je, je, je..."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P3
+#. y4:msg_branch_segment=T2.P3..P4
+#. y4:msg_branch_target_text=Looks like I don't have much of a choice.
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "544_Erena"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P5
+#. y4:msg_branch_segment=T2.P5..P6
+#. y4:msg_branch_target_text=I'd rather not.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "556_Erena"
 msgid "I'd rather not."
 msgstr "Preferiría no hacerlo."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P3
+#. y4:msg_branch_segment=T2.P3..P4
+#. y4:msg_branch_target_text=Looks like I don't have much of a choice.
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "568_Erena"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P5
+#. y4:msg_branch_segment=T2.P5..P6
+#. y4:msg_branch_target_text=I'd rather not.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "580_Erena"
 msgid "I'd rather not."
 msgstr "Preferiría no hacerlo."
-

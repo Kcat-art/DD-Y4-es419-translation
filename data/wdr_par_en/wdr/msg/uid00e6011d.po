@@ -17,39 +17,89 @@ msgstr ""
 "X-Crowdin-File-ID: 58396\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1084"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1088"
 msgid "Zhao"
 msgstr "Zhao"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1092"
 msgid "Talk_Hirou_ed"
 msgstr "Talk_Hirou_ed"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "56_Tanimura"
 msgid "Zhao-san, are you okay?"
 msgstr "Zhao-san, ¿estás bien?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Zhao
+#. y4:msg_speaker_id=1
 msgctxt "68_Zhao"
 msgid "Unh... Where's Mei Hua...?"
 msgstr "Unh... ¿Dónde está Mei Hua...?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "80_Tanimura"
 msgid "I'll get you to a doctor soon. Just stay still, all right?"
 msgstr "Enseguida te llevaré al médico. Quédate quieto, ¿de acuerdo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Zhao
+#. y4:msg_speaker_id=1
 msgctxt "92_Zhao"
 msgid "No... Finding Mei Hua comes first..."
 msgstr "No... Encontrar a Mei Hua es la prioridad..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "104_Tanimura"
 msgid "I know. Just leave it to me."
 msgstr "Lo sé. Déjamelo a mí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "116_Tanimura"
 msgid "(I wonder if she's in here...?)"
 msgstr "(Me pregunto si ella estará aquí...?)"
-

@@ -17,43 +17,94 @@ msgstr ""
 "X-Crowdin-File-ID: 57878\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1508"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1512"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1516"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1520"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "116_Man"
 msgid "You must be the asshole who's been tearing up our turf."
 msgstr "Debes ser el imbécil que ha estado destrozando nuestro territorio."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "Know what happens to people who fuck with us? Well, we'll show you!"
 msgstr "¿Sabes lo que les pasa a los que se meten con nosotros? ¡Pues te lo vamos a mostrar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Man"
 msgid "Shit, what's a guy like him doing here anyway?"
 msgstr "Maldición, ¿qué hace un tipo como él aquí?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "164_Man"
 msgid "Look, just take this and get the hell outta here, all right?"
 msgstr "Mira, solo acepta esto y lárgate de aquí, ¿vale?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
 msgctxt "176_Man"
 msgid "You got a hot-off-the-press %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "212_Man"
 msgid "No way in hell I shoulda lost that fight. Sorry, sorry! I didn't say nothin'! Please, go right on ahead!"
 msgstr "De ninguna manera debería haber perdido esa pelea. ¡Lo siento, lo siento! No dije nada. ¡Por favor, sigue adelante!"
-

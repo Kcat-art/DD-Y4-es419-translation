@@ -17,35 +17,74 @@ msgstr ""
 "X-Crowdin-File-ID: 61152\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1172"
 msgid "Hostess-Lovin' CEO"
 msgstr "CEO amante de las hostesses"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1176"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1180"
 msgid "Lower-Ranking Employee"
 msgstr "Empleado de menor rango"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1184"
 msgid "Talk_Info_L"
 msgstr "Talk_Info_L"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Hostess-Lovin' CEO
+#. y4:msg_speaker_id=0
 msgctxt "84_Hostess-Lovin' CEO"
 msgid "Elise? That hostess club that's become the talk of the town? Sounds great! I hear they have the cutest girls."
 msgstr "¿Elise? ¿Ese club de Hostess que esta en boca de todo el mundo? ¡Suena genial! He oído que tienen a las chicas más guapas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Lower-Ranking Employee
+#. y4:msg_speaker_id=2
 msgctxt "96_Lower-Ranking Employee"
 msgid "Not only are they cute, but they're practically made to order! Want a flashy girl? Boom! Out she comes! Decide you'd rather have someone more elegant? Done! It's da bomb!"
 msgstr "No sólo son bonitas, sino que están prácticamente hechas a medida. ¿Quieres una chica llamativa? ¡Boom! ¡Sale! ¿Decides que prefieres a alguien más elegante? ¡Hecho! ¡Es la bomba!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Hostess-Lovin' CEO
+#. y4:msg_speaker_id=0
 msgctxt "108_Hostess-Lovin' CEO"
 msgid "\"Da bomb\"? Does anyone even say that anymore?"
 msgstr "¿\"La bomba\"? Acaso la gente sigue diciendo eso?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Lower-Ranking Employee
+#. y4:msg_speaker_id=2
 msgctxt "120_Lower-Ranking Employee"
 msgid "Who knows, who cares! Let's hit the club! It's right over there. All those cuties are waitin' for you, sir!"
 msgstr "¡Quién sabe, a quién le importa! ¡Vamos al club! Está justo allí. ¡Todas esas bellezas lo están esperando, señor!"
-

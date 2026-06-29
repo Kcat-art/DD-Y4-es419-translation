@@ -17,22 +17,37 @@ msgstr ""
 "X-Crowdin-File-ID: 60442\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "952"
 msgid "Businessman"
 msgstr "Empresario"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "956"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "960"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "964"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "968"
 msgid "Talk_No"
 msgstr "Talk_No"
@@ -43,16 +58,37 @@ msgid "That mahjong parlor over there's holding a\\r\n"
 msgstr "Esa sala de mahjong está promocionando\n"
 "un torneo llamado \"copa de los cuatro dioses\"."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Businessman
+#. y4:msg_speaker_id=0
 msgctxt "96_Businessman"
 msgid "It's a contest to crown the best mahjong player in Kamurocho. You should enter if you feel up to the challenge."
 msgstr "Lo hacen para conocer al mejor jugador de\n"
 "Kamurocho. Si le apetece un desafío debería\n"
 "inscribirse."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=2
 msgctxt "108_Tanimura"
 msgid "Have you ever tried it out?"
 msgstr "¿Ya has participado?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Businessman
+#. y4:msg_speaker_id=0
 msgctxt "120_Businessman"
 msgid "Actually, I have."
 msgstr "De hecho, sí."
@@ -62,4 +98,3 @@ msgid "But I never managed to make it beyond the bottom pool.\\r\n"
 "The competition is really fierce."
 msgstr "Pero nunca logro salir de los últimos lugares.\n"
 "Hay muchos jugadores buenísimos."
-

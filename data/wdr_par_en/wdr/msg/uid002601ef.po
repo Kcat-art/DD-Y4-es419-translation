@@ -17,115 +17,270 @@ msgstr ""
 "X-Crowdin-File-ID: 61538\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3908"
 msgid "Emoto"
 msgstr "Emoto"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3912"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3916"
 msgid "P_sitsofa"
 msgstr "P_sitsofa"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3920"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3924"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3928"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "3932"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "3936"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "3940"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "3944"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=0
 msgctxt "72_Emoto"
 msgid "If we had somebody who could speak Chinese, we could ask him some questions."
 msgstr "Si tuviéramos a alguien que hablara chino, podríamos hacerle algunas preguntas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "84_Kiryu"
 msgid "(Let's see... Do I know anybody who can speak Chinese...?)"
 msgstr "(Veamos... ¿Conozco a alguien que hable chino...?)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=0
 msgctxt "108_Emoto"
 msgid "I've stabilized him, so at least his life's not in danger anymore."
 msgstr "Lo he estabilizado, su vida ya no corre peligro."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "120_Kiryu"
 msgid "Thanks. Sorry to dump this on you all of a sudden."
 msgstr "Gracias. Siento haber venido sin avisar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=0
 msgctxt "132_Emoto"
 msgid "Don't worry about it. I deal with stuff like this all the time."
 msgstr "No te preocupes. Es mi día a día."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "144_Kiryu"
 msgid "Do you have any idea how he got hurt?"
 msgstr "¿Tienes alguna idea de cómo se lastimó?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=0
 msgctxt "168_Emoto"
 msgid "Can't say that I do. He passed out before I could ask him."
 msgstr "No te sabría decir. Se desmayó antes de que pudiera preguntarle."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "180_Kiryu"
 msgid "Passed out, huh?"
 msgstr "¿Se desmayó, eh?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=0
 msgctxt "192_Emoto"
 msgid "Of course, even if he were conscious, I'm sure he couldn't tell us anything."
 msgstr "Así es, aunque estuviera consciente, seguro que no podría decirnos nada."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "204_Kiryu"
 msgid "What do you mean?"
 msgstr "¿A qué te refieres?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=0
 msgctxt "216_Emoto"
 msgid "He's not Japanese. He barely seems to understand the language, and I can't figure out what he's saying, either."
 msgstr "Ni siquiera japonés. Apenas parece entender el idioma, y yo tampoco logro entender lo que dice."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "228_Kiryu"
 msgid "Oh, now I get it."
 msgstr "Ah, ahora lo entiendo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=0
 msgctxt "240_Emoto"
 msgid "You said you found him by the docks?"
 msgstr "¿Dijiste que lo encontraste cerca del muelle?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "252_Kiryu"
 msgid "That's right."
 msgstr "Así es."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=0
 msgctxt "264_Emoto"
 msgid "I'd just about guarantee he's an illegal immigrant. Or maybe a stowaway."
 msgstr "Apuesto a que es un inmigrante ilegal. O tal vez un polizón."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "276_Kiryu"
 msgid "An illegal immigrant?"
 msgstr "¿Un inmigrante ilegal?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=0
 msgctxt "288_Emoto"
 msgid "Yes. I'd say he looks Chinese, but we can't really be sure of anything if we can't talk to him."
 msgstr "Sí, diría que parece chino, pero no podemos estar seguros hasta que hablemos con él."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "300_Kiryu"
 msgid "......"
 msgstr "......"
-

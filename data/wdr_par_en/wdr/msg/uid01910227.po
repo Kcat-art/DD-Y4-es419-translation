@@ -17,6 +17,9 @@ msgstr ""
 "X-Crowdin-File-ID: 60434\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "660"
 msgid "Crossing Buildings"
 msgstr "Cruzando edificios"
@@ -29,7 +32,13 @@ msgstr "En ciertos puntos de los tejados, puedes saltar de un edificio a otro.\\
 "\\r\n"
 "Corre hacia un punto para ejecutar un salto en carrera."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Crossing Buildings
+#. y4:msg_speaker_id=0
 msgctxt "68_Crossing Buildings"
 msgid "To make it to the other side unharmed, you must press the correct button with the correct timing. However, even if you fail, you will not fall off the building."
 msgstr "Para llegar al otro lado sin sufrir daño, debes presionar el botón correcto con en el momento adecuado. Incluso si fallas, no caerás del edificio."
-

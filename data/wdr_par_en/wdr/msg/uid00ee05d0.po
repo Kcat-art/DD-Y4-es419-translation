@@ -17,14 +17,31 @@ msgstr ""
 "X-Crowdin-File-ID: 59774\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1384"
 msgid "Sassy Employee"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Sassy Employee
+#. y4:msg_speaker_id=0
 msgctxt "112_Sassy Employee"
 msgid "Why, hello there, sweet thing! You make yourself at home now, mmkay?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Sassy Employee
+#. y4:msg_speaker_id=0
 msgctxt "124_Sassy Employee"
 msgid "Can't believe it's been a whole year since that big kerfuffle... Once the dust settled, I picked up a job here at this shop. I hope you'll come by sometime, you!"
 msgstr ""
@@ -40,4 +57,3 @@ msgstr ""
 msgctxt "160_Sassy Employee"
 msgid "I'm Michiru. Just started here the other day! Hope you'll stop by sometime, sugar! ♥"
 msgstr ""
-

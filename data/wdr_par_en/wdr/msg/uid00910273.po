@@ -17,55 +17,117 @@ msgstr ""
 "X-Crowdin-File-ID: 62028\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1208"
 msgid "Senpai Businessman"
 msgstr ""
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1212"
 msgid "Kohai Businessman"
 msgstr ""
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1216"
 msgid "Talk_SmileBig_st"
 msgstr "Talk_SmileBig_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1220"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1224"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1228"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "1232"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Senpai Businessman
+#. y4:msg_speaker_id=0
 msgctxt "84_Senpai Businessman"
 msgid "Have you heard about this married couple around here that are experts at kung fu?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Kohai Businessman
+#. y4:msg_speaker_id=1
 msgctxt "96_Kohai Businessman"
 msgid "I wonder what their fights are like!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=3
 msgctxt "108_Kiryu"
 msgid "Error if this shows up."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=4
 msgctxt "120_Akiyama"
 msgid "(I'm sure their fights are like a kung-fu movie. I should have a look. I may be able to have a <Color:7>Revelation<Color:Default>...)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=5
 msgctxt "132_Saejima"
 msgid "(A couple fighting, huh... Kamurocho has always had its fair share of rowdy couples. Maybe it'll give me a <Color:7>Revelation<Color:Default>...)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=3
 msgctxt "144_Tanimura"
 msgid "Error if this shows up."
 msgstr ""
-

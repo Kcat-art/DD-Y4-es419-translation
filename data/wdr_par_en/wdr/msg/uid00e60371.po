@@ -17,19 +17,38 @@ msgstr ""
 "X-Crowdin-File-ID: 59534\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "676"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "680"
 msgid "Yakuza"
 msgstr "Yakuza"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "56_Tanimura"
 msgid "How many times must I say it? <Italic>Give me</Italic> the passports."
 msgstr "¿Cuántas veces tengo que decírtelo? Devuelvan los pasaportes."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Yakuza
+#. y4:msg_speaker_id=1
 msgctxt "68_Yakuza"
 msgid "Fine... Just take the damn things!"
 msgstr "Bien... ¡Ten los malditos pasaportes!"
-

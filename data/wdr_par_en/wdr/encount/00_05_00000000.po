@@ -17,30 +17,63 @@ msgstr ""
 "X-Crowdin-File-ID: 57882\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1548"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1552"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1556"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1560"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "116_Man"
 msgid "Looks like you got a good buzz on, huh? Niiice. I wouldn't mind a nice stiff drink myself..."
 msgstr "Parece que ya estás bien borracho, ¿eh? Geniaaal. Yo también quiero disfrutar de un buen trago..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "Bought with your money, that is. So hand it over and no one gets hurt!"
 msgstr "Comprado con tu dinero, claro. ¡Así que entrégalo y nadie saldrá herido!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Man"
 msgid "Stop! That's enough!"
 msgstr "¡Para! ¡Ya basta!"
@@ -49,11 +82,22 @@ msgctxt "164_Man"
 msgid "Please－forgive me! I fucked up, okay? I should have known better. Just, just take this!"
 msgstr "¡Por favor, perdóname! La cagué, ¿sí? Debería haberlo pensado mejor. ¡Solo, solo toma esto!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
 msgctxt "176_Man"
 msgid "You got an out-of-this-world %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "212_Man"
 msgid "Sorry for buggin' you... I'll pay for my own drinks."
 msgstr "Lo siento por molestarte... Pagaré mis propias bebidas."
-

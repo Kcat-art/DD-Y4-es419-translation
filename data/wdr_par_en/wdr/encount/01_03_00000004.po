@@ -17,47 +17,101 @@ msgstr ""
 "X-Crowdin-File-ID: 57834\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1368"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1372"
 msgid "P_stand_sync_btl_neck_st"
 msgstr "P_stand_sync_btl_neck_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1376"
 msgid "M_ykz_stand_sync_btl_neck_st"
 msgstr "M_ykz_stand_sync_btl_neck_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1380"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1384"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "88_Man"
 msgid "Hang on, mister. I haven't seen you around here much."
 msgstr "Espera, señor. No te he visto mucho por aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "100_Man"
 msgid "This place is getting dangerous. That's why we're asking all outsider yakuza to get lost!"
 msgstr "Este lugar se está poniendo peligroso. ¡Por eso estamos pidiendo a todos los yakuza forasteros que se larguen de aquí!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "124_Man"
 msgid "Not bad at all..."
 msgstr "No está nada mal..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "136_Man"
 msgid "So I lost. Well, shit happens. You're free to come and go as you please."
 msgstr "Así que perdí. Bueno, cosas que pasan. Eres libre de ir y venir como te plazca."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
 msgctxt "148_Man"
 msgid "You got an ideal %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "184_Man"
 msgid "Sure you don't want to be one of my boys? I'd take good care of you."
 msgstr "¿Seguro que no quieres ser uno de mis chicos? Te cuidaría bien."
-

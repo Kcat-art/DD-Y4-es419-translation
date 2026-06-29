@@ -17,26 +17,52 @@ msgstr ""
 "X-Crowdin-File-ID: 61298\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "676"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "680"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "684"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "688"
 msgid "Run_Start_R180"
 msgstr "Run_Start_R180"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "56_Kiryu"
 msgid "Hey, you!"
 msgstr "¡Oye, tú!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=1
 msgctxt "68_Man"
 msgid "What?"
 msgstr "¿Qué?"
@@ -45,7 +71,13 @@ msgctxt "80_Kiryu"
 msgid "Can I see that purse? A friend of mine had hers stolen a few minutes ago and－"
 msgstr "¿Me dejas ver ese bolso? A una amiga mía le robaron el suyo hace unos minutos y－"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=1
 msgctxt "92_Man"
 msgid "Shit!"
 msgstr "¡Mierda!"
-

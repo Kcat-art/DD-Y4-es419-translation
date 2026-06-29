@@ -17,79 +17,175 @@ msgstr ""
 "X-Crowdin-File-ID: 58776\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2748"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2752"
 msgid "Mei Hua"
 msgstr "Mei Hua"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2756"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2760"
 msgid "Yakuza Executive"
 msgstr "Ejecutivo Yakuza"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2764"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2768"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "2772"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "2776"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "2780"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "68_Tanimura"
 msgid "Mei Hua!"
 msgstr "¡Mei Hua!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Mei Hua
+#. y4:msg_speaker_id=1
 msgctxt "80_Mei Hua"
 msgid "Ma-chan! You're here!"
 msgstr "¡Ma-chan! ¡Estás aquí!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "92_Tanimura"
 msgid "Of course I am. Glad you're okay."
 msgstr "Por supuesto que lo estoy. Me alegra verte bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Yakuza Executive
+#. y4:msg_speaker_id=3
 msgctxt "104_Yakuza Executive"
 msgid "Was that you making all the commotion out there? Now that you've come this far, I have no choice but to kill you."
 msgstr "¿Eras tú el que estaba haciendo todo el alboroto ahí fuera? Ahora que has llegado hasta aquí, no tengo más remedio que matarte."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "116_Tanimura"
 msgid "...So you used a fake letter to lure a girl you know won't be reported to the police, and then you sell her off, is that it?"
 msgstr "...Así que usaste una carta falsa para atraer a una chica que sabes que no será reportada a la policía, y luego la venden de verdad, ¿acaso es eso?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "128_Tanimura"
 msgid "I guess to you that letter was just bait, but did you ever think how this girl felt when she read it?"
 msgstr "Supongo que para ti esa carta fue solo un cebo, pero ¿alguna vez te paraste a pensar cómo se sintió esta chica cuando la leyó?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Yakuza Executive
+#. y4:msg_speaker_id=3
 msgctxt "140_Yakuza Executive"
 msgid "Hmph. Unfortunately, I don't have much of an imagination."
 msgstr "Desafortunadamente, no me interesa lo que ustedes piensen."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "152_Tanimura"
 msgid "I see. In that case, there's only one way to make you understand."
 msgstr "Ya veo. En ese caso, solo hay una manera de hacerte entender."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Yakuza Executive
+#. y4:msg_speaker_id=3
 msgctxt "164_Yakuza Executive"
 msgid "Good, then I guess we're done talking. Now we settle this the way real men do."
 msgstr "Bien, entonces supongo que hemos terminado de hablar. Ahora resolvemos esto de la manera en que lo hacen los hombres de verdad."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Yakuza Executive
+#. y4:msg_speaker_id=3
 msgctxt "176_Yakuza Executive"
 msgid "Fuck him up, boys!"
 msgstr "Hora de barrer el piso contigo. ¡Muchachos!"
-

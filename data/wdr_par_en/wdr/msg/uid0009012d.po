@@ -17,31 +17,67 @@ msgstr ""
 "X-Crowdin-File-ID: 61850\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "976"
 msgid "Handsome Host"
 msgstr "Host guapo"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "980"
 msgid "Unfortunate-Looking Host"
 msgstr "Host de aspecto lamentable"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "984"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Handsome Host
+#. y4:msg_speaker_id=0
 msgctxt "84_Handsome Host"
 msgid "I'm not sure, but I think the place is called Sky Finance. That moneylender's bad news."
 msgstr "No sé bien, pero me parece que el lugar se llama Sky Finance. Ese prestamista es un problema."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Unfortunate-Looking Host
+#. y4:msg_speaker_id=1
 msgctxt "96_Unfortunate-Looking Host"
 msgid "Yeah, I heard there was a murder right behind this building."
 msgstr "Sí, escuché que hubo un asesinato justo detrás de este edificio."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Handsome Host
+#. y4:msg_speaker_id=0
 msgctxt "108_Handsome Host"
 msgid "I wonder if it had to do with money, 'cause some people are saying that the guy who owns Sky Finance is the one who killed him."
 msgstr "Me pregunto si tuvo que ver con dinero, porque hay gente que dice que el dueño fue quien lo mató."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Unfortunate-Looking Host
+#. y4:msg_speaker_id=1
 msgctxt "120_Unfortunate-Looking Host"
 msgid "Yeah, I heard the cops hauled him off to the station. I'd been thinking about getting a loan from there, but maybe I should reconsider..."
 msgstr "Sí, escuché que la policía lo llevó a la comisaría. Estaba pensando en pedir un préstamo allí, pero tal vez debería pensarlo mejor..."
-

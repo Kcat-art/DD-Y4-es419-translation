@@ -29,86 +29,201 @@ msgid "Major error! No flags set for conversation selection!\\r\n"
 msgstr "Error grave. No hay banderas establecidas para la selección de conversación.\\r\n"
 "¡No hay banderas establecidas para la selección de conversación!"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "13476"
 msgid "Erena"
 msgstr "Erena"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "13480"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "13484"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "13488"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "13492"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "13496"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "13500"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "13504"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "116_Erena"
 msgid "I'm not losing today! Let's go in."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "128_Player"
 msgid "Oh, we'll just see about that."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "140_Erena"
 msgid "Let's go."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "164_Erena"
 msgid "I'm not losing today! Let's go in."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "176_Erena"
 msgid "Let's go."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "188_Player"
 msgid "Um, wait a moment. I thought I had more cash than this..."
 msgstr "Um, espera un momento. Pensé que iba con mas dinero encima..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "200_Erena"
 msgid "Huh? You serious?"
 msgstr "¿Eh? ¿Hablas en serio?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "212_Player"
 msgid "Yeah. Sorry..."
 msgstr "Sí. Lo siento..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "224_Erena"
 msgid "Geez, I didn't think you were so poor... I'll go home, then."
 msgstr "Caramba, no pensé que fueras tan pobre... Me iré a casa, entonces."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "236_Player"
 msgid "(I should've made sure I had some cash...)"
 msgstr "(Debería haberme asegurado de tener algo de dinero...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "344_Erena"
 msgid "Wow, you're really good at bowling."
 msgstr "Guau, eres muy bueno jugando a los bolos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "356_Player"
 msgid "I'm alright."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "368_Erena"
 msgid "That was awesome! I'm glad I got to go bowlin' with you."
 msgstr ""
@@ -117,78 +232,211 @@ msgctxt "380_Erena"
 msgid "Ask me out again, okay? <Color:7>♥<Color:Default> I'll see ya at the club."
 msgstr "Invíteme a salir de nuevo, ¿de acuerdo? <Color:7>♥<Color:Default> Nos vemos en el club."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "404_Erena"
 msgid "That was close. Got a draw at least."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "416_Player"
 msgid "I'm impressed."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "428_Erena"
 msgid "I had a great time today. I'll see ya at the club."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "452_Erena"
 msgid "Yeah! I won! Take that!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "464_Player"
 msgid "Yeah, you did. Me, on the other hand..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "476_Erena"
 msgid "Maybe you should stick around and practice. Well, I'm heading home."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "584_Erena"
 msgid "I'm not losing today! Let's go in."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "596_Player"
 msgid "Oh, we'll just see about that."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "608_Erena"
 msgid "Let's go."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "632_Erena"
 msgid "I'm not losing today! Let's go in."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "644_Erena"
 msgid "Let's go."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "656_Player"
 msgid "Um, wait a moment. I thought I had more cash than this..."
 msgstr "Um, espera un momento. Pensé que iba con mas dinero encima..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "668_Erena"
 msgid "Huh? You serious?"
 msgstr "¿Eh? ¿Hablas en serio?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "680_Player"
 msgid "Yeah. Sorry..."
 msgstr "Sí. Lo siento..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "692_Erena"
 msgid "Geez, I didn't think you were so poor... I'll go home, then."
 msgstr "Caramba, no pensé que fueras tan pobre... Me iré a casa, entonces."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "704_Player"
 msgid "(I should've made sure I had some cash...)"
 msgstr "(Debería haberme asegurado de tener algo de dinero...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=4
+#. y4:msg_location=T3.P4
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "812_Erena"
 msgid "You're really something! You can bowl, too?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "824_Player"
 msgid "I'm alright."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "836_Erena"
 msgid "That was awesome! I'm glad I got to go bowlin' with you."
 msgstr ""
@@ -197,39 +445,101 @@ msgctxt "848_Erena"
 msgid "Ask me out again, okay? <Color:7>♥<Color:Default> Let's head to the club."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=8
+#. y4:msg_location=T3.P8
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "860_Player"
 msgid "Sounds good."
 msgstr "Me parece bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "884_Erena"
 msgid "That was close. Got a draw at least."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "896_Player"
 msgid "I'm impressed."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=12
+#. y4:msg_location=T3.P12
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "908_Erena"
 msgid "That was fun. Let's head to the club."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=8
+#. y4:msg_location=T3.P8
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "920_Player"
 msgid "Sounds good."
 msgstr "Me parece bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "944_Erena"
 msgid "Yeah! I won! Take that!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "956_Player"
 msgid "Yeah, you did. Me, on the other hand..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=17
+#. y4:msg_location=T3.P17
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=0
 msgctxt "968_Erena"
 msgid "You'd should keep practicing. Let's head to the club for now."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=8
+#. y4:msg_location=T3.P8
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "980_Player"
 msgid "Sounds good."
 msgstr "Me parece bien."
-

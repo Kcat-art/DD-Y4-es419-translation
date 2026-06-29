@@ -17,30 +17,59 @@ msgstr ""
 "X-Crowdin-File-ID: 59898\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1084"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1088"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1092"
 msgid "Businessman"
 msgstr "Empresario"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1096"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1100"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "84_Saejima"
 msgid "Hey, punk. You one of Shirakawa's agents?"
 msgstr "A ver tú. ¿Eres un un peón de Shirakawa?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Businessman
+#. y4:msg_speaker_id=2
 msgctxt "96_Businessman"
 msgid "If you must know, I am planning on voting for Shirakawa-san in the upcoming election. Is that a problem?"
 msgstr "¿Qué pasa...? Pues, sí, pienso votar por Shirakawa en las próximas elecciones... ¿Y qué?"
@@ -51,7 +80,13 @@ msgid "Wait, are you trying to scare me into changing my vote?\\r\n"
 msgstr "Un Momento, ¿Me estás intimidando para que cambie mi voto?\\r\n"
 "¿Qué se cree Numai, un miembro de la Yakuza?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "120_Saejima"
 msgid "(Well, fuck me. Came to listen after all.)"
 msgstr "(Maldición... Al final sí vino a escuchar)."
-

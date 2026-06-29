@@ -17,19 +17,38 @@ msgstr ""
 "X-Crowdin-File-ID: 58604\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "400"
 msgid "Confused High Schooler"
 msgstr "Estudiante confundido"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "404"
 msgid "Knowledgeable High Schooler"
 msgstr "Estudiante culto"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Confused High Schooler
+#. y4:msg_speaker_id=0
 msgctxt "84_Confused High Schooler"
 msgid "Hey, what happened? I just got here..."
 msgstr "Hey, ¿qué ha pasado? Yo acabo de llegar..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Knowledgeable High Schooler
+#. y4:msg_speaker_id=1
 msgctxt "96_Knowledgeable High Schooler"
 msgid "I think it was like, a celebrity or something!"
 msgstr "¡Creo que era una celebridad o algo así!"
-

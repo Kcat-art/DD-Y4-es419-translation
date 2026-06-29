@@ -17,23 +17,49 @@ msgstr ""
 "X-Crowdin-File-ID: 61480\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "660"
 msgid "Employee"
 msgstr "Empleado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "664"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "56_Employee"
 msgid "Welcome, sir. You can exchange balls for prizes here."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "80_Employee"
 msgid "Thank you very much. Please come again."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "92_Employee"
 msgid "Very well. Please come again."
 msgstr "Está bien. Por favor, vuelva pronto."
-

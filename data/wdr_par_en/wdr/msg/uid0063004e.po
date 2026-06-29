@@ -17,10 +17,16 @@ msgstr ""
 "X-Crowdin-File-ID: 60444\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1356"
 msgid "Chihiro"
 msgstr "Chihiro"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1360"
 msgid "Tanimura"
 msgstr "Tanimura"
@@ -37,14 +43,35 @@ msgid "Hmm, what should I sing?\\r\n"
 msgstr "Mmm, ¿qué debería cantar?\\r\n"
 "¡Ah! ¿Qué tal si canto: \"Get to the Top\"? <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Chihiro
+#. y4:msg_speaker_id=0
 msgctxt "144_Chihiro"
 msgid "Hehe, thanks!"
 msgstr "Je, je, ¡gracias!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Chihiro
+#. y4:msg_speaker_id=0
 msgctxt "156_Chihiro"
 msgid "You made it really hard to sing..."
 msgstr "Hiciste que cantar se me hiciera mucho más difícil..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "168_Tanimura"
 msgid "Sorry."
 msgstr "Lo siento."
@@ -54,4 +81,3 @@ msgid "That felt SO good! <Color:7>♥<Color:Default>\\r\n"
 "And it's all thanks to you cheering me on! <Color:7>♥<Color:Default>"
 msgstr "¡Eso estuvo BUENÍSIMO! <Color:7>♥<Color:Default>\\r\n"
 "¡Y todo gracias a que usted estaba animándome! <Color:7>♥<Color:Default>"
-

@@ -17,47 +17,101 @@ msgstr ""
 "X-Crowdin-File-ID: 57868\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1404"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1408"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1412"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1416"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1420"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "116_Man"
 msgid "Yo, you the guy that took my girl!? Ya look real similar to the guy my buddy was tellin' me about."
 msgstr "¿Eres el tipo que se llevó a mi novia? Porque te pareces mucho a él, del que me habló mi amigo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "I ain't taking excuses! I'll be messin' up that lady-stealin' face, dingus!"
 msgstr "¡No escucharé excusas! ¡Voy a romperte esa carita de don juan, idiota!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Man"
 msgid "My bad... I mistook ya for someone else..."
 msgstr "Perdona... Te confundí con otra persona..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "164_Man"
 msgid "Here's somethin' as an apology. Please take it."
 msgstr "Aquí tienes esto como disculpas. Por favor, tómalo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
 msgctxt "176_Man"
 msgid "You got a suspicious %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "212_Man"
 msgid "Where's this guy that took my girl..."
 msgstr "¿Dónde está el que se llevó a mi novia...?"
-

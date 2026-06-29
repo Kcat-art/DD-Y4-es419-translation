@@ -17,67 +17,150 @@ msgstr ""
 "X-Crowdin-File-ID: 61974\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2356"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2360"
 msgid "Client"
 msgstr "Cliente"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2364"
 msgid "Talk_Tabako_ed"
 msgstr "Talk_Tabako_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2368"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2372"
 msgid "M_nml_stand"
 msgstr "M_nml_stand"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2376"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "2380"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "68_Saejima"
 msgid "Gettin' close to the dropoff spot. Almost there, pal. Buck up."
 msgstr "Nos acercamos al destino. Ya casi llegamos, amigo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Client
+#. y4:msg_speaker_id=1
 msgctxt "80_Client"
 msgid "Really? Just a little farther..."
 msgstr "¿De verdad? Solo un poco más..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "92_Saejima"
 msgid "I know I ain't s'posed to ask, but what'd you do, anyway?"
 msgstr "Sé que no debo preguntar, pero ¿qué hiciste?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "104_Saejima"
 msgid "Frankly, ya don't look like a guy worth puttin' a hit on."
 msgstr "Para ser sincero, no pareces un tipo al que merezca la pena asaltarte."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Client
+#. y4:msg_speaker_id=1
 msgctxt "116_Client"
 msgid "I can't tell you. It would invalidate my contract..."
 msgstr "No te lo puedo decir. Invalidaría mi contrato..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "128_Saejima"
 msgid "Con... what?"
 msgstr "¿Con... qué?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "164_Saejima"
 msgid "Dammit, another one. You be a good boy and stay outta the way!"
 msgstr "Puta madre, otro más. ¡Sé buen chico y quédate atrás!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Client
+#. y4:msg_speaker_id=1
 msgctxt "176_Client"
 msgid "Yikes! I don't wanna die! Please, save me!"
 msgstr "¡Ay! ¡No quiero morir! ¡Por favor, sálvame!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "188_Saejima"
 msgid "I got this. Alright, bring it!"
 msgstr "No te preocupes. ¡Vamos, ven con todo!"
-

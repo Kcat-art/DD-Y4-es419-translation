@@ -17,11 +17,20 @@ msgstr ""
 "X-Crowdin-File-ID: 59016\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "200"
 msgid "Officer A"
 msgstr "Oficial de Policía A"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Officer A
+#. y4:msg_speaker_id=0
 msgctxt "84_Officer A"
 msgid "Thank you for your help!"
 msgstr "¡Muchas gracias por su ayuda!"
-

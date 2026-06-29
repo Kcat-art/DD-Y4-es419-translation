@@ -17,98 +17,190 @@ msgstr ""
 "X-Crowdin-File-ID: 58592\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "11492"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "11496"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "11500"
 msgid "Toxic Fanboy"
 msgstr "Fanboy Toxico"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "11504"
 msgid "Makiko"
 msgstr "Makiko"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "11508"
 msgid "F_nml_stand"
 msgstr "F_nml_stand"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "11512"
 msgid "Idle"
 msgstr "Idle"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "11516"
 msgid "Oyamada"
 msgstr "Oyamada"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "11520"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "11524"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "11528"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "11532"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "11536"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "11540"
 msgid "Dangerous Stalker"
 msgstr "Acosador Peligroso"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "11544"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=14
 msgctxt "11548"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=15
 msgctxt "11552"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=16
 msgctxt "11556"
 msgid "Talk_Udekumi_Yes"
 msgstr "Talk_Udekumi_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=17
 msgctxt "11560"
 msgid "Talk_Cry"
 msgstr "Talk_Cry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=18
 msgctxt "11564"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "72_Saejima"
 msgid "Get out. Now."
 msgstr "Fuera de aquí. Ahora."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Toxic Fanboy
+#. y4:msg_speaker_id=2
 msgctxt "84_Toxic Fanboy"
 msgid "Son of a bitch!"
 msgstr "¡Hijo de puta!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=3
 msgctxt "132_Makiko"
 msgid "Mommy! Are you okay?"
 msgstr "¡Mami! ¿Estás bien?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Oyamada
+#. y4:msg_speaker_id=6
 msgctxt "204_Oyamada"
 msgid "You're safe... Oh, thank goodness..."
 msgstr "Estás a salvo... Oh, gracias a dios..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Oyamada
+#. y4:msg_speaker_id=6
 msgctxt "216_Oyamada"
 msgid "Makiko, I'm sorry. I'm sorry I put you through all this..."
 msgstr "Makiko, lo lamento. Lamento que tuvieras que pasar por todo esto..."
@@ -129,34 +221,90 @@ msgstr "Mi sueño era triunfar en el mundo del espectáculo, no el tuyo.\\r\n"
 "Supongo que indirectamente intenté vivir mi vida a través de la tuya.\\r\n"
 "Perdoname."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=3
 msgctxt "252_Makiko"
 msgid "It's okay. I love you, Mommy..."
 msgstr "Da igual. Te amo, mami..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Oyamada
+#. y4:msg_speaker_id=6
 msgctxt "264_Oyamada"
 msgid "\"Mommy\"? You haven't called me that since grade school."
 msgstr "¿\"Mami\"? No me llamabas así desde la primaria."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=3
 msgctxt "276_Makiko"
 msgid "Really? Huh. Guess you actually feel like one again."
 msgstr "¿De verdad? Supongo volviste a ser mi mami otra vez."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Oyamada
+#. y4:msg_speaker_id=6
 msgctxt "300_Oyamada"
 msgid "Thank you from the bottom of my heart, Saejima-san."
 msgstr "Te lo agradezco desde el fondo de mi corazón, Saejima-san."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "312_Saejima"
 msgid "No sweat. All in a day's work."
 msgstr "No pasa nada. Solo es un día más de trabajo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Oyamada
+#. y4:msg_speaker_id=6
 msgctxt "324_Oyamada"
 msgid "I don't mean to pry, but do you have any children of your own?"
 msgstr "No me quiero entrometer, pero ¿tienes hijos?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "336_Saejima"
 msgid "Nope. Never even got hitched. Why?"
 msgstr "No. Nunca me interesó. ¿Por qué?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=23
+#. y4:msg_location=T0.P23
+#. y4:msg_speaker=Oyamada
+#. y4:msg_speaker_id=6
 msgctxt "348_Oyamada"
 msgid "Oh, I was just thinking what a fine father you'd be."
 msgstr "Oh, solo me imaginaba el gran padre que serías."
@@ -167,10 +315,24 @@ msgid "I'll have to remember how you handled my daughter earlier.\\r\n"
 msgstr "Recordaré como le hablaste a mi hija antes.\\r\n"
 "Fuiste mejor padre de lo que yo he sido... nunca."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=25
+#. y4:msg_location=T0.P25
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=3
 msgctxt "372_Makiko"
 msgid "Oh, Mommy..."
 msgstr "Oh, Mami..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "384_Saejima"
 msgid "Fine by me. Take what ya can from it. But time's a-wastin'. You got yourself a taxi to catch."
 msgstr "Bien por mí. Recuerda todo lo que quieras. Pero el tiempo es oro. Tienen un taxi que alcanzar."
@@ -181,6 +343,13 @@ msgid "Relax, we'll take real good care of sexy widdle Makiko.\\r\n"
 msgstr "Cálmate, cuidaremos muy bien de la sexy y linda Makiko.\\r\n"
 "¿Por qué no nos crees? ¡Somos sus más grandes admiradores!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Oyamada
+#. y4:msg_speaker_id=6
 msgctxt "420_Oyamada"
 msgid "Hit me all you want... but don't touch my daughter...!"
 msgstr "¡Golpéenme cuantas veces quieran... pero no le pongan ni un dedo encima a mi hija...!"
@@ -197,14 +366,35 @@ msgid "She dresses up all sexy when she's on stage. Why not now?\\r\n"
 msgstr "Se viste toda sexy cuando está en la tele. ¿Y ahora por qué no?\\r\n"
 "¡Vamos, nena, muéstranos esas tetitas que tu mami te compró!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Oyamada
+#. y4:msg_speaker_id=6
 msgctxt "456_Oyamada"
 msgid "Stop! Makiko is... She's all I've got left..."
 msgstr "¡Ya basta! Makiko es... lo único que me queda..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=3
 msgctxt "468_Makiko"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Dangerous Stalker
+#. y4:msg_speaker_id=12
 msgctxt "480_Dangerous Stalker"
 msgid "Aw, shut it, you dusty hag. Clam up and enjoy the show."
 msgstr "Ay, cierra el culo, vieja mugrosa. Ponte cómoda y disfruta el show."
@@ -215,14 +405,35 @@ msgid "Time for a private sesh with the famous Makiko-chan...\\r\n"
 msgstr "Es hora de nuestra sesión privada con la famosa Makiko-Chan...\\r\n"
 "y tenemos entradas con acceso al backstage."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=3
 msgctxt "504_Makiko"
 msgid "No..."
 msgstr "No..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "516_Saejima"
 msgid "There you are."
 msgstr "Ahí están."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Dangerous Stalker
+#. y4:msg_speaker_id=12
 msgctxt "528_Dangerous Stalker"
 msgid "Who the fuck..."
 msgstr "Quién carajo..."
@@ -239,10 +450,24 @@ msgid "Don't just stand there! You're my bodyguard, aren't you?\\r\n"
 msgstr "¡No te quedes parado! ¿Acaso no eres mi guardaespaldas?\\r\n"
 "¡Hace tu trabajo!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "564_Saejima"
 msgid "They ain't done nothin' to ya, so I got no reason to do anything to them."
 msgstr "No te han tocado un pelo, así que no tengo motivos para hacerles nada."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=3
 msgctxt "576_Makiko"
 msgid "Are you blind? They hurt her. She could die!"
 msgstr "¿Estás ciego? La golpearon. ¡Se puede morir!"
@@ -257,6 +482,13 @@ msgctxt "600_Makiko"
 msgid "Orders! Are you blind and deaf? They're about to－"
 msgstr "¡Órdenes! ¿Estás ciego y sordo? Están a punto de －"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "612_Saejima"
 msgid "Enough!"
 msgstr "¡Suficiente!"
@@ -265,34 +497,90 @@ msgctxt "624_Makiko"
 msgid "Wha－?"
 msgstr "Qué－?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=19
+#. y4:msg_location=T1.P19
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "636_Saejima"
 msgid "Ya want somebody's help? Look 'em in the eye and ask nice."
 msgstr "¿Quieres ayuda? Mírame a los ojos y pídelo bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=20
+#. y4:msg_location=T1.P20
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=3
 msgctxt "648_Makiko"
 msgid "Help us..."
 msgstr "Ayúdanos..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=21
+#. y4:msg_location=T1.P21
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "660_Saejima"
 msgid "Didn't hear the magic word."
 msgstr "No escuché la palabra mágica."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=22
+#. y4:msg_location=T1.P22
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=3
 msgctxt "672_Makiko"
 msgid "...Please."
 msgstr "...Por favor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=3
 msgctxt "684_Makiko"
 msgid "Save her."
 msgstr "Sálvala."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=24
+#. y4:msg_location=T1.P24
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=3
 msgctxt "696_Makiko"
 msgid "Please save my mommy!"
 msgstr "¡Por favor salva a mi mami!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "708_Saejima"
 msgid "There, was that so hard? God, nothin' chaps my ass more than a precocious brat."
 msgstr "¿Ves? ¿Era tan difícil? Dios, No hay nada que me saque más de quicio que una mocosa insolente."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=26
+#. y4:msg_location=T1.P26
+#. y4:msg_speaker=Dangerous Stalker
+#. y4:msg_speaker_id=12
 msgctxt "720_Dangerous Stalker"
 msgid "You think you're some kind of white knight? Fuck off, man!"
 msgstr "¿Te crees un héroe? ¡Vete a la mierda, hombre!"
@@ -302,4 +590,3 @@ msgid "Didn't ya hear the little lady? This here's my job.\\r\n"
 "So get in line for your all-access ass whuppin'!"
 msgstr "¿No escuchaste a la señorita? Este es mi trabajo.\\r\n"
 "¡Así que hagan fila para este concierto de golpes!"
-

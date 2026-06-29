@@ -17,59 +17,170 @@ msgstr ""
 "X-Crowdin-File-ID: 59510\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2152"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2156"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2160"
 msgid "Stern-Looking Yakuza"
 msgstr ""
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2164"
 msgid "Infuriated Yakuza"
 msgstr ""
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2168"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "128_Tanimura"
 msgid "I'm with the police! You oughta think twice about fighting in the middle of the street!"
 msgstr ""
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Stern-Looking Yakuza
+#. y4:msg_speaker_id=2
 msgctxt "140_Stern-Looking Yakuza"
 msgid "Aw, shit..."
 msgstr ""
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Infuriated Yakuza
+#. y4:msg_speaker_id=3
 msgctxt "152_Infuriated Yakuza"
 msgid "Better back your po-lice ass up, or you're gonna be the first one I take out!"
 msgstr ""
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Chase the Guy who Took Off -> T1.P4 | 2. Fight the Guy with the Big Mouth -> T1.P6
 msgctxt "164_Tanimura"
 msgid "(He sure took off in a hurry...)"
 msgstr ""
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Chase the Guy who Took Off
 msgctxt "176_Tanimura"
 msgid "Hey, get back here! Stop!"
 msgstr ""
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Fight the Guy with the Big Mouth
 msgctxt "200_Tanimura"
 msgid "Might as well take this guy on first. He seems to love police officers."
 msgstr ""
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Fight the Guy with the Big Mouth
 msgctxt "212_Tanimura"
 msgid "You asked for it!"
 msgstr ""
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P5
+#. y4:msg_branch_target_text=Hey, get back here! Stop!
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 1a 00 00 00 00 00 00 00 00
 msgctxt "236_Tanimura"
 msgid "Chase the Guy who Took Off"
 msgstr ""
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P6
+#. y4:msg_branch_segment=T1.P6..P8
+#. y4:msg_branch_target_text=Might as well take this guy on first. He seems to love police officers.
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 20 00 00 00 00 00 00 00 00
 msgctxt "248_Tanimura"
 msgid "Fight the Guy with the Big Mouth"
 msgstr ""
-

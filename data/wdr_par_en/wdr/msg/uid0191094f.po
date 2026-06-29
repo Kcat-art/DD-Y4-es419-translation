@@ -17,15 +17,31 @@ msgstr ""
 "X-Crowdin-File-ID: 59764\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "440"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "84_Kiryu"
 msgid "(Another text message. These guys must have a lot of free time to think up all these stupid clues.)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "96_Kiryu"
 msgid "(It's bound to be a trap, so I'd better get ready before I walk into it.)"
 msgstr ""
-

@@ -17,23 +17,45 @@ msgstr ""
 "X-Crowdin-File-ID: 62758\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "580"
 msgid "Kido"
 msgstr "Kido"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "584"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "588"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "88_Kido"
 msgid "It's just down the escalator."
 msgstr "Está justo debajo de la escalera."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "124_Kido"
 msgid "Come on, this way."
 msgstr "Vamos, por aquí."
-

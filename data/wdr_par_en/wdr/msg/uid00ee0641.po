@@ -10,11 +10,17 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2464"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2468"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
@@ -25,73 +31,158 @@ msgid "キャバ育名前"
 msgstr "キャバ育名前"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2476"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2480"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2484"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "68_Akiyama"
 msgid "Hmm? What're you doing here?"
 msgstr "¿Mmm? ¿Qué haces acá?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=繧ｭ繝｣繝占ご蜷榊燕
+#. y4:msg_speaker_id=2
 msgctxt "80_キャバ育名前"
 msgid "Oh... Akiyama-san."
 msgstr "Ah... Akiyama-san."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "92_Akiyama"
 msgid "Hey. Don't worry about taking some time off. If you feel like it's going to help, take as much time as you need."
 msgstr "Oye, no me importa si te tomas un descanso. Si sientes que te va a hacer sentir mejor, tómate el tiempo que quieras."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=繧ｭ繝｣繝占ご蜷榊燕
+#. y4:msg_speaker_id=2
 msgctxt "104_キャバ育名前"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "116_Akiyama"
 msgid "How are things going with the band?"
 msgstr "¿Cómo van las cosas con la banda?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=繧ｭ繝｣繝占ご蜷榊燕
+#. y4:msg_speaker_id=2
 msgctxt "128_キャバ育名前"
 msgid "Meh. All of the other members work part-time, too, so we don't get the chance to practice often."
 msgstr "Meh, los demás miembros tienen trabajos a tiempo parcial, así que no tenemos mucho tiempo para ensayar."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "140_Akiyama"
 msgid "I see."
 msgstr "Ya veo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=繧ｭ繝｣繝占ご蜷榊燕
+#. y4:msg_speaker_id=2
 msgctxt "152_キャバ育名前"
 msgid "We can't work part-time jobs forever, though. Not if we want to make decent money."
 msgstr "No podemos andar con trabajos a medio tiempo para siempre. No si queremos ahorrar buen dinero."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=繧ｭ繝｣繝占ご蜷榊燕
+#. y4:msg_speaker_id=2
 msgctxt "164_キャバ育名前"
 msgid "But if we get real jobs, we'll have no time left for the band. Ain't easy trying to chase after your dreams, huh?"
 msgstr "Pero si conseguimos trabajos a tiempo completo, no tendremos tiempo para ensayar. No es fácil seguir tus sueños..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "176_Akiyama"
 msgid "Don't worry about it too much. You never know what'll happen in life. Don't underestimate yourself."
 msgstr "No te gastes mucho pensando en eso. Nunca sabrás lo que te prepara la vida. No te subestimes."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=繧ｭ繝｣繝占ご蜷榊燕
+#. y4:msg_speaker_id=2
 msgctxt "188_キャバ育名前"
 msgid "Maybe you're right... Thanks! I feel better now!"
 msgstr "Puede que tengas razón... ¡Gracias! ¡Me siento mucho mejor!"
-

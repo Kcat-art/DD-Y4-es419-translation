@@ -17,31 +17,67 @@ msgstr ""
 "X-Crowdin-File-ID: 62866\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "804"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "808"
 msgid "Wealthy Gentleman"
 msgstr "Hombre adinerado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "812"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "100_Saejima"
 msgid "Did ya see a guy with a kid 'round here?"
 msgstr "¿Has visto a un tipo con un niño por aquí?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Wealthy Gentleman
+#. y4:msg_speaker_id=1
 msgctxt "112_Wealthy Gentleman"
 msgid "Yes, I saw a man and a child headed further that way."
 msgstr "Sí, vi a un hombre y un niño yéndose en esa dirección."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "124_Saejima"
 msgid "Did ya see a man with a kid 'round here?"
 msgstr "¿Viste a un hombre con un niño por aquí?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Wealthy Gentleman
+#. y4:msg_speaker_id=1
 msgctxt "136_Wealthy Gentleman"
 msgid "Yes, I saw a man and a child headed further in that way."
 msgstr "Sí, Vi a un hombre con un niño yéndose por allá."
-

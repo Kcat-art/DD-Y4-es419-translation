@@ -11,37 +11,73 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1040"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1044"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1048"
 msgid "Lily"
 msgstr "Lily"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "88_Akiyama"
 msgid "You ready? Where would you like to start: your dress or your accessories?"
 msgstr "¿Estás lista? ¿Quieres empezar por el vestido o por los accesorios?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=2
 msgctxt "100_Lily"
 msgid "I don't mind either way, but... are you sure about this? I feel bad, having you buy so much for me."
 msgstr "No tengo preferencia, me da igual... Pero... ¿De verdad está bien? No puedo creer que me deje comprar tantas cosas."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "112_Akiyama"
 msgid "It's nothing, honestly. Like I said before, we need to make you absolutely stunning."
 msgstr "Te lo dije hace un momento, ¿no? Necesito que te veas hermosa."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "124_Akiyama"
 msgid "Now, let's go!"
 msgstr "¡Vamos!"
-

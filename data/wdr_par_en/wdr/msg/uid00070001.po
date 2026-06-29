@@ -17,38 +17,95 @@ msgstr ""
 "X-Crowdin-File-ID: 59926\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "12016"
 msgid "Receptionist"
 msgstr "Recepcionista"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "12020"
 msgid "The Underground Coliseum"
 msgstr "El Coliseo Subterráneo"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
 msgctxt "740_Receptionist"
 msgid "This facility is for members only."
 msgstr "Este lugar es solo para miembros."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
 msgctxt "752_Receptionist"
 msgid "I'm sorry, only registered customers can enter this facility."
 msgstr "Lo siento, solo los clientes registrados pueden entrar a este lugar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
 msgctxt "764_Receptionist"
 msgid "Thank you very much. Come back when you want to fight again."
 msgstr "Muchas gracias. Vuelve cuando quieras volver a pelear."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
 msgctxt "800_Receptionist"
 msgid "Congratulations. Here is your reward for winning."
 msgstr "¡Felicidades! Aquí tienes tu recompensa."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
 msgctxt "836_Receptionist"
 msgid "Congratulations!"
 msgstr "¡Felicidades!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=1
+#. y4:msg_location=T4.P1
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
 msgctxt "848_Receptionist"
 msgid "Your nickname has been upgraded! You can check it out from the menu."
 msgstr "¡Tu apodo ha sido actualizado! Puedes comprobarlo en el menú."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
 msgctxt "860_Receptionist"
 msgid "Welcome. This is the Underground Coliseum."
 msgstr "Bienvenido al Coliseo Subterráneo."
@@ -59,6 +116,15 @@ msgid "Is this your first time here? We will have to register you first.\\r\n"
 msgstr "¿Es tu primera vez aquí? Tendrás que registrarte antes de poder luchar.\\r\n"
 "Echa un vistazo a las reglas mientras esperas."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=3
+#. y4:msg_location=T5.P3
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
 msgctxt "896_Receptionist"
 msgid "Your registration is complete."
 msgstr "Su registro está completo."
@@ -71,66 +137,240 @@ msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default
 "Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"
 "Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=5
+#. y4:msg_location=T5.P5
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Fight in a Match -> T5.P8 | 2. Ask about the Coliseum -> T5.P6 | 3. View Fighter Stats -> T5.P7 | 4. Exchange Points -> T5.P21 | 5. Nothing -> T5.P30
 msgctxt "920_Receptionist"
 msgid "What would you like to do?"
 msgstr "¿Qué te gustaría hacer?"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=5
+#. y4:msg_phrase=6
+#. y4:msg_location=T5.P6
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. The Rules -> T5.P14 | 2. Ask About Popularity -> T5.P26 | 3. Ask About Tag Matches -> T5.P28 | 4. Back -> T5.P5
 msgctxt "932_Receptionist"
 msgid "What would you like to ask about?"
 msgstr "¿Qué le gustaría hacer ahora?"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=5
+#. y4:msg_phrase=7
+#. y4:msg_location=T5.P7
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=2
+#. y4:msg_decision_choices=1. Opponent Info -> T5.P16 | 2. Fight Stats -> T5.P24 | 3. Back -> T5.P5
 msgctxt "944_Receptionist"
 msgid "What would you like to view?"
 msgstr "¿Qué te gustaría ver?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=8
+#. y4:msg_location=T5.P8
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Fight in a Match
 msgctxt "956_Receptionist"
 msgid "Be forewarned: you will not be able to use any weapons or defensive gear."
 msgstr "Estás prevenido: no podrás usar armas ni equipo defensivo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=9
+#. y4:msg_location=T5.P9
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Fight in a Match
 msgctxt "968_Receptionist"
 msgid "Please select a tournament."
 msgstr "Por favor, seleccione un torneo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=12
+#. y4:msg_location=T5.P12
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Fight in a Match
 msgctxt "1004_Receptionist"
 msgid "Best of luck, and have a good fight."
 msgstr "Lo mejor de la suerte, y ten una buena pelea."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=14
+#. y4:msg_location=T5.P14
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Fight in a Match
 msgctxt "1028_Receptionist"
 msgid "Here are the rules of the Underground Coliseum."
 msgstr "Estas son las reglas del Coliseo Subterráneo."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=5
+#. y4:msg_phrase=16
+#. y4:msg_location=T5.P16
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=3
+#. y4:msg_decision_choices=1. Individual Match Opponent Info -> T5.P17 | 2. Tag Match Opponent Info -> T5.P19 | 3. Back -> T5.P5
 msgctxt "1052_Receptionist"
 msgid "What information would you like to view?"
 msgstr "¿Qué información desea consultar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=17
+#. y4:msg_location=T5.P17
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Fight in a Match
 msgctxt "1064_Receptionist"
 msgid "Here is information on individual match opponents."
 msgstr "Aquí encontrará información sobre los rivales de cada combate."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=19
+#. y4:msg_location=T5.P19
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Fight in a Match
 msgctxt "1088_Receptionist"
 msgid "Here is information on tag match opponents."
 msgstr "Aquí tienes información sobre los oponentes de los combates por equipo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=21
+#. y4:msg_location=T5.P21
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Exchange Points
 msgctxt "1112_Receptionist"
 msgid "You can trade points here for items and other things."
 msgstr "Puedes intercambiar puntos aquí por objetos y otras cosas."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=22
+#. y4:msg_location=T5.P22
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Exchange Points
 msgctxt "1124_Receptionist"
 msgid "What would you like to trade for?"
 msgstr "¿Para qué desea comerciar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=24
+#. y4:msg_location=T5.P24
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Exchange Points
 msgctxt "1148_Receptionist"
 msgid "These are your fight stats."
 msgstr "Estas son tus estadísticas de combate."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=26
+#. y4:msg_location=T5.P26
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Exchange Points
 msgctxt "1172_Receptionist"
 msgid "This is a compilation of information about popularity in the Underground Coliseum."
 msgstr "Esta es una compilación de información sobre la popularidad en el Coliseo Subterráneo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=28
+#. y4:msg_location=T5.P28
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Exchange Points
 msgctxt "1196_Receptionist"
 msgid "This is a compilation of information about tag matches."
 msgstr "Esta es una compilación de información sobre las coincidencias de etiquetas."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=30
+#. y4:msg_location=T5.P30
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=5
+#. y4:msg_branch_choice=Nothing
 msgctxt "1220_Receptionist"
 msgid "Thank you. Please come again."
 msgstr "Muchas gracias. Por favor, vuelva otra vez."
@@ -143,187 +383,750 @@ msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default
 "Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"
 "Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=5
+#. y4:msg_location=T5.P5
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Fight in a Match -> T5.P8 | 2. Ask about the Coliseum -> T5.P6 | 3. View Fighter Stats -> T5.P7 | 4. Exchange Points -> T5.P21 | 5. Nothing -> T5.P30
 msgctxt "1256_Receptionist"
 msgid "What would you like to do?"
 msgstr "¿Qué te gustaría hacer?"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=5
+#. y4:msg_phrase=6
+#. y4:msg_location=T5.P6
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. The Rules -> T5.P14 | 2. Ask About Popularity -> T5.P26 | 3. Ask About Tag Matches -> T5.P28 | 4. Back -> T5.P5
 msgctxt "1268_Receptionist"
 msgid "What would you like to ask about?"
 msgstr "¿Qué le gustaría hacer ahora?"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=5
+#. y4:msg_phrase=6
+#. y4:msg_location=T5.P6
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. The Rules -> T5.P14 | 2. Ask About Popularity -> T5.P26 | 3. Ask About Tag Matches -> T5.P28 | 4. Back -> T5.P5
 msgctxt "1280_Receptionist"
 msgid "What would you like to ask about?"
 msgstr "¿Qué le gustaría hacer ahora?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=8
+#. y4:msg_location=T5.P8
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Fight in a Match
 msgctxt "1292_Receptionist"
 msgid "Be forewarned: you will not be able to use any weapons or defensive gear."
 msgstr "Estás prevenido: no podrás usar armas ni equipo defensivo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=9
+#. y4:msg_location=T5.P9
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Fight in a Match
 msgctxt "1304_Receptionist"
 msgid "Please select a tournament."
 msgstr "Por favor, seleccione un torneo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=4
+#. y4:msg_section_label=Conversación 4
+#. y4:msg_talk=6
+#. y4:msg_phrase=9
+#. y4:msg_location=T6.P9
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Fight in a Match
 msgctxt "1340_Receptionist"
 msgid "Thank you, and good luck."
 msgstr "Gracias y buena suerte."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=14
+#. y4:msg_location=T5.P14
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Fight in a Match
 msgctxt "1364_Receptionist"
 msgid "Here are the rules of the Underground Coliseum."
 msgstr "Estas son las reglas del Coliseo Subterráneo."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=5
+#. y4:msg_phrase=16
+#. y4:msg_location=T5.P16
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=3
+#. y4:msg_decision_choices=1. Individual Match Opponent Info -> T5.P17 | 2. Tag Match Opponent Info -> T5.P19 | 3. Back -> T5.P5
 msgctxt "1388_Receptionist"
 msgid "What information would you like to view?"
 msgstr "¿Qué información desea consultar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=17
+#. y4:msg_location=T5.P17
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Fight in a Match
 msgctxt "1400_Receptionist"
 msgid "Here is information on individual match opponents."
 msgstr "Aquí encontrará información sobre los rivales de cada combate."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=19
+#. y4:msg_location=T5.P19
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Fight in a Match
 msgctxt "1424_Receptionist"
 msgid "Here is information on tag match opponents."
 msgstr "Aquí tienes información sobre los oponentes de los combates por equipo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=21
+#. y4:msg_location=T5.P21
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Exchange Points
 msgctxt "1448_Receptionist"
 msgid "You can trade points here for items and other things."
 msgstr "Puedes intercambiar puntos aquí por objetos y otras cosas."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=22
+#. y4:msg_location=T5.P22
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Exchange Points
 msgctxt "1460_Receptionist"
 msgid "What would you like to trade for?"
 msgstr "¿Para qué desea comerciar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=24
+#. y4:msg_location=T5.P24
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Exchange Points
 msgctxt "1484_Receptionist"
 msgid "These are your fight stats."
 msgstr "Estas son tus estadísticas de combate."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=26
+#. y4:msg_location=T5.P26
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Exchange Points
 msgctxt "1508_Receptionist"
 msgid "This is a compilation of information about popularity in the Underground Coliseum."
 msgstr "Esta es una compilación de información sobre la popularidad en el Coliseo Subterráneo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=28
+#. y4:msg_location=T5.P28
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Exchange Points
 msgctxt "1532_Receptionist"
 msgid "This is a compilation of information about tag matches."
 msgstr "Esta es una compilación de información sobre las coincidencias de etiquetas."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=30
+#. y4:msg_location=T5.P30
+#. y4:msg_speaker=Receptionist
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=5
+#. y4:msg_branch_choice=Nothing
 msgctxt "1556_Receptionist"
 msgid "Thank you. Please come again."
 msgstr "Muchas gracias. Por favor, vuelva otra vez."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P8
+#. y4:msg_branch_segment=T5.P8..P20
+#. y4:msg_branch_target_text=Be forewarned: you will not be able to use any weapons or defensive gear.
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 10 00 00 00 00 00 00 00 00
 msgctxt "1568_Receptionist"
 msgid "Fight in a Match"
 msgstr "Pelea en un encuentro"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P6
+#. y4:msg_branch_segment=T5.P6..P6
+#. y4:msg_branch_target_text=What would you like to ask about?
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 16 00 00 00 00 00 00 00 00
 msgctxt "1580_Receptionist"
 msgid "Ask about the Coliseum"
 msgstr "Pregunta sobre el coliseo"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P7
+#. y4:msg_branch_segment=T5.P7..P7
+#. y4:msg_branch_target_text=What would you like to view?
+#. y4:msg_branch_raw=01 11 00 07 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "1592_Receptionist"
 msgid "View Fighter Stats"
 msgstr "Ver estadísticas de los peleadores"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P21
+#. y4:msg_branch_segment=T5.P21..P29
+#. y4:msg_branch_target_text=You can trade points here for items and other things.
+#. y4:msg_branch_raw=01 11 00 15 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "1604_Receptionist"
 msgid "Exchange Points"
 msgstr "Cambiar Puntos"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
+#. y4:msg_choice_index=5
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P30
+#. y4:msg_branch_segment=T5.P30..P30
+#. y4:msg_branch_target_text=Thank you. Please come again.
+#. y4:msg_branch_raw=01 11 00 1e 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "1616_Receptionist"
 msgid "Nothing"
 msgstr "Nada"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=12
+#. y4:msg_phrase=0
+#. y4:msg_location=T12.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P14
+#. y4:msg_branch_segment=T5.P14..P25
+#. y4:msg_branch_target_text=Here are the rules of the Underground Coliseum.
+#. y4:msg_branch_raw=01 11 00 0e 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "1628_Receptionist"
 msgid "The Rules"
 msgstr "Ver Reglas"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=13
+#. y4:msg_phrase=0
+#. y4:msg_location=T13.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P26
+#. y4:msg_branch_segment=T5.P26..P27
+#. y4:msg_branch_target_text=This is a compilation of information about popularity in the Underground Coliseum.
+#. y4:msg_branch_raw=01 11 00 1a 00 00 00 14 00 00 00 00 00 00 00 00
 msgctxt "1640_Receptionist"
 msgid "Ask About Popularity"
 msgstr "Preguntar por la Popularidad"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=14
+#. y4:msg_phrase=0
+#. y4:msg_location=T14.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P28
+#. y4:msg_branch_segment=T5.P28..P30
+#. y4:msg_branch_target_text=This is a compilation of information about tag matches.
+#. y4:msg_branch_raw=01 11 00 1c 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "1652_Receptionist"
 msgid "Ask About Tag Matches"
 msgstr "Pregunte por los Combates en Equipo"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P5
+#. y4:msg_branch_segment=T5.P5..P13
+#. y4:msg_branch_target_text=What would you like to do?
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "1664_Receptionist"
 msgid "Back"
 msgstr "Volver"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=16
+#. y4:msg_phrase=0
+#. y4:msg_location=T16.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P16
+#. y4:msg_branch_segment=T5.P16..P23
+#. y4:msg_branch_target_text=What information would you like to view?
+#. y4:msg_branch_raw=01 11 00 10 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "1676_Receptionist"
 msgid "Opponent Info"
 msgstr "Información del oponente"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=17
+#. y4:msg_phrase=0
+#. y4:msg_location=T17.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P24
+#. y4:msg_branch_segment=T5.P24..P30
+#. y4:msg_branch_target_text=These are your fight stats.
+#. y4:msg_branch_raw=01 11 00 18 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "1688_Receptionist"
 msgid "Fight Stats"
 msgstr "Estadísticas de la pelea"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P5
+#. y4:msg_branch_segment=T5.P5..P13
+#. y4:msg_branch_target_text=What would you like to do?
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "1700_Receptionist"
 msgid "Back"
 msgstr "Volver"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=19
+#. y4:msg_phrase=0
+#. y4:msg_location=T19.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P17
+#. y4:msg_branch_segment=T5.P17..P18
+#. y4:msg_branch_target_text=Here is information on individual match opponents.
+#. y4:msg_branch_raw=01 11 00 11 00 00 00 1e 00 00 00 00 00 00 00 00
 msgctxt "1712_Receptionist"
 msgid "Individual Match Opponent Info"
 msgstr "Información Individual del Oponente"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=20
+#. y4:msg_phrase=0
+#. y4:msg_location=T20.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P19
+#. y4:msg_branch_segment=T5.P19..P30
+#. y4:msg_branch_target_text=Here is information on tag match opponents.
+#. y4:msg_branch_raw=01 11 00 13 00 00 00 17 00 00 00 00 00 00 00 00
 msgctxt "1724_Receptionist"
 msgid "Tag Match Opponent Info"
 msgstr "Información del Oponente en Combate por Equipos"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P5
+#. y4:msg_branch_segment=T5.P5..P13
+#. y4:msg_branch_target_text=What would you like to do?
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "1736_Receptionist"
 msgid "Back"
 msgstr "Volver"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P8
+#. y4:msg_branch_segment=T5.P8..P20
+#. y4:msg_branch_target_text=Be forewarned: you will not be able to use any weapons or defensive gear.
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 10 00 00 00 00 00 00 00 00
 msgctxt "1748_Receptionist"
 msgid "Fight in a Match"
 msgstr "Pelea en un encuentro"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P6
+#. y4:msg_branch_segment=T5.P6..P6
+#. y4:msg_branch_target_text=What would you like to ask about?
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 16 00 00 00 00 00 00 00 00
 msgctxt "1760_Receptionist"
 msgid "Ask about the Coliseum"
 msgstr "Pregunta sobre el coliseo"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P7
+#. y4:msg_branch_segment=T5.P7..P7
+#. y4:msg_branch_target_text=What would you like to view?
+#. y4:msg_branch_raw=01 11 00 07 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "1772_Receptionist"
 msgid "View Fighter Stats"
 msgstr "Ver estadísticas de los peleadores"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P21
+#. y4:msg_branch_segment=T5.P21..P29
+#. y4:msg_branch_target_text=You can trade points here for items and other things.
+#. y4:msg_branch_raw=01 11 00 15 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "1784_Receptionist"
 msgid "Exchange Points"
 msgstr "Cambiar Puntos"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
+#. y4:msg_choice_index=5
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P30
+#. y4:msg_branch_segment=T5.P30..P30
+#. y4:msg_branch_target_text=Thank you. Please come again.
+#. y4:msg_branch_raw=01 11 00 1e 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "1796_Receptionist"
 msgid "Nothing"
 msgstr "Nada"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=12
+#. y4:msg_phrase=0
+#. y4:msg_location=T12.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P14
+#. y4:msg_branch_segment=T5.P14..P25
+#. y4:msg_branch_target_text=Here are the rules of the Underground Coliseum.
+#. y4:msg_branch_raw=01 11 00 0e 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "1808_Receptionist"
 msgid "The Rules"
 msgstr "Ver Reglas"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=13
+#. y4:msg_phrase=0
+#. y4:msg_location=T13.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P26
+#. y4:msg_branch_segment=T5.P26..P27
+#. y4:msg_branch_target_text=This is a compilation of information about popularity in the Underground Coliseum.
+#. y4:msg_branch_raw=01 11 00 1a 00 00 00 14 00 00 00 00 00 00 00 00
 msgctxt "1820_Receptionist"
 msgid "Ask About Popularity"
 msgstr "Preguntar por la Popularidad"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=14
+#. y4:msg_phrase=0
+#. y4:msg_location=T14.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P28
+#. y4:msg_branch_segment=T5.P28..P30
+#. y4:msg_branch_target_text=This is a compilation of information about tag matches.
+#. y4:msg_branch_raw=01 11 00 1c 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "1832_Receptionist"
 msgid "Ask About Tag Matches"
 msgstr "Pregunte por los Combates en Equipo"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P5
+#. y4:msg_branch_segment=T5.P5..P13
+#. y4:msg_branch_target_text=What would you like to do?
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "1844_Receptionist"
 msgid "Back"
 msgstr "Volver"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=16
+#. y4:msg_phrase=0
+#. y4:msg_location=T16.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P16
+#. y4:msg_branch_segment=T5.P16..P23
+#. y4:msg_branch_target_text=What information would you like to view?
+#. y4:msg_branch_raw=01 11 00 10 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "1856_Receptionist"
 msgid "Opponent Info"
 msgstr "Información del oponente"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=17
+#. y4:msg_phrase=0
+#. y4:msg_location=T17.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P24
+#. y4:msg_branch_segment=T5.P24..P30
+#. y4:msg_branch_target_text=These are your fight stats.
+#. y4:msg_branch_raw=01 11 00 18 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "1868_Receptionist"
 msgid "Fight Stats"
 msgstr "Estadísticas de la pelea"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P5
+#. y4:msg_branch_segment=T5.P5..P13
+#. y4:msg_branch_target_text=What would you like to do?
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "1880_Receptionist"
 msgid "Back"
 msgstr "Volver"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=19
+#. y4:msg_phrase=0
+#. y4:msg_location=T19.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P17
+#. y4:msg_branch_segment=T5.P17..P18
+#. y4:msg_branch_target_text=Here is information on individual match opponents.
+#. y4:msg_branch_raw=01 11 00 11 00 00 00 1e 00 00 00 00 00 00 00 00
 msgctxt "1892_Receptionist"
 msgid "Individual Match Opponent Info"
 msgstr "Información Individual del Oponente"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=20
+#. y4:msg_phrase=0
+#. y4:msg_location=T20.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P19
+#. y4:msg_branch_segment=T5.P19..P30
+#. y4:msg_branch_target_text=Here is information on tag match opponents.
+#. y4:msg_branch_raw=01 11 00 13 00 00 00 17 00 00 00 00 00 00 00 00
 msgctxt "1904_Receptionist"
 msgid "Tag Match Opponent Info"
 msgstr "Información del Oponente en Combate por Equipos"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P5
+#. y4:msg_branch_segment=T5.P5..P13
+#. y4:msg_branch_target_text=What would you like to do?
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "1916_Receptionist"
 msgid "Back"
 msgstr "Volver"
-

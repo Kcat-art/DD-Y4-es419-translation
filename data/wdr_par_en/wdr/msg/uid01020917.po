@@ -17,18 +17,38 @@ msgstr ""
 "X-Crowdin-File-ID: 61244\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1816"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1820"
 msgid "CAUTION!"
 msgstr "¡PRECAUCIÓN!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "72_Saejima"
 msgid "(Can't let any coppers spot me on my way to the Millennium Tower.)"
 msgstr "(No puedo dejar que ningún policía me vea mientras voy a la Torre Millennium)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "84_Saejima"
 msgid "(Better stick to the underground and the rooftops. The route Kido-chan told me about's my best bet, long as I keep my eye out for the boys in blue.)"
 msgstr "(Mejor me quedo por el subterráneo y los tejados. La ruta de la que me habló Kido-chan es mi mejor opción, siempre que esté atento a los policías)."
@@ -43,6 +63,13 @@ msgstr "<Color:7>Ve a la Torre Millennium<Color:Default> <Color:7>sin ser visto 
 "\\r\n"
 "¡Ten cuidado!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "120_Saejima"
 msgid "(Been out here a while now. Best hustle on back to the hideout without the coppers spottin' me.)"
 msgstr "( Ya llevo aquí un rato. Mejor me apresuro a volver al escondite sin que los polis me descubran)."
@@ -56,4 +83,3 @@ msgstr "<Color:7>Vuelve al escondite<Color:Default> <Color:7>sin ser visto por n
 "<Color:7>Perderás<Color:Default> si te ven, lo que significa que perderás cualquier progreso desde tu último guardado.\\r\n"
 "\\r\n"
 "¡Ten cuidado!"
-

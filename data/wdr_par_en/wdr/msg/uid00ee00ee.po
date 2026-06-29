@@ -17,127 +17,419 @@ msgstr ""
 "X-Crowdin-File-ID: 60540\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4076"
 msgid "Staff"
 msgstr "Personal"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4080"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4084"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4088"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4092"
 msgid "How to Play Cho-han"
 msgstr "Cómo Jugar a Cho-han"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4096"
 msgid "Guessing the Number on One Die"
 msgstr "Adivinar el Número de Un Dado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "4100"
 msgid "Guessing the Numbers on Both Dice"
 msgstr "Adivinar los Números en Ambos Dados"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "4104"
 msgid "Playing Against the House"
 msgstr "Jugar Contra la Casa"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Staff
+#. y4:msg_speaker_id=0
 msgctxt "264_Staff"
 msgid "Feelin' lucky? How 'bout a game of cho-han? Wait a sec,  you ain't got no chips. Go buy some at the front, then come see me."
 msgstr "¿Crees en tu suerte? ¿Qué tal una partida de cho-han...? Espera, no tienes fichas. Ve a comprar allá y regresa."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Staff
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Play -> T0.P4 | 2. Don't Play -> T0.P7
 msgctxt "276_Staff"
 msgid "This here's cho-han! Wanna give it a try?"
 msgstr "¡Aquí jugamos cho-han! ¿Te animas a probar?"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Staff
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Play -> T0.P4 | 2. Don't Play -> T0.P7
 msgctxt "288_Staff"
 msgid "This here's cho-han! Wanna give it a try?"
 msgstr "¡Aquí jugamos cho-han! ¿Te animas a probar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play
 msgctxt "300_Staff"
 msgid "Yeah, I'll play."
 msgstr "Sí, jugaré."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Staff
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play
 msgctxt "312_Staff"
 msgid "Okay, let's get started, then!"
 msgstr "¡Bien, empecemos entonces!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Play
 msgctxt "336_Staff"
 msgid "Not right now."
 msgstr "Ahora no."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Staff
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Play
 msgctxt "348_Staff"
 msgid "Well, all right. I hope you'll play next time!"
 msgstr "Bueno, ni modo. ¡Para la próxima sí juegas, eh!"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Staff
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=2
+#. y4:msg_decision_choices=1. Ask About Cho-han -> T0.P10 | 2. Ask About Guessing One Die -> T0.P12 | 3. Ask About Guessing Both Dice -> T0.P13 | 4. Ask About Playing Against the House -> T0.P14 | 5. Go Back -> T0.P3
 msgctxt "360_Staff"
 msgid "Whaddya wanna know?"
 msgstr "¿Qué quieres saber?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=How to Play Cho-han
+#. y4:msg_speaker_id=4
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Play
 msgctxt "372_Staff"
 msgid "Cho-han is a gambling game where players predict whether the total value of two dice rolls will end up odd or even."
 msgstr "El Cho-han es un juego de apuestas donde los jugadores predicen si la suma de dos dados será par o impar."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Play
 msgctxt "384_Staff"
 msgid "The payout is based on how much you and the other players wagered."
 msgstr "Lo que ganes depende de cuánto hayan apostado tú y los demás jugadores."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Guessing the Number on One Die
+#. y4:msg_speaker_id=5
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Play
 msgctxt "396_Staff"
 msgid "You can bet on what number will show on one of the two dice. If you guess right, you can earn even more tags than by simply guessing odd or even."
 msgstr "Puedes apostar a qué número saldrá en uno de los dos dados. Si aciertas, puedes ganar incluso más fichas que solo adivinando par o impar."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Guessing the Numbers on Both Dice
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Play
 msgctxt "408_Staff"
 msgid "You can also bet on which numbers will show on both dice. If you guess right, you get all of the money in the current pot."
 msgstr "También puedes apostar a qué números saldrán en ambos dados. Si aciertas, te llevas todo el dinero que hay."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Playing Against the House
+#. y4:msg_speaker_id=7
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Play
 msgctxt "420_Staff"
 msgid "To play against the house, first place any bet. Guess right, and the tags you win become your bet against the house. When playing against the house, you will guess either odd or even. Guess right, and you win double the tags you bet. Up to five rolls are possible."
 msgstr "Para jugar contra la banca, primero haz cualquier apuesta. Si aciertas, las fichas que ganes se convertirán en tu apuesta contra la banca. Al jugar contra la banca, deberás adivinar si saldrá par o impar. Si aciertas, ganas el doble de las fichas que apostaste. Puedes llegar hasta un máximo de cinco tiradas."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P4
+#. y4:msg_branch_segment=T0.P4..P6
+#. y4:msg_branch_target_text=Yeah, I'll play.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "432_Staff"
 msgid "Play"
 msgstr "Jugar"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P7
+#. y4:msg_branch_segment=T0.P7..P14
+#. y4:msg_branch_target_text=Not right now.
+#. y4:msg_branch_raw=01 11 00 07 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "444_Staff"
 msgid "Don't Play"
 msgstr "No jugar"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P4
+#. y4:msg_branch_segment=T0.P4..P6
+#. y4:msg_branch_target_text=Yeah, I'll play.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "456_Staff"
 msgid "Play"
 msgstr "Jugar"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P7
+#. y4:msg_branch_segment=T0.P7..P8
+#. y4:msg_branch_target_text=Not right now.
+#. y4:msg_branch_raw=01 11 00 07 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "468_Staff"
 msgid "Not Now"
 msgstr "Ahora no"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P9
+#. y4:msg_branch_segment=T0.P9..P14
+#. y4:msg_branch_target_text=Whaddya wanna know?
+#. y4:msg_branch_raw=01 11 00 09 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "480_Staff"
 msgid "Learn the Rules"
 msgstr "Leer las Reglas"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P10
+#. y4:msg_branch_segment=T0.P10..P11
+#. y4:msg_branch_target_text=Cho-han is a gambling game where players predict whether the total value of two dice rolls will end up odd or even.
+#. y4:msg_branch_raw=01 11 00 0a 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "492_Staff"
 msgid "Ask About Cho-han"
 msgstr "Preguntar sobre Cho-han"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T0.P12
+#. y4:msg_branch_segment=T0.P12..P12
+#. y4:msg_branch_target_text=You can bet on what number will show on one of the two dice. If you guess right, you can earn even more tags than by simply guessing odd or even.
+#. y4:msg_branch_raw=01 12 00 0c 01 00 00 1a 00 aa 00 01 00 00 00 00
 msgctxt "504_Staff"
 msgid "Ask About Guessing One Die"
 msgstr "Preguntar Sobre Adivinar un Dado"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T0.P13
+#. y4:msg_branch_segment=T0.P13..P13
+#. y4:msg_branch_target_text=You can also bet on which numbers will show on both dice. If you guess right, you get all of the money in the current pot.
+#. y4:msg_branch_raw=01 12 00 0d 01 00 00 1c 00 aa 00 02 00 00 00 00
 msgctxt "516_Staff"
 msgid "Ask About Guessing Both Dice"
 msgstr "Pregunta Sobre Adivinar Ambos Dados"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T0.P14
+#. y4:msg_branch_segment=T0.P14..P14
+#. y4:msg_branch_target_text=To play against the house, first place any bet. Guess right, and the tags you win become your bet against the house. When playing against the house, you will guess either odd or even. Guess right, and you win double the…
+#. y4:msg_branch_raw=01 12 00 0e 01 00 00 23 00 aa 00 03 00 00 00 00
 msgctxt "528_Staff"
 msgid "Ask About Playing Against the House"
 msgstr "Pregunta Sobre Jugar Contra la Casa"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
+#. y4:msg_choice_index=5
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P3
+#. y4:msg_branch_segment=T0.P3..P9
+#. y4:msg_branch_target_text=This here's cho-han! Wanna give it a try?
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "540_Staff"
 msgid "Go Back"
 msgstr "Volver"
-

@@ -17,102 +17,225 @@ msgstr ""
 "X-Crowdin-File-ID: 60590\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "8144"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "8148"
 msgid "Tadokoro"
 msgstr "Tadokoro"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "8152"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "8156"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "8160"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "8164"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "8168"
 msgid "Tadashi"
 msgstr "Tadashi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "8172"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "8176"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "8180"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "8184"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "8188"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "8192"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "68_Saejima"
 msgid "Who's there?"
 msgstr "¿Quién es?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Tadokoro
+#. y4:msg_speaker_id=1
 msgctxt "92_Tadokoro"
 msgid "Pardon the intrusion."
 msgstr "Disculpa la molestia."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "104_Saejima"
 msgid "Whaddya want?"
 msgstr "¿Qué pasa?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Tadokoro
+#. y4:msg_speaker_id=1
 msgctxt "116_Tadokoro"
 msgid "More work, of course."
 msgstr "Tengo más trabajo, por supuesto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "128_Saejima"
 msgid "What now?"
 msgstr "¡¿Ahora que?!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Tadokoro
+#. y4:msg_speaker_id=1
 msgctxt "140_Tadokoro"
 msgid "Let's discuss this somewhere more private, shall we?"
 msgstr "Hablemos de esto en un lugar más discreto, ¿te parece?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "152_Saejima"
 msgid "Doesn't get more private than my own hideout."
 msgstr "No hay lugar más privado que mi escondite."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Tadashi
+#. y4:msg_speaker_id=6
 msgctxt "176_Tadashi"
 msgid "Hi, I'm back!"
 msgstr "¡Hola, he vuelto!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "188_Saejima"
 msgid "Hey, Tadashi."
 msgstr "Hola, Tadashi."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Tadashi
+#. y4:msg_speaker_id=6
 msgctxt "200_Tadashi"
 msgid "You...!"
 msgstr "¡Tú!..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Tadokoro
+#. y4:msg_speaker_id=1
 msgctxt "212_Tadokoro"
 msgid "Well, hello there, Tadashi-kun. You look well. I'm so glad."
 msgstr "Oh, hola, Tadashi-kun. Te ves bien. Me alegro."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Tadashi
+#. y4:msg_speaker_id=6
 msgctxt "224_Tadashi"
 msgid "Are you going out on another job, big guy?"
 msgstr "¿Saldrás por otro trabajo, grandulón?"
@@ -123,10 +246,24 @@ msgid "Yep, looks that way. Mind holdin' down the fort\\r\n"
 msgstr "Sí, eso parece. ¿Te importaría cuidar nuestra\n"
 "guarida mientras no estoy?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Tadokoro
+#. y4:msg_speaker_id=1
 msgctxt "248_Tadokoro"
 msgid "Actually, I'd like Tadashi-kun to come along this time."
 msgstr "En realidad, me gustaría que Tadashi-kun nos acompañe esta vez."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "260_Saejima"
 msgid "Best have a good reason."
 msgstr "Será mejor que tengas una buena razón para eso."
@@ -137,18 +274,46 @@ msgid "It would just work out well, in a number of ways... But if\\r\n"
 msgstr "Sería beneficioso en varios aspectos... Pero si no quieres,\n"
 "podemos cancelar esta misión."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "284_Saejima"
 msgid "What do you think, Tadashi?"
 msgstr "¿Qué piensas, Tadashi?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Tadashi
+#. y4:msg_speaker_id=6
 msgctxt "296_Tadashi"
 msgid "I don't mind."
 msgstr "Me parece bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Tadokoro
+#. y4:msg_speaker_id=1
 msgctxt "308_Tadokoro"
 msgid "Heh. Such a good boy."
 msgstr "Je, buen chico."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "320_Saejima"
 msgid "So where we headed?"
 msgstr "Entonces, ¿dónde vamos?"
@@ -159,10 +324,24 @@ msgid "To Underground Coliseum of Purgatory. Are you\\r\n"
 msgstr "Al Coliseo del purgatorio.\n"
 "¿Conoces el lugar, Suzuki-san?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "344_Saejima"
 msgid "More or less."
 msgstr "Sí, más o menos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=25
+#. y4:msg_location=T0.P25
+#. y4:msg_speaker=Tadokoro
+#. y4:msg_speaker_id=1
 msgctxt "356_Tadokoro"
 msgid "Good, then. Your next job will take place there."
 msgstr "Genial, entonces. Tu próximo trabajo será ahi."
@@ -186,18 +365,46 @@ msgid "Try to appreciate your position here, Suzuki-san.\\r\n"
 msgstr "Aprende tu posición, Suzuki-san. Te guste o no.\n"
 "Soy tu empleador, tú trabajas para mí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=29
+#. y4:msg_location=T0.P29
+#. y4:msg_speaker=Tadokoro
+#. y4:msg_speaker_id=1
 msgctxt "404_Tadokoro"
 msgid "I do believe it's in your best interest to do as I say."
 msgstr "Creo que lo mejor es, que las cosas se hagan como yo diga."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=30
+#. y4:msg_location=T0.P30
+#. y4:msg_speaker=Tadashi
+#. y4:msg_speaker_id=6
 msgctxt "416_Tadashi"
 msgid "Don't worry, big guy. I'll be fine."
 msgstr "No te preocupes, grandulón. Estaré bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=31
+#. y4:msg_location=T0.P31
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "428_Saejima"
 msgid "Alright. Just lemme tell ya one thing."
 msgstr "Bueno. Solo déjame decirte una cosa."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=32
+#. y4:msg_location=T0.P32
+#. y4:msg_speaker=Tadokoro
+#. y4:msg_speaker_id=1
 msgctxt "440_Tadokoro"
 msgid "And what might that be?"
 msgstr "¿Qué cosa?"
@@ -219,11 +426,24 @@ msgid "If that's all, then, we'll be waiting for you in Purgatory.\\r\n"
 msgstr "Si no hay nada más que decir, entonces te esperaremos en el\n"
 "Purgatorio. Búscanos frente a la recepción del coliseo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=41
+#. y4:msg_location=T0.P41
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "548_Saejima"
 msgid "(The Underground Coliseum in Purgatory, huh? Sounds like I might hafta fight there again...)"
 msgstr "(El Coliseo del purgatorio, ¿eh? Parece que voy a tener que luchar de nuevo...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=42
+#. y4:msg_location=T0.P42
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "560_Saejima"
 msgid "(I'm worried about Tadashi. I better hustle to the arena.)"
 msgstr "(Me preocupa Tadashi. Será mejor que vaya de una vez al coliseo.)"
-

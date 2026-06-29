@@ -17,18 +17,34 @@ msgstr ""
 "X-Crowdin-File-ID: 62116\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "5416"
 msgid "Rio"
 msgstr "Rio"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "5420"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "5424"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "168_Rio"
 msgid "Yay! We won! We actually won!"
 msgstr ""
@@ -41,10 +57,24 @@ msgctxt "192_Rio"
 msgid "Ask me out again, okay? Let's win it all next time! <Color:255,200,200,255>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "252_Rio"
 msgid "Yay! We won a prize!"
 msgstr "¡Viva! ¡Ganamos un premio!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "264_Rio"
 msgid "Next time, we've definitely gotta win it all! I know we can do it!"
 msgstr ""
@@ -57,10 +87,24 @@ msgctxt "336_Rio"
 msgid "That was fun! ♪ Call me again soon, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡Eso fue divertido! ♪ Vuelva a llamarme pronto, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "396_Rio"
 msgid "Geez... You're way too good at this, Akiyama-san!"
 msgstr "¡Rayos... Eres demasiado bueno en esto, Akiyama-san!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "408_Rio"
 msgid "Don't get too cocky, though, 'cause I'm not going to lose next time!"
 msgstr ""
@@ -69,10 +113,24 @@ msgctxt "420_Rio"
 msgid "Ask me out again sometime, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "Invíteme a salir de nuevo algún día, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "480_Rio"
 msgid "Wow, a tie... That was a really good game!"
 msgstr "Vaya, un empate... ¡Ese fue un muy buen juego!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=1
+#. y4:msg_location=T4.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "492_Rio"
 msgid "I'll win next time, though!"
 msgstr ""
@@ -81,6 +139,13 @@ msgctxt "504_Rio"
 msgid "Ask me out again sometime, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "Invíteme a salir de nuevo algún día, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "564_Rio"
 msgid "I won! Hehe, I'm pretty good, don't you think?"
 msgstr "¡Gané! Je, je. Soy muy buena en esto, ¿no le parece?"
@@ -92,4 +157,3 @@ msgstr "Invíteme a salir de nuevo algún día, ¿sí? <Color:255,200,200,255>�
 msgctxt "636_Rio"
 msgid "Sorry for the wait! <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡Perdón por la espera! <Color:255,200,200,255>♥<Color:Default>"
-

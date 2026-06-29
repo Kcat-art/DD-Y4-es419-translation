@@ -10,42 +10,82 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "6292"
 msgid "Ajikawa"
 msgstr "Ajikawa"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "6296"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "6300"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "6304"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "6308"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "6312"
 msgid "SetM_nml_sitcnt_phone"
 msgstr "SetM_nml_sitcnt_phone"
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Ajikawa
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Tell Him -> T0.P1 | 2. Double-check It First -> T0.P24
 msgctxt "280_Ajikawa"
 msgid "Akiyama-san! You got that stock and topping info for me yet?"
 msgstr "¡Akiyama-san! ¿Conseguiste la información sobre el caldo y los aderezos?"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "292_Akiyama"
 msgid "Sure, I'm ready."
 msgstr "Sí, lo tengo."
@@ -56,16 +96,49 @@ msgid "First, please tell me what your favorite ramen shop is\\r\ncalled."
 msgstr "Bien, en primer lugar dime como se llama tu local de\\r\nramen favorito, por favor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "316_Akiyama"
 msgid "It's \"Konjo No. 1 Star,\" in Pink Alley."
 msgstr "Es \"Konjo Estrella N° 1\", del callejón Pink."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "328_Akiyama"
 msgid "It's \"Hakata No. 1 Star,\" in Pink Alley."
 msgstr "Es \"Hakata Estrella N° 1\", del callejón Pink."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "340_Akiyama"
 msgid "It's \"Kyushu No. 1 Star,\" in Pink Alley."
 msgstr "Es \"Kyushu Estrella N° 1\", del callejón Pink."
@@ -76,16 +149,53 @@ msgid "It sounds like a real hidden gem. And what can you tell me\\r\nabout the 
 msgstr "Suena como una joya oculta. ¿Qué puedes contarme\\r\nacerca del caldo que usan?"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P7
+#. y4:msg_branch_segment=T0.P7..P7
+#. y4:msg_branch_target_text=It's a simple bonito stock.
+#. y4:msg_branch_raw=01 11 00 07 00 00 00 1b 00 00 00 00 00 00 00 00
 msgctxt "364_Akiyama"
 msgid "It's a simple bonito stock."
 msgstr "Usan un simple caldo \"Dashi\"."
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P8
+#. y4:msg_branch_segment=T0.P8..P8
+#. y4:msg_branch_target_text=It's chicken stock from an ancient Chinese recipe.
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 32 00 00 00 00 00 00 00 00
 msgctxt "376_Akiyama"
 msgid "It's chicken stock from an ancient Chinese recipe."
 msgstr "Es un caldo de pollo de una antigua receta china."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "388_Akiyama"
 msgid "It's a rich, authentic pork bone stock. Aka tonkotsu."
 msgstr "Es un caldo de huesos de cerdo, \"Tonkotsu\"."
@@ -96,16 +206,49 @@ msgid "They must be very particular about their soup! Now, what\\r\nsort of dist
 msgstr "¡Parece ser un lugar muy particular con su sopa! Ahora\\r\n¿Qué tipo de aderezos ofrecen?"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "412_Akiyama"
 msgid "They have Tokyo-style littleneck clams."
 msgstr "Tienen almejas al estilo de Tokio."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "424_Akiyama"
 msgid "They have braised pork from Okinawa."
 msgstr "Tienen estofado de cerdo de Okinawa."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "436_Akiyama"
 msgid "They have cod roe straight from Kyushu."
 msgstr "Tienen huevas de bacalao directo desde Kyushu."
@@ -121,6 +264,17 @@ msgid "You've really piqued my interest. I think I'll head over\\r\nthere right 
 msgstr "Realmente despertaste mi interés. Voy a ir a ese lugar\\r\nahora mismo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "472_Akiyama"
 msgid "I hope you like it."
 msgstr "Espero que te guste."
@@ -131,6 +285,17 @@ msgid "When it comes to food, I trust your intuition! Oh, and about\\r\nyour com
 msgstr "¡Confió en tu intuición y más cuando es sobre comida! Ah, y con\\r\nrespecto a tu compensación... ¿Puedes esperar a que vuelva del\\r\nlocal de ramen?"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell Him
 msgctxt "496_Akiyama"
 msgid "Sure, I don't mind. You want to meet here again?"
 msgstr "Claro, no tengo problema. ¿Quieres que nos encontremos aquí de nuevo?"
@@ -151,57 +316,199 @@ msgid "Oh, okay. I really am sorry to be putting you through all\\r\nthis. Thank
 msgstr "Oh, bueno. Lamento ponerte en esta situación.\\r\nGracias por tu ayuda."
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P1
+#. y4:msg_branch_segment=T0.P1..P23
+#. y4:msg_branch_target_text=Sure, I'm ready.
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "628_Ajikawa"
 msgid "Tell Him"
 msgstr "Contarle"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P24
+#. y4:msg_branch_segment=T0.P24..P28
+#. y4:msg_branch_target_text=Uh... My memory's pretty foggy. Let me check again, and I'll\nbe right back.
+#. y4:msg_branch_raw=01 11 00 18 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "640_Ajikawa"
 msgid "Double-check It First"
 msgstr "Compruébalo una vez más"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P3
+#. y4:msg_branch_segment=T0.P3..P3
+#. y4:msg_branch_target_text=It's "Konjo No. 1 Star," in Pink Alley.
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 21 00 00 00 00 00 00 00 00
 msgctxt "652_Ajikawa"
 msgid "\"Konjo No. 1 Star,\" in Pink Alley"
 msgstr "\"Konjo Estrella N° 1\", del callejón Pink"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P4
+#. y4:msg_branch_segment=T0.P4..P4
+#. y4:msg_branch_target_text=It's "Hakata No. 1 Star," in Pink Alley.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 22 00 00 00 00 00 00 00 00
 msgctxt "664_Ajikawa"
 msgid "\"Hakata No. 1 Star,\" in Pink Alley"
 msgstr "\"Hakata Estrella N° 1\", del callejón Pink"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P5
+#. y4:msg_branch_segment=T0.P5..P28
+#. y4:msg_branch_target_text=It's "Kyushu No. 1 Star," in Pink Alley.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 22 00 00 00 00 00 00 00 00
 msgctxt "676_Ajikawa"
 msgid "\"Kyushu No. 1 Star,\" in Pink Alley"
 msgstr "\"Kyushu Estrella N° 1\", del callejón Pink"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P7
+#. y4:msg_branch_segment=T0.P7..P7
+#. y4:msg_branch_target_text=It's a simple bonito stock.
+#. y4:msg_branch_raw=01 11 00 07 00 00 00 1b 00 00 00 00 00 00 00 00
 msgctxt "688_Ajikawa"
 msgid "It's a simple bonito stock."
 msgstr "Usan un simple caldo \"Dashi\"."
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P9
+#. y4:msg_branch_segment=T0.P9..P28
+#. y4:msg_branch_target_text=It's a rich, authentic pork bone stock. Aka tonkotsu.
+#. y4:msg_branch_raw=01 11 00 09 00 00 00 27 00 00 00 00 00 00 00 00
 msgctxt "700_Ajikawa"
 msgid "It's a rich, authentic pork bone stock."
 msgstr "Es un caldo de huesos de cerdo."
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P8
+#. y4:msg_branch_segment=T0.P8..P8
+#. y4:msg_branch_target_text=It's chicken stock from an ancient Chinese recipe.
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 32 00 00 00 00 00 00 00 00
 msgctxt "712_Ajikawa"
 msgid "It's chicken stock from an ancient Chinese recipe."
 msgstr "Es un caldo de pollo de una antigua receta china."
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P11
+#. y4:msg_branch_segment=T0.P11..P11
+#. y4:msg_branch_target_text=They have Tokyo-style littleneck clams.
+#. y4:msg_branch_raw=01 11 00 0b 00 00 00 1d 00 00 00 00 00 00 00 00
 msgctxt "724_Ajikawa"
 msgid "Tokyo-style littleneck clams."
 msgstr "Almejas al estilo de Tokio."
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P13
+#. y4:msg_branch_segment=T0.P13..P28
+#. y4:msg_branch_target_text=They have cod roe straight from Kyushu.
+#. y4:msg_branch_raw=01 11 00 0d 00 00 00 28 00 00 00 00 00 00 00 00
 msgctxt "736_Ajikawa"
 msgid "Spicy roe imported straight from Kyushu."
 msgstr "Huevas de bacalao directo desde Kyushu."
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P12
+#. y4:msg_branch_segment=T0.P12..P12
+#. y4:msg_branch_target_text=They have braised pork from Okinawa.
+#. y4:msg_branch_raw=01 11 00 0c 00 00 00 1a 00 00 00 00 00 00 00 00
 msgctxt "748_Ajikawa"
 msgid "Braised pork from Okinawa."
 msgstr "Estofado de cerdo de Okinawa."
-

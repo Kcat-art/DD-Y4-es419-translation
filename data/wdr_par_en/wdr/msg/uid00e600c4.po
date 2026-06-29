@@ -17,82 +17,182 @@ msgstr ""
 "X-Crowdin-File-ID: 61776\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "6160"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "6164"
 msgid "Fay"
 msgstr "Fay"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "6168"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "6172"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "6176"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "6180"
 msgid "P_tan_sitcnt_tlk_kamae"
 msgstr "P_tan_sitcnt_tlk_kamae"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "6184"
 msgid "P_tan_sitcnt"
 msgstr "P_tan_sitcnt"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "6188"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "6192"
 msgid "Bartender"
 msgstr "Camarero"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "6196"
 msgid "Isawa"
 msgstr "Isawa"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "84_Tanimura"
 msgid "Did I keep you waiting?"
 msgstr "Perdón por la demora."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Fay
+#. y4:msg_speaker_id=1
 msgctxt "96_Fay"
 msgid "No, I just got here. Thanks for coming, Tanimura-san."
 msgstr "No, apenas llegué. Gracias por venir, Tanimura-san."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "108_Tanimura"
 msgid "Uh-huh. So where's this man of yours?"
 msgstr "Ajá. ¿Y dónde está este tipo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Fay
+#. y4:msg_speaker_id=1
 msgctxt "120_Fay"
 msgid "I just called him. He should be here soon."
 msgstr "Acabo de llamarle. Llegará pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "132_Tanimura"
 msgid "Fine. We'll just have to wait, then."
 msgstr "Genial. Solo hay que esperar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "204_Tanimura"
 msgid "So what's this guy's name?"
 msgstr "¿Y cómo se llama este tipo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Fay
+#. y4:msg_speaker_id=1
 msgctxt "216_Fay"
 msgid "Isawa. He was so nice to me when I first came here to Japan..."
 msgstr "Isawa. Era tan bueno conmigo apenas llegué a Japón..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Fay
+#. y4:msg_speaker_id=1
 msgctxt "228_Fay"
 msgid "But... It wasn't long before he quit his job. Then he started taking all my money."
 msgstr "Pero... no tardó mucho en dejar su trabajo. Y empezó a \\r quedarse con todo mi dinero."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Fay
+#. y4:msg_speaker_id=1
 msgctxt "240_Fay"
 msgid "I asked one of my customers if they could help me. He said yes... He even agreed to run away with me."
 msgstr "Le pedí ayuda a uno de mis clientes. Me dijo que sí... \\r hasta aceptó huir conmigo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Fay
+#. y4:msg_speaker_id=1
 msgctxt "252_Fay"
 msgid "But when Isawa found out, he attacked that customer and hurt him pretty bad... He's been in prison ever since."
 msgstr "Pero cuando Isawa se enteró, atacó al cliente y le hizo \\r much daño... desde entonces está en prisión."
@@ -101,22 +201,57 @@ msgctxt "264_Tanimura"
 msgid "Wow. Sounds like a real nutj－ I mean, nice guy."
 msgstr "Wow. Qué pedazo de loc－quiero decir, buen tipo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Fay
+#. y4:msg_speaker_id=1
 msgctxt "276_Fay"
 msgid "And he gets so aggressive whenever he's upset... He's not even afraid to hit someone..."
 msgstr "Y se pone tan agresivo cuando se enoja... no tiene ningún \\r reparo en pegarle a alguien..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
+#. y4:msg_speaker=Bartender
+#. y4:msg_speaker_id=8
 msgctxt "288_Bartender"
 msgid "Welcome, sir."
 msgstr "Bienvenido, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Isawa
+#. y4:msg_speaker_id=9
 msgctxt "300_Isawa"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=20
+#. y4:msg_location=T1.P20
+#. y4:msg_speaker=Isawa
+#. y4:msg_speaker_id=9
 msgctxt "324_Isawa"
 msgid "So, Fay. This the new jock you're ridin'?"
 msgstr "Vaya, Fay. Así que este es tu nuevo lío, ¿eh?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=21
+#. y4:msg_location=T1.P21
+#. y4:msg_speaker=Fay
+#. y4:msg_speaker_id=1
 msgctxt "336_Fay"
 msgid "He's my boyfriend, Isawa... His name's Tanimura-san."
 msgstr "Es mi novio, Isawa... se llama Tanimura."
@@ -129,6 +264,13 @@ msgstr "¿Tú eras su novio? Mira, Fay dice que te quiere fuera de su\\r \n"
 "vida, y yo estoy aquí para asegurarme de que eso ocurra.\\r \n"
 "Créeme, yo tampoco quiero estar aquí..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Isawa
+#. y4:msg_speaker_id=9
 msgctxt "360_Isawa"
 msgid "I don't remember asking you to talk. How about you stay out of my shit and go be someone else's asswipe?"
 msgstr "No recuerdo haber pedido tu palabra. ¿Qué tal si no te metes \\r en mis mierdas y te vas a ser un deshecho a otra parte?"
@@ -141,18 +283,46 @@ msgstr "Fay... ¿es verdad? Después de todo el amor y bondad que te\\r\n"
 "he brindado, ¿vas a cortar conmigo? ¿Vas a actuar\\r\n"
 "como una perra desagradecida ahora?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Fay
+#. y4:msg_speaker_id=1
 msgctxt "384_Fay"
 msgid "But... You're always hitting me... and spending what I earn on yourself..."
 msgstr "Pero... siempre me estás pegando... y gastándote lo que \\r gano en ti mismo..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=26
+#. y4:msg_location=T1.P26
+#. y4:msg_speaker=Fay
+#. y4:msg_speaker_id=1
 msgctxt "396_Fay"
 msgid "Tanimura-san, on the other hand, is kind... He only thinks of what's good for me."
 msgstr "En cambio, Tanimura es amable... y solo piensa en lo que \\r es bueno para mí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_speaker=Isawa
+#. y4:msg_speaker_id=9
 msgctxt "408_Isawa"
 msgid "Gimme a fuckin' break. You <Italic>like</Italic> this smart-ass, twig-lookin' dipshit?"
 msgstr "Dame un puto respiro. ¿De verdad te <Italic>gusta</Italic> este palo con cara \\r de sabelotodo de aquí?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Isawa
+#. y4:msg_speaker_id=9
 msgctxt "420_Fay"
 msgid "......"
 msgstr "......"
@@ -163,7 +333,13 @@ msgid "I've heard enough. You obviously can't take no for an\\r\n"
 msgstr "Ya es suficiente. Obviamente no toleras el 'no' como\\r \n"
 "respuesta, así que vamos fuera."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=30
+#. y4:msg_location=T1.P30
+#. y4:msg_speaker=Isawa
+#. y4:msg_speaker_id=9
 msgctxt "444_Isawa"
 msgid "Well damn! Didn't know you had a sack between those scrawny-ass legs! Fine then. Get the fuck out that door!"
 msgstr "¡Qué sorpresa! ¡No pensaba que hubiera un par de huevos \\r entre esas dos piernuchas! ¡Bien, saca tu puto culo fuera!"
-

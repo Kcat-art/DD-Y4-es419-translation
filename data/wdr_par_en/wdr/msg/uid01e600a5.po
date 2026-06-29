@@ -17,22 +17,45 @@ msgstr ""
 "X-Crowdin-File-ID: 60050\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2436"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2440"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2444"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2448"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Ask a Guy at a Red-light District Kiosk -> T0.P2 | 2. Check For Skinny Guys at an Internet Cafﾃｩ -> T0.P3 | 3. Snag a Man Walking With a Big Girl -> T0.P5 | 4. Look Around at My Own Hostess Club -> T0.P7
 msgctxt "144_Akiyama"
 msgid "(Well, that didn't work. What should I try next?)"
 msgstr "(Bueno, eso no funcionó. ¿Qué debería intentar ahora?)"
@@ -60,6 +83,17 @@ msgid "A man who likes girls more on the heavy side would probably\\r\n"
 msgstr "Un hombre que prefiere a ese tipo de chicas probablemente\\r\n"
 "sea del mismo tamaño."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Snag a Man Walking With a Big Girl
 msgctxt "204_Akiyama"
 msgid "Maybe there's a couple like that over by Theater Square."
 msgstr "Quizás haya una pareja así en la Plaza del Teatro."
@@ -70,10 +104,34 @@ msgid "I need a place where lots of men gather... I do own a\\r\n"
 msgstr "Debo encontrar un lugar donde muchos hombres se reúnan... Y soy dueño de un\\r\n"
 "club de hostess. Ahí puede que lo encuentre."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Look Around at My Own Hostess Club
 msgctxt "228_Akiyama"
 msgid "Damn, this isn't working... I need a better place to look."
 msgstr "Maldita sea, no está funcionando... Necesito buscar en un mejor lugar."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T0.P2
+#. y4:msg_branch_segment=T0.P2..P2
+#. y4:msg_branch_target_text=I'll ask at a red-light district kiosk. I'm sure they see\nguys with all sorts of preferences.
+#. y4:msg_branch_raw=01 12 00 02 00 00 00 27 00 26 00 04 00 00 00 00
 msgctxt "240_Akiyama"
 msgid "Ask a Guy at a Red-light District Kiosk"
 msgstr "Preguntar a un chico en el punto de información del barrio rojo"
@@ -82,11 +140,36 @@ msgctxt "252_Akiyama"
 msgid "Check For Skinny Guys at an Internet Café"
 msgstr "Buscar chicos flacuchos en un cibercafé"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T0.P5
+#. y4:msg_branch_segment=T0.P5..P6
+#. y4:msg_branch_target_text=A man who likes girls more on the heavy side would probably\nhave a girlfriend to match.
+#. y4:msg_branch_raw=01 12 00 05 00 00 00 22 00 26 00 06 00 00 00 00
 msgctxt "264_Akiyama"
 msgid "Snag a Man Walking With a Big Girl"
 msgstr "Buscar un hombre que esté saliendo con una chica de talla grande"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T0.P7
+#. y4:msg_branch_segment=T0.P7..P8
+#. y4:msg_branch_target_text=I need a place where lots of men gather... I do own a\nhostess club. That could work.
+#. y4:msg_branch_raw=01 12 00 07 00 00 00 22 00 26 00 07 00 00 00 00
 msgctxt "276_Akiyama"
 msgid "Look Around at My Own Hostess Club"
 msgstr "Buscar en mi propio club de hostess"
-

@@ -10,27 +10,42 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1704"
 msgid "Sex Worker"
 msgstr "Trabajadora Sexual"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1708"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1712"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1716"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1720"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
@@ -41,6 +56,13 @@ msgid "Hello tall, dark, and dangerous. Wanna have some fun?\\r\nI can show you 
 msgstr "Mmm, qué buenote estás... Ji, ji, ji... ¿Por qué no te quedas\\r\na jugar conmigo? Te prometo que te va a encantar."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "96_Saejima"
 msgid "You talkin' to me?"
 msgstr "¿Me estás hablando a mí?"
@@ -51,6 +73,13 @@ msgid "Don't be shy, this is Purgatory. I can do things\\r\nto your body that yo
 msgstr "Ya que viniste hasta el Purgatorio, te daré un servicio de\\r\nprimera que no podrás disfrutar en ningún otro lugar."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "120_Saejima"
 msgid "I dunno... I got a pretty damn good imagination."
 msgstr "¿Un servicio de primera, dices? B-Bueno, pues..."
@@ -61,6 +90,13 @@ msgid "Pick your poison and we'll make all your dreams come true.\\r\nBut whatev
 msgstr "Escoge tu pecado y haremos realidad todos tus deseos.\\r\nPero, sea cual sea tu perversión, te va a costar."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "144_Saejima"
 msgid "Cost me?"
 msgstr "¿Me va a costar?"
@@ -74,4 +110,3 @@ msgstr "¿Qué te pensabas? ¡Aquí hay de todo! Casino, coliseo...\\r\nCon tu t
 msgctxt "168_Sex Worker"
 msgid "Here's a tip, tiger: diamonds are a girl's best friend.\\r\nI'll see you when you can afford the finer things in life."
 msgstr "Aquí tienes un consejito, cariño: los diamantes son el mejor amigo de\\r\nuna chica. Te veré cuando puedas permitirte las cosas buenas de la vida."
-

@@ -10,89 +10,183 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2616"
 msgid "Businessman"
 msgstr "Empresario"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2620"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2624"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2628"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2632"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2636"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Businessman
+#. y4:msg_speaker_id=0
 msgctxt "68_Businessman"
 msgid "Hm... There <Italic>was</Italic> something going on over here earlier. I could hear the shouting from all the way over on Nakamichi Street."
 msgstr "Mmm... Algo <Italic>estaba</Italic> pasando por aquí hace un momento. Podía escuchar los gritos desde la calle Nakamichi."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Businessman
+#. y4:msg_speaker_id=0
 msgctxt "80_Businessman"
 msgid "I didn't see it myself, though. Not a chance I'd be standing here now if I had!"
 msgstr "Pero no vi nada. ¡No estaría aquí parado si lo hubiera hecho!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "92_Akiyama"
 msgid "Hey, you got a second?"
 msgstr "Disculpe, ¿tiene un momento?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Businessman
+#. y4:msg_speaker_id=0
 msgctxt "104_Businessman"
 msgid "Er... sure. How can I help you?"
 msgstr "Claro... ¿Cómo puedo ayudar?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "116_Akiyama"
 msgid "Did you see a group of yakuza come by here maybe two, three hours ago?"
 msgstr "¿Vio a un grupo de yakuzas pasar por aquí hace dos o tres horas?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Businessman
+#. y4:msg_speaker_id=0
 msgctxt "128_Businessman"
 msgid "Yakuza!?"
 msgstr "¡¿Yakuzas?!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "140_Akiyama"
 msgid "You know you're in Kamurocho, right? That shouldn't be such a surprise. Oh, and they were probably dragging someone behind them."
 msgstr "Bueno, en Kamurocho no es sorpresa. Probablemente llevaban a la fuerza alguien."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Businessman
+#. y4:msg_speaker_id=0
 msgctxt "152_Businessman"
 msgid "Hm... There <Italic>was</Italic> something going on over here earlier. I could hear the shouting from all the way over on Nakamichi Street."
 msgstr "Mmm... Algo <Italic>estaba</Italic> pasando por aquí hace un momento. Podía escuchar los gritos desde la calle Nakamichi."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "164_Akiyama"
 msgid "Nakamichi? So you didn't see anything, then?"
 msgstr "¿Nakamichi? ¿Entonces no vio nada?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Businessman
+#. y4:msg_speaker_id=0
 msgctxt "176_Businessman"
 msgid "Oh, heavens no. If I had, I certainly wouldn't be standing here now like nothing happened. I usually turn heel and run when I see fights breaking out."
 msgstr "Por Dios, no. Si hubiera visto algo, hubiera salido corriendo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "188_Akiyama"
 msgid "Huh, okay then. Thanks anyway."
 msgstr "Eh, está bien. Gracias de todos modos."
-

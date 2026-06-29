@@ -17,47 +17,101 @@ msgstr ""
 "X-Crowdin-File-ID: 61594\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
 msgctxt "148"
 msgid "You got <Color:8>15,000 yen<Color:Default>."
 msgstr "Obtuviste <Color:8>15 000 yenes<Color:Default>."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2076"
 msgid "Owner"
 msgstr "Propietario"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2080"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2084"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2088"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2092"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
 msgctxt "100_Owner"
 msgid "Oh, Tanimura-san... Heheh, sorry for causing you trouble."
 msgstr "Oh, Tanimura-san... Je, je, disculpa por haberte causado problemas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=2
 msgctxt "112_Tanimura"
 msgid "Yeah, you did. Anyway you never know what those types'll do once you warn them."
 msgstr "No te preocupes, nunca se sabe cómo reaccionará esa gente cuando los confrontas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=2
 msgctxt "124_Tanimura"
 msgid "Dealing with them can be dangerous, so you should call up the police next time."
 msgstr "Tratar con ese tipo de gente puede ser peligroso, así que la próxima vez deberías llamar a la policía."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
 msgctxt "136_Owner"
 msgid "Thank you so much. This is a little thank you for taking care of things for us, Tanimura-san."
 msgstr "De verdad, muchas gracias. Esto es solo un pequeño detalle, pero va de corazón, Tanimura-san..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
 msgctxt "220_Owner"
 msgid "Oh, Tanimura-san... Heheh, you really saved me there. I hope I can count on you when something happens again."
 msgstr "Ah, Tanimura-san... Je, je, gracias a usted estoy a salvo. Si necesito ayuda de nuevo, sé que puedo contar con usted."
-

@@ -17,67 +17,148 @@ msgstr ""
 "X-Crowdin-File-ID: 60810\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
 msgctxt "108"
 msgid "You got the <Color:8>Section Key<Color:Default>."
 msgstr "Conseguiste la <Color:8>llave de la sección<Color:Default>."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3040"
 msgid "Saito"
 msgstr "Saito"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3044"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3048"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3052"
 msgid "Talk_Syagamu_st"
 msgstr "Talk_Syagamu_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3056"
 msgid "Talk_Syagamu_ed"
 msgstr "Talk_Syagamu_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3060"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "3064"
 msgid "Idle"
 msgstr "Idle"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Saito
+#. y4:msg_speaker_id=0
 msgctxt "72_Saito"
 msgid "Dammit...!"
 msgstr "¡Mierda...!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "96_Saejima"
 msgid "Sorry, but I gotta borrow your key."
 msgstr "Lo siento, pero necesito que me prestes tu llave."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Saito
+#. y4:msg_speaker_id=0
 msgctxt "156_Saito"
 msgid "Heh. Go on, Saejima. Try and escape. We'll see how far you get."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "168_Saejima"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Saito
+#. y4:msg_speaker_id=0
 msgctxt "180_Saito"
 msgid "You're not the first who's tried to fly the coop. But guess what? Not a single soul has made it out."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Saito
+#. y4:msg_speaker_id=0
 msgctxt "192_Saito"
 msgid "Know why that is? 'Cause I've clipped their wings the moment they were dumb enough to try."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Saito
+#. y4:msg_speaker_id=0
 msgctxt "204_Saito"
 msgid "But go ahead, let's see how far you get. You're still nowhere close."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "240_Saejima"
 msgid "(Hamazaki just said to keep the guards busy, but it's easier to just flatten 'em all instead. Least I'll get the key quicker that way.)"
 msgstr ""
-

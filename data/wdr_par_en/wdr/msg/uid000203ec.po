@@ -10,32 +10,54 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1872"
 msgid "Old Man Oi"
 msgstr "Anciano Oi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1876"
 msgid "Homeless Hiyoshi"
 msgstr "Vagabundo Hiyoshi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1880"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1884"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1888"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Old Man Oi
+#. y4:msg_speaker_id=0
 msgctxt "84_Old Man Oi"
 msgid "You new in town?"
 msgstr "¿Eres nuevo por aquí?"
@@ -51,11 +73,25 @@ msgid "Sure, we all know the rumors. But I've been in this city\\r\na year alrea
 msgstr "Claro, todos conocemos el rumor. Pero he vivido aquí\\r\nun año y nunca le he visto ni el rastro."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Homeless Hiyoshi
+#. y4:msg_speaker_id=1
 msgctxt "120_Homeless Hiyoshi"
 msgid "Go figure. I reckon he only hires folks he can trust."
 msgstr "Quién sabe. Supongo que solo contrata a personas de confianza."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Old Man Oi
+#. y4:msg_speaker_id=0
 msgctxt "132_Old Man Oi"
 msgid "Well, that's a given. In the info biz, trust is everything."
 msgstr "Obvio. En el negocio de la información, la confianza lo es todo."
@@ -71,12 +107,25 @@ msgid "Well, you'd at least be making enough money to eat.\\r\nBut why should he
 msgstr "Bueno, ganarías lo suficiente para comer.\\r\nPero, ¿Por qué te contrataría? No tienes ningun\\r\ncontacto, y menos de donde sacar información."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Homeless Hiyoshi
+#. y4:msg_speaker_id=1
 msgctxt "168_Homeless Hiyoshi"
 msgid "Eh, you're probably right. Guess I should just forget it."
 msgstr "Eh, es verdad. Mejor lo olvido."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=4
 msgctxt "180_Saejima"
 msgid "(So this information broker's real enough, but no one's got any solid info on the guy... Figures.)"
 msgstr "(Así que este informante es real, pero no hay información sobre el tipo... Por supuesto)."
-

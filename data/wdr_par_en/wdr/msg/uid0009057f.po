@@ -10,33 +10,51 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1000"
 msgid "Boyfriend"
 msgstr "Novio"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1004"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1008"
 msgid "Girlfriend"
 msgstr "Novia"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1012"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1016"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1020"
 msgid "Talk_OK"
 msgstr "Talk_OK"
@@ -47,22 +65,49 @@ msgid "What do you say we go play some golf? I hear you\\r\ncan play a round for
 msgstr "¿Te animas a jugar golf? Escuché que podemos jugar\\r\nuna ronda a un precio bastante razonable."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Girlfriend
+#. y4:msg_speaker_id=2
 msgctxt "96_Girlfriend"
 msgid "That does sound kinda nice. But isn't it a bit far?"
 msgstr "Eso suena bastante bien. Pero, ¿no está un poco lejos?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Boyfriend
+#. y4:msg_speaker_id=0
 msgctxt "108_Boyfriend"
 msgid "Not if we take a taxi. We'd be there in no time."
 msgstr "No si tomamos un taxi. Llegaríamos en un santiamén."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Girlfriend
+#. y4:msg_speaker_id=2
 msgctxt "120_Girlfriend"
 msgid "Yeah? Okay, then let's get going!"
 msgstr "¿En serio? ¡Entonces vámonos!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Boyfriend
+#. y4:msg_speaker_id=0
 msgctxt "132_Boyfriend"
 msgid "You got it! We better hurry, 'cause the course closes at sundown."
 msgstr "¡Entendido! Es mejor que nos apuremos, porque el campo cierra al atardecer."
-

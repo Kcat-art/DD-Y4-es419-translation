@@ -10,72 +10,138 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "8156"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "8160"
 msgid "Takashi"
 msgstr "Takashi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "8164"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "8168"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "8172"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "8176"
 msgid "Man"
 msgstr "Hombre"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "8180"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "8184"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "8188"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "8192"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "188_Kiryu"
 msgid "So. You're looking for the Florist, right?"
 msgstr "Está buscando al Florista, ¿verdad?"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=1
 msgctxt "200_Takashi"
 msgid "Kiryu-san!"
 msgstr "¡Kiryu-san!"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=1
 msgctxt "212_Takashi"
 msgid "That's right. I've got a favor I wanna ask him."
 msgstr "Sí, quiero pedirle un favor."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "224_Kiryu"
 msgid "Hm. I know where to find him, but..."
 msgstr "Mmm. Sé dónde encontrarlo, pero..."
@@ -86,11 +152,33 @@ msgid "If you know, then you have to tell me! Please, it's really\\r\nimportant!
 msgstr "¡Si lo sabe, tiene que decírmelo! ¡Por favor, es muy\\r \nimportante!"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Turn Him Down
 msgctxt "260_Kiryu"
 msgid "Sorry, I can't tell you."
 msgstr "Lo siento, no puedo decírtelo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Turn Him Down
 msgctxt "272_Takashi"
 msgid "Huh? But..."
 msgstr "¿Eh? Pero..."
@@ -101,41 +189,117 @@ msgid "No, I understand. Sorry for putting you in that position,\\r\nKiryu-san."
 msgstr "No, lo entiendo. Perdón por ponerle en esa tesitura,\\r \nKiryu-san."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Take Him to the Florist
 msgctxt "296_Kiryu"
 msgid "All right, I'll take you to him."
 msgstr "Está bien, te llevaré con él."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Take Him to the Florist
 msgctxt "308_Takashi"
 msgid "You will!? Thanks a ton, Kiryu-san!"
 msgstr "¡¿En serio?! ¡Muchas gracias, Kiryu-san!"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=1
 msgctxt "332_Man"
 msgid "Kiryu-san!"
 msgstr "¡Kiryu-san!"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=5
 msgctxt "356_Man"
 msgid "Long time no see!"
 msgstr "¡Cuánto tiempo sin verle!"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "368_Kiryu"
 msgid "(Hey, isn't this the Florist's son?)"
 msgstr "(Oye, ¿no es el hijo del Florista?)"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "380_Kiryu"
 msgid "You're Takashi, right?"
 msgstr "¿Eres Takashi, verdad?"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=1
 msgctxt "392_Takashi"
 msgid "That's me!"
 msgstr "¡Así es!"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "404_Kiryu"
 msgid "Hey, good to see you."
 msgstr "Ey, qué gusto verte."
@@ -151,16 +315,43 @@ msgid "No chance. Kyoka and I are sailing smooth. Not a cloud in\\r\nthe sky."
 msgstr "Para nada. Kyoka y yo estamos mejor que nunca, todo va\\r \nsobre ruedas."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "440_Kiryu"
 msgid "Heh, glad to hear it."
 msgstr "Je, me alegro mucho."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=1
 msgctxt "452_Takashi"
 msgid "There <Italic>is</Italic> something I wanted to ask you, though."
 msgstr "Aunque sí hay <Italic>algo</Italic> que quería preguntarle."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=11
+#. y4:msg_location=T2.P11
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "464_Kiryu"
 msgid "What's that?"
 msgstr "¿Purgatorio?"
@@ -171,16 +362,43 @@ msgid "You know that time you helped me out a couple of years ago?\\r\nWe went t
 msgstr "¿Recuerda cuando me ayudó hace un par de años?\\r \nFuimos a ver a aquel informante en la Torre Millennium,\\r \n¿se acuerda?"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=13
+#. y4:msg_location=T2.P13
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "488_Kiryu"
 msgid "In the Millennium Tower?"
 msgstr "¿En la Torre Millennium?"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=14
+#. y4:msg_location=T2.P14
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "500_Kiryu"
 msgid "(Now that I think about it, the Florist <Italic>was</Italic> shacked up in there for a little while.)"
 msgstr "(Pensándolo bien, el Florista <Italic>estuvo</Italic> allí un tiempo.)"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=15
+#. y4:msg_location=T2.P15
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "512_Kiryu"
 msgid "Oh, right. You must be talking about the Florist of Sai."
 msgstr "Ah, cierto. Debes estar hablando del Florista de Sai."
@@ -196,16 +414,43 @@ msgid "I tried going back to that same room in the Millennium\\r\nTower, but it 
 msgstr "Intenté volver a esa misma sala en la Torre\\r \nMillennium, ¡pero la convirtieron en una especie de oficina yakuza! ¡Casi no podía creerlo!"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=18
+#. y4:msg_location=T2.P18
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "548_Kiryu"
 msgid "What do you need the Florist for?"
 msgstr "¿Y para qué necesitas al Florista?"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=19
+#. y4:msg_location=T2.P19
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=1
 msgctxt "560_Takashi"
 msgid "Well, I've got a favor I wanna ask him."
 msgstr "Pues, tengo un favor que pedirle."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "572_Kiryu"
 msgid "Hm. I know where to find him, but..."
 msgstr "Mmm. Sé dónde encontrarlo, pero..."
@@ -216,11 +461,33 @@ msgid "If you know, then you have to tell me! Please, it's really\\r\nimportant!
 msgstr "¡Si lo sabe, tiene que decírmelo! ¡Por favor, es muy\\r \nimportante!"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Turn Him Down
 msgctxt "608_Kiryu"
 msgid "Sorry, I can't tell you."
 msgstr "Lo siento, no puedo decírtelo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Turn Him Down
 msgctxt "620_Takashi"
 msgid "Huh? But..."
 msgstr "¿Eh? Pero..."
@@ -231,32 +498,105 @@ msgid "No, I understand. Sorry for putting you in that position,\\r\nKiryu-san."
 msgstr "No, lo entiendo. Perdón por ponerle en esa tesitura,\\r \nKiryu-san."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Take Him to the Florist
 msgctxt "644_Kiryu"
 msgid "All right, I'll take you to him."
 msgstr "Está bien, te llevaré con él."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Take Him to the Florist
 msgctxt "656_Takashi"
 msgid "You will!? Thanks a ton, Kiryu-san!"
 msgstr "¡¿En serio?! ¡Muchas gracias, Kiryu-san!"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P6
+#. y4:msg_branch_segment=T1.P6..P8
+#. y4:msg_branch_target_text=Sorry, I can't tell you.
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "680_Kiryu"
 msgid "Turn Him Down"
 msgstr "Rechazarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P9
+#. y4:msg_branch_segment=T1.P9..P11
+#. y4:msg_branch_target_text=All right, I'll take you to him.
+#. y4:msg_branch_raw=01 11 00 09 00 00 00 17 00 00 00 00 00 00 00 00
 msgctxt "692_Kiryu"
 msgid "Take Him to the Florist"
 msgstr "Llevarlo con el Florista"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P6
+#. y4:msg_branch_segment=T1.P6..P8
+#. y4:msg_branch_target_text=Sorry, I can't tell you.
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "704_Kiryu"
 msgid "Turn Him Down"
 msgstr "Rechazarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P9
+#. y4:msg_branch_segment=T1.P9..P11
+#. y4:msg_branch_target_text=All right, I'll take you to him.
+#. y4:msg_branch_raw=01 11 00 09 00 00 00 17 00 00 00 00 00 00 00 00
 msgctxt "716_Kiryu"
 msgid "Take Him to the Florist"
 msgstr "Llevarlo con el Florista"
-

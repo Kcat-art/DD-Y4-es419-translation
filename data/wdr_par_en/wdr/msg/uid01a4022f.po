@@ -17,38 +17,69 @@ msgstr ""
 "X-Crowdin-File-ID: 62272\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
 msgctxt "68"
 msgid "You got a <Color:8>Diamond<Color:Default>."
 msgstr "Has obtenido un <Color:8>diamante<Color:Default>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
 msgctxt "212"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2616"
 msgid "Oyamada"
 msgstr "Oyamada"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2620"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2624"
 msgid "Makiko"
 msgstr "Makiko"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2628"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2632"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2636"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "2640"
 msgid "dummy"
 msgstr "dummy"
@@ -67,23 +98,57 @@ msgstr "¿Mm, mami? Creo que le daré un intento a esto del espectáculo\\r\n"
 "por un tiempo. No todo es color de rosas,\\r\n"
 "pero es mi trabajo. Y no está nada mal－ dejando los fanboys locos de lado."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Oyamada
+#. y4:msg_speaker_id=0
 msgctxt "104_Oyamada"
 msgid "Makiko..."
 msgstr "Makiko..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=3
 msgctxt "116_Saejima"
 msgid "Good on ya. Break a leg, alright? I'll be sure to buy your record when it comes out."
 msgstr "Bien por ti. Rómpete una pierna. Te aseguro que compraré tu disco cuando salga."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=2
 msgctxt "128_Makiko"
 msgid "Wha... My \"record\"? Hahaha! You're too much!"
 msgstr "¿Qué.. mi \"Disco\"? ¡Jajaja! ¡No exageres!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=3
 msgctxt "140_Saejima"
 msgid "Uh, what'd I say?"
 msgstr "¿Eh, Qué dijiste?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=2
 msgctxt "152_Makiko"
 msgid "Nothing, nothing! Be sure to buy my \"record,\" okay? Byeee!"
 msgstr "¡Nada, nada! Asegúrate de comprar mi \"Disco\", ¿vale? ¡Byeee!"
-

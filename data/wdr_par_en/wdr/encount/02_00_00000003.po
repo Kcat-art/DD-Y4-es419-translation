@@ -10,133 +10,276 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4384"
 msgid "Man"
 msgstr "Hombre"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4388"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4392"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4396"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4400"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4404"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "4408"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "4412"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "I bet you know your way around a fight, old man."
 msgstr "Apuesto a que sabes pelear, viejo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "140_Man"
 msgid "Better brace yerself, 'cause this might sting a little!"
 msgstr "¡Más vale que te prepares, porque esto va a doler un poco!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Man"
 msgid "Lately, there hasn't been anything going on. It's enough to bum a guy out."
 msgstr "Últimamente, no ha pasado nada emocionante. Es suficiente para deprimir a cualquiera."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "164_Man"
 msgid "So I decided to go all-out and enjoy a night on the town. Too bad I don't have the money for it. So without further ado, hand over your cash!"
 msgstr "Así que decidí salir a darlo todo y disfrutar de la noche. Lástima que no tengo dinero para eso. ¡Así que, sin más preámbulos, entrega tu dinero!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "176_Man"
 msgid "You're a bad guy, aren't you? You like doing bad things to people, do you?"
 msgstr "Eres un tipo malo, ¿verdad? ¿Te gusta hacerle cosas malas a la gente, no?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "188_Man"
 msgid "Well, I'm the good guy who gets bad guys like you off our streets. Get ready for a good old-fashioned beatdown!"
 msgstr "Pues yo soy el tipo bueno que saca a los malos como tú de nuestras calles. ¡Prepárate para una paliza de las buenas!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "224_Man"
 msgid "How'd that happen? You're one strong S.O.B., you know that?"
 msgstr "¿Cómo pasó eso? Eres un hijo de puta muy fuerte, ¿lo sabías?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "236_Man"
 msgid "Sorry for jumpin' you like that. Take this, and try to find it in your heart to forgive me."
 msgstr "Perdón por atacarte así. Toma esto y trata de encontrar en tu corazón la manera de perdonarme."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
 msgctxt "248_Man"
 msgid "You got a heartful %s."
 msgstr "Obtuviste un %s."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "272_Man"
 msgid "Damn, you're strong! I've never been kicked that hard in my life."
 msgstr "¡Maldita sea, eres fuerte! Nunca me han pateado tan fuerte en mi vida."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "284_Man"
 msgid "There's no way I can beat you. Just take this and forget it ever happened."
 msgstr "No hay forma de que pueda ganarte. Sólo toma esto y olvida lo que pasó."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
 msgctxt "296_Man"
 msgid "You got a ramen-scented %s."
 msgstr "Obtuviste un %s."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "320_Man"
 msgid "Ow... Shit, man. You got some muscles. Here I thought the good guy always wins. Guess I was wrong."
 msgstr "Ay... Mierda, amigo. Tienes músculos. Yo pensaba que el bueno siempre ganaba. Supongo que estaba equivocado."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "332_Man"
 msgid "Here, uh... this is for you. Please forgive me."
 msgstr "Mira, eh... esto es para ti. Por favor, perdóname."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=11
+#. y4:msg_location=T2.P11
 msgctxt "344_Man"
 msgid "You got a lint-covered %s."
 msgstr "Obtuviste un %s."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "392_Man"
 msgid "I'm through pickin' fights. It just ain't my style."
 msgstr "Ya no voy a andar buscando pleitos. No es lo mío."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=2
+#. y4:msg_location=T3.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "404_Man"
 msgid "Never thought I'd wind up so black and blue."
 msgstr "Nunca pensé que acabaría tan golpeado."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=3
+#. y4:msg_location=T3.P3
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "416_Man"
 msgid "Forgive me, won't you? I'm a changed man."
 msgstr "Perdóname, ¿quieres? He cambiado."
-

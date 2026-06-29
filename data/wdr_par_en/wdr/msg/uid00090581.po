@@ -17,42 +17,84 @@ msgstr ""
 "X-Crowdin-File-ID: 60592\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1564"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1568"
 msgid "Old Man"
 msgstr "Abuelo"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1572"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1576"
 msgid "Talk_Mail_st"
 msgstr "Talk_Mail_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1580"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1584"
 msgid "Talk_Mail_ed"
 msgstr "Talk_Mail_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "1588"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "84_Tanimura"
 msgid "Excuse me. Do you happen to be familiar with the area around here?"
 msgstr "Disculpa. ¿Se les hace familiar esta zona?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Old Man
+#. y4:msg_speaker_id=1
 msgctxt "96_Old Man"
 msgid "That I am. Been living in Kamurocho for 40-some-odd years."
 msgstr "Vivo en Kamurocho hace 40 años. Conozco este barrio como si fuera la palma de mi mano."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "108_Tanimura"
 msgid "Okay, perfect. Have you ever seen the area in this picture?"
 msgstr "Oh, ¡Perfecto! ¿Sabes donde es la zona de esta foto?"
@@ -63,15 +105,35 @@ msgid "Hrrrmmm... I think I've seen these buildings somewhere\\r\n"
 msgstr "Ehmmm... Creo que vi esos edificios en algún lugar\\r\n"
 "al sudeste. Aja. Aquel edificio rojo se me hace familiar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Old Man
+#. y4:msg_speaker_id=1
 msgctxt "132_Old Man"
 msgid "...Though, I can't seem to recall the exact place. You see, this city's changed quite a lot, what with all the new developments and such. You'll have to excuse me."
 msgstr "... No puedo recordar exactamente el lugar. Esta ciudad ha cambiado tanto y sigue cambiando, discúlpame, no puedo saber donde queda el edificio."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "156_Tanimura"
 msgid "Actually, you helped me out a lot. Thank you."
 msgstr "Bueno, en realidad me ayudaste mucho. Gracias, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "168_Tanimura"
 msgid "(Okay... Southeast Kamurocho it is.)"
 msgstr "(Ok... para el sudeste de Kamurocho.)"
-

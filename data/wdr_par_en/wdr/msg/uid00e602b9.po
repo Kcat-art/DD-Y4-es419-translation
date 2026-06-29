@@ -17,127 +17,295 @@ msgstr ""
 "X-Crowdin-File-ID: 58674\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4524"
 msgid "Costumed Man"
 msgstr "Hombre Disfrazado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4528"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4532"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4536"
 msgid "Maya"
 msgstr "Maya"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4540"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4544"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "4548"
 msgid "P_stand_tlk_udekumi_st"
 msgstr "P_stand_tlk_udekumi_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "4552"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "4556"
 msgid "P_stand_tlk_udekumi_ed"
 msgstr "P_stand_tlk_udekumi_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "4560"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "4564"
 msgid "F_sxy_stand_sync_dakitukiA_st"
 msgstr "F_sxy_stand_sync_dakitukiA_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "4568"
 msgid "P_stand_sync_dakitukiA_st"
 msgstr "P_stand_sync_dakitukiA_st"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Costumed Man
+#. y4:msg_speaker_id=0
 msgctxt "56_Costumed Man"
 msgid "You're under arrest for... assaulting an officer..."
 msgstr "Está bajo arresto por... agredir a un oficial..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "68_Kiryu"
 msgid "Give me a break. You're the one who should be arrested. For impersonating a police officer."
 msgstr "Por favor. Tú eres el que debería ser arrestado. Por hacerse pasar por un oficial de policía."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Costumed Man
+#. y4:msg_speaker_id=0
 msgctxt "80_Costumed Man"
 msgid "Huh? That's illegal?"
 msgstr "¿Qué? ¿Eso era ilegal?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "152_Kiryu"
 msgid "Some guys come up with bizarre ways to pick up girls..."
 msgstr "A algunos tipos se les ocurren ideas muy locas para ligar con chicas..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=3
 msgctxt "164_Maya"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "176_Kiryu"
 msgid "You okay?"
 msgstr "¿Estás bien?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=3
 msgctxt "188_Maya"
 msgid "I'd been thinking about leaving the club so I could focus more on modeling, but now I'm going to stay a little longer."
 msgstr "Había estado pensando en dejar el club para poder centrarme más en el modelaje, pero ahora me voy a quedar un poco más."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "200_Kiryu"
 msgid "Why?"
 msgstr "¿Tú?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=3
 msgctxt "212_Maya"
 msgid "I'm not a very good judge of people."
 msgstr "No soy muy buena juzgando a la gente."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "224_Kiryu"
 msgid "You didn't do anything wrong, it was his fault."
 msgstr "No hiciste nada malo, fue su culpa."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=3
 msgctxt "236_Maya"
 msgid "I know, but I think if I work at the club a while longer, I'll get more life experience."
 msgstr "Lo sé, pero creo que si trabajo en el club un poco más, conseguiré más experiencia."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=3
 msgctxt "248_Maya"
 msgid "Then maybe I'll be a better judge of people."
 msgstr "Entonces creo que podré juzgar mejor a la gente."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=3
 msgctxt "260_Kiryu"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=3
 msgctxt "272_Maya"
 msgid "Plus, it's where I met you. I can't really imagine leaving anymore!"
 msgstr "Además, es donde te encontré. ¡No puedo imaginarme yéndome!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "284_Kiryu"
 msgid "I see."
 msgstr "Ya veo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=3
 msgctxt "296_Maya"
 msgid "I've been thinking... We could take our relationship up a notch, just for today."
 msgstr "He estado pensando... Podríamos llevar nuestra relación a un nivel superior, solo por hoy."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "308_Kiryu"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=23
+#. y4:msg_location=T0.P23
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=3
 msgctxt "332_Costumed Man"
 msgid "Let's go out on a date. Not as a hostess and her customer, but as a man and a woman."
 msgstr "Vamos a salir en una cita. No como una hostess y su cliente, sino como un hombre y una mujer."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "344_Kiryu"
 msgid "Sounds good."
 msgstr "Me parece bien."
-

@@ -11,62 +11,125 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1496"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1500"
 msgid "Shiobara"
 msgstr "Shiobara"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1504"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1508"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1512"
 msgid "Talk_Info_L"
 msgstr "Talk_Info_L"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "152_Akiyama"
 msgid "Shiobara?"
 msgstr "¿Tú no eres Shiobara?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=3
+#. y4:msg_location=T3.P3
+#. y4:msg_speaker=Shiobara
+#. y4:msg_speaker_id=1
 msgctxt "176_Shiobara"
 msgid "Oh, Akiyama-san."
 msgstr "Oh, Akiyama-san."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=4
+#. y4:msg_location=T3.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "188_Akiyama"
 msgid "What are you doing on this side of town?"
 msgstr "¿Qué haces por aquí?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=5
+#. y4:msg_location=T3.P5
+#. y4:msg_speaker=Shiobara
+#. y4:msg_speaker_id=1
 msgctxt "200_Shiobara"
 msgid "Actually, I was just on my way to see you."
 msgstr "En realidad, ahora mismo estaba yendo a verte."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=6
+#. y4:msg_location=T3.P6
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "212_Akiyama"
 msgid "Me?"
 msgstr "¿A mí?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=7
+#. y4:msg_location=T3.P7
+#. y4:msg_speaker=Shiobara
+#. y4:msg_speaker_id=1
 msgctxt "224_Shiobara"
 msgid "Uh-huh."
 msgstr "Así es."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=8
+#. y4:msg_location=T3.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "236_Akiyama"
 msgid "All right, let's head upstairs, then."
 msgstr "Bueno, vamos a la oficina entonces."
-

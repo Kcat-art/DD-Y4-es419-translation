@@ -17,19 +17,42 @@ msgstr ""
 "X-Crowdin-File-ID: 62876\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1648"
 msgid "Officer"
 msgstr "Oficial"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Officer
+#. y4:msg_speaker_id=0
 msgctxt "104_Officer"
 msgid "Um... What were you doing all this time?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Officer
+#. y4:msg_speaker_id=0
 msgctxt "116_Officer"
 msgid "We had to arrest all of them ourselves. You were completely useless."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Officer
+#. y4:msg_speaker_id=0
 msgctxt "128_Officer"
 msgid "Try a little harder next time, okay?"
 msgstr ""
-

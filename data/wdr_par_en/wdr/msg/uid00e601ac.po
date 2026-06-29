@@ -17,26 +17,52 @@ msgstr ""
 "X-Crowdin-File-ID: 62384\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1272"
 msgid "Tadashi"
 msgstr "Tadashi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1276"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1280"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1284"
 msgid "Tadokoro's Underling"
 msgstr "Súbdito de Tadakoro"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Tadashi
+#. y4:msg_speaker_id=0
 msgctxt "68_Tadashi"
 msgid "I knew it. You're crazy strong, big guy!"
 msgstr "Lo sabía. ¡Estás fuertísimo, grandulón!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "80_Saejima"
 msgid "Thanks for noticin'."
 msgstr "Gracias por notarlo."
@@ -47,7 +73,13 @@ msgid "Whoever you are... you're a dead man walking...\\r\n"
 msgstr "Sea quien seas... eres hombre muerto...\\r\n"
 "Seguro que el jefe lo vio todo..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "104_Saejima"
 msgid "So Tadokoro's office is in there, huh? I'm goin' in."
 msgstr "¿Entonces la oficina de Tadakoro está aquí, eh? Voy a entrar."
-

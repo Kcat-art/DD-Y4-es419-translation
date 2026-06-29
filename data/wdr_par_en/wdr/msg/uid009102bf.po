@@ -17,87 +17,193 @@ msgstr ""
 "X-Crowdin-File-ID: 58444\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3112"
 msgid "Troubled Youth"
 msgstr "Joven Problemático"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3116"
 msgid "Volunteer"
 msgstr "Voluntario"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3120"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3124"
 msgid "Idle"
 msgstr "Idle"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3128"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3132"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "3136"
 msgid "Ill-natured Young Man"
 msgstr "Joven Perverso"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "3140"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "3144"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "3148"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Troubled Youth
+#. y4:msg_speaker_id=0
 msgctxt "124_Troubled Youth"
 msgid "The Kamurocho Guard!? What the hell is that? You superheroes or somethin'? Bwahaha!"
 msgstr "¿La Guardia de Kamurocho? ¿Pero qué payasada es esa? ¿Se creen los Vengadores o qué? ¡Juar, juar, juar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Volunteer
+#. y4:msg_speaker_id=1
 msgctxt "136_Volunteer"
 msgid "Eek! No more!"
 msgstr "¡Aaah! ¡No más!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "148_Kiryu"
 msgid "Huh? What the...!?"
 msgstr "¿Eh? ¡¿Pero qué...?!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "160_Kiryu"
 msgid "Hey, that's enough. Seeing weak fools like you trying to act big just pisses me off."
 msgstr "Hey, suficiente. Ver unos tipejos actuando que si fueran fuertes dan pena."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Troubled Youth
+#. y4:msg_speaker_id=0
 msgctxt "172_Troubled Youth"
 msgid "And who the hell are you, old man? You'd best stay the fuck out of our business!"
 msgstr "¿¡Ah!? ¿Qué quieres, vejestorio? ¡No te metas en nuestro juego!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "184_Kiryu"
 msgid "So weaklings like you picking on even weaker guys is called business now? Sounds like a pretty shitty business to me."
 msgstr "¿Así que para unos tontos esto es un juego? ¿Pegarle entre dos? Suena muy cobarde para mí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
+#. y4:msg_speaker=Ill-natured Young Man
+#. y4:msg_speaker_id=6
 msgctxt "196_Ill-natured Young Man"
 msgid "What'd you say? I don't know who you think you are, gramps, but you're fixing to get a lesson in the art of ass kicking!"
 msgstr "¿Qué dijiste, viejo decrépito? ¡Te vamos a partir la cabeza a patadas!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=8
+#. y4:msg_location=T2.P8
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "208_Kiryu"
 msgid "We'll see who will be teaching whom."
 msgstr "Inténtelo, no será culpa mía que lleguen con algo roto, aparte del orgullo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Ill-natured Young Man
+#. y4:msg_speaker_id=6
 msgctxt "220_Ill-natured Young Man"
 msgid "Heheh. This old man is actually pretty funny. All right then, let the lesson start!"
 msgstr "¡Vaya, eres un viejo interesante! ¡Perfecto! ¡Entonces, que el viejo sea nuestro compañero de juegos!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "232_Kiryu"
 msgid "Shut it and fight already. Unlike you guys, picking on small fry isn't my thing. So I'll make this quick and painful."
 msgstr "Cállense y peleemos de una vez. A diferencia de ustedes, no me divierte abusar de los débiles. Terminemos con esto ya."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=11
+#. y4:msg_location=T2.P11
+#. y4:msg_speaker=Ill-natured Young Man
+#. y4:msg_speaker_id=6
 msgctxt "244_Ill-natured Young Man"
 msgid "Haha. Come on! Let's break this guy's mouth so we don't have to hear it anymore!"
 msgstr "¡Hijo de...! ¡Oye, rompámosle la boca a este viejo arrogante!"
-

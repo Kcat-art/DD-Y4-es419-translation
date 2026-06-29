@@ -10,72 +10,136 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
 msgctxt "200"
 msgid "You gained 10,000 EXP.\t"
 msgstr "Has ganado 10 000 EXP.\t"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1628"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1632"
 msgid "Erena"
 msgstr "Erena"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1636"
 msgid "F_sxy_stand_sync_dakitukiA_ed"
 msgstr "F_sxy_stand_sync_dakitukiA_ed"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1640"
 msgid "P_stand_sync_dakitukiA_ed"
 msgstr "P_stand_sync_dakitukiA_ed"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1644"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1648"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "1652"
 msgid "P_aki_stand"
 msgstr "P_aki_stand"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "1656"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "68_Akiyama"
 msgid "So? Do you think you understand me now?"
 msgstr "¿Qué tal? ¿Me conoces mejor ahora?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=1
 msgctxt "80_Erena"
 msgid "Yup... You're exactly the kind of man I thought ya'd be!"
 msgstr "¡Sí... Eres justo el tipo de hombre que pensaba que serías! ♥"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "92_Akiyama"
 msgid "Really."
 msgstr "¿De verdad?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=1
 msgctxt "104_Erena"
 msgid "There's still more we can learn about each other, though. We'll have to do this again!"
 msgstr "Pero, todavía hay cosas que quiero saber de ti y que quiero que sepas de mí. ¡Espero que sigamos en contacto! ♪"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "116_Akiyama"
 msgid "Sure."
 msgstr "Claro."
@@ -84,4 +148,3 @@ msgstr "Claro."
 msgctxt "128_Erena"
 msgid "I love you. <Color:255,200,200,255>♥<Color:Default>"
 msgstr "Te amo. <Color:255,200,200,255>♥<Color:Default>"
-

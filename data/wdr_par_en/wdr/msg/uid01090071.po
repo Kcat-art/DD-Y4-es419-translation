@@ -17,30 +17,51 @@ msgstr ""
 "X-Crowdin-File-ID: 61778\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3276"
 msgid "Angry Homeless Man"
 msgstr "Vagabundo enojado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3280"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3284"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3288"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3292"
 msgid "Rowdy Homeless Man"
 msgstr "Hombre Sintecho Ruidoso"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3296"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "3300"
 msgid "dummy"
 msgstr "dummy"
@@ -50,6 +71,13 @@ msgid "So he got you too, huh? That damned thief's been causing\\r\n"
 "a whole heap of trouble around here lately."
 msgstr "¿A tí también, eh? Ese maldito ladrón ha estado causando un montón de problemas por aquí últimamente."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "68_Saejima"
 msgid "Thief?"
 msgstr "¿Ladrón?"
@@ -59,6 +87,13 @@ msgid "I'm telling you, that's no petty thief. It's a kappa!\\r\n"
 "A green and slimy kappa!"
 msgstr "Te lo digo, eso no es un simple ladrón. ¡Es un kappa! ¡Un kappa verde y viscoso!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "92_Saejima"
 msgid "Ka-what now?"
 msgstr "¿Ca-pa? No entiendo."
@@ -68,6 +103,13 @@ msgid "Ain't no such thing as kappas! It was a common crook,\\r\n"
 "plain and simple."
 msgstr "¡No existen los kappas! Solo era un delincuente común y corriente, así de simple."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "116_Saejima"
 msgid "Don't much care which it was. Whaddya know 'bout him?"
 msgstr "No me importa lo que fuera. ¿Qué sabes de él?"
@@ -78,14 +120,35 @@ msgid "For whatever reason, this thief only steals food.\\r\n"
 msgstr "Por alguna razón, este ladrón solo roba comida.\n"
 "Se llevó hasta mis pepinos con pasta de miso."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "140_Saejima"
 msgid "Say what?"
 msgstr "¿Qué dijiste?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Angry Homeless Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Angry Homeless Man"
 msgid "You know. Cucumbers with that special sauce on 'em?"
 msgstr "Ya sabes. ¿Los pepinos con esa salsa especial?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "164_Saejima"
 msgid "Sure, I know 'em. But you're sayin' he stole cucumbers?"
 msgstr "Claro, los conozco. ¿Pero me estás diciendo que robó unos pepinos?"
@@ -100,6 +163,13 @@ msgid "I told you, it's a kappa! Kappas are crazy for cukes.\\r\n"
 "Everybody knows that!"
 msgstr "¡Te dije que era un kappa! ¡Los kappas se vuelven locos por los pepinos! ¡Es cultura general!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Rowdy Homeless Man
+#. y4:msg_speaker_id=4
 msgctxt "200_Rowdy Homeless Man"
 msgid "Laugh all you want, but I swear I saw a kappa in Children's Park, hiding under the manhole. I bet it's the same one!"
 msgstr "Ríete todo lo que quieras, pero te juro que vi un kappa en el Parque Infantil, escondido debajo de la alcantarilla. ¡Apuesto a que es el mismo!!"
@@ -108,4 +178,3 @@ msgctxt "212_Saejima"
 msgid "Enough kappa crap. I'm gonna look around Children's Park\\r\n"
 "and get to the bottom of this."
 msgstr "Basta ya de los kappas. Voy a echar un vistazo al Parque Infantil y llegaré al fondo de esto."
-

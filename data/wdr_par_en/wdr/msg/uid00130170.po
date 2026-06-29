@@ -17,18 +17,30 @@ msgstr ""
 "X-Crowdin-File-ID: 62756\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "712"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "716"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "720"
 msgid "Tired-Looking Man"
 msgstr "Hombre con Aspecto Cansado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "724"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
@@ -39,7 +51,13 @@ msgid "Hey, you guys. You're getting in the way. Go\\r\n"
 msgstr "¡Oigan, ustedes! Están obstaculizando el paso.\\r\n"
 "Vayan a otro lado."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Tired-Looking Man
+#. y4:msg_speaker_id=2
 msgctxt "96_Tired-Looking Man"
 msgid "Well looky here. A little punk with big mouth! You looking to be on the bad end of a beat down?"
 msgstr "¿Eh? Vaya, llegó un metiche... ¿Acaso quieres que te lastime?"
-

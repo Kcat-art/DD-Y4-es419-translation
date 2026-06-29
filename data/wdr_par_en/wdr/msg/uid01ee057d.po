@@ -17,71 +17,235 @@ msgstr ""
 "X-Crowdin-File-ID: 62662\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Read It -> T1.P4 | 2. Not Now -> T1.P8
 msgctxt "208"
 msgid "Read Night Magazine?"
 msgstr ""
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. Take It -> T1.P10 | 2. Don't Take It -> T1.P13
 msgctxt "280"
 msgid "Take a copy of Night Magazine?"
 msgstr ""
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not Now
 msgctxt "304"
 msgid "You got a copy of Night Magazine."
 msgstr ""
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2292"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2296"
 msgid "2d_cf_zasshi_naimaga00"
 msgstr "2d_cf_zasshi_naimaga00"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "160_Player"
 msgid "(Night Magazine. Looks like it dishes out info on cabaret clubs. Don't think this is for me.)"
 msgstr ""
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "184_Player"
 msgid "(I already have a copy of Night Magazine...)"
 msgstr ""
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "196_Player"
 msgid "(It's a copy of Night Magazine.)"
 msgstr ""
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Read It
 msgctxt "232_Player"
 msgid "(Night Magazine. It's chock full of information about all the local cabaret clubs.)"
 msgstr ""
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Read It
 msgctxt "244_Player"
 msgid "(Night Magazine comes with some sweet coupons. I can use them to get discounts at different clubs.)"
 msgstr ""
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not Now
 msgctxt "268_Player"
 msgid "(Not right now...)"
 msgstr "(Ahora no...)"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not Now
 msgctxt "292_Player"
 msgid "(I'll take one with me.)"
 msgstr "(Me llevaré uno conmigo)"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not Now
 msgctxt "328_Player"
 msgid "(Not right now...)"
 msgstr "(Ahora no...)"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P7
+#. y4:msg_branch_target_text=(Night Magazine. It's chock full of information about all the local cabaret clubs.)
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "340_Player"
 msgid "Read It"
 msgstr ""
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P8
+#. y4:msg_branch_segment=T1.P8..P13
+#. y4:msg_branch_target_text=(Not right now...)
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "352_Player"
 msgid "Not Now"
 msgstr "Ahora no"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P10
+#. y4:msg_branch_segment=T1.P10..P12
+#. y4:msg_branch_target_text=(I'll take one with me.)
+#. y4:msg_branch_raw=01 11 00 0a 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "364_Player"
 msgid "Take It"
 msgstr "Tomarlo"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P13
+#. y4:msg_branch_segment=T1.P13..P13
+#. y4:msg_branch_target_text=(Not right now...)
+#. y4:msg_branch_raw=01 11 00 0d 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "376_Player"
 msgid "Don't Take It"
 msgstr "No Tomarlo"
-

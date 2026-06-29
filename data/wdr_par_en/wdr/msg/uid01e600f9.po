@@ -17,75 +17,170 @@ msgstr ""
 "X-Crowdin-File-ID: 60830\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
 msgctxt "188"
 msgid "*beep* *beep* *beep*"
 msgstr "*bip* *bip* *bip*"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1920"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1924"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1928"
 msgid "Fay"
 msgstr "Fay"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1932"
 msgid "Isawa"
 msgstr "Isawa"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1936"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1940"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "1944"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "92_Tanimura"
 msgid "Tanimura here."
 msgstr "Aquí Tanimura."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Fay
+#. y4:msg_speaker_id=2
 msgctxt "104_Fay"
 msgid "Help! Help me!"
 msgstr "¡Ayuda! ¡Ayuda, por favor!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "116_Tanimura"
 msgid "Fay? Where are you!?"
 msgstr "¿Fay? ¿¡Dónde estás!?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Fay
+#. y4:msg_speaker_id=2
 msgctxt "128_Fay"
 msgid "At work! Isawa is here!"
 msgstr "¡En el trabajo! ¡Isawa está aquí!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "140_Tanimura"
 msgid "Where's this place at?"
 msgstr "¿Dónde está ese lugar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Fay
+#. y4:msg_speaker_id=2
 msgctxt "152_Fay"
 msgid "North Pink Street! It's a club called Purple Moon!"
 msgstr "¡North Pink Street! ¡Es un club que se llama Purple Moon!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Isawa
+#. y4:msg_speaker_id=3
 msgctxt "164_Isawa"
 msgid "Hey! Who the hell you talkin' to!?"
 msgstr "¡Oye! ¿¡Con quién demonios estás hablando!?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Fay
+#. y4:msg_speaker_id=2
 msgctxt "176_Fay"
 msgid "Eeeeek!"
 msgstr "¡Aaaaah!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "248_Tanimura"
 msgid "Damn! Isawa's already there..."
 msgstr "¡Maldición! Isawa ya está ahí..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "260_Tanimura"
 msgid "Okay... Purple Moon, North Pink Street. Be right there!"
 msgstr "Bien... Purple Moon, North Pink Street. ¡Allá voy!"
-

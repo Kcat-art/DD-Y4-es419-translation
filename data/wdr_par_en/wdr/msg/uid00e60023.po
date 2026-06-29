@@ -17,115 +17,258 @@ msgstr ""
 "X-Crowdin-File-ID: 59494\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4304"
 msgid "Rio"
 msgstr "Rio"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4308"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4312"
 msgid "Company President"
 msgstr "Presidente de la empresa"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4316"
 msgid "3_-110_MOUNTAIN_VF_OFF"
 msgstr "3_-110_MOUNTAIN_VF_OFF"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4320"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4324"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "4328"
 msgid "Photographer"
 msgstr "Fotógrafo"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "4332"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "4336"
 msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "4340"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "4344"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "4348"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "4352"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "56_Rio"
 msgid "No! That's not what I was told! I was just supposed to listen to what you had to say today!"
 msgstr "¡No! ¡Eso no es lo que me dijeron! ¡Se suponía que debía escuchar lo que tuvieras que decir!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Company President
+#. y4:msg_speaker_id=2
 msgctxt "80_Company President"
 msgid "Don't waste time talking. Go ahead and take your clothes off. It's no big deal."
 msgstr "No pierdas el tiempo hablando. Anímate y quítate la ropa. No es gran cosa."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "92_Rio"
 msgid "But... Who are these other people?"
 msgstr "Pero... ¿Quiénes son estas otras personas?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Photographer
+#. y4:msg_speaker_id=6
 msgctxt "104_Photographer"
 msgid "It's all right. Just show us a little of that confidence you have and start taking off those clothes."
 msgstr "Está bien. Solo muéstranos un poco de esa confianza que tienes y comienza a quitarte esa ropa."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "116_Rio"
 msgid "I..."
 msgstr "Yo..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=7
 msgctxt "128_Akiyama"
 msgid "Just a minute!"
 msgstr "¡Bienvenido!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Company President
+#. y4:msg_speaker_id=2
 msgctxt "140_Company President"
 msgid "Who the hell are you!?"
 msgstr "¿Quién carajos eres?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=7
 msgctxt "152_Akiyama"
 msgid "I did a background check on this so-called talent agency of yours. It's actually a call girl service, isn't it?"
 msgstr "He hecho una investigación de esta supuesta agencia de talentos. Es en realidad un servicio de acompañantes, ¿verdad?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "164_Rio"
 msgid "What? Is that true!?"
 msgstr "¿Qué? ¿¡Es eso cierto!?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Company President
+#. y4:msg_speaker_id=2
 msgctxt "176_Company President"
 msgid "You can't prove that!"
 msgstr "¡No puedes demostrarlo!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=7
 msgctxt "188_Akiyama"
 msgid "I suppose you use the pictures you take to blackmail the girls into doing what you want. It sounds like you've thought it all through."
 msgstr "Supongo que usas las fotografías que tomas para chantajear a las chicas para que hagan lo que tú quieres. Parece que lo tienes todo pensado."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Photographer
+#. y4:msg_speaker_id=6
 msgctxt "200_Photographer"
 msgid "Shit!"
 msgstr "¡Mierda!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "212_Rio"
 msgid "But..."
 msgstr "Pero..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=7
 msgctxt "224_Akiyama"
 msgid "Sorry, fellas, but I won't allow you to have your way with Rio-chan."
 msgstr "Lo siento, chicos, pero no permitiré que se salgan con la suya con Rio-chan."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Company President
+#. y4:msg_speaker_id=2
 msgctxt "236_Company President"
 msgid "Shit! We'll just have to force her to let us take the pictures! Get rid of this asshole!"
 msgstr "¡Mierda! ¡Parece que tendremos que forzarla a que nos deje tomar las fotos! ¡Libraos de este idiota!"
-

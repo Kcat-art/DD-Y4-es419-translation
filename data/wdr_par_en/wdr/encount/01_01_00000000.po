@@ -17,14 +17,23 @@ msgstr ""
 "X-Crowdin-File-ID: 57950\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1492"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1496"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1500"
 msgid "Sync_Send"
 msgstr "Sync_Send"
@@ -33,23 +42,55 @@ msgctxt "116_Man"
 msgid "I know I told you to wait－aren't you listenin' to me? Hang on a sec. That look on your face."
 msgstr "Sé que te dije que esperaras, ¿acaso no me estás escuchando? Espera un momento. Esa expresión en tu cara."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "I thought maybe I'd forgive you if the price was right, but I changed my mind. First I'll kick your ass, <Italic>then</Italic> I'll take your money!"
 msgstr "Pensé que tal vez te perdonaría si el precio era el correcto, pero cambié de opinión. ¡Primero te daré una paliza y <Italic>luego</Italic> te quitaré tu dinero!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Man"
 msgid "Please forgive me!"
 msgstr "¡Perdóname por favor!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "164_Man"
 msgid "I'm sorry! Here, this is for you..."
 msgstr "¡Lo siento! Toma, esto es para ti..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
 msgctxt "176_Man"
 msgid "You got an agreeable %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "212_Man"
 msgid "Aw, crap! No please forgive me!"
 msgstr "¡Mierda! ¡No, por favor, perdóname!"
-

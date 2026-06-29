@@ -12,18 +12,29 @@ msgstr ""
 
 #. y4:line_status=translated
 #. y4:translated_by=Keiner
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
 msgctxt "108"
 msgid "Actually, make that an extra large beef bowl for me! C'mon, let's go to Matsuya!"
 msgstr "¡Pensándolo bien, que sea un plato gigante de carne! ¡Entremos a Matsuya!"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "612"
 msgid "Hungry College Student"
 msgstr "Estudiante universitario hambriento"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "616"
 msgid "Hungrier College Student"
 msgstr "Estudiante universitario aún más hambriento"
@@ -31,6 +42,13 @@ msgstr "Estudiante universitario aún más hambriento"
 #. y4:line_status=reviewed
 #. y4:translated_by=Keiner
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Hungry College Student
+#. y4:msg_speaker_id=0
 msgctxt "84_Hungry College Student"
 msgid "I'm starving! Let's grab a beef bowl or something!"
 msgstr "¡Me muero de hambre! ¡Vamos a por un buen plato de carne!"
@@ -38,7 +56,13 @@ msgstr "¡Me muero de hambre! ¡Vamos a por un buen plato de carne!"
 #. y4:line_status=reviewed
 #. y4:translated_by=Keiner
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Hungrier College Student
+#. y4:msg_speaker_id=1
 msgctxt "96_Hungrier College Student"
 msgid "Yeah, I was feeling curry today too... maybe beef curry?"
 msgstr "Sí, hoy tengo unas ganas de curry... ¿quieres?"
-

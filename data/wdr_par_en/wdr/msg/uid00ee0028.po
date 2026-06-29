@@ -17,43 +17,142 @@ msgstr ""
 "X-Crowdin-File-ID: 62400\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1444"
 msgid "Manager"
 msgstr "Gerente"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1448"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Manager
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. I'm here to buy. -> T1.P1 | 2. I'm here to sell. -> T1.P7 | 3. Never mind. -> T1.P9
 msgctxt "144_Manager"
 msgid "Hello, sir. What can I do for you today?"
 msgstr ""
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Manager
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=I'm here to buy.
 msgctxt "156_Manager"
 msgid "What would you like to purchase?"
 msgstr ""
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Manager
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=I'm here to buy.
 msgctxt "216_Manager"
 msgid "Thank you very much."
 msgstr "Muchas gracias."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Manager
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I'm here to sell.
 msgctxt "228_Manager"
 msgid "What do you have to sell?"
 msgstr ""
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Manager
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Never mind.
 msgctxt "252_Manager"
 msgid "Thank you for your patronage."
 msgstr ""
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P1
+#. y4:msg_branch_segment=T1.P1..P6
+#. y4:msg_branch_target_text=What would you like to purchase?
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 10 00 00 00 00 00 00 00 00
 msgctxt "264_Manager"
 msgid "I'm here to buy."
 msgstr "Estoy aquí para comprar."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P7
+#. y4:msg_branch_segment=T1.P7..P8
+#. y4:msg_branch_target_text=What do you have to sell?
+#. y4:msg_branch_raw=01 11 00 07 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "276_Manager"
 msgid "I'm here to sell."
 msgstr "Estoy aquí para vender."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P9
+#. y4:msg_branch_segment=T1.P9..P9
+#. y4:msg_branch_target_text=Thank you for your patronage.
+#. y4:msg_branch_raw=01 11 00 09 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "288_Manager"
 msgid "Never mind."
 msgstr "No importa."
-

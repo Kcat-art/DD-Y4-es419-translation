@@ -17,74 +17,134 @@ msgstr ""
 "X-Crowdin-File-ID: 58544\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
 msgctxt "300"
 msgid "You exchanged the <Color:8>Concert Tickets<Color:Default> for the <Color:8>Business Card<Color:Default>."
 msgstr "Intercambiaste las <Color:8>Entradas de concierto<Color:Default> por una <Color:8>Tarjeta de presentación<Color:Default>."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "6672"
 msgid "Celeb Gal"
 msgstr "Mujer famosa"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "6676"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "6680"
 msgid "Celeb Dude"
 msgstr "Hombre famoso"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "6684"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "6688"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "6692"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "6696"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "6700"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "6704"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "6708"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "6712"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "6716"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "6720"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "6724"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=14
 msgctxt "6728"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=15
 msgctxt "6732"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Celeb Gal
+#. y4:msg_speaker_id=0
 msgctxt "96_Celeb Gal"
 msgid "I can't believe it! How could you forget our tickets?"
 msgstr "¡No lo puedo creer! ¿Cómo pudiste olvidarte de las entradas?"
@@ -95,6 +155,13 @@ msgid "It's all very strange. If I told Makieda once, I told him a\\r\n"
 msgstr "¡P-pero qué extraño! Le dije a Makieda mil veces que las\\r\n"
 "pusiera. ¡Lo despediré enseguida cuando regresemos!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Celeb Gal
+#. y4:msg_speaker_id=0
 msgctxt "120_Celeb Gal"
 msgid "Who's Makieda?"
 msgstr "¿Quién es Makieda?"
@@ -117,14 +184,35 @@ msgid "You sure have a lot of assistants... I hope you have a\\r\n"
 msgstr "Para qué tienes tantos asistentes.\\r\n"
 "¡Y más vale que tengas un plan B o me voy a casa!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Celeb Dude
+#. y4:msg_speaker_id=2
 msgctxt "168_Celeb Dude"
 msgid "No, wait!"
 msgstr "¡No, espera!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=7
 msgctxt "180_Akiyama"
 msgid "(Tickets, huh? I wonder...)"
 msgstr "(Entradas, ¿eh? Me pregunto si...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=7
 msgctxt "192_Akiyama"
 msgid "Excuse me. Did you mean these tickets?"
 msgstr "Disculpe. ¿Quizás estas sean las entradas que busca?"
@@ -153,6 +241,13 @@ msgid "I'll pay you for them, of course. How much? I'm afraid I'm\\r\n"
 msgstr "Y por supuesto, que le pagaré por ellas. ¿Cuánto cuestan?\\r\n"
 "Me temo que no tengo efectivo. ¿Acepta cheques?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=7
 msgctxt "252_Akiyama"
 msgid "Actually, I'd prefer something other than money if possible..."
 msgstr "La verdad, preferiría algo que no sea dinero..."
@@ -169,6 +264,13 @@ msgid "It's not every day I meet interesting people like you. A\\r\n"
 msgstr "No todos los días tengo el placer de conocer a personas tan\\r\n"
 "interesantes como usted. Algo bueno ha salido de este desastre. ¡Qué divertido!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
+#. y4:msg_speaker=Celeb Dude
+#. y4:msg_speaker_id=2
 msgctxt "288_Celeb Dude"
 msgid "You may have this, then."
 msgstr "Toma, te daré esto."
@@ -179,6 +281,13 @@ msgid "A business card? I think the tickets were a little more\\r\n"
 msgstr "¿Una tarjeta de presentación? Creo que las entradas\\r\n"
 "valían un poco más..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=21
+#. y4:msg_location=T1.P21
+#. y4:msg_speaker=Celeb Dude
+#. y4:msg_speaker_id=2
 msgctxt "336_Celeb Dude"
 msgid "Trust me! Just take it."
 msgstr "¡Confía en mí! Tómala, tómala."
@@ -207,6 +316,13 @@ msgid "Hahaha! Now, now. A lady like yourself must always keep her\\r\n"
 msgstr "¡Ja, ja, ja! Tranquila, tranquila. Una dama como usted no debe\\r\n"
 "perder los estribos. ¡Ahora, vamos al concierto!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=26
+#. y4:msg_location=T1.P26
+#. y4:msg_speaker=Celeb Gal
+#. y4:msg_speaker_id=0
 msgctxt "396_Celeb Gal"
 msgid "Huh? What about the tickets?"
 msgstr "¿Eh? ¿Y las entradas?"
@@ -227,7 +343,13 @@ msgstr "¡Qué bueno que todo se solucionó!\\r\n"
 "¡¿Entonces por qué seguimos aquí?!\\r\n"
 "¡Vámonos!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=29
+#. y4:msg_location=T1.P29
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=7
 msgctxt "432_Akiyama"
 msgid "...Yeah, sure."
 msgstr "...Eh, ¿un gracias?"
-

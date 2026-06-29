@@ -17,38 +17,77 @@ msgstr ""
 "X-Crowdin-File-ID: 62518\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1472"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1476"
 msgid "Tadokoro"
 msgstr "Tadokoro"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1480"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1484"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1488"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1492"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "84_Saejima"
 msgid "Looks like I kept ya waitin'. This where the job's at?"
 msgstr "Disculpa la demora. ¿Este es el lugar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Tadokoro
+#. y4:msg_speaker_id=1
 msgctxt "96_Tadokoro"
 msgid "Ah, Suzuki-san. Here you are at last."
 msgstr "Ah, Suzuki-san. Por fin ha llegado."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Tadokoro
+#. y4:msg_speaker_id=1
 msgctxt "108_Tadokoro"
 msgid "By the by, do you know about the Dragon Palace?"
 msgstr "A propósito, ¿conoce el Palacio del Dragón?"
@@ -65,4 +104,3 @@ msgid "No, Suzuki-san, of course not. It's not a place most\\r\n"
 msgstr "No es ese el caso, Suzuki-san. Este es el Palacio del Dragón,\n"
 "un lugar del que muy pocos han oído. Venga conmigo, le\n"
 "enseñaré de qué se trata."
-

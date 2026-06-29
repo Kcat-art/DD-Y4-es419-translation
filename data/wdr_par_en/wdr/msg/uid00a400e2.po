@@ -17,50 +17,94 @@ msgstr ""
 "X-Crowdin-File-ID: 59328\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2344"
 msgid "Volcano Staff"
 msgstr "Personal de Volcano"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2348"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2352"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2356"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2360"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2364"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "2368"
 msgid "2d_cf_pict_nigaoe_hana"
 msgstr "2d_cf_pict_nigaoe_hana"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "2372"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "2376"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "2380"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Volcano Staff
+#. y4:msg_speaker_id=0
 msgctxt "56_Volcano Staff"
 msgid "'Sup, Akiyama-san."
 msgstr "Buenas, Akiyama-san."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "68_Akiyama"
 msgid "'Sup yourself. Working hard, I see."
 msgstr "Buenas. Trabajando duro, ¿Eh?"
@@ -73,16 +117,37 @@ msgstr "Bueno, mi chica esta quisquillosa con querer viajar.\\r\n"
 "Este mes trabajo cinco días a la semana, así que\\r\n"
 "no tengo tiempo para la universidad."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "92_Akiyama"
 msgid "Like you'd go if you had the time? Listen, I'm here to ask you a little favor. If you see this guy, let me know first thing, okay?"
 msgstr "Aun si tuvieras tiempo, no irías a clases. Escucha,\\r\n"
 "necesito que me hagas un favor.\\r\n"
 "¿Podrías avisarme si ves a este tipo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Volcano Staff
+#. y4:msg_speaker_id=0
 msgctxt "104_Volcano Staff"
 msgid "Ha! What the heck is this?"
 msgstr "Ahh! ¿Que demonios es eso?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "116_Akiyama"
 msgid "I'd like to meet with him if possible. Got some business to discuss."
 msgstr "Tengo asuntos pendientes que discutir con él."
@@ -93,11 +158,24 @@ msgid "And you think you're gonna find him with this? Whatever. If I\\r\n"
 msgstr "¿Y crees que vas a encontrarlo con esto? Como sea.\\r\n"
 "Si veo a alguien que mas o menos se parezca, te lo haré saber."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "140_Akiyama"
 msgid "Thanks. I appreciate it."
 msgstr "Gracias. Te lo agradezco."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "152_Akiyama"
 msgid "(I ought to show this flyer to the homeless guys on Park Boulevard. They've got a network all their own.)"
 msgstr "(Debería enseñarle el boceto a los vagabundos del Parque Boulevard. Tienen una red de inteligencia.)"
-

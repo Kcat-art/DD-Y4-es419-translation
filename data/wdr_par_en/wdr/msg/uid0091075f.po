@@ -17,23 +17,49 @@ msgstr ""
 "X-Crowdin-File-ID: 58456\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "760"
 msgid "Girl"
 msgstr "Chica"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "764"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Girl
+#. y4:msg_speaker_id=0
 msgctxt "84_Girl"
 msgid "There's a couple playing the UFO Catcher in Club SEGA over there, but the guy can't win to save his life."
 msgstr "Hay una pareja en los UFO Catcher en el Club SEGA de por allí. Pero el tipo no puede ganar ni porque su vida dependiera de ello."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Girl
+#. y4:msg_speaker_id=0
 msgctxt "96_Girl"
 msgid "Guys that are good at winning things from UFO Catchers are so cool! I wish a guy would win something for me..."
 msgstr "¡Los que saben jugar eso son tan irresistibles! Desearía que alguien ganara algo por mí..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "108_Tanimura"
 msgid "(A couple having trouble winning at the UFO Catcher. I should have a look. I may be able to have a <Color:7>Revelation<Color:Default>...)"
 msgstr "(Una pareja con problemas para ganar en el UFO Catcher... Debería revisar, tal vez sea una <Color:7>Revelación<Color:Default>...)."
-

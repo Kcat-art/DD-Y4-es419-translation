@@ -11,47 +11,74 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4780"
 msgid "The Florist"
 msgstr "El florista"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4784"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4788"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4792"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4796"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4800"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "4804"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "4808"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "4812"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -62,6 +89,13 @@ msgid "Can't thank you guys enough for helping me out with that\\r\nidiot son of
 msgstr "Les estoy sumamente agradecido por echarme una mano\\r\ncon el idiota de mi hijo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "68_Akiyama"
 msgid "Just remember, you owe me one."
 msgstr "Que no se te olvide que me debes una."
@@ -72,11 +106,25 @@ msgid "I had to get one of my sweet, innocent hostesses to play\\r\nalong with o
 msgstr "Tuve que convencer a una de mis dulces e inocentes chicas, para\\r\nque nos siguiera la corriente en nuestra pequeña actuación."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=4
 msgctxt "92_Tanimura"
 msgid "I'm glad to lend a hand, but me, a cheater? Come on."
 msgstr "Me alegra poder ayudar, ¿pero yo, un tramposo? ¡Ni hablar!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=4
 msgctxt "104_Tanimura"
 msgid "I always play fair and square."
 msgstr "Yo siempre juego limpio."
@@ -87,6 +135,13 @@ msgid "Mhm. And I'm usually the guy who beats up the guys beatin'\\r\non the hom
 msgstr "Mmm. Y yo generalmente me dedico a combatir la violencia\\r\ncontra los vagabundos."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=The Florist
+#. y4:msg_speaker_id=0
 msgctxt "128_The Florist"
 msgid "Yeah, yeah. I'll make it up to you all, promise."
 msgstr "Sí, sí. Les compensaré, lo prometo."
@@ -103,6 +158,13 @@ msgstr "Hace unos años, seguro que no habría soportado todo\\r\neso."
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=The Florist
+#. y4:msg_speaker_id=0
 msgctxt "164_The Florist"
 msgid "True enough."
 msgstr "Bastante cierto."
@@ -113,31 +175,73 @@ msgid "And if Takashi <Italic>hadn't</Italic> gotten his act together, you would
 msgstr "Y si Takashi no <Italic>hubiera</Italic> cambiado su actitud, no habrías\\r\naccedido a su solicitud, ¿verdad?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=The Florist
+#. y4:msg_speaker_id=0
 msgctxt "188_The Florist"
 msgid "About that, Kiryu. I have another favor to ask you."
 msgstr "Sobre eso, Kiryu. Tengo otro favor que pedirte."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=8
 msgctxt "200_Kiryu"
 msgid "Me? What's up?"
 msgstr "¿Mm? ¿De qué se trata?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=The Florist
+#. y4:msg_speaker_id=0
 msgctxt "212_The Florist"
 msgid "I need you to bring this to Takashi."
 msgstr "Por favor, necesito que se lo lleves a Takashi."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=8
 msgctxt "236_Kiryu"
 msgid "This is..."
 msgstr "Esto es..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=The Florist
+#. y4:msg_speaker_id=0
 msgctxt "248_The Florist"
 msgid "Yeah. The info he wants is on the card in there."
 msgstr "Sí. Dentro hay una tarjeta con la información que él quiere."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=8
 msgctxt "260_Kiryu"
 msgid "You're not gonna tell him yourself?"
 msgstr "¿No se lo vas a decir tú mismo?"
@@ -148,12 +252,25 @@ msgid "You really think I could bring myself to do that after all\\r\nthese year
 msgstr "¿En serio piensas que yo haría eso después de todo este\\r\ntiempo? Me dedico a vender información, Kiryu. Ni más\\r\nni menos."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=8
 msgctxt "284_Kiryu"
 msgid "...If you say so. I'll do it."
 msgstr "...Como digas. Lo haré."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=The Florist
+#. y4:msg_speaker_id=0
 msgctxt "296_The Florist"
 msgid "Appreciated."
 msgstr "Te lo encargo."
-

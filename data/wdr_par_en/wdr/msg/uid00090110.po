@@ -10,33 +10,66 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "672"
 msgid "Eyewitness"
 msgstr "Testigo"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "676"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Eyewitness
+#. y4:msg_speaker_id=0
 msgctxt "84_Eyewitness"
 msgid "Something suspicious about those two..."
 msgstr "Hay algo sospechoso entre esos dos..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "96_Tanimura"
 msgid "What happened?"
 msgstr "¿Por qué?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Eyewitness
+#. y4:msg_speaker_id=0
 msgctxt "108_Eyewitness"
 msgid "Some guy in black arguing with a pretty girl. They went into the alley."
 msgstr "Un tipo de negro discutía con una chica bonita. Luego entraron en el callejón."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Eyewitness
+#. y4:msg_speaker_id=0
 msgctxt "120_Eyewitness"
 msgid "I wonder what it was about..."
 msgstr "Me pregunto de qué pasaría..."
-

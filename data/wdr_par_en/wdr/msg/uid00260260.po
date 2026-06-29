@@ -15,32 +15,58 @@ msgid "望月京子：源氏名"
 msgstr "望月京子：源氏名"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "892"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "896"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "900"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "904"
 msgid "Talk_Request"
 msgstr "Talk_Request"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "68_望月京子：源氏名"
 msgid "Putting... The suspense gets me all jittery!"
 msgstr "Hostia... ¡El suspenso me pone nervioso!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "80_Kiryu"
 msgid "Yeah. Just you watch though. I'm gonna hit this one right in."
 msgstr "Sí. Pero ya lo verás. Esta va directa al hoyo."
@@ -49,4 +75,3 @@ msgstr "Sí. Pero ya lo verás. Esta va directa al hoyo."
 msgctxt "92_望月京子：源氏名"
 msgid "Go for it! I believe in you! <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡Adelante! ¡Creo en ti! <Color:255,200,200,255>♥<Color:Default>"
-

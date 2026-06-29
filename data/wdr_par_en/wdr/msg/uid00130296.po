@@ -17,19 +17,42 @@ msgstr ""
 "X-Crowdin-File-ID: 62480\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "520"
 msgid "Officer"
 msgstr "Oficial"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Officer
+#. y4:msg_speaker_id=0
 msgctxt "128_Officer"
 msgid "We've staked out all the possible exits."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Officer
+#. y4:msg_speaker_id=0
 msgctxt "140_Officer"
 msgid "We need you to find the suspects hiding inside the parking garage!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Officer
+#. y4:msg_speaker_id=0
 msgctxt "152_Officer"
 msgid "We appreciate your help!"
 msgstr ""
-

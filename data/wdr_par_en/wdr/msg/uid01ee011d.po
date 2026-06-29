@@ -17,23 +17,49 @@ msgstr ""
 "X-Crowdin-File-ID: 62666\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1804"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1808"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "96_Player"
 msgid "All right, let's give it a go."
 msgstr "Muy bien, vamos a intentarlo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "120_Player"
 msgid "(I feel a little dizzy from all that booze. Might be hard to play darts like this.)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "228_Player"
 msgid "All right, let's go."
 msgstr ""
-

@@ -10,73 +10,150 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2448"
 msgid "Hungry Inmate"
 msgstr "Prisionero hambriento"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2452"
 msgid "Famished Prisoner"
 msgstr "Prisionero famélico"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2456"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2460"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2464"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Hungry Inmate
+#. y4:msg_speaker_id=0
 msgctxt "84_Hungry Inmate"
 msgid "What do you think's on the menu tonight? I've been craving yakiniku ever since I got tossed in here. What I wouldn't do for some nice, juicy meat..."
 msgstr "¿Qué crees que será la comida de esta noche? Se me antoja yakiniku desde que me metieron aquí. Lo que no haría por una buena y jugosa carne..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Famished Prisoner
+#. y4:msg_speaker_id=1
 msgctxt "96_Famished Prisoner"
 msgid "The least they could do is feed us some Okinawa delicacies. Stewed pork, rafute... Hell, I'd even eat bitter melon before the cardboard they serve us!"
 msgstr "Lo menos que podrían hacer es darnos de comer algunas delicias de Okinawa. Cerdo estofado, rafute... ¡Maldición, incluso me tragaría un melón amargo antes que el cartón que nos sirven!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Hungry Inmate
+#. y4:msg_speaker_id=0
 msgctxt "108_Hungry Inmate"
 msgid "Hey, if you could only eat one meal for the rest of your life, what would it be?"
 msgstr "Si te dijeran que puedes comer lo que quieras,\\r\n¿Qué pedirías?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Famished Prisoner
+#. y4:msg_speaker_id=1
 msgctxt "120_Famished Prisoner"
 msgid "Only one? Hm... Gotta be pork cutlet curry."
 msgstr "Mmmm... quiero curry con Tonkatsu."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Hungry Inmate
+#. y4:msg_speaker_id=0
 msgctxt "132_Hungry Inmate"
 msgid "Ohhh, yeah. Shit, that sounds good right now."
 msgstr "Curry con Tonkatsu, ¿eh?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Famished Prisoner
+#. y4:msg_speaker_id=1
 msgctxt "144_Famished Prisoner"
 msgid "Mmm. A nice, thick cut of succulent pork, a mountain of steaming rice, all drowning in rich, kinda sweet curry... Ugh, I gotta get out of here."
 msgstr "Un buen Tonkatsu, con curry dulce por encima... Con un poquito de arroz.\\r\nDesearía darle un buen mordisco."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Famished Prisoner
+#. y4:msg_speaker_id=1
 msgctxt "156_Famished Prisoner"
 msgid "Not to rub salt in the wound, but did you know pork goes best with sweeter curries? A hint of sweet cuts through that rich pork like nothing else, man."
 msgstr "¿Sabes? El Curry con Tonkatsu queda mejor con un curry dulce.\\r\nLa dulzura resalta el sabor del Tonkatsu."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Famished Prisoner
+#. y4:msg_speaker_id=1
 msgctxt "168_Famished Prisoner"
 msgid "I love stirring the rice and curry together, scarfing down a big spoonful, then taking a quick bite of the pork so they all mix in my mouth. Pissed the missus off to high heaven."
 msgstr "Al final mezclo el curry con el arroz.\\r\nLo revuelvo todo y me lo como con el Tonkatsu.\\r\nMi esposa se enfada, pero no puedo evitarlo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Hungry Inmate
+#. y4:msg_speaker_id=0
 msgctxt "180_Hungry Inmate"
 msgid "God damn, just hearing you talk about it's making my mouth water. Nothing to do now but reminisce about my dine n' dash days..."
 msgstr "Ah... escuchando tu historia,\\r\nme ha entrado antojo de curry con Tonkatsu.\\r\nTal vez debería hacer una escapada y comerlo."
-

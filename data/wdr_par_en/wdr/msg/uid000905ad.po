@@ -10,22 +10,34 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "712"
 msgid "Businesswoman"
 msgstr "Mujer de negocios"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "716"
 msgid "Young Man"
 msgstr "Joven"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "720"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "724"
 msgid "Talk_No"
 msgstr "Talk_No"
@@ -41,7 +53,13 @@ msgid "Looked like they were all packing heat, too. Wonder if\\r\nthere's a turf
 msgstr "Parecía que iban armados, también. Me pregunto si\\r\nse está gestando una guerra de territorios."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Businesswoman
+#. y4:msg_speaker_id=0
 msgctxt "108_Businesswoman"
 msgid "What!? We're not going to be assaulted, are we!?"
 msgstr "¿¡Qué!? No nos van a asaltar, ¿¡verdad!?"
-

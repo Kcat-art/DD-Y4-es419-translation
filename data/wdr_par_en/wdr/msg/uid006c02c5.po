@@ -17,118 +17,281 @@ msgstr ""
 "X-Crowdin-File-ID: 60144\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
 msgctxt "488"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
 msgctxt "980"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "13136"
 msgid "Himeka"
 msgstr "Himeka"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "13140"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "13144"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "13148"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "13152"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "13156"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "13160"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "13164"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "13168"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "116_Himeka"
 msgid "I ain't no pushover, Tanimura-san!"
 msgstr "¡No soy un pusilánime, Tanimura!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "128_Player"
 msgid "We'll see about that."
 msgstr "Ya lo veremos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "140_Himeka"
 msgid "Well, let's head in!"
 msgstr "Vamos, entremos!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "164_Himeka"
 msgid "I ain't no pushover, Tanimura-san!"
 msgstr "¡No soy un pusilánime, Tanimura!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "176_Himeka"
 msgid "Well, let's head in!"
 msgstr "Vamos, entremos!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "188_Player"
 msgid "Uh... Hold on a second. I just realized I'm short on cash."
 msgstr "Uh... Espera un segundo. Me acabo de dar cuenta de que no tengo dinero."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "200_Himeka"
 msgid "Huh? You're kiddin', right?"
 msgstr "¿Eh? ¿Me estás tomando el pelo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=3
 msgctxt "212_Tanimura"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "224_Himeka"
 msgid "Well, that's the end of our date for today. See ya later, Tanimura-san..."
 msgstr "Bueno, ese es el final de nuestra cita de hoy. Hasta luego, Tanimura-san..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "236_Player"
 msgid "(I'd better remember to bring enough cash next time...)"
 msgstr "(Será mejor que recuerde llevar suficiente dinero en efectivo la próxima vez...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "344_Himeka"
 msgid "Wow. I should've known you'd be good at pool."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "356_Player"
 msgid "I've had some practice."
 msgstr "Estuve practicando un poco."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "368_Himeka"
 msgid "I had a great time today! Let's do this again sometime. See ya!"
 msgstr "¡Hoy me la pasé genial! Repitamos en una siguiente ocasión. ¡Nos vemos luego!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "392_Himeka"
 msgid "Aww! A draw!"
 msgstr "¡Aww! ¡Un empate!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "404_Player"
 msgid "So close..."
 msgstr "Estuvo muy cerca..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "416_Himeka"
 msgid "Well, I had fun today! See ya!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "440_Himeka"
 msgid "Too bad! Looks like I win this one. Hehe!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=3
 msgctxt "452_Tanimura"
 msgid "Damn."
 msgstr "Maldición."
@@ -137,50 +300,134 @@ msgctxt "464_Himeka"
 msgid "That was fun. Come visit me at the club, okay? <Color:7>♥<Color:Default>"
 msgstr "Me divertí mucho. Ven a verme al club, ¿sí? <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "572_Himeka"
 msgid "I ain't no pushover, Tanimura-san!"
 msgstr "¡No soy un pusilánime, Tanimura!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "584_Player"
 msgid "We'll see about that."
 msgstr "Ya lo veremos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "596_Himeka"
 msgid "Well, let's head in!"
 msgstr "Vamos, entremos!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "620_Himeka"
 msgid "I ain't no pushover, Tanimura-san!"
 msgstr "¡No soy un pusilánime, Tanimura!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "632_Himeka"
 msgid "Well, let's head in!"
 msgstr "Vamos, entremos!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "644_Player"
 msgid "Uh... Hold on a second. I just realized I'm short on cash."
 msgstr "Uh... Espera un segundo. Me acabo de dar cuenta de que no tengo dinero."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "656_Himeka"
 msgid "Huh? You're kiddin', right?"
 msgstr "¿Eh? ¿Me estás tomando el pelo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=3
 msgctxt "668_Tanimura"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "680_Himeka"
 msgid "Well, that's the end of our date for today. See ya later, Tanimura-san..."
 msgstr "Bueno, ese es el final de nuestra cita de hoy. Hasta luego, Tanimura-san..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "692_Player"
 msgid "(I'd better remember to bring enough cash next time...)"
 msgstr "(Será mejor que recuerde llevar suficiente dinero en efectivo la próxima vez...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "800_Himeka"
 msgid "Wow. I should've known you'd be good at pool."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "812_Player"
 msgid "I've had some practice."
 msgstr "Estuve practicando un poco."
@@ -189,14 +436,35 @@ msgctxt "824_Himeka"
 msgid "I had a great time today! Let's head over to the club now. <Color:7>♥<Color:Default>"
 msgstr "¡Lo he pasado muy bien hoy! Vayamos ahora al club. <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=7
+#. y4:msg_location=T3.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "836_Player"
 msgid "Sure. Sounds good."
 msgstr "Claro. Suena bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "860_Himeka"
 msgid "Aww! A draw!"
 msgstr "¡Aww! ¡Un empate!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "872_Player"
 msgid "So close..."
 msgstr "Estuvo muy cerca..."
@@ -205,14 +473,35 @@ msgctxt "884_Himeka"
 msgid "I had fun today! Let's do this again sometime. Wanna head over to the club now? <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=7
+#. y4:msg_location=T3.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "896_Player"
 msgid "Sure. Sounds good."
 msgstr "Claro. Suena bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=0
 msgctxt "920_Himeka"
 msgid "Too bad! Looks like I win this one. Hehe!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=3
 msgctxt "932_Tanimura"
 msgid "Damn."
 msgstr "Maldición."
@@ -221,7 +510,13 @@ msgctxt "944_Himeka"
 msgid "That was fun. Let's head over to the club now. <Color:7>♥<Color:Default>"
 msgstr "Eso fue divertido. Vayamos ahora al club. <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=7
+#. y4:msg_location=T3.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "956_Player"
 msgid "Sure. Sounds good."
 msgstr "Claro. Suena bien."
-

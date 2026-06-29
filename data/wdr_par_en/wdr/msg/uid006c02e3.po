@@ -17,94 +17,219 @@ msgstr ""
 "X-Crowdin-File-ID: 61122\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
 msgctxt "500"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
 msgctxt "992"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "12864"
 msgid "Rio"
 msgstr "Rio"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "12868"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "12872"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "12876"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "12880"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "12884"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "12888"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "12892"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "116_Rio"
 msgid "I hope you're ready!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "128_Player"
 msgid "Looks like table tennis is the only thing on your mind."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "140_Rio"
 msgid "Let's get started."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "164_Rio"
 msgid "I hope you're ready!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "176_Rio"
 msgid "Let's get started."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "188_Player"
 msgid "Um, wait a moment. I thought I had more cash than this..."
 msgstr "Um, espera un momento. Pensé que iba con mas dinero encima..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "200_Rio"
 msgid "Seriously? Not a single bill?"
 msgstr "¿En serio? ¿Ni un solo billete?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "212_Player"
 msgid "Yeah. Sorry..."
 msgstr "Sí. Lo siento..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "224_Rio"
 msgid "Oh. Um... That's... too bad. I should get going."
 msgstr "Oh. Esto... Vaya, qué mal. Debería irme."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "236_Player"
 msgid "(I'd better remember to bring enough cash next time...)"
 msgstr "(Será mejor que recuerde llevar suficiente dinero en efectivo la próxima vez...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "344_Rio"
 msgid "Wow! You're amazing at table tennis."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "356_Player"
 msgid "I'm alright."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "368_Rio"
 msgid "I had a blast. Let's do this again soon."
 msgstr ""
@@ -113,115 +238,310 @@ msgctxt "380_Rio"
 msgid "I'll see you at the club. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "404_Rio"
 msgid "Oh, so close! It's a tie."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "416_Player"
 msgid "I'm all right I guess."
 msgstr "Supongo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "428_Rio"
 msgid "Today was really fun. Hope we can go out again soon."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "452_Rio"
 msgid "Well? Not bad, right?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "464_Player"
 msgid "Yeah. I had no idea you played."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "476_Rio"
 msgid "Get some practice in and brush up those skills of yours. I'll see you around."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "584_Rio"
 msgid "I hope you're ready!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "596_Player"
 msgid "Looks like table tennis is the only thing on your mind."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "608_Rio"
 msgid "Let's get started."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "632_Rio"
 msgid "I hope you're ready!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "644_Rio"
 msgid "Let's get started."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "656_Player"
 msgid "Um, wait a moment. I thought I had more cash than this..."
 msgstr "Um, espera un momento. Pensé que iba con mas dinero encima..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "668_Rio"
 msgid "Seriously? Not a single bill?"
 msgstr "¿En serio? ¿Ni un solo billete?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "680_Player"
 msgid "Yeah. Sorry..."
 msgstr "Sí. Lo siento..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "692_Rio"
 msgid "Oh. Um... That's... too bad. I should get going."
 msgstr "Oh. Esto... Vaya, qué mal. Debería irme."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "704_Player"
 msgid "(I'd better remember to bring enough cash next time...)"
 msgstr "(Será mejor que recuerde llevar suficiente dinero en efectivo la próxima vez...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "812_Rio"
 msgid "Wow! You're amazing at table tennis."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "824_Player"
 msgid "I'm alright."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=6
+#. y4:msg_location=T3.P6
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "836_Rio"
 msgid "I had a blast. Anyway, let's go back to the club."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=7
+#. y4:msg_location=T3.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "848_Player"
 msgid "Sounds good."
 msgstr "Me parece bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "872_Rio"
 msgid "Oh, so close! It's a tie."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "884_Player"
 msgid "I'm all right I guess."
 msgstr "Supongo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=11
+#. y4:msg_location=T3.P11
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "896_Rio"
 msgid "I had a lot of fun today. Shall we continue this over at the club?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=7
+#. y4:msg_location=T3.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "908_Player"
 msgid "Sounds good."
 msgstr "Me parece bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "932_Rio"
 msgid "Well? Not bad, right?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "944_Player"
 msgid "Yeah. I had no idea you played."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=16
+#. y4:msg_location=T3.P16
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "956_Rio"
 msgid "Get some practice in and brush up those skills of yours. Anyway, let's go back to the club, shall we?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=7
+#. y4:msg_location=T3.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "968_Player"
 msgid "Sounds good."
 msgstr "Me parece bien."
-

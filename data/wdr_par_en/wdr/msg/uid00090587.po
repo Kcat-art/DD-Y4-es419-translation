@@ -17,18 +17,34 @@ msgstr ""
 "X-Crowdin-File-ID: 58926\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "636"
 msgid "Middle-aged Man"
 msgstr "Hombre de mediana edad"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "640"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "644"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Middle-aged Man
+#. y4:msg_speaker_id=0
 msgctxt "84_Middle-aged Man"
 msgid "I haven't seen that girl from Sky Finance around lately."
 msgstr "No vi a la chica del Sky Finance últimamente."
@@ -44,4 +60,3 @@ msgid "That big, healthy smile of hers always cheered me up...\\r\n"
 "Now I really miss her."
 msgstr "Esa gran alegría que emitía siempre animaba...\\r\n"
 "Ahora realmente la extraño."
-

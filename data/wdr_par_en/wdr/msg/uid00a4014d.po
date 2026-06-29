@@ -17,62 +17,115 @@ msgstr ""
 "X-Crowdin-File-ID: 58260\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "5920"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "5924"
 msgid "Financially Troubled Woman"
 msgstr "Mujer con problemas financieros"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "5928"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "5932"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "5936"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "5940"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "5944"
 msgid "Shoko"
 msgstr "Shoko"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "5948"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "5952"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "5956"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "5960"
 msgid "Loan Shark"
 msgstr "Usurero"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "5964"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "5968"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "116_Akiyama"
 msgid "Pardon me, miss. Did I hear you're having money trouble?"
 msgstr "Disculpe, señorita. ¿Escuché que tenía problemas financieros?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Financially Troubled Woman
+#. y4:msg_speaker_id=1
 msgctxt "128_Financially Troubled Woman"
 msgid "And who are you? Not another debt collector, I hope!"
 msgstr "¿Y quién eres tú? ¡Espero que no seas otro cobrador de deudas!"
@@ -83,10 +136,24 @@ msgid "No, not at all. But I am in the same line of business as\\r\n"
 msgstr "No, para nada. Pero estoy en el mismo negocio que\\r\n"
 "ese otro tipo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Financially Troubled Woman
+#. y4:msg_speaker_id=1
 msgctxt "152_Financially Troubled Woman"
 msgid "A moneylender!? Then, I'd like to apply for a loan!"
 msgstr "¡Un prestamista! Entonces, ¡me gustaría solicitar un préstamo!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Financially Troubled Woman
+#. y4:msg_speaker_id=1
 msgctxt "164_Financially Troubled Woman"
 msgid "...Oh, but why bother? It's no use."
 msgstr "... Oh, pero ¿por qué molestarse? No tiene sentido."
@@ -97,10 +164,24 @@ msgid "It sounds like they've got you blacklisted, is that right?\\r\n"
 msgstr "Parece que te tienen en la lista negra, ¿verdad?\\r\n"
 "¿Cuánto debes?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Financially Troubled Woman
+#. y4:msg_speaker_id=1
 msgctxt "188_Financially Troubled Woman"
 msgid "...I'd say about ten million or so."
 msgstr "... Diría que más o menos unos diez millones."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "200_Akiyama"
 msgid "\"About\"? So you don't even know how much you borrowed?"
 msgstr "¿\"Más o menos\"? ¿Entonces no sabes cuánto pediste prestado?"
@@ -132,6 +213,13 @@ msgid "I see... You're something else, you know that? You've\\r\n"
 msgstr "Lo entiendo... Eres algo especial, ¿sabes? Definitivamente\\r\n"
 "has llamado mi atención."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Financially Troubled Woman
+#. y4:msg_speaker_id=1
 msgctxt "260_Financially Troubled Woman"
 msgid "Are you hitting on me?"
 msgstr "¿Estás intentando coquetear conmigo?"
@@ -144,14 +232,35 @@ msgstr "No, no es eso. Mira, si estás realmente lista para\\r\n"
 "comenzar de nuevo, ven a mi oficina. Sky Finance,\\r\n"
 "en la Calle Tenkaichi."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Financially Troubled Woman
+#. y4:msg_speaker_id=1
 msgctxt "284_Financially Troubled Woman"
 msgid "Sky Finance? I've heard rumors..."
 msgstr "¿Sky Finance? He escuchado rumores..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "296_Akiyama"
 msgid "My name is Shun Akiyama. And you are?"
 msgstr "Mi nombre es Shun Akiyama. ¿Y tú eres?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Shoko
+#. y4:msg_speaker_id=6
 msgctxt "308_Shoko"
 msgid "Me...? I'm Shoko Muto."
 msgstr "¿Yo...? Me llamo Shoko Muto."
@@ -162,14 +271,35 @@ msgid "Well, then, Shoko-san, I hope you'll decide to pay me a\\r\n"
 msgstr "Bueno, pues, Shoko-san, espero que decidas darme\\r\n"
 "una visita."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Shoko
+#. y4:msg_speaker_id=6
 msgctxt "332_Shoko"
 msgid "...Goodbye."
 msgstr "... Adiós."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "392_Akiyama"
 msgid "(Shoko Muto... I have a feeling I'll see her sooner or later.)"
 msgstr "(Shoko Muto... tengo la sensación de que la veré más pronto que tarde)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=24
+#. y4:msg_location=T1.P24
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "404_Akiyama"
 msgid "(In fact, she might already be on her way. Maybe I ought to head over to the office and see...)"
 msgstr "(De hecho, es posible que ya esté en camino. Tal vez debería ir a la oficina y ver...)."
@@ -191,4 +321,3 @@ msgid "You don't know that for sure! I'm never doing business\\r\n"
 "with you ever again!"
 msgstr "¡¿Cómo lo sabrías?! ¡Nunca volveré a hacer\\r\n"
 "negocios con ustedes!"
-

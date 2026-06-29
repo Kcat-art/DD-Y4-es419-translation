@@ -17,6 +17,11 @@ msgstr ""
 "X-Crowdin-File-ID: 62544\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
 msgctxt "620"
 msgid "Chasing Camera Direct Test"
 msgstr "Chasing Camera Direct Test"
@@ -29,54 +34,125 @@ msgctxt "8032"
 msgid "置換_赤ん坊"
 msgstr "置換_赤ん坊"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "8036"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "8040"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "8044"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "8048"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "8052"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "8056"
 msgid "Other"
 msgstr "Other"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "8060"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Begin -> T1.P1 | 2. Stop -> T1.P2 | 3. Resume -> T1.P3 | 4. Stop -> T1.P4
 msgctxt "632_名前を入力して下さい"
 msgid "Timer options."
 msgstr "Timer options."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Begin
 msgctxt "644_名前を入力して下さい"
 msgid "Begin."
 msgstr "Begin."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Stop
 msgctxt "656_名前を入力して下さい"
 msgid "Stop."
 msgstr "Stop."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Resume
 msgctxt "668_名前を入力して下さい"
 msgid "Resume."
 msgstr "Resume."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Stop
 msgctxt "680_名前を入力して下さい"
 msgid "End."
 msgstr "End."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
 msgctxt "692_名前を入力して下さい"
 msgid "First enter."
 msgstr "First enter."
@@ -87,174 +163,479 @@ msgid "I'm %s.\\r\n"
 msgstr "I'm %s.\\r\n"
 "Please to meet you."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
 msgctxt "716_名前を入力して下さい"
 msgid "Camera Motion Test."
 msgstr "Camera Motion Test."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
 msgctxt "728_名前を入力して下さい"
 msgid "While playing Bank0 sneak in with Camera Direct."
 msgstr "While playing Bank0 sneak in with Camera Direct."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=2
+#. y4:msg_location=T3.P2
 msgctxt "740_名前を入力して下さい"
 msgid "Playing Bank1."
 msgstr "Playing Bank1."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=3
+#. y4:msg_location=T3.P3
 msgctxt "752_名前を入力して下さい"
 msgid "Stopping at next page."
 msgstr "Stopping at next page."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Stop
 msgctxt "764_名前を入力して下さい"
 msgid "Stop."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=5
+#. y4:msg_location=T3.P5
 msgctxt "776_名前を入力して下さい"
 msgid "Is it direct?"
 msgstr "Is it direct?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
 msgctxt "788_名前を入力して下さい"
 msgid "testt."
 msgstr "testt."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=1
+#. y4:msg_location=T4.P1
 msgctxt "800_名前を入力して下さい"
 msgid "test2."
 msgstr "test2."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=2
+#. y4:msg_location=T4.P2
 msgctxt "812_置換_赤ん坊"
 msgid "tetetest."
 msgstr "tetetest."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
 msgctxt "824_名前を入力して下さい"
 msgid "I am an informant."
 msgstr "I am an informant."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=1
+#. y4:msg_location=T5.P1
 msgctxt "836_名前を入力して下さい"
 msgid "%s"
 msgstr "%s"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=2
+#. y4:msg_location=T5.P2
 msgctxt "848_名前を入力して下さい"
 msgid "I don't have any information."
 msgstr "I don't have any information."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=4
 msgctxt "932_Kiryu"
 msgid "Hello, I'm Kiryu."
 msgstr "Hello, I'm Kiryu."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=1
+#. y4:msg_location=T7.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=5
 msgctxt "944_Akiyama"
 msgid "Hello, I'm Akiyama."
 msgstr "Hello, I'm Akiyama."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=2
+#. y4:msg_location=T7.P2
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=6
 msgctxt "956_Saejima"
 msgid "Hello, I'm Saejima."
 msgstr "Hello, I'm Saejima."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=3
+#. y4:msg_location=T7.P3
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=7
 msgctxt "968_Tanimura"
 msgid "Hello, I'm Tanimura."
 msgstr "Hello, I'm Tanimura."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=4
+#. y4:msg_location=T7.P4
+#. y4:msg_speaker=Other
+#. y4:msg_speaker_id=8
 msgctxt "980_Other"
 msgid "Hello, I'm other."
 msgstr "Hello, I'm other."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=5
+#. y4:msg_location=T7.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
 msgctxt "992_Player"
 msgid "Hello, I'm %s."
 msgstr "Hello, I'm %s."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
 msgctxt "1004_名前を入力して下さい"
 msgid "Choice test with more than 8 choices."
 msgstr "Choice test with more than 8 choices."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=2
+#. y4:msg_location=T8.P2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=test1
 msgctxt "1028_名前を入力して下さい"
 msgid "Hint0"
 msgstr "Hint0"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=3
+#. y4:msg_location=T8.P3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=test1
 msgctxt "1040_名前を入力して下さい"
 msgid "Hint1."
 msgstr "Hint1."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=4
+#. y4:msg_location=T8.P4
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=test1
 msgctxt "1052_名前を入力して下さい"
 msgid "Hint2."
 msgstr "Hint2."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=5
+#. y4:msg_location=T8.P5
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=test1
 msgctxt "1064_名前を入力して下さい"
 msgid "Hint3."
 msgstr "Hint3."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=6
+#. y4:msg_location=T8.P6
+#. y4:msg_choice_index=5
+#. y4:msg_branch_choice=test1
 msgctxt "1076_名前を入力して下さい"
 msgid "Hint4."
 msgstr "Hint4."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=7
+#. y4:msg_location=T8.P7
+#. y4:msg_choice_index=6
+#. y4:msg_branch_choice=test1
 msgctxt "1088_名前を入力して下さい"
 msgid "Hint5."
 msgstr "Hint5."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=8
+#. y4:msg_location=T8.P8
+#. y4:msg_choice_index=7
+#. y4:msg_branch_choice=test1
 msgctxt "1100_名前を入力して下さい"
 msgid "Hint6."
 msgstr "Hint6."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=9
+#. y4:msg_location=T8.P9
+#. y4:msg_choice_index=8
+#. y4:msg_branch_choice=test1
 msgctxt "1112_名前を入力して下さい"
 msgid "Hint7."
 msgstr "Hint7."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=10
+#. y4:msg_location=T8.P10
+#. y4:msg_choice_index=9
+#. y4:msg_branch_choice=test1
 msgctxt "1124_名前を入力して下さい"
 msgid "Hint8."
 msgstr "Hint8."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=11
+#. y4:msg_location=T8.P11
+#. y4:msg_choice_index=10
+#. y4:msg_branch_choice=test1
 msgctxt "1136_名前を入力して下さい"
 msgid "Hint9."
 msgstr "Hint9."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=12
+#. y4:msg_location=T8.P12
+#. y4:msg_choice_index=11
+#. y4:msg_branch_choice=test1
 msgctxt "1148_名前を入力して下さい"
 msgid "Hint10."
 msgstr "Hint10."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=13
+#. y4:msg_location=T8.P13
+#. y4:msg_choice_index=12
+#. y4:msg_branch_choice=test1
 msgctxt "1160_名前を入力して下さい"
 msgid "Hint11."
 msgstr "Hint11."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=14
+#. y4:msg_location=T8.P14
+#. y4:msg_choice_index=13
+#. y4:msg_branch_choice=test1
 msgctxt "1172_名前を入力して下さい"
 msgid "Hint12."
 msgstr "Hint12."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=8
+#. y4:msg_phrase=15
+#. y4:msg_location=T8.P15
+#. y4:msg_choice_index=14
+#. y4:msg_branch_choice=test1
 msgctxt "1184_名前を入力して下さい"
 msgid "Hint13."
 msgstr "Hint13."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=9
+#. y4:msg_phrase=1
+#. y4:msg_location=T9.P1
 msgctxt "1208_名前を入力して下さい"
 msgid "More than 5m."
 msgstr "More than 5m."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=9
+#. y4:msg_phrase=2
+#. y4:msg_location=T9.P2
 msgctxt "1220_名前を入力して下さい"
 msgid "Within 1m."
 msgstr "Within 1m."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=9
+#. y4:msg_phrase=3
+#. y4:msg_location=T9.P3
 msgctxt "1232_名前を入力して下さい"
 msgid "Within 3m."
 msgstr "Within 3m."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=9
+#. y4:msg_phrase=4
+#. y4:msg_location=T9.P4
 msgctxt "1244_名前を入力して下さい"
 msgid "Within 5m."
 msgstr "Within 5m."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
 msgctxt "1268_名前を入力して下さい"
 msgid "Drunkenness has exceeded 50%."
 msgstr "Drunkenness has exceeded 50%."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=12
+#. y4:msg_phrase=1
+#. y4:msg_location=T12.P1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Get drunk
 msgctxt "1292_名前を入力して下さい"
 msgid "Get Drunk"
 msgstr "Get Drunk"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=12
+#. y4:msg_phrase=2
+#. y4:msg_location=T12.P2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Sober up
 msgctxt "1304_名前を入力して下さい"
 msgid "Sober Up"
 msgstr "Sober Up"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=12
+#. y4:msg_phrase=4
+#. y4:msg_location=T12.P4
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Sober up
 msgctxt "1328_名前を入力して下さい"
 msgid "More than 50%."
 msgstr "More than 50%."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=12
+#. y4:msg_phrase=5
+#. y4:msg_location=T12.P5
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Sober up
 msgctxt "1340_名前を入力して下さい"
 msgid "Less than 50%."
 msgstr "Less than 50%."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=0
+#. y4:msg_location=T13.P0
 msgctxt "1352_名前を入力して下さい"
 msgid "Test<Color:7>keyword<Color:Default>test"
 msgstr "Test<Color:7>keyword<Color:Default>test"
@@ -263,14 +644,29 @@ msgctxt "1364_名前を入力して下さい"
 msgid "Misso<Color:7>ミッションキーワード<Color:Default>n keyword"
 msgstr "Misso<Color:7>ミッションキーワード<Color:Default>n keyword"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=2
+#. y4:msg_location=T13.P2
 msgctxt "1376_名前を入力して下さい"
 msgid "This is my <Color:8>item<Color:Default>."
 msgstr "This is my <Color:8>item<Color:Default>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=3
+#. y4:msg_location=T13.P3
 msgctxt "1388_名前を入力して下さい"
 msgid "Oh, a <Color:8>Staminan X<Color:Default>."
 msgstr "Oh, a <Color:8>Staminan X<Color:Default>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=4
+#. y4:msg_location=T13.P4
 msgctxt "1400_名前を入力して下さい"
 msgid "Got a tarnished <Color:8>5,000 yen<Color:Default>."
 msgstr "Got a tarnished <Color:8>5,000 yen<Color:Default>."
@@ -279,83 +675,342 @@ msgctxt "1412_名前を入力して下さい"
 msgid "Learned <Color:9>パンチ<Color:Default>."
 msgstr "Learned <Color:9>パンチ<Color:Default>."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=14
+#. y4:msg_phrase=0
+#. y4:msg_location=T14.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P1
+#. y4:msg_branch_segment=T1.P1..P1
+#. y4:msg_branch_target_text=Begin.
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1424_名前を入力して下さい"
 msgid "Begin"
 msgstr "Begin"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P2
+#. y4:msg_branch_segment=T1.P2..P2
+#. y4:msg_branch_target_text=Stop.
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "1436_名前を入力して下さい"
 msgid "Stop"
 msgstr "Parar"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=16
+#. y4:msg_phrase=0
+#. y4:msg_location=T16.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=Resume.
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 06 00 00 00 00 00 00 00 00
 msgctxt "1448_名前を入力して下さい"
 msgid "Resume"
 msgstr "Resume"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P2
+#. y4:msg_branch_segment=T1.P2..P2
+#. y4:msg_branch_target_text=Stop.
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "1460_名前を入力して下さい"
 msgid "Stop"
 msgstr "Parar"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0114
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=Hint0
+#. y4:msg_branch_raw=01 14 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1472_名前を入力して下さい"
 msgid "test1"
 msgstr "test1"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0114
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=Hint0
+#. y4:msg_branch_raw=01 14 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1484_名前を入力して下さい"
 msgid "test1"
 msgstr "test1"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0114
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=Hint0
+#. y4:msg_branch_raw=01 14 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1496_名前を入力して下さい"
 msgid "test1"
 msgstr "test1"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0114
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=Hint0
+#. y4:msg_branch_raw=01 14 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1508_名前を入力して下さい"
 msgid "test1"
 msgstr "test1"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0114
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=Hint0
+#. y4:msg_branch_raw=01 14 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1520_名前を入力して下さい"
 msgid "test1"
 msgstr "test1"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0114
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=Hint0
+#. y4:msg_branch_raw=01 14 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1532_名前を入力して下さい"
 msgid "test1"
 msgstr "test1"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0114
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=Hint0
+#. y4:msg_branch_raw=01 14 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1544_名前を入力して下さい"
 msgid "test1"
 msgstr "test1"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0114
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=Hint0
+#. y4:msg_branch_raw=01 14 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1556_名前を入力して下さい"
 msgid "test1"
 msgstr "test1"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0114
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=Hint0
+#. y4:msg_branch_raw=01 14 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1568_名前を入力して下さい"
 msgid "test1"
 msgstr "test1"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0114
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=Hint0
+#. y4:msg_branch_raw=01 14 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1580_名前を入力して下さい"
 msgid "test1"
 msgstr "test1"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0114
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=Hint0
+#. y4:msg_branch_raw=01 14 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1592_名前を入力して下さい"
 msgid "test1"
 msgstr "test1"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0114
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=Hint0
+#. y4:msg_branch_raw=01 14 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1604_名前を入力して下さい"
 msgid "test1"
 msgstr "test1"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0114
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=Hint0
+#. y4:msg_branch_raw=01 14 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1616_名前を入力して下さい"
 msgid "test1"
 msgstr "test1"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0114
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=Hint0
+#. y4:msg_branch_raw=01 14 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1628_名前を入力して下さい"
 msgid "test1"
 msgstr "test1"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=32
+#. y4:msg_phrase=0
+#. y4:msg_location=T32.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T12.P1
+#. y4:msg_branch_segment=T12.P1..P1
+#. y4:msg_branch_target_text=Get Drunk
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "1640_名前を入力して下さい"
 msgid "Get drunk"
 msgstr "Get drunk"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=33
+#. y4:msg_phrase=0
+#. y4:msg_location=T33.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T12.P2
+#. y4:msg_branch_segment=T12.P2..P5
+#. y4:msg_branch_target_text=Sober Up
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "1652_名前を入力して下さい"
 msgid "Sober up"
 msgstr "Sober up"
-

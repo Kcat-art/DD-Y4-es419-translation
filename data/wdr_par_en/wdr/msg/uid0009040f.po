@@ -11,68 +11,117 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
 msgctxt "116"
 msgid "You got <Color:8>50,000 yen<Color:Default>."
 msgstr "Obtuviste <Color:8>50 000 yenes<Color:Default>."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
 msgctxt "200"
 msgid "You got <Color:8>20,000 yen<Color:Default>."
 msgstr "Obtuviste <Color:8>20 000 yenes<Color:Default>."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
 msgctxt "272"
 msgid "You got <Color:8>2,000 yen<Color:Default>."
 msgstr "Obtuviste <Color:8>2 000 yenes<Color:Default>."
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "7008"
 msgid "Ajikawa"
 msgstr "Ajikawa"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "7012"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "7016"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "7020"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "7024"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "7028"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "7032"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "7036"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "7040"
 msgid "SetM_nml_sitcnt_mail"
 msgstr "SetM_nml_sitcnt_mail"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Ajikawa
+#. y4:msg_speaker_id=0
 msgctxt "68_Ajikawa"
 msgid "Akiyama-san! I went to Kanrai, as you suggested."
 msgstr "¡Akiyama-san! Fui a Kanrai, como me sugeriste."
@@ -83,6 +132,13 @@ msgid "I wanted to do a write-up of the menu items you told me about.\\r\nThey w
 msgstr "Quiero publicar una descripción del menú que me hablaste.\\r\n¡Era exactamente como lo imagine! Combinaba perfectamente con\\r\nel ambiente de la tienda. Fue impresionante."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "92_Akiyama"
 msgid "Glad to hear it."
 msgstr "Ya veo."
@@ -109,6 +165,13 @@ msgstr "De todos modos, el ambiente era agradable y conseguí\\r\nun poco de inf
 
 #. y4:line_status=translated
 #. y4:translated_by=Keiner
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "176_Akiyama"
 msgid "Glad I could help."
 msgstr "Me alegra poder ayudar."
@@ -134,6 +197,13 @@ msgid "It had a pleasant enough atmosphere, but I'm afraid I overate\\r\nagain i
 msgstr "El ambiente del lugar está bien, pero me temo que volví a comer mucho,\\r\npara buscar el plato digno de salir en la Guía de Michelle..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Ajikawa
+#. y4:msg_speaker_id=0
 msgctxt "260_Ajikawa"
 msgid "Oh, I almost forgot... This is to say thanks for your help."
 msgstr "Ah, casi lo olvido... Esto es una muestra de agradecimiento."
@@ -144,6 +214,13 @@ msgid "Er, Akiyama-san, this is truly presumptuous of me, but could\\r\nyou mayb
 msgstr "Em... Akiyama-san, sé que esto es una petición imprudente, pero\\r\n¿Podrías buscarme uno, o dos restaurantes más?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "296_Akiyama"
 msgid "What? Didn't get your yakiniku fix?"
 msgstr "¿Eh? ¿No tuviste suficiente con el yakiniku?"
@@ -169,11 +246,25 @@ msgid "There are too many ramen shops in this town... Impossible to\\r\nnarrow d
 msgstr "Hay demasiados locales de ramen en la ciudad... Es imposible\\r\nde saber el mejor, para alguien que solo tiene una pequeña idea\\r\nde lo que es la gastronomía Japonesa."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=25
+#. y4:msg_location=T0.P25
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "356_Akiyama"
 msgid "Well, maybe just one... What would you like to know?"
 msgstr "Bueno, solo una más... ¿Qué quieres saber?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_speaker=Ajikawa
+#. y4:msg_speaker_id=0
 msgctxt "368_Ajikawa"
 msgid "Oh, thank you so much! Let's see..."
 msgstr "¡Ah, muchas gracias! Veamos..."
@@ -184,6 +275,13 @@ msgid "I'd need to find out about the stock they use and any\\r\ndistinctive top
 msgstr "Necesito averiguar que tipos de caldos usan\\r\ny los distintos aderezos que ofrecen..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=28
+#. y4:msg_location=T0.P28
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "392_Akiyama"
 msgid "Distinctive toppings, huh?"
 msgstr "Aderezos, ¿eh?"
@@ -199,12 +297,25 @@ msgid "So, the stock they use and any distinctive toppings. I'll\\r\ncheck aroun
 msgstr "Entonces, el caldo que usan y cualquiera de los aderezos.\\r\nVoy a echar un vistazo algunos de mis lugares favoritos."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=31
+#. y4:msg_location=T0.P31
+#. y4:msg_speaker=Ajikawa
+#. y4:msg_speaker_id=0
 msgctxt "428_Ajikawa"
 msgid "Thank you very much!"
 msgstr "¡Muchísimas gracias!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=32
+#. y4:msg_location=T0.P32
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "440_Akiyama"
 msgid "(There's really only one ramen shop I keep coming back to... I guess I'll go there.)"
 msgstr "(Solo hay un local de ramen al que siempre vuelvo... supongo que me pasaré por allí.)"
-

@@ -17,6 +17,9 @@ msgstr ""
 "X-Crowdin-File-ID: 62770\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "516"
 msgid "Unconcerned Punk"
 msgstr "Matón Despreocupado"
@@ -27,7 +30,13 @@ msgid "Wait, was that Majima-san? You hear his name all over town,\\r\n"
 msgstr "Espera, ¿era ese Majima-san? Escuchas su nombre por toda la ciudad,\\r\n"
 "pero nunca he visto al tipo antes."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Unconcerned Punk
+#. y4:msg_speaker_id=0
 msgctxt "96_Unconcerned Punk"
 msgid "Looks like a real piece of work. Little shitboy like me'll never compare to a top dog like that."
 msgstr ""
-

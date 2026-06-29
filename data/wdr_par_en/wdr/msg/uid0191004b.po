@@ -17,39 +17,89 @@ msgstr ""
 "X-Crowdin-File-ID: 58550\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1692"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1696"
 msgid "Energetic Foreigner"
 msgstr "Extranjero enérgico"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1700"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "56_Akiyama"
 msgid "(Better start looking for leads on Midorikawa.)"
 msgstr "(Será mejor que busque pistas de ese Midorikawa)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Energetic Foreigner
+#. y4:msg_speaker_id=1
 msgctxt "68_Energetic Foreigner"
 msgid "Man, oh man! The perfect shot's so close I can almost smell it! Or did I forget to wear deodorant?"
 msgstr "¡Santo cielo! ¡La toma perfecta está tan cerca que puedo olerla! ¿O se me olvidó echarme desodorante?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Energetic Foreigner
+#. y4:msg_speaker_id=1
 msgctxt "92_Energetic Foreigner"
 msgid "You there! Did you see those tough dudes flashin' their muscles like it's nobody's business? Nothing quite as dangerous as a thug with something to prove."
 msgstr "¡Tú! ¿Viste a esos tipos sacando a relucir sus músculos? No hay nada más peligroso que un matón queriendo demostrar algo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Energetic Foreigner
+#. y4:msg_speaker_id=1
 msgctxt "104_Energetic Foreigner"
 msgid "But hey, that's what Kamurocho's all about! The glitz, the glamor, the gigantic guys shaking down passersby! Not that I <Italic>like<Italic> that last part."
 msgstr "¡Pero bueno, así es Kamurocho! El ocio, el glamour, los fortachones intimidando a los civiles. Bueno, no me gusta eso último."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "116_Akiyama"
 msgid "(\"Tough dudes\"? Maybe he's talking about Midorikawa.)"
 msgstr "(¿Fortachones? Tal vez se refiera a Midorikawa)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "128_Akiyama"
 msgid "Hold on there, buddy! Think we can talk for a sec?"
 msgstr "Oye, ¿tienes un momento para hablar?"
-

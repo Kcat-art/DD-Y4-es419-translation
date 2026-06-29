@@ -17,63 +17,147 @@ msgstr ""
 "X-Crowdin-File-ID: 61676\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2180"
 msgid "Tadokoro's Subordinate"
 msgstr "Subordinado de Tadokoro"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2184"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2188"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2192"
 msgid "Client"
 msgstr "Cliente"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2196"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=0
 msgctxt "56_Tadokoro's Subordinate"
 msgid "Are you ready?"
 msgstr "¿Estás listo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "68_Saejima"
 msgid "Yep."
 msgstr "Sí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Client
+#. y4:msg_speaker_id=3
 msgctxt "80_Client"
 msgid "Are you sure I'm going to be safe with this guy?"
 msgstr "¿Estás seguro de que voy a estar a salvo con este tipo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=0
 msgctxt "104_Tadokoro's Subordinate"
 msgid "You can breathe easy. Of all our employees, I'd wager he's our very best."
 msgstr "Tu tranquilo y yo nervioso. De todos nuestros empleados, apostaría a que este es el mejor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "116_Saejima"
 msgid "(How can he lie with such a straight face like that?)"
 msgstr "(¿Cómo puede tener la cara tan dura para mentir así?)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=0
 msgctxt "128_Tadokoro's Subordinate"
 msgid "Very well, then. Best of luck to you."
 msgstr "Muy bien. Te deseo la mejor de las suertes."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=0
 msgctxt "140_Tadokoro's Subordinate"
 msgid "But allow me to repeat myself, just in case. Your job is to hand over this gentleman safe and sound."
 msgstr "Pero permítame repetirlo, por si acaso. Su trabajo es entregar a este caballero sano y salvo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=0
 msgctxt "152_Tadokoro's Subordinate"
 msgid "If anything should happen to him, you'll take a commensurate amount of blame. Are we clear, Suzuki-san?"
 msgstr "Si algo le ocurriera, tú asumirás una parte importante de la culpa. ¿Está claro, Suzuki-san?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "164_Saejima"
 msgid "Yeah, I heard ya the first time."
 msgstr "Sí, ya te oí la primera vez."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=0
 msgctxt "176_Tadokoro's Subordinate"
 msgid "Excellent. Then I bid you farewell."
 msgstr "Excelente. En ese caso, me despido."
-

@@ -10,284 +10,635 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "8352"
 msgid "Foreign Man"
 msgstr "Hombre Extranjero"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "8356"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "8360"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "8364"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "8368"
 msgid "Slumdogs Member"
 msgstr "Miembro de Slumdogs"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "8372"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "8376"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "8380"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "8384"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "8388"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Foreign Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Foreign Man"
 msgid "Hey! Are you, ah, Kiryu-san?"
 msgstr "¡Oye! ¿Eres, eh, Kiryu-san?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "140_Kiryu"
 msgid "Yeah, that's me."
 msgstr "Sí, ese soy yo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Foreign Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Foreign Man"
 msgid "I heard the person who beats you becomes champion of this whole town! Fun game, you think?"
 msgstr "¡Escuché que quien te derrote se convierte en el campeón de toda la ciudad! Un juego divertido, ¿no crees?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "164_Kiryu"
 msgid "I see. So you're the Slumdogs, then?"
 msgstr "Ya veo. Entonces, ¿sois los Slumdogs?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Foreign Man
+#. y4:msg_speaker_id=0
 msgctxt "176_Foreign Man"
 msgid "Yes, yes! The Slumdogs! Cool name, yes?"
 msgstr "¡Sí, sí! ¡Los Slumdogs! ¿Nombre guay, eh?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "188_Slumdogs Member"
 msgid "Wait, how do you know our name? Are we famous!?"
 msgstr "Espera, ¿cómo sabes nuestro nombre? ¿¡Somos famosos!?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "200_Kiryu"
 msgid "No, not really. And pretty soon, it'll be a name nobody will ever hear again."
 msgstr "No, la verdad es que no. Y muy pronto, será un nombre que nadie volverá a escuchar."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "212_Slumdogs Member"
 msgid "Huh? Why do you say that thing?"
 msgstr "¿Eh? ¿Por qué dices eso?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "224_Kiryu"
 msgid "Because every gang that got in my way so far has disbanded. I'm pretty sure the same thing will happen to you."
 msgstr "Porque cada pandilla que se ha cruzado en mi camino hasta ahora se ha desintegrado. Estoy bastante seguro de que lo mismo les pasará a ustedes."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "236_Slumdogs Member"
 msgid "Hahaha! Well, I know that answer! All those Japanese gangs you fight before? They're weak!"
 msgstr "¡Ja, ja, ja! ¡Pues ya sé la respuesta! ¿Todas esas pandillas japonesas que peleaste antes? ¡Son débiles!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "248_Kiryu"
 msgid "So you guys are pretty strong, I take it?"
 msgstr "¿Así que ustedes son bastante fuertes, me imagino?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "260_Slumdogs Member"
 msgid "Of course! Much, much stronger than puny, weak Japanese! Hah!"
 msgstr "¡Por supuesto! ¡Mucho, mucho más fuertes que esos japoneses débiles y enclenques! ¡Ja!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "272_Slumdogs Member"
 msgid "Let's see how strong you are, yes? Let's fight!"
 msgstr "Veamos qué tan fuertes son, ¿sí? ¡Luchemos!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "284_Foreign Man"
 msgid "Hi there! Kiryu, yes?"
 msgstr "¡Hola! ¿Kiryu, verdad?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "296_Slumdogs Member"
 msgid "No time for talk! Boss wants your head on a platter!"
 msgstr "¡No hay tiempo para charlas! ¡El jefe quiere tu cabeza en una bandeja!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "308_Slumdogs Member"
 msgid "I'm going to fuck you up and take you back!"
 msgstr "¡Te voy a destrozar y te llevaré!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "320_Foreign Man"
 msgid "I find you!"
 msgstr "¡Te encontré!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "332_Slumdogs Member"
 msgid "Time to beat you, sorry!"
 msgstr "¡Es hora de derrotarte, lo siento!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=19
+#. y4:msg_location=T1.P19
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "344_Foreign Man"
 msgid "Kiryu, right? Hope you ready to die!"
 msgstr "¿Kiryu, verdad? ¡Espero que estés listo para morir!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "380_Foreign Man"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "392_Kiryu"
 msgid "Looks like you better stop taking Japanese people so lightly."
 msgstr "Parece que deberías dejar de subestimar a los japoneses."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "404_Slumdogs Member"
 msgid "Yeah, well, you're a Coliseum champion! You're not like other Japanese, yes!?"
 msgstr "Sí, bueno, ¡tú eres un campeón del Coliseo! ¡No eres como otros japoneses, ¿verdad!?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "416_Kiryu"
 msgid "Wait, how do you know about the Coliseum? Have you fought there?"
 msgstr "Espera, ¿cómo sabes sobre el Coliseo? ¿Has peleado allí?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "428_Slumdogs Member"
 msgid "No, no. Our boss knows a lot of underground information."
 msgstr "No, no. Nuestro jefe sabe mucha información clandestina."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "440_Slumdogs Member"
 msgid "That's why our gang is much, much different than others!"
 msgstr "¡Por eso nuestra pandilla es muy, muy diferente a las demás!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "452_Kiryu"
 msgid "I see."
 msgstr "Ya veo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=8
+#. y4:msg_location=T2.P8
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "464_Kiryu"
 msgid "Tell me then, where is your boss? Reign, was it?"
 msgstr "Dime entonces, ¿dónde está tu jefe? ¿Reign, era?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "476_Slumdogs Member"
 msgid "How you know that!?"
 msgstr "¡¿Cómo sabes eso?!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "488_Kiryu"
 msgid "I have some underground connections myself. I don't spend all my time fighting thugs."
 msgstr "Yo también tengo algunos contactos clandestinos. No me paso todo mi tiempo peleando con matones."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=11
+#. y4:msg_location=T2.P11
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "500_Slumdogs Member"
 msgid "Heh..."
 msgstr "Je..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=12
+#. y4:msg_location=T2.P12
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "512_Slumdogs Member"
 msgid "You have connections? But you don't know where Reign is, yes? Not very good connections, then! Hah!"
 msgstr "¿Tienes contactos? Pero no sabes dónde está Reign, ¿verdad? ¡No son muy buenos contactos, entonces! ¡Ja!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "524_Kiryu"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=14
+#. y4:msg_location=T2.P14
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "536_Slumdogs Member"
 msgid "Well, I won't tell you, no no! Try next guy you're fighting! I out of here!"
 msgstr "Bueno, no te lo diré, ¡no, señor! ¡Prueba con el próximo tipo con que pelees! ¡Yo me largo de aquí!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=15
+#. y4:msg_location=T2.P15
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "548_Foreign Man"
 msgid "Oogh, everything hurts..."
 msgstr "Oogh, todo duele..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "560_Kiryu"
 msgid "It's over. Tell me where Reign is."
 msgstr "Se acabó. Dime dónde está Reign."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=17
+#. y4:msg_location=T2.P17
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "572_Slumdogs Member"
 msgid "I can't! I do that, they kill me! Our orders are only to beat Kiryu and bring him back to boss!"
 msgstr "¡No puedo! Si hago eso, ¡me matan! ¡Nuestras órdenes son solo vencer a Kiryu y llevarlo con el jefe!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=18
+#. y4:msg_location=T2.P18
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "584_Slumdogs Member"
 msgid "Let me go!"
 msgstr "¡Déjame ir!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=19
+#. y4:msg_location=T2.P19
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "596_Foreign Man"
 msgid "Urgh..."
 msgstr "Urgh..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=20
+#. y4:msg_location=T2.P20
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "608_Kiryu"
 msgid "Now do you feel like telling me where Reign is?"
 msgstr "¿Ahora quieres decirme dónde está Reign?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=21
+#. y4:msg_location=T2.P21
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "620_Slumdogs Member"
 msgid "What!? No! I can't."
 msgstr "¿Qué!? ¡No! No puedo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=22
+#. y4:msg_location=T2.P22
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "632_Foreign Man"
 msgid "Shit... We beat you someday! Remember this!"
 msgstr "Mierda... ¡Algún día te ganaremos! ¡Recuerda esto!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=23
+#. y4:msg_location=T2.P23
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "644_Kiryu"
 msgid "(They keep on coming. I'd better find Reign fast and put an end to this.)"
 msgstr "(Siguen llegando. Será mejor que encuentre Reign rápido y ponga fin a esto.)"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "680_Foreign Man"
 msgid "If you think we Slumdogs give up easy, think again!"
 msgstr "Si crees que los Slumdogs renuncian fácilmente, ¡piensa otra vez!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=2
+#. y4:msg_location=T3.P2
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "692_Foreign Man"
 msgid "We lost bad..."
 msgstr "Hemos perdido..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=3
+#. y4:msg_location=T3.P3
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "704_Foreign Man"
 msgid "Let me go! I'm sorry! Very sorry!"
 msgstr "¡Déjame ir! ¡Lo siento! ¡Lo siento mucho!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=4
+#. y4:msg_location=T3.P4
+#. y4:msg_speaker=Slumdogs Member
+#. y4:msg_speaker_id=4
 msgctxt "716_Foreign Man"
 msgid "We make you pay someday!"
 msgstr "¡Algún día te haremos pagar!"
-

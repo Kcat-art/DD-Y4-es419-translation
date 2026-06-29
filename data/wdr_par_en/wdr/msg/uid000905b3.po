@@ -17,26 +17,52 @@ msgstr ""
 "X-Crowdin-File-ID: 61562\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "984"
 msgid "Chatty Businesswoman"
 msgstr "Mujer de negocios habladora"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "988"
 msgid "Reserved Businesswoman"
 msgstr "Mujer de negocios reservada"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "992"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "996"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Chatty Businesswoman
+#. y4:msg_speaker_id=0
 msgctxt "84_Chatty Businesswoman"
 msgid "Doesn't it seem like there are more... thugs around town?"
 msgstr "¿No parece que hay más... matones por la ciudad?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Reserved Businesswoman
+#. y4:msg_speaker_id=1
 msgctxt "96_Reserved Businesswoman"
 msgid "Hm? I haven't noticed."
 msgstr "¿Mm? No me he dado cuenta."
@@ -53,7 +79,13 @@ msgid "I wonder if something's going on. Kamurocho is usually so\\r\n"
 "safe and quiet, too!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Reserved Businesswoman
+#. y4:msg_speaker_id=1
 msgctxt "132_Reserved Businesswoman"
 msgid "Is it, though...?"
 msgstr "¿Pero... lo es de verdad?"
-

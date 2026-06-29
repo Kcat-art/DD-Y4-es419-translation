@@ -17,34 +17,76 @@ msgstr ""
 "X-Crowdin-File-ID: 61586\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
 msgctxt "140"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2088"
 msgid "Noodle-armed Homeless Man"
 msgstr "Sin hogar debilucho"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2092"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2096"
 msgid "Manholes"
 msgstr "Tapas de alcantarilla"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Noodle-armed Homeless Man
+#. y4:msg_speaker_id=0
 msgctxt "56_Noodle-armed Homeless Man"
 msgid "I usually sleep down there, but I stepped away for a hot minute, and someone sealed it off!"
 msgstr "Usualmente duermo aquí abajo, pero alguien lo cerró mientras no estaba. ¡Ahora no puedo volver!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Noodle-armed Homeless Man
+#. y4:msg_speaker_id=0
 msgctxt "68_Noodle-armed Homeless Man"
 msgid "You need special tools to get it open. That, or be stronger than a bear... Can't believe I forgot my dang tools down there."
 msgstr "Estas tapas solo se puede abrir con herramientas especiales o usando la fuerza bruta... No puedo creer que olvidé mis herramientas allá abajo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Manholes
+#. y4:msg_speaker_id=2
 msgctxt "80_Noodle-armed Homeless Man"
 msgid "To get to locations while avoiding police detection, move along rooftops or through the sewers. Saejima can also open certain manholes and move through the underground. Use these secret paths to complete your objectives swiftly and secretly."
 msgstr "Para que Saejima llegue a su destino sin ser detectado por la policía, es fundamental que se desplace utilizando los tejados o las alcantarillas. Además, tiene la habilidad de abrir ciertas tapas de alcantarilla, lo que le permite acceder a las zonas subterráneas y moverse entre ellas. Aprovecha bien estos caminos secretos para cumplir tus objetivos de forma rápida y sigilosa."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Manholes
+#. y4:msg_speaker_id=2
 msgctxt "92_Noodle-armed Homeless Man"
 msgid "You can view manhole locations on your map, as well as the minimap."
 msgstr "Las entradas a las alcantarillas están marcadas en el mapa y minimapa."
@@ -57,7 +99,13 @@ msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default
 "Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"
 "Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Noodle-armed Homeless Man
+#. y4:msg_speaker_id=0
 msgctxt "116_Noodle-armed Homeless Man"
 msgid "I'll just have to get in when the lid's opened up again. Last time, I had to wait three days... Hope it won't be that long this time."
 msgstr "Esperaré hasta que alguien vuelva a abrir la tapa. La última vez tuve que esperar tres días... me pregunto cuánto tendré que esperar ahora."
-

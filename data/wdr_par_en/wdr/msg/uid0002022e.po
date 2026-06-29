@@ -10,54 +10,99 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1184"
 msgid "Hayashida"
 msgstr "Hayashida"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1188"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1192"
 msgid "Kataoka"
 msgstr "Kataoka"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1196"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1200"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1204"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Hayashida
+#. y4:msg_speaker_id=0
 msgctxt "72_Hayashida"
 msgid "How'd you get that awesome chain, Kataoka-san? I'm jealous as all hell, man."
 msgstr "¿Cómo conseguiste esa increíble cadena, Kataoka-san? Estoy celoso como un demonio, hombre."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Kataoka
+#. y4:msg_speaker_id=2
 msgctxt "84_Kataoka"
 msgid "Remember when I was doing construction on the new cell block? I knicked it from there, no problem."
 msgstr "¿Recuerdas cuando estaba construyendo el nuevo bloque de celdas? La saque de allí, sin problemas."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Hayashida
+#. y4:msg_speaker_id=0
 msgctxt "96_Hayashida"
 msgid "Shit, I gotta get one of those construction jobs! I could use myself a nice new weapon."
 msgstr "¡Mierda, tengo que conseguir uno de esos trabajos de constructor! Me vendría bien una buena arma nueva."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=5
 msgctxt "108_Saejima"
 msgid "(Chain, huh? Looks like I found my man.)"
 msgstr "(Cadena, ¿eh? Parece que encontré a mi hombre)"
-

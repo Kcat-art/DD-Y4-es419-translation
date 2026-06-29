@@ -12,29 +12,44 @@ msgstr ""
 
 #. y4:line_status=translated
 #. y4:translated_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1504"
 msgid "Sedentary Businessman"
 msgstr "Empresario sedentario"
 
 #. y4:line_status=translated
 #. y4:translated_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1508"
 msgid "Sporty Businesswoman"
 msgstr "Empresaria deportista"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1512"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1516"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1520"
 msgid "Saejima"
 msgstr "Saejima"
@@ -47,6 +62,13 @@ msgstr "¿Qué te parece si después de entrenar vamos por un Yakiniku? Escuché
 
 #. y4:line_status=translated
 #. y4:translated_by=Keiner
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Sporty Businesswoman
+#. y4:msg_speaker_id=1
 msgctxt "96_Sporty Businesswoman"
 msgid "And cancel out all the calories I just burned? Yeah right!"
 msgstr "¿Y recuperar todas las calorías que acabo de quemar? ¡Sí, ajá!"
@@ -65,6 +87,13 @@ msgstr "¿No percibes el olor a parrilla en el aire?\n¿Cómo te puedes resistir
 
 #. y4:line_status=translated
 #. y4:translated_by=Keiner
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Sporty Businesswoman
+#. y4:msg_speaker_id=1
 msgctxt "132_Sporty Businesswoman"
 msgid "Hrm. Well... *stomach growls*"
 msgstr "Ehhh, pues... *estómago gruñendo*"
@@ -77,7 +106,13 @@ msgstr "No pasará nada si no comemos mucho. Entonces,\n¿vamos por yakiniku?"
 
 #. y4:line_status=translated
 #. y4:translated_by=Keiner
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=4
 msgctxt "156_Saejima"
 msgid "(After a quarter century in the slammer, yakiniku sounds mighty fine. That, and a cold beer to wash it down with.)"
 msgstr "(Me merezco un buen yakiniku después de tanto tiempo en la carcel. Sí y una cerveza también)."
-

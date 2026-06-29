@@ -10,57 +10,94 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4800"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4804"
 msgid "Shinya"
 msgstr "Shinya"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4808"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4812"
 msgid "Woman"
 msgstr "Mujer"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4816"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4820"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "4824"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "4828"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "4832"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "4836"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "84_Kiryu"
 msgid "Hm?"
 msgstr "¿Mm?"
@@ -71,16 +108,37 @@ msgid "What the hell are you doing here!? If someone spots you, my\\r\nwhole pla
 msgstr "¡¿Qué demonios estás haciendo aquí?! Si alguien te ve,\\r\n¡Todo el plan se irá por la borda!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Woman
+#. y4:msg_speaker_id=3
 msgctxt "108_Woman"
 msgid "I know, I know! I just... wanted to see you so bad!"
 msgstr "¡Lo sé, lo sé! Sólo... ¡Tenía muchas ganas de verte!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Shinya
+#. y4:msg_speaker_id=1
 msgctxt "120_Shinya"
 msgid "Yeah, whatever. Like that's supposed to make it okay."
 msgstr "Sí, lo que sea. Como si fuera que eso ayude ahora."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Shinya
+#. y4:msg_speaker_id=1
 msgctxt "132_Shinya"
 msgid "Fucking shit! Everything's going all wrong!"
 msgstr "¡Puta mierda! ¡Todo se fue al carajo!"
@@ -96,11 +154,25 @@ msgid "I knew Yuya was spineless, but I didn't realize just how\\r\nmuch of a co
 msgstr "Sabía que Yuya era un tibio, pero jamás me di cuenta de que\\r\nera muy cobarde."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Woman
+#. y4:msg_speaker_id=3
 msgctxt "168_Woman"
 msgid "Shinya-kun... Are you saying I didn't help?"
 msgstr "Shinya-kun... ¿Estás diciendo que no ayudé?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Shinya
+#. y4:msg_speaker_id=1
 msgctxt "180_Shinya"
 msgid "What are you, stupid!? You're fucking useless!"
 msgstr "¡¿Qué eres, estúpida?! ¡Eres una maldita inútil!"
@@ -111,36 +183,85 @@ msgid "If Mitsuru doesn't get tossed out on his ass, what the hell\\r\nwas the p
 msgstr "Si a Mitsuru ni siquiera lo echan, ¡¿de qué demonios\\r\niba a servir eso de que te hicieras pasar por un cliente?!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Woman
+#. y4:msg_speaker_id=3
 msgctxt "204_Woman"
 msgid "Shinya-kun..."
 msgstr "Shinya-kun..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Shinya
+#. y4:msg_speaker_id=1
 msgctxt "216_Shinya"
 msgid "Don't \"Shinya-kun\" me!"
 msgstr "¡No intentes consolarme así!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Shinya
+#. y4:msg_speaker_id=1
 msgctxt "228_Shinya"
 msgid "Everywhere I go, it's always Mitsuru this and Mitsuru that! Nobody shuts their mouths about fuckin' Mitsuru!"
 msgstr "¡Dondequiera que vaya, siempre es Mitsuru esto y Mitsuru lo otro! ¡Nadie se calla la boca por el puto Mitsuru!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Shinya
+#. y4:msg_speaker_id=1
 msgctxt "240_Shinya"
 msgid "God dammit! There has to be something I can do..."
 msgstr "¡Maldita sea! Tiene que haber algo que pueda hacer..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "252_Kiryu"
 msgid "Looks like Kazuki was spot on."
 msgstr "Parece que Kazuki dio en el clavo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Shinya
+#. y4:msg_speaker_id=1
 msgctxt "264_Shinya"
 msgid "Huh? The hell's your problem, man!?"
 msgstr "¿Eh? ¡¿Qué demonios es tu problema, tío?!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "276_Kiryu"
 msgid "You're Shinya from Stardust, right?"
 msgstr "Eres Shinya del Stardust, ¿no?"
@@ -151,11 +272,25 @@ msgid "Don't know what you're talking about, old man. Now step the\\r\nhell off!
 msgstr "No sé de lo que estás hablando, viejo. ¡Ahora vete\\r\nal diablo!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "300_Kiryu"
 msgid "Look, just cut the crap and come with me."
 msgstr "Mira, deja de actuar como un imbécil y ven conmigo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=19
+#. y4:msg_location=T1.P19
+#. y4:msg_speaker=Woman
+#. y4:msg_speaker_id=3
 msgctxt "312_Woman"
 msgid "Shinya-kun, Shinya-kun! I think he overheard us!"
 msgstr "¡Shinya-kun, Shinya-kun! ¡Creo que nos escuchó!"
@@ -171,6 +306,13 @@ msgid "You hear that, man? You better get lost if you know what's\\r\ngood for y
 msgstr "¿Oyes eso, viejo? Será mejor que te pierdas si sabes lo que es\\r\nBueno para ti."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=22
+#. y4:msg_location=T1.P22
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "348_Kiryu"
 msgid "Sorry, but I'm not going anywhere. I think you need a little lesson on what it means to be a friendly host."
 msgstr "Lo siento, pero no me voy a ir a ninguna parte. Creo que necesitas una pequeña lección sobre lo que significa ser un host amable."
@@ -179,4 +321,3 @@ msgstr "Lo siento, pero no me voy a ir a ninguna parte. Creo que necesitas una p
 msgctxt "360_Shinya"
 msgid "Talk all you want, big man! You're not gonna keep running\\r\nyour mouth once you're six feet under!"
 msgstr "¡Habla todo lo que quieras, grandulón! ¡No vas a seguir abriendo\\r\ntu bocota una vez que estés a seis metros bajo tierra!"
-

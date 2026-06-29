@@ -10,58 +10,91 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "5752"
 msgid "Arima"
 msgstr "Arima"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "5756"
 msgid "P_aki_sitsofa"
 msgstr "P_aki_sitsofa"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "5760"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "5764"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "5768"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "5772"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "5776"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "5780"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "5784"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "5788"
 msgid "P_aki_stand"
 msgstr "P_aki_stand"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "5792"
 msgid "P_aki_sitsofa_tlk_kamae_ed"
 msgstr "P_aki_sitsofa_tlk_kamae_ed"
@@ -72,6 +105,13 @@ msgid "You know, we hear our fair share of things about Sky\\r\nFinance, too."
 msgstr "Sabe, también solemos escuchar muchos rumores sobre su\\r\nSky Finance, Akiyama-san."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "80_Akiyama"
 msgid "Oh, yeah?"
 msgstr "¿Ah, sí?"
@@ -82,6 +122,13 @@ msgid "Things like your... unique business model flying in the\\r\nface of good 
 msgstr "Cosas como que opera con un sistema peculiar que\\r\nrompe con las bonitas prácticas del sector financiero."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "104_Akiyama"
 msgid "......"
 msgstr "......"
@@ -92,6 +139,13 @@ msgid "Rumor has it your system can't function without a huge\\r\namount of fina
 msgstr "Se rumorea que su sistema no puede funcionar sin un gran\\r\nmonto de respaldo financiero."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "128_Akiyama"
 msgid "...What was it you wanted to ask me?"
 msgstr "...¿Qué era lo que querías preguntarme?"
@@ -107,16 +161,37 @@ msgid "I'll cut to the chase: will you join forces with me,\\r\nAkiyama-san?"
 msgstr "Bueno, iré directo al grano.\\r\nAkiyama-san, ¿le gustaría aliarse conmigo?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "164_Akiyama"
 msgid "Join forces?"
 msgstr "¿Aliarnos?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Arima
+#. y4:msg_speaker_id=0
 msgctxt "176_Arima"
 msgid "Enter into a partnership. Help each other out."
 msgstr "Ya sabe, tener una sociedad. Ayudarnos mutuamente."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "188_Akiyama"
 msgid "......"
 msgstr "......"
@@ -127,6 +202,13 @@ msgid "If Tenjin Loans and Sky Finance were to join forces, share\\r\nour connec
 msgstr "Si Préstamos Tenjin y Sky Finance unieran fuerzas, compartiríamos\\r\nnuestras conexiones e información de clientes..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Arima
+#. y4:msg_speaker_id=0
 msgctxt "212_Arima"
 msgid "I'm sure business would be much more efficient."
 msgstr "Estoy seguro de que el negocio sería mucho más eficiente."
@@ -137,36 +219,85 @@ msgid "And because we can expect bigger bank loans, we'll be able\\r\nto expand 
 msgstr "Y debido a que podemos esperar préstamos bancarios más grandes, podremos\\r\nampliar también el alcance de nuestras operaciones."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "236_Akiyama"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Arima
+#. y4:msg_speaker_id=0
 msgctxt "248_Arima"
 msgid "Care to rule alongside me as the kings of Kamurocho finance?"
 msgstr "¿No te gustaría que tomemos todo el control de las finanzas en Kamurocho?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "260_Akiyama"
 msgid "No, thank you."
 msgstr "Por supuesto que no."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Arima
+#. y4:msg_speaker_id=0
 msgctxt "284_Arima"
 msgid "Why not? I think it would be a pretty sweet deal."
 msgstr "¿Por qué no? Creí que te parecería un trato jugoso."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "296_Akiyama"
 msgid "I'm afraid I much prefer working alone."
 msgstr "Me temo que prefiero trabajar solo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Arima
+#. y4:msg_speaker_id=0
 msgctxt "308_Arima"
 msgid "You don't come across offers this good every day."
 msgstr "No te encuentras con ofertas como estas todos los días."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "320_Akiyama"
 msgid "If it were that good, you wouldn't be making it to me."
 msgstr "Si realmente fuera tan buena, no me la estarías diciendo."
@@ -187,7 +318,13 @@ msgid "Look, I tried to talk to you like a grownup out of courtesy.\\r\nIf that'
 msgstr "Mira, traté de hablar contigo como un adulto por cortesía.\\r\nSi vas a ponerte en ese plan, entonces usaré otros métodos.\\r\n¡No digas que no te lo advertí!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=29
+#. y4:msg_location=T0.P29
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "404_Akiyama"
 msgid "Thanks for the tip."
 msgstr "Gracias por el consejo."
-

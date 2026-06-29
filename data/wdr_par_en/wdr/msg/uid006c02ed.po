@@ -17,106 +17,256 @@ msgstr ""
 "X-Crowdin-File-ID: 60610\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
 msgctxt "512"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
 msgctxt "1004"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "12760"
 msgid "Maya"
 msgstr "Maya"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "12764"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "12768"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "12772"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "12776"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "12780"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "12784"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "116_Maya"
 msgid "I'm not losing today!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "128_Player"
 msgid "You're very confident."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "140_Maya"
 msgid "Let's go in."
 msgstr "Entremos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "164_Maya"
 msgid "I'm not losing today!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "176_Maya"
 msgid "Let's go in."
 msgstr "Entremos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "188_Player"
 msgid "Hold up. I didn't bring enough money."
 msgstr "Espera. No traje mucha pasta."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "200_Maya"
 msgid "Seriously? No credit card or anything?"
 msgstr "¿Enserio? ¿Ni tarjeta de credito ni nada?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "212_Player"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "224_Maya"
 msgid "Are you kidding me!? I'm going home. See you later."
 msgstr "¡¿Me estás tomando el pelo?! Me voy a casa. Nos vemos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "236_Player"
 msgid "(I should've made sure I had some cash...)"
 msgstr "(Debería haberme asegurado de tener algo de dinero...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "344_Maya"
 msgid "You're amazing! You wiped the floor with me. I really thought I was gonna win..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "356_Player"
 msgid "Heh."
 msgstr "Je."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "368_Maya"
 msgid "That was a lot of fun! Wanna go out again?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "380_Player"
 msgid "Of course."
 msgstr "No se preocupe."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "392_Maya"
 msgid "I should get going. See you at the club!"
 msgstr "Me tengo que ir. ¡Nos vemos en el club!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "416_Maya"
 msgid "Haha. It's a draw."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "428_Player"
 msgid "Guess so."
 msgstr "Supongo."
@@ -125,10 +275,24 @@ msgctxt "440_Maya"
 msgid "I was really getting into it. Let's definitely do this again! <Color:7>♥<Color:Default> I'll see you around."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "464_Maya"
 msgid "Sorry, Kiryu-san. I win this time!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "476_Player"
 msgid "Heh. You got me."
 msgstr ""
@@ -137,91 +301,244 @@ msgctxt "488_Maya"
 msgid "We should do this again sometime. <Color:7>♥<Color:Default> See you around."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "596_Maya"
 msgid "I'm not losing today!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "608_Player"
 msgid "You're very confident."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "620_Maya"
 msgid "Let's go in."
 msgstr "Entremos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "644_Maya"
 msgid "I'm not losing today!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "656_Maya"
 msgid "Let's go in."
 msgstr "Entremos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "668_Player"
 msgid "Hold up. I didn't bring enough money."
 msgstr "Espera. No traje mucha pasta."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "680_Maya"
 msgid "Seriously? No credit card or anything?"
 msgstr "¿Enserio? ¿Ni tarjeta de credito ni nada?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "692_Player"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "704_Maya"
 msgid "Are you kidding me!? I'm going home. See you later."
 msgstr "¡¿Me estás tomando el pelo?! Me voy a casa. Nos vemos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "716_Player"
 msgid "(I should've made sure I had some cash...)"
 msgstr "(Debería haberme asegurado de tener algo de dinero...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "824_Maya"
 msgid "You're amazing! You wiped the floor with me. I really thought I was gonna win..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "836_Player"
 msgid "Heh."
 msgstr "Je."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "848_Maya"
 msgid "That was a lot of fun! Wanna go out again?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "860_Player"
 msgid "Of course."
 msgstr "No se preocupe."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "884_Maya"
 msgid "Haha. It's a draw."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "896_Player"
 msgid "Guess so."
 msgstr "Supongo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=11
+#. y4:msg_location=T3.P11
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "908_Maya"
 msgid "I was really getting into it. Wanna go to the club next?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=12
+#. y4:msg_location=T3.P12
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "920_Player"
 msgid "Yeah."
 msgstr "Sí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "944_Maya"
 msgid "Sorry, Kiryu-san. I win this time!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "956_Player"
 msgid "Heh. You got me."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=16
+#. y4:msg_location=T3.P16
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=0
 msgctxt "968_Maya"
 msgid "Wanna hit up the club now?"
 msgstr "¿Quieres ir al club?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=17
+#. y4:msg_location=T3.P17
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "980_Player"
 msgid "Sure."
 msgstr "Claro."
-

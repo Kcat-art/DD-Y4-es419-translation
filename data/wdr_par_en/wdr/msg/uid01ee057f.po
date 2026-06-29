@@ -17,43 +17,128 @@ msgstr ""
 "X-Crowdin-File-ID: 60620\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Read It -> T0.P2 | 2. Not Now -> T0.P8
 msgctxt "112"
 msgid "Look at the flyer?"
 msgstr "¿Mirar el volante?"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1372"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1376"
 msgid "2d_cf_zasshi_mobage1"
 msgstr "2d_cf_zasshi_mobage1"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1380"
 msgid "2d_cf_zasshi_mobage1qr"
 msgstr "2d_cf_zasshi_mobage1qr"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "100_Player"
 msgid "(It's a flyer for Hanage Park.)"
 msgstr "(Es un volante para parque Hanage)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Read It
 msgctxt "136_Player"
 msgid "(\"Come one, come all, to Hanage Park! Play addictive games and dress up your own 3D avatars! Join the sensation that's sweeping the nation!\")"
 msgstr "(\"¡Vengan todos a parque Hanage! Juega a adictivos juegos y viste a tu propio avatar 3D! ¡Únete a la sensación que está arrasando en todo el país!\")."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Read It
 msgctxt "172_Player"
 msgid "(\"Scan this QA code for a special tattoo for your 3D avatar in Hanage Park!\")"
 msgstr "(\"¡Escanea este código QA para un tatuaje especial para tu avatar 3D en parque Hanage!\")."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not Now
 msgctxt "196_Player"
 msgid "(Not right now...)"
 msgstr "(Ahora no...)"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P2
+#. y4:msg_branch_segment=T0.P2..P7
+#. y4:msg_branch_target_text=("Come one, come all, to Hanage Park! Play addictive games and dress up your own 3D avatars! Join the sensation that's sweeping the nation!")
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "208_Player"
 msgid "Read It"
 msgstr ""
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P8
+#. y4:msg_branch_segment=T0.P8..P8
+#. y4:msg_branch_target_text=(Not right now...)
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "220_Player"
 msgid "Not Now"
 msgstr "Ahora no"
-

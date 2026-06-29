@@ -17,15 +17,31 @@ msgstr ""
 "X-Crowdin-File-ID: 62634\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "500"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "72_Akiyama"
 msgid "(That's probably all I'm gonna find. I better get out of here before someone sees me.)"
 msgstr "(Creo que eso es todo lo que voy a encontrar. Será mejor que me vaya de aquí antes que alguien me vea)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "96_Akiyama"
 msgid "(Why does it feel like I'm missing something? I better take another look around.)"
 msgstr "(¿Por qué siento que me estoy olvidando algo? Tal vez deba revisar mejor)."
-

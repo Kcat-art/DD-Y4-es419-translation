@@ -17,22 +17,59 @@ msgstr ""
 "X-Crowdin-File-ID: 59316\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Go Fishing -> T0.P1 | 2. Don't Fish -> T0.P3
 msgctxt "332"
 msgid "Do you want to fish here?"
 msgstr "¿Quiere pescar aquí?"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4192"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4196"
 msgid "Fishing"
 msgstr "Pesca"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go Fishing
 msgctxt "344_Player"
 msgid "(Let's do some fishing.)"
 msgstr "(Hora de pescar un poco.)"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Fish
 msgctxt "368_Player"
 msgid "(On second thought... Maybe not.)"
 msgstr "(Pensándolo bien... quizá no)."
@@ -62,81 +99,275 @@ msgstr "Lance el sedal y espere a que un pez muerda el anzuelo.\\r\n"
 "El ícono <Action:Button_Cross@Fishing> aparecerá cuando un pez pique. \\r\n"
 "Presione rápidamente <Action:Button_Cross@Fishing> y recoja el sedal."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Fishing
+#. y4:msg_speaker_id=1
 msgctxt "416_Fishing"
 msgid "<Action:Button_R1@Fishing> reels in, while <Action:Button_L1@Fishing> adds slack. Pay attention to the Tension Gauge, and don't let the fish snap your line. Use <Action:Button_LS_Left@Fishing><Action:Button_LS_Right@Fishing>, following the movement of the fish. Move it up and down to raise or lower the pole."
 msgstr "<Action:Button_R1@Fishing> enrolla, mientras que <Action:Button_L1@Fishing> suelta. Preste atención al indicador de tensión y no deje que los peces rompan el sedal. Mueva<Action:Button_LS_Left@Fishing><Action:Button_LS_Right@Fishing> siguiendo el movimiento del pez. Mueva arriba y abajo \\r\n"
 "para subir o bajar la caña."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Fishing
+#. y4:msg_speaker_id=1
 msgctxt "428_Fishing"
 msgid "If you control the line's tension and completely reel it in, you will successfully catch the fish."
 msgstr "Si controla la tensión del sedal y lo trae entero, \\r\n"
 "capturará el pescado con éxito."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "440_Player"
 msgid "(I bet there are lots of fish over there...)"
 msgstr "(Apuesto a que hay muchos peces por allí...)"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go Fishing
 msgctxt "464_Player"
 msgid "(All right, let's get the bait ready. This is what I've got with me...)"
 msgstr "(Muy bien, a preparar el cebo. Esto es lo que llevo encima...)"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=3
+#. y4:msg_phrase=2
+#. y4:msg_location=T3.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Read Instructions
 msgctxt "476_Player"
 msgid "(I should review the instructions.)"
 msgstr "(Debería repasar las instrucciones.)"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=3
+#. y4:msg_phrase=3
+#. y4:msg_location=T3.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Don't Fish
 msgctxt "488_Player"
 msgid "(Maybe later.)"
 msgstr "(Tal vez más tarde)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "500_Player"
 msgid "(I didn't get a bite...)"
 msgstr "(Nada mordió el anzuelo...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "512_Player"
 msgid "(My timing was off...)"
 msgstr "(Se me fue la mano...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "524_Player"
 msgid "(The line broke...)"
 msgstr "(Se rompió el sedal...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "536_Player"
 msgid "(The fish got away...)"
 msgstr "(El pez se escapó...)"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=8
+#. y4:msg_phrase=1
+#. y4:msg_location=T8.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Keep Fishing
 msgctxt "560_Player"
 msgid "(I need to put new bait on.)"
 msgstr "(Necesito poner cebo nuevo.)"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=8
+#. y4:msg_phrase=2
+#. y4:msg_location=T8.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Stop Fishing
 msgctxt "572_Player"
 msgid "(That's enough for now.)"
 msgstr "(Es suficiente por ahora.)"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P1
+#. y4:msg_branch_segment=T0.P1..P2
+#. y4:msg_branch_target_text=(Let's do some fishing.)
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "584_Player"
 msgid "Go Fishing"
 msgstr "Ir de Pesca"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P3
+#. y4:msg_branch_segment=T0.P3..P3
+#. y4:msg_branch_target_text=(On second thought... Maybe not.)
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "596_Player"
 msgid "Don't Fish"
 msgstr "No Pescar"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P1
+#. y4:msg_branch_segment=T0.P1..P2
+#. y4:msg_branch_target_text=(Let's do some fishing.)
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "608_Player"
 msgid "Go Fishing"
 msgstr "Ir de Pesca"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=12
+#. y4:msg_phrase=0
+#. y4:msg_location=T12.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P2
+#. y4:msg_branch_segment=T3.P2..P2
+#. y4:msg_branch_target_text=(I should review the instructions.)
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "620_Player"
 msgid "Read Instructions"
 msgstr "Leer las Instrucciones"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P3
+#. y4:msg_branch_segment=T0.P3..P3
+#. y4:msg_branch_target_text=(On second thought... Maybe not.)
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "632_Player"
 msgid "Don't Fish"
 msgstr "No Pescar"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=14
+#. y4:msg_phrase=0
+#. y4:msg_location=T14.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T8.P1
+#. y4:msg_branch_segment=T8.P1..P1
+#. y4:msg_branch_target_text=(I need to put new bait on.)
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "644_Player"
 msgid "Keep Fishing"
 msgstr "Seguir Pescando"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T8.P2
+#. y4:msg_branch_segment=T8.P2..P2
+#. y4:msg_branch_target_text=(That's enough for now.)
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "656_Player"
 msgid "Stop Fishing"
 msgstr "Dejar de Pescar"
-

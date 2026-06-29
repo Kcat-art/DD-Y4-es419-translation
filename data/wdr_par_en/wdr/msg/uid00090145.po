@@ -17,35 +17,82 @@ msgstr ""
 "X-Crowdin-File-ID: 62354\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1244"
 msgid "Yakuza In the Know"
 msgstr "Yakuza enterado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1248"
 msgid "Punk"
 msgstr "Matón"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Yakuza In the Know
+#. y4:msg_speaker_id=0
 msgctxt "84_Yakuza In the Know"
 msgid "Sky Finance got caught up in some trouble, but honestly, I'm not surprised. That Akiyama's a real strange guy."
 msgstr "Sky Finance está en bastantes problemas, y ¿sabes qué? No me sorprende nada. Ese Akiyama es un tipo muy peculiar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Punk
+#. y4:msg_speaker_id=1
 msgctxt "96_Punk"
 msgid "You know that Akiyama guy, Aniki?"
 msgstr "¿Conoces a ese tal Akiyama, aniki?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Yakuza In the Know
+#. y4:msg_speaker_id=0
 msgctxt "108_Yakuza In the Know"
 msgid "'Course I do. Ain't no one in the Kamurocho underworld who hasn't heard o' him. But I'd keep my distance if I were you."
 msgstr "Pues claro que sí. No hay nadie en el bajo mundo de Kamurocho que no haya oído de él. Pero me mantendría lejos si fuera tú."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Punk
+#. y4:msg_speaker_id=1
 msgctxt "120_Punk"
 msgid "Yeah? I heard some yakuza group busted into his place, though..."
 msgstr "¿De verdad? Escuché que algunos yakuzas arremetieron en su oficina..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Yakuza In the Know
+#. y4:msg_speaker_id=0
 msgctxt "132_Yakuza In the Know"
 msgid "The rich never gotta fight their own battles. It's just stupid to start messin' with 'em."
 msgstr "Los ricos nunca enfrentan sus propias batallas. No tiene sentido empezar a provocarlos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Yakuza In the Know
+#. y4:msg_speaker_id=0
 msgctxt "144_Yakuza In the Know"
 msgid "Believe me, you don't wanna ruffle Akiyama's feathers. I'd never do anything stupid like that."
 msgstr "Créeme, no quieres andar jodiendo a Akiyama. Ni yo haría algo tan estúpido."
-

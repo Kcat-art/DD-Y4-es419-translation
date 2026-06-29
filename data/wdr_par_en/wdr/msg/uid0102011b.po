@@ -17,20 +17,39 @@ msgstr ""
 "X-Crowdin-File-ID: 61932\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1544"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1548"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "128_Akiyama"
 msgid "(Hm? That was Kido-chan from Kanemura Enterprises... What's got him in a hurry?)"
 msgstr "(¿Mm? Ese era Kido-chan de Kanemura Enterprises...\n"
 "¿Por qué tendra tanta prisa?)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "140_Akiyama"
 msgid "(I should drop in and see what's up. Debt collection can wait.)"
 msgstr "(Parece que pasó algo. Tendré que pausar la recolecta)."
-

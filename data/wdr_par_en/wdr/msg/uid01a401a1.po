@@ -17,86 +17,181 @@ msgstr ""
 "X-Crowdin-File-ID: 62018\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "7880"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "7884"
 msgid "Shady Man"
 msgstr "Hombre sospechoso"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "7888"
 msgid "Idle"
 msgstr "Idle"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "7892"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "7896"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "7900"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "7904"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "7908"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "7912"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "7916"
 msgid "Taniguchi"
 msgstr "Taniguchi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "7920"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "7924"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "7928"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "56_Akiyama"
 msgid "(Huh?)"
 msgstr "(¿Eh?)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "80_Akiyama"
 msgid "(What's with him? He better not be stalking my girls...)"
 msgstr "(¿Y este tipo? Espero que no esté acosando a las chicas...)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "92_Akiyama"
 msgid "Hey! What are you doing?"
 msgstr "¡Oye! ¿Qué haces?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Shady Man
+#. y4:msg_speaker_id=1
 msgctxt "104_Shady Man"
 msgid "Whoa!"
 msgstr "¡Woa!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Shady Man
+#. y4:msg_speaker_id=1
 msgctxt "116_Shady Man"
 msgid "Uh, nothing!"
 msgstr "Eh, ¡nada!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "128_Akiyama"
 msgid "You were sneaking a look at something."
 msgstr "Pareciera que estás husmeando algo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Shady Man
+#. y4:msg_speaker_id=1
 msgctxt "140_Shady Man"
 msgid "Sneaking a look? No, I was just waiting for somebody."
 msgstr "¿Husmeando? Para nada, solo estaba esperando a alguien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "152_Akiyama"
 msgid "For who?"
 msgstr "¿A quién?"
@@ -105,14 +200,35 @@ msgctxt "188_Shady Man"
 msgid "Er－there she is!"
 msgstr "¡Eh, a Miki-chan!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "224_Akiyama"
 msgid "Who? You mean Miki?"
 msgstr "¿Miki? ¿Te refieres a ella?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Shady Man
+#. y4:msg_speaker_id=1
 msgctxt "236_Shady Man"
 msgid "Oh, do you know her?"
 msgstr "Oh, ¿también conoces a Miki-chan?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "248_Akiyama"
 msgid "Sure. I own this place."
 msgstr "Pues claro. Soy el dueño de este club."
@@ -121,30 +237,79 @@ msgctxt "260_Shady Man"
 msgid "Whaaa－!?"
 msgstr "¡¿Quéééééé - ?!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "272_Akiyama"
 msgid "And who might you be, hmm? A stalker, perhaps?"
 msgstr "¿Y tú quién eres, mmm? ¿Su acosador, quizás?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Shady Man
+#. y4:msg_speaker_id=1
 msgctxt "284_Shady Man"
 msgid "No, no, nothing like that. I just wanted to see her..."
 msgstr "No, no, de ninguna forma. Solo necesitaba verla..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "296_Akiyama"
 msgid "Are you one of her customers?"
 msgstr "¿Eres uno de sus clientes?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Shady Man
+#. y4:msg_speaker_id=1
 msgctxt "308_Shady Man"
 msgid "Uh-huh."
 msgstr "Ajá."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "320_Akiyama"
 msgid "Why not just go into the club, then?"
 msgstr "¿Entonces por qué no entras al club y ya?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=23
+#. y4:msg_location=T0.P23
+#. y4:msg_speaker=Shady Man
+#. y4:msg_speaker_id=1
 msgctxt "332_Shady Man"
 msgid "Well, the thing is..."
 msgstr "Bueno, la cosa es que..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "344_Akiyama"
 msgid "What?"
 msgstr "¿Qué?"
@@ -155,26 +320,68 @@ msgid "I've spent more than five million yen here over the past two\\r\n"
 msgstr "Me he gastado más de cinco millones de yenes aquí en los\\r\n"
 "últimos dos años, y creo que ya no me queda nada..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "368_Akiyama"
 msgid "Five million yen!?"
 msgstr "¡¿Cinco millones de yenes?!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=27
+#. y4:msg_location=T0.P27
+#. y4:msg_speaker=Shady Man
+#. y4:msg_speaker_id=1
 msgctxt "380_Shady Man"
 msgid "That's right. I was <Italic>this close</Italic> to winning her over, too..."
 msgstr "Así es. Además, estuve <Italic>así de cerca</Italic> de conquistarla..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=28
+#. y4:msg_location=T0.P28
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "392_Akiyama"
 msgid "If five million yen wasn't enough, I think it might be time to call it quits."
 msgstr "Si cinco millones no fueron suficientes, creo que ya es hora de dejarlo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=29
+#. y4:msg_location=T0.P29
+#. y4:msg_speaker=Shady Man
+#. y4:msg_speaker_id=1
 msgctxt "404_Shady Man"
 msgid "I just know I could do it if I had another million..."
 msgstr "Estoy seguro de que sería capaz de hacerlo si tuviera otro millón..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=30
+#. y4:msg_location=T0.P30
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "416_Akiyama"
 msgid "What's your name?"
 msgstr "¿Cómo te llamas?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=31
+#. y4:msg_location=T0.P31
+#. y4:msg_speaker=Taniguchi
+#. y4:msg_speaker_id=9
 msgctxt "428_Taniguchi"
 msgid "Taniguchi."
 msgstr "Taniguchi."
@@ -185,6 +392,13 @@ msgid "I'm Akiyama. In addition to this club, I also run a loan\\r\n"
 msgstr "Me llamo Akiyama. Además de este club, también\\r\n"
 "manejo una agencia de préstamos llamada Sky Finance."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=33
+#. y4:msg_location=T0.P33
+#. y4:msg_speaker=Taniguchi
+#. y4:msg_speaker_id=9
 msgctxt "452_Taniguchi"
 msgid "Yeah?"
 msgstr "Guau..."
@@ -195,6 +409,13 @@ msgid "Look, the way things are now, you've got a snowball's chance\\r\n"
 msgstr "Escúchame, por como van las cosas ahora, es más probable\\r\n"
 "que un cerdo vuele a que salgas con Miki."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=35
+#. y4:msg_location=T0.P35
+#. y4:msg_speaker=Taniguchi
+#. y4:msg_speaker_id=9
 msgctxt "476_Taniguchi"
 msgid "Huh?"
 msgstr "¿Ah?"
@@ -207,6 +428,13 @@ msgstr "Si no haces algunos cambios, incluso con otro millón de yenes,\\r\n"
 "aunque la vieras diez veces más, no llegarías a ningún\\r\n"
 "lado."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=37
+#. y4:msg_location=T0.P37
+#. y4:msg_speaker=Taniguchi
+#. y4:msg_speaker_id=9
 msgctxt "500_Taniguchi"
 msgid "Great..."
 msgstr "Pero..."
@@ -219,6 +447,13 @@ msgstr "Además, hace falta más que solo dinero para conquistar una mujer.\\r\n
 "Primero, debes mejorar tu aspecto. Después tienes que trabajar en\\r\n"
 "ti mismo para tener tu propio encanto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=39
+#. y4:msg_location=T0.P39
+#. y4:msg_speaker=Taniguchi
+#. y4:msg_speaker_id=9
 msgctxt "524_Taniguchi"
 msgid "But how do I do all that?"
 msgstr "Pero, ¿cómo hago todo eso?"
@@ -229,6 +464,13 @@ msgid "Meet me in front of the Millennium Tower later. I'll give you a\\r\n"
 msgstr "Encontrémonos en la Torre Milennium más tarde.\\r\n"
 "Te ayudaré con algunos consejos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=41
+#. y4:msg_location=T0.P41
+#. y4:msg_speaker=Taniguchi
+#. y4:msg_speaker_id=9
 msgctxt "548_Taniguchi"
 msgid "You'd do that for me?"
 msgstr "¿Harías eso por mí?"
@@ -239,6 +481,13 @@ msgid "Sure. Wouldn't be much of an owner if I didn't step in to\\r\n"
 msgstr "Claro, no puedo dejar a la deriva a un cliente que se\\r\n"
 "gastó cinco millones de yenes en uno de mis locales."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=43
+#. y4:msg_location=T0.P43
+#. y4:msg_speaker=Taniguchi
+#. y4:msg_speaker_id=9
 msgctxt "572_Taniguchi"
 msgid "Thank you very much."
 msgstr "Muchas gracias."
@@ -249,6 +498,13 @@ msgid "Oh, and the next time we meet, come all decked out in your\\r\n"
 msgstr "Oh, y cuándo nos veamos, ven preparado con tu mejor\\r\n"
 "outfit seductor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=45
+#. y4:msg_location=T0.P45
+#. y4:msg_speaker=Taniguchi
+#. y4:msg_speaker_id=9
 msgctxt "596_Taniguchi"
 msgid "Lady-killer?"
 msgstr "¿Seductor?"
@@ -266,4 +522,3 @@ msgid "Oh, er, okay... I will. I'll see you later, then. And thanks\\r\n"
 "again."
 msgstr "Oh, eh, está bien... Lo haré. Entonces te veo luego. Y gracias\\r\n"
 "de nuevo."
-

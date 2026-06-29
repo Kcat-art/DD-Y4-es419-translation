@@ -17,10 +17,20 @@ msgstr ""
 "X-Crowdin-File-ID: 61240\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
 msgctxt "488"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
 msgctxt "980"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
@@ -29,74 +39,172 @@ msgctxt "13056"
 msgid "望月京子：源氏名"
 msgstr "望月京子：源氏名"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "13060"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "13064"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "13068"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "13072"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "13076"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "13080"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "116_望月京子：源氏名"
 msgid "Hehehehehe... I'm not going to let you beat me, %s-san."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
 msgctxt "128_望月京子：源氏名"
 msgid "Let's head in."
 msgstr "Entremos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "140_Player"
 msgid "All right."
 msgstr "Está bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "164_望月京子：源氏名"
 msgid "Hehehehehe... I'm not going to let you beat me, %s-san."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
 msgctxt "176_望月京子：源氏名"
 msgid "Let's head in."
 msgstr "Entremos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "188_Player"
 msgid "Wait a minute. I just realized that I'm short on cash."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "200_望月京子：源氏名"
 msgid "Huh? Really?"
 msgstr "¿Eh? ¿En serio?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "212_Player"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "224_望月京子：源氏名"
 msgid "Wow! You can't manage your own finances? How do you even survive as an adult? I'm going home, %s-san."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "236_Player"
 msgid "(I should've made sure I had some cash...)"
 msgstr "(Debería haberme asegurado de tener algo de dinero...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "344_望月京子：源氏名"
 msgid "Wow, I'm impressed. You must be a table tennis pro."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "356_Player"
 msgid "Guess so."
 msgstr "Supongo."
@@ -105,14 +213,35 @@ msgctxt "368_望月京子：源氏名"
 msgid "That was a lot of fun! <Color:7>♥<Color:Default> Please invite me out again sometime. <Color:7>♥♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "392_望月京子：源氏名"
 msgid "Hehehe... Looks like we tied."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "404_Player"
 msgid "Guess so."
 msgstr "Supongo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "416_望月京子：源氏名"
 msgid "That was so much fun. Take me out again sometime."
 msgstr ""
@@ -121,50 +250,130 @@ msgctxt "440_望月京子：源氏名"
 msgid "Hehehe... Too bad for you, %s-san. I win this round. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "452_Player"
 msgid "Guess so."
 msgstr "Supongo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "464_望月京子：源氏名"
 msgid "That was so much fun. Take me out again sometime."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "572_望月京子：源氏名"
 msgid "Hehehehehe... I'm not going to let you beat me, %s-san."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
 msgctxt "584_望月京子：源氏名"
 msgid "Let's head in."
 msgstr "Entremos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "596_Player"
 msgid "All right."
 msgstr "Está bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "620_望月京子：源氏名"
 msgid "Hehehehehe... I'm not going to let you beat me, %s-san."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
 msgctxt "632_望月京子：源氏名"
 msgid "Let's head in."
 msgstr "Entremos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "644_Player"
 msgid "Wait a minute. I just realized that I'm short on cash."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "656_望月京子：源氏名"
 msgid "Huh? Really?"
 msgstr "¿Eh? ¿En serio?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "668_Player"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "680_望月京子：源氏名"
 msgid "Wow! You can't manage your own finances? How do you even survive as an adult? I'm going home, %s-san."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "692_Player"
 msgid "(I should've made sure I had some cash...)"
 msgstr "(Debería haberme asegurado de tener algo de dinero...)"
@@ -173,6 +382,13 @@ msgctxt "800_望月京子：源氏名"
 msgid "Wow, I'm impressed. You must be a table tennis pro. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "812_Player"
 msgid "Guess so."
 msgstr "Supongo."
@@ -181,22 +397,57 @@ msgctxt "824_望月京子：源氏名"
 msgid "I had so much fun! <Color:7>♥♥<Color:Default> Now then, shall we head over to the club? <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=7
+#. y4:msg_location=T3.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "836_Player"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "860_望月京子：源氏名"
 msgid "Hehehe... Looks like we tied."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "872_Player"
 msgid "Guess so."
 msgstr "Supongo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=11
+#. y4:msg_location=T3.P11
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "884_望月京子：源氏名"
 msgid "That was so much fun. Now then, shall we head over to the club?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=7
+#. y4:msg_location=T3.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "896_Player"
 msgid "Sure."
 msgstr "Claro."
@@ -205,15 +456,35 @@ msgctxt "920_望月京子：源氏名"
 msgid "Hehehe... Too bad for you, %s-san. I win this round. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "932_Player"
 msgid "Guess so."
 msgstr "Supongo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=11
+#. y4:msg_location=T3.P11
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "944_望月京子：源氏名"
 msgid "That was so much fun. Now then, shall we head over to the club?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=7
+#. y4:msg_location=T3.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "956_Player"
 msgid "Sure."
 msgstr "Claro."
-

@@ -17,39 +17,89 @@ msgstr ""
 "X-Crowdin-File-ID: 58508\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1300"
 msgid "Punk"
 msgstr "Matón"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1304"
 msgid "Aniki"
 msgstr "Aniki"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1308"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Punk
+#. y4:msg_speaker_id=0
 msgctxt "84_Punk"
 msgid "Aniki, how 'bout we play some mahjong!? Word is Orchid Palace Mahjong is holding a tournament."
 msgstr "Aniki, ¿qué tal si jugamos mahjong? Creo que en el Palacio de la Orquídea están organizando un torneo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Aniki
+#. y4:msg_speaker_id=1
 msgctxt "96_Aniki"
 msgid "Oh yeah?"
 msgstr "¿De verdad?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Punk
+#. y4:msg_speaker_id=0
 msgctxt "108_Punk"
 msgid "Yeah! You know that magazine Modern Mahjong? They're holding some kinda contest to find the best mahjong player in the country, and Orchid Palace is takin' part!"
 msgstr "¡Sí! ¿Sabe cuál es la revista Modern Mahjong? Bueno, están organizando un torneo para encontrar el mejor jugador del país, ¡y se está haciendo en el Palacio de la Orquídea!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Aniki
+#. y4:msg_speaker_id=1
 msgctxt "120_Aniki"
 msgid "Heh, sounds fun. They let any old mug off the street join up?"
 msgstr "Je, suena divertido. ¿Dejan entrar a cualquier vagabundo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Punk
+#. y4:msg_speaker_id=0
 msgctxt "132_Punk"
 msgid "Pretty sure! Orchid Palace here's workin' hard to figure out who's the top mahjong dog in Kamurocho."
 msgstr "¡Claro que sí! Se están tomando en serio lo de encontrar el mejor jugador de mahjong."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Aniki
+#. y4:msg_speaker_id=1
 msgctxt "144_Aniki"
 msgid "Well, obviously it's me! C'mon, let's go show those bitches how it's done!"
 msgstr "¡Bueno, obviamente soy yo! ¡Vamos, les vamos a mostrar a esas perras cómo se juega!"
-

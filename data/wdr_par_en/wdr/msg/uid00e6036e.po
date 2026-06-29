@@ -10,32 +10,50 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3252"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3256"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3260"
 msgid "Saki-chan"
 msgstr "Saki-chan"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3264"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3268"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3272"
 msgid "Talk_OK"
 msgstr "Talk_OK"
@@ -46,6 +64,13 @@ msgid "*pant* Look... *pant* I think you have the wrong idea.\\r\nI'm not after 
 msgstr "*jadeo* Mira... *jadeo* Creo que tienes una idea equivocada. Yo no quiero lastimar a Nadine－de hecho, la estoy intentando ayudar."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Saki-chan
+#. y4:msg_speaker_id=2
 msgctxt "68_Saki-chan"
 msgid "...Are you really?"
 msgstr "¿Hablas en serio?"
@@ -56,46 +81,109 @@ msgid "Cross my heart. So what's up with the whole chase sequence\\r\nas soon as
 msgstr "Te lo juro por mi mamá. ¿Pero entonces, por qué decidiste huir apenas viste mi placa? ¿Estás ocultando algo?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Saki-chan
+#. y4:msg_speaker_id=2
 msgctxt "92_Saki-chan"
 msgid "Well, the thing is... I help people."
 msgstr "Bueno, la cosa es que... Ayudo a la gente."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "104_Tanimura"
 msgid "Help them how?"
 msgstr "¿Ayudarlas en qué sentido?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Saki-chan
+#. y4:msg_speaker_id=2
 msgctxt "116_Saki-chan"
 msgid "I use my connections to help foreign women when the cops or criminals come for them."
 msgstr "Uso mis conexiones para ayudar a mujeres extranjeras cuando los policías o criminales vienen por ellas."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "128_Tanimura"
 msgid "So I take it you know Nadine, then."
 msgstr "Entonces ya conoces a Nadie."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Saki-chan
+#. y4:msg_speaker_id=2
 msgctxt "140_Saki-chan"
 msgid "What would you do if you found her?"
 msgstr "¿Que harías tú si te la encontraras?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "152_Tanimura"
 msgid "Let me put it this way: she'll be dead if I don't find her first. And I'd like to get her home safe before that happens."
 msgstr "Permítame decirlo de esta manera: ella estará muerta si no la encuentro primero. Y me gustaría llevarla a su casa sana y salva antes de que eso suceda."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Saki-chan
+#. y4:msg_speaker_id=2
 msgctxt "164_Saki-chan"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Saki-chan
+#. y4:msg_speaker_id=2
 msgctxt "176_Saki-chan"
 msgid "All right. I know where she is... I'm actually the one looking after her."
 msgstr "De acuerdo. Yo sé donde está ella... De hecho yo soy quien la cuida."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "188_Tanimura"
 msgid "Great! Can you take me to see her, then?"
 msgstr "¡Genial! ¿Entonces, puedes llevarme a verla?"
@@ -104,4 +192,3 @@ msgstr "¡Genial! ¿Entonces, puedes llevarme a verla?"
 msgctxt "200_Saki-chan"
 msgid "Well, you do seem like a decent guy... Alrighty-poo. ♪ You just follow me."
 msgstr "Bueno, pareces un buen tipo... Está bien, sígueme. ♪"
-

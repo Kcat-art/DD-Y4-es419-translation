@@ -17,59 +17,136 @@ msgstr ""
 "X-Crowdin-File-ID: 60532\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1744"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1748"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1752"
 msgid "Mei Hua"
 msgstr "Mei Hua"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1756"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1760"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "96_Tanimura"
 msgid "(Hm, it's from Homeland.)"
 msgstr "(Hm, me llaman de casa)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "132_Tanimura"
 msgid "Hello?"
 msgstr "Oi."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Mei Hua
+#. y4:msg_speaker_id=2
 msgctxt "144_Mei Hua"
 msgid "Ma-chan!"
 msgstr "¡Ma-chan!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "156_Tanimura"
 msgid "Mei Hua? What's up?"
 msgstr "¿Mei Hua? ¿Qué pasa?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Mei Hua
+#. y4:msg_speaker_id=2
 msgctxt "168_Mei Hua"
 msgid "We need you back at Homeland! Hurry!"
 msgstr "¡Te necesitamos de vuelta en casa! ¡Apúrate!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "180_Tanimura"
 msgid "Whoa. Calm down and tell me what happened."
 msgstr "Ey. Tranquilízate y cuéntame qué pasó."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Mei Hua
+#. y4:msg_speaker_id=2
 msgctxt "192_Mei Hua"
 msgid "Just hurry back here now! Something awful has happened!"
 msgstr "¡Solo date prisa en volver aquí ahora! ¡Algo horrible ha sucedido!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "204_Tanimura"
 msgid "Okay, okay! I'll be right there!"
 msgstr "¡Está bien! ¡Allí estaré!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "264_Tanimura"
 msgid "(She seemed really rattled... I should head over to Homeland.)"
 msgstr "(Parecía realmente nerviosa... Debería volver con ella)."
-

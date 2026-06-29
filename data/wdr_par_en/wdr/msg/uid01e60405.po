@@ -17,27 +17,60 @@ msgstr ""
 "X-Crowdin-File-ID: 62468\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1648"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1652"
 msgid "Man in Black"
 msgstr "Hombre de Negro"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "144_Tanimura"
 msgid "Hi there. Do we know each other?"
 msgstr "Hola. ¿Nos conocemos?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Man in Black
+#. y4:msg_speaker_id=1
 msgctxt "156_Man in Black"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "168_Tanimura"
 msgid "(These guys look like professionals. I'm guessing they work for Bridge.)"
 msgstr "(Estos tipos parecen profesionales. Apuesto a que trabajan para Bridge.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "180_Tanimura"
 msgid "(That just means I'm getting closer to uncovering his true identity. I'm almost to the bottom of this, Dad... So I can't go dying just yet!)"
 msgstr "(Eso solo significa que me estoy acercando a descubrir su verdadera identidad. Estoy casi al final de esto, papá... ¡Así que no puedo morir todavía!)"
-

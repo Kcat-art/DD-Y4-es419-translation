@@ -17,30 +17,67 @@ msgstr ""
 "X-Crowdin-File-ID: 62738\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2916"
 msgid "Ueno Seiwa Henchman"
 msgstr "Esbirro de Ueno Seiwa"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2920"
 msgid "Ueno Seiwa Thug"
 msgstr "Matón de Ueno Seiwa"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2924"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Ueno Seiwa Henchman
+#. y4:msg_speaker_id=0
 msgctxt "84_Ueno Seiwa Henchman"
 msgid "Old man Katsuragi... dead."
 msgstr "El viejo Katsuragi... muerto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Ueno Seiwa Thug
+#. y4:msg_speaker_id=1
 msgctxt "96_Ueno Seiwa Thug"
 msgid "Mmhm. Wonder what happens to us now."
 msgstr "Mhm. Me pregunto que será de nosotros ahora."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Ueno Seiwa Henchman
+#. y4:msg_speaker_id=0
 msgctxt "108_Ueno Seiwa Henchman"
 msgid "Like I know. *sigh*"
 msgstr "Yo qué sé. *suspira*"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Ueno Seiwa Thug
+#. y4:msg_speaker_id=1
 msgctxt "120_Ueno Seiwa Thug"
 msgid "*sigh*"
 msgstr "*suspiro*"
@@ -101,7 +138,13 @@ msgid "...Yeah, guess that's not gonna look good on the ol' résumé,\\r\n"
 msgstr "...Sí, supongo que eso no va a quedar muy bien en el\\r \n"
 "currículum, ¿eh?. ¿Dónde vamos ahora?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "228_Kiryu"
 msgid "(All that happened right before I got to Kamurocho Hills?)"
 msgstr "(Todo eso pasó justo antes de mi llegada a Kamurocho Hills?)"
-

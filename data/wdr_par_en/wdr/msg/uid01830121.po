@@ -17,14 +17,29 @@ msgstr ""
 "X-Crowdin-File-ID: 61264\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
 msgctxt "56"
 msgid "How to Play Shoot-Out:"
 msgstr "Cómo jugar Shoot-Out:"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
 msgctxt "68"
 msgid "In Shoot-Out, the score for the numbers you hit are added up."
 msgstr "En el Shoot-Out, se suman los puntos de los números que aciertes."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
 msgctxt "80"
 msgid "When all rounds are concluded, the player with the higher score is declared the winner."
 msgstr ""
@@ -63,11 +78,20 @@ msgstr "En el Shoot-Out, los puntos se calculan diferente a los dardos normales.
 "×\\r\n"
 "Número de secciones acertadas (sin contar la diana)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
 msgctxt "104"
 msgid "If you still have rounds remaining after hitting all of the numbers, you can continue to target the bull's-eye until you run out of rounds."
 msgstr "Si te quedan rondas después de acertar todos los números, puedes seguir lanzando a la diana hasta que se acaben las rondas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
 msgctxt "116"
 msgid "Have fun and give it your all."
 msgstr "Diviértete y da lo mejor de ti."
-

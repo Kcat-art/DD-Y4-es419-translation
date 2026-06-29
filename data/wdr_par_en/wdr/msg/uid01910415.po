@@ -17,55 +17,109 @@ msgstr ""
 "X-Crowdin-File-ID: 58846\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
 msgctxt "136"
 msgid "Nothing happened."
 msgstr "No pasó nada."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
 msgctxt "160"
 msgid "Nothing happened."
 msgstr "No pasó nada."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2024"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2028"
 msgid "TNK_03_D_START"
 msgstr "TNK_03_D_START"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2032"
 msgid "TNK_03_D_E_START"
 msgstr "TNK_03_D_E_START"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2036"
 msgid "TNK_03_D_N_START"
 msgstr "TNK_03_D_N_START"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2040"
 msgid "TNK_03_A_START"
 msgstr "TNK_03_A_START"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2044"
 msgid "TNK_03_A_E_START"
 msgstr "TNK_03_A_E_START"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "2048"
 msgid "TNK_03_A_N_START"
 msgstr "TNK_03_A_N_START"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "148_Player"
 msgid "(I should take a break and come back later...)"
 msgstr "(Debería tomarme un descanso y vuelvo más tarde...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "172_Player"
 msgid "(I should take a break and come back later...)"
 msgstr "(Debería tomarme un descanso y vuelvo más tarde...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
 msgctxt "196_Player"
 msgid "You learned the <Color:9>Essence of Merciless Throwing<Color:Default>."
 msgstr "Aprendiste la <Color:9>Esencia del Lanzamiento Implacable<Color:Default>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
 msgctxt "220_Player"
 msgid "You learned the <Color:9>Essence of Loin Reaving<Color:Default>."
 msgstr "Has aprendido la <Color:9>Esencia Quiebra Bolas<Color:Default>."
-

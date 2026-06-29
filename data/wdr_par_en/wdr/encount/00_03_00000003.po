@@ -17,99 +17,236 @@ msgstr ""
 "X-Crowdin-File-ID: 57722\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4080"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4084"
 msgid "P_stand_sync_btl_neck_st"
 msgstr "P_stand_sync_btl_neck_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4088"
 msgid "M_ykz_stand_sync_btl_neck_st"
 msgstr "M_ykz_stand_sync_btl_neck_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4092"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4096"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4100"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "100_Man"
 msgid "Okay, stop! We're kinda busy down here. Can you do me a favor and turn around?"
 msgstr "¡Está bien, para! Estamos un poco ocupados aquí abajo. ¿Puedes hacerme el favor y darte la vuelta?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "112_Man"
 msgid "What's with that look? You saying you don't want to? Maybe you will once I beat you to a pulp!"
 msgstr "¿A qué viene esa mirada? ¿Estás diciendo que no quieres? ¡Quizás cambies de opinión una vez que te dé una paliza!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "124_Man"
 msgid "Real sorry, but this road's closed."
 msgstr "Lo siento mucho, pero este camino está cerrado."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "136_Man"
 msgid "So hand over yer wallet and turn the fuck around! I ain't lettin' ya off without it!"
 msgstr "¡Así que dame la billetera y da la vuelta! ¡No te voy a dejar ir sin ella!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "148_Man"
 msgid "Hey there! I'm selling something great over here! Wanna make a purchase?"
 msgstr "¡Hola! ¡Estoy vendiendo algo genial aquí! ¿Quieres comprar algo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "160_Man"
 msgid "What am I selling, you ask? A knuckle sandwich, of course!"
 msgstr "¿Qué estoy vendiendo, preguntas? ¡Un buen puñetazo, por supuesto!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "196_Man"
 msgid "We didn't know what we were getting into..."
 msgstr "No sabíamos en qué nos estábamos metiendo..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "208_Man"
 msgid "Please, pass right on through! You can even have this. Please, just don't hit us any more..."
 msgstr "Por favor, pasa por aquí. Incluso puedes llevarte esto. Por favor, solo no nos pegues más..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
 msgctxt "220_Man"
 msgid "You got a right of passage %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "244_Man"
 msgid "Oh... Oh man... You nearly kicked me to death..."
 msgstr "Oh... Oh, hombre... Casi me matas a patadas..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "256_Man"
 msgid "Here, take this and let me go..."
 msgstr "Ten, toma esto y déjame ir..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
 msgctxt "268_Man"
 msgid "You got a beefy %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "292_Man"
 msgid "Thank you for your purchase... You're quite strong, sir..."
 msgstr "Gracias por tu compra... Eres bastante fuerte, señor..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "304_Man"
 msgid "Here's your change, sir."
 msgstr "Aquí está su cambio, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
 msgctxt "316_Man"
 msgid "You got a chunky %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "364_Man"
 msgid "Huh? What were we busy with? Well... Our aniki was just picking up chicks down this way."
 msgstr "¿Eh? ¿En qué estábamos ocupados? Bueno... Nuestro aniki solo estaba ligando por aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "376_Man"
 msgid "Cut me some slack, please..."
 msgstr "Dame un respiro, por favor..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "388_Man"
 msgid "I'm closing up shop for today..."
 msgstr "Voy a cerrar el negocio por hoy..."
-

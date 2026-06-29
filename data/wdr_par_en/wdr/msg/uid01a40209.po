@@ -17,58 +17,124 @@ msgstr ""
 "X-Crowdin-File-ID: 62820\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "8728"
 msgid "Takeda"
 msgstr "Takeda"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "8732"
 msgid "Oyamada"
 msgstr "Oyamada"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "8736"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "8740"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "8744"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "8748"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "8752"
 msgid "Makiko"
 msgstr "Makiko"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "8756"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "8760"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "8764"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Takeda
+#. y4:msg_speaker_id=0
 msgctxt "188_Takeda"
 msgid "Saejima-san's here to see you, ma'am."
 msgstr "Saejima-san ha venido a verla, jefa."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Oyamada
+#. y4:msg_speaker_id=1
 msgctxt "200_Oyamada"
 msgid "I'm Oyamada, President of Oyamada Talent Productions."
 msgstr "Soy Oyamada, Presidenta de Oyamada Talent Productions."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=3
 msgctxt "212_Saejima"
 msgid "So what's this job entail, Oyamada-san?"
 msgstr "Pues, ¿En qué consistirá mi trabajo, Oyamada-san?"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Oyamada
+#. y4:msg_speaker_id=1
 msgctxt "224_Oyamada"
 msgid "I'd like you to be a security guard for my daughter, Makiko."
 msgstr "Quiero que seas el guardaespaldas de mi hija, Makito."
@@ -79,6 +145,15 @@ msgid "Now that she's making more media appearances,\\r\n"
 msgstr "Ahora que está haciendo más apariciones en los medios,\\r\n"
 "está empezando a ser acosada por fans locos."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=3
 msgctxt "248_Saejima"
 msgid "Why not just tell the cops? Ain't that their job?"
 msgstr "¿Y por qué no le dicen a la policía? ¿Acaso ese no es su trabajo?"
@@ -101,6 +176,15 @@ msgid "Okay fine, so ya don't want the fuzz involved.\\r\n"
 msgstr "Vale, así que no quieren que no se involucre la policía.\\r\n"
 "Entonces, ¿por qué no la vigilan ustedes mismos?"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Takeda
+#. y4:msg_speaker_id=0
 msgctxt "296_Takeda"
 msgid "Well, er... you see, with Makiko-chan..."
 msgstr "Bueno, eh... pues como puedes ver, Makiko-chan es algo..."
@@ -113,6 +197,15 @@ msgstr "¡Dios santo! Es porque me niego rotundamente a que esta presidenta inú
 "se haga responsable de mi seguridad. Si ni siquiera supo cuidar\\r\n"
 "correctamente de mí cuando niña, mucho menos con su máxima estrella."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Takeda
+#. y4:msg_speaker_id=0
 msgctxt "320_Takeda"
 msgid "Makiko-chan, is that any way to talk about your mother?"
 msgstr "Makiko-chan, ¿Esa es forma de hablarle a tu madre?"
@@ -131,10 +224,30 @@ msgid "Makiko, you only just became a regular talk show guest－\\r\n"
 msgstr "Makiko, acabas de convertirte en una invitada recurrente de un talk show－\\r\n"
 "matutino. Si algo te llegara a pasar ahora..."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=6
 msgctxt "356_Makiko"
 msgid "I don't want any part of this stupid industry... You're the one who wanted to be on TV, not me. Quit making <Italic>me</Italic> live <Italic>your</Italic> dream!"
 msgstr "No quiero formar parte de esta estúpida industria... Tú eres la que quería estar en la TV, no yo. ¡Deja de intentar<Italic>hacerme</Italic>vivir</Italic>la vida que tú querías!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=32
+#. y4:msg_location=T0.P32
+#. y4:msg_speaker=Oyamada
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Turn Him Down
 msgctxt "368_Oyamada"
 msgid "......"
 msgstr "......"
@@ -145,6 +258,15 @@ msgid "I'm terribly sorry, but you see how it is. This is why\\r\n"
 msgstr "Lamento que tuviera que presenciar esto, pero ya puedes ver el problema. Este es\\r\n"
 "el porqué queremos que te encargues de su seguridad."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=3
 msgctxt "392_Saejima"
 msgid "If ya say so..."
 msgstr "Si tú lo dices..."
@@ -173,6 +295,17 @@ msgid "Makiko-chan will be heading home for the day.\\r\n"
 msgstr "Makiko-chan ya se va a casa.\\r\n"
 "¿Podrías escoltarla hasta su taxi?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Accept the Job
 msgctxt "452_Saejima"
 msgid "At the taxi stand? No problem."
 msgstr "¿A la parada de taxis? No hay problema."
@@ -183,14 +316,47 @@ msgid "Alright, Makiko-san. Lookin' forward to workin' with ya,\\r\n"
 msgstr "Bueno, Makiko-san. Un placer, trabajar contigo,\\r\n"
 "y todo lo demás."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Makiko
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Accept the Job
 msgctxt "476_Makiko"
 msgid "God..."
 msgstr "Dios..."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Turn Him Down
 msgctxt "500_Saejima"
 msgid "I ain't jonesin' to be a babysitter. Ask someone else."
 msgstr "No tengo ganas de andar de niñero. Busquen a alguien más."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=27
+#. y4:msg_location=T0.P27
+#. y4:msg_speaker=Oyamada
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Turn Him Down
 msgctxt "512_Oyamada"
 msgid "Saejima-san..."
 msgstr "Saejima-san..."
@@ -207,43 +373,164 @@ msgid "I'm with you there. But right now what's important\\r\n"
 msgstr "Estoy de acuerdo con eso. Pero ahora mismo lo verdaderamente importante\\r\n"
 "es proteger a Makiko-chan de sus acosadores."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=0
+#. y4:msg_phrase=30
+#. y4:msg_location=T0.P30
+#. y4:msg_speaker=Takeda
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. Accept the Job -> T0.P19 | 2. Turn Him Down -> T0.P31
 msgctxt "548_Takeda"
 msgid "Please, Saejima-san. Please take on this job!"
 msgstr "Por favor, Saejima-san. ¡Por favor, acepte este trabajo!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=31
+#. y4:msg_location=T0.P31
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Turn Him Down
 msgctxt "560_Saejima"
 msgid "Keep askin'. My answer ain't gonna change. No way, no how."
 msgstr "Aunque sigan preguntándome. Mi respuesta no va a cambiar. De ninguna manera, no hay cómo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=32
+#. y4:msg_location=T0.P32
+#. y4:msg_speaker=Oyamada
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Turn Him Down
 msgctxt "572_Oyamada"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=0
+#. y4:msg_phrase=33
+#. y4:msg_location=T0.P33
+#. y4:msg_speaker=Takeda
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=2
+#. y4:msg_decision_choices=1. Accept the Job -> T0.P19 | 2. Turn Him Down -> T0.P31
 msgctxt "584_Takeda"
 msgid "I'm begging you, Saejima-san. Please take on this job!"
 msgstr "Se lo ruego, Saejima-san. ¡Por favor, acepte este trabajo!"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P19
+#. y4:msg_branch_segment=T0.P19..P25
+#. y4:msg_branch_target_text=Sure, why not? I accept. But in return, well,\nI come with a helluva price tag.
+#. y4:msg_branch_raw=01 11 00 13 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "596_Takeda"
 msgid "Accept the Job"
 msgstr "Aceptar el Trabajo"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P26
+#. y4:msg_branch_segment=T0.P26..P33
+#. y4:msg_branch_target_text=I ain't jonesin' to be a babysitter. Ask someone else.
+#. y4:msg_branch_raw=01 11 00 1a 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "608_Takeda"
 msgid "Turn Him Down"
 msgstr "Rechazarlo"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P19
+#. y4:msg_branch_segment=T0.P19..P25
+#. y4:msg_branch_target_text=Sure, why not? I accept. But in return, well,\nI come with a helluva price tag.
+#. y4:msg_branch_raw=01 11 00 13 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "620_Takeda"
 msgid "Accept the Job"
 msgstr "Aceptar el Trabajo"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P26
+#. y4:msg_branch_segment=T0.P26..P33
+#. y4:msg_branch_target_text=I ain't jonesin' to be a babysitter. Ask someone else.
+#. y4:msg_branch_raw=01 11 00 1a 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "632_Takeda"
 msgid "Turn Him Down"
 msgstr "Rechazarlo"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P19
+#. y4:msg_branch_segment=T0.P19..P25
+#. y4:msg_branch_target_text=Sure, why not? I accept. But in return, well,\nI come with a helluva price tag.
+#. y4:msg_branch_raw=01 11 00 13 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "644_Takeda"
 msgid "Accept the Job"
 msgstr "Aceptar el Trabajo"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P26
+#. y4:msg_branch_segment=T0.P26..P33
+#. y4:msg_branch_target_text=I ain't jonesin' to be a babysitter. Ask someone else.
+#. y4:msg_branch_raw=01 11 00 1a 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "656_Takeda"
 msgid "Turn Him Down"
 msgstr "Rechazarlo"
-

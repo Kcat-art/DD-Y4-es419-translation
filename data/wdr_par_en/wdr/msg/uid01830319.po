@@ -23,11 +23,34 @@ msgid "Would you like to display the trajectory of the cue ball after it hits th
 msgstr "¿Deseas mostrar la trayectoria de la bola blanca después de golpear las bolas objetivo?\\r\n"
 "(Mostrar la trayectoria facilita el juego)."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P1
+#. y4:msg_branch_segment=T0.P1..P1
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "136"
 msgid "Display"
 msgstr "Pantalla"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P2
+#. y4:msg_branch_segment=T0.P2..P2
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "148"
 msgid "Hide"
 msgstr "Ocultar"
-

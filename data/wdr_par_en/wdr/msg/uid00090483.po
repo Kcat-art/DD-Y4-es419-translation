@@ -10,62 +10,98 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "8016"
 msgid "Yuya"
 msgstr "Yuya"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "8020"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "8024"
 msgid "Shinya"
 msgstr "Shinya"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "8028"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "8032"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "8036"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "8040"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "8044"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "8048"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "8052"
 msgid "Talk_Udekumi_Yes"
 msgstr "Talk_Udekumi_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "8056"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "8060"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
@@ -76,11 +112,25 @@ msgid "Look, I get where you're comin' from. Just calm down for one\\r\nsecond, 
 msgstr "Mira, entiendo entiendo por qué lo dices.\\r\nSolo cálmate un segundo, Shinya."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Shinya
+#. y4:msg_speaker_id=2
 msgctxt "96_Shinya"
 msgid "You don't get a damn thing! You're too soft, man!"
 msgstr "¡No entiendes nada! ¡Eres demasiado blando, amigo!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Yuya
+#. y4:msg_speaker_id=0
 msgctxt "108_Yuya"
 msgid "......"
 msgstr "......"
@@ -91,6 +141,13 @@ msgid "You know the rules, Yuya-san! If a customer ducks out on\\r\ntheir bill, 
 msgstr "¡Conoces las reglas, Yuya-san! Si un cliente no se hace cargo de la cuenta,\\r\nes responsabilidad del anfitrión."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Shinya
+#. y4:msg_speaker_id=2
 msgctxt "132_Shinya"
 msgid "Mitsuru knew that when he let his girl run up that huge tab!"
 msgstr "¡Mitsuru sabía eso cuando dejó que su chica acumulara esa enorme cuenta!"
@@ -101,6 +158,13 @@ msgid "You're not wrong, those <Italic>are</Italic> the rules. I've seen it happ
 msgstr "No estás equivocado, esas <Italic>son</Italic> las reglas. Lo he visto pasar una\\r\ny otra vez en este negocio."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Yuya
+#. y4:msg_speaker_id=0
 msgctxt "156_Yuya"
 msgid "And sure, I'm bein' easy on Mitsuru."
 msgstr "Y claro, estoy siendo bueno con Mitsuru."
@@ -116,11 +180,25 @@ msgid "We just gotta let this one mistake slide. He'll learn from\\r\nit, and we
 msgstr "Solo vamos a dejar pasar este error esta vez. Él aprenderá de ello, y todos\\r\nestaremos mejor a largo plazo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Yuya
+#. y4:msg_speaker_id=0
 msgctxt "192_Yuya"
 msgid "But for now, yeah. Of course I'm gonna help him."
 msgstr "Pero por ahora, sí. Por supuesto que lo voy a ayudar."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Shinya
+#. y4:msg_speaker_id=2
 msgctxt "204_Shinya"
 msgid "And what, Stardust is just gonna eat the 5 mil he lost!?"
 msgstr "¿Y qué? ¡¿Stardust simplemente va a tragarse los 5 millones que perdió?!"
@@ -141,26 +219,61 @@ msgid "Stardust'll go under in the blink of an eye! Kazuki-san\\r\nwould never h
 msgstr "¡Stardust se irá a la quiebra en un abrir y cerrar de ojos! Kazuki-san nunca\\r\nhabría dejado pasar esta tontería..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Yuya
+#. y4:msg_speaker_id=0
 msgctxt "252_Yuya"
 msgid "*sigh*"
 msgstr "*suspiro*"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "264_Kiryu"
 msgid "Hey, Yuya. Problem so big you had to take it outside, huh?"
 msgstr "Hola, Yuya. ¿Tu problemita es tan grande que tuviste que sacarlo afuera, eh?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Yuya
+#. y4:msg_speaker_id=0
 msgctxt "300_Yuya"
 msgid "Kiryu-san! I didn't know you were back in town!"
 msgstr "¡Kiryu-san! ¡No sabía que estabas de vuelta en la ciudad!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=19
+#. y4:msg_location=T1.P19
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "312_Kiryu"
 msgid "Just for a bit while I take care of some business."
 msgstr "Solo por un rato mientras me ocupo de algunos asuntos."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=20
+#. y4:msg_location=T1.P20
+#. y4:msg_speaker=Yuya
+#. y4:msg_speaker_id=0
 msgctxt "324_Yuya"
 msgid "Well, I would've dropped by with a gift or two if you'd let me know first!"
 msgstr "Bueno, me habría pasado con un regalo o dos si me lo hubieras dicho primero."
@@ -176,11 +289,25 @@ msgid "By the way, how are things going at the club? You and that\\r\nkid didn't
 msgstr "Por cierto, ¿cómo van las cosas en el club? Tú y ese chico no parecían estar\\r\nen la misma sintonía."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Yuya
+#. y4:msg_speaker_id=0
 msgctxt "360_Yuya"
 msgid "Sorry you had to see that, Kiryu-san."
 msgstr "Lamento que hayas tenido que ver eso, Kiryu-san."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=24
+#. y4:msg_location=T1.P24
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "372_Kiryu"
 msgid "So? What's going on?"
 msgstr "¿Y bien? ¿Qué ha pasado?"
@@ -191,6 +318,13 @@ msgid "It's this host we have, Mitsuru. He let one of his customers\\r\nrun out 
 msgstr "Es este host que tenemos, Mitsuru. Dejó que uno de sus clientes se escapara con\\r\nuna cuenta de 5 millones de yenes."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=26
+#. y4:msg_location=T1.P26
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "396_Kiryu"
 msgid "Ouch. I hear that's a pretty common thing, though."
 msgstr "Ouch. Creo haber escuchado que eso es algo bastante común."
@@ -206,11 +340,25 @@ msgid "He just got kinda unlucky this time. So I wanna give him a\\r\nhand someh
 msgstr "Simplemente tuvo un poco de mala suerte esta vez. Así que quiero ayudarlo\\r\nde alguna manera si puedo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=29
+#. y4:msg_location=T1.P29
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "432_Kiryu"
 msgid "Heh, that's the Yuya I know."
 msgstr "Je, ese es el Yuya que conozco."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=30
+#. y4:msg_location=T1.P30
+#. y4:msg_speaker=Yuya
+#. y4:msg_speaker_id=0
 msgctxt "444_Yuya"
 msgid "I just dunno, Kiryu-san. You think I'm too soft on them?"
 msgstr "No sé, Kiryu-san. ¿Crees que soy demasiado blando con ellos?"
@@ -221,16 +369,37 @@ msgid "Shinya seems to think so. Pretty sure Kazuki-san's called\\r\nme soft at 
 msgstr "Shinya parece pensar que sí. Estoy bastante seguro de que Kazuki-san me ha\\r\nllamado blando al menos una vez también."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=32
+#. y4:msg_location=T1.P32
+#. y4:msg_speaker=Yuya
+#. y4:msg_speaker_id=0
 msgctxt "468_Yuya"
 msgid "Is wantin' to help my hosts out really so bad?"
 msgstr "¿Es realmente tan malo querer ayudar a mis hosts?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=33
+#. y4:msg_location=T1.P33
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "480_Kiryu"
 msgid "Yuya..."
 msgstr "Yuya..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=34
+#. y4:msg_location=T1.P34
+#. y4:msg_speaker=Yuya
+#. y4:msg_speaker_id=0
 msgctxt "492_Yuya"
 msgid "But hey, you don't need to hear all this."
 msgstr "Pero oye, no necesitas escuchar todo esto."
@@ -241,12 +410,25 @@ msgid "I should be gettin' back inside, anyway. Gotta do my part to\\r\nkeep Sta
 msgstr "Debería volver adentro, de todos modos. ¡Tengo que hacer mi parte para mantener\\r\na Stardust como el club de anfitriones más top en Kamurocho!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=36
+#. y4:msg_location=T1.P36
+#. y4:msg_speaker=Yuya
+#. y4:msg_speaker_id=0
 msgctxt "516_Yuya"
 msgid "I appreciate you lendin' an ear though, Kiryu-san. Thanks."
 msgstr "Te agradezco que me hayas escuchado, Kiryu-san. Gracias."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=38
+#. y4:msg_location=T1.P38
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "540_Kiryu"
 msgid "(Hm. Maybe I should head inside and see what Kazuki has to say about this.)"
 msgstr "(Hm. Quizás debería entrar y ver qué tiene que decir Kazuki sobre esto)."
-

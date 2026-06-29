@@ -17,18 +17,38 @@ msgstr ""
 "X-Crowdin-File-ID: 59286\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
 msgctxt "600"
 msgid "Welcome to the baccarat table."
 msgstr "Bienvenido a la mesa de baccarat."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
 msgctxt "612"
 msgid "Let's begin."
 msgstr "Comencemos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
 msgctxt "624"
 msgid "We look forward to seeing you again soon."
 msgstr "Esperamos volver a verte pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
 msgctxt "636"
 msgid "You seem to be short on chips. Please come visit us again soon."
 msgstr "Parece que te faltan fichas. Vuelva a visitarnos pronto."
@@ -39,34 +59,74 @@ msgid "Please select what you will bet on:\\r\n"
 msgstr "Por favor, elige en qué quieres apostar:\\r\n"
 "al Jugador, al Banquero o al empate."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
 msgctxt "660"
 msgid "Select a wager between the minimum and maximum betting limit."
 msgstr "Elige una apuesta que esté entre el mínimo y el máximo establecido."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
 msgctxt "672"
 msgid "I will now deal the cards."
 msgstr "Ahora repartiré las cartas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
 msgctxt "684"
 msgid "I'll reveal the Player's first card."
 msgstr "Voy a revelar la primera carta del Jugador."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
 msgctxt "696"
 msgid "I'll reveal the Player's second card."
 msgstr "Voy a revelar la segunda carta del Jugador."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
 msgctxt "708"
 msgid "The Player stands with 6."
 msgstr "El Jugador se planta con 6."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
 msgctxt "720"
 msgid "The Player stands with 7."
 msgstr "El Jugador se planta con 7."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
 msgctxt "732"
 msgid "The Player has a natural 8."
 msgstr "El Jugador tiene un 8 natural."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
 msgctxt "744"
 msgid "The Player has a natural 9."
 msgstr "El Jugador tiene un 9 natural."
@@ -77,14 +137,29 @@ msgid "A third card will be dealt if the Banker does\\r\n"
 msgstr "Se repartirá una tercera carta si el Banquero\\r\n"
 "no tiene un 8 o un 9."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=0
+#. y4:msg_location=T13.P0
 msgctxt "768"
 msgid "I'll reveal the Banker's first card."
 msgstr "Voy a revelar la primera carta del Banco."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=14
+#. y4:msg_phrase=0
+#. y4:msg_location=T14.P0
 msgctxt "780"
 msgid "I'll reveal the Banker's second card."
 msgstr "Voy a revelar la segunda carta del Banquero."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
 msgctxt "792"
 msgid "The Banker stands with 6."
 msgstr "El Banquero se planta con 6."
@@ -95,6 +170,11 @@ msgid "The Banker stands with 6.\\r\n"
 msgstr "El Banquero se planta con 6.\\r\n"
 "Repartiré una tercera carta al Jugador."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=17
+#. y4:msg_phrase=0
+#. y4:msg_location=T17.P0
 msgctxt "816"
 msgid "The Banker stands with 7."
 msgstr "El Banquero se planta con 7."
@@ -105,14 +185,29 @@ msgid "The Banker stands with 7.\\r\n"
 msgstr "El Banquero se planta con 7.\\r\n"
 "Repartiré una tercera carta al Jugador."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=19
+#. y4:msg_phrase=0
+#. y4:msg_location=T19.P0
 msgctxt "840"
 msgid "The Banker has a natural 8."
 msgstr "El Banquero tiene un 8 natural."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=20
+#. y4:msg_phrase=0
+#. y4:msg_location=T20.P0
 msgctxt "852"
 msgid "The Banker has a natural 9."
 msgstr "El Banquero tiene un 9 natural."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
 msgctxt "864"
 msgid "A third card will be dealt to the Banker, depending on the Player's third card."
 msgstr "Se repartirá una tercera carta al Banquero, dependiendo de la tercera carta del Jugador."
@@ -123,51 +218,110 @@ msgid "The Player stands.\\r\n"
 msgstr "El Jugador se planta.\\r\n"
 "Repartiré una tercera carta al Banquero."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=23
+#. y4:msg_phrase=0
+#. y4:msg_location=T23.P0
 msgctxt "888"
 msgid "I'll reveal the Player's third card."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=24
+#. y4:msg_phrase=0
+#. y4:msg_location=T24.P0
 msgctxt "900"
 msgid "Due to the outcome, the Banker will not be dealt a third card."
 msgstr "Debido al resultado, al Banquero no se le repartirá una tercera carta."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=25
+#. y4:msg_phrase=0
+#. y4:msg_location=T25.P0
 msgctxt "912"
 msgid "Due to the outcome, the Banker will be dealt a third card."
 msgstr "Debido al resultado, se repartirá una tercera carta al Banquero."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=26
+#. y4:msg_phrase=0
+#. y4:msg_location=T26.P0
 msgctxt "924"
 msgid "I'll reveal the Banker's third card."
 msgstr "Voy a revelar la tercera carta del Banquero."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=27
+#. y4:msg_phrase=0
+#. y4:msg_location=T27.P0
 msgctxt "936"
 msgid "The Player wins."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=28
+#. y4:msg_phrase=0
+#. y4:msg_location=T28.P0
 msgctxt "948"
 msgid "The Banker wins."
 msgstr "El Banquero gana."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=29
+#. y4:msg_phrase=0
+#. y4:msg_location=T29.P0
 msgctxt "960"
 msgid "It's a tie."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=30
+#. y4:msg_phrase=0
+#. y4:msg_location=T30.P0
 msgctxt "972"
 msgid "Congratulations."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=31
+#. y4:msg_phrase=0
+#. y4:msg_location=T31.P0
 msgctxt "984"
 msgid "That's too bad."
 msgstr "Eso es... una pena."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=32
+#. y4:msg_phrase=0
+#. y4:msg_location=T32.P0
 msgctxt "996"
 msgid "Would you like to continue?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=33
+#. y4:msg_phrase=0
+#. y4:msg_location=T33.P0
 msgctxt "1008"
 msgid "Here you are."
 msgstr "Permítame."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=34
+#. y4:msg_phrase=0
+#. y4:msg_location=T34.P0
 msgctxt "1020"
 msgid "The deck is running low, so I'll shuffle."
 msgstr ""
-

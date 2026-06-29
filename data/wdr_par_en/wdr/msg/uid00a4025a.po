@@ -10,107 +10,182 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
 msgctxt "264"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
 msgctxt "456"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "9632"
 msgid "Lame Scout"
 msgstr "Cazatalentos cansado"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "9636"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "9640"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "9644"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "9648"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "9652"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "9656"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "9660"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "9664"
 msgid "Talk_Udekumi_Yes"
 msgstr "Talk_Udekumi_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "9668"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "9672"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "9676"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "9680"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "9684"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=14
 msgctxt "9688"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=15
 msgctxt "9692"
 msgid "Score Some Leads!"
 msgstr "¡Obtén números de teléfono!"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=16
 msgctxt "9696"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=0
 msgctxt "72_Lame Scout"
 msgid "Harder than you remembered, eh, boss?"
 msgstr "Fue más difícil de lo que imaginaba, ¿jefe?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "84_Akiyama"
 msgid "We'll see about that..."
 msgstr "Eso creo..."
@@ -126,11 +201,25 @@ msgid "There just weren't enough people out there today!\\r\nOrdinarily, I'd pul
 msgstr "¡Yo no tengo la culpa, había pocas mujeres!\\r\nYo siempre consigo más números de teléfono."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=0
 msgctxt "120_Lame Scout"
 msgid "Sure, sure. Whatever helps you sleep at night..."
 msgstr "Uy sí, lo que usted diga."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "132_Akiyama"
 msgid "You're really starting to piss me off you know that...?"
 msgstr "Me estás haciendo enojar, eh. Ten cuidado con lo que dices."
@@ -141,6 +230,13 @@ msgid "Seriously, though, boss, for you to get out there like that\\r\nfor my sa
 msgstr "En serio, jefe. Que usted haya hecho el ridículo por mí...\\r\nA-som-broso."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=0
 msgctxt "156_Lame Scout"
 msgid "I think I'll stay in the game a little longer."
 msgstr "Solo por usted voy a seguir con este puesto."
@@ -151,31 +247,73 @@ msgid "Oh, yeah? Good to hear. And this time, be sure to work\\r\nhard, okay?"
 msgstr "Oh, me alegra oír eso. Y esta vez esfuérzate al máximo,\\r\n¿de acuerdo?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=0
 msgctxt "180_Lame Scout"
 msgid "You bet!"
 msgstr "¡Daré lo mejor de mí!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "192_Akiyama"
 msgid "(I guess it turned out all right after all.)"
 msgstr "(Parece que al final todo salió bien)."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=0
 msgctxt "276_Lame Scout"
 msgid "Whoa! You managed to get three leads? In only five minutes!?"
 msgstr "¡¡Increíble!! ¡¿Obtuvo tres contactos en solo cinco minutos?!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=0
 msgctxt "288_Lame Scout"
 msgid "Whoa! You managed to get four leads? In only five minutes!?"
 msgstr "¡¡Increíble!! ¡¿Obtuvo cuatro contactos en solo cinco minutos?!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=0
 msgctxt "300_Lame Scout"
 msgid "Whoa! Five leads!? That's a lead a minute!"
 msgstr "¡¡Increíble!! ¡¿Cinco contactos?! ¡Es exactamente el número de minutos!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "312_Akiyama"
 msgid "Heheh. I could've done even better if I were younger."
 msgstr "Je, je, je. Pudo haber sido mejor."
@@ -186,31 +324,73 @@ msgid "Wow, boss, you really meant business out there! Now you've\\r\ngot me all
 msgstr "¡Increíble, jefe! ¡Fue genial, me siento inspirado!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=0
 msgctxt "336_Lame Scout"
 msgid "I'm gonna go and give it everything I've got!"
 msgstr "¡De ahora en adelante voy a dar lo mejor de mí!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=23
+#. y4:msg_location=T0.P23
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "348_Akiyama"
 msgid "Excellent. That's all I ask. Good luck."
 msgstr "Bien, me alegra oír eso. Buena suerte."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=0
 msgctxt "360_Lame Scout"
 msgid "Yes, sir!"
 msgstr "¡Sí, señor!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=25
+#. y4:msg_location=T0.P25
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "372_Akiyama"
 msgid "(Heh...)"
 msgstr "(Je...)."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "384_Akiyama"
 msgid "(And the bossman emerges with dignity intact!)"
 msgstr "(Y el jefe Akiyama se pudo ir con la dignidad intacta)."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "480_Akiyama"
 msgid "The First Rule of Scouting: \"Never let a girl pass you by.\""
 msgstr "Primera regla de cómo ser un cazatalentos: “Habla con todas las chicas posibles.”"
@@ -246,6 +426,13 @@ msgid "Seriously!? Well, gee, I dunno! I'm kinda clueless when it\\r\ncomes to t
 msgstr "¡¿De verdad?! ¡Pues, no lo sé! ¡No sé nada de estas cosas!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "564_Akiyama"
 msgid "I noticed."
 msgstr "Sí, lo noté."
@@ -261,22 +448,49 @@ msgid "How about... three times the leads I pulled in? That's three\\r\npeople! 
 msgstr "¿Qué le parece tres chicas? ¡Si consigue el número de teléfono de\\r\ntres chicas, usted gana!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "600_Akiyama"
 msgid "Fine. But why three, particularly?"
 msgstr "Me parece bien. Pero, ¿por qué tres?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=0
 msgctxt "612_Lame Scout"
 msgid "Because a real master ought to be able to do three times better than a normal person, right?"
 msgstr "Porque un profesional debe hacerlo tres veces mejor que alguien promedio, ¿no?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "624_Akiyama"
 msgid "Whatever you say. Okay, then, here I go. Clock starts now!"
 msgstr "Lo que tú digas. Está bien, entonces, aquí voy. ¡Qué empiece el conteo!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Score Some Leads!
+#. y4:msg_speaker_id=15
 msgctxt "636_Score Some Leads!"
 msgid "In the next five minutes, talk to as many women as possible and ask for their phone numbers (i.e., get leads). Do keep in mind, however, that you're scouting specifically for hostesses."
 msgstr "En los próximos cinco minutos, habla con tantas mujeres como puedas y pide sus números de teléfono (es decir, contactos). Ten en cuenta que estás buscando específicamente hostesses."
-

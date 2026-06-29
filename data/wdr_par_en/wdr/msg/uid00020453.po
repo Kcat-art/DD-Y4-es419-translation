@@ -11,76 +11,165 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2692"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2696"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2700"
 msgid "Homeless Man"
 msgstr "Hombre sin hogar"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2704"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "72_Akiyama"
 msgid "Hey, pal. You see some yakuza come through here?"
 msgstr "Disculpe. ¿Vio a algún yakuza pasar por aquí?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Homeless Man
+#. y4:msg_speaker_id=2
 msgctxt "84_Homeless Man"
 msgid "Oh, you bet. Those Hatsushiba punks."
 msgstr "Ah, por supuesto. Esos matones de Hatsushiba."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "96_Akiyama"
 msgid "I knew it. Listen, I need to get by."
 msgstr "Lo sabía. Escuche, necesito pasar."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Homeless Man
+#. y4:msg_speaker_id=2
 msgctxt "108_Homeless Man"
 msgid "Sorry, no can do."
 msgstr "Lo siento, no puede."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "120_Akiyama"
 msgid "Why not?"
 msgstr "¿Por qué no?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Homeless Man
+#. y4:msg_speaker_id=2
 msgctxt "132_Homeless Man"
 msgid "The Hatsushiba boys locked the door down below after they passed through. And lemme tell ya, that door ain't nothing if not sturdy."
 msgstr "Los hombres de Hatsushiba cerraron la puerta después de entrar. Y déjame te digo, esa puerta es más que resistente."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "144_Akiyama"
 msgid "Dammit... What now?"
 msgstr "Mierda... ¿Y ahora qué?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Homeless Man
+#. y4:msg_speaker_id=2
 msgctxt "156_Homeless Man"
 msgid "Hold your horses. We can't stand those jerks, so we'll give you whatever help we can."
 msgstr "Calma. No podemos soportar a esos imbéciles, así que lo ayudaremos en lo que podamos."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Homeless Man
+#. y4:msg_speaker_id=2
 msgctxt "168_Homeless Man"
 msgid "The tunnels here connect with the basement levels of the Millennium Tower."
 msgstr "Los túneles de aquí conectan con el sótano de la Torre Millennium."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Homeless Man
+#. y4:msg_speaker_id=2
 msgctxt "180_Homeless Man"
 msgid "All you gotta do is find the elevator at the back of the tower and you're golden. That'll take you right down where you need to go."
 msgstr "Lo único que tiene que hacer es encontrar el ascensor en la parte de atrás de la torre. Eso te llevará justo donde quiere ir."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "192_Akiyama"
 msgid "Perfect, thanks."
 msgstr "Perfecto, gracias."
@@ -91,12 +180,25 @@ msgid "That was our home before those Hatsushiba snots booted\\r\nus out. If you
 msgstr "Esa era nuestra casa antes de que llegaran esos idiotas de\\r \nHatsushiba y nos echaran. Si nos ayuda, finalmente\\r\npodremos volver allí."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "216_Akiyama"
 msgid "Oh yeah? Well, no guarantees, but I'll see what I can wrangle."
 msgstr "¿Ah, sí? Bueno, no aseguro nada, pero veré que puedo hacer."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Homeless Man
+#. y4:msg_speaker_id=2
 msgctxt "240_Homeless Man"
 msgid "......"
 msgstr "......"
-

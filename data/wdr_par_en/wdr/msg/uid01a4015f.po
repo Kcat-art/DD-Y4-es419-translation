@@ -17,30 +17,55 @@ msgstr ""
 "X-Crowdin-File-ID: 58378\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2220"
 msgid "Owner"
 msgstr "Propietario"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2224"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2228"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2232"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2236"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2240"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
 msgctxt "56_Owner"
 msgid "Hi, welcome! Ah, if it isn't Akiyama-san."
 msgstr "¡Hola, bienvenido! Ah, pues sí es Akiyama-san."
@@ -59,14 +84,35 @@ msgstr "Hoy tengo un atún exquisito, así que, se lo recomendé que comiera oto
 "Pero apuesto que no lo adivinas. Lo único que comió fue el menú del día\\r\n"
 "y se fue."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "92_Akiyama"
 msgid "How much is the special?"
 msgstr "¿Cuánto cuesta el menú del día?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
 msgctxt "104_Owner"
 msgid "980 yen."
 msgstr "980 yenes."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "116_Akiyama"
 msgid "Wow, cheap! Can I have one?"
 msgstr "¡Wow, qué barato! ¿Me puedo pedir uno?"
@@ -79,6 +125,13 @@ msgstr "Me temo que ya se acabaron. Pero, sabes, estaba un poco rara\\r\n"
 "hoy. Siempre se pide uni, awabi - ya sabes, las\\r\n"
 "cosas caras. ¿Le pasa algo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "140_Akiyama"
 msgid "Hmm. So I guess she hasn't touched that million yen, then."
 msgstr "Mmm. Así que supongo que no ha tocado el millón de yenes."
@@ -94,4 +147,3 @@ msgid "Something like that. Thanks for your help. I'll have to drop\\r\n"
 "by again soon."
 msgstr "Algo así. Gracias por su ayuda. Ya vendré\\r\n"
 "en otra ocasión."
-

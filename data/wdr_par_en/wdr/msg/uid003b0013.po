@@ -21,31 +21,113 @@ msgctxt "1020"
 msgid "マック"
 msgstr "マック"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me my opponent's skill
 msgctxt "172_マック"
 msgid "There's nothin' like that!"
 msgstr "¡No hay nada como eso!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Tell me how to quickly catch my opponent
 msgctxt "196_マック"
 msgid "Like I'd tell you!"
 msgstr "¡Como si te lo fuera a decir!"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P2
+#. y4:msg_branch_segment=T0.P2..P3
+#. y4:msg_branch_target_text=There's nothin' like that!
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 1b 00 00 00 00 00 00 00 00
 msgctxt "220_マック"
 msgid "Tell me my opponent's skill"
 msgstr "Dime la habilidad de mi oponente"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P2
+#. y4:msg_branch_segment=T0.P2..P3
+#. y4:msg_branch_target_text=There's nothin' like that!
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 27 00 00 00 00 00 00 00 00
 msgctxt "232_マック"
 msgid "Tell me how to avoid impossible battles"
 msgstr "Dime cómo evitar batallas imposibles"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P2
+#. y4:msg_branch_segment=T0.P2..P3
+#. y4:msg_branch_target_text=There's nothin' like that!
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 1f 00 00 00 00 00 00 00 00
 msgctxt "244_マック"
 msgid "Tell me how to lose my pursuers"
 msgstr "Dime cómo perder a mis perseguidores"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P4
+#. y4:msg_branch_segment=T0.P4..P5
+#. y4:msg_branch_target_text=Like I'd tell you!
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 28 00 00 00 00 00 00 00 00
 msgctxt "256_マック"
 msgid "Tell me how to quickly catch my opponent"
 msgstr "Dime cómo atrapar rápidamente a mi oponente"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=5
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P4
+#. y4:msg_branch_segment=T0.P4..P5
+#. y4:msg_branch_target_text=Like I'd tell you!
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 25 00 00 00 00 00 00 00 00
 msgctxt "268_マック"
 msgid "Tell me how to find shortcuts in town"
 msgstr "Dime cómo encontrar atajos en la ciudad"
-

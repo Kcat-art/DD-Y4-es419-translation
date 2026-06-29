@@ -10,48 +10,98 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1160"
 msgid "Naoki"
 msgstr "Naoki"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1164"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1168"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Naoki
+#. y4:msg_speaker_id=0
 msgctxt "56_Naoki"
 msgid "How is the recruiting going, sir?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "68_Akiyama"
 msgid "It's going okay, I guess."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Naoki
+#. y4:msg_speaker_id=0
 msgctxt "92_Naoki"
 msgid "Have you tried looking in front of the Millennium Tower? You can often find pretty girls there."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Naoki
+#. y4:msg_speaker_id=0
 msgctxt "116_Naoki"
 msgid "Bars are a good place to look, too."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Naoki
+#. y4:msg_speaker_id=0
 msgctxt "140_Naoki"
 msgid "I've heard that the underground mall is popular with young women nowadays."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "152_Akiyama"
 msgid "I see. Thanks. I'll keep that in mind."
 msgstr ""
-

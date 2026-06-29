@@ -10,178 +10,378 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4060"
 msgid "Player"
 msgstr "Player"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4064"
 msgid "Bespectacled Homeless Man"
 msgstr "Pordiosero con Lentes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4068"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4072"
 msgid "Elder Homeless Man"
 msgstr "Viejo Mendigo"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4076"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4080"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "4084"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "4088"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "4092"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "4096"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "4100"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "100_Player"
 msgid "(I should come back when I'm alone...)"
 msgstr "(Debería volver cuando esté solo...)"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Bespectacled Homeless Man
+#. y4:msg_speaker_id=1
 msgctxt "112_Bespectacled Homeless Man"
 msgid "Look what I brought today."
 msgstr "Oye, mira lo que traje."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Elder Homeless Man
+#. y4:msg_speaker_id=3
 msgctxt "124_Elder Homeless Man"
 msgid "Hm? What is it?"
 msgstr "¿Qué? ¿Qué es esto?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
+#. y4:msg_speaker=Elder Homeless Man
+#. y4:msg_speaker_id=3
 msgctxt "196_Elder Homeless Man"
 msgid "It's barbecue sauce. What are you going to do with sauce?"
 msgstr "Es salsa de barbacoa. ¿Qué vas a hacer solo con la salsa?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=8
+#. y4:msg_location=T2.P8
+#. y4:msg_speaker=Bespectacled Homeless Man
+#. y4:msg_speaker_id=1
 msgctxt "208_Bespectacled Homeless Man"
 msgid "All right! Next I just have to go and find some meat somewhere!"
 msgstr "¡Perfecto! ¡Ahora a ver dónde encuentro carne!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Elder Homeless Man
+#. y4:msg_speaker_id=3
 msgctxt "220_Elder Homeless Man"
 msgid "I'm not getting anywhere near that meat..."
 msgstr "¡Ni loco como esa carne...!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Elder Homeless Man
+#. y4:msg_speaker_id=3
 msgctxt "232_Elder Homeless Man"
 msgid "Is that a pistol!? Where the hell did you get it?"
 msgstr "¿¡Eso es una pistola!? ¿De dónde demonios la sacaste?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=11
+#. y4:msg_location=T2.P11
+#. y4:msg_speaker=Bespectacled Homeless Man
+#. y4:msg_speaker_id=1
 msgctxt "244_Bespectacled Homeless Man"
 msgid "No, no. It's just a water gun. Where would anyone get a real gun that's pink anyways?"
 msgstr "No, no. Es solo una pistola de agua. Las pistolas rosas no existen."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=12
+#. y4:msg_location=T2.P12
+#. y4:msg_speaker=Elder Homeless Man
+#. y4:msg_speaker_id=3
 msgctxt "256_Elder Homeless Man"
 msgid "Really? You seen the latest state of the art weapons? They're all sorts of colors and shapes! Hey! Don't point that at me!"
 msgstr "¿En serio? ¿Has visto las armas de ahora? ¡Vienen de todas las formas y colores! ¡Ey! ¡No me apuntes con eso!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=13
+#. y4:msg_location=T2.P13
+#. y4:msg_speaker=Elder Homeless Man
+#. y4:msg_speaker_id=3
 msgctxt "268_Elder Homeless Man"
 msgid "Is this an amusement park pamphlet?"
 msgstr "¿Es un folleto de un parque de diversiones?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=14
+#. y4:msg_location=T2.P14
+#. y4:msg_speaker=Bespectacled Homeless Man
+#. y4:msg_speaker_id=1
 msgctxt "280_Bespectacled Homeless Man"
 msgid "Have you ever even been to an amusement park?"
 msgstr "¿Eh? ¿Alguna vez has ido a un parque de diversiones?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=15
+#. y4:msg_location=T2.P15
+#. y4:msg_speaker=Elder Homeless Man
+#. y4:msg_speaker_id=3
 msgctxt "292_Elder Homeless Man"
 msgid "Of course I have. I remember getting so excited the first time I saw a panda..."
 msgstr "¡Por supuesto! Recuerdo la emoción que sentí la primera vez que vi un panda..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Bespectacled Homeless Man
+#. y4:msg_speaker_id=1
 msgctxt "304_Bespectacled Homeless Man"
 msgid "Umm... Amusement parks definitely do not have pandas. Perhaps a panda ride?"
 msgstr "Ehm... Los parques de diversiones no tienen pandas. ¿O será que era un carrusel de pandas?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=17
+#. y4:msg_location=T2.P17
+#. y4:msg_speaker=Elder Homeless Man
+#. y4:msg_speaker_id=3
 msgctxt "316_Elder Homeless Man"
 msgid "Oh my... What a perverted title for a DVD."
 msgstr "E-esto es... un DVD con un título bastante obsceno..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=18
+#. y4:msg_location=T2.P18
+#. y4:msg_speaker=Bespectacled Homeless Man
+#. y4:msg_speaker_id=1
 msgctxt "328_Bespectacled Homeless Man"
 msgid "Ooh! You wanna take a look?"
 msgstr "¡Ooh! ¿Quieres verlo?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=19
+#. y4:msg_location=T2.P19
+#. y4:msg_speaker=Elder Homeless Man
+#. y4:msg_speaker_id=3
 msgctxt "340_Elder Homeless Man"
 msgid "What the hell? How old do you think I am!?"
 msgstr "¿¡Q-Qué estás diciendo...!? ¿¡Cuántos años crees que tengo...!?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=20
+#. y4:msg_location=T2.P20
+#. y4:msg_speaker=Bespectacled Homeless Man
+#. y4:msg_speaker_id=1
 msgctxt "352_Bespectacled Homeless Man"
 msgid "You don't want to watch it?"
 msgstr "...¿Lo quieres ver, verdad?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=21
+#. y4:msg_location=T2.P21
+#. y4:msg_speaker=Elder Homeless Man
+#. y4:msg_speaker_id=3
 msgctxt "364_Elder Homeless Man"
 msgid "Well... Maybe a little bit..."
 msgstr "...Solo un poquito."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=22
+#. y4:msg_location=T2.P22
+#. y4:msg_speaker=Elder Homeless Man
+#. y4:msg_speaker_id=3
 msgctxt "376_Elder Homeless Man"
 msgid "This is a child's wallet. And the kid was pretty loaded..."
 msgstr "Este es un monedero de niño. Y además, tiene bastante dinero dentro..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=23
+#. y4:msg_location=T2.P23
+#. y4:msg_speaker=Bespectacled Homeless Man
+#. y4:msg_speaker_id=1
 msgctxt "388_Bespectacled Homeless Man"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=23
+#. y4:msg_location=T2.P23
+#. y4:msg_speaker=Bespectacled Homeless Man
+#. y4:msg_speaker_id=1
 msgctxt "400_Elder Homeless Man"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=25
+#. y4:msg_location=T2.P25
+#. y4:msg_speaker=Bespectacled Homeless Man
+#. y4:msg_speaker_id=1
 msgctxt "412_Bespectacled Homeless Man"
 msgid "You can't take that."
 msgstr "...No se puede usar, ¿verdad?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=26
+#. y4:msg_location=T2.P26
+#. y4:msg_speaker=Elder Homeless Man
+#. y4:msg_speaker_id=3
 msgctxt "424_Elder Homeless Man"
 msgid "Nope..."
 msgstr "No..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=27
+#. y4:msg_location=T2.P27
+#. y4:msg_speaker=Bespectacled Homeless Man
+#. y4:msg_speaker_id=1
 msgctxt "436_Bespectacled Homeless Man"
 msgid "I'll deliver it to the police."
 msgstr "...Lo llevaré a la comisaría."
-

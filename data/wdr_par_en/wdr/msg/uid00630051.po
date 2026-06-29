@@ -21,10 +21,20 @@ msgctxt "4976"
 msgid "望月京子：源氏名"
 msgstr "望月京子：源氏名"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4980"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "256_望月京子：源氏名"
 msgid "Hahaha! I love karaoke! It's great to sing songs by other people once in a while!"
 msgstr "¡Ja, ja, ja! ¡Me encanta el karaoke! ¡Es genial cantar con otras personas de vez en cuando!"
@@ -41,26 +51,84 @@ msgctxt "292_望月京子：源氏名"
 msgid "Oh, I almost forgot. Why don't you sing something, too? <Color:7>♥<Color:Default>"
 msgstr "Oh, casi lo olvido. ¿Por qué no cantas algo tú también? <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "304_Kiryu"
 msgid "Sure, why not."
 msgstr ""
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "316_望月京子：源氏名"
 msgid "You have a sexy voice, so I bet your singing voice is just as hot! I can't wait to hear it!"
 msgstr "Tienes una voz sexy, ¡así que apuesto a que tu voz al cantar es igual de atractiva! ¡No puedo esperar a escucharla!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not me.
 msgctxt "328_Kiryu"
 msgid "No, I'm good."
 msgstr "No, estoy bien."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not me.
 msgctxt "340_望月京子：源氏名"
 msgid "Huh. That's too bad."
 msgstr "Eh, Qué lástima."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "352_望月京子：源氏名"
 msgid "Huh. That's weird... I'm not sounding like myself. Sorry, I'm not usually like this."
 msgstr "Vaya, esto es raro... No estoy sonando como de costumbre. Lo siento, no suelo ser así."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "364_Kiryu"
 msgid "Sorry."
 msgstr "Lo siento."
@@ -73,18 +141,62 @@ msgctxt "388_望月京子：源氏名"
 msgid "Oh, I almost forgot. Why don't you sing something, too? <Color:7>♥<Color:Default>"
 msgstr "Oh, casi lo olvido. ¿Por qué no cantas algo tú también? <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "400_Kiryu"
 msgid "Sure, why not."
 msgstr ""
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "412_望月京子：源氏名"
 msgid "You have a sexy voice, so I bet your singing voice is just as hot! I can't wait to hear it!"
 msgstr "Tienes una voz sexy, ¡así que apuesto a que tu voz al cantar es igual de atractiva! ¡No puedo esperar a escucharla!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not me.
 msgctxt "424_Kiryu"
 msgid "No, I'm good."
 msgstr "No, estoy bien."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not me.
 msgctxt "436_望月京子：源氏名"
 msgid "Huh. That's too bad."
 msgstr "Eh, Qué lástima."
@@ -93,14 +205,35 @@ msgctxt "448_望月京子：源氏名"
 msgid "You're really good at karaoke! I think you might have some star potential. <Color:7>♥<Color:Default>"
 msgstr "¡Eres muy bueno en el karaoke! Creo que podrías tener potencial de estrella. <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=1
+#. y4:msg_location=T5.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "460_Kiryu"
 msgid "Heh, oh yeah?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "472_望月京子：源氏名"
 msgid "Oh, are you done? It sounded like you were having some trouble..."
 msgstr "Oh, ¿ya terminaste? Sonaba como si tuvieras un poco de dificultad..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=1
+#. y4:msg_location=T6.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "484_Kiryu"
 msgid "Uh, it's because my throat's been acting up..."
 msgstr "Uh, es porque mi garganta ha estado molestando..."
@@ -111,23 +244,81 @@ msgid "You never told me you were such a good singer!\\r\n"
 msgstr "¡Nunca me dijiste que eras tan buen cantante!\\r\n"
 "¿¡Quieres que intentemos llegar a lo más alto juntos!?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=1
+#. y4:msg_location=T7.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "508_Kiryu"
 msgid "Heh... That's really flattering."
 msgstr "Je... Eso es realmente halagador."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P2
+#. y4:msg_branch_segment=T2.P2..P3
+#. y4:msg_branch_target_text=Sure, why not.
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "520_望月京子：源氏名"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P4
+#. y4:msg_branch_segment=T2.P4..P5
+#. y4:msg_branch_target_text=No, I'm good.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "532_望月京子：源氏名"
 msgid "Not me."
 msgstr "Yo no."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P2
+#. y4:msg_branch_segment=T2.P2..P3
+#. y4:msg_branch_target_text=Sure, why not.
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "544_望月京子：源氏名"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P4
+#. y4:msg_branch_segment=T2.P4..P5
+#. y4:msg_branch_target_text=No, I'm good.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "556_望月京子：源氏名"
 msgid "Not me."
 msgstr "Yo no."
-

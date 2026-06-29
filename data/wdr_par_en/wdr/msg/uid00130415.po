@@ -17,6 +17,9 @@ msgstr ""
 "X-Crowdin-File-ID: 59924\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "700"
 msgid "Sugiyama"
 msgstr "Sugiyama"
@@ -26,7 +29,13 @@ msgid "Saejima-san! It's been a while! Let me know when you need a partner in a 
 "I'll be there in a flash!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Sugiyama
+#. y4:msg_speaker_id=0
 msgctxt "96_Sugiyama"
 msgid "Saejima-san. Nice to see you! Let me know when you need a partner in a tag tournament. I'll be there in a flash!"
 msgstr ""
-

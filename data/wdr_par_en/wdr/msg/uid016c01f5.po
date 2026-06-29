@@ -17,367 +17,931 @@ msgstr ""
 "X-Crowdin-File-ID: 59822\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "15032"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "15036"
 msgid "P_sitsofaR_tlk_comment"
 msgstr "P_sitsofaR_tlk_comment"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "15040"
 msgid "Rio"
 msgstr "Rio"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "15044"
 msgid "F_cab_sitsofa_tlk_thinkA"
 msgstr "F_cab_sitsofa_tlk_thinkA"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "15048"
 msgid "P_sitsofaR_tlk_yes"
 msgstr "P_sitsofaR_tlk_yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "15052"
 msgid "F_cab_sitsofa_tlk_yes"
 msgstr "F_cab_sitsofa_tlk_yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "15056"
 msgid "P_sitsofaR_tlk_smile"
 msgstr "P_sitsofaR_tlk_smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "15060"
 msgid "F_cab_sitsofa_tlk_happy"
 msgstr "F_cab_sitsofa_tlk_happy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "15064"
 msgid "F_cab_sitsofa_tlk_noA"
 msgstr "F_cab_sitsofa_tlk_noA"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "15068"
 msgid "F_cab_sitsofa_tlk_suprise"
 msgstr "F_cab_sitsofa_tlk_suprise"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "15072"
 msgid "P_sitsofaR_tlk_no"
 msgstr "P_sitsofaR_tlk_no"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "15076"
 msgid "F_cab_sitsofa_tlk_cry"
 msgstr "F_cab_sitsofa_tlk_cry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "15080"
 msgid "F_cab_sitsofa_sp1_sync_yop"
 msgstr "F_cab_sitsofa_sp1_sync_yop"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "15084"
 msgid "F_cab_sitsofa_tlk_refuse"
 msgstr "F_cab_sitsofa_tlk_refuse"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=14
 msgctxt "15088"
 msgid "F_cab_sitsofa_talk_smileA"
 msgstr "F_cab_sitsofa_talk_smileA"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=15
 msgctxt "15092"
 msgid "F_cab_sitsofa_tlk_kamaeAtoB"
 msgstr "F_cab_sitsofa_tlk_kamaeAtoB"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=16
 msgctxt "15096"
 msgid "P_sitsofaR_tlk_quest"
 msgstr "P_sitsofaR_tlk_quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=17
 msgctxt "15100"
 msgid "P_sitsofaR_tlk_think"
 msgstr "P_sitsofaR_tlk_think"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "392_Akiyama"
 msgid "Ever heard of 777 Town?"
 msgstr "¿Alguna vez has oído hablar de 777 Town?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "404_Rio"
 msgid "777 Town? No, what's that?"
 msgstr "¿777 Town? ¿Y eso qué es?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "416_Akiyama"
 msgid "It's a game for your computer or cell phone. It lets you play pachinko and slots anytime, anywhere you want."
 msgstr "Es un juego para el teléfono y la computadora. Te permite jugar al pachinko y a las tragamonedas en cualquier momento y lugar donde sea que estés."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "428_Rio"
 msgid "Really? I've never played pachinko, but I've wanted to try for a while."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "440_Akiyama"
 msgid "It's perfect for you then. It's exactly like the real thing, so it'll be great practice."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "452_Rio"
 msgid "Okay, I'll give it a try then!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "464_Akiyama"
 msgid "Ever heard of Amoebatar?"
 msgstr "¿Has oído hablar de Amoebatar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "476_Rio"
 msgid "No, what is it?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "488_Akiyama"
 msgid "It's an online community that lets you create an avatar of yourself. The number of members has skyrocketed lately."
 msgstr "Es una comunidad en línea que te permite crear un avatar de ti mismo. El número de miembros ha aumentado muchísimo últimamente."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "500_Rio"
 msgid "I've never heard of it before. Guess I could give it a try."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "512_Akiyama"
 msgid "You can also play games and chat. I'm not much of an expert on those things, so why don't we try it together sometime?"
 msgstr "También puedes jugar y chatear. No soy muy experto en esas cosas, así que ¿por qué no lo probamos juntos alguna vez?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "524_Rio"
 msgid "Okay! Let's try it together!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "536_Akiyama"
 msgid "Hear about the ghost in the underground mall?"
 msgstr "¿Escuchaste sobre el fantasma que hay en el centro comercial subterráneo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "548_Rio"
 msgid "Huh!? Is that real?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "560_Akiyama"
 msgid "A worker died in an accident during the construction of the underground mall."
 msgstr "Un trabajador murió en un accidente durante la construcción del centro comercial subterráneo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "572_Akiyama"
 msgid "Now, night after night, his ghost appears to wander the empty mall."
 msgstr "Ahora, cuando cae la noche, su fantasma deambula por el centro comercial vacío."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "584_Rio"
 msgid "What? That's terrifying! Now I can't go there! I really shouldn't have asked..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "596_Akiyama"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "608_Akiyama"
 msgid "Hear about the footbaths at Yunosono Hot Springs? You don't take off your clothes, so men and women can go in together."
 msgstr "¿Has oído hablar de los baños de pies de las Aguas termales Yunosono? No hace falta que te quites la ropa, así que hombres y mujeres pueden entrar juntos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "620_Rio"
 msgid "Oh really? That sounds fantastic!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=2
+#. y4:msg_location=T3.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "632_Akiyama"
 msgid "We could check it out together sometime. We can even play table tennis afterwards."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=3
+#. y4:msg_location=T3.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "644_Rio"
 msgid "We can? Let's definitely go then!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "656_Akiyama"
 msgid "Golf is getting pretty popular. A lot of couples go on golf dates nowadays."
 msgstr "El golf se ha vuelto popular últimamente. Y al parecer las parejas van de citas a esos lugares."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=1
+#. y4:msg_location=T4.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "668_Rio"
 msgid "Really? I've never really heard of going golfing on a date before."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=2
+#. y4:msg_location=T4.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "680_Akiyama"
 msgid "That's what makes it fun. Everyone goes to the movies or out to dinner. Breaking a sweat for a change isn't bad."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=3
+#. y4:msg_location=T4.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "692_Rio"
 msgid "That's true. Something new might be good!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "704_Akiyama"
 msgid "Do you like liver? Liver contains arachidonic acid, which reverses aging in the brain."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=1
+#. y4:msg_location=T5.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "716_Rio"
 msgid "Really? I kinda like it. It's not my all-time favorite food though."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=2
+#. y4:msg_location=T5.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "728_Akiyama"
 msgid "It stimulates your brain and enhances your learning faculties. You should give it a try."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=3
+#. y4:msg_location=T5.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "740_Rio"
 msgid "Heh, well, I'll give it a try next time."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "752_Akiyama"
 msgid "Did you know pole dancing is great for working out?"
 msgstr "¿Sabías que el pole dance es genial para hacer ejercicio?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=1
+#. y4:msg_location=T6.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "764_Rio"
 msgid "Now that you mention it, pole dancing girls are pretty slender, aren't they?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=2
+#. y4:msg_location=T6.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "776_Akiyama"
 msgid "I don't think you need to go on a diet, but pole dancing might suit you, Rio-chan."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=3
+#. y4:msg_location=T6.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "788_Rio"
 msgid "You think so? Then I might give it a shot!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "800_Akiyama"
 msgid "Sweet sake is all the rage now. Women like to order it when eating over at Sushi Gin."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=1
+#. y4:msg_location=T7.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "812_Rio"
 msgid "Really? I lose my memory when I drink, though..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=2
+#. y4:msg_location=T7.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "824_Akiyama"
 msgid "You'll be fine. It's got a low alcohol percentage, so it's pretty much the same as a cocktail."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=3
+#. y4:msg_location=T7.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "836_Rio"
 msgid "Ooh! In that case, I'll have to try it sometime."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "884_Akiyama"
 msgid "So about 777 Town..."
 msgstr "Acerca del 777 Town..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=11
+#. y4:msg_phrase=1
+#. y4:msg_location=T11.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "896_Rio"
 msgid "I tried it! It's actually really fun. I play it lots in my free time."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=11
+#. y4:msg_phrase=2
+#. y4:msg_location=T11.P2
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "908_Rio"
 msgid "Thanks for telling me about it, Akiyama-san!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=11
+#. y4:msg_phrase=3
+#. y4:msg_location=T11.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "920_Akiyama"
 msgid "Heh, no problem."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=12
+#. y4:msg_phrase=0
+#. y4:msg_location=T12.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "932_Akiyama"
 msgid "Have you tried Amoebatar?"
 msgstr "¿Has probado Amoebatar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=12
+#. y4:msg_phrase=1
+#. y4:msg_location=T12.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "944_Rio"
 msgid "I did! I even made a lot of friends on it!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=12
+#. y4:msg_phrase=2
+#. y4:msg_location=T12.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "956_Akiyama"
 msgid "Great. Let's play it together sometime."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=12
+#. y4:msg_phrase=3
+#. y4:msg_location=T12.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "968_Rio"
 msgid "Okay! I look forward to it!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=0
+#. y4:msg_location=T13.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "980_Akiyama"
 msgid "So about that ghost in the underground mall..."
 msgstr "Acerca del fantasma del centro comercial..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=1
+#. y4:msg_location=T13.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "992_Rio"
 msgid "Please don't talk about that... Why are you being so mean?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=2
+#. y4:msg_location=T13.P2
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "1004_Rio"
 msgid "You're the worst, Akiyama-san..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "1016_Akiyama"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=14
+#. y4:msg_phrase=0
+#. y4:msg_location=T14.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "1028_Akiyama"
 msgid "Did you try out the footbaths at Yunosono?"
 msgstr "¿Probaste los baños de pies en Yunosono?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=14
+#. y4:msg_phrase=1
+#. y4:msg_location=T14.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "1040_Rio"
 msgid "I did! I had a nice soak after playing table tennis. It was amazing. My ankles felt like jelly afterwards."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=14
+#. y4:msg_phrase=2
+#. y4:msg_location=T14.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "1052_Akiyama"
 msgid "Heh... Looks like it helped out with your circulation?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=14
+#. y4:msg_phrase=3
+#. y4:msg_location=T14.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "1064_Rio"
 msgid "That must be it! I'd love to go again!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "1076_Akiyama"
 msgid "About those golf dates..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=15
+#. y4:msg_phrase=1
+#. y4:msg_location=T15.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "1088_Rio"
 msgid "Oh yeah, you said they're getting popular, right? Did you go on one recently?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=15
+#. y4:msg_phrase=2
+#. y4:msg_location=T15.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "1100_Akiyama"
 msgid "Me? No, uh..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=15
+#. y4:msg_phrase=3
+#. y4:msg_location=T15.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "1112_Rio"
 msgid "Oh, I see! Is this a roundabout way of asking me out on one? You should just say it then!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=15
+#. y4:msg_phrase=4
+#. y4:msg_location=T15.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "1124_Akiyama"
 msgid "Oh, uh... yeah. So, would you like to go golfing with me sometime?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=15
+#. y4:msg_phrase=5
+#. y4:msg_location=T15.P5
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "1136_Rio"
 msgid "Hehe. Of course!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=16
+#. y4:msg_phrase=0
+#. y4:msg_location=T16.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "1148_Akiyama"
 msgid "What was the name of that type of acid again?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=16
+#. y4:msg_phrase=1
+#. y4:msg_location=T16.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "1160_Rio"
 msgid "Acid? Since when were you a chemist?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=16
+#. y4:msg_phrase=2
+#. y4:msg_location=T16.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "1172_Akiyama"
 msgid "I can't remember what it was called for the life of me."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=16
+#. y4:msg_phrase=3
+#. y4:msg_location=T16.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "1184_Rio"
 msgid "Hehe. Oh, Akiyama-san, did you forget?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=16
+#. y4:msg_phrase=4
+#. y4:msg_location=T16.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "1196_Akiyama"
 msgid "I'm totally blanking. I guess I'm not so young anymore..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=17
+#. y4:msg_phrase=0
+#. y4:msg_location=T17.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "1208_Akiyama"
 msgid "Did you give pole dancing any thought?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=17
+#. y4:msg_phrase=1
+#. y4:msg_location=T17.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "1220_Rio"
 msgid "The experience might prove useful to my career as a pin-up model."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=17
+#. y4:msg_phrase=2
+#. y4:msg_location=T17.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "1232_Akiyama"
 msgid "That's possible. Why not try it out? People will be looking at you all the time, right? It'll be good practice."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=17
+#. y4:msg_phrase=3
+#. y4:msg_location=T17.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "1244_Rio"
 msgid "You think so? I'll definitely consider it then."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "1256_Akiyama"
 msgid "Did you give that sake a try? The sweet kind we talked about."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=18
+#. y4:msg_phrase=1
+#. y4:msg_location=T18.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "1268_Rio"
 msgid "I tried it recently! But I'd prefer it if it was a bit more on the dry side."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=18
+#. y4:msg_phrase=2
+#. y4:msg_location=T18.P2
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=2
 msgctxt "1280_Rio"
 msgid "I love drinking it all in one go. That's the true spirit of sake."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=18
+#. y4:msg_phrase=3
+#. y4:msg_location=T18.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "1292_Akiyama"
 msgid "Heh. That so? Didn't know you liked that sort of thing, Rio-chan."
 msgstr ""
-

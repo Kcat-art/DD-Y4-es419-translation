@@ -17,27 +17,60 @@ msgstr ""
 "X-Crowdin-File-ID: 60866\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "852"
 msgid "Savvy Secretary"
 msgstr "Secretario Savvy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "856"
 msgid "Gossipy Businessman"
 msgstr "Empresario Chismoso"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Savvy Secretary
+#. y4:msg_speaker_id=0
 msgctxt "84_Savvy Secretary"
 msgid "My friend's boyfriend proposed to her on the rooftop of the Millennium Tower. Isn't that sooo romantic!?"
 msgstr "El novio de mi amiga le propuso matrimonio en el tejado de la Torre Millennium. ¡¿Acaso no te parece eso tan romántico?!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Gossipy Businessman
+#. y4:msg_speaker_id=1
 msgctxt "96_Gossipy Businessman"
 msgid "Hmph... Surprised they even got up there. Only authorized personnel are allowed there."
 msgstr "Hmph... Sorprendidos de que incluso se hayan subido allí. Solo se permite personal autorizado en esa zona."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Savvy Secretary
+#. y4:msg_speaker_id=0
 msgctxt "108_Savvy Secretary"
 msgid "She said her boyfriend did everything he could to make it happen. Isn't he wonderful?"
 msgstr "Ella dijo que su novio hizo todo lo él pudo para que eso sucediera. ¿No es maravilloso?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Gossipy Businessman
+#. y4:msg_speaker_id=1
 msgctxt "120_Gossipy Businessman"
 msgid "Oh, um... Hey, how about we go get something good to eat?"
 msgstr "Oh, um... Oye, ¿qué tal si buscamos algo rico para comer?"
-

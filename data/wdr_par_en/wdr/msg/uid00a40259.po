@@ -17,62 +17,119 @@ msgstr ""
 "X-Crowdin-File-ID: 59830\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "7512"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "7516"
 msgid "Lame Scout"
 msgstr "Cazatalentos cansado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "7520"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "7524"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "7528"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "7532"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "7536"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "7540"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "7544"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "7548"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "7552"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "7556"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "84_Akiyama"
 msgid "(Hey, isn't that our scout?)"
 msgstr "(Hey, ¿ese de ahí no es nuestro querido cazatalentos?)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "120_Akiyama"
 msgid "Working hard? Don't be slacking off, now."
 msgstr "¿Holgazaneando ahora? Hay trabajo por hacer, no te pongas a descansar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=1
 msgctxt "144_Lame Scout"
 msgid "Oh, hey there, boss."
 msgstr "Oh... ¡Hola, jefe!"
@@ -83,14 +140,35 @@ msgid "Don't \"hey there, boss\" me. All these girls walking by...\\r\n"
 msgstr "¡Nada de “hola jefe”! Hay muchas mujeres pasando por\\r\n"
 "estas calles... Tu trabajo es hablar con ellas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "180_Akiyama"
 msgid "Like that one!"
 msgstr "¡Mira, esa de allí!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "192_Akiyama"
 msgid "...Aw, some other club got her."
 msgstr "... Vaya, parece que otro club se nos adelantó."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=1
 msgctxt "204_Lame Scout"
 msgid "I'm just not cut out for this job."
 msgstr "¡Yo no sirvo para este trabajo!"
@@ -101,6 +179,13 @@ msgid "What, quitting already? It's your choice to make, but you're\\r\n"
 msgstr "¿Ya estás pensando en renunciar? No te detendré, pero\\r\n"
 "parece que estás siendo algo apresurado, ¿no?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=1
 msgctxt "240_Lame Scout"
 msgid "It's just that nothing's going right."
 msgstr "La verdad es que nada me sale bien."
@@ -117,6 +202,13 @@ msgid "It sounds like you talked to a lot of girls. How many leads\\r\n"
 msgstr "Vaya, suena como si hubieras hablado con muchas mujeres.\\r\n"
 "¿Hubo suerte con algunas?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=1
 msgctxt "276_Lame Scout"
 msgid "Leads?"
 msgstr "¿“Suerte”?"
@@ -127,6 +219,13 @@ msgid "C'mon, you know. How many phone numbers did you get? How\\r\n"
 msgstr "¡Sabes a qué me refiero! ¿Cuántas te pasaron su número de teléfono?\\r\n"
 "¿Fueron muchas chicas?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=1
 msgctxt "300_Lame Scout"
 msgid "One."
 msgstr "Solo fue una."
@@ -149,18 +248,46 @@ msgid "Well, I think I can understand how you feel... Just how are\\r\n"
 msgstr "Bueno, creo que sé cómo te sientes... ¿Puedes decirme cómo\\r\n"
 "le hablabas a las mujeres?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=22
+#. y4:msg_location=T1.P22
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=1
 msgctxt "348_Lame Scout"
 msgid "How? Like, normally. \"Hey, wanna be a hostess?\" Like that."
 msgstr "¿Cómo? Pues, normal: “¡Hola! ¿Te gustaría ser hostess?”."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "360_Akiyama"
 msgid "Hmm. Then what? What if she says she's not interested?"
 msgstr "Hmm, ¿y qué les dices si no están interesadas?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=24
+#. y4:msg_location=T1.P24
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=1
 msgctxt "372_Lame Scout"
 msgid "I say, \"Aw, c'mon, why not? Give it a shot.\""
 msgstr "Les digo: “Vamos, ¿por qué no? ¡Inténtalo!”"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "384_Akiyama"
 msgid "...I don't blame them for giving you the stink eye."
 msgstr "... Creo que ya sé cual es el problema."
@@ -172,6 +299,13 @@ msgid "Maybe it was fate I saw you here today. I'll give you some\\r\n"
 msgstr "Parece que el destino nos llamó. Tendré que darte unas clases\\r\n"
 "de como ser un cazatalentos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=1
 msgctxt "408_Lame Scout"
 msgid "Huh? You mean you can scout, boss?"
 msgstr "¿Eh? ¿Usted sabe cómo ser un cazatalentos, jefe?"
@@ -182,6 +316,13 @@ msgid "What kind of idiot do you take me for? I tried my hand at\\r\n"
 "myself."
 msgstr "¿Por quién me tomas? Trabajé en muchos clubs antes de ser dueño de uno."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=29
+#. y4:msg_location=T1.P29
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=1
 msgctxt "432_Lame Scout"
 msgid "Wow. You sure don't mess around."
 msgstr "¡Woah! ¡Usted sí que se lo toma en serio!"
@@ -193,15 +334,35 @@ msgid "Not when it comes to work, anyway; that's the trick to\\r\n"
 msgstr "Solo si se trata de trabajar, ese es el secreto para hacerse rico.\\r\n"
 "Ahora, es tu turno de dar el primer paso. Ven conmigo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=33
+#. y4:msg_location=T1.P33
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=1
 msgctxt "480_Lame Scout"
 msgid "Aw, do I have to?"
 msgstr "Agh, ¿esto es necesario?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=34
+#. y4:msg_location=T1.P34
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "492_Akiyama"
 msgid "Yep. Now, get movin'!"
 msgstr "Claro que sí. ¡Andando!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=35
+#. y4:msg_location=T1.P35
+#. y4:msg_speaker=Lame Scout
+#. y4:msg_speaker_id=1
 msgctxt "504_Lame Scout"
 msgid "Seriously? What a drag..."
 msgstr "¿En serio? Qué remedio..."
-

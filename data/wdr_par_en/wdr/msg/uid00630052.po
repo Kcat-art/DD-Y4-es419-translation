@@ -21,46 +21,141 @@ msgctxt "4556"
 msgid "峰村七海：源氏名"
 msgstr "峰村七海：源氏名"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4560"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "256_峰村七海：源氏名"
 msgid "I love karaoke! Hmm... What should I sing?"
 msgstr "¡Me encanta el karaoke! Hmm... ¿Qué debería cantar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "268_峰村七海：源氏名"
 msgid "Hmm... What should I sing?"
 msgstr "Mmm... ¿Qué debo cantar?"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "280_峰村七海：源氏名"
 msgid "Mmm... That felt so good! I think I did pretty well!"
 msgstr "Mmm... ¡Eso se sintió tan bien! ¡Creo que lo hice bastante bien!"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Sure. -> T2.P2 | 2. Not me. -> T2.P4
 msgctxt "292_峰村七海：源氏名"
 msgid "Why don't you sing something, too?"
 msgstr "¿Por qué no cantas algo tú también?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "304_Kiryu"
 msgid "\"Kamurocho Lullaby,\" then."
 msgstr "Cantaré \"Kamurocho Lullaby\", entonces."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "316_峰村七海：源氏名"
 msgid "Oh, I know that one! It's one of my favorites!"
 msgstr "¡Oh, conozco esa! ¡Es una de mis favoritas!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not me.
 msgctxt "328_Kiryu"
 msgid "No, I'm good."
 msgstr "No, estoy bien."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not me.
 msgctxt "340_峰村七海：源氏名"
 msgid "Huh? Are you sure? I really wanted to hear you sing..."
 msgstr "¿Huh? ¿Estás seguro? Realmente quería escucharte cantar..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "352_峰村七海：源氏名"
 msgid "You were completely off..."
 msgstr "Estabas completamente fuera de lugar..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "364_Kiryu"
 msgid "Sorry."
 msgstr "Lo siento."
@@ -69,50 +164,154 @@ msgctxt "376_峰村七海：源氏名"
 msgid "That felt so good! You really helped me get into it! <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=4
+#. y4:msg_phrase=1
+#. y4:msg_location=T4.P1
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. Sure. -> T4.P2 | 2. Not me. -> T4.P4
 msgctxt "388_峰村七海：源氏名"
 msgid "You should sing, too!"
 msgstr "¡Tú también deberías cantar!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "400_Kiryu"
 msgid "\"Kamurocho Lullaby,\" then."
 msgstr "Cantaré \"Kamurocho Lullaby\", entonces."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "412_峰村七海：源氏名"
 msgid "Oh, I know that one! It's one of my favorites!"
 msgstr "¡Oh, conozco esa! ¡Es una de mis favoritas!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not me.
 msgctxt "424_Kiryu"
 msgid "No, I'm good."
 msgstr "No, estoy bien."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not me.
 msgctxt "436_峰村七海：源氏名"
 msgid "Huh? Are you sure? I really wanted to hear you sing..."
 msgstr "¿Huh? ¿Estás seguro? Realmente quería escucharte cantar..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "448_峰村七海：源氏名"
 msgid "That was cool! You're not half bad!"
 msgstr "¡Eso fue genial! ¡No eres tan malo!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=1
+#. y4:msg_location=T5.P1
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "460_峰村七海：源氏名"
 msgid "Hey... You've been practicing on your own, haven't you?"
 msgstr "Eh... Has estado practicando por tu cuenta, ¿verdad?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=2
+#. y4:msg_location=T5.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "472_Kiryu"
 msgid "Are you kidding me?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=3
+#. y4:msg_location=T5.P3
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "484_峰村七海：源氏名"
 msgid "Just imagining you practicing by yourself is hilarious!"
 msgstr "Imaginarte practicando a solas es divertidísimo!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=4
+#. y4:msg_location=T5.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "496_Kiryu"
 msgid "Heh... Yeah, I guess so."
 msgstr "Je... Sí, supongo que sí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=0
 msgctxt "508_峰村七海：源氏名"
 msgid "Umm... Don't worry, we all have our off days."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=1
+#. y4:msg_location=T6.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "520_Kiryu"
 msgid "Yeah..."
 msgstr "Sí..."
@@ -122,23 +321,81 @@ msgid "Wow! I never knew you were such a good singer!\\r\n"
 "That was really impressive! <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=1
+#. y4:msg_location=T7.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "544_Kiryu"
 msgid "Oh yeah? Thanks."
 msgstr "¿Ah, sí? Gracias."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P2
+#. y4:msg_branch_segment=T2.P2..P3
+#. y4:msg_branch_target_text="Kamurocho Lullaby," then.
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "556_峰村七海：源氏名"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P4
+#. y4:msg_branch_segment=T2.P4..P5
+#. y4:msg_branch_target_text=No, I'm good.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "568_峰村七海：源氏名"
 msgid "Not me."
 msgstr "Yo no."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P2
+#. y4:msg_branch_segment=T2.P2..P3
+#. y4:msg_branch_target_text="Kamurocho Lullaby," then.
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "580_峰村七海：源氏名"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P4
+#. y4:msg_branch_segment=T2.P4..P5
+#. y4:msg_branch_target_text=No, I'm good.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "592_峰村七海：源氏名"
 msgid "Not me."
 msgstr "Yo no."
-

@@ -17,38 +17,69 @@ msgstr ""
 "X-Crowdin-File-ID: 58428\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2684"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2688"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2692"
 msgid "Angry Homeless Man"
 msgstr "Vagabundo enojado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2696"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2700"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2704"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "2708"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "2712"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "84_Saejima"
 msgid "You're getting in the way, standin' there like that."
 msgstr "Oye, estás tapando el camino si te quedas ahí parado."
@@ -60,19 +91,47 @@ msgstr "Ah, no me lo vas a creer, ¡escucha esto!\\r\n"
 "Acabo de encontrar 1.000 yenes.\\r\n"
 "¡1.000 yenes!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "108_Saejima"
 msgid "Wow. That's damn near a fortune."
 msgstr "Ah, sí. Mil yenes es una fortuna."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Angry Homeless Man
+#. y4:msg_speaker_id=2
 msgctxt "120_Angry Homeless Man"
 msgid "I know, right? But then suddenly, while I wasn't looking, this little shit came up and the money was gone!"
 msgstr "¿Verdad?... Pero tenía que llegar ese maldito\\r\n"
 "mocoso que me lo robó... Uh, maldición."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "132_Saejima"
 msgid "You lost your cash takin' a shit?"
 msgstr "¿Mocoso?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Angry Homeless Man
+#. y4:msg_speaker_id=2
 msgctxt "144_Angry Homeless Man"
 msgid "No, I mean a pint-sized pickpocket at the <Color:7>underground mall<Color:Default>."
 msgstr "Sí, por aquí en el <Color:7>subterráneo<Color:Default> ronda mucho ladrón."
@@ -95,13 +154,26 @@ msgid "Gotta say, the only lesson that needs learnin' here\\r\n"
 msgstr "... Si sabías que algo así podría pasar, no hay nada que hacer.\\r\n"
 "Solo tienes que aceptarlo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Angry Homeless Man
+#. y4:msg_speaker_id=2
 msgctxt "192_Angry Homeless Man"
 msgid "Wow, that's just cold. I hope he goes after you next."
 msgstr "¿Qué?, ¿piensas que esto no te afecta?\\r\n"
 "Incluso tú podrías ser víctima. Bah."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "204_Saejima"
 msgid "(A little kid's pickin' pockets in the <Color:7>underground mall<Color:Default>? Sounds like a shitstorm waiting to happen. Ah, well.)"
 msgstr "(... Niños ladrones en el <Color:7>Subterráneo<Color:Default>?...\\r\n"
 "¿Por qué un niño haría eso? Tal vez deba investigar un poco...)."
-

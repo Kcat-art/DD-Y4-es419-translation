@@ -17,10 +17,20 @@ msgstr ""
 "X-Crowdin-File-ID: 62084\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
 msgctxt "80"
 msgid "It's the Tojo Terror, Kazuma Kiryu, out for a drink! And when a guy like me goes out for a drink, there's no better place than the Champion District!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
 msgctxt "92"
 msgid "All I gotta do is tell 'em I'm the Dragon of Dojima, and it's like booze comes raining from the freaking heavens."
 msgstr ""
@@ -30,23 +40,45 @@ msgid "That's just the life of a VIP, baby. You think you're a man? Try doing wh
 "　　　　　　　-Kazuma Kiryu, Middle-Aged Stud Muffin"
 msgstr ""
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1428"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1432"
 msgid "Talk_Mail_st"
 msgstr "Talk_Mail_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1436"
 msgid "Talk_Mail_ed"
 msgstr "Talk_Mail_ed"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "56_Kiryu"
 msgid "(Nobody out of the ordinary here. Maybe he updated his blog again?)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "116_Kiryu"
 msgid "(The Champion District? This is all starting to feel a little familiar.)"
 msgstr ""
-

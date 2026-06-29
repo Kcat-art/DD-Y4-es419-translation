@@ -17,23 +17,45 @@ msgstr ""
 "X-Crowdin-File-ID: 62206\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "588"
 msgid "Hamazaki"
 msgstr "Hamazaki"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "592"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "596"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Hamazaki
+#. y4:msg_speaker_id=0
 msgctxt "56_Hamazaki"
 msgid "Saejima!"
 msgstr "¡Saejima!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Hamazaki
+#. y4:msg_speaker_id=0
 msgctxt "68_Hamazaki"
 msgid "Keep going! I'll catch up with you soon!"
 msgstr ""
-

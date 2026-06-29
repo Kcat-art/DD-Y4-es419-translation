@@ -17,131 +17,314 @@ msgstr ""
 "X-Crowdin-File-ID: 57686\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4952"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4956"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4960"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4964"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4968"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4972"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "4976"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "4980"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "My girl told me that you assaulted her. Why don't you pay up, as an apology?"
 msgstr "Mi chica dijo que fuiste mano larga con ella. Si me das algo de dinero, haré como que no pasó nada."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "140_Man"
 msgid "If you don't pay, I'll just have to punch you instead!"
 msgstr "En cambio, si no pagas. ¡Tendré que golpearte!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Man"
 msgid "Hey man, you look like you're well off. Why don't you share that wealth with us?"
 msgstr "Oye, al parecer amasas mucho dinero. ¿Por qué no nos das nuestra porción del pastel?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "164_Man"
 msgid "We've been low on some fun money, so I'm thinking we'll just get some by force!"
 msgstr "¡Nos hemos quedado sin dinero para divertirnos, así que estaba pensando en pedírtelo prestado, pero sin devolvértelo!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "176_Man"
 msgid "The hell you think you're doing!? You even understand what's going on?"
 msgstr "¡¿Qué te crees que estás haciendo?! ¡¿Siquiera entiendes lo que te estoy diciendo?!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "188_Man"
 msgid "I guess you don't know shit! Say your prayers!"
 msgstr "¡Supongo que no sabes una mierda! ¡Empieza a rezar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "200_Man"
 msgid "Excuse me! Please help!"
 msgstr "¡Perdóname! ¡Por favor, alguien, ayuda!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "212_Man"
 msgid "I ran outta money from spending it all! I haven't had enough fun, so why don't you give me all your money, old man!"
 msgstr "¡Me quedé sin dinero por gastarlo todo! ¡No me he divertido lo suficiente, así que ¿por qué no me das todo tu dinero, viejo!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "248_Man"
 msgid "Gah... I lied. Please, no more. I was joking!"
 msgstr "Gah... Mentí. Por favor, no más. ¡Estaba bromeando!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "260_Man"
 msgid "Maybe you'll forgive me with this..."
 msgstr "Tal vez me perdones si te doy esto..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
 msgctxt "272_Man"
 msgid "You got an apologetic %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "296_Man"
 msgid "I'm sorry... Please, take this..."
 msgstr "Lo siento, por favor, llévate esto..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "308_Man"
 msgid "I promise I'll stop going out for a while."
 msgstr "Mejor me quedaré en casita."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
 msgctxt "320_Man"
 msgid "You got a weirdly oblong %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "344_Man"
 msgid "Too strong... *huff, huff*"
 msgstr "Uff, Eres demasiado fuerte para mí..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "356_Man"
 msgid "I'll give you this, just don't bother me anymore, alright?"
 msgstr "Te daré esto, solo no me hagas más daño, ¿de acuerdo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=11
+#. y4:msg_location=T2.P11
 msgctxt "368_Man"
 msgid "You got a damp %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=13
+#. y4:msg_location=T2.P13
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "392_Man"
 msgid "Who the hell are you!? You're a freakin' monster!"
 msgstr "¡¿Quién demonios eres tú?! ¡Eres un monstruo!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=14
+#. y4:msg_location=T2.P14
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "404_Man"
 msgid "Yikes! Someone help!"
 msgstr "¡Demonios! ¡Que alguien me ayude!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=15
+#. y4:msg_location=T2.P15
 msgctxt "416_Man"
 msgid "You got a grotty %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "464_Man"
 msgid "I won't do it again..."
 msgstr "No lo volveré a hacer..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "476_Man"
 msgid "I promise I'll stop going out for a while."
 msgstr "Mejor me quedaré en casita."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=3
+#. y4:msg_location=T3.P3
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "488_Man"
 msgid "P-Please... No more..."
 msgstr "Po-por favor, detente..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=14
+#. y4:msg_location=T2.P14
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "500_Man"
 msgid "Yikes! Someone help!"
 msgstr "¡Demonios! ¡Que alguien me ayude!"
-

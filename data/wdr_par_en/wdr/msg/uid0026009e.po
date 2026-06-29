@@ -10,92 +10,160 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "9988"
 msgid "Chigusa"
 msgstr "Chigusa"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "9992"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "9996"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "10000"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "10004"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "10008"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "10012"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "10016"
 msgid "Talk_Udekumi_Yes"
 msgstr "Talk_Udekumi_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "10020"
 msgid "P_sitcnt"
 msgstr "P_sitcnt"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "10024"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "10028"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "10032"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "10036"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "10040"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=14
 msgctxt "10044"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=15
 msgctxt "10048"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Chigusa
+#. y4:msg_speaker_id=0
 msgctxt "188_Chigusa"
 msgid "Well? You ready?"
 msgstr "¿Y? ¿Estás listo?"
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Chigusa
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Go with Chigusa -> T1.P7 | 2. Take a Rain Check -> T1.P2
 msgctxt "200_Chigusa"
 msgid "Just come with me and I'll make you remember everything."
 msgstr "Ven conmigo y te haré recordar todo."
@@ -111,6 +179,17 @@ msgid "You can keep saying that until your face turns blue, but I'm\\r\nsure I c
 msgstr "¡Puedes seguir repitiendo eso hasta que los cerdos vuelen,\\r \npero estoy segura que te puedo hacer recordar! ¿¡Vas a\\r \nseguir fingiendo!?"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Take a Rain Check
 msgctxt "236_Kiryu"
 msgid "......"
 msgstr "......"
@@ -121,11 +200,33 @@ msgid "Ugh, fine! I'll just wait here until you've come to your\\r\nsenses. Craw
 msgstr "¡Ugh, está bien! Esperaré aquí hasta que entres en razón.\\r \nVuelve a rastras hasta aquí cuando estés listo para \\r \nenfrentarte a la dura realidad."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Take a Rain Check
 msgctxt "260_Kiryu"
 msgid "(Hm... I don't know what it is, but something's definitely up with this girl. Maybe it wouldn't hurt to hear her out when I have the time.)"
 msgstr "(Hm... no sé que pasa, pero hay algo raro en esta chica. \\r \nPuede que escuche lo que le pasa cuando tenga tiempo.)"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go with Chigusa
 msgctxt "272_Kiryu"
 msgid "All right, I guess I can spare some time."
 msgstr "Bueno. Supongo que tengo algo de tiempo."
@@ -141,11 +242,33 @@ msgid "I know it, yeah, but－"
 msgstr "Sí, lo conozco, pero -"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Chigusa
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go with Chigusa
 msgctxt "308_Chigusa"
 msgid "Then let's go!"
 msgstr "¡Entonces vamos!"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Chigusa
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go with Chigusa
 msgctxt "320_Chigusa"
 msgid "Come on."
 msgstr "Bueno, a buscar se ha dicho..."
@@ -171,6 +294,15 @@ msgid "Chigusa Yachiyo! Are you seriously pretending you don't\\r\nremember me!?
 msgstr "¡Chigusa Yachiyo! ¿¡En serio estás fingiendo no recordarme!?\\r \n¿¡Cuán bajo vas a caer!?"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=3
 msgctxt "392_Kiryu"
 msgid "How could I remember you when we've never met?"
 msgstr "¿Cómo te voy a recordar si nunca nos hemos conocido?"
@@ -181,6 +313,15 @@ msgid "You're kidding, right? You promised me you'd come back to\\r\nKamurocho, 
 msgstr "¿Bromeas, verdad? Me prometiste que volverías a Kamurocho\\r \ny que estaríamos juntos de nuevo. ¡Te esperé todo este\\r \ntiempo para esto!"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=3
 msgctxt "416_Kiryu"
 msgid "I did... what?"
 msgstr "Que yo hice... ¿qué?"
@@ -206,6 +347,15 @@ msgid "Well, I've had enough of the lies! I've heard them all\\r\nbefore. First 
 msgstr "¡Bueno, me cansé de tus mentiras! Ya las conozco todas.\\r \nPrimero es porque tienes trabajo en otro país, después\\r \nnecesitas dinero por un \"accidente\"... ¡no se acaba nunca!"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=11
+#. y4:msg_location=T2.P11
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=3
 msgctxt "476_Kiryu"
 msgid "I'm telling you, you've got the wrong guy."
 msgstr "Te repito que te equivocaste de hombre."
@@ -216,11 +366,29 @@ msgid "Fine! If you're really gonna keep playing dumb, I'll just\\r\nhave to ref
 msgstr "¡Está bien! Si vas a seguir haciéndote el ignorante,\\r \ntendré que refrescar tu memoria."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=13
+#. y4:msg_location=T2.P13
+#. y4:msg_speaker=Chigusa
+#. y4:msg_speaker_id=0
 msgctxt "500_Chigusa"
 msgid "Well? Let's go!"
 msgstr "¿Y? ¡Vamos!"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=14
+#. y4:msg_location=T2.P14
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=3
 msgctxt "512_Kiryu"
 msgid "(She wants me to come with her? I really have no idea what she's talking about, though...)"
 msgstr "(¿Quiere que la siga? No tengo ni idea de lo que habla...)"
@@ -231,6 +399,17 @@ msgid "Come on, the clock's ticking! I can make you remember me,\\r\njust you wa
 msgstr "¡Vamos, no tengo todo el día! ¡Voy a hacer que te acuerdes de\\r \nmi, vas a ver!"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Take a Rain Check
 msgctxt "536_Kiryu"
 msgid "I need you to listen to me. Whoever you're looking for, I'm not him."
 msgstr "Necesito que me escuches. No soy a quien estás buscando."
@@ -241,6 +420,17 @@ msgid "No, I need <Italic>you</Italic> to listen to <Italic>me</Italic>! I can m
 msgstr "No, yo necesito que <Italic>tú</Italic> me escuches a <Italic>mí</Italic>! Puedo hacer que te\\r \nacuerdes de mí si vienes conmigo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=18
+#. y4:msg_location=T2.P18
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Take a Rain Check
 msgctxt "560_Kiryu"
 msgid "You just don't give up, do you?"
 msgstr "De verdad que no te rindes, ¿eh?"
@@ -251,11 +441,33 @@ msgid "Ugh, fine! I'll just wait here until you've come to your\\r\nsenses. Craw
 msgstr "¡Ugh, está bien! Esperaré aquí hasta que entres en razón.\\r \nVuelve a rastras hasta aquí cuando estés listo para \\r \nenfrentarte a la dura realidad."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Take a Rain Check
 msgctxt "584_Kiryu"
 msgid "(Hm... I don't know what it is, but something's definitely up with this girl. Maybe it wouldn't hurt to hear her out when I have the time.)"
 msgstr "(Hm... no sé que pasa, pero hay algo raro en esta chica. \\r \nPuede que escuche lo que le pasa cuando tenga tiempo.)"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=27
+#. y4:msg_location=T2.P27
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go with Chigusa
 msgctxt "668_Kiryu"
 msgid "All right. I guess I can spare some time."
 msgstr "Bueno. Supongo que tengo algo de tiempo."
@@ -271,27 +483,89 @@ msgid "I know it, yeah, but－"
 msgstr "Sí, lo conozco, pero -"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Chigusa
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go with Chigusa
 msgctxt "704_Chigusa"
 msgid "Then let's go!"
 msgstr "¡Entonces vamos!"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P7
+#. y4:msg_branch_segment=T1.P7..P12
+#. y4:msg_branch_target_text=All right, I guess I can spare some time.
+#. y4:msg_branch_raw=01 11 00 07 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "740_Chigusa"
 msgid "Go with Chigusa"
 msgstr "Ir con Chigusa"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P2
+#. y4:msg_branch_segment=T1.P2..P6
+#. y4:msg_branch_target_text=Look, I'm sorry... but whoever you're looking for, I'm not\nhim.
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "752_Chigusa"
 msgid "Take a Rain Check"
 msgstr "Dejar para otro momento"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P7
+#. y4:msg_branch_segment=T1.P7..P12
+#. y4:msg_branch_target_text=All right, I guess I can spare some time.
+#. y4:msg_branch_raw=01 11 00 07 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "764_Chigusa"
 msgid "Go with Chigusa"
 msgstr "Ir con Chigusa"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P2
+#. y4:msg_branch_segment=T1.P2..P6
+#. y4:msg_branch_target_text=Look, I'm sorry... but whoever you're looking for, I'm not\nhim.
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "776_Chigusa"
 msgid "Take a Rain Check"
 msgstr "Dejar para otro momento"
-

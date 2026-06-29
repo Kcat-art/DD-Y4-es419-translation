@@ -17,91 +17,210 @@ msgstr ""
 "X-Crowdin-File-ID: 58488\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
 msgctxt "224"
 msgid "*beep* *beep*"
 msgstr "*bip* *bip*"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3760"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3764"
 msgid "Hana"
 msgstr "Hana"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3768"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3772"
 msgid "Talk_Phone_no"
 msgstr "Talk_Phone_no"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3776"
 msgid "Talk_Phone_yes"
 msgstr "Talk_Phone_yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3780"
 msgid "Talk_Phone_surp"
 msgstr "Talk_Phone_surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "3784"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "3788"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=1
 msgctxt "92_Hana"
 msgid "Oh, Chief! I finally got a hold of you!"
 msgstr "¡Ah, presidente! ¡Por fin sé algo de usted!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=1
 msgctxt "104_Hana"
 msgid "I'm so glad you're out! I thought you'd be in the slammer for weeks, months... maybe even years!"
 msgstr "¡Qué alivio! ¡¡Salió en libertad!!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "116_Akiyama"
 msgid "Uh, Hana-chan, you know I was only there for questioning, right? They didn't actually arrest me..."
 msgstr "Oye, Hana-chan, salir en libertad... No es como si hubiera estado en prisión ni nada..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=1
 msgctxt "128_Hana"
 msgid "Whatever it was, I'm so relieved! All that running I did down to the station paid off!"
 msgstr "De todas formas, ¡me alegra mucho! ¡¡Valió la pena andar corriendo por todos lados!!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "140_Akiyama"
 msgid "Yeah, you really came through for me, Hana-chan. I appreciate it."
 msgstr "Sí, me contaron en la comisaría. Gracias, de verdad. Gracias a ti pude salir de ahí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=1
 msgctxt "152_Hana"
 msgid "Hehe! By the way, Chief..."
 msgstr "¡Je, je, je! Por cierto, jefe..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=1
 msgctxt "164_Hana"
 msgid "While you've been lounging around in jail, work's been piling up like there's no tomorrow! Get back to the office, now!"
 msgstr "¡Su ausencia ha hecho que todo el trabajo se acumule! ¡Regrese pronto, por favor!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "176_Akiyama"
 msgid "Hana-chan, please. I barely slept a wink last night. I'm seriously wiped out here..."
 msgstr "Mira, casi no he dormido, estoy agotado..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=1
 msgctxt "188_Hana"
 msgid "And whose fault is that, hm?"
 msgstr "Pero si el incidente de ayer, si lo pensamos bien..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=1
 msgctxt "200_Hana"
 msgid "All of that nonsense yesterday could have been avoided if you just did your job."
 msgstr "¡Fue por esa decisión suya tan impulsiva de desviarse del camino!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=1
 msgctxt "212_Hana"
 msgid "Don't let me down this time, Chief. We have tons of work to do!"
 msgstr "Así que por favor... ¡Hoy trabaje como se debe!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "236_Akiyama"
 msgid "Hana-chan? Hellooo?"
 msgstr "¿Hana-chan? ¿Hola...?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "284_Akiyama"
 msgid "(She hung up on me... Might as well head back to Sky Finance.)"
 msgstr "(Me colgó... Ni modo, tendré que regresar a Sky Finance)."
-

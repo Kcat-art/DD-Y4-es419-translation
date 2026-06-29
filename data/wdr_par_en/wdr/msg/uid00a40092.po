@@ -17,35 +17,74 @@ msgstr ""
 "X-Crowdin-File-ID: 58148\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "880"
 msgid "Miki"
 msgstr "Miki"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "884"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "888"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "892"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Miki
+#. y4:msg_speaker_id=0
 msgctxt "112_Miki"
 msgid "Oh! Akiyama-san!"
 msgstr "¡Oh! ¡Akiyama-san!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "124_Akiyama"
 msgid "Well, if it isn't Miki Nishihama!"
 msgstr "¡Eh, si es Miki Nishihama!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Miki
+#. y4:msg_speaker_id=0
 msgctxt "136_Miki"
 msgid "Miki!? I don't know any Miki!"
 msgstr "¡¿Miki?! ¡No conozco a ninguna Miki!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "148_Akiyama"
 msgid "(Whew, she's fast... Might as well follow her.)"
 msgstr "(Uff, ¡qué rapidez! Será mejor que la siga)."
-

@@ -17,83 +17,198 @@ msgstr ""
 "X-Crowdin-File-ID: 59414\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2552"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2556"
 msgid "Tsugawa"
 msgstr "Tsugawa"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2560"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2564"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2568"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2572"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "56_Tanimura"
 msgid "You know the guy they call Bridge, right?"
 msgstr "Conoces al tipo al que llaman Bridge, ¿verdad?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Tsugawa
+#. y4:msg_speaker_id=1
 msgctxt "68_Tsugawa"
 msgid "...You're shit outta luck. I don't know a damn thing."
 msgstr "...Estás jodido. No sé un carajo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "80_Tanimura"
 msgid "Okay, let's make a deal."
 msgstr "Está bien, hagamos un trato."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Tsugawa
+#. y4:msg_speaker_id=1
 msgctxt "92_Tsugawa"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "104_Tanimura"
 msgid "Give up Bridge's identity and promise to never get involved with crime again, and I'll forget about everything you've done."
 msgstr "Dame la identidad de Bridge y jura no volver a involucrarte en el crimen, y me olvidaré de todo lo que has hecho."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Tsugawa
+#. y4:msg_speaker_id=1
 msgctxt "116_Tsugawa"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "128_Tanimura"
 msgid "Or you can rot in a jail cell. Your choice."
 msgstr "O puedes pudrirte en una celda. Tú eliges."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Tsugawa
+#. y4:msg_speaker_id=1
 msgctxt "140_Tsugawa"
 msgid "...Will you promise you'll never tell anybody I talked?"
 msgstr "... ¿Prometes no decirle nunca a nadie que hablé?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "152_Tanimura"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Tsugawa
+#. y4:msg_speaker_id=1
 msgctxt "164_Tsugawa"
 msgid "The real name of the man they call Bridge is Yuji Katsuura."
 msgstr "Su verdadero nombre es Yuji Katsuura."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "176_Tanimura"
 msgid "Yuji Katsuura..."
 msgstr "Yuji Katsuura..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Tsugawa
+#. y4:msg_speaker_id=1
 msgctxt "188_Tsugawa"
 msgid "He's the chairman of the Asian Women's Friendship Association."
 msgstr "Es el presidente de la Asociación de Amistad de las Mujeres Asiáticas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "200_Tanimura"
 msgid "\"Friendship,\" huh? So they use that as a front to hide the terrible things they really do..."
 msgstr "\"Amistad\", ¿eh? Así que usan eso como una fachada para ocultar las cosas terribles que realmente hacen..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "212_Tanimura"
 msgid "If you value your life, you should run."
 msgstr "Si valoras tu vida, más te vale que salgas corriendo."
-

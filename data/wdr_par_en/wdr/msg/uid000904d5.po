@@ -11,312 +11,839 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "10608"
 msgid "Man"
 msgstr "Hombre"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "10612"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "10616"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "10620"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "10624"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "10628"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "10632"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "10636"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "10640"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "10644"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "10648"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "176_Man"
 msgid "The guest of honor tonight is Kazuma Kiryu. I'm afraid that I cannot escort you without him."
 msgstr "El invitado de honor esta noche es Kazuma Kiryu. Me temo que no puedo acompañarte sin el."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Go to the Arena -> T1.P5 | 2. I need to prepare some more. -> T1.P10
 msgctxt "236_Man"
 msgid "Now then, is everybody ready to depart?"
 msgstr "Ahora, ¿está todo el mundo preparado para salir?"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go to the Arena
 msgctxt "248_Kiryu"
 msgid "Yes."
 msgstr "Sí."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go to the Arena
 msgctxt "260_Akiyama"
 msgid "Let's be on our way then?"
 msgstr "¿Nos vamos entonces?"
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=5
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go to the Arena
 msgctxt "272_Saejima"
 msgid "You bet."
 msgstr "Si."
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go to the Arena
 msgctxt "284_Tanimura"
 msgid "Let's go."
 msgstr "Vamos."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I need to prepare some more.
 msgctxt "308_Kiryu"
 msgid "I need to take care of something first."
 msgstr "Tengo que ocuparme de algo antes."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I need to prepare some more.
 msgctxt "320_Akiyama"
 msgid "Whoops, looks like I forgot something, too. I'll just go and grab it."
 msgstr "Vaya, parece que olvidé algo. Iré a agarrarlo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=5
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I need to prepare some more.
 msgctxt "344_Saejima"
 msgid "I'm gonna go get warmed up."
 msgstr "Voy a calentar."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I need to prepare some more.
 msgctxt "368_Tanimura"
 msgid "I should get ready, too."
 msgstr "Debería prepararme también."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I need to prepare some more.
 msgctxt "392_Man"
 msgid "Very well. Just let me know when you're ready. I'll be waiting here until dawn."
 msgstr "Muy bien. Hazmelo saber cuando estés listo. Esperaré aquí hasta el amanecer."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "428_Man"
 msgid "Ah, Kiryu-san. I've heard quite a bit about you. Please, allow me to be your guide."
 msgstr "Ah, Kiryu-san. He oído hablar bastante de tí. Por favor, déjame ser tu guía."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "440_Kiryu"
 msgid "All right..."
 msgstr "Claro..."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=6
 msgctxt "452_Tanimura"
 msgid "Kiryu-san."
 msgstr "Kiryu-san."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "476_Kiryu"
 msgid "Tanimura?"
 msgstr "¿Tanimura?"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=5
 msgctxt "488_Saejima"
 msgid "We're goin' with ya."
 msgstr "Vamos contigo."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=8
+#. y4:msg_location=T2.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "500_Akiyama"
 msgid "You can't just run off like that, Kiryu. Four of them, one of you? Not exactly sporting odds."
 msgstr "No puedes huir así como así, Kiryu. Ellos son cuatro y tú solo uno. No es muy justo que digamos."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=6
 msgctxt "512_Tanimura"
 msgid "Heh. Sorry, Kiryu. I read the letter. Thought the whole thing sounded a little fishy."
 msgstr "Je. Perdón, Kiryu. Leí la carta. Pensé que todo eso era un poco sospechoso."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=6
 msgctxt "524_Tanimura"
 msgid "You should stop trying to handle everything alone."
 msgstr "Deberías dejar de intentar solucionar todo tú solo."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=11
+#. y4:msg_location=T2.P11
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "536_Kiryu"
 msgid "Guys..."
 msgstr "Chicos..."
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=12
+#. y4:msg_location=T2.P12
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "548_Akiyama"
 msgid "They're ruthless killers, and there are four of them. We'd hate to miss the chance to risk life and limb, you know?"
 msgstr "Ellos son cuatro y bastante fuertes, no nos gustaría perder la oportunidad de arriesgar la vida, ¿sabés?"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=13
+#. y4:msg_location=T2.P13
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=6
 msgctxt "560_Tanimura"
 msgid "We don't want you dying out there. Let us help you on this one, Kiryu."
 msgstr "No queremos que te mueras ahí fuera. Déjanos ayudarte en esta, Kiryu."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=14
+#. y4:msg_location=T2.P14
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=5
 msgctxt "572_Saejima"
 msgid "Sounds like you and this Jo Amon guy go way back. We can each take on one of the other three for ya."
 msgstr "Parece que ese Amon Jo tiene algo personal contigo. Déjanos encargarnos de los otros tres, uno por uno."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=15
+#. y4:msg_location=T2.P15
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=5
 msgctxt "584_Saejima"
 msgid "How's that suit you?"
 msgstr "¿Qué te parece?"
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "596_Kiryu"
 msgid "All right, if you're sure. I owe you guys."
 msgstr "Bien, si estan seguros, les debo una."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=17
+#. y4:msg_location=T2.P17
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "608_Kiryu"
 msgid "I have to be clear on one thing, though. These guys are real monsters."
 msgstr "Sin embargo, tengo que dejar clara una cosa. Estos tipos son verdaderos monstruos."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=18
+#. y4:msg_location=T2.P18
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "620_Kiryu"
 msgid "We have to all win our fights and come back in one piece. Otherwise, it'll all be for nothing."
 msgstr "Todos tenemos que ganar nuestras peleas y volver de una sola pieza. De lo contrario, todo habrá sido en vano."
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=19
+#. y4:msg_location=T2.P19
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "632_Kiryu"
 msgid "But even if we do win, there's no guarantee they won't just come after us again. You could all end up being their targets. Are you really sure about this?"
 msgstr "Pero incluso si ganamos, no es seguro que no vengan por nosotros de nuevo. Podrían terminar siendo sus objetivos. ¿Están realmente seguros de esto?"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=20
+#. y4:msg_location=T2.P20
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=5
 msgctxt "644_Saejima"
 msgid "You bet yer ass we are."
 msgstr "Puedes apostar tu culo a que sí."
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=21
+#. y4:msg_location=T2.P21
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "656_Kiryu"
 msgid "Okay. I probably won't be able to help you in the middle of battle, so you should all get everything you'll need before we go."
 msgstr "Ok. Probablemente no podré ayudarlos en medio de la batalla, así que deberían conseguir todo lo que necesiten antes de ir."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=22
+#. y4:msg_location=T2.P22
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "668_Akiyama"
 msgid "Got it."
 msgstr "Entiendo."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=23
+#. y4:msg_location=T2.P23
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=5
 msgctxt "680_Saejima"
 msgid "Sounds good."
 msgstr "Me parece bien."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=24
+#. y4:msg_location=T2.P24
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=6
 msgctxt "692_Tanimura"
 msgid "Understood."
 msgstr "Entendido..."
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=25
+#. y4:msg_location=T2.P25
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "704_Kiryu"
 msgid "Well, you heard 'em. Hope you don't mind if I bring some friends to the party."
 msgstr "Bueno, ya los escucharon. Espero que no les importe si traigo a unos amigos a la fiesta."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=26
+#. y4:msg_location=T2.P26
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "716_Man"
 msgid "Heh, as you wish. By all means, bring a whole army if you like."
 msgstr "Je, como quieras. Trae un ejército entero si quieres."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Go to the Arena -> T1.P5 | 2. I need to prepare some more. -> T1.P10
 msgctxt "728_Man"
 msgid "Now then, is everybody ready to depart?"
 msgstr "Ahora, ¿está todo el mundo preparado para salir?"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=28
+#. y4:msg_location=T2.P28
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go to the Arena
 msgctxt "740_Kiryu"
 msgid "Yeah."
 msgstr "Sí."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go to the Arena
 msgctxt "752_Akiyama"
 msgid "Let's be on our way then?"
 msgstr "¿Nos vamos entonces?"
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=5
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go to the Arena
 msgctxt "764_Saejima"
 msgid "You bet."
 msgstr "Asi es."
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go to the Arena
 msgctxt "776_Tanimura"
 msgid "Let's go."
 msgstr "Claro."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I need to prepare some more.
 msgctxt "800_Kiryu"
 msgid "I need to take care of something first."
 msgstr "Tengo que ocuparme de algo antes."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I need to prepare some more.
 msgctxt "812_Akiyama"
 msgid "Whoops, looks like I forgot something, too. I'll just go and grab it."
 msgstr "Vaya, parece que olvidé algo. Iré a agarrarlo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=5
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I need to prepare some more.
 msgctxt "836_Saejima"
 msgid "I'm gonna go get warmed up."
 msgstr "Voy a calentar."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I need to prepare some more.
 msgctxt "860_Tanimura"
 msgid "I should get ready, too."
 msgstr "Debería prepararme también."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I need to prepare some more.
 msgctxt "884_Man"
 msgid "Very well. Just let me know when you're ready. I'll be waiting here until dawn."
 msgstr "Muy bien. Hazmelo saber cuando estés listo. Esperaré aquí hasta el amanecer."
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P5
+#. y4:msg_branch_segment=T1.P5..P9
+#. y4:msg_branch_target_text=Yes.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "896_Man"
 msgid "Go to the Arena"
 msgstr "Ve a la Arena"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P10
+#. y4:msg_branch_segment=T1.P10..P17
+#. y4:msg_branch_target_text=I need to take care of something first.
+#. y4:msg_branch_raw=01 11 00 0a 00 00 00 1c 00 00 00 00 00 00 00 00
 msgctxt "908_Man"
 msgid "I need to prepare some more."
 msgstr "Necesito prepararme un poco más."
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P5
+#. y4:msg_branch_segment=T1.P5..P9
+#. y4:msg_branch_target_text=Yes.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "920_Man"
 msgid "Go to the Arena"
 msgstr "Ve a la Arena"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P10
+#. y4:msg_branch_segment=T1.P10..P17
+#. y4:msg_branch_target_text=I need to take care of something first.
+#. y4:msg_branch_raw=01 11 00 0a 00 00 00 1c 00 00 00 00 00 00 00 00
 msgctxt "932_Man"
 msgid "I need to prepare some more."
 msgstr "Necesito prepararme un poco más."
-

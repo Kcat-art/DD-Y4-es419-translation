@@ -10,112 +10,182 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "9308"
 msgid "Hostess"
 msgstr "Hostess"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "9312"
 msgid "Creepy Scout"
 msgstr "Reclutador acosador"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "9316"
 msgid "Takashi"
 msgstr "Takashi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "9320"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "9324"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "9328"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "9332"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "9336"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "9340"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "9344"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "9348"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "9352"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "9356"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "9360"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=14
 msgctxt "9364"
 msgid "Talk_Request"
 msgstr "Talk_Request"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=15
 msgctxt "9368"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=16
 msgctxt "9372"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=17
 msgctxt "9376"
 msgid "P_aki_stand"
 msgstr "P_aki_stand"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=18
 msgctxt "9380"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=19
 msgctxt "9384"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=20
 msgctxt "9388"
 msgid "M_nml_stand"
 msgstr "M_nml_stand"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Hostess
+#. y4:msg_speaker_id=0
 msgctxt "84_Hostess"
 msgid "Please, I'm really in a hurry here."
 msgstr "Por favor, tengo prisa."
@@ -126,21 +196,49 @@ msgid "C'mon, babe, don't play hard to get. We'll pay you at least\\r\ndouble wh
 msgstr "Vamos, nena, no te hagas la difícil. Te pagaremos al menos\\r\nel doble de lo que ganas. ¿Qué tal el triple?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Hostess
+#. y4:msg_speaker_id=0
 msgctxt "108_Hostess"
 msgid "I told you to leave me alone!"
 msgstr "¡Ya te lo dije, déjame en paz!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=2
 msgctxt "120_Takashi"
 msgid "Hold up, man!"
 msgstr "¡Oye, tú!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Creepy Scout
+#. y4:msg_speaker_id=1
 msgctxt "132_Creepy Scout"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=4
 msgctxt "144_Kiryu"
 msgid "(Akiyama? Guess he got dragged into this, too...)"
 msgstr "(¿Akiyama? Parece que también terminó metido en esto...)"
@@ -151,6 +249,13 @@ msgid "Can't you tell she doesn't want to go with you? Why don't\\r\nyou just le
 msgstr "¿No entiendes que no quiere ir contigo? ¿Por qué no\\r\nla dejas en paz?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Creepy Scout
+#. y4:msg_speaker_id=1
 msgctxt "168_Creepy Scout"
 msgid "Who's asking?"
 msgstr "¿Y tú quién eres?"
@@ -166,6 +271,13 @@ msgid "We got a tough guy, huh? You sure talk the talk, but do you\\r\nwalk the 
 msgstr "¿Así que te crees muy duro, eh? Hablas con mucha seguridad, pero ¿de verdad puedes respaldarlo?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=2
 msgctxt "204_Takashi"
 msgid "I..."
 msgstr "Yo..."
@@ -176,11 +288,25 @@ msgid "Eh, whatever. I don't have the time for this. Now where am I\\r\ngonna fi
 msgstr "Tch, no tengo tiempo para esto. ¿A ver dónde encuentro\\r\nuna belleza como esta de nuevo?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=4
 msgctxt "240_Kiryu"
 msgid "(Wow, Takashi has some guts. It's probably a good thing Akiyama backed off, though. I don't know if those guts would last in a real fight.)"
 msgstr "(Vaya, Takashi tiene agallas. Aunque, mejor que Akiyama se echara atrás... No estoy seguro de que esas agallas le sirvan en una pelea de verdad)."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Hostess
+#. y4:msg_speaker_id=0
 msgctxt "252_Hostess"
 msgid "Oh, thank you so much!"
 msgstr "¡Se lo agradezco mucho!"
@@ -191,21 +317,49 @@ msgid "Don't worry about it, ma'am. I'm sure anybody would have\\r\ndone the sam
 msgstr "No se preocupe, señorita. Cualquiera en mi lugar habría\\r hecho lo mismo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Hostess
+#. y4:msg_speaker_id=0
 msgctxt "276_Hostess"
 msgid "I'm not so sure about that. Say, how about I give you a little something special to express my gratitude?"
 msgstr "Mmm, no sé yo. ¿Qué tal si le doy algo especial como agradecimiento?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=2
 msgctxt "288_Takashi"
 msgid "Huh? What do you mean?"
 msgstr "¿Eh? ¿A qué se refiere?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Hostess
+#. y4:msg_speaker_id=0
 msgctxt "300_Hostess"
 msgid "I think you know exactly what I mean, big boy."
 msgstr "Sabes perfectamente a lo que me refiero, muchachote."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=19
+#. y4:msg_location=T1.P19
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=2
 msgctxt "312_Takashi"
 msgid "Wait, but..."
 msgstr "Eh, pero..."
@@ -216,11 +370,25 @@ msgid "Now come on. Let's have a little quality time, just the two of us. I'll t
 msgstr "Vamos. Pasemos un rato agradable, solo nosotros dos. Te lo compensaré como te mereces por salvarme... ♪"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=21
+#. y4:msg_location=T1.P21
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=4
 msgctxt "336_Kiryu"
 msgid "(He's not gonna take her up on this, is he!?)"
 msgstr "(¡Takashi, no me digas que vas a aceptar...!)."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=22
+#. y4:msg_location=T1.P22
+#. y4:msg_speaker=Hostess
+#. y4:msg_speaker_id=0
 msgctxt "348_Hostess"
 msgid "So? Come on!"
 msgstr "¿Y bien? ¡Vamos!"
@@ -231,36 +399,85 @@ msgid "I appreciate the offer, but just knowing you're safe is\\r\nreward enough
 msgstr "Te agradezco la oferta, pero saber que estás a salvo ya es\\r recompensa suficiente para mí. ¡Además, tengo novia!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=24
+#. y4:msg_location=T1.P24
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=2
 msgctxt "372_Takashi"
 msgid "Anyway, bye!"
 msgstr "En fin, ¡Nos vemos!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=34
+#. y4:msg_location=T1.P34
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=2
 msgctxt "492_Takashi"
 msgid "Phew, that was close!"
 msgstr "¡Uf, eso estuvo cerca!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=35
+#. y4:msg_location=T1.P35
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=4
 msgctxt "504_Kiryu"
 msgid "Heh, looks like you've changed in the past three years."
 msgstr "Je, parece que has cambiado en los últimos tres años."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=36
+#. y4:msg_location=T1.P36
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=2
 msgctxt "516_Takashi"
 msgid "Of course I have! I'll never cheat on Kyoka again!"
 msgstr "¡Pues claro! ¡Nunca volveré a engañar a Kyoka!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=38
+#. y4:msg_location=T1.P38
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=2
 msgctxt "540_Takashi"
 msgid "It's Takashi. Yeah, he's gone."
 msgstr "Soy Takashi. Sí, he conseguido que la dejara en paz."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=39
+#. y4:msg_location=T1.P39
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=2
 msgctxt "552_Takashi"
 msgid "Huh? One last job?"
 msgstr "¿Eh? ¿Un último trabajo?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=40
+#. y4:msg_location=T1.P40
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=2
 msgctxt "564_Takashi"
 msgid "The Champion District, got it. I'm on my way!"
 msgstr "El Distrito Champion, entendido. ¡Voy para allá!"
@@ -271,12 +488,25 @@ msgid "Sounds like somebody's harassing homeless people over in the\\r\nChampion
 msgstr "Parece que alguien está acosando a los vagabundos en el\\r\nDistrito Champion."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=43
+#. y4:msg_location=T1.P43
+#. y4:msg_speaker=Takashi
+#. y4:msg_speaker_id=2
 msgctxt "600_Takashi"
 msgid "And it's my job to take care of it! Bye now!"
 msgstr "¡Mi trabajo es ir a ayudarlos! ¡Hasta luego!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=45
+#. y4:msg_location=T1.P45
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=4
 msgctxt "624_Kiryu"
 msgid "(Next up, the Champion District. I hope this really is the last one...)"
 msgstr "(Siguiente destino, el Distrito Champion. Espero que este sea el último de verdad...)"
-

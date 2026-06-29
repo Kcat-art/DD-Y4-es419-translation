@@ -17,14 +17,23 @@ msgstr ""
 "X-Crowdin-File-ID: 57880\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1544"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1548"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1552"
 msgid "Sync_Send"
 msgstr "Sync_Send"
@@ -33,23 +42,55 @@ msgctxt "116_Man"
 msgid "There ain't been nothin' good goin' on in my life. But you－you look like you got it made. That ain't too cool, pal."
 msgstr "No me ha pasado nada bueno en mi vida últimamente. Pero tú... parece que lo tienes todo. Eso no está bien, amigo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "No, that ain't cool at all. And you know what I do with guys who ain't cool? I smack 'em around. Which means your number's up, pal!"
 msgstr "¡Eso no está nada bien! ¿Y sabes qué hago con los que no me caen bien? ¡Les doy una paliza! Así que prepárate, amigo, ¡te llegó la hora!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Man"
 msgid "P-Please stop! I'm sorry!"
 msgstr "¡P-Por favor, para! ¡Lo siento!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "164_Man"
 msgid "I'll watch what I say from now on! Take this and forget it ever happened!"
 msgstr "¡Cuidaré lo que digo de ahora en adelante! ¡Toma esto y olvida que alguna vez pasó!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
 msgctxt "176_Man"
 msgid "You got a nice, dry %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "212_Man"
 msgid "Man... This just isn't my week..."
 msgstr "Hombre... Esta no es mi semana..."
-

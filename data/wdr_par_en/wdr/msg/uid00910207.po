@@ -17,23 +17,49 @@ msgstr ""
 "X-Crowdin-File-ID: 58658\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "720"
 msgid "Police Officer"
 msgstr "Policía"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "724"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Police Officer
+#. y4:msg_speaker_id=0
 msgctxt "140_Police Officer"
 msgid "Excuse me, could you show me some form of ID?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "152_Saejima"
 msgid "(Dammit. I'll be taken in if they question me! I gotta run!)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=2
+#. y4:msg_location=T3.P2
+#. y4:msg_speaker=Police Officer
+#. y4:msg_speaker_id=0
 msgctxt "164_Police Officer"
 msgid "Hey! Stop right there!"
 msgstr ""
-

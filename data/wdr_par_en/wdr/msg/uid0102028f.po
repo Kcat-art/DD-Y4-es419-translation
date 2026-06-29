@@ -17,30 +17,55 @@ msgstr ""
 "X-Crowdin-File-ID: 60950\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "6004"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "6008"
 msgid "P_sae_stand_tlk_kamae"
 msgstr "P_sae_stand_tlk_kamae"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "6012"
 msgid "P_sae_sitsofa_tlk_kamae_ed"
 msgstr "P_sae_sitsofa_tlk_kamae_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "6016"
 msgid "Kido"
 msgstr "Kido"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "6020"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "6024"
 msgid "Minami"
 msgstr "Minami"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "72_Saejima"
 msgid "(Tonight's the showdown with ol' Majima.)"
 msgstr "(Esta noche me reuniré de nuevo con Majima)."
@@ -63,6 +88,13 @@ msgid "In the meantime, I'll go scope out the best route\\r\n"
 msgstr "Mientras descansas, buscaré la mejor ruta para\\r\n"
 "llegar a la Torre Millennium para ti."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "120_Saejima"
 msgid "Much obliged."
 msgstr "Sí, por favor."
@@ -73,10 +105,24 @@ msgid "Just lemme know when you want to rest up.\\r\n"
 msgstr "Avísame cuando vayas a descansar.\\r\n"
 "Estaré aquí hasta entonces."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "144_Saejima"
 msgid "(Guess I got some time till sundown.)"
 msgstr "(Aún falta para que llegue la noche)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Minami
+#. y4:msg_speaker_id=5
 msgctxt "168_Minami"
 msgid "Whoa, down boy. Didn't come here lookin' for a fight."
 msgstr "Oye, calmado. No vine buscando pelea."
@@ -87,6 +133,13 @@ msgid "It's just when I came in to say hi, gramps and his\\r\n"
 msgstr "Solo venía a buscarte, cuando estos tipos se\\r\n"
 "lanzaron sobre mí, así que pues... ya sabes."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "192_Saejima"
 msgid "Whaddya want?"
 msgstr "¿Qué pasa?"
@@ -97,14 +150,35 @@ msgid "The boss is askin' for ya. Word is you two were bros\\r\n"
 msgstr "El jefe quiere verte. Dicen que ustedes eran\\r\n"
 "compañeros hace tiempo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "216_Saejima"
 msgid "Majima wants to meet?"
 msgstr "¡¿Majima...?!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Minami
+#. y4:msg_speaker_id=5
 msgctxt "228_Minami"
 msgid "Says to stop by the office tomorrow night."
 msgstr "Así que ven mañana por la noche a la oficina."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "240_Saejima"
 msgid "Where?"
 msgstr "¿Dónde?"
@@ -113,6 +187,13 @@ msgctxt "252_Minami"
 msgid "The Millennium Tower－ Y'know, that eyesore scrapin' the sky like it's nobody's business?"
 msgstr "La Torre Millennium－Esa torre gigantesca en medio de la ciudad."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "264_Saejima"
 msgid "Fine."
 msgstr "Bien."
@@ -122,18 +203,46 @@ msgid "Knowin' the boss, he's prolly got some fucked up shit\\r\n"
 "waitin' for ya on the top floor."
 msgstr "Conociendo al jefe, te estará esperando en la cima."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Minami
+#. y4:msg_speaker_id=5
 msgctxt "288_Minami"
 msgid "I'd come prepared if I was you."
 msgstr "Yo que tú voy preparado."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "312_Saejima"
 msgid "Hey."
 msgstr "Oye."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Minami
+#. y4:msg_speaker_id=5
 msgctxt "324_Minami"
 msgid "'Sup?"
 msgstr "¿Qué?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "336_Saejima"
 msgid "Give a message to Majima."
 msgstr "Dile a Majima..."
@@ -144,19 +253,46 @@ msgid "He best have some damn good answers ready.\\r\n"
 msgstr "Que será mejor que tenga respuestas,\\r\n"
 "de lo contrario, le cortaré las pelotas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Minami
+#. y4:msg_speaker_id=5
 msgctxt "360_Minami"
 msgid "Heh. Think you can go all medieval on the bossman?"
 msgstr "Je, ¿crees que le das la talla al jefe?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
+#. y4:msg_speaker=Minami
+#. y4:msg_speaker_id=5
 msgctxt "372_Minami"
 msgid "No dig, but he'll straight up kill ya."
 msgstr "Tal vez te llegue a matar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Minami
+#. y4:msg_speaker_id=5
 msgctxt "384_Minami"
 msgid "See ya."
 msgstr "Hasta luego."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=20
+#. y4:msg_location=T1.P20
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "408_Saejima"
 msgid "(Best grab some shuteye before I settle the score tomorrow night.)"
 msgstr "(Creo que descansaré por hoy. Mañana resolveré los problemas de hace 25 años)."
-

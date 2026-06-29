@@ -17,173 +17,415 @@ msgstr ""
 "X-Crowdin-File-ID: 61128\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "10980"
 msgid "Annoyed Man"
 msgstr "Hombre Molesto"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "10984"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "10988"
 msgid "Man in Suit"
 msgstr "Hombre con Traje"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "10992"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "10996"
 msgid "Owner of Kyushu No. 1 Star"
 msgstr "Dueño del Kyushu Estrella N° 1"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "11000"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "11004"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "11008"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "11012"
 msgid "Ueda"
 msgstr "Ueda"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "11016"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "11020"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "11024"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "11028"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Annoyed Man
+#. y4:msg_speaker_id=0
 msgctxt "116_Annoyed Man"
 msgid "How can this not be good enough? The texture of the noodles, the flavor of the soup... It's all exactly the same as Kyushu No. 1 Star ramen!"
 msgstr "¡¿Cómo es posible que esto no sea suficiente?! El sabor de la sopa... ¡Es exactamente igual al ramen de Kyushu No. 1 Star!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Man in Suit
+#. y4:msg_speaker_id=2
 msgctxt "128_Man in Suit"
 msgid "True... There's no question that it's faithful to Kyushu No. 1 Star ramen."
 msgstr "Es cierto... No hay duda de que es fiel al ramen de Kyushu No. 1 Star."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Annoyed Man
+#. y4:msg_speaker_id=0
 msgctxt "140_Annoyed Man"
 msgid "I don't see any reason why I can't open my own Kyushu No. 1 Star shop. This ramen couldn't possibly disgrace the name!"
 msgstr "No veo ninguna razón por la que no pueda abrir mi propio local de Kyushu No. 1 Star.\n"
 "¡Este ramen no podría deshonrar el nombre!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Owner of Kyushu No. 1 Star
+#. y4:msg_speaker_id=4
 msgctxt "152_Owner of Kyushu No. 1 Star"
 msgid "Yes, the ramen you have here is very well-made."
 msgstr "Sí, el ramen que tienes aquí está muy bien hecho."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Annoyed Man
+#. y4:msg_speaker_id=0
 msgctxt "164_Annoyed Man"
 msgid "Okay, then why won't you let me open a new location!?"
 msgstr "¡Entonces dime por qué no me dejas abrir un nuevo local!!!?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Owner of Kyushu No. 1 Star
+#. y4:msg_speaker_id=4
 msgctxt "176_Owner of Kyushu No. 1 Star"
 msgid "Because no means no. Now, get back to work."
 msgstr "Porque no es no. Ahora, vuelve al trabajo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Man in Suit
+#. y4:msg_speaker_id=2
 msgctxt "188_Man in Suit"
 msgid "Ouch..."
 msgstr "Ouch..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Annoyed Man
+#. y4:msg_speaker_id=0
 msgctxt "200_Annoyed Man"
 msgid "I know what it is! You just don't want me to go out on my own!"
 msgstr "¡Ya sé lo que pasa! ¡Simplemente no quieres que me independice!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Owner of Kyushu No. 1 Star
+#. y4:msg_speaker_id=4
 msgctxt "224_Owner of Kyushu No. 1 Star"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "236_Kiryu"
 msgid "Hey, I'll have a bowl."
 msgstr "Ey, me serviré un tazón."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Owner of Kyushu No. 1 Star
+#. y4:msg_speaker_id=4
 msgctxt "248_Owner of Kyushu No. 1 Star"
 msgid "Ah, if it isn't Kiryu-san!"
 msgstr "¡Ah, si es Kiryu-san!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Ueda
+#. y4:msg_speaker_id=8
 msgctxt "260_Ueda"
 msgid "Oh, Kiryu-san! Remember me? Ueda, from Acecook. Nice to see you again!"
 msgstr "¡Oh, Kiryu-san! ¿Me recuerdas? Ueda, de Acecook.\n"
 "¡Qué bueno verte de nuevo!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "272_Kiryu"
 msgid "Oh, right. You were the one who made an instant version of the ramen here. It's been a while. You still come here?"
 msgstr "Ah, cierto. Tú fuiste quien hizo la versión instantánea del ramen de aquí. Ha pasado un tiempo. ¿Sigues viniendo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Ueda
+#. y4:msg_speaker_id=8
 msgctxt "284_Ueda"
 msgid "Of course! I'm a huge fan of this place."
 msgstr "¡Por supuesto! Soy un gran fanático de este lugar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "296_Kiryu"
 msgid "Heh. Right, I remember."
 msgstr "Je. Sí, lo recuerdo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "308_Kiryu"
 msgid "By the way, who was that just now? Your apprentice?"
 msgstr "Por cierto, ¿quién era ese de antes? ¿Tu aprendiz?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Owner of Kyushu No. 1 Star
+#. y4:msg_speaker_id=4
 msgctxt "320_Owner of Kyushu No. 1 Star"
 msgid "That's right. His name's Matsuyama. He's young, but he's got plenty of determination and skill."
 msgstr "Así es. Se llama Matsuyama. Es joven, pero tiene mucha determinación y habilidad."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Owner of Kyushu No. 1 Star
+#. y4:msg_speaker_id=4
 msgctxt "332_Owner of Kyushu No. 1 Star"
 msgid "He's really mastered our ramen. I can't wait to see what he'll do in the future."
 msgstr "Ha dominado nuestro ramen. No puedo esperar a ver qué hará en el futuro."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "344_Kiryu"
 msgid "But you don't want him to open his own shop?"
 msgstr "Pero no quieres que abra su propio local, ¿verdad?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Owner of Kyushu No. 1 Star
+#. y4:msg_speaker_id=4
 msgctxt "356_Owner of Kyushu No. 1 Star"
 msgid "Well, that's..."
 msgstr "Bueno, eso es..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Ueda
+#. y4:msg_speaker_id=8
 msgctxt "368_Ueda"
 msgid "I'm sure it's not that you don't want to expand... I'm guessing you have your own reasons?"
 msgstr "Estoy seguro de que no es que no quieras expandirte... ¿Me imagino que tienes tus razones.?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Owner of Kyushu No. 1 Star
+#. y4:msg_speaker_id=4
 msgctxt "380_Owner of Kyushu No. 1 Star"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=23
+#. y4:msg_location=T0.P23
+#. y4:msg_speaker=Ueda
+#. y4:msg_speaker_id=8
 msgctxt "392_Ueda"
 msgid "Would you like to talk about it? I'd like to help, if I could."
 msgstr "¿Te gustaría hablar sobre ello? Me gustaría ayudar si puedo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Owner of Kyushu No. 1 Star
+#. y4:msg_speaker_id=4
 msgctxt "404_Owner of Kyushu No. 1 Star"
 msgid "I hate to burden customers with our problems... but I suppose I can tell you."
 msgstr "Odio cargar a los clientes con nuestros problemas... pero supongo que puedo contártelo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=25
+#. y4:msg_location=T0.P25
+#. y4:msg_speaker=Owner of Kyushu No. 1 Star
+#. y4:msg_speaker_id=4
 msgctxt "416_Owner of Kyushu No. 1 Star"
 msgid "Matsuyama's plenty good, that's for sure. But do you really think there's any point in him just making the same ramen as I do?"
 msgstr "Matsuyama es muy bueno, eso es seguro, pero ¿de verdad crees que tiene sentido que solo haga el mismo ramen que yo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_speaker=Owner of Kyushu No. 1 Star
+#. y4:msg_speaker_id=4
 msgctxt "428_Owner of Kyushu No. 1 Star"
 msgid "With the skill and intensity he's got, I'd like to see him make something only he's capable of."
 msgstr "Con la habilidad e intensidad que tiene, me gustaría verlo crear algo que solo él sea capaz de hacer."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=27
+#. y4:msg_location=T0.P27
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "440_Kiryu"
 msgid "So you think he ought to go into business on his own, rather than just opening a new branch of Kyushu No. 1 Star."
 msgstr "Así que crees que debería emprender por su cuenta en lugar de simplemente abrir\n"
 "una nueva sucursal del Kyushu No. 1 Star."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=28
+#. y4:msg_location=T0.P28
+#. y4:msg_speaker=Ueda
+#. y4:msg_speaker_id=8
 msgctxt "452_Ueda"
 msgid "That's how you really feel?"
 msgstr "¿Eso es lo que realmente sientes?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=29
+#. y4:msg_location=T0.P29
+#. y4:msg_speaker=Owner of Kyushu No. 1 Star
+#. y4:msg_speaker_id=4
 msgctxt "464_Owner of Kyushu No. 1 Star"
 msgid "That's right..."
 msgstr ""
@@ -193,83 +435,275 @@ msgid "And you couldn't just say that to Matsuyama-san?\\r\n"
 "Actually, knowing you, I guess that's not likely."
 msgstr "¿Y no podrías simplemente decirle eso a Matsuyama-san? Aunque, conociéndote, supongo que eso no es muy probable."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=31
+#. y4:msg_location=T0.P31
+#. y4:msg_speaker=Owner of Kyushu No. 1 Star
+#. y4:msg_speaker_id=4
 msgctxt "488_Owner of Kyushu No. 1 Star"
 msgid "You nuts!? What good's it gonna do for me to tell him? He's gotta see it for himself."
 msgstr "¿Estás loco!? ¿De qué serviría que yo se lo dijera? Tiene que darse cuenta por sí mismo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=32
+#. y4:msg_location=T0.P32
+#. y4:msg_speaker=Ueda
+#. y4:msg_speaker_id=8
 msgctxt "500_Ueda"
 msgid "It seems like he's really serious, though..."
 msgstr "Aunque parece que realmente se lo está tomando en serio..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=33
+#. y4:msg_location=T0.P33
+#. y4:msg_speaker=Owner of Kyushu No. 1 Star
+#. y4:msg_speaker_id=4
 msgctxt "512_Owner of Kyushu No. 1 Star"
 msgid "Anyway, enough of this talk. Sorry to bother you with our troubles. Enjoy your ramen!"
 msgstr "En fin, basta de esto. Perdón por molestarlos con nuestros problemas. ¡Disfruten su ramen!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=34
+#. y4:msg_location=T0.P34
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "524_Kiryu"
 msgid "Thanks."
 msgstr "Gracias."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Ueda
+#. y4:msg_speaker_id=8
 msgctxt "536_Ueda"
 msgid "Matsuyama-san really seemed to have his heart set on opening a new branch."
 msgstr "Matsuyama-san realmente parecía decidido a abrir una nueva sucursal."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
 msgctxt "548_Kiryu"
 msgid "Yeah, he seemed pretty upset about it."
 msgstr "Sí, parecía bastante molesto por eso."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Ueda
+#. y4:msg_speaker_id=8
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. I could help with that. -> T1.P5 | 2. Just leave him be. -> T1.P3
 msgctxt "560_Ueda"
 msgid "Kiryu-san, I know it's none of my business, but do you think it would be okay to let Matsuyama-san know how the owner really feels about this whole thing?"
 msgstr "Kiryu-san, sé que no es asunto mío, pero...\n"
 "¿crees que estaría bien hacerle saber a Matsuyama-san lo que realmente siente el dueño sobre todo esto?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Just leave him be.
 msgctxt "572_Kiryu"
 msgid "Remember what the owner said? There are some things you have to figure out on your own."
 msgstr "¿Recuerdas lo que dijo el dueño? Hay cosas que uno tiene que descubrir por sí mismo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Ueda
+#. y4:msg_speaker_id=8
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Just leave him be.
 msgctxt "584_Ueda"
 msgid "I can see where he's coming from and all, but..."
 msgstr "Sí, entiendo su punto de vista, pero..."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=I could help with that.
 msgctxt "596_Kiryu"
 msgid "Yeah, it seems he will never know otherwise. I'll see what I can do to help."
 msgstr "Sí, parece que, si nadie le dice nada, nunca lo sabrá. Veré qué puedo hacer para ayudar."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Ueda
+#. y4:msg_speaker_id=8
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=I could help with that.
 msgctxt "608_Ueda"
 msgid "You will!? Thanks! Let's go find Matsuyama-san!"
 msgstr "¿De verdad!? ¡Gracias!\n"
 "¡Busquemos a Matsuyama-san!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=I could help with that.
 msgctxt "620_Kiryu"
 msgid "Any idea where he might be?"
 msgstr "¿Tienes idea de dónde podría estar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Ueda
+#. y4:msg_speaker_id=8
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=I could help with that.
 msgctxt "632_Ueda"
 msgid "Uh, well..."
 msgstr "Eh, bueno..."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=I could help with that.
 msgctxt "644_Kiryu"
 msgid "No? Oh, well. It's not like he could've gone far. Let's split up and look for him."
 msgstr "Oh, bueno. No es como si pudiera haber ido muy lejos.\n"
 "Dividámonos y busquémoslo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Ueda
+#. y4:msg_speaker_id=8
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=I could help with that.
 msgctxt "656_Ueda"
 msgid "Sounds good. I'll call you if I find him!"
 msgstr "¡Me parece bien! Te llamaré si lo encuentro.!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=I could help with that.
 msgctxt "668_Kiryu"
 msgid "Sure. I'll do the same."
 msgstr "Seguro. Yo haré lo mismo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=6
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=I could help with that.
 msgctxt "680_Kiryu"
 msgid "(He just ran off with his uniform still on, so he should be easy to spot. I should try asking if anybody saw him.)"
 msgstr "(Todavía lleva puesto su uniforme, así que debería ser fácil de reconocer.\n"
 "Debería preguntar si alguien lo vio.)"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P5
+#. y4:msg_branch_segment=T1.P5..P13
+#. y4:msg_branch_target_text=Yeah, it seems he will never know otherwise. I'll see what I can do to help.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 17 00 00 00 00 00 00 00 00
 msgctxt "704_Annoyed Man"
 msgid "I could help with that."
 msgstr "Podría ayudar con eso."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P4
+#. y4:msg_branch_target_text=Remember what the owner said? There are some things you have to figure out on your own.
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "716_Annoyed Man"
 msgid "Just leave him be."
 msgstr "Solo déjalo ser."
-

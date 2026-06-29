@@ -17,100 +17,224 @@ msgstr ""
 "X-Crowdin-File-ID: 62108\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "6040"
 msgid "Watanabe"
 msgstr "Watanabe"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "6044"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "6048"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "6052"
 msgid "Kobayashi"
 msgstr "Kobayashi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "6056"
 msgid "Heat Actions"
 msgstr "Acciones Heat"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "6060"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "6064"
 msgid "Ito"
 msgstr "Ito"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "6068"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "6072"
 msgid "Well-dressed Aniki"
 msgstr "Aniki de buen porte"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "6076"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "6080"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Watanabe
+#. y4:msg_speaker_id=0
 msgctxt "72_Watanabe"
 msgid "Shit...!"
 msgstr "¡Este tipo...!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "84_Akiyama"
 msgid "Listen, guys. You mind staying out of my way from now on? We'd both be better off that way."
 msgstr "Escuchen, ¿podrían dejar de meterse en mis asuntos?\n"
 "Lo mejor para todos es evitar problemas, ¿no?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "96_Akiyama"
 msgid "I'm sure you've got a rep to keep up, so I won't tell folks about how I keep kicking your asses. Deal?"
 msgstr "Estoy seguro de que tienen una reputación que mantener,\n"
 "así que es mejor que esto quede entre nosotros. ¿Trato?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Watanabe
+#. y4:msg_speaker_id=0
 msgctxt "108_Watanabe"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Watanabe
+#. y4:msg_speaker_id=0
 msgctxt "120_Watanabe"
 msgid "Fine..."
 msgstr "Bueno..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Kobayashi
+#. y4:msg_speaker_id=3
 msgctxt "132_Kobayashi"
 msgid "But Aniki!?"
 msgstr "¡¿Pero aniki?!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Watanabe
+#. y4:msg_speaker_id=0
 msgctxt "144_Watanabe"
 msgid "You shut your damn hole!"
 msgstr "¡Cállense!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Watanabe
+#. y4:msg_speaker_id=0
 msgctxt "156_Watanabe"
 msgid "Okay, Akiyama-san. We got nothing to do with you from now on, and nothing happened here today. You got that?"
 msgstr "Está bien, Akiyama-san. De ahora en adelante no tendremos nada que ver el uno con el otro. Aquí no pasó nada, ¿entendido?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "168_Akiyama"
 msgid "Oh, loud and clear."
 msgstr "Sí, fuerte y claro."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Watanabe
+#. y4:msg_speaker_id=0
 msgctxt "180_Watanabe"
 msgid "You hear that boys!?"
 msgstr "¡¿Entendieron eso, muchachos?!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Kobayashi
+#. y4:msg_speaker_id=3
 msgctxt "192_Kobayashi"
 msgid "Yes, Aniki..."
 msgstr "Sí, aniki..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Watanabe
+#. y4:msg_speaker_id=0
 msgctxt "204_Watanabe"
 msgid "We're outta here. Later!"
 msgstr "¡Nos vamos!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "252_Akiyama"
 msgid "(Man, talk about a waste of time. Well, I better get on over to <Color:7>Club Elnard<Color:Default>.)"
 msgstr "(Qué pérdida de tiempo. Bueno, será mejor que me pase por el <Color:7>club Elnard<Color:Default>)."
@@ -123,40 +247,95 @@ msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default
 "Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"
 "Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Kobayashi
+#. y4:msg_speaker_id=3
 msgctxt "300_Kobayashi"
 msgid "Not so fast, tough guy!"
 msgstr "¡No tan rápido, muchachote!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "312_Akiyama"
 msgid "Seriously, you guys again? Didn't you have enough kicks to the face last time around?"
 msgstr "Es en serio, ¿ustedes de nuevo?\n"
 "¿No han aprendido la lección?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Ito
+#. y4:msg_speaker_id=6
 msgctxt "324_Ito"
 msgid "Shut it, pisshead! You're the only one getting kicked this time!"
 msgstr "¡Cállate! ¡No será tan fácil como la última vez!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Kobayashi
+#. y4:msg_speaker_id=3
 msgctxt "336_Kobayashi"
 msgid "Aniki, this is him. The asshole I was telling you about."
 msgstr "Aniki, este es. El imbécil del que te estaba hablando."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Well-dressed Aniki
+#. y4:msg_speaker_id=8
 msgctxt "348_Well-dressed Aniki"
 msgid "So, you're Akiyama. I've heard about you and that racket of yours. Sky Finance, you call it?"
 msgstr "Así que tú eres Akiyama de Sky Finance, ¿verdad?\n"
 "He oído hablar de ti."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Well-dressed Aniki
+#. y4:msg_speaker_id=8
 msgctxt "360_Well-dressed Aniki"
 msgid "My boys here tell me you did a nice little number on them earlier. It's time I return the favor!"
 msgstr "Aquí mis chicos me dijeron que les hiciste un numerito antes.\\r\n"
 "¡Es hora de que te devuelva el favor!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "372_Akiyama"
 msgid "Look, can we just quit the chatter and get it over with? I have places to be."
 msgstr "Bueno, no queda otra opción.\n"
 "Vamos a resolver esto de una vez."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Well-dressed Aniki
+#. y4:msg_speaker_id=8
 msgctxt "384_Well-dressed Aniki"
 msgid "Smug little asshole! We're gonna bury you!"
 msgstr "¡Deja de burlarte de nosotros!\n"
 "¡Te voy a matar!"
-

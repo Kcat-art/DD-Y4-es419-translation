@@ -10,42 +10,74 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1728"
 msgid "Man"
 msgstr "Hombre"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1732"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1736"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1740"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1744"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1748"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "116_Man"
 msgid "Um, so, you know what? Today's my birthday! That means I deserve a heaping pile of presents! Why don't you start it off?"
 msgstr "Oye, ¿Sabías qué? ¡Hoy es mi cumpleaños! Eso significa que merezco un montón de regalos. ¿Por qué no empiezas tú?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "Are you just gonna ignore me? Aw, that's no fun. In fact, it makes me kinda angry! I think I'm gonna go ahead and kill you now, okay?"
 msgstr "¿Vas a ignorarme? Ay, eso no tiene gracia. De hecho, ¡me hace enojar! Creo que voy a matarte, ¿te parece bien?"
@@ -56,17 +88,35 @@ msgid "I'm sorry! I'll behave! I'll tell the truth! I won't pick fights! Just－
 msgstr "¡Lo siento! ¡Me portaré bien! ¡Diré la verdad! ¡No voy a provocar peleas! ¡Solo perdóname!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "164_Man"
 msgid "Here, take this. And seriously, forgive meee!"
 msgstr "Ten, toma esto. ¡Y en serio, perdóname!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
 msgctxt "176_Man"
 msgid "You got a drab %s."
 msgstr "Obtuviste un %s."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "212_Man"
 msgid "Yikes! I'm so sorryyy!"
 msgstr "¡Ay! ¡Lo siento muchooo!"
-

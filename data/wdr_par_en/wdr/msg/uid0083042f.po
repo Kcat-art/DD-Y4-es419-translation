@@ -17,58 +17,114 @@ msgstr ""
 "X-Crowdin-File-ID: 59912\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3544"
 msgid "Barkeep"
 msgstr "Cantinero"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3548"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3552"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3556"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3560"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3564"
 msgid "Shizuka"
 msgstr "Shizuka"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "3568"
 msgid "Maya"
 msgstr "Maya"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "3572"
 msgid "Rio"
 msgstr "Rio"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "3576"
 msgid "Himeka"
 msgstr "Himeka"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "3580"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Barkeep
+#. y4:msg_speaker_id=0
 msgctxt "56_Barkeep"
 msgid "Well, that was quite a match."
 msgstr "Bueno, esa fue una buena partida."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
 msgctxt "68_Barkeep"
 msgid "As a matter of fact, we're offering a little promotion here for couples who play together. Would you care to try it out?"
 msgstr "De hecho, ofrecemos una pequeña promoción a las parejas que jueguen juntas. ¿Les gustaría probarla?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "80_Player"
 msgid "A promotion?"
 msgstr "¿Una promoción?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Barkeep
+#. y4:msg_speaker_id=0
 msgctxt "92_Barkeep"
 msgid "That's right, it's called \"Prize Bank Shot.\" Prize names will be written on the pool table."
 msgstr "Así es, se llama \"Premio al Tiro de Banco.\" Los nombres de los premios se escribirán en la mesa de billar."
@@ -79,43 +135,104 @@ msgid "Make a bank shot onto one to win that prize!\\r\n"
 msgstr "¡Realiza un tiro de banco para ganar el premio!\\r\n"
 "Sencillo, ¿verdad?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
 msgctxt "128_Barkeep"
 msgid "There are some prizes that your lady friend will have to work extra hard for. What do you say?"
 msgstr "Hay algunos premios por los que tu amiga tendrá que esforzarse un poco más. ¿Qué dices?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
 msgctxt "140_Barkeep"
 msgid "There are some prizes that your lady friend will have to work extra hard for. What do you say?"
 msgstr "Hay algunos premios por los que tu amiga tendrá que esforzarse un poco más. ¿Qué dices?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
 msgctxt "152_Barkeep"
 msgid "There are some prizes that your lady friend will have to work extra hard for. What do you say?"
 msgstr "Hay algunos premios por los que tu amiga tendrá que esforzarse un poco más. ¿Qué dices?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
 msgctxt "164_Barkeep"
 msgid "There are some prizes that your lady friend will have to work extra hard for. What do you say?"
 msgstr "Hay algunos premios por los que tu amiga tendrá que esforzarse un poco más. ¿Qué dices?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Shizuka
+#. y4:msg_speaker_id=5
 msgctxt "188_Shizuka"
 msgid "Hehe. What an interesting event. Good luck."
 msgstr "Je, je. Qué evento tan interesante. ¡Buena suerte!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=6
 msgctxt "200_Maya"
 msgid "Hahaha! Sounds fun! Good luck!"
 msgstr "¡Ja, ja, ja! ¡Suena divertido! ¡Mucha suerte!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=7
 msgctxt "212_Rio"
 msgid "Hehe. That sounds like fun! Good luck!"
 msgstr "Je, je. Parece divertido. ¡Que tengas suerte!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=8
 msgctxt "224_Himeka"
 msgid "Hehe. Sounds like fun! Good luck!"
 msgstr "¡Je, je! ¡Suena divertido! ¡Que tengas Buena suerte!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "236_Player"
 msgid "All right. Let's give it a try."
 msgstr "De acuerdo. Vamos a intentarlo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Barkeep
+#. y4:msg_speaker_id=0
 msgctxt "248_Barkeep"
 msgid "Very well!"
 msgstr "¡Muy bien!"
-

@@ -17,66 +17,130 @@ msgstr ""
 "X-Crowdin-File-ID: 58328\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
 msgctxt "308"
 msgid "You got a <Color:8>Chunk of Wood (Sacred)<Color:Default>."
 msgstr "Obtuviste un <Color:8>Trozo de madera (Sagrado)<Color:Default>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=30
+#. y4:msg_location=T0.P30
 msgctxt "416"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "5732"
 msgid "Baba"
 msgstr "Baba"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "5736"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "5740"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "5744"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "5748"
 msgid "Agent"
 msgstr "Agente"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "5752"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "5756"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "5760"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "5764"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "5768"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "5772"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Baba
+#. y4:msg_speaker_id=0
 msgctxt "56_Baba"
 msgid "What the!"
 msgstr "¡Pero qué!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "68_Kiryu"
 msgid "Looks like I win."
 msgstr "Parece que he ganado."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Baba
+#. y4:msg_speaker_id=0
 msgctxt "80_Baba"
 msgid "Heh. Hehe. You're really something, you know that?"
 msgstr "Je. Je, je. Tienes un talento natural, ¿sabes?"
@@ -86,14 +150,35 @@ msgid "Most pros can't even sniff out that pitch, but here you are\\r\n"
 "whacking it around like it was a freaking softball."
 msgstr "La mayoría de profesionales ni siquiera pueden acercarse a un lanzamiento como ese, y aquí estás tú\\r, dándole como si fuera una maldita pelota de softball."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Baba
+#. y4:msg_speaker_id=0
 msgctxt "104_Baba"
 msgid "Hey, Mike!"
 msgstr "¡Oye Mike!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Agent
+#. y4:msg_speaker_id=4
 msgctxt "116_Agent"
 msgid "Yes, Baba-san?"
 msgstr "¿Sí, Baba-san?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Baba
+#. y4:msg_speaker_id=0
 msgctxt "128_Baba"
 msgid "Get me a ticket to Tibet, I gotta do some baseball soul-searching! Looks like I have to embrace my inner curveball..."
 msgstr "Consígueme un billete al Tíbet, ¡necesito hacer una introspección beisbolística! Parece que tengo que abrazar mi bola curva interior..."
@@ -103,6 +188,13 @@ msgid "What about your TV interview? Or the piece you're going to\\r\n"
 "appear in for that magazine?"
 msgstr "¿Qué hay de su entrevista en televisión? ¿O el reportaje para aquella revista?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Baba
+#. y4:msg_speaker_id=0
 msgctxt "152_Baba"
 msgid "Cancel 'em! I mean it!"
 msgstr "¡Cancélalas! ¡De verdad!"
@@ -128,14 +220,35 @@ msgid "Heh, anytime. You bring the most twisted curveball you can\\r\n"
 "throw, and I'll still knock it straight back at you."
 msgstr "Je, cuando quieras. Haz el lanzamiento más despiadado que puedas, ¡qué te lo devolveré de lleno!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Baba
+#. y4:msg_speaker_id=0
 msgctxt "212_Baba"
 msgid "Yeah right! Later!"
 msgstr "¡Sí, claro! ¡Nos vemos!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Agent
+#. y4:msg_speaker_id=4
 msgctxt "236_Agent"
 msgid "Whew. Kazuma Kiryu-san, was it?"
 msgstr "Uf ¿Kazuma Kiryu-san, verdad?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "248_Kiryu"
 msgid "That's me."
 msgstr "Así es."
@@ -158,6 +271,13 @@ msgid "It seems Baba-san really looks up to you. If you ever run\\r\n"
 "another run for his money."
 msgstr "Parece que el Baba-san realmente lo respeta. Si alguna vez se encuentra\\r con él de nuevo, estoy seguro de que le haría mucha ilusión si le diera\\r otra oportunidad de demostrar su habilidad."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Agent
+#. y4:msg_speaker_id=4
 msgctxt "296_Agent"
 msgid "Please accept this as my thanks."
 msgstr "Por favor, acepte esto como agradecimiento."
@@ -167,7 +287,13 @@ msgid "Now then, I have a swath of angry journalists to call, so\\r\n"
 "if you'll excuse me..."
 msgstr "Ahora, si me disculpa, tengo varios reporteros enfadados a los que llamar..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "344_Kiryu"
 msgid "Sure thing. Tell Baba to take care of himself."
 msgstr "Sin problema. Dígale a Baba de mí parte que se cuíde."
-

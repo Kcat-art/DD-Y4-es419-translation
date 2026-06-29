@@ -17,18 +17,30 @@ msgstr ""
 "X-Crowdin-File-ID: 60190\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1268"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1272"
 msgid "Student"
 msgstr "Estudiante"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1276"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1280"
 msgid "Talk_No"
 msgstr "Talk_No"
@@ -38,6 +50,13 @@ msgid "Hey, did you mention a Mr. Try and Hit Me? Who or\\r\n"
 "what is that?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Student
+#. y4:msg_speaker_id=1
 msgctxt "96_Student"
 msgid "Yeah, I was just talking about him."
 msgstr ""
@@ -48,6 +67,13 @@ msgid "He first showed up in Kamurocho about four or\\r\n"
 "money to anyone who can land a punch on him."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "120_Tanimura"
 msgid "Wow. Is he really that good?"
 msgstr ""
@@ -58,11 +84,24 @@ msgid "I've never seen the guy lose. But I've heard\\r\n"
 "by the same person."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "144_Tanimura"
 msgid "Hmm..."
 msgstr "Mmm..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "156_Tanimura"
 msgid "(I wonder if this Mr. Try and Hit Me is the Iida guy I'm looking for.)"
 msgstr ""
-

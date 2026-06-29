@@ -17,276 +17,711 @@ msgstr ""
 "X-Crowdin-File-ID: 58046\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "10324"
 msgid "Man in Black Suit"
 msgstr "Hombre de Traje Negro"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "10328"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "10332"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "10336"
 msgid "Black Nightmare Rank Four"
 msgstr "Black Nightmare Cuarto Rango"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "10340"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "10344"
 msgid "Black Nightmare Rank Three"
 msgstr "Black Nightmare Tercer Rango"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "10348"
 msgid "Black Nightmare Rank Two"
 msgstr "Black Nightmare Tercer Rango"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "10352"
 msgid "Black Nightmare Rank ?"
 msgstr "¿Rango de pesadilla negra?"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "10356"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "10360"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man in Black Suit
+#. y4:msg_speaker_id=0
 msgctxt "128_Man in Black Suit"
 msgid "You Kiryu?"
 msgstr "¿Eres Kiryu?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "140_Kiryu"
 msgid "Yeah."
 msgstr "Sí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Man in Black Suit
+#. y4:msg_speaker_id=0
 msgctxt "152_Man in Black Suit"
 msgid "I'm Rank Four of the Black Nightmare."
 msgstr "Soy Cuarto Rango de los Black Nightmare."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "164_Kiryu"
 msgid "\"Rank Four\"? Pretty strange nickname. What do you want?"
 msgstr "¿\"Cuarto Rango\"? Que apodo tan raro. ¿Qué quieres?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Black Nightmare Rank Four
+#. y4:msg_speaker_id=3
 msgctxt "176_Black Nightmare Rank Four"
 msgid "All in good time. Just shut up and follow me."
 msgstr "Todo a su tiempo. Cállate y sígueme."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "188_Kiryu"
 msgid "And what happens if I follow you?"
 msgstr "¿Y qué pasará si te sigo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Black Nightmare Rank Four
+#. y4:msg_speaker_id=3
 msgctxt "200_Black Nightmare Rank Four"
 msgid "Heh. Do I smell a little fear... or is it cowardice?"
 msgstr "Je. ¿Lo que huelo es miedo... o cobardía?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Black Nightmare Rank Four
+#. y4:msg_speaker_id=3
 msgctxt "212_Black Nightmare Rank Four"
 msgid "I guess I could just dismantle you right here..."
 msgstr "Supongo que simplemente puedo desmantelarte aquí..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "224_Kiryu"
 msgid "Why were you so set on going somewhere else?"
 msgstr "¿Por qué tenías tantas ganas de ir a otro sitio?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Black Nightmare Rank Four
+#. y4:msg_speaker_id=3
 msgctxt "236_Black Nightmare Rank Four"
 msgid "Heh. Just don't wanna be seen by the cops, that's all."
 msgstr "Je. Simplemente no quería ser visto por polis, eso es todo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "248_Kiryu"
 msgid "I don't care where we fight or what you use. Let's just get this over with."
 msgstr "No me importa donde peleemos o qué uses. Simplemente acabemos con esto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Black Nightmare Rank Four
+#. y4:msg_speaker_id=3
 msgctxt "260_Black Nightmare Rank Four"
 msgid "Wouldn't expect any less from the legend himself..."
 msgstr "No esperaba menos de la leyenda..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Black Nightmare Rank Four
+#. y4:msg_speaker_id=3
 msgctxt "272_Black Nightmare Rank Four"
 msgid "I'll lay the beatdown on you right here for all the other gangs to see. Hope you're ready to get owned, bitch."
 msgstr "Voy a darte una paliza aquí mismo para que todas las demás pandillas lo vean. Espero que estés listo para que te aplasten, imbécil."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Man in Black Suit
+#. y4:msg_speaker_id=0
 msgctxt "284_Man in Black Suit"
 msgid "Kiryu, I presume?"
 msgstr "¿Kiryu, presumo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "296_Kiryu"
 msgid "Yeah."
 msgstr "Sí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Man in Black Suit
+#. y4:msg_speaker_id=0
 msgctxt "308_Man in Black Suit"
 msgid "I'm Rank Three. Need I say more?"
 msgstr "Soy Tercer Rango. ¿Debo decir más?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "320_Kiryu"
 msgid "...I got it."
 msgstr "...Entiendo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Black Nightmare Rank Three
+#. y4:msg_speaker_id=5
 msgctxt "332_Black Nightmare Rank Three"
 msgid "Let's get this started."
 msgstr "Empecemos con esto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=19
+#. y4:msg_location=T1.P19
+#. y4:msg_speaker=Man in Black Suit
+#. y4:msg_speaker_id=0
 msgctxt "344_Man in Black Suit"
 msgid "Look, why don't you just die already?"
 msgstr "Mira, ¿Por qué no mueres de una vez?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=20
+#. y4:msg_location=T1.P20
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "356_Kiryu"
 msgid "And what would your rank be?"
 msgstr "¿Y qué rango serías tú?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=21
+#. y4:msg_location=T1.P21
+#. y4:msg_speaker=Man in Black Suit
+#. y4:msg_speaker_id=0
 msgctxt "368_Man in Black Suit"
 msgid "Two."
 msgstr "Segundo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=22
+#. y4:msg_location=T1.P22
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "380_Kiryu"
 msgid "That's all I need to hear. No need for talk. Let's get this over with."
 msgstr "Es todo lo que debo saber. No necesitamos hablar. Acabemos con esto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Black Nightmare Rank Two
+#. y4:msg_speaker_id=6
 msgctxt "392_Black Nightmare Rank Two"
 msgid "Not much for small talk, huh? That's no fun. Oh well. It's your funeral!"
 msgstr "No eres de hablar mucho, ¿eh? Eso no es divertido. Bueno, da igual. ¡Será tu funeral!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=24
+#. y4:msg_location=T1.P24
+#. y4:msg_speaker=Black Nightmare Rank ?
+#. y4:msg_speaker_id=7
 msgctxt "404_Man in Black Suit"
 msgid "Hey! You're Kiryu, right? I don't even <Italic>have</Italic> a rank. That's how good I am! You better watch out!"
 msgstr "¡Hey! ¿Eres Kiryu, verdad? ¡Ni siquiera <Italic>tengo</Italic> rango, así de bueno soy! ¡Más te vale tener cuidado!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Black Nightmare Rank ?
+#. y4:msg_speaker_id=7
 msgctxt "416_Black Nightmare Rank ?"
 msgid "What's with that look? I'm for real! It's not like I suck and got a double digit rank and I'm trying to hide that or anything!"
 msgstr "¿A qué viene esa mirada? ¡Lo digo en serio! ¡No es como si fuera apestara, tuviera un rango de dos dígitos, y estuviera tratando de ocultarlo o algo así!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=26
+#. y4:msg_location=T1.P26
+#. y4:msg_speaker=Black Nightmare Rank ?
+#. y4:msg_speaker_id=7
 msgctxt "428_Black Nightmare Rank ?"
 msgid "Screw it! Here I come!"
 msgstr "¡Al diablo! ¡Aquí voy!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Black Nightmare Rank Four
+#. y4:msg_speaker_id=3
 msgctxt "464_Man in Black Suit"
 msgid "Ungh... I should've known..."
 msgstr "Ungh... Debí de haberlo sabido..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "476_Kiryu"
 msgid "Rank Four, was it? That's your title within the gang?"
 msgstr "Cuarto Rango, ¿verdad? ¿Ese es tu título en la pandilla?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Black Nightmare Rank Four
+#. y4:msg_speaker_id=3
 msgctxt "488_Black Nightmare Rank Four"
 msgid "Yeah. But it's just a rank. Only leader-class members get them. I'm not the only Rank Four."
 msgstr "Si. Pero solo es un rango. Solo miembros de clase-líder los tienen. No soy el único Cuarto Rango."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "500_Kiryu"
 msgid "What do you mean?"
 msgstr "¿A qué te refieres?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Black Nightmare Rank Four
+#. y4:msg_speaker_id=3
 msgctxt "512_Black Nightmare Rank Four"
 msgid "Our ranks are the only names we can use. All other names are forbidden. That's our gang's code."
 msgstr "Nuestros rangos son nuestros únicos nombres. Los demás nombres están prohibidos.\n"
 "Ese es el código de nuestra pandilla."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Black Nightmare Rank Four
+#. y4:msg_speaker_id=3
 msgctxt "524_Black Nightmare Rank Four"
 msgid "The upper ranks are gonna come for you."
 msgstr "Los rangos superiores vendrán a por ti."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
+#. y4:msg_speaker=Black Nightmare Rank Four
+#. y4:msg_speaker_id=3
 msgctxt "536_Black Nightmare Rank Four"
 msgid "The higher the rank, the more you'll suffer. I suggest you die early to avoid unnecessary pain."
 msgstr "Mientras mayor sea el rango, más te harán sufrir. Te sugiero morir ahora para evitarte dolor innecesario."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=8
+#. y4:msg_location=T2.P8
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "548_Kiryu"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Black Nightmare Rank Three
+#. y4:msg_speaker_id=5
 msgctxt "560_Man in Black Suit"
 msgid "You're stronger than I thought. I'm impressed."
 msgstr "Eres más fuerte de lo que pensaba. Me impresionas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "572_Kiryu"
 msgid "Must be a pain to keep track of all these ranks and codes in your gang."
 msgstr "Debe ser un fastidio llevar la cuenta de todos esos rangos y códigos en tu pandilla."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=11
+#. y4:msg_location=T2.P11
+#. y4:msg_speaker=Black Nightmare Rank Three
+#. y4:msg_speaker_id=5
 msgctxt "584_Black Nightmare Rank Three"
 msgid "Oh, yeah? The more codes you're bound to, the easier life is. That's what our boss says."
 msgstr "¿Ah, sí? Cuantos más códigos tengas, más fácil es la vida. Eso es lo que dice nuestro jefe."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=12
+#. y4:msg_location=T2.P12
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "596_Kiryu"
 msgid "Aren't you just avoiding thinking for yourself?"
 msgstr "¿No estás evitando pensar por ti mismo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=13
+#. y4:msg_location=T2.P13
+#. y4:msg_speaker=Black Nightmare Rank Three
+#. y4:msg_speaker_id=5
 msgctxt "608_Black Nightmare Rank Three"
 msgid "I'll think about that after we're through with you. Eliminating you is our only goal right now."
 msgstr "Pensaré en eso después de que terminemos contigo. Eliminarte es nuestro único objetivo ahora mismo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=14
+#. y4:msg_location=T2.P14
+#. y4:msg_speaker=Black Nightmare Rank Three
+#. y4:msg_speaker_id=5
 msgctxt "620_Black Nightmare Rank Three"
 msgid "It's a tougher goal than I initially thought. Looks like Rank Two will be coming for you next."
 msgstr "Eres un objetivo más difícil de lo que pensé en un principio. Parece que el Rango Dos vendrá por ti después."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=15
+#. y4:msg_location=T2.P15
+#. y4:msg_speaker=Black Nightmare Rank Three
+#. y4:msg_speaker_id=5
 msgctxt "632_Black Nightmare Rank Three"
 msgid "Hope you survive till then. See ya."
 msgstr "Espero que sobrevivas hasta entonces. Hasta luego."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Black Nightmare Rank Two
+#. y4:msg_speaker_id=6
 msgctxt "644_Man in Black Suit"
 msgid "Argh... Guess we couldn't cut it."
 msgstr "Argh... Supongo que no pudimos detenerlo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=17
+#. y4:msg_location=T2.P17
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "656_Kiryu"
 msgid "I don't have all the time in the world. Hurry up and bring me your boss."
 msgstr "No tengo todo el tiempo del mundo. Apúrate y tráeme a tu jefe."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=18
+#. y4:msg_location=T2.P18
+#. y4:msg_speaker=Black Nightmare Rank Two
+#. y4:msg_speaker_id=6
 msgctxt "668_Black Nightmare Rank Two"
 msgid "You're pretty dense if you think I'll do that just 'cause you told me to. Well, only Rank One and the boss are left now though..."
 msgstr "Eres bastante tonto si piensas que haré eso solo porque me lo dices. Aunque, ahora solo quedan el Rango Uno y el jefe..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=19
+#. y4:msg_location=T2.P19
+#. y4:msg_speaker=Black Nightmare Rank Two
+#. y4:msg_speaker_id=6
 msgctxt "680_Black Nightmare Rank Two"
 msgid "Hope you're ready for them!"
 msgstr "¡Espero que estés preparado!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=20
+#. y4:msg_location=T2.P20
+#. y4:msg_speaker=Black Nightmare Rank ?
+#. y4:msg_speaker_id=7
 msgctxt "692_Man in Black Suit"
 msgid "If Rank Two couldn't beat you, I guess there's no way I could... But we'll get you yet!"
 msgstr "Si el Rango Dos no pudo derrotarte, supongo que no hay forma de que yo pueda... ¡Pero aún te atraparemos!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=21
+#. y4:msg_location=T2.P21
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "704_Kiryu"
 msgid "Hey!"
 msgstr "¡Oye!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=22
+#. y4:msg_location=T2.P22
+#. y4:msg_speaker=Black Nightmare Rank ?
+#. y4:msg_speaker_id=7
 msgctxt "716_Black Nightmare Rank ?"
 msgid "Yes, sir? What can I do for you?"
 msgstr "Sí, señor. ¿En qué puedo ayudarle?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=23
+#. y4:msg_location=T2.P23
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "728_Kiryu"
 msgid "I don't have time to babysit you and the others. Tell me where your boss is. Now."
 msgstr "No tengo tiempo para hacer de niñera de ti y de los demás. Dime dónde está tu jefe. Ahora."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=24
+#. y4:msg_location=T2.P24
+#. y4:msg_speaker=Black Nightmare Rank ?
+#. y4:msg_speaker_id=7
 msgctxt "740_Black Nightmare Rank ?"
 msgid "Babysit...?"
 msgstr "¿Hacer de niñera...?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=25
+#. y4:msg_location=T2.P25
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "752_Kiryu"
 msgid "You heard me. Got a problem with that?"
 msgstr "Ya me has oído. ¿Tienes un problema con eso?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=26
+#. y4:msg_location=T2.P26
+#. y4:msg_speaker=Black Nightmare Rank ?
+#. y4:msg_speaker_id=7
 msgctxt "764_Black Nightmare Rank ?"
 msgid "No, sir! Not at all, sir! Rank Zero is at the empty lot in the south end of the Champion District!"
 msgstr "¡No, señor! ¡Para nada, señor! ¡El Rango Cero está en el solar vacío al sur del Distrito Champion!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=27
+#. y4:msg_location=T2.P27
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "776_Kiryu"
 msgid "Good. Now get lost."
 msgstr "Bien. Ahora piérdete."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=28
+#. y4:msg_location=T2.P28
+#. y4:msg_speaker=Black Nightmare Rank ?
+#. y4:msg_speaker_id=7
 msgctxt "788_Black Nightmare Rank ?"
 msgid "Yes, sir!"
 msgstr "¡Sí, señor!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Black Nightmare Rank Four
+#. y4:msg_speaker_id=3
 msgctxt "824_Man in Black Suit"
 msgid "You got a world of pain in store for you. You might as well die now."
 msgstr "Te espera un mundo de dolor. Más te vale morir ahora."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=2
+#. y4:msg_location=T3.P2
+#. y4:msg_speaker=Black Nightmare Rank Three
+#. y4:msg_speaker_id=5
 msgctxt "836_Man in Black Suit"
 msgid "Rank Two's coming for you next."
 msgstr "El Rango Dos viene por ti."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=3
+#. y4:msg_location=T3.P3
+#. y4:msg_speaker=Black Nightmare Rank Two
+#. y4:msg_speaker_id=6
 msgctxt "848_Man in Black Suit"
 msgid "Next up is Rank One and the boss. Hope you enjoy it."
 msgstr "El siguiente es el Rango Uno y el jefe. Espero que lo disfrutes."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=4
+#. y4:msg_location=T3.P4
+#. y4:msg_speaker=Black Nightmare Rank ?
+#. y4:msg_speaker_id=7
 msgctxt "860_Man in Black Suit"
 msgid "Rank Zero is at the empty lot in the south side of the Champion District!"
 msgstr "¡El Rango Cero está en el solar vacío del lado sur del Distrito Champion!"
-

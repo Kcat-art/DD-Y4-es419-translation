@@ -17,15 +17,31 @@ msgstr ""
 "X-Crowdin-File-ID: 58220\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1516"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "108_Tanimura"
 msgid "(Come on, guys... I know someone wants to kill me. This would be the perfect place...)"
 msgstr "(Vamos, aparezcan... Sé que alguien me quiere muerto. Y este es el lugar perfecto...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "132_Tanimura"
 msgid "(Here you are. Right on schedule, boys. Now I just have to lure you into a dead end and we can go from there.)"
 msgstr "(¡Ahí están! Ahora solo tengo que seguir el plan y llevarlos directo al callejón sin salida...)."
-

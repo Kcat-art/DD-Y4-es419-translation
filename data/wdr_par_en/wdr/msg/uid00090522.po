@@ -10,77 +10,136 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=49
+#. y4:msg_location=T0.P49
 msgctxt "644"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "8596"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "8600"
 msgid "Client"
 msgstr "Cliente"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "8604"
 msgid "Tadokoro's Subordinate"
 msgstr "Subordinado de Tadokoro"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "8608"
 msgid "M_nml_stand"
 msgstr "M_nml_stand"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "8612"
 msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "8616"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "8620"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "8624"
 msgid "Former Debtor"
 msgstr "Ex Deudor"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "8628"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "8632"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "8636"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "56_Saejima"
 msgid "Welp. That's that, then."
 msgstr "Bueno. Supongo que eso es todo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Client
+#. y4:msg_speaker_id=1
 msgctxt "68_Client"
 msgid "Phew... I guess I'm safe for real now."
 msgstr "Uf... Supongo que ahora sí que estoy a salvo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=2
 msgctxt "80_Tadokoro's Subordinate"
 msgid "Thank you for a job well done."
 msgstr "Gracias por tu gran trabajo."
@@ -96,182 +155,433 @@ msgid "Don't worry about that. I got a call confirming both you\\r\ngentlemen ha
 msgstr "No se preocupe por eso. Recibí una llamada confirmando que ambos\\r\ncaballeros han completado sus respectivas labores."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "116_Saejima"
 msgid "Gentle...men?"
 msgstr "¿Caba...lleros?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=2
 msgctxt "128_Tadokoro's Subordinate"
 msgid "That's correct, Suzuki-san..."
 msgstr "Correcto, Suzuki-san..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=2
 msgctxt "140_Tadokoro's Subordinate"
 msgid "...And you as well."
 msgstr "...Y usted también."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "152_Saejima"
 msgid "What's goin' on here?"
 msgstr "¿Qué está pasando aquí?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=2
 msgctxt "164_Tadokoro's Subordinate"
 msgid "Hehehe. I suppose I can tell you now."
 msgstr "Je, je, je. Supongo que ya te lo puedo contar."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=2
 msgctxt "176_Tadokoro's Subordinate"
 msgid "This man you worked so hard to protect didn't really need protecting. He's one of our debtors, just like Tadashi-kun."
 msgstr "Este hombre que trabajaste tan duro para proteger, no necesitaba realmente protección. Es uno de nuestros deudores, igual que Tadashi-kun."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "188_Saejima"
 msgid "The fuck!?"
 msgstr "¿¡Pero qué!?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=2
 msgctxt "200_Tadokoro's Subordinate"
 msgid "While you two were stumbling about, the gentleman who actually required a bodyguard was safely delivered by one of our agents."
 msgstr "Mientras ustedes dos daban vueltas, el caballero que realmente necesitaba un guardaespaldas fue entregado sano y salvo por uno de nuestros agentes."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "212_Saejima"
 msgid "So we were just a couple decoys?"
 msgstr "¿Así que solo éramos un par de señuelos?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=2
 msgctxt "224_Tadokoro's Subordinate"
 msgid "Correct. This fellow agreed to act as a distraction in exchange for having his debts forgiven."
 msgstr "Correcto. Este sujeto accedió a actuar como distracción a cambio de que le perdonaran sus deudas."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=2
 msgctxt "236_Tadokoro's Subordinate"
 msgid "Now he's debt-free, and we were able to complete our own assignment without incident. It was a clever arrangement, you must admit."
 msgstr "Ahora está libre de deudas, y pudimos completar nuestro propio encargo sin incidentes. Fue un arreglo inteligente, tienes que admitirlo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "248_Saejima"
 msgid "Is he tellin' the truth?"
 msgstr "¿Dice la verdad?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Former Debtor
+#. y4:msg_speaker_id=7
 msgctxt "260_Former Debtor"
 msgid "Uh-huh."
 msgstr "Ajá."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "272_Saejima"
 msgid "Sunnuva..."
 msgstr "Hijo de..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=2
 msgctxt "284_Tadokoro's Subordinate"
 msgid "Thank you again for your hard work. I'll apply your compensation toward the repayment of Tadashi-kun's debts."
 msgstr "Gracias de nuevo por tu arduo trabajo. Aplicaré tu compensación al pago de las deudas de Tadashi-kun."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=2
 msgctxt "296_Tadokoro's Subordinate"
 msgid "I'll be in touch when your next assignment comes in."
 msgstr "Me pondré en contacto cuando surja un nuevo encargo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Former Debtor
+#. y4:msg_speaker_id=7
 msgctxt "320_Former Debtor"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Former Debtor
+#. y4:msg_speaker_id=7
 msgctxt "332_Saejima"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Former Debtor
+#. y4:msg_speaker_id=7
 msgctxt "344_Former Debtor"
 msgid "Haha... Ridiculous, isn't it? All this time, the man you were risking your life to protect was just some loser up to his neck in debt."
 msgstr "Ja, ja... Ridículo, ¿no? Todo este tiempo, el hombre por el que estabas arriesgando tu vida para protegerlo era sólo un fracasado endeudado hasta el cuello."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=25
+#. y4:msg_location=T0.P25
+#. y4:msg_speaker=Former Debtor
+#. y4:msg_speaker_id=7
 msgctxt "356_Former Debtor"
 msgid "Sorry about that..."
 msgstr "Perdón por eso..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_speaker=Former Debtor
+#. y4:msg_speaker_id=7
 msgctxt "368_Former Debtor"
 msgid "But this was the only way I could turn my life around. I was fresh out of options."
 msgstr "Pero era la única forma de dar un giro a mi vida. Me había quedado sin opciones."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=27
+#. y4:msg_location=T0.P27
+#. y4:msg_speaker=Former Debtor
+#. y4:msg_speaker_id=7
 msgctxt "380_Former Debtor"
 msgid "I apologize, for what little that's worth."
 msgstr "Aunque no sirva de mucho, te pido perdón."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=28
+#. y4:msg_location=T0.P28
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "392_Saejima"
 msgid "It don't bother me none."
 msgstr "No me molesta para nada."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=29
+#. y4:msg_location=T0.P29
+#. y4:msg_speaker=Former Debtor
+#. y4:msg_speaker_id=7
 msgctxt "404_Former Debtor"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=30
+#. y4:msg_location=T0.P30
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "416_Saejima"
 msgid "If I decide to protect somebody, doesn't matter if he's a hot-shot brain surgeon or a snot-nosed street punk."
 msgstr "Si decido proteger a alguien, no importa si es un neurocirujano de primera o un mocoso callejero..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=31
+#. y4:msg_location=T0.P31
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "428_Saejima"
 msgid "When I make a decision, I stick to it. Period. No excuses. That's what's important."
 msgstr "Cuando tomo una decisión, me aferro a ella. Y punto. Sin excusas. Eso es lo importante."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=32
+#. y4:msg_location=T0.P32
+#. y4:msg_speaker=Former Debtor
+#. y4:msg_speaker_id=7
 msgctxt "440_Former Debtor"
 msgid "Huh..."
 msgstr "Huh..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=33
+#. y4:msg_location=T0.P33
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "452_Saejima"
 msgid "Besides, I'm glad I got to be your bodyguard."
 msgstr "Es más, me alegra haber sido tu guardaespaldas."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=34
+#. y4:msg_location=T0.P34
+#. y4:msg_speaker=Former Debtor
+#. y4:msg_speaker_id=7
 msgctxt "464_Former Debtor"
 msgid "...You are?"
 msgstr "¿...En serio?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=35
+#. y4:msg_location=T0.P35
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "476_Saejima"
 msgid "You're gonna turn your life around, yeah? Keep your nose clean? Then I'm happy I could help."
 msgstr "Vas a cambiar tu vida, ¿no? ¿Sin meterte en problemas? Entonces estoy feliz de poder ayudar."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=36
+#. y4:msg_location=T0.P36
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "488_Saejima"
 msgid "Ya fought hard to get your life back. Now take a deep breath, get out there, and live it."
 msgstr "Has luchado duro para recuperar tu vida. Ahora respira hondo, sal ahí fuera y vívela."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=38
+#. y4:msg_location=T0.P38
+#. y4:msg_speaker=Former Debtor
+#. y4:msg_speaker_id=7
 msgctxt "512_Former Debtor"
 msgid "Hey, mister!"
 msgstr "¡Oiga, señor!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=39
+#. y4:msg_location=T0.P39
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "524_Saejima"
 msgid "Yeah?"
 msgstr "¿Sí?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=40
+#. y4:msg_location=T0.P40
+#. y4:msg_speaker=Former Debtor
+#. y4:msg_speaker_id=7
 msgctxt "536_Former Debtor"
 msgid "Thanks. I'm gonna straighten up and fly right from here on out. I promise."
 msgstr "Gracias. Voy a enderezarme y no me meteré en más problemas de aquí en adelante. Se lo prometo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=41
+#. y4:msg_location=T0.P41
+#. y4:msg_speaker=Former Debtor
+#. y4:msg_speaker_id=7
 msgctxt "548_Former Debtor"
 msgid "I'm sure you have your own demons to face, same as anybody. So I'll be rooting for you!"
 msgstr "Estoy seguro de que tienes tus propios demonios a los que enfrentarte, como cualquiera. ¡Así que tienes mi apoyo!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=42
+#. y4:msg_location=T0.P42
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "560_Saejima"
 msgid "Heh. Much obliged."
 msgstr "Je. Muchas gracias."
-

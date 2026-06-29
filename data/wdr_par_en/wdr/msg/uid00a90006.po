@@ -17,10 +17,16 @@ msgstr ""
 "X-Crowdin-File-ID: 59982\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1352"
 msgid "Hana"
 msgstr "Hana"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1356"
 msgid "Akiyama"
 msgstr "Akiyama"
@@ -31,23 +37,57 @@ msgid "I can't believe I'm going to karaoke with you, Chief...\\r\n"
 msgstr "No puedo creer que vaya al karaoke contigo, Jefe...\\r\n"
 "Estoy tan emocionada. Ahora, ¿qué debería cantar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
 msgctxt "132_Hana"
 msgid "I think I'll try \"Raindrops.\" The lyrics are heartrending, but it's one of my favorite songs."
 msgstr "Creo que intentaré \"Raindrops.\" La letra es desgarradora, pero es una de mis canciones favoritas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
 msgctxt "144_Hana"
 msgid "Not bad, Chief! I never knew you were so good at cheering people on."
 msgstr "¡Nada mal, Jefe! No sabía que eras tan bueno animando."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
 msgctxt "156_Hana"
 msgid "Chief... You're breaking my rhythm."
 msgstr "Jefe... Arruina mi ritmo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "168_Akiyama"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
 msgctxt "180_Hana"
 msgid "That felt out of this world! I never knew you were so good at cheering people on, Chief!"
 msgstr "¡Eso se sintió de otro mundo! ¡No sabía que fueras tan bueno animando a la gente, Jefe!"
-

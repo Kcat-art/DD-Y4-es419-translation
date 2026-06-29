@@ -17,27 +17,56 @@ msgstr ""
 "X-Crowdin-File-ID: 61662\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1108"
 msgid "Prison Guards"
 msgstr "Guardia de la Cárcel"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1112"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1116"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Prison Guards
+#. y4:msg_speaker_id=0
 msgctxt "88_Prison Guards"
 msgid "What are you guys doing!?"
 msgstr "¡¿Qué están haciendo?!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Prison Guards
+#. y4:msg_speaker_id=0
 msgctxt "112_Prison Guards"
 msgid "What are you guys doing!?"
 msgstr "¡¿Qué están haciendo?!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "136_Saejima"
 msgid "(Better get this done before the guards come.)"
 msgstr "(Mejor terminemos esto antes de que lleguen los guardias.)"
-

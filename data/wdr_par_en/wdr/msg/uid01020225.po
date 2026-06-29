@@ -17,66 +17,138 @@ msgstr ""
 "X-Crowdin-File-ID: 58740\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "11144"
 msgid "The Florist"
 msgstr "El florista"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "11148"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "11152"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "11156"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "11160"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "11164"
 msgid "M_big02_sitsofa_tlk_phone_lp"
 msgstr "M_big02_sitsofa_tlk_phone_lp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "11168"
 msgid "M_nml_stand_tlk_hold_sa"
 msgstr "M_nml_stand_tlk_hold_sa"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "11172"
 msgid "M_nml_stand_tlk_hold_ha"
 msgstr "M_nml_stand_tlk_hold_ha"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "11176"
 msgid "M_nml_sitsofa_tlk_kamae"
 msgstr "M_nml_sitsofa_tlk_kamae"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "11180"
 msgid "Sasai"
 msgstr "Sasai"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=The Florist
+#. y4:msg_speaker_id=0
 msgctxt "72_The Florist"
 msgid "...Had some time to take it all in?"
 msgstr "... ¿Pudiste procesar todo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "84_Saejima"
 msgid "Yeah. I owe ya one."
 msgstr "Sí. Te lo agradezco."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "96_Saejima"
 msgid "Thanks for lettin' me see him again."
 msgstr "Gracias. Por dejarme verlo de nuevo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=The Florist
+#. y4:msg_speaker_id=0
 msgctxt "108_The Florist"
 msgid "A deal's a deal. So, what will you do now?"
 msgstr "Entonces, ¿qué harás ahora?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "120_Saejima"
 msgid "There's one more thing I gotta find out."
 msgstr "Hay una cosa más que necesito averiguar..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=The Florist
+#. y4:msg_speaker_id=0
 msgctxt "132_The Florist"
 msgid "You mean Majima?"
 msgstr "¿Majima?"
@@ -105,6 +177,13 @@ msgid "I heard they got wind of you being sighted in Kamurocho.\\r\n"
 msgstr "La policía está por todas partes, te recomiendo\\r\n"
 "que te escondas hasta que todo se calme."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "192_Saejima"
 msgid "Shit..."
 msgstr "Mierda..."
@@ -114,6 +193,13 @@ msgid "You'd better lay low until things calm down.\\r\n"
 "You still have that hideout, don't you?"
 msgstr "¿Tienes un escondite, verdad?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "216_Saejima"
 msgid "Yep."
 msgstr "Sí."
@@ -139,6 +225,13 @@ msgid "I suggest using those manholes wherever you find them.\\r\n"
 "They'll help you get back to your hideout undetected."
 msgstr "También hay otras alcantarillas en Kamurocho a las que puedes acceder. Úsalas sabiamente para regresar a tu escondite."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "276_Saejima"
 msgid "Gotcha, thanks."
 msgstr "Muy bien, gracias."
@@ -148,6 +241,13 @@ msgid "That \"deathmatch\" back at the Underground Coliseum?\\r\n"
 "It was a test."
 msgstr "¿La \"pelea a muerte\" del coliseo? Fue solo una prueba."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "312_Saejima"
 msgid "What's that s'posed to mean?"
 msgstr "¿Una prueba?"
@@ -158,6 +258,13 @@ msgid "I wanted to see how you'd act under those circumstances.\\r\n"
 msgstr "Sí, quería ver como actuabas en una situación como esa.\\r\n"
 "No lo tomes a mal."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "336_Saejima"
 msgid "......"
 msgstr "......"
@@ -173,6 +280,13 @@ msgid "But for now, he's in the hospital. That was quite a beating\\r\n"
 "you gave him."
 msgstr "Se está recuperando de menuda paliza."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "372_Saejima"
 msgid "Least I know he's alright."
 msgstr "Por lo menos sé que está bien."
@@ -190,6 +304,13 @@ msgstr "Hace 25 años, después de retirarse, Sasai\\r\n"
 "comenzó a ser blanco del clan Ueno Seiwa.\\r\n"
 "Por lo tanto, tuvo que esconderse."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "408_Saejima"
 msgid "......"
 msgstr "......"
@@ -200,14 +321,35 @@ msgid "Several months later, someone brought him down here\\r\n"
 msgstr "Unos meses después, alguien trajo a Sasai,\\r\n"
 "medio muerto al Purgatorio."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=The Florist
+#. y4:msg_speaker_id=0
 msgctxt "432_The Florist"
 msgid "He's been living on the streets since then."
 msgstr "Y así, Sasai se convirtió en un vagabundo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "444_Saejima"
 msgid "What?"
 msgstr "¿Qué?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "456_Saejima"
 msgid "You're tellin' me Sasai-san's still alive?"
 msgstr "Entonces, ¿el jefe sigue vivo?"
@@ -218,14 +360,35 @@ msgid "Yes. It was all we could do to keep him from dying.\\r\n"
 msgstr "Sí... A pesar de casi perder la vida y ser un vagabundo.\\r\n"
 "Sigue en Kamurocho."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "480_Saejima"
 msgid "I see."
 msgstr "Ya veo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=The Florist
+#. y4:msg_speaker_id=0
 msgctxt "492_The Florist"
 msgid "That said..."
 msgstr "Pero..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "504_Saejima"
 msgid "What?"
 msgstr "¿Qué?"
@@ -234,30 +397,79 @@ msgctxt "516_The Florist"
 msgid "He's probably－how shall I say－not the man you remember."
 msgstr "Cómo decirlo... Él ya no es el Sasai que recuerdas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=19
+#. y4:msg_location=T1.P19
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "528_Saejima"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=20
+#. y4:msg_location=T1.P20
+#. y4:msg_speaker=The Florist
+#. y4:msg_speaker_id=0
 msgctxt "540_The Florist"
 msgid "I'll have him brought over right now."
 msgstr "... Lo traeré ahora mismo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=21
+#. y4:msg_location=T1.P21
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "552_Saejima"
 msgid "Here?"
 msgstr "¿Caminar, dices?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=22
+#. y4:msg_location=T1.P22
+#. y4:msg_speaker=The Florist
+#. y4:msg_speaker_id=0
 msgctxt "564_The Florist"
 msgid "Yeah, that's right. Bring him in."
 msgstr "Sí, así es. Tráiganlo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "636_Saejima"
 msgid " ......"
 msgstr " ......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=30
+#. y4:msg_location=T1.P30
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "660_Saejima"
 msgid "That... That's him?"
 msgstr "... ¿Je-Jefe?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=34
+#. y4:msg_location=T1.P34
+#. y4:msg_speaker=Sasai
+#. y4:msg_speaker_id=9
 msgctxt "708_Sasai"
 msgid "Ngh..."
 msgstr "Ngh..."
@@ -268,6 +480,13 @@ msgid "Do you know who brought Sasai down here, half dead,\\r\n"
 msgstr "Hace 25 años, fue Majima quien trajo\\r\n"
 "a Sasai, en estado crítico, a este lugar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=36
+#. y4:msg_location=T1.P36
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "732_Saejima"
 msgid "What!?"
 msgstr "¡¿Qué?!"
@@ -277,11 +496,24 @@ msgid "I can only assume Majima was trying to protect Sasai\\r\n"
 "from the Ueno Seiwa Clan after you were gone."
 msgstr "Mi teoría es que trató de protegerlo del clan Ueno Seiwa en tu lugar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=38
+#. y4:msg_location=T1.P38
+#. y4:msg_speaker=Sasai
+#. y4:msg_speaker_id=9
 msgctxt "756_Sasai"
 msgid "Ah... Ohhh..."
 msgstr "Ah... Ohhh..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=39
+#. y4:msg_location=T1.P39
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "768_Saejima"
 msgid "Sasai-san..."
 msgstr "Sasai-san..."
-

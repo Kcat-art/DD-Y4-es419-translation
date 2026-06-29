@@ -17,86 +17,181 @@ msgstr ""
 "X-Crowdin-File-ID: 62452\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "13412"
 msgid "Kido"
 msgstr "Kido"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "13416"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "13420"
 msgid "M_ykz_sitchr"
 msgstr "M_ykz_sitchr"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "13424"
 msgid "Talk_Udekumi_lp"
 msgstr "Talk_Udekumi_lp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "13428"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "13432"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "13436"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "13440"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "13444"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "13448"
 msgid "Talk_Udekumi_Yes"
 msgstr "Talk_Udekumi_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "13452"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "13456"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "13460"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "68_Kido"
 msgid "*panting*"
 msgstr "*jadeo*"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "80_Kido"
 msgid "Who even <Italic>are</Italic> you?"
 msgstr "Tú... ¿qué diablos <Italic>eres</Italic>?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "92_Saejima"
 msgid "Just a guy lookin' for answers."
 msgstr "Solo quiero información..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "104_Saejima"
 msgid "C'mon, kid, I need your help."
 msgstr "Por favor... necesito tu ayuda."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "116_Kido"
 msgid "Fine. Whatever. Just lemme catch my breath."
 msgstr "... Está bien. Solo... déjame descansar..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "176_Saejima"
 msgid "Damn... That's some heavy shit."
 msgstr "... Mierda. Así que eso fue lo que pasó."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "188_Kido"
 msgid "You're telling me. I mean, my own clan's after me now."
 msgstr "Y que lo digas. Por eso mi propia familia va detrás de mí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "200_Saejima"
 msgid "How 'bout Arai? No sign of him yet?"
 msgstr "¿Y qué hay de ese Arai? ¿Ninguna señal?"
@@ -108,6 +203,13 @@ msgstr "No... Buscarlo está resultando difícil, con los Shibata tras\\r\n"
 "de mí y sin ayuda de Akiyama-san, la situación no ha\\r\n"
 "avanzado."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "224_Kido"
 msgid "It's a goddamn nightmare, man."
 msgstr "Es una maldita pesadilla."
@@ -116,74 +218,193 @@ msgctxt "236_Saejima"
 msgid "Akiyama the moneylender－he okay?"
 msgstr "Y ese prestamista, Akiyama. ¿Está bien?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "248_Kido"
 msgid "Yeah, he'll be fine. The police have Sky Finance under 24-hour watch."
 msgstr "Ah, sí. Akiyama-san está a salvo.\\r\n"
 "Sky Finance está bajo custodia por la policía."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "260_Kido"
 msgid "Shibata can't risk messing with him for now."
 msgstr "Los Shibata no pueden correr el riesgo de meterse por ahí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "272_Saejima"
 msgid "The fuzz? Shit..."
 msgstr "La policía..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "284_Kido"
 msgid "You okay, man? You look like you're gonna puke."
 msgstr "¿Eh? ¿Pasa algo? Te ves mal."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "296_Saejima"
 msgid "I'm fine. Anyway, good thing the cops are watchin' him."
 msgstr "N-no, nada... Como sea, que bueno que la policía lo está custodiando."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "308_Kido"
 msgid "So wait, what the hell's this Sasai Family you keep talking about?"
 msgstr "Ah, por cierto, ¿qué es todo eso de la Familia Sasai de la que tanto hablas?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "320_Saejima"
 msgid "A family run by Hideki Sasai. We're a third-tier group that's part of the Tojo. 'Least, we were 25 years ago."
 msgstr "Una familia manejada por Hideki Sasai hace unos 25 años.\\r\n"
 "Éramos un grupo de tercera del clan Tojo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=23
+#. y4:msg_location=T0.P23
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "332_Kido"
 msgid "No shit? Just like Kanemura Enterprises."
 msgstr "¿Eh? Justo como Kanemura Enterprises."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "344_Saejima"
 msgid "Back then, the Sasai and Shibata families were rivals despite both bein' Tojo."
 msgstr "En ese entonces la Familia Sasai y la Familia Shibata eran rivales a pesar de ambas pertenecer al Tojo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=25
+#. y4:msg_location=T0.P25
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "356_Kido"
 msgid "Wait, our parent family!?"
 msgstr "¡¿Eh?! ¿Nuestra familia paternal?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "368_Saejima"
 msgid "Sasai-san and Shibata were both lookin' to climb the ladder."
 msgstr "En ese momento, mi jefe y Shibata estaban compitiendo\\r\n"
 "por ascender en la jerarquía del clan Tojo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=27
+#. y4:msg_location=T0.P27
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "380_Kido"
 msgid "A good old power struggle between rival families, huh?"
 msgstr "¿Una lucha interna por el poder dentro de la misma organización?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=28
+#. y4:msg_location=T0.P28
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "392_Saejima"
 msgid "I was ready to do whatever it took. Anything to get my patriarch a top spot in the clan."
 msgstr "Sí, exacto... Estaba desesperado.\\r\n"
 "Quería que mi jefe ascendiera en la jerarquía del clan."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=29
+#. y4:msg_location=T0.P29
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "404_Saejima"
 msgid "So I agreed to the hit."
 msgstr "Fue por ese sentimiento que hice el ataque."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=30
+#. y4:msg_location=T0.P30
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "416_Kido"
 msgid "Hit?"
 msgstr "¿Ataque?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=31
+#. y4:msg_location=T0.P31
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "428_Saejima"
 msgid "Murder. I took out Yoshiharu Ueno and the other Ueno Seiwa brass who were jockeyin' with the Tojo."
 msgstr "Sí... asesinato. Ataqué y maté al Yoshiharu Ueno y a los miembros del Ueno Seiwa que estaban con el Tojo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=32
+#. y4:msg_location=T0.P32
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "440_Saejima"
 msgid "Gunned 'em down in a ramen joint."
 msgstr "Fue en una tienda de ramen en Tokio."
@@ -192,83 +413,216 @@ msgctxt "452_Kido"
 msgid "The Ueno Seiwa－ Wait, you mean <Italic>that</Italic> hit!?"
 msgstr "El Ueno Seiwa－Espera, ¡¿fuiste el de <Italic>ese</Italic> ataque?!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=34
+#. y4:msg_location=T0.P34
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "464_Saejima"
 msgid "Ya heard of it? Yeah, that was me."
 msgstr "¿Lo sabías...? Sí, yo fui el responsable.\\r\n"
 "Fue hace 25 años."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=35
+#. y4:msg_location=T0.P35
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "476_Kido"
 msgid "Hold on just a second, pops."
 msgstr "¡Espera un momento, viejo!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=36
+#. y4:msg_location=T0.P36
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "488_Kido"
 msgid "That's the shooting where one dude took out like 18 people, isn't it? You're a living legend!"
 msgstr "Pero ese incidente, ¡se dice que una sola persona\\r\n"
 "mató a dieciocho personas! ¡Eres una leyenda!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=37
+#. y4:msg_location=T0.P37
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "500_Saejima"
 msgid "Ain't nothin' legendary 'bout pointing a gun and pulling the trigger."
 msgstr "No hay nada de legendario en apuntar un arma y jalar el gatillo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=38
+#. y4:msg_location=T0.P38
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "512_Saejima"
 msgid "All I cared about was makin' sure my patriarch rose through the ranks. Even if I hung for it."
 msgstr "Todo lo que me importaba era que mi patriarca escalara rangos. Incluso sí moría por ello."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=39
+#. y4:msg_location=T0.P39
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "524_Saejima"
 msgid "Surprisin' thing was, my time never came. 'Least not yet."
 msgstr "Y para sorpresa, mi hora nunca llegó. Por lo menos aún no."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=40
+#. y4:msg_location=T0.P40
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "536_Kido"
 msgid "Wait, if you got... If you're a... That means you..."
 msgstr "Espera, si tienes... Si eres un... Eso significa que tú..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=41
+#. y4:msg_location=T0.P41
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "548_Saejima"
 msgid "Busted out? Yup, jus' the other day."
 msgstr "¿Fugitivo? Sí, desde el otro día."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=43
+#. y4:msg_location=T0.P43
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "572_Kido"
 msgid "What the <Italic>fuck</Italic>!?"
 msgstr "¡No puede ser!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=44
+#. y4:msg_location=T0.P44
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "584_Saejima"
 msgid "Pipe down, kid. Relax. I just wanna know the truth. See it with my own two eyes before I bite the dust."
 msgstr "Lo siento por sorprenderte... Solo quiero saber la verdad, comprobarla con mis propios ojos, antes de que muerda el polvo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=45
+#. y4:msg_location=T0.P45
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "596_Kido"
 msgid "The truth about what?"
 msgstr "¿La verdad sobre qué?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=46
+#. y4:msg_location=T0.P46
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "608_Saejima"
 msgid "Whether my boss really just up and vanished."
 msgstr "Si el jefe Sasai realmente desapareció de esta ciudad... y también..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=47
+#. y4:msg_location=T0.P47
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "620_Kido"
 msgid "Huh..."
 msgstr "Huh..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=48
+#. y4:msg_location=T0.P48
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "632_Saejima"
 msgid "And whether my bro Majima really did stab me in the back. So whaddya say? Think ya can help?"
 msgstr "Y si mi hermano Majima realmente me traicionó...\\r\n"
 "Entonces, ¿qué dices? ¿Podrías ayudar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=49
+#. y4:msg_location=T0.P49
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "644_Kido"
 msgid "Whoa, whoa, whoa. Hold the phone, man!"
 msgstr "Oye, oye, oye. ¡Necesito procesar todo primero!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=50
+#. y4:msg_location=T0.P50
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "656_Saejima"
 msgid "...What?"
 msgstr "...¿Qué?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=51
+#. y4:msg_location=T0.P51
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "668_Kido"
 msgid "This shit's way out of my freaking league!"
 msgstr "¡Oye, espera un minuto, por favor!\\r\n"
 "¡Estás hablando demasiado!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=52
+#. y4:msg_location=T0.P52
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "680_Kido"
 msgid "I mean, you're the legendary Taiga Saejima! There's no way I can help you!"
 msgstr "¡Incluso si eres el verdadero Saejima-san,\\r\n"
 "no puedo ayudarte!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=53
+#. y4:msg_location=T0.P53
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "692_Saejima"
 msgid "Why not?"
 msgstr "¿Por qué no?"
@@ -278,82 +632,214 @@ msgid "C'mon, man. I'm a nobody－practically still a street punk. Hell, I've go
 msgstr "Porque soy un don nadie de una pequeña organización.\\r\n"
 "Además, ahora me persigue mi propia familia."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=55
+#. y4:msg_location=T0.P55
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "716_Kido"
 msgid "And you're asking <Italic>me</Italic> to help <Italic>you</Italic>? That's crazy talk!"
 msgstr "¿Y esperas que un tipo como <Italic>yo</Italic> te ayude?\\r\n"
 "¡Tienes que estar loco!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=56
+#. y4:msg_location=T0.P56
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "728_Saejima"
 msgid "I ain't expectin' much."
 msgstr "No espero mucho de ti."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=57
+#. y4:msg_location=T0.P57
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "740_Kido"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=58
+#. y4:msg_location=T0.P58
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "752_Saejima"
 msgid "Just need an introduction."
 msgstr "Solo necesito que me presentes a alguien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=59
+#. y4:msg_location=T0.P59
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "764_Kido"
 msgid "To who?"
 msgstr "¿A alguien?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=60
+#. y4:msg_location=T0.P60
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "776_Saejima"
 msgid "Someone who knows what went down in Kamurocho back in '85. Someone who knows the truth."
 msgstr "Sí. Alguien que conozca bien el Kamurocho de hace 25 años.\\r\n"
 "Y preferiblemente, un hombre que tenga información precisa."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=61
+#. y4:msg_location=T0.P61
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "788_Kido"
 msgid "Right. You said you were looking for the real story..."
 msgstr "Información precisa..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=62
+#. y4:msg_location=T0.P62
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "800_Saejima"
 msgid "Mhm. Any ideas?"
 msgstr "Sí. ¿Conoces a alguien?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=63
+#. y4:msg_location=T0.P63
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "812_Kido"
 msgid "...Aha!"
 msgstr "... ¡Ajá!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=64
+#. y4:msg_location=T0.P64
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "824_Saejima"
 msgid "What?"
 msgstr "¿Qué?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=65
+#. y4:msg_location=T0.P65
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "836_Kido"
 msgid "There's a guy who can help. He'll definitely have the info you're looking for!"
 msgstr "¡Hay alguien! ¡Hay alguien, sí!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=66
+#. y4:msg_location=T0.P66
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "848_Saejima"
 msgid "Who?"
 msgstr "¿Quién?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=67
+#. y4:msg_location=T0.P67
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "860_Kido"
 msgid "An information broker. Best of the best."
 msgstr "... Un informante legendario."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=68
+#. y4:msg_location=T0.P68
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "872_Saejima"
 msgid "An informant, huh?"
 msgstr "¿Un informante?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=69
+#. y4:msg_location=T0.P69
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "884_Kido"
 msgid "Let's get out of here before the cops come by and start asking questions."
 msgstr "Bueno, es hora de irnos. Si seguimos hablando aquí,\\r\n"
 "es probable que seamos interrogados por la policía..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=70
+#. y4:msg_location=T0.P70
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "896_Kido"
 msgid "And who knows when those Shibata assholes will show up again."
 msgstr "Y también podríamos ser encontrados por los matones de Shibata."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=71
+#. y4:msg_location=T0.P71
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "908_Kido"
 msgid "Follow me. There's a place I go to when I need to lay low."
 msgstr "Te llevaré a mi escondite. Vamos allá."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=72
+#. y4:msg_location=T0.P72
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "920_Saejima"
 msgid "Ya got a hideout?"
 msgstr "¿Tienes un escondite?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=73
+#. y4:msg_location=T0.P73
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=0
 msgctxt "932_Kido"
 msgid "Yeah, come on."
 msgstr "Sí. Sígueme."
-

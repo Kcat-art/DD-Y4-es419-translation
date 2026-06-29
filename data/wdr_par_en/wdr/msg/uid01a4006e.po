@@ -23,35 +23,71 @@ msgid "Anyway, I'd better head back to the office and get that\\r\n"
 msgstr "Bueno, lo más conveniente será que vuelva a la oficina y recoja\\r\n"
 "el dinero que le pedí a Hana-chan."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2280"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2284"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2288"
 msgid "Nishihama"
 msgstr "Nishihama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2292"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2296"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "92_Akiyama"
 msgid "Sky Finance. Akiyama speaking."
 msgstr "Habla Akiyama de Sky Finance."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Nishihama
+#. y4:msg_speaker_id=2
 msgctxt "104_Nishihama"
 msgid "Akiyama-san? I got a call from the kidnapper."
 msgstr "Akiyama-san, ¿es usted? Acabo de recibir una llamada de los\n"
 "secuestradores..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "116_Akiyama"
 msgid "And... Where's he want to make the exchange?"
 msgstr "Mmm..., ¿dónde le pidieron entregar el dinero? "
@@ -62,6 +98,13 @@ msgid "Park Boulevard... There's a taxi stand by the Kamurocho\\r\n"
 msgstr "En el bulevar del parque, por Kamurocho Hills... Me pidieron\n"
 "ir a la parada de taxis que está al lado."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "140_Akiyama"
 msgid "A taxi stand?"
 msgstr "¿Una parada de taxis?"
@@ -72,6 +115,13 @@ msgid "Yeah, he said to put the money in a cab. Then he'll tell me\\r\n"
 msgstr "Sí, me indicó que pusiera el dinero en un taxi, y que luego\n"
 "me daría la ubicación de mi hija."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "164_Akiyama"
 msgid "I see. Okay, then. Let's meet in front of the Millennium Tower?"
 msgstr "Perfecto. Entonces, ¿nos encontramos en la Torre Millennium?"
@@ -82,6 +132,13 @@ msgid "I'll bring the money right over. Come to the lockers on\\r\n"
 msgstr "Traeré el dinero enseguida. Por favor, dirigete a los casilleros\\r\n"
 "del bulevar Taihei."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Nishihama
+#. y4:msg_speaker_id=2
 msgctxt "188_Nishihama"
 msgid "Sure... I'll see you there."
 msgstr "Estaré allí... ¡Muchas gracias!"
@@ -91,4 +148,3 @@ msgid "A taxi stand, huh? Wonder if the kidnapper's muzzled the\\r\n"
 "guy..."
 msgstr "Así que una parada de taxis... ¿El secuestrador no le habrá\\r\n"
 "ordenado guardar silencio?"
-

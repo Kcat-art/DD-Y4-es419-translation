@@ -17,23 +17,47 @@ msgstr ""
 "X-Crowdin-File-ID: 62804\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
 msgctxt "92"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "540"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "544"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "56_Akiyama"
 msgid "(Man... There sure are some strange people out there...)"
 msgstr "(Uff... Hay cada personaje por ahí...)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "68_Akiyama"
 msgid "(I guess I learned something today.)"
 msgstr "(Bueno, parece que he aprendido algo hoy)."
-

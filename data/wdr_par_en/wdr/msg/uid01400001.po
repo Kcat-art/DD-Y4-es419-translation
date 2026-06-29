@@ -17,91 +17,240 @@ msgstr ""
 "X-Crowdin-File-ID: 59542\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2872"
 msgid "Dealer"
 msgstr "Crupier"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "376_Dealer"
 msgid "Snake Eyes, even!"
 msgstr "Ojos de Serpiente, ¡par!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "388_Dealer"
 msgid "1-2, odd!"
 msgstr "1-2, ¡impar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "400_Dealer"
 msgid "3-1, even!"
 msgstr "3-1, ¡par!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "412_Dealer"
 msgid "4-1, odd!"
 msgstr "4-1, ¡impar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "424_Dealer"
 msgid "5-1, even!"
 msgstr "5-1, ¡par!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "436_Dealer"
 msgid "1-6, odd!"
 msgstr "1-6, ¡impar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "448_Dealer"
 msgid "2-2, even!"
 msgstr "2-2, ¡par!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "460_Dealer"
 msgid "3-2, odd!"
 msgstr "3-2, ¡impar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "472_Dealer"
 msgid "4-2, even!"
 msgstr "4-2, ¡par!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "484_Dealer"
 msgid "5-2, odd!"
 msgstr "5-2, ¡impar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "496_Dealer"
 msgid "2-6, even!"
 msgstr "2-6, ¡par!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "508_Dealer"
 msgid "3-3, even!"
 msgstr "3-3, ¡par!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=12
+#. y4:msg_phrase=0
+#. y4:msg_location=T12.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "520_Dealer"
 msgid "4-3, odd!"
 msgstr "4-3, ¡impar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=0
+#. y4:msg_location=T13.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "532_Dealer"
 msgid "5-3, even!"
 msgstr "5-3, ¡par!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=14
+#. y4:msg_phrase=0
+#. y4:msg_location=T14.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "544_Dealer"
 msgid "3-6, odd!"
 msgstr "3-6, ¡impar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "556_Dealer"
 msgid "4-4, even!"
 msgstr "4-4, ¡par!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=16
+#. y4:msg_phrase=0
+#. y4:msg_location=T16.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "568_Dealer"
 msgid "5-4, odd!"
 msgstr "5-4, ¡impar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=17
+#. y4:msg_phrase=0
+#. y4:msg_location=T17.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "580_Dealer"
 msgid "4-6, even!"
 msgstr "4-6, ¡par!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "592_Dealer"
 msgid "5-5, even!"
 msgstr "5-5, ¡par!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=19
+#. y4:msg_phrase=0
+#. y4:msg_location=T19.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "604_Dealer"
 msgid "5-6, odd!"
 msgstr "5-6, ¡impar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=20
+#. y4:msg_phrase=0
+#. y4:msg_location=T20.P0
+#. y4:msg_speaker=Dealer
+#. y4:msg_speaker_id=0
 msgctxt "616_Dealer"
 msgid "6-6, even!"
 msgstr "6-6, ¡par!"
-

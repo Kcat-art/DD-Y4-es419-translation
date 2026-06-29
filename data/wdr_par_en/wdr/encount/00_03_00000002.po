@@ -17,47 +17,101 @@ msgstr ""
 "X-Crowdin-File-ID: 57762\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1548"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1552"
 msgid "P_stand_sync_btl_neck_st"
 msgstr "P_stand_sync_btl_neck_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1556"
 msgid "M_ykz_stand_sync_btl_neck_st"
 msgstr "M_ykz_stand_sync_btl_neck_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1560"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1564"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "88_Man"
 msgid "Okay, stop! We're kinda busy down here. Can you do me a favor and turn around?"
 msgstr "¡Está bien, para! Estamos un poco ocupados aquí abajo. ¿Puedes hacerme el favor y darte la vuelta?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "100_Man"
 msgid "What's with that look? You saying you don't want to? Maybe you will once I beat you to a pulp!"
 msgstr "¿A qué viene esa mirada? ¿Estás diciendo que no quieres? ¡Quizás cambies de opinión una vez que te dé una paliza!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "124_Man"
 msgid "We didn't know what we were getting into..."
 msgstr "No sabíamos en qué nos estábamos metiendo..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "136_Man"
 msgid "Please, pass right on through! You can even have this. Please, just don't hit us any more..."
 msgstr "Por favor, pasa por aquí. Incluso puedes llevarte esto. Por favor, solo no nos pegues más..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
 msgctxt "148_Man"
 msgid "You got a pleading %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "184_Man"
 msgid "Huh? What were we busy with? Well... Our aniki was just picking up chicks down this way."
 msgstr "¿Eh? ¿En qué estábamos ocupados? Bueno... Nuestro aniki solo estaba ligando por aquí."
-

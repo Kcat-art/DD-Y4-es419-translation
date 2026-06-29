@@ -10,203 +10,428 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
 msgctxt "240"
 msgid "You gained 100 EXP."
 msgstr "Has conseguido 100 EXP."
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "5388"
 msgid "Hirauchi"
 msgstr "Hirauchi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "5392"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "5396"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "5400"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "5404"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "5408"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "5412"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "5416"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "5420"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "5424"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "5428"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "5432"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "5436"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "120_Hirauchi"
 msgid "The audience has left."
 msgstr "El público se ha ido."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "132_Saejima"
 msgid "Guess I'm the one who caused a disturbance this time. Sorry 'bout that."
 msgstr "Supongo que soy yo el que ha causado problemas ahora. Perdón."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "144_Hirauchi"
 msgid "No, it was our fault for so readily relying on an unpaid and undocumented intern."
 msgstr "No, fue culpa nuestra por confiar tan fácilmente en un \\r becario no remunerado y sin documentos."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "156_Hirauchi"
 msgid "Numai-sensei and I will reflect on how to recover in the polls as we move forward with our campaign."
 msgstr "El Señor Numai y yo reflexionaremos sobre cómo recuperarnos \\r en las encuestas a medida que seguimos con la campaña."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "168_Saejima"
 msgid "Alright..."
 msgstr "De acuerdo..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "180_Hirauchi"
 msgid "Thank you for your efforts."
 msgstr "Gracias por su esfuerzo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "252_Hirauchi"
 msgid "(Be careful, now! Didn't I tell you to only target the troublemakers?)"
 msgstr "(¡Cuidado! ¿No te dije que solo fueras a por los \\r alborotadores)"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "264_Saejima"
 msgid "Yeah. Sorry."
 msgstr "Sí. Lo siento."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "276_Hirauchi"
 msgid "A lot of voters were really put off, which is already hurting our approval rate. If this gets any uglier, we're done for."
 msgstr "Muchos votantes se vieron desanimados, lo cual ya está \\r dañando nuestra popularidad. Si esto va a peor, se acabó."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "288_Hirauchi"
 msgid "Before engaging a suspect, approach carefully and listen to what they're saying first."
 msgstr "Antes de enfrentarte a un sospechoso, primero acércate con \\r cuidado y escucha lo que dice."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "300_Saejima"
 msgid "Gotcha. I'll be more careful next time."
 msgstr "Entiendo. Tendré más cuidado la próxima vez."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "312_Hirauchi"
 msgid "I should hope so."
 msgstr "Eso espero."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "336_Hirauchi"
 msgid "(Watch who you're throwing out! You have to be careful, you know!)"
 msgstr "(¡Ojo con quién echas! ¡Tienes que tener más cuidado, ¿sabes?!)"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "348_Saejima"
 msgid "Yeah. Sorry."
 msgstr "Sí. Lo siento."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "360_Hirauchi"
 msgid "It's difficult to ascertain trouble from a distance."
 msgstr "Es difícil discernir un problema desde lejos."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "372_Hirauchi"
 msgid "First, approach a potential troublemaker to find out what they're saying before you call them out."
 msgstr "Primero, acércate a un probable alborotador para ver qué \\r está diciendo antes de llamarle la atención."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "384_Saejima"
 msgid "Gotcha. I'll be real careful."
 msgstr "De acuerdo. Tendré mucho cuidado."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "396_Hirauchi"
 msgid "All right, you can go back to your patrol now."
 msgstr "Muy bien, ya puede volver a patrullar."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "432_Saejima"
 msgid "Quite a crowd."
 msgstr "Cuánta gente."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=1
+#. y4:msg_location=T4.P1
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "444_Hirauchi"
 msgid "Indeed. There might already be a handful of rabble-rousers in there."
 msgstr "Concuerdo. Puede que ya haya un puñado de provocadores ahí dentro."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=2
+#. y4:msg_location=T4.P2
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "456_Hirauchi"
 msgid "I hate to ask, but could you please start patrolling the area?"
 msgstr "Odio pedírtelo, pero ¿podrías empezar a patrullar la zona?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=3
+#. y4:msg_location=T4.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "468_Saejima"
 msgid "Sure thing. And if I find somebody tryin' to interrupt the speech, I toss 'em out, yeah?"
 msgstr "Por supuesto. Y si encuentro a alguien tratando de interrumpir el discurso, lo saco, ¿sí?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=4
+#. y4:msg_location=T4.P4
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "480_Hirauchi"
 msgid "Yes, but just because someone's speaking up doesn't always mean they're working against us."
 msgstr "Sí, pero que alguien hable no siempre significa que trabaje en contra de nosotros."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=5
+#. y4:msg_location=T4.P5
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "492_Hirauchi"
 msgid "So please observe carefully before throwing them out."
 msgstr "Por lo tanto, observe atentamente antes de tirarlos."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=6
+#. y4:msg_location=T4.P6
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "504_Saejima"
 msgid "Don't jump the gun, ya mean. Alright."
 msgstr "Nada de precipitarse. Entendido"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=7
+#. y4:msg_location=T4.P7
+#. y4:msg_speaker=Hirauchi
+#. y4:msg_speaker_id=0
 msgctxt "516_Hirauchi"
 msgid "Right. Thank you!"
 msgstr "Exacto. ¡Gracias!"
-

@@ -10,242 +10,492 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=62
+#. y4:msg_location=T0.P62
 msgctxt "1868"
 msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
 msgstr "Has obtenido el <Color:8>collar de Haruka<Color:Default>."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=67
+#. y4:msg_location=T0.P67
 msgctxt "1928"
 msgid "Haruka will now occasionally predict the outcome of a round when you are playing cho-han."
 msgstr "Haruka ahora predecirá ocasionalmente el resultado de una ronda cuando estés jugando cho-han."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=71
+#. y4:msg_location=T0.P71
 msgctxt "1976"
 msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
 msgstr "Has obtenido el <Color:8>almuerzo de Haruka<Color:Default>."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=76
+#. y4:msg_location=T0.P76
 msgctxt "2036"
 msgid "You got <Color:8>Haruka's First-aid Kit<Color:Default>."
 msgstr "Has obtenido el <Color:8>botiquín de Haruka<Color:Default>."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=81
+#. y4:msg_location=T0.P81
 msgctxt "2096"
 msgid "You got a <Color:8>Red Jewel<Color:Default>."
 msgstr "Obtuviste una <Color:8>Joya Roja<Color:Default>."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=86
+#. y4:msg_location=T0.P86
 msgctxt "2156"
 msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
 msgstr "Has obtenido el <Color:8>amuleto de Haruka<Color:Default>."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=91
+#. y4:msg_location=T0.P91
 msgctxt "2216"
 msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
 msgstr "Has obtenido el <Color:8>chocolate de Haruka<Color:Default>."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=96
+#. y4:msg_location=T0.P96
 msgctxt "2276"
 msgid "You got <Color:8>Haruka's Candy<Color:Default>."
 msgstr "Has obtenido el <Color:8>dulce de Haruka<Color:Default>."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "2720"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3080"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3440"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3800"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4160"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4520"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4880"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5240"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5600"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5960"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6524"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "7736"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8348"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8984"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9920"
 msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "103736"
 msgid "Employee"
 msgstr "Empleado"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "103740"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "103744"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "103748"
 msgid "Owner"
 msgstr "Propietario"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "103752"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "103756"
 msgid "Haruka"
 msgstr "Haruka"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "103760"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "103764"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "103768"
 msgid "HAL_sitcnt_tlk_eat_sushi"
 msgstr "HAL_sitcnt_tlk_eat_sushi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "103772"
 msgid "Idle"
 msgstr "Idle"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "103776"
 msgid "HAL_sitcnt_tlk_gochisousama"
 msgstr "HAL_sitcnt_tlk_gochisousama"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "103780"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "103784"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "103788"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=14
 msgctxt "103792"
 msgid "P_sitcnt_tlk_kamae"
 msgstr "P_sitcnt_tlk_kamae"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=15
 msgctxt "103796"
 msgid "Player"
 msgstr "Player"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=16
 msgctxt "103800"
 msgid "Noa"
 msgstr "Noa"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=17
 msgctxt "103804"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=18
 msgctxt "103808"
 msgid "Erena"
 msgstr "Erena"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=19
 msgctxt "103812"
 msgid "Chihiro"
 msgstr "Chihiro"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=20
 msgctxt "103816"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=21
 msgctxt "103820"
 msgid "Maya"
 msgstr "Maya"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=22
 msgctxt "103824"
 msgid "Rio"
 msgstr "Rio"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=23
 msgctxt "103828"
 msgid "Himeka"
 msgstr "Himeka"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=24
 msgctxt "103832"
 msgid "Shizuka"
 msgstr "Shizuka"
@@ -266,52 +516,114 @@ msgid "峰村七海：源氏名"
 msgstr "峰村七海：源氏名"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=28
 msgctxt "103848"
 msgid "P_sitcnt_tlk_no"
 msgstr "P_sitcnt_tlk_no"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=29
 msgctxt "103852"
 msgid "P_stand"
 msgstr "P_stand"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=30
 msgctxt "103856"
 msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=31
 msgctxt "103860"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "1124_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "1136_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
 msgctxt "1208_Owner"
 msgid "Welcome, welcome! What can I get you today?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=5
 msgctxt "1232_Haruka"
 msgid "Uncle Kaz, I'm kinda hungry. Will you order me some <Color:8>Tamago<Color:Default>? Please?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=7
 msgctxt "1244_Kiryu"
 msgid "(Haruka wants me to get her some <Color:8>Tamago<Color:Default>...)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=5
 msgctxt "1268_Haruka"
 msgid "Thanks, Uncle Kaz! I'm gonna dig right in!"
 msgstr ""
@@ -322,46 +634,117 @@ msgid "Mmm. ♥ That was good! Thanks for treating me, Uncle Kaz!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=7
 msgctxt "1352_Kiryu"
 msgid "(Haruka sure is happy...)"
 msgstr "(Haruka parece feliz...)."
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=7
 msgctxt "1364_Kiryu"
 msgid "Check, please."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
 msgctxt "1376_Owner"
 msgid "Yes, sir! Thank you kindly!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=26
+#. y4:msg_location=T11.P26
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "1424_Employee"
 msgid "Sorry, but something's come up. I'll have to step out for a while."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=27
+#. y4:msg_location=T11.P27
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "1436_Owner"
 msgid "Oh, yeah? Well, be sure to come back again soon, all right?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=27
+#. y4:msg_location=T0.P27
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=5
 msgctxt "1448_Haruka"
 msgid "Aww, I wanted some <Color:8>Tamago<Color:Default>..."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=31
+#. y4:msg_location=T0.P31
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=5
 msgctxt "1496_Haruka"
 msgid "Uncle Kaz, I'm super duper hungry. Can I have some <Color:8>Amaebi<Color:Default>? Please?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=32
+#. y4:msg_location=T0.P32
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=7
 msgctxt "1508_Kiryu"
 msgid "(Haruka wants me to get her some <Color:8>Amaebi<Color:Default>...)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=34
+#. y4:msg_location=T0.P34
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=5
 msgctxt "1532_Haruka"
 msgid "Thanks, Uncle Kaz! I can't wait to dig in!"
 msgstr ""
@@ -372,661 +755,2053 @@ msgid "Mmm. ♥ That was super good! Thanks for treating me, Uncle Kaz!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=7
 msgctxt "1616_Kiryu"
 msgid "(Haruka sure is happy...)"
 msgstr "(Haruka parece feliz...)."
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=7
 msgctxt "1628_Kiryu"
 msgid "Check, please."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
 msgctxt "1640_Owner"
 msgid "Yes, sir! Thank you kindly!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=26
+#. y4:msg_location=T11.P26
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "1688_Employee"
 msgid "Sorry, but something's come up. I'll have to step out for a while."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=27
+#. y4:msg_location=T11.P27
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "1700_Owner"
 msgid "Oh, yeah? Well, be sure to come back again soon, all right?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=49
+#. y4:msg_location=T0.P49
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=5
 msgctxt "1712_Haruka"
 msgid "I was so hungry, though... Goodbye, <Color:8>Amaebi<Color:Default>..."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=56
+#. y4:msg_location=T0.P56
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "1796_Employee"
 msgid "Thank you very much. Your bill comes to %s."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=57
+#. y4:msg_location=T0.P57
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "1808_Employee"
 msgid "Please come again soon."
 msgstr "Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=61
+#. y4:msg_location=T0.P61
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=5
 msgctxt "1856_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=66
+#. y4:msg_location=T0.P66
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=5
 msgctxt "1916_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I wanna come to play cho-han with you next time, okay?"
 msgstr "¡Muchas gracias, tío Kaz! Quiero ir contigo a jugar al cho-han la próxima vez, ¿vale?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=61
+#. y4:msg_location=T0.P61
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=5
 msgctxt "1964_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=61
+#. y4:msg_location=T0.P61
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=5
 msgctxt "2024_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=61
+#. y4:msg_location=T0.P61
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=5
 msgctxt "2084_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=61
+#. y4:msg_location=T0.P61
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=5
 msgctxt "2144_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=61
+#. y4:msg_location=T0.P61
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=5
 msgctxt "2204_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=61
+#. y4:msg_location=T0.P61
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=5
 msgctxt "2264_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "2372_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "2396_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "2420_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "2432_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "2444_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "2540_Owner"
 msgid "Welcome, welcome! What can I get started for ya?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "2552_Player"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Noa
+#. y4:msg_speaker_id=16
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "2612_Noa"
 msgid "Wait, you're going to make me choose? You have to choose, Akiyama-san!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=19
+#. y4:msg_location=T1.P19
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=17
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "2624_Akiyama"
 msgid "Okay..."
 msgstr "Bueno..."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "2672_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "2696_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "2756_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "2780_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "2792_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "2804_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "2900_Owner"
 msgid "Welcome, welcome! What can I get started for ya?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "2912_Player"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=18
+#. y4:msg_location=T2.P18
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=18
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "2972_Erena"
 msgid "C'mon, pick something already! I'm tired of waiting!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=19
+#. y4:msg_location=T2.P19
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=17
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "2984_Akiyama"
 msgid "Right, sorry about that."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3032_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3056_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "3116_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "3140_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "3152_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3164_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3260_Owner"
 msgid "Welcome, welcome! What can I get started for ya?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3272_Player"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=3
+#. y4:msg_phrase=18
+#. y4:msg_location=T3.P18
+#. y4:msg_speaker=Chihiro
+#. y4:msg_speaker_id=19
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3332_Chihiro"
 msgid "Huh? I have to choose? Oh gosh, I can't, I won't be able to! I want you to choose for me, Tanimura-san!"
 msgstr "¿Eh? ¿Tengo que elegir? ¡Ay, dios, no quiero, no puedo! ¡Quiero que elija por mí, Tanimura-san!"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=3
+#. y4:msg_phrase=19
+#. y4:msg_location=T3.P19
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=20
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3344_Tanimura"
 msgid "Oh, sorry about that..."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3392_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3416_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "3476_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "3500_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "3512_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3524_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3620_Owner"
 msgid "Welcome, welcome! What can I get started for ya?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3632_Player"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=4
+#. y4:msg_phrase=18
+#. y4:msg_location=T4.P18
+#. y4:msg_speaker=Maya
+#. y4:msg_speaker_id=21
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3692_Maya"
 msgid "Wait, you're gonna, like, make me choose? You have to choose, Kiryu-san!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=4
+#. y4:msg_phrase=19
+#. y4:msg_location=T4.P19
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3704_Player"
 msgid "Oh, right..."
 msgstr "Oh, cierto..."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3752_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3776_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "3836_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "3860_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "3872_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3884_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3980_Owner"
 msgid "Welcome, welcome! What can I get started for ya?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "3992_Player"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=4
+#. y4:msg_section_label=Conversación 4
+#. y4:msg_talk=5
+#. y4:msg_phrase=18
+#. y4:msg_location=T5.P18
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=22
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4052_Rio"
 msgid "Huh? I have to choose? I want you to choose for me, Akiyama-san."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=4
+#. y4:msg_section_label=Conversación 4
+#. y4:msg_talk=5
+#. y4:msg_phrase=19
+#. y4:msg_location=T5.P19
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4064_Player"
 msgid "Oh, okay..."
 msgstr "Oh, vale..."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4112_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4136_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "4196_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "4220_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "4232_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4244_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4340_Owner"
 msgid "Welcome, welcome! What can I get started for ya?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4352_Player"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=5
+#. y4:msg_section_label=Conversación 5
+#. y4:msg_talk=6
+#. y4:msg_phrase=18
+#. y4:msg_location=T6.P18
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=23
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4412_Himeka"
 msgid "Is there something wrong? Please pick something already."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=4
+#. y4:msg_phrase=19
+#. y4:msg_location=T4.P19
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4424_Player"
 msgid "Oh, right..."
 msgstr "Oh, cierto..."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4472_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4496_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "4556_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "4580_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "4592_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4604_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4700_Owner"
 msgid "Welcome, welcome! What can I get started for ya?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4712_Player"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=6
+#. y4:msg_section_label=Conversación 6
+#. y4:msg_talk=7
+#. y4:msg_phrase=18
+#. y4:msg_location=T7.P18
+#. y4:msg_speaker=Shizuka
+#. y4:msg_speaker_id=24
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4772_Shizuka"
 msgid "Um, what's wrong? Are you ready to order?"
 msgstr "Um, ¿qué pasá? ¿Está listo para ordenar?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=6
+#. y4:msg_section_label=Conversación 6
+#. y4:msg_talk=7
+#. y4:msg_phrase=19
+#. y4:msg_location=T7.P19
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4784_Player"
 msgid "Yeah, just give me a second."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4832_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4856_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "4916_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "4940_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "4952_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "4964_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5060_Owner"
 msgid "Welcome, welcome! What can I get started for ya?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5072_Player"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=7
+#. y4:msg_section_label=Conversación 7
+#. y4:msg_talk=8
+#. y4:msg_phrase=18
+#. y4:msg_location=T8.P18
+#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=25
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5132_松岡里緒奈：源氏名"
 msgid "Huh? You really okay with me ordering? Your wallet is gonna regret it when we go to get the bill!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=7
+#. y4:msg_section_label=Conversación 7
+#. y4:msg_talk=8
+#. y4:msg_phrase=19
+#. y4:msg_location=T8.P19
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5144_Player"
 msgid "Hold on, let me order."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5192_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5216_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "5276_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "5300_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "5312_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5324_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5420_Owner"
 msgid "Welcome, welcome! What can I get started for ya?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5432_Player"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=8
+#. y4:msg_section_label=Conversación 8
+#. y4:msg_talk=9
+#. y4:msg_phrase=18
+#. y4:msg_location=T9.P18
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=26
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5492_望月京子：源氏名"
 msgid "C'mon, you're a man, aren't you? Man up and decide already!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=8
+#. y4:msg_section_label=Conversación 8
+#. y4:msg_talk=9
+#. y4:msg_phrase=19
+#. y4:msg_location=T9.P19
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5504_Player"
 msgid "Yeah, just give me a second..."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5552_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5576_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "5636_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "5660_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "5672_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5684_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5780_Owner"
 msgid "Welcome, welcome! What can I get started for ya?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5792_Player"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=9
+#. y4:msg_section_label=Conversación 9
+#. y4:msg_talk=10
+#. y4:msg_phrase=18
+#. y4:msg_location=T10.P18
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5852_峰村七海：源氏名"
 msgid "Is there something wrong? Don't worry about me. Just get something you'll like."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=19
+#. y4:msg_location=T1.P19
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=17
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5864_Player"
 msgid "Okay..."
 msgstr "Bueno..."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5912_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "5936_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "5996_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=todo
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=9
+#. y4:msg_location=T11.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
 msgctxt "6104_Player"
 msgid "I don't have enough money...)"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=11
+#. y4:msg_location=T11.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
 msgctxt "6128_Player"
 msgid "(I'm pretty full right now.)"
 msgstr "(Estoy bastante lleno ahora mismo.)"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=46
+#. y4:msg_location=T12.P46
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "6140_Player"
 msgid "Sorry, just remembered I got something to do first."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=47
+#. y4:msg_location=T12.P47
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "6152_Employee"
 msgid "All right. Please come again."
 msgstr "De acuerdo. Por favor, vuelva otra vez."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "6188_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "6200_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6212_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=23
+#. y4:msg_location=T11.P23
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6272_Owner"
 msgid "Welcome, sir. What can I get started for you?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=26
+#. y4:msg_location=T11.P26
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6308_Employee"
 msgid "Sorry, but something's come up. I'll have to step out for a while."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=27
+#. y4:msg_location=T11.P27
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6320_Owner"
 msgid "Oh, yeah? Well, be sure to come back again soon, all right?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=33
+#. y4:msg_location=T11.P33
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6392_Employee"
 msgid "Thank you."
 msgstr "Gracias."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6500_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6596_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=52
+#. y4:msg_location=T11.P52
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6620_Employee"
 msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
 msgstr ""
@@ -1037,16 +2812,49 @@ msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=54
+#. y4:msg_location=T11.P54
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6644_Employee"
 msgid "I completely agree, but have you heard of the most recent sake trend? Nowadays, sweet sake is all the rage."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=55
+#. y4:msg_location=T11.P55
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6656_Player"
 msgid "Huh. Why do you think that is?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=56
+#. y4:msg_location=T11.P56
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6668_Employee"
 msgid "Traditionally, sake has more of a dry flavor, but recently, companies have started coming out with fruitier, more refreshing sake."
 msgstr ""
@@ -1057,16 +2865,49 @@ msgid "It doesn't have too much alcohol in it－plus, you can cook with it! Make
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=58
+#. y4:msg_location=T11.P58
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6692_Employee"
 msgid "Before, people might've said that cocktails were the trendiest thing you could order at the bar, but nowadays, it's hip to order a small cup of sake instead."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=59
+#. y4:msg_location=T11.P59
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6704_Player"
 msgid "(Sweet sake growing popular, especially with women... I bet the girls at the club would love to hear about it.)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=52
+#. y4:msg_location=T11.P52
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6716_Employee"
 msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
 msgstr ""
@@ -1077,16 +2918,49 @@ msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=54
+#. y4:msg_location=T11.P54
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6740_Employee"
 msgid "I completely agree, but have you heard of the most recent sake trend? Nowadays, sweet sake is all the rage."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=55
+#. y4:msg_location=T11.P55
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6752_Player"
 msgid "Huh. Why do you think that is?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=56
+#. y4:msg_location=T11.P56
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6764_Employee"
 msgid "Traditionally, sake has more of a dry flavor, but recently, companies have started coming out with fruitier, more refreshing sake."
 msgstr ""
@@ -1097,16 +2971,49 @@ msgid "It doesn't have too much alcohol in it－plus, you can cook with it! Make
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=58
+#. y4:msg_location=T11.P58
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6788_Employee"
 msgid "Before, people might've said that cocktails were the trendiest thing you could order at the bar, but nowadays, it's hip to order a small cup of sake instead."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=59
+#. y4:msg_location=T11.P59
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6800_Player"
 msgid "(Sweet sake growing popular, especially with women... I bet the girls at the club would love to hear about it.)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=52
+#. y4:msg_location=T11.P52
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6812_Employee"
 msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
 msgstr ""
@@ -1117,16 +3024,49 @@ msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=54
+#. y4:msg_location=T11.P54
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6836_Employee"
 msgid "I completely agree, but have you heard of the most recent sake trend? Nowadays, sweet sake is all the rage."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=55
+#. y4:msg_location=T11.P55
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6848_Player"
 msgid "Huh. Why do you think that is?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=56
+#. y4:msg_location=T11.P56
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6860_Employee"
 msgid "Traditionally, sake has more of a dry flavor, but recently, companies have started coming out with fruitier, more refreshing sake."
 msgstr ""
@@ -1137,381 +3077,1205 @@ msgid "It doesn't have too much alcohol in it－plus, you can cook with it! Make
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=58
+#. y4:msg_location=T11.P58
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6884_Employee"
 msgid "Before, people might've said that cocktails were the trendiest thing you could order at the bar, but nowadays, it's hip to order a small cup of sake instead."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=59
+#. y4:msg_location=T11.P59
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "6896_Player"
 msgid "(Sweet sake growing popular, especially with women... I bet the girls at the club would love to hear about it.)"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=0
+#. y4:msg_location=T12.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "6908_Employee"
 msgid "Welcome."
 msgstr "Bienvenido."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=1
+#. y4:msg_location=T12.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
 msgctxt "6920_Saejima"
 msgid "(Might be able to find something that kappas like here...)"
 msgstr "(Puede que aquí encuentre algo que le guste a los kappas...)"
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=2
+#. y4:msg_location=T12.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=11
+#. y4:msg_decision_choices=1. Eat Here -> T12.P34 | 2. Order Kappamaki -> T12.P3
 msgctxt "6932_Employee"
 msgid "Let me show you to a seat."
 msgstr "Déjeme acompañarle a su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=4
+#. y4:msg_location=T12.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "6956_Saejima"
 msgid "Actually, I'd just like to order a kappamaki. Bringing it back for someone as a souvenir."
 msgstr "En realidad, solo quiero pedir un kappamaki. Se lo quiero llevar a alguien como recuerdo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=5
+#. y4:msg_location=T12.P5
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "6968_Employee"
 msgid "A... kappamaki? Sure, uh... that'll be 750 yen."
 msgstr "¿Un... kappamaki? Eh... claro... serán 750 yenes."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=6
+#. y4:msg_location=T12.P6
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "6980_Saejima"
 msgid "Sure thing, let me... Really? Must've forgotten to bring cash with me. Sorry for the trouble. I'll be back."
 msgstr "Por supuesto, a ver... ¿en serio? Me debo haber olvidado el \\r dinero. Siento la molestia. Ahora vuelvo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=7
+#. y4:msg_location=T12.P7
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "6992_Employee"
 msgid "Oh... All right. Thanks for stopping in."
 msgstr "Ah... no hay problema. Gracias por visitarnos."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=8
+#. y4:msg_location=T12.P8
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7004_Saejima"
 msgid "(Well, that was embarrassing... Better get out there and make some money.)"
 msgstr "(Vaya, que vergüenza... Mejor me doy una vuelta por ahí \\r y consigo algo de dinero.)"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=4
+#. y4:msg_location=T12.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7040_Saejima"
 msgid "Actually, I'd just like to order a kappamaki. Bringing it back for someone as a souvenir."
 msgstr "En realidad, solo quiero pedir un kappamaki. Se lo quiero llevar a alguien como recuerdo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=12
+#. y4:msg_location=T12.P12
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7052_Employee"
 msgid "A... kappamaki? I'm sorry, sir, but we're all out of cucumbers right now. We won't be able to make any for you."
 msgstr "¿Un... kappamaki? Lo siento, señor, pero se nos han acabado los pepinos. No podremos preparárselo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=13
+#. y4:msg_location=T12.P13
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7064_Saejima"
 msgid "I've got a cucumber right here. Could you take it and make me a kappamaki? I know it's not that big, but it should do the job."
 msgstr "Tengo un pepino aquí mismo. ¿Podrías tomarlo y prepararme un kappamaki? Sé que no es muy grande, pero debería servir."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=14
+#. y4:msg_location=T12.P14
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7076_Employee"
 msgid "Oh, uh... Okay...?"
 msgstr "Oh, eh... ¿Vale...?"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=15
+#. y4:msg_location=T12.P15
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7088_Saejima"
 msgid "Thanks. I know it's weird, but I really need me a kappamaki."
 msgstr "Muchas gracias. Sé que suena raro, pero enserio necesito un kappamaki."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=16
+#. y4:msg_location=T12.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7100_Employee"
 msgid "Sure... Could you wait here for a moment? I'll go back and, uh, see what they can do..."
 msgstr "No hay de que... ¿Podría esperar aquí un momento? Voy a volver y, eh, veremos que podemos hacer..."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=21
+#. y4:msg_location=T12.P21
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7160_Employee"
 msgid "...Well, uh, here you go. One kappamaki. That'll be 750 yen."
 msgstr "...Eh, bueno, aquí tiene. Un kappamaki. Serán 750 yenes."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=22
+#. y4:msg_location=T12.P22
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7172_Saejima"
 msgid "Here you go. Thank you so much, and sorry for all the trouble."
 msgstr "Aquí tiene. Muchísimas gracias y disculpe las molestias."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=24
+#. y4:msg_location=T12.P24
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7196_Employee"
 msgid "No, no, it's all right. Thank you for coming in. We hope you'll stop by again soon!"
 msgstr "No, no, no hay problema. Gracias por venir. ¡Esperamos que vuelva en otro momento!"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=25
+#. y4:msg_location=T12.P25
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7208_Saejima"
 msgid "(I got myself a kappamaki... I should stop by the manhole by the Children's Park again.)"
 msgstr "(Ya conseguí un kappamaki... debería pasarme por la alcantarilla del Parque Infantil de nuevo.)"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=4
+#. y4:msg_location=T12.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7232_Saejima"
 msgid "Actually, I'd just like to order a kappamaki. Bringing it back for someone as a souvenir."
 msgstr "En realidad, solo quiero pedir un kappamaki. Se lo quiero llevar a alguien como recuerdo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=12
+#. y4:msg_location=T12.P12
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7244_Employee"
 msgid "A... kappamaki? I'm sorry, sir, but we're all out of cucumbers right now. We won't be able to make any for you."
 msgstr "¿Un... kappamaki? Lo siento, señor, pero se nos han acabado los pepinos. No podremos preparárselo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=29
+#. y4:msg_location=T12.P29
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7256_Saejima"
 msgid "Damn. If I brought you a cucumber, do you think you could make me one?"
 msgstr "Maldición. ¿Si te trajera un pepino me podrías preparar uno?"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=30
+#. y4:msg_location=T12.P30
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7268_Employee"
 msgid "Huh? I suppose? I mean, if all we're missing is a cucumber, then logically, yes, we could make you one..."
 msgstr "¿Eh? Supongo que sí. Quiero decir, todo lo que nos falta es \\r un pepino por lo que, lógicamente, sí podríamos..."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=31
+#. y4:msg_location=T12.P31
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7280_Saejima"
 msgid "Okay. I'll be back with a cucumber, then."
 msgstr "Bien. Entonces volveré con un pepino."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=32
+#. y4:msg_location=T12.P32
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7292_Saejima"
 msgid "(Last time I was at the convenience store, I noticed they were selling cucumbers. I should go pick one up there.)"
 msgstr "(La última vez que estuve en una tienda de conveniencia vi \\r que vendían pepinos. Debería ir a buscar uno allí.)"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=34
+#. y4:msg_location=T12.P34
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "7316_Employee"
 msgid "Let me show you to your seats."
 msgstr "Déjenme acompañarle a sus asientos."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=43
+#. y4:msg_location=T12.P43
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "7424_Player"
 msgid "(I don't have enough money...)"
 msgstr "(No tengo suficiente dinero...)."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=45
+#. y4:msg_location=T12.P45
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "7448_Player"
 msgid "(No point eating now. I'm not even hungry.)"
 msgstr "(No tiene sentido comer ahora. Ni siquiera tengo hambre)."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=46
+#. y4:msg_location=T12.P46
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "7460_Player"
 msgid "Sorry, just remembered I got something to do first."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=47
+#. y4:msg_location=T12.P47
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "7472_Employee"
 msgid "All right. Please come again."
 msgstr "De acuerdo. Por favor, vuelva otra vez."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "7508_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "7520_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "7532_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=23
+#. y4:msg_location=T11.P23
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "7592_Owner"
 msgid "Welcome, sir. What can I get started for you?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=26
+#. y4:msg_location=T11.P26
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "7628_Employee"
 msgid "Sorry, but something's come up. I'll have to step out for a while."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=27
+#. y4:msg_location=T11.P27
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "7640_Owner"
 msgid "Oh, yeah? Well, be sure to come back again soon, all right?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=33
+#. y4:msg_location=T11.P33
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "7688_Employee"
 msgid "Thank you."
 msgstr "Gracias."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "7712_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "7808_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=0
+#. y4:msg_location=T12.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "7832_Employee"
 msgid "Welcome."
 msgstr "Bienvenido."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=1
+#. y4:msg_location=T12.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
 msgctxt "7844_Saejima"
 msgid "(Might be able to find something that kappas like here...)"
 msgstr "(Puede que aquí encuentre algo que le guste a los kappas...)"
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=2
+#. y4:msg_location=T12.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=11
+#. y4:msg_decision_choices=1. Eat Here -> T12.P34 | 2. Order Kappamaki -> T12.P3
 msgctxt "7856_Employee"
 msgid "Let me show you to a seat."
 msgstr "Déjeme acompañarle a su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=4
+#. y4:msg_location=T12.P4
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7868_Saejima"
 msgid "Actually, I'd just like to order a kappamaki. Bringing it back for someone as a souvenir."
 msgstr "En realidad, solo quiero pedir un kappamaki. Se lo quiero llevar a alguien como recuerdo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=12
+#. y4:msg_location=T12.P12
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7880_Employee"
 msgid "A... kappamaki? I'm sorry, sir, but we're all out of cucumbers right now. We won't be able to make any for you."
 msgstr "¿Un... kappamaki? Lo siento, señor, pero se nos han acabado los pepinos. No podremos preparárselo."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=5
+#. y4:msg_location=T13.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Order Kappamaki
 msgctxt "7892_Saejima"
 msgid "Oh... Damn. I'll come back another time, then."
 msgstr "Ah... Maldición. Entonces volveré en otro momento."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=47
+#. y4:msg_location=T12.P47
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "7904_Employee"
 msgid "All right. Please come again."
 msgstr "De acuerdo. Por favor, vuelva otra vez."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "7928_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=17
+#. y4:msg_location=T13.P17
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "8036_Player"
 msgid "(I don't have the cash...)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=19
+#. y4:msg_location=T13.P19
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "8060_Player"
 msgid "(I'm not hungry right now...)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=46
+#. y4:msg_location=T12.P46
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "8072_Player"
 msgid "Sorry, just remembered I got something to do first."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=47
+#. y4:msg_location=T12.P47
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "8084_Employee"
 msgid "All right. Please come again."
 msgstr "De acuerdo. Por favor, vuelva otra vez."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "8120_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "8132_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8144_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=23
+#. y4:msg_location=T11.P23
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8204_Owner"
 msgid "Welcome, sir. What can I get started for you?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=26
+#. y4:msg_location=T11.P26
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8240_Employee"
 msgid "Sorry, but something's come up. I'll have to step out for a while."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=27
+#. y4:msg_location=T11.P27
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8252_Owner"
 msgid "Oh, yeah? Well, be sure to come back again soon, all right?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=33
+#. y4:msg_location=T11.P33
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8300_Employee"
 msgid "Thank you."
 msgstr "Gracias."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8324_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8420_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "8480_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=15
+#. y4:msg_section_label=Conversación 15
+#. y4:msg_talk=17
+#. y4:msg_phrase=9
+#. y4:msg_location=T17.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
 msgctxt "8588_Player"
 msgid "(I don't have any money on me...)"
 msgstr "(No tengo dinero encima...)"
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=11
+#. y4:msg_location=T11.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
 msgctxt "8612_Player"
 msgid "(I'm pretty full right now.)"
 msgstr "(Estoy bastante lleno ahora mismo.)"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=46
+#. y4:msg_location=T12.P46
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "8624_Player"
 msgid "Sorry, just remembered I got something to do first."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=47
+#. y4:msg_location=T12.P47
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "8636_Employee"
 msgid "All right. Please come again."
 msgstr "De acuerdo. Por favor, vuelva otra vez."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "8672_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "8684_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8696_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=23
+#. y4:msg_location=T11.P23
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8756_Owner"
 msgid "Welcome, sir. What can I get started for you?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=26
+#. y4:msg_location=T11.P26
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8792_Employee"
 msgid "Sorry, but something's come up. I'll have to step out for a while."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=27
+#. y4:msg_location=T11.P27
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8804_Owner"
 msgid "Oh, yeah? Well, be sure to come back again soon, all right?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=33
+#. y4:msg_location=T11.P33
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8852_Employee"
 msgid "Thank you."
 msgstr "Gracias."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "8960_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9056_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=52
+#. y4:msg_location=T11.P52
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9080_Employee"
 msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
 msgstr ""
@@ -1522,16 +4286,49 @@ msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=54
+#. y4:msg_location=T11.P54
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9104_Employee"
 msgid "I completely agree, but have you heard of the most recent sake trend? Nowadays, sweet sake is all the rage."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=55
+#. y4:msg_location=T11.P55
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9116_Player"
 msgid "Huh. Why do you think that is?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=56
+#. y4:msg_location=T11.P56
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9128_Employee"
 msgid "Traditionally, sake has more of a dry flavor, but recently, companies have started coming out with fruitier, more refreshing sake."
 msgstr ""
@@ -1542,16 +4339,49 @@ msgid "It doesn't have too much alcohol in it－plus, you can cook with it! Make
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=58
+#. y4:msg_location=T11.P58
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9152_Employee"
 msgid "Before, people might've said that cocktails were the trendiest thing you could order at the bar, but nowadays, it's hip to order a small cup of sake instead."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=59
+#. y4:msg_location=T11.P59
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9164_Player"
 msgid "(Sweet sake growing popular, especially with women... I bet the girls at the club would love to hear about it.)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=52
+#. y4:msg_location=T11.P52
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9176_Employee"
 msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
 msgstr ""
@@ -1562,16 +4392,49 @@ msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=54
+#. y4:msg_location=T11.P54
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9200_Employee"
 msgid "I completely agree, but have you heard of the most recent sake trend? Nowadays, sweet sake is all the rage."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=55
+#. y4:msg_location=T11.P55
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9212_Player"
 msgid "Huh. Why do you think that is?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=56
+#. y4:msg_location=T11.P56
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9224_Employee"
 msgid "Traditionally, sake has more of a dry flavor, but recently, companies have started coming out with fruitier, more refreshing sake."
 msgstr ""
@@ -1582,16 +4445,49 @@ msgid "It doesn't have too much alcohol in it－plus, you can cook with it! Make
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=58
+#. y4:msg_location=T11.P58
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9248_Employee"
 msgid "Before, people might've said that cocktails were the trendiest thing you could order at the bar, but nowadays, it's hip to order a small cup of sake instead."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=59
+#. y4:msg_location=T11.P59
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9260_Player"
 msgid "(Sweet sake growing popular, especially with women... I bet the girls at the club would love to hear about it.)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=52
+#. y4:msg_location=T11.P52
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9272_Employee"
 msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
 msgstr ""
@@ -1602,16 +4498,49 @@ msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=54
+#. y4:msg_location=T11.P54
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9296_Employee"
 msgid "I completely agree, but have you heard of the most recent sake trend? Nowadays, sweet sake is all the rage."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=55
+#. y4:msg_location=T11.P55
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9308_Player"
 msgid "Huh. Why do you think that is?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=56
+#. y4:msg_location=T11.P56
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9320_Employee"
 msgid "Traditionally, sake has more of a dry flavor, but recently, companies have started coming out with fruitier, more refreshing sake."
 msgstr ""
@@ -1622,91 +4551,287 @@ msgid "It doesn't have too much alcohol in it－plus, you can cook with it! Make
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=58
+#. y4:msg_location=T11.P58
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9344_Employee"
 msgid "Before, people might've said that cocktails were the trendiest thing you could order at the bar, but nowadays, it's hip to order a small cup of sake instead."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=59
+#. y4:msg_location=T11.P59
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9356_Player"
 msgid "(Sweet sake growing popular, especially with women... I bet the girls at the club would love to hear about it.)"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=8
+#. y4:msg_location=T13.P8
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "9368_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=15
+#. y4:msg_section_label=Conversación 15
+#. y4:msg_talk=17
+#. y4:msg_phrase=9
+#. y4:msg_location=T17.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
 msgctxt "9476_Player"
 msgid "(I don't have any money on me...)"
 msgstr "(No tengo dinero encima...)"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=13
+#. y4:msg_section_label=Conversación 13
+#. y4:msg_talk=13
+#. y4:msg_phrase=19
+#. y4:msg_location=T13.P19
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "9500_Player"
 msgid "(I'm not hungry right now...)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=46
+#. y4:msg_location=T12.P46
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "9512_Player"
 msgid "Sorry, just remembered I got something to do first."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=12
+#. y4:msg_phrase=47
+#. y4:msg_location=T12.P47
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Eat Here
 msgctxt "9524_Employee"
 msgid "All right. Please come again."
 msgstr "De acuerdo. Por favor, vuelva otra vez."
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Use -> T1.P3 | 2. Don't Use -> T1.P4
 msgctxt "9560_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Use
 msgctxt "9572_Employee"
 msgid "You'll be using the coupon then? Thank you!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9584_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=23
+#. y4:msg_location=T11.P23
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9644_Owner"
 msgid "Welcome, sir. What can I get started for you?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=16
+#. y4:msg_section_label=Conversación 16
+#. y4:msg_talk=18
+#. y4:msg_phrase=25
+#. y4:msg_location=T18.P25
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9668_Player"
 msgid "(Ugh, so full...)"
 msgstr "(Uff, estoy muy lleno...)"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=26
+#. y4:msg_location=T11.P26
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9704_Employee"
 msgid "Sorry, but something's come up. I'll have to step out for a while."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=27
+#. y4:msg_location=T11.P27
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9716_Owner"
 msgid "Oh, yeah? Well, be sure to come back again soon, all right?"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=33
+#. y4:msg_location=T11.P33
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9788_Employee"
 msgid "Thank you."
 msgstr "Gracias."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9896_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "9992_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=52
+#. y4:msg_location=T11.P52
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10016_Employee"
 msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
 msgstr ""
@@ -1717,16 +4842,49 @@ msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=54
+#. y4:msg_location=T11.P54
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10040_Employee"
 msgid "I completely agree, but have you heard of the most recent sake trend? Nowadays, sweet sake is all the rage."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=55
+#. y4:msg_location=T11.P55
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10052_Player"
 msgid "Huh. Why do you think that is?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=56
+#. y4:msg_location=T11.P56
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10064_Employee"
 msgid "Traditionally, sake has more of a dry flavor, but recently, companies have started coming out with fruitier, more refreshing sake."
 msgstr ""
@@ -1737,16 +4895,49 @@ msgid "It doesn't have too much alcohol in it－plus, you can cook with it! Make
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=58
+#. y4:msg_location=T11.P58
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10088_Employee"
 msgid "Before, people might've said that cocktails were the trendiest thing you could order at the bar, but nowadays, it's hip to order a small cup of sake instead."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=59
+#. y4:msg_location=T11.P59
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10100_Player"
 msgid "(Sweet sake growing popular, especially with women... I bet the girls at the club would love to hear about it.)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=52
+#. y4:msg_location=T11.P52
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10112_Employee"
 msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
 msgstr ""
@@ -1757,16 +4948,49 @@ msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=54
+#. y4:msg_location=T11.P54
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10136_Employee"
 msgid "I completely agree, but have you heard of the most recent sake trend? Nowadays, sweet sake is all the rage."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=55
+#. y4:msg_location=T11.P55
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10148_Player"
 msgid "Huh. Why do you think that is?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=56
+#. y4:msg_location=T11.P56
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10160_Employee"
 msgid "Traditionally, sake has more of a dry flavor, but recently, companies have started coming out with fruitier, more refreshing sake."
 msgstr ""
@@ -1777,16 +5001,49 @@ msgid "It doesn't have too much alcohol in it－plus, you can cook with it! Make
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=58
+#. y4:msg_location=T11.P58
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10184_Employee"
 msgid "Before, people might've said that cocktails were the trendiest thing you could order at the bar, but nowadays, it's hip to order a small cup of sake instead."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=59
+#. y4:msg_location=T11.P59
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10196_Player"
 msgid "(Sweet sake growing popular, especially with women... I bet the girls at the club would love to hear about it.)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=52
+#. y4:msg_location=T11.P52
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10208_Employee"
 msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
 msgstr ""
@@ -1797,16 +5054,49 @@ msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=54
+#. y4:msg_location=T11.P54
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10232_Employee"
 msgid "I completely agree, but have you heard of the most recent sake trend? Nowadays, sweet sake is all the rage."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=55
+#. y4:msg_location=T11.P55
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10244_Player"
 msgid "Huh. Why do you think that is?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=56
+#. y4:msg_location=T11.P56
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10256_Employee"
 msgid "Traditionally, sake has more of a dry flavor, but recently, companies have started coming out with fruitier, more refreshing sake."
 msgstr ""
@@ -1817,182 +5107,645 @@ msgid "It doesn't have too much alcohol in it－plus, you can cook with it! Make
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=58
+#. y4:msg_location=T11.P58
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10280_Employee"
 msgid "Before, people might've said that cocktails were the trendiest thing you could order at the bar, but nowadays, it's hip to order a small cup of sake instead."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=10
+#. y4:msg_section_label=Conversación 10
+#. y4:msg_talk=11
+#. y4:msg_phrase=59
+#. y4:msg_location=T11.P59
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Don't Use
 msgctxt "10292_Player"
 msgid "(Sweet sake growing popular, especially with women... I bet the girls at the club would love to hear about it.)"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10328_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10340_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10352_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10364_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10376_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10388_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10400_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10412_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10424_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10436_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10448_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10460_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10472_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10484_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10496_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10508_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10520_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10532_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10544_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10556_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10568_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10580_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=43
+#. y4:msg_phrase=0
+#. y4:msg_location=T43.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T12.P34
+#. y4:msg_branch_segment=T12.P34..P76
+#. y4:msg_branch_target_text=Let me show you to your seats.
+#. y4:msg_branch_raw=01 11 00 22 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "10592_Employee"
 msgid "Eat Here"
 msgstr "Comer aquí"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=44
+#. y4:msg_phrase=0
+#. y4:msg_location=T44.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T12.P3
+#. y4:msg_branch_segment=T12.P3..P33
+#. y4:msg_branch_target_text=Actually, I'd just like to order a kappamaki. Bringing it back for someone as a souvenir.
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "10604_Employee"
 msgid "Order Kappamaki"
 msgstr "Pedir Kappamaki"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10616_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10628_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=43
+#. y4:msg_phrase=0
+#. y4:msg_location=T43.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T12.P34
+#. y4:msg_branch_segment=T12.P34..P76
+#. y4:msg_branch_target_text=Let me show you to your seats.
+#. y4:msg_branch_raw=01 11 00 22 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "10640_Employee"
 msgid "Eat Here"
 msgstr "Comer aquí"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=11
+#. y4:msg_section_label=Conversación 11
+#. y4:msg_talk=44
+#. y4:msg_phrase=0
+#. y4:msg_location=T44.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T12.P3
+#. y4:msg_branch_segment=T12.P3..P33
+#. y4:msg_branch_target_text=Actually, I'd just like to order a kappamaki. Bringing it back for someone as a souvenir.
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "10652_Employee"
 msgid "Order Kappamaki"
 msgstr "Pedir Kappamaki"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10664_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10676_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10688_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10700_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=You'll be using the coupon then? Thank you!
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "10712_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
+#. y4:msg_branch_segment=T1.P4..P29
+#. y4:msg_branch_target_text=Right this way.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "10724_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
-

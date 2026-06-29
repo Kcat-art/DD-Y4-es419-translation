@@ -17,63 +17,141 @@ msgstr ""
 "X-Crowdin-File-ID: 58716\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2620"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2624"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2628"
 msgid "Date"
 msgstr "Date"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2632"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2636"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2640"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "56_Kiryu"
 msgid "Date, you mind if I borrow your stove?"
 msgstr "Date, ¿te importa si uso tu cocina?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Date
+#. y4:msg_speaker_id=2
 msgctxt "68_Date"
 msgid "Help yourself. I never had you pegged for the cooking type, Kiryu."
 msgstr "Sírvete tú mismo. Nunca pensé que fueras de los que cocinan, Kiryu."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "80_Kiryu"
 msgid "I don't have much choice. I have to heat up this curry."
 msgstr "No tengo muchas opciones. Tengo que calentar este curry."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Date
+#. y4:msg_speaker_id=2
 msgctxt "104_Date"
 msgid "Well, have at it."
 msgstr "Bueno, adelante."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "116_Kiryu"
 msgid "Thanks. It'll only take a second."
 msgstr "Gracias. Solo tardará un segundo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
 msgctxt "140_Kiryu"
 msgid "You heated up the \"<Color:255,255,200,255>Large Curry Take-home Packs<Color:Default>.\""
 msgstr "Calentaste el \"<Color:255,255,200,255>Pack de Curry Original para Llevar<Color:Default>.\""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "188_Kiryu"
 msgid "Man, heating up that much curry took longer than I expected. Thanks, Date."
 msgstr "Hombre, calentar tanto curry me llevó más tiempo del que esperaba. Gracias, Date."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Date
+#. y4:msg_speaker_id=2
 msgctxt "200_Date"
 msgid "Sure, no problem. Take care of yourself."
 msgstr "Claro, no hay problema. Cuídate."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "212_Kiryu"
 msgid "(I better hurry back to the construction site.)"
 msgstr "(Será mejor que me apresure a regresar al sitio de construcción.)"
-

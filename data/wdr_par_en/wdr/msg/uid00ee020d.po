@@ -17,59 +17,144 @@ msgstr ""
 "X-Crowdin-File-ID: 58788\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3744"
 msgid "Mari"
 msgstr "Mari"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3748"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3752"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Mari
+#. y4:msg_speaker_id=0
 msgctxt "136_Mari"
 msgid "Wow, you must be really accustomed to getting massages, sir! It was so easy to work on you. What did you think? Did it feel good?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "148_Player"
 msgid "Yeah."
 msgstr "Sí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Mari
+#. y4:msg_speaker_id=0
 msgctxt "160_Mari"
 msgid "Ehehe! I'm glad you enjoyed it! I'll walk you out, okay?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Mari
+#. y4:msg_speaker_id=0
 msgctxt "220_Mari"
 msgid "Thanks for coming by today! I hope you'll come back soon. We'll be waiting!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "256_Player"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Mari
+#. y4:msg_speaker_id=0
 msgctxt "268_Mari"
 msgid "Boy, sir, you were way too tense. I can't do my job if you don't relax a little more..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "280_Player"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "304_Player"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Mari
+#. y4:msg_speaker_id=0
 msgctxt "316_Mari"
 msgid "Wow, you fell asleep halfway through. You must've been in real bad shape, huh? That, or you just need to wake up a little more..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "328_Player"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=14
+#. y4:msg_location=T2.P14
+#. y4:msg_speaker=Mari
+#. y4:msg_speaker_id=0
 msgctxt "412_Mari"
 msgid "Thanks for coming today."
 msgstr ""
-

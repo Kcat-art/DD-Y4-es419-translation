@@ -17,39 +17,85 @@ msgstr ""
 "X-Crowdin-File-ID: 62334\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1264"
 msgid "Haruka"
 msgstr "Haruka"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1268"
 msgid "HAL_stand_tlk_happy_small"
 msgstr "HAL_stand_tlk_happy_small"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1272"
 msgid "HAL_stand_tlk_unhappy_small"
 msgstr "HAL_stand_tlk_unhappy_small"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "180_Haruka"
 msgid "That was delicious! I hope we come back here some time!"
 msgstr "¡Todo estuvo deli! ¡Ojalá volvamos algún día!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "204_Haruka"
 msgid "But I wanted that..."
 msgstr "Pero yo quería eso..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "228_Haruka"
 msgid "Uncle Kaz! Can we stop and get a <Color:8>Demitama Hamburg Meal<Color:Default>?"
 msgstr "¡Tío Kaz! ¿Podemos parar a comer una <Color:8>Hamburguesa Demitama<Color:Default>?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=1
+#. y4:msg_location=T5.P1
 msgctxt "240_Haruka"
 msgid "I'm starving!"
 msgstr "¡Me muero de hambre!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "264_Haruka"
 msgid "Uncle Kaz! Can we stop and get some <Color:8>Pork Rice<Color:Default>?"
 msgstr "¡Tío Kaz! ¿Podemos parar a comer <Color:8>Arroz con Cerdo<Color:Default>?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=1
+#. y4:msg_location=T5.P1
 msgctxt "276_Haruka"
 msgid "I'm starving!"
 msgstr "¡Me muero de hambre!"
-

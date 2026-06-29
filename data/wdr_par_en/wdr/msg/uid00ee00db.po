@@ -17,243 +17,862 @@ msgstr ""
 "X-Crowdin-File-ID: 59584\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "8652"
 msgid "Darts Expert"
 msgstr "Experto en Dardos"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Darts Expert
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Tell me about awards. -> T0.P2 | 2. Tell me about the DARTSLIVE Members Card. -> T0.P27 | 3. I don't have any questions. -> T0.P1
 msgctxt "452_Darts Expert"
 msgid "Hey, pal, you wanna know something about darts? I can help you with that."
 msgstr "Eh, amigo, ¿quiere saber algo sobre los dardos? Puedo ayudarle con eso."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=I don't have any questions.
 msgctxt "464_Darts Expert"
 msgid "Yeah? Well, just let me know if you do."
 msgstr "¿Sí? Pues avíseme si tiene alguna duda."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. What are awards? -> T0.P3 | 2. What kinds of awards are there? -> T0.P7 | 3. Never mind. -> T0.P0
 msgctxt "476_Darts Expert"
 msgid "What do you want to know about awards?"
 msgstr "¿Qué quiere saber sobre los premios?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "488_Darts Expert"
 msgid "Simply put, awards are proof of how well you play."
 msgstr "En pocas palabras, los premios son la prueba de lo bien que juegas."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "500_Darts Expert"
 msgid "You receive an award once you achieve results above a certain level during a game."
 msgstr "Recibirás un premio cuando consigas resultados superiores a un determinado nivel durante una partida."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "512_Darts Expert"
 msgid "Once you've won several awards, people will recognize you as a decent darts player."
 msgstr "Una vez que hayas ganado varios premios, la gente te reconocerá como un decente jugador de dardos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "524_Darts Expert"
 msgid "The results screen at the end of each game will show which awards you won and how many times you won them for that game."
 msgstr "La pantalla de resultados al final de cada partida mostrará qué premios has ganado y cuántas veces los has ganado en esa partida."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_decision_group=2
+#. y4:msg_decision_choices=1. Low Ton -> T0.P8 | 2. High Ton -> T0.P12 | 3. Hat Trick -> T0.P14 | 4. Three in a Bed -> T0.P16 | 5. White Horse -> T0.P19 | 6. Ton 80 -> T0.P22 | 7. Three in the Black -> T0.P24 | 8. Never Mind -> T0.P2
 msgctxt "536_Darts Expert"
 msgid "There are many kinds of awards. Which one would you like to know about?"
 msgstr "Hay muchos tipos de premios. ¿Cuál le gustaría conocer?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "548_Darts Expert"
 msgid "Low Ton is an award for scoring between 101 and 150 points in a single round."
 msgstr "Low Ton es un premio por conseguir entre 101 y 150 puntos en una sola ronda."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "560_Darts Expert"
 msgid "However, please note that getting a \"hat trick\" or \"three in the black\"..."
 msgstr "Sin embargo, tenga en cuenta que obtener un \"hat trick\" o un \"tres en el negro\"..."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "572_Darts Expert"
 msgid "...will not result in getting a low ton."
 msgstr "...no resultará en obtener un low ton."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "584_Darts Expert"
 msgid "The Low Ton award is available in the '01 Game and Count-Up, so make sure to go for it when playing them. Good luck!"
 msgstr "El premio Low Ton está disponible en los juegos '01 y Count-Up, así que asegúrese de ir a por él cuando los juegue. ¡Buena suerte!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "596_Darts Expert"
 msgid "High Ton is an award for scoring between 151 and 180 points in a single round."
 msgstr "High Ton es un premio que se otorga por puntuar entre 151 y 180 puntos en una sola ronda."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "608_Darts Expert"
 msgid "The High Ton award is available in the '01 Game and Count-Up. You're a force to be reckoned with if you're able to snag this award!"
 msgstr "El premio High Ton está disponible en los juegos '01 y Count-Up. ¡Será un jugador a tener en cuenta si es capaz de conseguir este premio!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "620_Darts Expert"
 msgid "Hat Trick is an award for hitting the bull's-eye with all three throws in one round."
 msgstr "El Hat Trick es un premio que se otorga por acertar en la diana en las tres tiradas de una misma ronda."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "632_Darts Expert"
 msgid "You can get it in '01, Cricket, and Count-Up. If you can snag this award, you've gotta be pretty amazing!"
 msgstr "Puede conseguirlo en los juegos, '01, Cricket y Count-Up. Si puede conseguir este premio, ¡debe ser increíble!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "644_Darts Expert"
 msgid "Three in a Bed is kind of a complicated award. The name's a little weird, too."
 msgstr "Three in a Bed es un premio algo complicado. El nombre es raro, también."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "656_Darts Expert"
 msgid "This award is for hitting the same number in the double ring with all three throws or the triple ring with all three throws in one round."
 msgstr "Este premio se concede por acertar el mismo número en el aro doble con los tres lanzamientos o en el aro triple con los tres lanzamientos en una ronda."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "668_Darts Expert"
 msgid "You can get it in '01, Cricket, and Count-Up. If you can snag this award, you've gotta be pretty amazing!"
 msgstr "Puede conseguirlo en los juegos, '01, Cricket y Count-Up. Si puede conseguir este premio, ¡debe ser increíble!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "680_Darts Expert"
 msgid "White Horse is an award that's only available in Cricket. Don't forget!"
 msgstr "White Horse es un premio que solo está disponible en Cricket. ¡No lo olvides!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "692_Darts Expert"
 msgid "It's awarded for hitting different cricket numbers in the triple ring with all three throws in one round."
 msgstr "Se concede cuando los tres dardos de una ronda aciertan en tres triples diferentes de números de cricket."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "704_Darts Expert"
 msgid "Oh, did I mention that the cricket numbers are 15 to 20 and the bull's-eye?"
 msgstr "Oh, ¿he mencionado que los números de cricket van del 15 al 20, y la diana?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "716_Darts Expert"
 msgid "Ton 80 is an award for hitting 20 in the triple ring with all three throws in one round."
 msgstr "Ton 80 es un premio por alcanzar 20 en el aro triple con los tres lanzamientos en una ronda."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "728_Darts Expert"
 msgid "You can get it in '01, Cricket, and Count-Up. If you can snag this award, you've gotta be pretty amazing!"
 msgstr "Puede conseguirlo en los juegos, '01, Cricket y Count-Up. Si puede conseguir este premio, ¡debe ser increíble!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "740_Darts Expert"
 msgid "Three in the Black is an advanced version of the Hat Trick award."
 msgstr "Three in the Black es una versión avanzada del premio Hat Trick."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=25
+#. y4:msg_location=T0.P25
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "752_Darts Expert"
 msgid "It's awarded for hitting the double bull's-eye with all three throws in one round."
 msgstr "Se otorga por acertar el aro de la diana con los tres lanzamientos de una misma ronda."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tell me about awards.
 msgctxt "764_Darts Expert"
 msgid "You can get it in '01, Cricket, and Count-Up. Give it a try!"
 msgstr "Puede conseguirlo en los juegos '01, Cricket y Count-Up. ¡Inténtelo!"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=0
+#. y4:msg_phrase=27
+#. y4:msg_location=T0.P27
+#. y4:msg_decision_group=3
+#. y4:msg_decision_choices=1. What is it? -> T0.P28 | 2. What kind of information is on the card? -> T0.P30 | 3. Never mind. -> T0.P0
 msgctxt "776_Darts Expert"
 msgid "What would you like to learn about the DARTSLIVE Members Card?"
 msgstr "¿Qué le gustaría saber sobre la Tarjeta de Miembro de DARTSLIVE?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=28
+#. y4:msg_location=T0.P28
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Tell me about the DARTSLIVE Members Card.
 msgctxt "788_Darts Expert"
 msgid "This bar knows how to treat its customers well, so it gives a DARTSLIVE Members Card to anyone playing for the first time."
 msgstr "Este bar sabe cómo tratar bien a sus clientes, así que dan una Tarjeta de Miembro de DARTSLIVE a cualquiera que juegue por primera vez."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=29
+#. y4:msg_location=T0.P29
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Tell me about the DARTSLIVE Members Card.
 msgctxt "800_Darts Expert"
 msgid "The card records your name and your results in '01, Cricket, and Count-Up, as well as your overall rank for all three."
 msgstr "Esta tarjeta registra su nombre y sus resultados en '01, Cricket y Count-Up, así como su rango promedio para los tres."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=4
+#. y4:msg_section_label=Conversación 4
+#. y4:msg_talk=0
+#. y4:msg_phrase=30
+#. y4:msg_location=T0.P30
+#. y4:msg_decision_group=4
+#. y4:msg_decision_choices=1. Stats -> T0.P31 | 2. Rating -> T0.P34 | 3. Flight -> T0.P36 | 4. Never Mind -> T0.P27
 msgctxt "812_Darts Expert"
 msgid "Cards can record all sorts of information. What would you like to hear about?"
 msgstr "Las tarjetas pueden registrar todo tipo de información. ¿Que le gustaría saber?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=31
+#. y4:msg_location=T0.P31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Tell me about the DARTSLIVE Members Card.
 msgctxt "824_Darts Expert"
 msgid "Simply put, stats are your average scores. The higher the number, the better you are as a player."
 msgstr "En pocas palabras, las estadísticas son tus puntuaciones medias. Cuanto más alto sea el número, mejor eres como jugador."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=32
+#. y4:msg_location=T0.P32
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Tell me about the DARTSLIVE Members Card.
 msgctxt "836_Darts Expert"
 msgid "Your card will record your stats for the '01 Game and Cricket."
 msgstr "Tu tarjeta registrará tus estadísticas para el '01 y Cricket."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=33
+#. y4:msg_location=T0.P33
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Tell me about the DARTSLIVE Members Card.
 msgctxt "848_Darts Expert"
 msgid "Your past high scores for Count-Up are recorded on your card. See if you can beat them!"
 msgstr "Sus puntuaciones máximas anteriores para Count-Up se registran en su tarjeta. ¡A ver si puede superarlas!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=34
+#. y4:msg_location=T0.P34
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Tell me about the DARTSLIVE Members Card.
 msgctxt "860_Darts Expert"
 msgid "Your rating takes into account your overall stats for the '01 Game and Cricket, rating you on a scale between 1 and 18."
 msgstr "Su calificación tiene en cuenta sus estadísticas promedio para los juegos '01 y Cricket, puntuandole en una escala entre 1 y 18."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=35
+#. y4:msg_location=T0.P35
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Tell me about the DARTSLIVE Members Card.
 msgctxt "872_Darts Expert"
 msgid "The highest rating is 18, so work hard, and you just might snag it!"
 msgstr "La calificación más alta es 18, ¡así que trabaje duro y puede que lo consiga!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=36
+#. y4:msg_location=T0.P36
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Tell me about the DARTSLIVE Members Card.
 msgctxt "884_Darts Expert"
 msgid "A flight is like a division. There are six flights, each named with letters: C, CC, B, BB, A, and AA."
 msgstr "Un vuelo es como una división. Hay seis vuelos, cada uno nombrado con letras: C, CC, B, BB, A y AA."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=37
+#. y4:msg_location=T0.P37
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Tell me about the DARTSLIVE Members Card.
 msgctxt "896_Darts Expert"
 msgid "The highest flight is AA, but you probably already figured that out."
 msgstr "El vuelo más alto es AA, pero probablemente ya lo habrás deducido."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P2
+#. y4:msg_branch_segment=T0.P2..P26
+#. y4:msg_branch_target_text=What do you want to know about awards?
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "908_Darts Expert"
 msgid "Tell me about awards."
 msgstr "Háblame de los premios."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P27
+#. y4:msg_branch_segment=T0.P27..P37
+#. y4:msg_branch_target_text=What would you like to learn about the DARTSLIVE Members Card?
+#. y4:msg_branch_raw=01 11 00 1b 00 00 00 29 00 00 00 00 00 00 00 00
 msgctxt "920_Darts Expert"
 msgid "Tell me about the DARTSLIVE Members Card."
 msgstr "Cuéntame sobre la Tarjeta de Miembro de DARTSLIVE."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P1
+#. y4:msg_branch_segment=T0.P1..P1
+#. y4:msg_branch_target_text=Yeah? Well, just let me know if you do.
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 1b 00 00 00 00 00 00 00 00
 msgctxt "932_Darts Expert"
 msgid "I don't have any questions."
 msgstr "No tengo ninguna pregunta."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P3
+#. y4:msg_branch_segment=T0.P3..P6
+#. y4:msg_branch_target_text=Simply put, awards are proof of how well you play.
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 10 00 00 00 00 00 00 00 00
 msgctxt "944_Darts Expert"
 msgid "What are awards?"
 msgstr "¿Qué son los premios?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P7
+#. y4:msg_branch_segment=T0.P7..P37
+#. y4:msg_branch_target_text=There are many kinds of awards. Which one would you like to know about?
+#. y4:msg_branch_raw=01 11 00 07 00 00 00 1f 00 00 00 00 00 00 00 00
 msgctxt "956_Darts Expert"
 msgid "What kinds of awards are there?"
 msgstr "¿Qué tipos de premios hay?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P0
+#. y4:msg_branch_segment=T0.P0..P2
+#. y4:msg_branch_target_text=Hey, pal, you wanna know something about darts? I can help you with that.
+#. y4:msg_branch_raw=01 11 00 00 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "968_Darts Expert"
 msgid "Never mind."
 msgstr "No importa."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P8
+#. y4:msg_branch_segment=T0.P8..P11
+#. y4:msg_branch_target_text=Low Ton is an award for scoring between 101 and 150 points in a single round.
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "980_Darts Expert"
 msgid "Low Ton"
 msgstr "Low Ton"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P12
+#. y4:msg_branch_segment=T0.P12..P13
+#. y4:msg_branch_target_text=High Ton is an award for scoring between 151 and 180 points in a single round.
+#. y4:msg_branch_raw=01 11 00 0c 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "992_Darts Expert"
 msgid "High Ton"
 msgstr "High Ton"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P14
+#. y4:msg_branch_segment=T0.P14..P15
+#. y4:msg_branch_target_text=Hat Trick is an award for hitting the bull's-eye with all three throws in one round.
+#. y4:msg_branch_raw=01 11 00 0e 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "1004_Darts Expert"
 msgid "Hat Trick"
 msgstr "Hat Trick"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P16
+#. y4:msg_branch_segment=T0.P16..P18
+#. y4:msg_branch_target_text=Three in a Bed is kind of a complicated award. The name's a little weird, too.
+#. y4:msg_branch_raw=01 11 00 10 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "1016_Darts Expert"
 msgid "Three in a Bed"
 msgstr "Three in a Bed"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
+#. y4:msg_choice_index=5
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P19
+#. y4:msg_branch_segment=T0.P19..P21
+#. y4:msg_branch_target_text=White Horse is an award that's only available in Cricket. Don't forget!
+#. y4:msg_branch_raw=01 11 00 13 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "1028_Darts Expert"
 msgid "White Horse"
 msgstr "White Horse"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=12
+#. y4:msg_phrase=0
+#. y4:msg_location=T12.P0
+#. y4:msg_choice_index=6
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P22
+#. y4:msg_branch_segment=T0.P22..P23
+#. y4:msg_branch_target_text=Ton 80 is an award for hitting 20 in the triple ring with all three throws in one round.
+#. y4:msg_branch_raw=01 11 00 16 00 00 00 06 00 00 00 00 00 00 00 00
 msgctxt "1040_Darts Expert"
 msgid "Ton 80"
 msgstr "Ton 80"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=13
+#. y4:msg_phrase=0
+#. y4:msg_location=T13.P0
+#. y4:msg_choice_index=7
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P24
+#. y4:msg_branch_segment=T0.P24..P37
+#. y4:msg_branch_target_text=Three in the Black is an advanced version of the Hat Trick award.
+#. y4:msg_branch_raw=01 11 00 18 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "1052_Darts Expert"
 msgid "Three in the Black"
 msgstr "Three in the Black"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=14
+#. y4:msg_phrase=0
+#. y4:msg_location=T14.P0
+#. y4:msg_choice_index=8
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P2
+#. y4:msg_branch_segment=T0.P2..P7
+#. y4:msg_branch_target_text=What do you want to know about awards?
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "1064_Darts Expert"
 msgid "Never Mind"
 msgstr "No importa"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P28
+#. y4:msg_branch_segment=T0.P28..P29
+#. y4:msg_branch_target_text=This bar knows how to treat its customers well, so it gives a DARTSLIVE Members Card to anyone playing for the first time.
+#. y4:msg_branch_raw=01 11 00 1c 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "1076_Darts Expert"
 msgid "What is it?"
 msgstr "¿Qué cosa?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=16
+#. y4:msg_phrase=0
+#. y4:msg_location=T16.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P30
+#. y4:msg_branch_segment=T0.P30..P37
+#. y4:msg_branch_target_text=Cards can record all sorts of information. What would you like to hear about?
+#. y4:msg_branch_raw=01 11 00 1e 00 00 00 28 00 00 00 00 00 00 00 00
 msgctxt "1088_Darts Expert"
 msgid "What kind of information is on the card?"
 msgstr "¿Qué tipo de información hay en la tarjeta?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P0
+#. y4:msg_branch_segment=T0.P0..P2
+#. y4:msg_branch_target_text=Hey, pal, you wanna know something about darts? I can help you with that.
+#. y4:msg_branch_raw=01 11 00 00 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "1100_Darts Expert"
 msgid "Never mind."
 msgstr "No importa."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=4
+#. y4:msg_section_label=Conversación 4
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P31
+#. y4:msg_branch_segment=T0.P31..P33
+#. y4:msg_branch_target_text=Simply put, stats are your average scores. The higher the number, the better you are as a player.
+#. y4:msg_branch_raw=01 11 00 1f 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "1112_Darts Expert"
 msgid "Stats"
 msgstr "Estadísticas"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=4
+#. y4:msg_section_label=Conversación 4
+#. y4:msg_talk=19
+#. y4:msg_phrase=0
+#. y4:msg_location=T19.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P34
+#. y4:msg_branch_segment=T0.P34..P35
+#. y4:msg_branch_target_text=Your rating takes into account your overall stats for the '01 Game and Cricket, rating you on a scale between 1 and 18.
+#. y4:msg_branch_raw=01 11 00 22 00 00 00 06 00 00 00 00 00 00 00 00
 msgctxt "1124_Darts Expert"
 msgid "Rating"
 msgstr "Clasificación"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=4
+#. y4:msg_section_label=Conversación 4
+#. y4:msg_talk=20
+#. y4:msg_phrase=0
+#. y4:msg_location=T20.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P36
+#. y4:msg_branch_segment=T0.P36..P37
+#. y4:msg_branch_target_text=A flight is like a division. There are six flights, each named with letters: C, CC, B, BB, A, and AA.
+#. y4:msg_branch_raw=01 11 00 24 00 00 00 06 00 00 00 00 00 00 00 00
 msgctxt "1136_Darts Expert"
 msgid "Flight"
 msgstr "Vuelo"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=14
+#. y4:msg_phrase=0
+#. y4:msg_location=T14.P0
+#. y4:msg_choice_index=8
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P2
+#. y4:msg_branch_segment=T0.P2..P7
+#. y4:msg_branch_target_text=What do you want to know about awards?
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "1148_Darts Expert"
 msgid "Never Mind"
 msgstr "No importa"
-

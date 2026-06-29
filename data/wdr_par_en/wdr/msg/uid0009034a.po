@@ -17,66 +17,126 @@ msgstr ""
 "X-Crowdin-File-ID: 58622\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "5476"
 msgid "Sea-gazing Man"
 msgstr "Hombre que Contempla el Mar"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "5480"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "5484"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "5488"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "5492"
 msgid "Talk_Cry"
 msgstr "Talk_Cry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "5496"
 msgid "Jeweler"
 msgstr "Joyero"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "5500"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "5504"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "5508"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "5512"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "5516"
 msgid "Talk_Udekumi_Yes"
 msgstr "Talk_Udekumi_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "5520"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "5524"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Sea-gazing Man
+#. y4:msg_speaker_id=0
 msgctxt "100_Sea-gazing Man"
 msgid "I ought to put an end to it all..."
 msgstr "Debo poner un fin a todo esto..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "112_Saejima"
 msgid "Hey. What's with all the gloom and doom?"
 msgstr "Ey. ¿Por qué tanto pesimismo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Sea-gazing Man
+#. y4:msg_speaker_id=0
 msgctxt "136_Sea-gazing Man"
 msgid "Please, just leave me alone. I'll be killed soon enough, anyway."
 msgstr "Por favor, déjame solo. De todos modos, pronto me matarán."
@@ -87,6 +147,13 @@ msgid "Ya don't look like a guy who lives dangerously,\\r\n"
 "What's eatin' ya?"
 msgstr "No pareces un tipo que se juega la vida… aunque no juzgo a un tigre por sus rayas. ¿Qué es lo que te carcome?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Sea-gazing Man
+#. y4:msg_speaker_id=0
 msgctxt "160_Sea-gazing Man"
 msgid "I appreciate your concern."
 msgstr "Aprecio tu preocupación."
@@ -101,10 +168,24 @@ msgid "These hardcore dudes came in, pointed their guns at me,\\r\n"
 "and said, \"Hand over the jewels if you want to live.\""
 msgstr "Estos tipos vinieron, me apuntaron con sus armas, y dijeron: \"Entrega las joyas si quieres vivir\"."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Jeweler
+#. y4:msg_speaker_id=5
 msgctxt "196_Jeweler"
 msgid "Of course I wanted to live! So I handed over the jewels."
 msgstr "¡Pues claro que quería vivir! Así que las entregué."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Jeweler
+#. y4:msg_speaker_id=5
 msgctxt "208_Jeweler"
 msgid "Did I ever! I opened all the display cases!"
 msgstr "¡Abrí todas las vitrinas de exhibición!"
@@ -120,22 +201,57 @@ msgid "I'm pretty sure the shop was just a front for the yakuza.\\r\n"
 "I saw murder in my manager's eyes, I can tell you that."
 msgstr "Estoy seguro que la tienda no es más que una tapadera para la yakuza. Te aseguro que vi la muerte en los ojos de mi jefe."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Jeweler
+#. y4:msg_speaker_id=5
 msgctxt "244_Jeweler"
 msgid "So I filed a police report, and even did some investigating of my own. I found out the getaway car was seen heading for these docks."
 msgstr "Así que presenté una denuncia en la policía, e incluso investigué por mi cuenta. Descubrí que el coche de huida fue visto rumbo a estos muelles."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Jeweler
+#. y4:msg_speaker_id=5
 msgctxt "256_Jeweler"
 msgid "But nobody's seen anything, and now I'm stuck on a wild goose chase."
 msgstr "Pero nadie sabe nada, y ahora estoy dando vueltas sin rumbo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Jeweler
+#. y4:msg_speaker_id=5
 msgctxt "268_Jeweler"
 msgid "Even if I did find the guys, they'd probably just kill me on the spot. It's too depressing to even think about."
 msgstr "Y aunque encontrara a esos tipos, me matarían ahí mismo. Me deprimo de solo pensarlo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Jeweler
+#. y4:msg_speaker_id=5
 msgctxt "280_Jeweler"
 msgid "That's why I figure I should just get it over with and die on my own terms."
 msgstr "Por eso creo que es hora de ponerle fin… y morir como yo decida."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "292_Saejima"
 msgid "(Poor guy, gettin' caught up in a buncha yakuza bullshit.)"
 msgstr "(Pobre tipo, metido en un lío con la yakuza.)"
@@ -145,30 +261,79 @@ msgid "Listen, buddy. If you're capable of offin' yourself,\\r\n"
 "I'd say you're capable of damn near anything."
 msgstr "Escucha, amigo. Si eres capaz de suicidarte, me atrevería a decir que eres capaz de hacer cualquier cosa."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "316_Saejima"
 msgid "Instead of givin' up the ghost, try diggin' in your heels."
 msgstr "En lugar de rendirte, deberías mantenerte firme."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=19
+#. y4:msg_location=T1.P19
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "328_Saejima"
 msgid "Even if ya can't do much on your own, you oughta be able to hire a private eye, or... somethin'."
 msgstr "Aunque no puedas hacer mucho por tu cuenta, deberías poder contratar a un detective privado o... algo así."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=20
+#. y4:msg_location=T1.P20
+#. y4:msg_speaker=Jeweler
+#. y4:msg_speaker_id=5
 msgctxt "340_Jeweler"
 msgid "You know what? You're right. I guess I've been feeling guilty about not putting up a fight..."
 msgstr "¿Sabes qué? Tienes razón. Creo que me estaba sintiendo culpable por no dar pelea..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=21
+#. y4:msg_location=T1.P21
+#. y4:msg_speaker=Jeweler
+#. y4:msg_speaker_id=5
 msgctxt "352_Jeweler"
 msgid "But I think I'll keep at it and try to find those jewels."
 msgstr "Pero creo que seguiré intentando encontrar esas joyas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=22
+#. y4:msg_location=T1.P22
+#. y4:msg_speaker=Jeweler
+#. y4:msg_speaker_id=5
 msgctxt "364_Jeweler"
 msgid "...Once I stop feeling so depressed, that is."
 msgstr "...Cuando se me pase la depresión, claro."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "376_Saejima"
 msgid "Alright. Good luck to ya."
 msgstr "De acuerdo. Buena suerte con eso."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=24
+#. y4:msg_location=T1.P24
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "388_Saejima"
 msgid "(He's got balls, for a civvie. So there's jewel thieves on the run around here, huh? Oughta see what I can find.)"
 msgstr "(Tiene huevos para ser un civil. Así que hay ladrones de joyas en estos lados, ¿eh? Veré que puedo hacer.)"
@@ -178,4 +343,3 @@ msgid "The robbers brought the jewels to the docks,\\r\n"
 "but from there? It's anyone's guess."
 msgstr "Los ladrones trajeron las joyas al muelle, pero\\r \n"
 "¿de ahí? Quién sabe."
-

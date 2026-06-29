@@ -17,42 +17,76 @@ msgstr ""
 "X-Crowdin-File-ID: 59920\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3620"
 msgid "F_oba_sitchr"
 msgstr "F_oba_sitchr"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3624"
 msgid "F_oba_sitchr_tlk_kamae"
 msgstr "F_oba_sitchr_tlk_kamae"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3628"
 msgid "Hana"
 msgstr "Hana"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3632"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3636"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3640"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "3644"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "3648"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "3652"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=2
 msgctxt "120_Hana"
 msgid "Chief, are you sure about this? That's one heck of a test..."
 msgstr "Jefe, ¿está seguro de eso? Es una prueba durísima..."
@@ -77,6 +111,13 @@ msgid "Which means... their only choice is to downsize and cut\\r\n"
 msgstr "Lo que significa que... su única opción es reestructurar\\r\n"
 "la empresa y para ello, despedir personas..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=2
 msgctxt "168_Hana"
 msgid "Ah!"
 msgstr "¡Ah!"
@@ -89,10 +130,24 @@ msgstr "Exacto. Solo les queda reducir personal. Y nuestro querido\\r\n"
 "Shiobara-kun, quién provocó la quiebra de su anterior empresa\\r\n"
 "por eso, ahora se verá obligado a hacerlo para salvar esta."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=2
 msgctxt "192_Hana"
 msgid "You're a bad man, Chief..."
 msgstr "Jefe... usted es muy malo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "204_Akiyama"
 msgid "Call it shock therapy. If he can't do this, he's hopeless."
 msgstr "Llámalo terapia de choque. Si no puede hacer esto, entonces es un caso perdido."
@@ -103,6 +158,13 @@ msgid "Shock therapy...? Don't you think you should go check up on\\r\n"
 msgstr "¿Terapia de choque...? ¿No será demasiado? Quizá debería\\r\n"
 "ir a comprobar que todo esté bien..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "228_Akiyama"
 msgid "Well... If you insist."
 msgstr "Uh, si Hana-chan lo pide, supongo que puedo ir a echar un vistazo."
@@ -123,4 +185,3 @@ msgctxt "264_F_oba_sitchr"
 msgid "Okay, I'll be back in a bit. Hold down the fort till I get\\r\n"
 "back."
 msgstr "Volveré en un rato. Cuida del fuerte hasta que regrese."
-

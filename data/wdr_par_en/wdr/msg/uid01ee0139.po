@@ -17,82 +17,252 @@ msgstr ""
 "X-Crowdin-File-ID: 58174\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Use a Coupon
 msgctxt "416"
 msgid "You used a <Color:8>Batting Coupon<Color:Default>."
 msgstr "Usaste un <Color:8>Cupón de bateo<Color:Default>."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "5792"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "5796"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "5800"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "5804"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "5808"
 msgid "Batting Center: Batting Champion Ranking"
 msgstr "Centro de Bateo: Ranking de Campeón de Bateo"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "284_Player"
 msgid "(Looks like it's out of order right now.)"
 msgstr "(Parece que está fuera de servicio en este momento)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "296_Kiryu"
 msgid "(Sure, I'll do it for Haruka...)"
 msgstr "(Claro, lo haré por Haruka...)"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Pay 300 Yen -> T2.P6 | 2. Use a Coupon -> T2.P8 | 3. Don't Play -> T2.P12 | 4. Read the Rules -> T2.P14
 msgctxt "344_Player"
 msgid "(Hmm... The Batting Champion Ranking is 300 yen. I can play for free if I use a coupon...)"
 msgstr "(Mmm... El ranking de campeón de bateo es de 300 yenes. Puedo jugar gratis si uso un cupón...)"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. Play -> T2.P6 | 2. Don't Play -> T2.P12 | 3. Read the Rules -> T2.P14
 msgctxt "356_Player"
 msgid "(Hmm... The Batting Champion Ranking is 300 yen. Should I give it a try?)"
 msgstr "(Mmm... El ranking de campeón de bateo es de 300 yenes. ¿Debería intentarlo?)"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Pay 300 Yen -> T2.P6 | 2. Use a Coupon -> T2.P8 | 3. Don't Play -> T2.P12 | 4. Read the Rules -> T2.P14
 msgctxt "368_Player"
 msgid "(Hmm... The Batting Champion Ranking is 300 yen. I can play for free if I use a coupon...)"
 msgstr "(Mmm... El ranking de campeón de bateo es de 300 yenes. Puedo jugar gratis si uso un cupón...)"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Pay 300 Yen
 msgctxt "380_Player"
 msgid "(Okay, let's do this.)"
 msgstr "(Está bien, lo intentaré.)"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Pay 300 Yen
 msgctxt "404_Player"
 msgid "(Okay, let's do this.)"
 msgstr "(Está bien, lo intentaré.)"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=12
+#. y4:msg_location=T2.P12
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Don't Play
 msgctxt "452_Player"
 msgid "(Not right now.)"
 msgstr "(Ahora no)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=14
+#. y4:msg_location=T2.P14
+#. y4:msg_speaker=Batting Center: Batting Champion Ranking
+#. y4:msg_speaker_id=4
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Read the Rules
 msgctxt "476_Player"
 msgid "Press <Action:Button_Cross@Battingcenter> at the right time to hit the balls pitched by the pitching machine. Hit the home run targets to earn points."
 msgstr "Prensa <Action:Button_Cross@Battingcenter> en el momento adecuado para golpear las bolas lanzadas por la máquina de lanzar. Golpea los objetivos de jonrones para ganar puntos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=15
+#. y4:msg_location=T2.P15
+#. y4:msg_speaker=Batting Center: Batting Champion Ranking
+#. y4:msg_speaker_id=4
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Read the Rules
 msgctxt "488_Player"
 msgid "In this course, the objective is to see how many home runs you can get in a row."
 msgstr "En este curso, el objetivo es ver cuántos home runs puedes conseguir seguidos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Batting Center: Batting Champion Ranking
+#. y4:msg_speaker_id=4
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Read the Rules
 msgctxt "500_Player"
 msgid "If you reach a new personal high score, you can upload that score to the online ranking. *If your score is too low for the ranking, you will not be able to upload it to the online ranking."
 msgstr "Si consigues un nuevo récord personal, podrás subir tu puntuación a la clasificación en línea. *Si es demasiado baja, no podrás hacerlo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=17
+#. y4:msg_location=T2.P17
+#. y4:msg_speaker=Batting Center: Batting Champion Ranking
+#. y4:msg_speaker_id=4
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Read the Rules
 msgctxt "512_Player"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, depending on server conditions. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación a la clasificación en línea tomará unos segundos. A veces, dependiendo del estado del servidor, el cálculo de la puntuación puede tardar unos minutos. (En ese caso, el ranking mostrará 'Calculando'.)"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=18
+#. y4:msg_location=T2.P18
+#. y4:msg_speaker=Batting Center: Batting Champion Ranking
+#. y4:msg_speaker_id=4
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Read the Rules
 msgctxt "524_Player"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=19
+#. y4:msg_location=T2.P19
+#. y4:msg_speaker=Batting Center: Batting Champion Ranking
+#. y4:msg_speaker_id=4
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Read the Rules
 msgctxt "536_Player"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -101,51 +271,202 @@ msgctxt "548_Player"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=21
+#. y4:msg_location=T2.P21
+#. y4:msg_speaker=Batting Center: Batting Champion Ranking
+#. y4:msg_speaker_id=4
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Read the Rules
 msgctxt "560_Player"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=22
+#. y4:msg_location=T2.P22
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Read the Rules
 msgctxt "572_Player"
 msgid "(I'd need to scrounge up 300 yen to play the Batting Champion Ranking... Better get to work.)"
 msgstr "(Necesito subir 300 yenes para jugar a la Clasificación del Campeón de Batallón... Mejor ponerse en serio.)"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P6
+#. y4:msg_branch_segment=T2.P6..P7
+#. y4:msg_branch_target_text=(Okay, let's do this.)
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "596_Player"
 msgid "Pay 300 Yen"
 msgstr "Pagar 300 yenes"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P8
+#. y4:msg_branch_segment=T2.P8..P11
+#. y4:msg_branch_target_text=(Okay, let's do this.)
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "608_Player"
 msgid "Use a Coupon"
 msgstr "Usar un Cupón"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P12
+#. y4:msg_branch_segment=T2.P12..P13
+#. y4:msg_branch_target_text=(Not right now.)
+#. y4:msg_branch_raw=01 11 00 0c 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "620_Player"
 msgid "Don't Play"
 msgstr "No jugar"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P14
+#. y4:msg_branch_segment=T2.P14..P23
+#. y4:msg_branch_target_text=Press <Action:Button_Cross@Battingcenter> at the right time to hit the balls pitched by the pitching machine. Hit the home run targets to earn points.
+#. y4:msg_branch_raw=01 11 00 0e 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "632_Player"
 msgid "Read the Rules"
 msgstr "Leer las Reglas"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P6
+#. y4:msg_branch_segment=T2.P6..P11
+#. y4:msg_branch_target_text=(Okay, let's do this.)
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "644_Player"
 msgid "Play"
 msgstr "Jugar"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P12
+#. y4:msg_branch_segment=T2.P12..P13
+#. y4:msg_branch_target_text=(Not right now.)
+#. y4:msg_branch_raw=01 11 00 0c 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "656_Player"
 msgid "Don't Play"
 msgstr "No jugar"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P14
+#. y4:msg_branch_segment=T2.P14..P23
+#. y4:msg_branch_target_text=Press <Action:Button_Cross@Battingcenter> at the right time to hit the balls pitched by the pitching machine. Hit the home run targets to earn points.
+#. y4:msg_branch_raw=01 11 00 0e 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "668_Player"
 msgid "Read the Rules"
 msgstr "Leer las Reglas"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P8
+#. y4:msg_branch_segment=T2.P8..P11
+#. y4:msg_branch_target_text=(Okay, let's do this.)
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "680_Player"
 msgid "Use a Coupon"
 msgstr "Usar un Cupón"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P12
+#. y4:msg_branch_segment=T2.P12..P13
+#. y4:msg_branch_target_text=(Not right now.)
+#. y4:msg_branch_raw=01 11 00 0c 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "692_Player"
 msgid "Don't Play"
 msgstr "No jugar"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P14
+#. y4:msg_branch_segment=T2.P14..P23
+#. y4:msg_branch_target_text=Press <Action:Button_Cross@Battingcenter> at the right time to hit the balls pitched by the pitching machine. Hit the home run targets to earn points.
+#. y4:msg_branch_raw=01 11 00 0e 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "704_Player"
 msgid "Read the Rules"
 msgstr "Leer las Reglas"
-

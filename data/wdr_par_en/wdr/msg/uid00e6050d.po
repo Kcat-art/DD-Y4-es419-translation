@@ -17,55 +17,121 @@ msgstr ""
 "X-Crowdin-File-ID: 60632\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1424"
 msgid "Pachinko Regular"
 msgstr "Habitual del Pachinko"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1428"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1432"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1436"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1440"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1444"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Pachinko Regular
+#. y4:msg_speaker_id=0
 msgctxt "84_Pachinko Regular"
 msgid "That host sure was upset. He kept yelling something about returning money."
 msgstr "Ese anfitrión estaba realmente disgustado. No paraba de gritar algo sobre devolver dinero."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "96_Tanimura"
 msgid "Excuse me. I need to know more about that host. What happened, exactly?"
 msgstr "Discúlpeme. Necesito saber más sobre ese anfitrión. ¿Que ha pasado, exactamente?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Pachinko Regular
+#. y4:msg_speaker_id=0
 msgctxt "108_Pachinko Regular"
 msgid "Huh? Well... He's a regular here. He left with a woman a bit ago. They were arguing over repaying money or something."
 msgstr "¿Eh? Bueno... Es un habitual de por aquí. Salió con una mujer hace no mucho. Estaban discutiendo algo sobre devolver dinero o algo así."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "120_Tanimura"
 msgid "(That might be Shinnosuke... Maybe he ran into that customer who didn't pay her tab.)"
 msgstr "(Ese puede que sea Shinnosuke... Quizá se topó con un cliente que no pagó su cuenta.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "132_Tanimura"
 msgid "I think I know that guy. Did you see where he went?"
 msgstr "Creo que conozco al tipo. ¿Viste a dónde fueron?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Pachinko Regular
+#. y4:msg_speaker_id=0
 msgctxt "144_Pachinko Regular"
 msgid "Hmm... I think he went toward Tenkaichi Street. Where Public Park 3 is."
 msgstr "Hmm... Creo que fueron directos a la Calle Tenkaichi. Dónde está el Paque Público 3."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "156_Tanimura"
 msgid "Got it. Thanks."
 msgstr "Entendido. Gracias."
-

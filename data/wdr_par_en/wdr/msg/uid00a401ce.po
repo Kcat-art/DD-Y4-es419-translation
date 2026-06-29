@@ -17,26 +17,44 @@ msgstr ""
 "X-Crowdin-File-ID: 60218\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1424"
 msgid "Forex Company Employee"
 msgstr "Empleado de compañía de forex"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1428"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1432"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1436"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1440"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1444"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
@@ -47,6 +65,17 @@ msgid "Are you here for the forex information session?\\r\n"
 msgstr "¿Viene por la charla informativa de forex?\\r\n"
 "¡Un placer tenerle aquí!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=I'm not interested.
 msgctxt "140_Akiyama"
 msgid "I'm not particularly interested in forex, no."
 msgstr "No. No estoy muy interesado en el FX."
@@ -62,15 +91,51 @@ msgid "I am a little interested in forex, yes. I came by to learn\\r\n"
 "more."
 msgstr "Estoy un poco interesado en el FX. Vine a informarme."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Forex Company Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I came to hear the talk.
 msgctxt "176_Forex Company Employee"
 msgid "Thank you very much! Please, right this way."
 msgstr "¡Es un placer tenerlo aquí! Por favor, acompáñeme."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P1
+#. y4:msg_branch_segment=T1.P1..P2
+#. y4:msg_branch_target_text=I'm not particularly interested in forex, no.
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 13 00 00 00 00 00 00 00 00
 msgctxt "200_Forex Company Employee"
 msgid "I'm not interested."
 msgstr "No me interesa."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P5
+#. y4:msg_branch_target_text=I am a little interested in forex, yes. I came by to learn\nmore.
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 18 00 00 00 00 00 00 00 00
 msgctxt "212_Forex Company Employee"
 msgid "I came to hear the talk."
 msgstr "Vine a escuchar la charla."
-

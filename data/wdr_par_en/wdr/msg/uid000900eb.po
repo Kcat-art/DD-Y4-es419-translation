@@ -10,113 +10,230 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3300"
 msgid "Kashiwabara"
 msgstr "Kashiwabara"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3304"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3308"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3312"
 msgid "Natsuki"
 msgstr "Natsuki"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3316"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3320"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "3324"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "3328"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "3332"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Kashiwabara
+#. y4:msg_speaker_id=0
 msgctxt "96_Kashiwabara"
 msgid "This is getting out of hand. The police will get involved if I keep this up..."
 msgstr "Esto se está saliendo de control. La policía se involucrará si sigo así..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Natsuki
+#. y4:msg_speaker_id=3
 msgctxt "108_Natsuki"
 msgid "We're almost done. We just have to keep it up a little longer. Himeka's sales will soon start to plummet!"
 msgstr "Casi hemos terminado. Solo tenemos que mantenernos así un poco mas. ¡Las ventas de Himeka pronto empezarán a desplomarse!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Natsuki
+#. y4:msg_speaker_id=3
 msgctxt "120_Natsuki"
 msgid "Then it's just a matter of time until she quits!"
 msgstr "¡Entonces será solo cuestión de tiempo hasta que abandone!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Kashiwabara
+#. y4:msg_speaker_id=0
 msgctxt "132_Kashiwabara"
 msgid "Sheesh. All right."
 msgstr "... Oh. De acuerdo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=6
 msgctxt "144_Tanimura"
 msgid "So that's what's going on."
 msgstr "Así que eso es lo que está pasando."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Kashiwabara
+#. y4:msg_speaker_id=0
 msgctxt "168_Kashiwabara"
 msgid "Who the hell are you?"
 msgstr "¿Quién demonios eres tú?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Natsuki
+#. y4:msg_speaker_id=3
 msgctxt "180_Natsuki"
 msgid "Aren't you one of Himeka's customers?"
 msgstr "¿No eres uno de los clientes de Himeka?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=6
 msgctxt "192_Tanimura"
 msgid "You two have been working together to cause trouble for her, huh?"
 msgstr "Vosotros dos habéis estado colaborando para causarle problemas, ¿eh?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Natsuki
+#. y4:msg_speaker_id=3
 msgctxt "204_Natsuki"
 msgid "That's none of your business!"
 msgstr "¡Eso no es asunto tuyo!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=6
 msgctxt "216_Tanimura"
 msgid "Oh, it is my business. I'm a cop."
 msgstr "Oh, es asunto mío. Soy policía."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=6
 msgctxt "228_Tanimura"
 msgid "I won't stand by and do nothing when I see someone being harassed like this."
 msgstr "No me quedaré de brazos cruzados si veo a alguien siendo acosado así."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Natsuki
+#. y4:msg_speaker_id=3
 msgctxt "240_Natsuki"
 msgid "A cop!? Seriously!?"
 msgstr "¿¡Un policía!? ¿¡En serio!?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Kashiwabara
+#. y4:msg_speaker_id=0
 msgctxt "252_Kashiwabara"
 msgid "A cop, huh? Well, buddy, I'm gonna make you take an early retirement!"
 msgstr "Un policía, ¿eh? Bueno, amigo, ¡voy a hacer que te jubiles antes de tiempo!"
-

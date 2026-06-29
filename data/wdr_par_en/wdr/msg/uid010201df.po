@@ -17,165 +17,424 @@ msgstr ""
 "X-Crowdin-File-ID: 62824\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "8372"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "8376"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "8380"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "8384"
 msgid "Lily"
 msgstr "Lily"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "8388"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "96_Akiyama"
 msgid "Well, I should probably get going. Got some other things to take care of. You know how it is."
 msgstr "Bueno, entonces ya me voy."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "108_Lily"
 msgid "Leaving already? But we only just got started."
 msgstr "¿Ah, ya se va?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "120_Akiyama"
 msgid "Sorry. Can't have the owner keeping his future number one all to himself. It's bad for business."
 msgstr "Sí. Aunque sea el dueño, si me quedo demasiado tiempo en la zona de clientes, le hago un mal al negocio."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "132_Lily"
 msgid "Of course..."
 msgstr "Claro..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "144_Akiyama"
 msgid "But what do you say we meet up after your shift?"
 msgstr "Lily, ¿podríamos vernos un rato cuando termines el turno?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "156_Lily"
 msgid "Hehe, are you asking me out on another date?"
 msgstr "Je, je, je, ¿Me estás pidiendo otra cita?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "168_Akiyama"
 msgid "If you want me to be."
 msgstr "Si quieres, claro."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "180_Lily"
 msgid "Okay, then. It's a date."
 msgstr "Entonces es una cita."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "192_Akiyama"
 msgid "Great, we'll reconvene in Theater Square. See you there."
 msgstr "Entonces, nos vemos frente al teatro.\n"
 "Hasta más tarde."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "204_Lily"
 msgid "Okay."
 msgstr "Está bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "240_Akiyama"
 msgid "All right, part two. You ready?"
 msgstr "Muy bien, segunda parte. ¿Estás lista?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "252_Lily"
 msgid "Yes."
 msgstr "Sí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "264_Akiyama"
 msgid "Good. Now, I want you to entertain me as if I were a customer."
 msgstr "A partir de ahora, vas a atenderme como si fuera un cliente."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "276_Lily"
 msgid "A customer?"
 msgstr "¿Un cliente?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "288_Akiyama"
 msgid "That's right. You've just been hired as a hostess, after all."
 msgstr "Así es. Desde este momento, eres parte del club. Es decir, una hostess."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "300_Akiyama"
 msgid "You're gonna be the number one girl here."
 msgstr "Quiero que te conviertas en la número uno de este lugar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "312_Lily"
 msgid "Me, number one...? But why?"
 msgstr "¿La número uno...? ¿Pero por qué?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "324_Akiyama"
 msgid "Well, as it turns out, I own the place."
 msgstr "Pues, resulta que manejo este lugar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "336_Akiyama"
 msgid "We manage to stay in the black, but in this economy, well... We're basically treading water."
 msgstr "Las ventas no van mal, pero con la crisis económica últimamente no han subido mucho, y estaba buscando una solución."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "348_Lily"
 msgid "Oh..."
 msgstr "Oh..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "360_Akiyama"
 msgid "And that's where you come in. A new face to freshen up our lineup could really boost sales."
 msgstr "Y ahí entras tú. Quiero que trabajes aquí.\n"
 "Esa será la prueba número dos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "372_Lily"
 msgid "I see. Um..."
 msgstr "Eh... bueno..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "384_Akiyama"
 msgid "Yeah?"
 msgstr "¿Sí?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "396_Lily"
 msgid "I understand the test, but... I'm not sure I can reach number one."
 msgstr "Entiendo, pero eso de convertirme en la número uno... No sé, no estoy muy segura."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "408_Akiyama"
 msgid "That so? Then I guess you don't need the hundred million."
 msgstr "¿Entonces renuncias a los cien millones de yenes?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "420_Lily"
 msgid "What?"
 msgstr "¿Qué?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "432_Akiyama"
 msgid "We haven't even started, and you've already decided you can't do it. We should just call the whole thing off."
 msgstr "¿Vas a rendirte antes de intentarlo y abandonar la prueba? ¿Estás segura de eso?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "444_Lily"
 msgid "No... I'll do it. Please."
 msgstr "No, lo haré. Por favor, déjame intentarlo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=19
+#. y4:msg_location=T1.P19
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "456_Akiyama"
 msgid "That's the spirit. And don't worry, you're number one material exactly as you are."
 msgstr "¡Eso me gusta! Tranquila, con lo que tienes ahora, puedes convertirte en la número uno en poco tiempo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=20
+#. y4:msg_location=T1.P20
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "468_Lily"
 msgid "Speaking of, how do you determine a hostess's rank? Is it by sales?"
 msgstr "Entonces, ¿cuáles son las condiciones para ser la número uno? ¿Se trata de las ventas, verdad?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=21
+#. y4:msg_location=T1.P21
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "480_Akiyama"
 msgid "You got it. Starting today, you'll have three days to make us three million yen."
 msgstr "Exacto. A partir de hoy, tienes tres días. En ese tiempo debes generar ventas por tres millones de yenes como hostess."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=22
+#. y4:msg_location=T1.P22
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "492_Lily"
 msgid "Three million? In three days?"
 msgstr "¿Tres millones... en tres días?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "504_Akiyama"
 msgid "Do that and you pass the test. I'll loan you the hundred million yen, no collateral, no guarantor."
 msgstr "Si lo logras, apruebas la prueba. Y te prestaré el dinero. Sin aval y sin garantía."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=24
+#. y4:msg_location=T1.P24
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=3
 msgctxt "516_Lily"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "528_Akiyama"
 msgid "And if you can't do it, we'll just pretend this never happened. Like we discussed earlier."
 msgstr "Si no puedes, tal como prometimos, olvídate del trato."
-

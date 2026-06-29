@@ -17,58 +17,104 @@ msgstr ""
 "X-Crowdin-File-ID: 59708\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4952"
 msgid "Suited Goon"
 msgstr "Matón Trajeado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4956"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4960"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4964"
 msgid "?"
 msgstr "¿?"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4968"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4972"
 msgid "Shine Scout"
 msgstr "Scout del Shine"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "4976"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "4980"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "4984"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "4988"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "4992"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "4996"
 msgid "Suited Thug"
 msgstr "Matón Trajeado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "5000"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Suited Goon
+#. y4:msg_speaker_id=0
 msgctxt "72_Suited Goon"
 msgid "Urk... Dammit!"
 msgstr "Uf... ¡Maldita sea!"
@@ -79,18 +125,46 @@ msgid "I dunno fuck-all 'bout no woman. Ya wanna find her?\\r\n"
 msgstr "No tengo ni la más puta idea de esa mujer. ¿La quieren \\r\n"
 "encontrar? Entonces empiecen a buscar, idiotas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "132_Saejima"
 msgid "(Saori's gotten herself into some serious shit.)"
 msgstr "(Saori se metió en algo muy turbio.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=?
+#. y4:msg_speaker_id=3
 msgctxt "144_?"
 msgid "Er, 'scuse me..."
 msgstr "Eh, disculpe..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "156_Saejima"
 msgid "Whaddya want?"
 msgstr "¿Qué pasa?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Shine Scout
+#. y4:msg_speaker_id=5
 msgctxt "168_Shine Scout"
 msgid "I work as a scout for Shine, a hostess club on Pink Street."
 msgstr "Trabajo como scout para el Shine, un club de hostess en Pink Street."
@@ -100,6 +174,13 @@ msgid "None of that made a damn lick of sense. Let's walk it back\\r\n"
 "and start over at \"scout,\" yeah?"
 msgstr "No entendí nada. Vamos paso a paso… empieza otra vez desde ‘scout’, ¿sí? "
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Shine Scout
+#. y4:msg_speaker_id=5
 msgctxt "192_Shine Scout"
 msgid "Huh? Oh. A scout's, uh... like a doorman, I guess?"
 msgstr "¿Eh? Oh. Un scout es... eh... ¿como un portero, supongo?"
@@ -116,18 +197,46 @@ msgid "You know those men in black you just fought off?\\r\n"
 msgstr "¿Sabes esos hombres de negro con los que acabas de pelear?\\r \n"
 "Hay algunos que tambien dan vueltas por nuestro club."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "228_Saejima"
 msgid "And?"
 msgstr "¿Y? ¿Qué más?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Shine Scout
+#. y4:msg_speaker_id=5
 msgctxt "240_Shine Scout"
 msgid "I was just wondering if you happened to know who they are...?"
 msgstr "Me preguntaba si sabías quiénes eran..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "252_Saejima"
 msgid "Nope. Sorry."
 msgstr "No. Lo siento."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Shine Scout
+#. y4:msg_speaker_id=5
 msgctxt "264_Shine Scout"
 msgid "Oh, all right. I suppose I'll have to alert the police, then."
 msgstr "Oh, bueno. Supongo que tendré que informar a la polícia."
@@ -143,14 +252,35 @@ msgid "It's fine, though. If you don't know, you don't know.\\r\n"
 msgstr "Pero está bien. Si no lo sabes, no pasa nada.\n"
 "Gracias igual, ¡y disculpa que te haya molestado!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "312_Saejima"
 msgid "(So those suits have some buddies over on Pink Street, huh?)"
 msgstr "(Así que los trajeados tienen amiguitos en Pink Street, eh?)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Suited Goon
+#. y4:msg_speaker_id=0
 msgctxt "348_Suited Goon"
 msgid "You... You're the one who helped that woman escape."
 msgstr "Tú... tú eres el que ayudó a escapar a esa mujer."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "360_Saejima"
 msgid "What gives?"
 msgstr "¿Si, y qué?"
@@ -160,4 +290,3 @@ msgid "Where'd she go? You'll tell us, all right,\\r\n"
 "even if we have to beat it out of you!"
 msgstr "¿A dónde fue? ¡Nos lo vas a decir por las buenas\\r \n"
 "o ya te puedes preparar para las malas!"
-

@@ -17,87 +17,207 @@ msgstr ""
 "X-Crowdin-File-ID: 62808\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
 msgctxt "128"
 msgid "You got a <Color:8>10G Coin<Color:Default>."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
 msgctxt "212"
 msgid "You got a <Color:8>100G Coin<Color:Default>."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
 msgctxt "320"
 msgid "You got a <Color:8>1000G Coin<Color:Default>."
 msgstr ""
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "5428"
 msgid "Manager"
 msgstr "Gerente"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "5432"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "5436"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "5440"
 msgid "Elise Manager"
 msgstr "Gerente del Elise"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "5444"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Manager
+#. y4:msg_speaker_id=0
 msgctxt "80_Manager"
 msgid "Thank you for everything, sir. It's all thanks to you that our club has become this popular."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "92_Akiyama"
 msgid "That's good to hear."
 msgstr "Ah, qué bueno."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Elise Manager
+#. y4:msg_speaker_id=3
 msgctxt "104_Elise Manager"
 msgid "Thank you again, sir. Please accept this as a token of our appreciation."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Elise Manager
+#. y4:msg_speaker_id=3
 msgctxt "152_Elise Manager"
 msgid "I'll contact you again if anything else comes up."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Manager
+#. y4:msg_speaker_id=0
 msgctxt "164_Elise Manager"
 msgid "Thank you for everything, sir. It's all thanks to you that our club has become this popular."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "176_Akiyama"
 msgid "That's good to hear."
 msgstr "Ah, qué bueno."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Elise Manager
+#. y4:msg_speaker_id=3
 msgctxt "188_Elise Manager"
 msgid "Thank you again, sir. Please accept this as a token of our appreciation."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Elise Manager
+#. y4:msg_speaker_id=3
 msgctxt "236_Elise Manager"
 msgid "I'll contact you again if anything else comes up."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Elise Manager
+#. y4:msg_speaker_id=3
 msgctxt "248_Elise Manager"
 msgid "Thank you for everything you've done. You've managed to train three excellent hostesses, and the club is doing very well."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "260_Akiyama"
 msgid "I'm just glad to be of help."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Elise Manager
+#. y4:msg_speaker_id=3
 msgctxt "272_Elise Manager"
 msgid "I know the club will be able to keep itself afloat from now on, if not exceed all of our expectations. I doubt we will need to ask you to go out of your way to help us again."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "284_Akiyama"
 msgid "All right then. Keep up the good work."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Elise Manager
+#. y4:msg_speaker_id=3
 msgctxt "296_Elise Manager"
 msgid "Thank you again, sir. Please accept this as a token of our appreciation."
 msgstr ""
-

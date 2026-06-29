@@ -17,18 +17,34 @@ msgstr ""
 "X-Crowdin-File-ID: 62830\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2444"
 msgid "Golf-tanned Geezer"
 msgstr "Golfista bronceado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2448"
 msgid "Corporate Golfer"
 msgstr "Golfista Corporativo"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2452"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Golf-tanned Geezer
+#. y4:msg_speaker_id=0
 msgctxt "84_Golf-tanned Geezer"
 msgid "I just got back from golfing with Chie-chan."
 msgstr "Acabo de regresar de jugar golf con Chie-chan."
@@ -37,35 +53,90 @@ msgctxt "96_Corporate Golfer"
 msgid "You went golfing with a girl? How'd that work－she keep you company while you played?"
 msgstr "¿Fuiste a jugar golf con una chica? ¿Y cómo fue la cosa? ¿Te acompañó mientras jugabas?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Golf-tanned Geezer
+#. y4:msg_speaker_id=0
 msgctxt "108_Golf-tanned Geezer"
 msgid "No, she played, too! Lots of girls are learning to play golf right now. Apparently restaurants are out, and golfing is in!"
 msgstr "No, ella también jugó. Hay muchas chicas aprendiendo a jugar golf últimamente. ¡Al parecer, los restaurantes ya no son la onda y el golf sí!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Corporate Golfer
+#. y4:msg_speaker_id=1
 msgctxt "120_Corporate Golfer"
 msgid "Huh. Seems kind of strange to me, but what's in is in."
 msgstr "No sé... Me parece un poco raro, pero bueno, lo que está de moda, manda."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Golf-tanned Geezer
+#. y4:msg_speaker_id=0
 msgctxt "132_Golf-tanned Geezer"
 msgid "Plus, if she needs a bit of help, you can get behind her, show her how to get in the right stance, get in real close... You can see how it can get real romantic."
 msgstr "Y además, si necesita que le eches una mano, te pones atrás de ella, le muestras cómo colocarse bien, te acercas... Y se puede poner muy romántico el ambiente."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Corporate Golfer
+#. y4:msg_speaker_id=1
 msgctxt "144_Corporate Golfer"
 msgid "Yeah, I can see that... Hell, I'm gettin' pretty excited just imagining it. Bet you had a good time with Chie-chan then, huh!"
 msgstr "Sí, sí, ya entiendo... ¡Uf! Con solo pensarlo me estoy excitando. ¡Seguro que te fue de maravilla con Chie-chan entonces, ¿verdad?!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Golf-tanned Geezer
+#. y4:msg_speaker_id=0
 msgctxt "156_Golf-tanned Geezer"
 msgid "I'm telling you, teaching a girl how to handle a club gets her more interested in handlin' your club, if you catch my drift. Heheh!"
 msgstr "Te estoy diciendo, enseñarle a una chica cómo empuñar el palo de golf la deja lista para... pues, empuñar otras cosas. ¡Je, je!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "168_Player"
 msgid "(I wonder if the girls at the hostess clubs would be into these golf dates.)"
 msgstr "(Me pregunto si a las chicas de los clubes les gustaría esto de las citas de golf)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "180_Player"
 msgid "(I wonder if the girls at the hostess clubs would be into these golf dates.)"
 msgstr "(Me pregunto si a las chicas de los clubes les gustaría esto de las citas de golf)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
 msgctxt "192_Player"
 msgid "(I wonder if the girls at the hostess clubs would be into these golf dates.)"
 msgstr "(Me pregunto si a las chicas de los clubes les gustaría esto de las citas de golf)."
-

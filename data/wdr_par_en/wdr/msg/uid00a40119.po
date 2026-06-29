@@ -10,62 +10,102 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3016"
 msgid "Homeless Man"
 msgstr "Hombre sin hogar"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3020"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3024"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3028"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3032"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3036"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "3040"
 msgid "2d_cf_pict_nigaoe_hana"
 msgstr "2d_cf_pict_nigaoe_hana"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "3044"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "3048"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "3052"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "3056"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Homeless Man
+#. y4:msg_speaker_id=0
 msgctxt "56_Homeless Man"
 msgid "Hey, Akiyama! You look like you got some time on your hands. As always."
 msgstr "¡Eh, Akiyama! Parece que tienes algo de tiempo libre. Como siempre."
@@ -86,6 +126,13 @@ msgid "You'll catch a cold, though... Whatever. Take a look\\r\nat this. If you 
 msgstr "Vas a resfriarte... Bueno, como sea. ¿Puedes llamarme\\r\nsi ves a este tipo? Aquí te dejo 100 yenes para llamar."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Homeless Man
+#. y4:msg_speaker_id=0
 msgctxt "104_Homeless Man"
 msgid "Whoa, that's terrible! Did you draw this?"
 msgstr "¡¿Que es eso?! Es horrible. ¿Tu lo dibujaste?"
@@ -96,17 +143,37 @@ msgid "Who, me? No way. But apparently it's pretty accurate. Mind\\r\nasking you
 msgstr "¿Yo? Nah, imposible. Pero, me han dicho que es muy parecido.\\r\n¿Podrías pedirle también a tus amigos que lo busquen?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Homeless Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Homeless Man"
 msgid "Leave it to me. And feel free to bring us some goodies again anytime!"
 msgstr "Dejámelo a mi. ¡No olvides de volver con regalos!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "140_Akiyama"
 msgid "I'd be happy to. Thanks again."
 msgstr "Claro, lo haré. Muchas gracias."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=2
 msgctxt "200_Akiyama"
 msgid "(Maybe I'll wander around town a bit myself. Seriously, though, this guy can't really be that ugly... can he?)"
 msgstr "(Bueno, ya es hora de vagar por Kamurocho. Pero, ¿En serio existe alguien tan horrible...?)"
-

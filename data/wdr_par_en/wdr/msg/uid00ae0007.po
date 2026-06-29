@@ -17,51 +17,182 @@ msgstr ""
 "X-Crowdin-File-ID: 60882\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2292"
 msgid "Kamiyama"
 msgstr "Kamiyama"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Kamiyama
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Get test item -> T0.P1 | 2. Train with weapons -> T0.P2 | 3. Item invention -> T0.P3 | 4. Repair weapons. -> T0.P4 | 5. Reload ammo. -> T0.P5 | 6. Check designs. -> T0.P6 | 7. Buy equipment/designs. -> T0.P7 | 8. Buy…
 msgctxt "212_Kamiyama"
 msgid "What can I do for you today?"
 msgstr "¿En que le puedo ayudar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_choice_index=9
+#. y4:msg_branch_choice=Cancel
 msgctxt "320_Kamiyama"
 msgid "See ya."
 msgstr "Hasta luego."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P1
+#. y4:msg_branch_segment=T0.P1..P1
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "332_Kamiyama"
 msgid "Get test item"
 msgstr "Obtener elemento de prueba"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P2
+#. y4:msg_branch_segment=T0.P2..P2
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "344_Kamiyama"
 msgid "Train with weapons"
 msgstr "Entrenar con armas"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P3
+#. y4:msg_branch_segment=T0.P3..P3
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "356_Kamiyama"
 msgid "Item invention"
 msgstr "Invención de objetos"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P4
+#. y4:msg_branch_segment=T0.P4..P4
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "368_Kamiyama"
 msgid "Repair weapons."
 msgstr "Reparar armas."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=5
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P5
+#. y4:msg_branch_segment=T0.P5..P5
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "380_Kamiyama"
 msgid "Reload ammo."
 msgstr "Recarga munición."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=6
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P6
+#. y4:msg_branch_segment=T0.P6..P6
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "392_Kamiyama"
 msgid "Check designs."
 msgstr "Revisar diseños."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=7
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P7
+#. y4:msg_branch_segment=T0.P7..P7
+#. y4:msg_branch_raw=01 11 00 07 00 00 00 16 00 00 00 00 00 00 00 00
 msgctxt "404_Kamiyama"
 msgid "Buy equipment/designs."
 msgstr "Comprar equipo/diseños."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=8
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P8
+#. y4:msg_branch_segment=T0.P8..P8
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "416_Kamiyama"
 msgid "Buy item"
 msgstr "Comprar Objeto"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=9
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P9
+#. y4:msg_branch_segment=T0.P9..P9
+#. y4:msg_branch_target_text=See ya.
+#. y4:msg_branch_raw=01 11 00 09 00 00 00 06 00 00 00 00 00 00 00 00
 msgctxt "428_Kamiyama"
 msgid "Cancel"
 msgstr "Cancelar"
-

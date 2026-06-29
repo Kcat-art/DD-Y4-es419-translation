@@ -11,76 +11,125 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4028"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4032"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4036"
 msgid "Man"
 msgstr "Hombre"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4040"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4044"
 msgid "Mr. Try and Hit Me"
 msgstr "Sr. Escurridizo"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4048"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "4052"
 msgid "Talk_Udekumi_No"
 msgstr "Talk_Udekumi_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "4056"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "4060"
 msgid "Talk_Udekumi_Yes"
 msgstr "Talk_Udekumi_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "4064"
 msgid "Iida"
 msgstr "Iida"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "4068"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "4072"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "4076"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "4080"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "84_Tanimura"
 msgid "Hey, you."
 msgstr "Oye, tú."
@@ -91,72 +140,169 @@ msgid "What's this? A challenger? Finally, someone around here\\r\nwho actually 
 msgstr "Oh, un retador. Bienvenido."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=2
 msgctxt "108_Man"
 msgid "I go by \"Mr. Try and Hit Me.\" The job's in the name: Hit me in under a minute and you get 50,000 yen."
 msgstr "Soy el \"Sr. Escurridizo\". Si logras golpearme al menos una vez en un minuto, te doy 50.000 yenes."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Mr. Try and Hit Me
+#. y4:msg_speaker_id=4
 msgctxt "120_Mr. Try and Hit Me"
 msgid "Only costs three grand to play. Wanna give it a shot?"
 msgstr "Solo cuesta 3.000 participar, ¿te animas?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "132_Tanimura"
 msgid "Hell no. Do I not look familiar to you?"
 msgstr "No. ¿No te parezco familiar?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Mr. Try and Hit Me
+#. y4:msg_speaker_id=4
 msgctxt "144_Mr. Try and Hit Me"
 msgid "...Oh shit! You're that mahjong monster!"
 msgstr "... ¡Ah mierda! ¡Eres ese monstruo del mahjong!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "156_Tanimura"
 msgid "Bingo. Now look, I have some questions for you. Got a few moments?"
 msgstr "Bingo. Ahora hay algo que tengo que preguntarte, ¿tienes tiempo?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Iida
+#. y4:msg_speaker_id=9
 msgctxt "168_Iida"
 msgid "Nope, don't know nothin'! And I definitely didn't rat you out to your superior officer, either, so why don't ya scurry on back to donut patrol!"
 msgstr "¡No, no sé nada! ¡Yo no fui quien te delató!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "180_Tanimura"
 msgid "...You're not very bright, are you? But thanks for saving both of us the time."
 msgstr "No eres muy inteligente, ¿verdad? Estás admitiendo que lo hiciste."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "192_Tanimura"
 msgid "Now's the part where I teach you a lesson for being such a sore loser."
 msgstr "Parece que necesitas aprender una lección. Va a doler un poco."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Iida
+#. y4:msg_speaker_id=9
 msgctxt "204_Iida"
 msgid "Hahaha... Go ahead and try! Can't touch this, baby!"
 msgstr "Ja, ja, ja... ¡Adelante, inténtalo! ¡No me podrás tocar!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "216_Tanimura"
 msgid "...You gotta be kidding me."
 msgstr "... Tienes que estar de broma."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Iida
+#. y4:msg_speaker_id=9
 msgctxt "228_Iida"
 msgid "It ain't no joke, jackass! They used to call me the Artful Dodger back in the day, 'cause my footwork alone is a masterpiece!"
 msgstr "¡No es ninguna broma! ¡Vénceme si puedes! Ya verás por qué me decían el Maestro del Esquivo en su día."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=13
+#. y4:msg_location=T1.P13
+#. y4:msg_speaker=Iida
+#. y4:msg_speaker_id=9
 msgctxt "240_Iida"
 msgid "So get ready, 'cause for the very first time in Kamurocho history, Mr. Try and Hit Me's gonna try and hit you! This is gonna be some groundbreaking shit right here!"
 msgstr "Prepárate, porque por primera vez en la historia de Kamurocho, ¡el Sr. Escurridizo va a intentar golpearte! ¡Esto va a ser una mierda innovadora!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "252_Tanimura"
 msgid "Yeah, good luck with that. I'll be handing you your ass in under a minute."
 msgstr "Sí, buena suerte con eso. Te noquearé en menos de un minuto."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Iida
+#. y4:msg_speaker_id=9
 msgctxt "264_Iida"
 msgid "You think you're hot shit, huh? All right then, game on!"
 msgstr "Te crees la gran cosa, ¿eh? ¡Comienza el combate!\\r\n¡Ven y noquéame si puedes!"
-

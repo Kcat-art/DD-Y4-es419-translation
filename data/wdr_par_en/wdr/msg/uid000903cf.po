@@ -17,67 +17,156 @@ msgstr ""
 "X-Crowdin-File-ID: 60202\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
 msgctxt "224"
 msgid "You gained 3,000 EXP."
 msgstr "Obtuviste 3,000 de experiencia."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2676"
 msgid "Tadokoro's Subordinate"
 msgstr "Subordinado de Tadokoro"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2680"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2684"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2688"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2692"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=0
 msgctxt "56_Tadokoro's Subordinate"
 msgid "How did it go, Suzuki-san?"
 msgstr "¿Cómo te fue, Suzuki-san?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "68_Saejima"
 msgid "Motoyama skipped town. He ain't comin' back."
 msgstr "Motoyama se fue de la ciudad. No va a volver."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=0
 msgctxt "80_Tadokoro's Subordinate"
 msgid "Yes, one of our agents confirmed it. I knew we could count on you."
 msgstr "Sí, uno de nuestros agentes lo ha confirmado. Sabía que podíamos contar contigo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "92_Saejima"
 msgid "Don't forget my pay."
 msgstr "No olviden mi paga."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=0
 msgctxt "104_Tadokoro's Subordinate"
 msgid "I wouldn't dream of it. Shall I apply it to the repayment of Tadashi-kun's debts?"
 msgstr "Jamás lo haría. ¿Debería aplicarlo al pago de las deudas de Tadashi-kun?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "116_Saejima"
 msgid "Yep."
 msgstr "Sí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=0
 msgctxt "140_Tadokoro's Subordinate"
 msgid "Oh, and just out of curiosity, Suzuki-san..."
 msgstr "Oh, y solo por curiosidad, Suzuki-san..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=0
 msgctxt "152_Tadokoro's Subordinate"
 msgid "Did you happen to have some history with this Motoyama?"
 msgstr "¿Tenías algún pasado con ese tal Motoyama?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "164_Saejima"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Tadokoro's Subordinate
+#. y4:msg_speaker_id=0
 msgctxt "176_Tadokoro's Subordinate"
 msgid "Ooh, if looks could kill... All right, if you don't want to answer, so be it. Goodbye, now."
 msgstr "Ooh, si las miradas pudieran matar... Está bien, si no quieres responder, que así sea. Adiós."
-

@@ -17,10 +17,16 @@ msgstr ""
 "X-Crowdin-File-ID: 60784\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4684"
 msgid "Hana"
 msgstr "Hana"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4688"
 msgid "Akiyama"
 msgstr "Akiyama"
@@ -31,82 +37,259 @@ msgid "I can't believe I'm going to karaoke with you, Chief...\\r\n"
 msgstr "Karaoke con el jefe... ¡Qué emoción!\\r\n"
 "¿Qué canción elijo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
 msgctxt "268_Hana"
 msgid "I think I'll try \"Raindrops.\" The lyrics are heartrending, but it's one of my favorite songs."
 msgstr "Creo que elegiré \"Raindrops\". La letra es muy triste, me encanta."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
 msgctxt "280_Hana"
 msgid "Not bad, Chief! I never knew you were so good at cheering people on."
 msgstr "¡Nada mal, jefe! ♪ Nunca pensé que fuera tan bueno animando."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Sure. -> T2.P2 | 2. I'd rather not. -> T2.P4
 msgctxt "292_Hana"
 msgid "Aren't you going to sing? Oh, I know! Why don't we sing a duet!?"
 msgstr "¿No va a cantar, jefe? ¡Ah, cierto!\n"
 "¡¿Qué tal si hacemos un dúo?!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "304_Akiyama"
 msgid "A duet, huh? Sure, why not? How about \"Pure Love in Kamurocho\"?"
 msgstr "¿Un dúo? Interesante.\n"
 "¿Qué tal \"Pure Love in Kamurocho\"?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "316_Hana"
 msgid "Perfect! I can't wait!"
 msgstr "¡Perfecto! ¡No puedo esperar!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I'd rather not.
 msgctxt "328_Akiyama"
 msgid "Sorry, not today."
 msgstr "No, lo siento."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I'd rather not.
 msgctxt "340_Hana"
 msgid "Really? Oh, all right. Too bad..."
 msgstr "Eh... Entiendo, es una pena."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
 msgctxt "352_Hana"
 msgid "Chief... You're breaking my rhythm."
 msgstr "Jefe... Arruina mi ritmo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "364_Akiyama"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
 msgctxt "376_Hana"
 msgid "That felt out of this world! I never knew you were so good at cheering people on, Chief!"
 msgstr "¡Eso se sintió de otro mundo! ¡No sabía que fueras tan bueno animando a la gente, Jefe!"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Sure. -> T2.P2 | 2. I'd rather not. -> T2.P4
 msgctxt "388_Hana"
 msgid "Aren't you going to sing? Oh, I know! Why don't we sing a duet!?"
 msgstr "¿No va a cantar, jefe? ¡Ah, cierto!\n"
 "¡¿Qué tal si hacemos un dúo?!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "400_Akiyama"
 msgid "A duet, huh? Sure, why not? How about \"Pure Love in Kamurocho\"?"
 msgstr "¿Un dúo? Interesante.\n"
 "¿Qué tal \"Pure Love in Kamurocho\"?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "412_Hana"
 msgid "Perfect! I can't wait!"
 msgstr "¡Perfecto! ¡No puedo esperar!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I'd rather not.
 msgctxt "424_Akiyama"
 msgid "Sorry, not today."
 msgstr "No, lo siento."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I'd rather not.
 msgctxt "436_Hana"
 msgid "Really? Oh, all right. Too bad..."
 msgstr "Eh... Entiendo, es una pena."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
 msgctxt "448_Hana"
 msgid "Hehe... Don't you think we were completely in sync? We were flowing like pros."
 msgstr "Jeje... ¿No crees que estábamos completamente sincronizados? Fluíamos como profesionales."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=1
+#. y4:msg_location=T5.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "460_Akiyama"
 msgid "Heheh, I guess so."
 msgstr "Heheh, supongo que sí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=0
 msgctxt "472_Hana"
 msgid "Chief... Stop getting in my way."
 msgstr "Jefe... Deje de meterse en mi camino."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "484_Akiyama"
 msgid "Sorry..."
 msgstr "Lo siento..."
@@ -115,23 +298,81 @@ msgctxt "496_Hana"
 msgid "That was perfect! I think we could release a CD. <Color:7>♥<Color:Default>"
 msgstr "¡Eso fue perfecto! Creo que podríamos lanzar un CD. <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=1
+#. y4:msg_location=T7.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "508_Akiyama"
 msgid "Heheh, sure."
 msgstr "Jejeje, claro."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P2
+#. y4:msg_branch_segment=T2.P2..P3
+#. y4:msg_branch_target_text=A duet, huh? Sure, why not? How about "Pure Love in Kamurocho"?
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "520_Hana"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P4
+#. y4:msg_branch_segment=T2.P4..P5
+#. y4:msg_branch_target_text=Sorry, not today.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "532_Hana"
 msgid "I'd rather not."
 msgstr "Preferiría no hacerlo."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P2
+#. y4:msg_branch_segment=T2.P2..P3
+#. y4:msg_branch_target_text=A duet, huh? Sure, why not? How about "Pure Love in Kamurocho"?
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "544_Hana"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P4
+#. y4:msg_branch_segment=T2.P4..P5
+#. y4:msg_branch_target_text=Sorry, not today.
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "556_Hana"
 msgid "I'd rather not."
 msgstr "Preferiría no hacerlo."
-

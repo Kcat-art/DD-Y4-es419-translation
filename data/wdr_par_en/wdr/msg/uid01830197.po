@@ -17,114 +17,274 @@ msgstr ""
 "X-Crowdin-File-ID: 59966\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=13
+#. y4:msg_location=T2.P13
 msgctxt "412"
 msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
 msgstr "Has obtenido el <Color:8>collar de Haruka<Color:Default>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=18
+#. y4:msg_location=T2.P18
 msgctxt "472"
 msgid "Haruka will now occasionally predict the outcome of a round when you are playing cho-han."
 msgstr "Haruka ahora predecirá ocasionalmente el resultado de una ronda cuando estés jugando cho-han."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=22
+#. y4:msg_location=T2.P22
 msgctxt "520"
 msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
 msgstr "Has obtenido el <Color:8>almuerzo de Haruka<Color:Default>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=27
+#. y4:msg_location=T2.P27
 msgctxt "580"
 msgid "You got <Color:8>Haruka's First-aid Kit<Color:Default>."
 msgstr "Has obtenido el <Color:8>botiquín de Haruka<Color:Default>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=32
+#. y4:msg_location=T2.P32
 msgctxt "640"
 msgid "You got a <Color:8>Red Jewel<Color:Default>."
 msgstr "Obtuviste una <Color:8>Joya Roja<Color:Default>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=37
+#. y4:msg_location=T2.P37
 msgctxt "700"
 msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
 msgstr "Has obtenido el <Color:8>amuleto de Haruka<Color:Default>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=42
+#. y4:msg_location=T2.P42
 msgctxt "760"
 msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
 msgstr "Has obtenido el <Color:8>chocolate de Haruka<Color:Default>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=47
+#. y4:msg_location=T2.P47
 msgctxt "820"
 msgid "You got <Color:8>Haruka's Candy<Color:Default>."
 msgstr "Has obtenido el <Color:8>dulce de Haruka<Color:Default>."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "7748"
 msgid "Haruka"
 msgstr "Haruka"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "7752"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "7756"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "7760"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "7764"
 msgid "HAL_stand_tlk_happy_small"
 msgstr "HAL_stand_tlk_happy_small"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "244_Haruka"
 msgid "Great job, Uncle Kaz!"
 msgstr "¡Lo lograste, Tío Kaz!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "256_Haruka"
 msgid "You're amazing, Uncle Kaz! You really raked it in!"
 msgstr "¡Eres increíble, Tío Kaz! ¡Hiciste una gran ganancia!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "292_Kiryu"
 msgid "(Haruka sure is happy...)"
 msgstr "(Haruka parece feliz...)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "328_Kiryu"
 msgid "(Haruka sure is happy...)"
 msgstr "(Haruka parece feliz...)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=12
+#. y4:msg_location=T2.P12
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "400_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=17
+#. y4:msg_location=T2.P17
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "460_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I wanna come to play cho-han with you next time, okay?"
 msgstr "¡Muchas gracias, tío Kaz! Quiero ir contigo a jugar al cho-han la próxima vez, ¿vale?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=12
+#. y4:msg_location=T2.P12
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "508_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=12
+#. y4:msg_location=T2.P12
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "568_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=12
+#. y4:msg_location=T2.P12
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "628_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=12
+#. y4:msg_location=T2.P12
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "688_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=12
+#. y4:msg_location=T2.P12
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "748_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=12
+#. y4:msg_location=T2.P12
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "808_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "892_Haruka"
 msgid "You were so close!"
 msgstr "¡Estabas tan cerca!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "904_Haruka"
 msgid "But I wanted you to play koi-koi..."
 msgstr "Pero yo quería que jugaras koi-koi..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "916_Haruka"
 msgid "Aw, you came pretty close!"
 msgstr "¡Ay, estuviste cerca!"
@@ -135,7 +295,13 @@ msgid "Uncle Kaz!\\r\n"
 msgstr "¡Tío Kaz!\\r\n"
 "¡Consigue 1,000 puntos en koi-koi!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "1000_Haruka"
 msgid "Uncle Kaz! Get 500 points in koi-koi!"
 msgstr "¡Tío Kaz! ¡Consigue 500 puntos en koi-koi!"
-

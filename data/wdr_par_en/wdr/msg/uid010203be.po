@@ -10,29 +10,76 @@ msgstr ""
 #. y4:last_translator=MasterCry
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Head Back -> T0.P1 | 2. Stay Here -> T0.P7
 msgctxt "100"
 msgid "Would you like to return to Kamurocho?"
 msgstr "¿Querés volver a Kamurocho?"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "984"
 msgid "Player"
 msgstr "Player"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Stay Here
 msgctxt "184_Player"
 msgid "(Maybe later.)"
 msgstr "(Tal vez más tarde)."
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P1
+#. y4:msg_branch_segment=T0.P1..P6
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "196_Player"
 msgid "Head Back"
 msgstr "Volver a Kamurocho"
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P7
+#. y4:msg_branch_segment=T0.P7..P7
+#. y4:msg_branch_target_text=(Maybe later.)
+#. y4:msg_branch_raw=01 11 00 07 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "208_Player"
 msgid "Stay Here"
 msgstr "Quedarse"
-

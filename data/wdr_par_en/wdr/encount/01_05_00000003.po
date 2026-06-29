@@ -17,30 +17,55 @@ msgstr ""
 "X-Crowdin-File-ID: 57740\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3192"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3196"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3200"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3204"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3208"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3212"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "Huh? Yo, what gives? Who said you could go out drinking alone? I wanna toss back a few, too!"
 msgstr "¿Eh? ¡Oye, qué onda! ¿Quién te dijo que podías salir a beber solo? ¡Yo también quiero beber!"
@@ -51,44 +76,109 @@ msgid "So how about you give me some? Some money, that is.\\r\n"
 msgstr "Así que, ¿qué te parece si me das un poco? Algo de dinero, eso.\\r\n"
 "D-I-N-E-R-O. Mmm, tal vez tenga que sacártelo a golpes, ¿eh?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Man"
 msgid "Aw, man... a dirty old drunk stumblin' around a place like this. Take a good look at yourself, you lousy piece of shit!"
 msgstr "Ah, carajo... un viejo borracho tambaleándose por un lugar como este. ¡Mírate bien, pedazo de mierda!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "164_Man"
 msgid "Nothin' I hate more than a sloppy drunk. Lemme help you snap out of it, with my fists!"
 msgstr "¡No hay nada que odie más que un borracho torpe! Déjame ayudarte a espabilar... ¡con mis puños!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "200_Man"
 msgid "Yow..."
 msgstr "Auch..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "212_Man"
 msgid "Okay, I see how it's gonna be. I'm better off leaving you the hell alone. Before I do though, take this. It's yours."
 msgstr "Está bien, ya entendí. Mejor me largo antes de que me rompas algo. Pero antes de irme, toma esto. Es tuyo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
 msgctxt "224_Man"
 msgid "You got a tender %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "248_Man"
 msgid "I give up! You win!"
 msgstr "¡Me rindo! ¡Tú ganas!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "260_Man"
 msgid "Sorry for jumping you like that. Here, take this."
 msgstr "Sorry for jumping you like that. Here, take this."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
 msgctxt "272_Man"
 msgid "You got an enchanting %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "320_Man"
 msgid "I swear I won't get all up in your shit again."
 msgstr "Te juro que no me voy a meter en tus asuntos otra vez."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=2
+#. y4:msg_location=T3.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "332_Man"
 msgid "Losing a fight with a drunk. Can't get much more pathetic than that. Shit. I sure could use a drink."
 msgstr "Perder una pelea contra un borracho. No hay nada más patético que eso. Mierda. La verdad es que\n"
 "me vendría bien una bebida."
-

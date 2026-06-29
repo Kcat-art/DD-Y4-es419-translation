@@ -10,57 +10,98 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3188"
 msgid "Fisherman"
 msgstr "Pescador"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3192"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3196"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3200"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3204"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3208"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "3212"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "3216"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "3220"
 msgid "SetM_nml_stand_udekumi"
 msgstr "SetM_nml_stand_udekumi"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Fisherman
+#. y4:msg_speaker_id=0
 msgctxt "72_Fisherman"
 msgid "You doing some fishing around here, pal?"
 msgstr "¿Estás de pesca por aquí, amigo?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "84_Saejima"
 msgid "Huh? Yeah, more or less."
 msgstr "¿Eh? Sí, más o menos."
@@ -71,11 +112,25 @@ msgid "Ah. Well, if you really want to reel in a good haul,\\r\nyou're better of
 msgstr "Ah. Bueno, si de verdad buscas pescar algo gordo,\\r \nte recomiendo que busques otro lugar."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "108_Saejima"
 msgid "Why's that?"
 msgstr "¿Por qué?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Fisherman
+#. y4:msg_speaker_id=0
 msgctxt "120_Fisherman"
 msgid "I do my share of fishing here myself, but they just aren't biting like they used to. I've wound up reeling in more random junk than fish."
 msgstr "Suelo pescar a menudo por aquí, pero la verdad que ya no muerden como antes. Últimamente pesco más basura que peces."
@@ -86,32 +141,73 @@ msgid "There's a better fishing spot a little ways away.\\r\nI'd be happy to sho
 msgstr "Hay un sitio mejor un poco más lejos. No me molestaría \\r \nmostrarte dónde es."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "144_Saejima"
 msgid "Nah, I'm good. Oughta be able to catch plenty for one fella."
 msgstr "Nah, tranquilo. Tiene que haber bastante para uno solo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "156_Saejima"
 msgid "How 'bout you? Why're ya fishin' here, if it's so crappy?"
 msgstr "¿Y que hay de tí? ¿Por qué pescas aquí si es tan mal lugar?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Fisherman
+#. y4:msg_speaker_id=0
 msgctxt "168_Fisherman"
 msgid "Truth be told, I'm not really in it for the fish. I just like the view. It's the journey that matters to me, not the destination."
 msgstr "Para ser honesto, no estoy aquí por los peces. Sino por las vistas. Es importante el camino, no el destino."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=1
 msgctxt "180_Saejima"
 msgid "That so? Then I guess the two of us anglers can suck it up and enjoy the ride."
 msgstr "¿Ah sí? Entonces ambos podremos disfrutar del camino juntos."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Fisherman
+#. y4:msg_speaker_id=0
 msgctxt "192_Fisherman"
 msgid "Oh, uh... yep. You got that right."
 msgstr "Oh, eh... sí. Tienes razón."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Fisherman
+#. y4:msg_speaker_id=0
 msgctxt "252_Fisherman"
 msgid "Hey, pal. Back for some more fishing? I really think you'd have more luck at a different spot."
 msgstr "Hola, amigo. ¿De vuelta a la pesca? De verdad pienso que te \\r iría mejor en otro lugar."
-

@@ -10,52 +10,90 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3060"
 msgid "Manager"
 msgstr "Gerente"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3064"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=todo
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3068"
 msgid "Easy Game Prizes"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3072"
 msgid "Normal Game Prizes"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3076"
 msgid "Hard Game Prizes"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3080"
 msgid "Extra Hard Course Prizes"
 msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "3084"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "3088"
 msgid "Player"
 msgstr "Player"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "3092"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=todo
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Manager
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Sure, let's hear it. -> T0.P1 | 2. Not right now. -> T0.P6
 msgctxt "100_Manager"
 msgid "Hello, sir. We have a variety of fabulous prizes for you here! Interested in hearing what we've got?"
 msgstr ""
@@ -86,22 +124,71 @@ msgid "We take pride in our fabulous prizes－hell, we'd rather go bankrupt than
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P6
+#. y4:msg_branch_segment=T0.P6..P7
+#. y4:msg_branch_target_text=Not right now.
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "172_Player"
 msgid "Not right now."
 msgstr "Ahora no."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Manager
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not right now.
 msgctxt "184_Manager"
 msgid "Oh, really? Well, they're all great prizes, so we hope you'll play to win one or more!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P1
+#. y4:msg_branch_segment=T0.P1..P5
+#. y4:msg_branch_target_text=\n縲縲縲縲縲縲縲縲 S Rank (2,300+ Points)\n縲縲縲縲縲縲縲縲 縲縲Southpaw Bracelet\n縲縲縲縲縲縲縲縲 A Rank (1,900+ Points)\n縲縲縲縲縲縲縲縲 縲縲Chunk of Wood (Maple)\n縲縲縲縲縲縲縲縲 B Rank (1,500+ Points)\n縲縲縲縲縲…
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 14 00 00 00 00 00 00 00 00
 msgctxt "196_Manager"
 msgid "Sure, let's hear it."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P6
+#. y4:msg_branch_segment=T0.P6..P7
+#. y4:msg_branch_target_text=Not right now.
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "208_Manager"
 msgid "Not right now."
 msgstr "Ahora no."
-

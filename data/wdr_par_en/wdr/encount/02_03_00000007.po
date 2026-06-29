@@ -17,26 +17,48 @@ msgstr ""
 "X-Crowdin-File-ID: 57786\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1420"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1424"
 msgid "P_stand_sync_btl_neck_st"
 msgstr "P_stand_sync_btl_neck_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1428"
 msgid "M_ykz_stand_sync_btl_neck_st"
 msgstr "M_ykz_stand_sync_btl_neck_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1432"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1436"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "88_Man"
 msgid "Gotcha! Is this your first time here in town? You can't just wander around aimlessly, you know."
 msgstr "¡Te pillé! ¿Es la primera vez que vienes a la ciudad? No puedes simplemente vagar sin rumbo, ¿sabes?"
@@ -45,19 +67,44 @@ msgctxt "100_Man"
 msgid "You never know when you'll be accosted by real violent types－like us!"
 msgstr "Nunca sabes cuándo te encontrarás con tipos muy violentos... ¡como nosotros!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "124_Man"
 msgid "Looks like we picked the one guy even more violent than we are."
 msgstr "Parece que elegimos un tipo aún más violento que nosotros."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "136_Man"
 msgid "Here. This will make up for it, right? Please say yes."
 msgstr "Toma. Esto lo compensará, ¿verdad? Por favor, di que sí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
 msgctxt "148_Man"
 msgid "You got a spoiled %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "184_Man"
 msgid "Aren't there any weaklings out there dumb enough to walk around with wads of cash?"
 msgstr "¿No hay por ahí algún debilucho lo suficientemente tonto como para andar con fajos de billetes?"
-

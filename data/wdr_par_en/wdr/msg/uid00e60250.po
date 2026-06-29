@@ -21,6 +21,15 @@ msgctxt "1048"
 msgid "Hehehe. ♪ What should I have you buy? <Color:7>♥<Color:Default>"
 msgstr "Je, je, je. ♪ ¿Qué debería hacerte comprar? <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=72
+#. y4:msg_location=T0.P72
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1360"
 msgid "But if that's where you wanna go, Akiyama-san, I guess I'll go."
 msgstr "Pero si ahí es donde quieres ir, Akiyama-san, supongo que iré."
@@ -33,6 +42,15 @@ msgctxt "1672"
 msgid "I only started playing recently. Hehehe... This should be a good matchup. <Color:7>♥<Color:Default>"
 msgstr "Empecé a jugar hace poco. Jejeje... Esta va a ser una buena partida. <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=103
+#. y4:msg_location=T0.P103
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1732"
 msgid "Well, if that's where you wanna go, Akiyama-san, I guess I'll go."
 msgstr "Si ahí es donde quieres ir, Akiyama-san, supongo que iré."
@@ -41,134 +59,389 @@ msgctxt "1804"
 msgid "Sounds fun! ♪ You'd better teach me how to play, then. <Color:7>♥<Color:Default>"
 msgstr "¡Suena divertido! ♪ En ese caso será mejor que me enseñes a jugar. <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=103
+#. y4:msg_location=T0.P103
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1864"
 msgid "Well, if that's where you wanna go, Akiyama-san, I guess I'll go."
 msgstr "Si ahí es donde quieres ir, Akiyama-san, supongo que iré."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "21288"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "21292"
 msgid "Rio"
 msgstr "Rio"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "21296"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "21300"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "21304"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "21308"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "21312"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "21316"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "21320"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "21324"
 msgid "Player"
 msgstr "Jugador"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "496_Akiyama"
 msgid "This is the store?"
 msgstr "¿Esta es la tienda?"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
 msgctxt "508_Rio"
 msgid "Yes. What'll I do if he's still here?"
 msgstr "Sí. ¿Qué haré si él sigue aquí?"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
 msgctxt "568_Rio"
 msgid "Ooh, look at him!"
 msgstr "¡Oh, míralo!"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "580_Akiyama"
 msgid "You really bought him, huh?"
 msgstr "De verdad lo compraste, ¿eh?"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
 msgctxt "592_Rio"
 msgid "Hey! You told me to do it!"
 msgstr "¡Hey! ¡Tú me dijiste que lo hiciera!"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "604_Akiyama"
 msgid "You agonized about it for over an hour! If I hadn't said something, we'd still be in there."
 msgstr "¡Estabas dándole vueltas más de una hora! Si no hubiera dicho nada, todavía seguiríamos allí."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
 msgctxt "616_Rio"
 msgid "Yeah, you're right..."
 msgstr "Sí, tienes razón..."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "628_Akiyama"
 msgid "Well, I hope he gets along with your other dog."
 msgstr "Bueno, espero que se lleve bien con tu otro perro."
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
 msgctxt "640_Rio"
 msgid "I'm sure he will. But first, I have to take him to the groomer. They'll make him nice and cute!"
 msgstr "Estoy segura que sí. Pero primero, debo llevarle a la peluquería. ¡Lo dejarán bonito y adorable!"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "652_Akiyama"
 msgid "Groomer? Like a beauty salon for dogs?"
 msgstr "¿Peluquería? ¿Como un salón de belleza para perros?"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
 msgctxt "664_Rio"
 msgid "That's right! I'm going to get him a full doggie makeover!"
 msgstr "¡Eso es! ¡Voy a ir para que le hagan un cambio de imagen perruno completo!"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "676_Akiyama"
 msgid "Sounds like that might take a while. Do you want to go somewhere else in the meantime?"
 msgstr "Parece que llevará un buen rato. ¿Quieres ir a algún sitio mientras tanto?"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Go Hang Out -> T0.P18 | 2. Go Shopping -> T0.P21 | 3. Go Out to Eat -> T0.P22
 msgctxt "688_Rio"
 msgid "Good idea! Where would you like to go?"
 msgstr "¡Buena idea! ¿Dónde te gustaría ir?"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. Go Hang Out -> T0.P18 | 2. Go Shopping -> T0.P21 | 3. Go Out to Eat -> T0.P22
 msgctxt "700_Player"
 msgid "(What should we do?)"
 msgstr "(¿Y ahora qué hacemos?)."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_decision_group=2
+#. y4:msg_decision_choices=1. Should we go bowling? -> T0.P64 | 2. Want to go sing karaoke? -> T0.P85 | 3. How about we play some pool? -> T0.P95 | 4. We could hit the hot springs. -> T0.P117 | 5. Do something else. -> T0.P17
 msgctxt "724_Player"
 msgid "(Where should we go...)"
 msgstr "(¿Adónde deberíamos ir...?)."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_decision_group=2
+#. y4:msg_decision_choices=1. Should we go bowling? -> T0.P64 | 2. Want to go sing karaoke? -> T0.P85 | 3. How about we play some pool? -> T0.P95 | 4. We could hit the hot springs. -> T0.P117 | 5. Do something else. -> T0.P17
 msgctxt "736_Player"
 msgid "(Where should we go...)"
 msgstr "(¿A dónde deberiamos ir...?)."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=4
+#. y4:msg_section_label=Conversación 4
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_decision_group=4
+#. y4:msg_decision_choices=1. We could go to Le Marche. -> T0.P43 | 2. Do something else. -> T0.P17
 msgctxt "748_Player"
 msgid "(We could go shopping.)"
 msgstr "(¿A dónde deberíamos ir de compras...?)"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=5
+#. y4:msg_section_label=Conversación 5
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_decision_group=5
+#. y4:msg_decision_choices=1. How about some yakiniku? -> T0.P23 | 2. How does sushi sound? -> T0.P33 | 3. Wanna hit up Watami? -> T0.P53 | 4. Do something else. -> T0.P17
 msgctxt "760_Player"
 msgid "(We could go out to eat.)"
 msgstr "(Podríamos ir a comer)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "784_Player"
 msgid "How about Kanrai for some yakiniku?"
 msgstr "¿Qué te parece si vamos a Kanrai por un poco de yakiniku?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=25
+#. y4:msg_location=T0.P25
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "796_Rio"
 msgid "Yakiniku? Now that I think of it, I am kinda hungry."
 msgstr "¿Yakiniku? Ahora que lo dices, hasta se me antojó."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "808_Akiyama"
 msgid "Okay, let's go."
 msgstr "Listo, vamos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "832_Player"
 msgid "How about Kanrai for some yakiniku?"
 msgstr "¿Qué te parece si vamos a Kanrai por un poco de yakiniku?"
@@ -177,26 +450,88 @@ msgctxt "844_Rio"
 msgid "Huh? Yakiniku again? I kinda wanted to eat something different today... <Color:7>♥<Color:Default>"
 msgstr "¿Eh? ¿Otra vez Yakiniku? Yo quería comer algo diferente hoy... <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=30
+#. y4:msg_location=T0.P30
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "856_Rio"
 msgid "But if you really want to go, Akiyama-san, I could live with it..."
 msgstr "Pero si realmente quieres ir, Akiyama-san, podré vivir con ello..."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "868_Talk_Yes"
 msgid "Okay, let's go."
 msgstr "Bien, vamos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=34
+#. y4:msg_location=T0.P34
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "904_Player"
 msgid "How does Sushi Gin sound?"
 msgstr "¿Qué tal el Sushi Gin?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=35
+#. y4:msg_location=T0.P35
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "916_Rio"
 msgid "Sushi? Now that I think of it, I am kinda hungry."
 msgstr "¿Sushi? Ahora que lo mencionas, tengo un poco de hambre."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "928_Akiyama"
 msgid "Okay, let's go."
 msgstr "Bien, vamos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=34
+#. y4:msg_location=T0.P34
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "952_Player"
 msgid "How does Sushi Gin sound?"
 msgstr "¿Qué tal el Sushi Gin?"
@@ -205,14 +540,45 @@ msgctxt "964_Rio"
 msgid "Huh? Sushi again? I kinda wanted to eat something different today... <Color:7>♥<Color:Default>"
 msgstr "¿Eh? ¿Sushi otra vez? Yo quería comer algo diferente hoy... <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=30
+#. y4:msg_location=T0.P30
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "976_Rio"
 msgid "But if you really want to go, Akiyama-san, I could live with it..."
 msgstr "Pero si realmente quieres ir, Akiyama-san, podré vivir con ello..."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "988_Talk_Yes"
 msgid "Okay, let's go."
 msgstr "Bien, vamos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=44
+#. y4:msg_location=T0.P44
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1024_Player"
 msgid "Why don't we go shopping at Le Marche?"
 msgstr "¿Qué te parece si vamos de compras a Le Marche?"
@@ -221,10 +587,30 @@ msgctxt "1036_Rio"
 msgid "Huh? Does that mean... You're going to buy me something? <Color:7>♥<Color:Default>"
 msgstr "¿Eh? ¿Significa eso... que me vas a comprar algo? <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1060_Talk_Yes"
 msgid "Okay, let's go."
 msgstr "Bien, vamos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=44
+#. y4:msg_location=T0.P44
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1084_Player"
 msgid "Why don't we go shopping at Le Marche?"
 msgstr "¿Qué te parece si vamos de compras a Le Marche?"
@@ -233,10 +619,32 @@ msgctxt "1096_Rio"
 msgid "Hehehe. ♪ What should I have you buy? <Color:7>♥<Color:Default>"
 msgstr "Je, je, je. ♪ ¿Qué deberías comprarme? <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1108_Talk_Yes"
 msgid "Okay, let's go."
 msgstr "Listo, vamos."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=5
+#. y4:msg_section_label=Conversación 5
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P53
+#. y4:msg_branch_segment=T0.P53..P127
+#. y4:msg_branch_target_text=Wanna hit up Watami?
+#. y4:msg_branch_raw=01 11 00 35 00 00 00 14 00 00 00 00 00 00 00 00
 msgctxt "1144_Player"
 msgid "Wanna hit up Watami?"
 msgstr "¿Y si vamos a Watami?"
@@ -249,10 +657,32 @@ msgctxt "1168_Akiyama"
 msgid "Wonder what I'm gonna order... <Color:7>♥<Color:Default> Hehe... I'm excited. <Color:7>♥<Color:Default>"
 msgstr "Me pregunto qué voy a pedir... <Color:7>♥<Color:Default> Jeje... Estoy emocionada. <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1180_Talk_Yes"
 msgid "Okay, let's go."
 msgstr "Genial, vamos."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=5
+#. y4:msg_section_label=Conversación 5
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P53
+#. y4:msg_branch_segment=T0.P53..P127
+#. y4:msg_branch_target_text=Wanna hit up Watami?
+#. y4:msg_branch_raw=01 11 00 35 00 00 00 14 00 00 00 00 00 00 00 00
 msgctxt "1204_Player"
 msgid "Wanna hit up Watami?"
 msgstr "¿Y si vamos a Watami?"
@@ -265,14 +695,47 @@ msgctxt "1228_Akiyama"
 msgid "Wonder what I'm gonna order... <Color:7>♥<Color:Default> Hehe... I'm excited. <Color:7>♥<Color:Default>"
 msgstr "Me pregunto qué voy a pedir... <Color:7>♥<Color:Default> Jeje... Estoy emocionada. <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1240_Talk_Yes"
 msgid "Okay, let's go."
 msgstr "Bien, vamos."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P64
+#. y4:msg_branch_segment=T0.P64..P84
+#. y4:msg_branch_target_text=Should we go bowling?
+#. y4:msg_branch_raw=01 11 00 40 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "1276_Player"
 msgid "Should we go bowling?"
 msgstr "¿Vamos a la bolera?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=66
+#. y4:msg_location=T0.P66
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1288_Rio"
 msgid "Bowling? I'm quite the bowler, you know."
 msgstr "¿Bolos? Soy toda una jugadora de bolos, que lo sepas."
@@ -281,50 +744,176 @@ msgctxt "1300_Akiyama"
 msgid "Hehehe. ♪ Show me what you got, Akiyama-san."
 msgstr "Jejeje. ♪ Muéstrame lo que tienes, Akiyama-san."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1312_Talk_Yes"
 msgid "Okay, let's go."
 msgstr "Bien, vamos."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P64
+#. y4:msg_branch_segment=T0.P64..P84
+#. y4:msg_branch_target_text=Should we go bowling?
+#. y4:msg_branch_raw=01 11 00 40 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "1336_Player"
 msgid "Should we go bowling?"
 msgstr "¿Vamos a la bolera?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=71
+#. y4:msg_location=T0.P71
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1348_Rio"
 msgid "Again? If we're going on a date, I'd rather we go somewhere different than last time..."
 msgstr "¿Otra vez? Si vamos a tener una cita, preferiría que fueramos a un sitio diferentes al de la última vez..."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=73
+#. y4:msg_location=T0.P73
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1372_Akiyama"
 msgid "Okay, let's head out."
 msgstr "Vale, vámonos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=76
+#. y4:msg_location=T0.P76
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1408_Player"
 msgid "Should we go play darts at Bantam?"
 msgstr "¿Qué tal si jugamos dardos en el Bantam?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=77
+#. y4:msg_location=T0.P77
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1420_Rio"
 msgid "What? I didn't know you played darts, Akiyama-san!"
 msgstr "¿Qué? ¡No sabía que jugabas dardos, Akiyama-san!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=78
+#. y4:msg_location=T0.P78
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1432_Akiyama"
 msgid "I've got a little experience playing darts, too. Hehehe..."
 msgstr "También tengo un poco de experiencia jugando a los dardos. Jejeje..."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1444_Akiyama"
 msgid "Okay, let's go."
 msgstr "Bien, vamos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=76
+#. y4:msg_location=T0.P76
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1468_Player"
 msgid "Should we go play darts at Bantam?"
 msgstr "¿Qué tal si jugamos dardos en el Bantam?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=82
+#. y4:msg_location=T0.P82
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1480_Rio"
 msgid "Again? You must be really into darts."
 msgstr "¿Otra vez? Te deben gustar mucho los dardos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=83
+#. y4:msg_location=T0.P83
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1492_Akiyama"
 msgid "Shall we get going?"
 msgstr "¿Nos vamos?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P85
+#. y4:msg_branch_segment=T0.P85..P94
+#. y4:msg_branch_target_text=Want to go sing karaoke?
+#. y4:msg_branch_raw=01 11 00 55 00 00 00 18 00 00 00 00 00 00 00 00
 msgctxt "1528_Player"
 msgid "Want to go sing karaoke?"
 msgstr "¿Qué tal si vamos al karaoke?"
@@ -333,10 +922,32 @@ msgctxt "1540_Rio"
 msgid "Karaoke? I love karaoke! <Color:7>♥<Color:Default>"
 msgstr "¿Karaoke? ¡Me encanta el karaoke! <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1564_Talk_Yes"
 msgid "Okay, let's go."
 msgstr "Genial, vamos."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P85
+#. y4:msg_branch_segment=T0.P85..P94
+#. y4:msg_branch_target_text=Want to go sing karaoke?
+#. y4:msg_branch_raw=01 11 00 55 00 00 00 18 00 00 00 00 00 00 00 00
 msgctxt "1588_Player"
 msgid "Want to go sing karaoke?"
 msgstr "¿Qué tal si vamos al karaoke?"
@@ -345,10 +956,30 @@ msgctxt "1600_Rio"
 msgid "That sounds nice. ♪ I want to sing a whole lot! <Color:7>♥<Color:Default>"
 msgstr "Eso suena bien. ♪ ¡Me gusta mucho cantar! <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=93
+#. y4:msg_location=T0.P93
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1612_Talk_Smile"
 msgid "Hehehe... Okay, let's go."
 msgstr "Jejeje... Vale, vamos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=96
+#. y4:msg_location=T0.P96
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1648_Player"
 msgid "Let's shoot some pool."
 msgstr "¿Qué tal algo de billar?"
@@ -357,46 +988,159 @@ msgctxt "1660_Rio"
 msgid "Pool? That's so you, Akiyama-san. ♪"
 msgstr "¿Billar? Eso es muy tuyo, Akiyama-san. ♪"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1684_Talk_Yes"
 msgid "Okay, let's go."
 msgstr "Bien, vamos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=96
+#. y4:msg_location=T0.P96
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1708_Player"
 msgid "Let's shoot some pool."
 msgstr "¿Qué tal algo de billar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=71
+#. y4:msg_location=T0.P71
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1720_Rio"
 msgid "Again? If we're going on a date, I'd rather we go somewhere different than last time..."
 msgstr "¿Otra vez? Si vamos a tener una cita, preferiría que fueramos a un sitio diferentes al de la última vez..."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=73
+#. y4:msg_location=T0.P73
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1744_Akiyama"
 msgid "Okay, let's head out."
 msgstr "Vale, vámonos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=107
+#. y4:msg_location=T0.P107
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1780_Player"
 msgid "Let's play golf."
 msgstr "¿Qué te parece jugar golf?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=108
+#. y4:msg_location=T0.P108
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1792_Rio"
 msgid "Golf!? Wow, I didn't know people went golfing on dates!"
 msgstr "¿¡Golf!? Vaya, ¡no sabía que la gente iba a jugar al golf en citas!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1816_Talk_Yes"
 msgid "Okay, let's go."
 msgstr "Bien, vamos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=107
+#. y4:msg_location=T0.P107
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1840_Player"
 msgid "Let's play golf."
 msgstr "¿Qué te parece jugar golf?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=71
+#. y4:msg_location=T0.P71
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1852_Rio"
 msgid "Again? If we're going on a date, I'd rather we go somewhere different than last time..."
 msgstr "¿Otra vez? Si vamos a tener una cita, preferiría que fueramos a un sitio diferentes al de la última vez..."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=73
+#. y4:msg_location=T0.P73
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1876_Talk_Angry"
 msgid "Okay, let's head out."
 msgstr "Vale, vámonos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=118
+#. y4:msg_location=T0.P118
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1912_Player"
 msgid "Let's hit the hot springs."
 msgstr "Vamos a las aguas termales."
@@ -405,14 +1149,43 @@ msgctxt "1924_Rio"
 msgid "The hot springs? Ooh, afterwards, let's play table tennis! ♪ I love playing table tennis! <Color:7>♥<Color:Default>"
 msgstr "¿Aguas termales? Ooh, después, ¡juguemos al ping-pong! ♪ ¡Me encanta jugar al ping-pong! <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=120
+#. y4:msg_location=T0.P120
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1936_Akiyama"
 msgid "Hehehe, I'm rarin' to go!"
 msgstr "Jejeje, ¡estoy deseando ir!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=121
+#. y4:msg_location=T0.P121
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1948_Talk_Yes"
 msgid "Okay, let's do it!"
 msgstr "Vale, ¡hagámoslo!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=118
+#. y4:msg_location=T0.P118
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1972_Player"
 msgid "Let's hit the hot springs."
 msgstr "Vamos a las aguas termales."
@@ -421,103 +1194,419 @@ msgctxt "1984_Rio"
 msgid "The hot springs? Let's play table tennis again this time! <Color:7>♥<Color:Default>"
 msgstr "¿Aguas termales? ¡Juguemos al ping-pong esta vez! <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=120
+#. y4:msg_location=T0.P120
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "1996_Akiyama"
 msgid "Hehehe, I'm rarin' to go!"
 msgstr "Jejeje, ¡estoy deseando ir!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=121
+#. y4:msg_location=T0.P121
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Go Out to Eat
 msgctxt "2008_Talk_Yes"
 msgid "Okay, let's do it!"
 msgstr "Vale, ¡hagámoslo!"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P18
+#. y4:msg_branch_segment=T0.P18..P20
+#. y4:msg_branch_target_text=(Where should we go...)
+#. y4:msg_branch_raw=01 11 00 12 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "2032_Akiyama"
 msgid "Go Hang Out"
 msgstr "Salgamos a divertirnos"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P21
+#. y4:msg_branch_segment=T0.P21..P21
+#. y4:msg_branch_target_text=(We could go shopping.)
+#. y4:msg_branch_raw=01 11 00 15 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "2044_Akiyama"
 msgid "Go Shopping"
 msgstr "Vamos de compras"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P22
+#. y4:msg_branch_segment=T0.P22..P127
+#. y4:msg_branch_target_text=(We could go out to eat.)
+#. y4:msg_branch_raw=01 11 00 16 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "2056_Akiyama"
 msgid "Go Out to Eat"
 msgstr "Ir a Comer"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P18
+#. y4:msg_branch_segment=T0.P18..P20
+#. y4:msg_branch_target_text=(Where should we go...)
+#. y4:msg_branch_raw=01 11 00 12 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "2068_Akiyama"
 msgid "Go Hang Out"
 msgstr "Salgamos a divertirnos"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P21
+#. y4:msg_branch_segment=T0.P21..P21
+#. y4:msg_branch_target_text=(We could go shopping.)
+#. y4:msg_branch_raw=01 11 00 15 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "2080_Akiyama"
 msgid "Go Shopping"
 msgstr "Vamos de compras"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P22
+#. y4:msg_branch_segment=T0.P22..P127
+#. y4:msg_branch_target_text=(We could go out to eat.)
+#. y4:msg_branch_raw=01 11 00 16 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "2092_Akiyama"
 msgid "Go Out to Eat"
 msgstr "Ir a Comer"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P64
+#. y4:msg_branch_segment=T0.P64..P84
+#. y4:msg_branch_target_text=Should we go bowling?
+#. y4:msg_branch_raw=01 11 00 40 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "2104_Akiyama"
 msgid "Should we go bowling?"
 msgstr "¿Qué tal si vamos a la bolera?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P85
+#. y4:msg_branch_segment=T0.P85..P94
+#. y4:msg_branch_target_text=Want to go sing karaoke?
+#. y4:msg_branch_raw=01 11 00 55 00 00 00 18 00 00 00 00 00 00 00 00
 msgctxt "2116_Akiyama"
 msgid "Want to go sing karaoke?"
 msgstr "¿Qué tal si vamos al karaoke?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P95
+#. y4:msg_branch_segment=T0.P95..P116
+#. y4:msg_branch_target_text=Let's shoot some pool.
+#. y4:msg_branch_raw=01 11 00 5f 00 00 00 1c 00 00 00 00 00 00 00 00
 msgctxt "2128_Akiyama"
 msgid "How about we play some pool?"
 msgstr "¿Qué tal si jugamos al billar?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P117
+#. y4:msg_branch_segment=T0.P117..P127
+#. y4:msg_branch_target_text=Let's hit the hot springs.
+#. y4:msg_branch_raw=01 11 00 75 00 00 00 1d 00 00 00 00 00 00 00 00
 msgctxt "2140_Akiyama"
 msgid "We could hit the hot springs."
 msgstr "Podríamos ir a las aguas termales."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
+#. y4:msg_choice_index=5
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P17
+#. y4:msg_branch_segment=T0.P17..P63
+#. y4:msg_branch_target_text=(What should we do?)
+#. y4:msg_branch_raw=01 11 00 11 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "2152_Akiyama"
 msgid "Do something else."
 msgstr "Hagamos otra cosa."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P64
+#. y4:msg_branch_segment=T0.P64..P84
+#. y4:msg_branch_target_text=Should we go bowling?
+#. y4:msg_branch_raw=01 11 00 40 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "2164_Akiyama"
 msgid "Should we go bowling?"
 msgstr "¿Qué tal si vamos a la bolera?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P85
+#. y4:msg_branch_segment=T0.P85..P94
+#. y4:msg_branch_target_text=Want to go sing karaoke?
+#. y4:msg_branch_raw=01 11 00 55 00 00 00 18 00 00 00 00 00 00 00 00
 msgctxt "2176_Akiyama"
 msgid "Want to go sing karaoke?"
 msgstr "¿Qué tal si vamos al karaoke?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P95
+#. y4:msg_branch_segment=T0.P95..P116
+#. y4:msg_branch_target_text=Let's shoot some pool.
+#. y4:msg_branch_raw=01 11 00 5f 00 00 00 1c 00 00 00 00 00 00 00 00
 msgctxt "2188_Akiyama"
 msgid "How about we play some pool?"
 msgstr "¿Qué tal si jugamos al billar?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P106
+#. y4:msg_branch_segment=T0.P106..P116
+#. y4:msg_branch_target_text=Let's play golf.
+#. y4:msg_branch_raw=01 11 00 6a 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "2200_Akiyama"
 msgid "We could golf."
 msgstr "Podríamos jugar golf."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P117
+#. y4:msg_branch_segment=T0.P117..P127
+#. y4:msg_branch_target_text=Let's hit the hot springs.
+#. y4:msg_branch_raw=01 11 00 75 00 00 00 1d 00 00 00 00 00 00 00 00
 msgctxt "2212_Akiyama"
 msgid "We could hit the hot springs."
 msgstr "Podríamos ir a las aguas termales."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
+#. y4:msg_choice_index=5
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P17
+#. y4:msg_branch_segment=T0.P17..P63
+#. y4:msg_branch_target_text=(What should we do?)
+#. y4:msg_branch_raw=01 11 00 11 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "2224_Akiyama"
 msgid "Do something else."
 msgstr "Hagamos otra cosa."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=4
+#. y4:msg_section_label=Conversación 4
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P43
+#. y4:msg_branch_segment=T0.P43..P127
+#. y4:msg_branch_target_text=Why don't we go shopping at Le Marche?
+#. y4:msg_branch_raw=01 11 00 2b 00 00 00 19 00 00 00 00 00 00 00 00
 msgctxt "2236_Akiyama"
 msgid "We could go to Le Marche."
 msgstr "Podríamos ir al Le Marche."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
+#. y4:msg_choice_index=5
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P17
+#. y4:msg_branch_segment=T0.P17..P63
+#. y4:msg_branch_target_text=(What should we do?)
+#. y4:msg_branch_raw=01 11 00 11 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "2248_Akiyama"
 msgid "Do something else."
 msgstr "Hagamos otra cosa."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=5
+#. y4:msg_section_label=Conversación 5
+#. y4:msg_talk=20
+#. y4:msg_phrase=0
+#. y4:msg_location=T20.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P23
+#. y4:msg_branch_segment=T0.P23..P32
+#. y4:msg_branch_target_text=How about Kanrai for some yakiniku?
+#. y4:msg_branch_raw=01 11 00 17 00 00 00 18 00 00 00 00 00 00 00 00
 msgctxt "2260_Akiyama"
 msgid "How about some yakiniku?"
 msgstr "¿Qué tal un poco de yakiniku?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=5
+#. y4:msg_section_label=Conversación 5
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P33
+#. y4:msg_branch_segment=T0.P33..P52
+#. y4:msg_branch_target_text=How does Sushi Gin sound?
+#. y4:msg_branch_raw=01 11 00 21 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "2272_Akiyama"
 msgid "How does sushi sound?"
 msgstr "¿Qué tal sushi?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=5
+#. y4:msg_section_label=Conversación 5
+#. y4:msg_talk=22
+#. y4:msg_phrase=0
+#. y4:msg_location=T22.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P53
+#. y4:msg_branch_segment=T0.P53..P127
+#. y4:msg_branch_target_text=Wanna hit up Watami?
+#. y4:msg_branch_raw=01 11 00 35 00 00 00 14 00 00 00 00 00 00 00 00
 msgctxt "2284_Akiyama"
 msgid "Wanna hit up Watami?"
 msgstr "¿Y si vamos a Watami?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
+#. y4:msg_choice_index=5
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P17
+#. y4:msg_branch_segment=T0.P17..P63
+#. y4:msg_branch_target_text=(What should we do?)
+#. y4:msg_branch_raw=01 11 00 11 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "2296_Akiyama"
 msgid "Do something else."
 msgstr "Hagamos otra cosa."
-

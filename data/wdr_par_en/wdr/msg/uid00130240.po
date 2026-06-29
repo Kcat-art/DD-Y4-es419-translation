@@ -17,30 +17,55 @@ msgstr ""
 "X-Crowdin-File-ID: 60270\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2124"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2128"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2132"
 msgid "Officer"
 msgstr "Oficial"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2136"
 msgid "Dine-and-Dasher"
 msgstr "Comensal furtivo"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2140"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2144"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "72_Tanimura"
 msgid "Somebody took off without paying for their meal, right? What'd they look like?"
 msgstr ""
@@ -49,18 +74,46 @@ msgctxt "84_Officer"
 msgid "Well, he looked like－"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Officer
+#. y4:msg_speaker_id=2
 msgctxt "96_Officer"
 msgid "Hey! There he is!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Dine-and-Dasher
+#. y4:msg_speaker_id=3
 msgctxt "108_Dine-and-Dasher"
 msgid "Hahaha! I am the legendary dine-and-dash master!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Dine-and-Dasher
+#. y4:msg_speaker_id=3
 msgctxt "120_Dine-and-Dasher"
 msgid "You think you can catch me, boy!?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "144_Tanimura"
 msgid "Somebody took off without paying for their meal, right? What'd they look like?"
 msgstr ""
@@ -69,15 +122,35 @@ msgctxt "156_Officer"
 msgid "Well, he looked like－"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Officer
+#. y4:msg_speaker_id=2
 msgctxt "168_Officer"
 msgid "Hey! There he is!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "180_Tanimura"
 msgid "You again!?"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Dine-and-Dasher
+#. y4:msg_speaker_id=3
 msgctxt "192_Dine-and-Dasher"
 msgid "Nice to see you, too! I'll show you what the dine-and-dash master is truly made of!"
 msgstr ""
-

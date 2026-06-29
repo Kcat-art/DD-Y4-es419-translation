@@ -17,50 +17,86 @@ msgstr ""
 "X-Crowdin-File-ID: 59738\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4932"
 msgid "Angry Woman"
 msgstr "Mujer enfadada"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4936"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4940"
 msgid "Idle"
 msgstr "Idle"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4944"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4948"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4952"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "4956"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "4960"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "4964"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "4968"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "4972"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "4976"
 msgid "P_aki_stand_tlk_meishi"
 msgstr "P_aki_stand_tlk_meishi"
@@ -71,14 +107,35 @@ msgid "What's the deal with Sky Finance, anyway? I mean, that\\r\n"
 msgstr "¿Qué pasa con el Sky Finance? ¡Quiero decir, esa\\r\n"
 "empresa de préstamos parece un completo fraude!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "96_Akiyama"
 msgid "(She's talking about me, too... Let's see if we can't find out more.)"
 msgstr "(También está hablando de mí... Veré si puedo averiguar algo sobre esto.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "108_Akiyama"
 msgid "Excuse me, do you have a moment?"
 msgstr "Disculpe, ¿puedo preguntarle algo?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Angry Woman
+#. y4:msg_speaker_id=0
 msgctxt "120_Angry Woman"
 msgid "Yeah, what do you want?"
 msgstr "Claro, ¿qué es lo que quieres?"
@@ -89,6 +146,13 @@ msgid "Pardon me, but did you say something about Sky Finance just\\r\n"
 msgstr "Perdóneme, pero ¿Ha dicho algo sobre Sky Finance hace\\r\n"
 "un momento?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Angry Woman
+#. y4:msg_speaker_id=0
 msgctxt "144_Angry Woman"
 msgid "Did I ever!"
 msgstr "¡Vaya que sí!"
@@ -105,14 +169,35 @@ msgid "But when I finally finished, he turned me down. He gave me\\r\n"
 msgstr "Pero cuando por fin terminé de limpiar, me canceló el préstamo. Y me dio\\r\n"
 "la ridícula razón que yo aún \"no estaba lista\""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Angry Woman
+#. y4:msg_speaker_id=0
 msgctxt "180_Angry Woman"
 msgid "Unbelievable! It's nothing but a scam!"
 msgstr "¡Para no creer! ¡No es más que una estafa!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "192_Akiyama"
 msgid "Calm down, now."
 msgstr "Relájese."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Angry Woman
+#. y4:msg_speaker_id=0
 msgctxt "204_Angry Woman"
 msgid "I can't help it! You look just like him!"
 msgstr "¡No puedo evitar enfadarme! ¡Eres igualito a él!"
@@ -141,30 +226,79 @@ msgid "<Color:7>Park Alley<Color:Default>. There's no sign or anything, which I 
 msgstr "<Color:7>En el Callejón Del Parque<Color:Default>. No tiene letrero ni nada, lo cual ya me pareció\\r\n"
 "una señal de alerta..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "264_Akiyama"
 msgid "<Color:7>Park Alley<Color:Default>, huh? Got it. Thanks."
 msgstr "<Color:7>El Callejón Del Parque<Color:Default>, ¿eh? Entendido. Muchas gracias."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "276_Akiyama"
 msgid "Oh, and..."
 msgstr "Oh, y..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
+#. y4:msg_speaker=Angry Woman
+#. y4:msg_speaker_id=0
 msgctxt "288_Angry Woman"
 msgid "What?"
 msgstr "¿Qué?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "300_Akiyama"
 msgid "If you really are strapped for cash, stop by here sometime."
 msgstr "Si de verdad estás desesperada por dinero, pásate por aquí cuando puedas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=19
+#. y4:msg_location=T1.P19
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "312_Akiyama"
 msgid "They might be able to help you."
 msgstr "Puede que sean capaces de ayudarte."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=20
+#. y4:msg_location=T1.P20
+#. y4:msg_speaker=Angry Woman
+#. y4:msg_speaker_id=0
 msgctxt "324_Angry Woman"
 msgid "\"Sky Finance\"?"
 msgstr "¿\"Sky Finance\"?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=21
+#. y4:msg_location=T1.P21
+#. y4:msg_speaker=Angry Woman
+#. y4:msg_speaker_id=0
 msgctxt "336_Angry Woman"
 msgid "Are you some kind of wise guy!? I'm just a big joke to you!?"
 msgstr "¡¿Te crees una especie de erudito?! ¡¿Acaso me ves cara de payasa?!"
@@ -174,4 +308,3 @@ msgid "I was afraid this would happen. No, I'm the real Akiyama,\\r\n"
 "honest! Come see me if you need help, all right?"
 msgstr "Temía que esta pasaría. ¡Soy el verdadero Akiyama,\\r\n"
 "el honesto! Ven a verme si necesitas ayuda, ¿Te parece?"
-

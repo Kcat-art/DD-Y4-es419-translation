@@ -17,215 +17,773 @@ msgstr ""
 "X-Crowdin-File-ID: 58564\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Play Ranked Match -> T1.P3 | 2. Play a Challenge Match -> T1.P16 | 3. Learn About the Parlor -> T1.P35 | 4. Never Mind -> T1.P33
 msgctxt "372"
 msgid "Hey buddy, you wanna play shogi? It'll be 500 yen."
 msgstr "Hey amigo, ¿quieres jugar al shogi? Serán 500 yenes."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "420"
 msgid "You used a <Color:8>Shogi Coupon<Color:Default>."
 msgstr "Has usado un <Color:8>Cupón de Shogi<Color:Default>."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "576"
 msgid "You used a <Color:8>Shogi Coupon<Color:Default>."
 msgstr "Has usado un <Color:8>Cupón de Shogi<Color:Default>."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=36
+#. y4:msg_location=T1.P36
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Learn About the Parlor
 msgctxt "780"
 msgid "I haven't seen you much in this place, buddy. So you wanna start playing shogi? That's great to hear."
 msgstr "No te he visto mucho por aquí, amigo. ¿Así que quieres empezar a jugar al shogi? Me alegra escuchar eso."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=1
+#. y4:msg_phrase=43
+#. y4:msg_location=T1.P43
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=3
+#. y4:msg_decision_choices=1. Play Ranked Match -> T1.P44 | 2. Play a Challenge Match -> T1.P49 | 3. Learn About the Parlor -> T1.P35 | 4. Never Mind -> T1.P33
 msgctxt "864"
 msgid "Welcome! We're celebrating the emergence of a new Shogi King. For the duration, you can play with us for free."
 msgstr "¡Bienvenido! Estamos celebrando el nacimiento de un nuevo Rey del Shogi. Mientras dure, puedes jugar con nosotros gratis."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "10224"
 msgid "Owner"
 msgstr "Propietario"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "10228"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "10232"
 msgid "Player"
 msgstr "Jugador"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "10236"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
 msgctxt "312_Owner"
 msgid "Well, did you enjoy yourself? Thanks for coming!"
 msgstr "Bueno, ¿te lo has pasado bien? ¡Gracias por venir!"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. Use -> T1.P5 | 2. Don't Use -> T1.P9
 msgctxt "396_Owner"
 msgid "Hey there, you've got yourself a ticket. You can play a round for free. Want to use it?"
 msgstr "Hola, tienes un ticket. Puedes jugar una ronda gratis con él. ¿Quieres usarlo?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "444_Owner"
 msgid "A'right then, who do you wanna play?"
 msgstr "Muy bien, ¿con quién quieres jugar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "456_Owner"
 msgid "No, I won't use it now."
 msgstr "No, no lo usaré ahora."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "468_Owner"
 msgid "You sure? Then it'll be 500 yen. Who do you wanna play?"
 msgstr "¿Seguro? Entonces serán 500 yenes. ¿Con quién quieres jugar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "480_Owner"
 msgid "Yeah, I'll play."
 msgstr "Sí, jugaré."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "492_Owner"
 msgid "Great, now we're talkin'! Who do you wanna play?"
 msgstr "¡Ese es el espíritu! ¿Contra quién quieres jugar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "516_Owner"
 msgid "All right, good luck!"
 msgstr "¡Muy bien, buena suerte!"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. Use -> T1.P5 | 2. Don't Use -> T1.P9
 msgctxt "552_Owner"
 msgid "Hey there, you've got yourself a ticket. You can play a round for free. Want to use it?"
 msgstr "Hola, tienes un ticket. Puedes jugar una ronda gratis con él. ¿Quieres usarlo?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "600_Owner"
 msgid "A'right then, who do you wanna play?"
 msgstr "Muy bien, ¿con quién quieres jugar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "612_Owner"
 msgid "No, I won't use it now."
 msgstr "No, no lo usaré ahora."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "624_Owner"
 msgid "You sure? Then it'll be 500 yen. Who do you wanna play?"
 msgstr "¿Seguro? Entonces serán 500 yenes. ¿Con quién quieres jugar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=24
+#. y4:msg_location=T1.P24
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Play a Challenge Match
 msgctxt "636_Owner"
 msgid "Sure, I'll play."
 msgstr "Claro, jugaré."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "648_Owner"
 msgid "Great, now we're talkin'! Who do you wanna play?"
 msgstr "¡Ese es el espíritu! ¿Contra quién quieres jugar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "684_Owner"
 msgid "All right, good luck!"
 msgstr "¡Muy bien, buena suerte!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=30
+#. y4:msg_location=T1.P30
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Play a Challenge Match
 msgctxt "708_Owner"
 msgid "Ah, here you have to checkmate your opponent within a limited number of moves."
 msgstr "Ah, aquí tienes que dar jaque mate a tu oponente en un número limitado de movimientos."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=31
+#. y4:msg_location=T1.P31
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Play a Challenge Match
 msgctxt "720_Owner"
 msgid "You can use as many take backs as you need, so take your time to work out a strategy. All right, good luck!"
 msgstr "Puedes deshacer tantas jugadas como quieras, así que planea tu estrategia con calma. ¡Buena suerte!"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=33
+#. y4:msg_location=T1.P33
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Never Mind
 msgctxt "744_Owner"
 msgid "Not right now."
 msgstr "Ahora no."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=34
+#. y4:msg_location=T1.P34
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Never Mind
 msgctxt "756_Owner"
 msgid "No? Well, come back when you feel like it."
 msgstr "¿No? Bueno, vuelve cuando te animés."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=35
+#. y4:msg_location=T1.P35
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Learn About the Parlor
 msgctxt "768_Player"
 msgid "Tell me about this place."
 msgstr "Háblame de este lugar."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=37
+#. y4:msg_location=T1.P37
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Learn About the Parlor
 msgctxt "792_Owner"
 msgid "At our place, you can play ranked matches if you're aiming for the top, and shogi challenge matches to test your skill."
 msgstr "En nuestro local, puedes jugar partidas clasificatorias si aspiras a lo más alto, y desafío de shogi para poner a prueba tus habilidades."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=38
+#. y4:msg_location=T1.P38
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Learn About the Parlor
 msgctxt "804_Owner"
 msgid "In a ranked match, you pick opponents closest to your current ranking. If you wanna play against tough players, you'll have to climb the ranks."
 msgstr "En una partida clasificatoria, juegas contra oponentes de rango similar al tuyo. Si quieres enfrentarte a jugadores más fuertes, tendrás que subir de rango."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=39
+#. y4:msg_location=T1.P39
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Learn About the Parlor
 msgctxt "816_Owner"
 msgid "As far as ranks are concerned, by beating opponents higher rank than you, you'll take their rank. Just aim to keep going up and up."
 msgstr "En cuanto a los rangos: al vencer oponentes de mayor rango, tomarás su posición. Solo concéntrate en seguir subiendo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=40
+#. y4:msg_location=T1.P40
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Learn About the Parlor
 msgctxt "828_Owner"
 msgid "The board is a bit special when it comes to a challenge match. When you start off, the board'll be more advantageous for you, but it'll gradually get harder."
 msgstr "El tablero es un poco especial en los desafíos: al inicio tendrás ventaja, pero poco a poco se pondrá más difícil."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=41
+#. y4:msg_location=T1.P41
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Learn About the Parlor
 msgctxt "840_Owner"
 msgid "It'll cost you 500 yen to play, but you can get some nice prizes if you win. Good luck."
 msgstr "Jugar cuesta 500 yenes, pero si ganas, puedes llevarte buenos premios. Buena suerte."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=42
+#. y4:msg_location=T1.P42
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Learn About the Parlor
 msgctxt "852_Owner"
 msgid "What's that buddy, you got no money? Come back when you have 500 yen."
 msgstr "¿Qué pasó, compa? ¿No traes plata? Vuelve cuando juntes 500 yenes."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=24
+#. y4:msg_location=T1.P24
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Play a Challenge Match
 msgctxt "876_Owner"
 msgid "Sure, I'll play."
 msgstr "Claro, jugaré."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=45
+#. y4:msg_location=T1.P45
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Learn About the Parlor
 msgctxt "888_Owner"
 msgid "All right. Who do you wanna play?"
 msgstr "Muy bien. ¿Contra quién quieres jugar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=47
+#. y4:msg_location=T1.P47
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Learn About the Parlor
 msgctxt "912_Owner"
 msgid "All right, good luck."
 msgstr "Perfecto, Buena suerte."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=24
+#. y4:msg_location=T1.P24
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Play a Challenge Match
 msgctxt "936_Owner"
 msgid "Sure, I'll play."
 msgstr "Claro, jugaré."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "948_Owner"
 msgid "Great, now we're talkin'! Who do you wanna play?"
 msgstr "¡Ese es el espíritu! ¿Contra quién quieres jugar?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=14
+#. y4:msg_location=T1.P14
+#. y4:msg_speaker=Owner
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Play Ranked Match
 msgctxt "972_Owner"
 msgid "All right, good luck!"
 msgstr "¡Muy bien, buena suerte!"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P15
+#. y4:msg_branch_target_text=Hey there, you've got yourself a ticket. You can play a round for free. Want to use it?
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "1008_Owner"
 msgid "Play Ranked Match"
 msgstr "Jugar Partida Clasificatoria"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P16
+#. y4:msg_branch_segment=T1.P16..P32
+#. y4:msg_branch_target_text=Hey there, you've got yourself a ticket. You can play a round for free. Want to use it?
+#. y4:msg_branch_raw=01 11 00 10 00 00 00 16 00 00 00 00 00 00 00 00
 msgctxt "1020_Owner"
 msgid "Play a Challenge Match"
 msgstr "Jugar un Desafío"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P35
+#. y4:msg_branch_segment=T1.P35..P54
+#. y4:msg_branch_target_text=Tell me about this place.
+#. y4:msg_branch_raw=01 11 00 23 00 00 00 16 00 00 00 00 00 00 00 00
 msgctxt "1032_Owner"
 msgid "Learn About the Parlor"
 msgstr "Preguntar Sobre el Salón"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P33
+#. y4:msg_branch_segment=T1.P33..P34
+#. y4:msg_branch_target_text=Not right now.
+#. y4:msg_branch_raw=01 11 00 21 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "1044_Owner"
 msgid "Never Mind"
 msgstr "No importa"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P5
+#. y4:msg_branch_segment=T1.P5..P8
+#. y4:msg_branch_target_text=You used a <Color:8>Shogi Coupon<Color:Default>.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "1056_Owner"
 msgid "Use"
 msgstr "Usar"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P9
+#. y4:msg_branch_segment=T1.P9..P54
+#. y4:msg_branch_target_text=No, I won't use it now.
+#. y4:msg_branch_raw=01 11 00 09 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "1068_Owner"
 msgid "Don't Use"
 msgstr "No usarlo"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P5
+#. y4:msg_branch_segment=T1.P5..P8
+#. y4:msg_branch_target_text=You used a <Color:8>Shogi Coupon<Color:Default>.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "1080_Owner"
 msgid "Use"
 msgstr "Usar"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P9
+#. y4:msg_branch_segment=T1.P9..P54
+#. y4:msg_branch_target_text=No, I won't use it now.
+#. y4:msg_branch_raw=01 11 00 09 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "1092_Owner"
 msgid "Don't Use"
 msgstr "No usarlo"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P15
+#. y4:msg_branch_target_text=Hey there, you've got yourself a ticket. You can play a round for free. Want to use it?
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "1104_Owner"
 msgid "Play Ranked Match"
 msgstr "Jugar Partida Clasificatoria"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P16
+#. y4:msg_branch_segment=T1.P16..P32
+#. y4:msg_branch_target_text=Hey there, you've got yourself a ticket. You can play a round for free. Want to use it?
+#. y4:msg_branch_raw=01 11 00 10 00 00 00 16 00 00 00 00 00 00 00 00
 msgctxt "1116_Owner"
 msgid "Play a Challenge Match"
 msgstr "Jugar un Desafío"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P35
+#. y4:msg_branch_segment=T1.P35..P54
+#. y4:msg_branch_target_text=Tell me about this place.
+#. y4:msg_branch_raw=01 11 00 23 00 00 00 16 00 00 00 00 00 00 00 00
 msgctxt "1128_Owner"
 msgid "Learn About the Parlor"
 msgstr "Preguntar Sobre el Salón"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P33
+#. y4:msg_branch_segment=T1.P33..P34
+#. y4:msg_branch_target_text=Not right now.
+#. y4:msg_branch_raw=01 11 00 21 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "1140_Owner"
 msgid "Never Mind"
 msgstr "No importa"
-

@@ -10,167 +10,330 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "10008"
 msgid "Sodachi"
 msgstr "Sodachi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "10012"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "10016"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "10020"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "10024"
 msgid "Sugiyama"
 msgstr "Sugiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "10028"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "10032"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "10036"
 msgid "New Apprentice"
 msgstr "Nuevo Aprendiz"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "10040"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=todo
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "10044"
 msgid "Tokita"
 msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "10048"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "10052"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "10056"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "10060"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=14
 msgctxt "10064"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=15
 msgctxt "10068"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=16
 msgctxt "10072"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=0
 msgctxt "68_Sodachi"
 msgid "Even though we've churned out three champions already, we're still not getting any more apprentices. I don't understand..."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "80_Saejima"
 msgid "You're right. New applicants should be bangin' on the door by now."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=0
 msgctxt "92_Sodachi"
 msgid "Exactly! But I don't hear any banging... *gasp* Maybe it's because of how scary you look. I think you might be creeping people out..."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=0
 msgctxt "104_Sodachi"
 msgid "Ugh... I'm so depressed."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "116_Saejima"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Sugiyama
+#. y4:msg_speaker_id=4
 msgctxt "128_Sugiyama"
 msgid "Saejima-san! Sodachi-san! Come quick!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=0
 msgctxt "140_Sodachi"
 msgid "What? What happened? Did you find some money on the ground again or something? You can be so pathetic sometimes."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Sugiyama
+#. y4:msg_speaker_id=4
 msgctxt "152_Sugiyama"
 msgid "No! New apprentices! New apprentices are here! And lots of them!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=0
 msgctxt "164_Sodachi"
 msgid "What...? Oh, that. Apprentices. Right..."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "176_Saejima"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "188_Sodachi"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=0
 msgctxt "200_Sodachi"
 msgid "Whaaaaaaaat!?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Sugiyama
+#. y4:msg_speaker_id=4
 msgctxt "212_Sugiyama"
 msgid "Look! Three new apprentices!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=New Apprentice
+#. y4:msg_speaker_id=7
 msgctxt "224_New Apprentice"
 msgid "I'm Koike, nice to meet you. I wanna sweat to the max and lose some of this weight."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=New Apprentice
+#. y4:msg_speaker_id=7
 msgctxt "236_New Apprentice"
 msgid "I'm Makoto Tokita. I want to be a pro fighter."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Tokita
+#. y4:msg_speaker_id=9
 msgctxt "248_Tokita"
 msgid "I used to train at a different dojo, but it wasn't really the best place for me. So I've been looking for a new place to train."
 msgstr ""
@@ -181,132 +344,313 @@ msgid "We may not have seen eye to eye on things, but I wasn't kicked out－I le
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Tokita
+#. y4:msg_speaker_id=9
 msgctxt "272_Tokita"
 msgid "Well, I heard that this dojo has been producing some champions and thought that it'd be perfect for someone of such tremendous skill as myself."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Tokita
+#. y4:msg_speaker_id=9
 msgctxt "284_Tokita"
 msgid "I wouldn't mind becoming an apprentice here, if you really want me."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=New Apprentice
+#. y4:msg_speaker_id=7
 msgctxt "296_New Apprentice"
 msgid "Nice to meet you, I'm Toyama. I want to join because I want to get back into shape."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=0
 msgctxt "308_Sodachi"
 msgid "Wow! Three at once! This is going to skyrocket my monthly earnings! Heheheh..."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Sugiyama
+#. y4:msg_speaker_id=4
 msgctxt "320_Sugiyama"
 msgid "But what are you going to do? It's going to be hard for Saejima-san to train three people at once."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=23
+#. y4:msg_location=T0.P23
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=0
 msgctxt "332_Sodachi"
 msgid "You've got a point... Saejima-san, please choose one of these three to train."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "344_Saejima"
 msgid "Hmm. Lemme see..."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=28
+#. y4:msg_location=T0.P28
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "392_Saejima"
 msgid "Koike-kun, then."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=29
+#. y4:msg_location=T0.P29
+#. y4:msg_speaker=Tokita
+#. y4:msg_speaker_id=9
 msgctxt "404_Tokita"
 msgid "W-W-Wait...! Wait just a second!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=30
+#. y4:msg_location=T0.P30
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "416_Saejima"
 msgid "What."
 msgstr "¿Qué?"
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=31
+#. y4:msg_location=T0.P31
+#. y4:msg_speaker=Tokita
+#. y4:msg_speaker_id=9
 msgctxt "428_Tokita"
 msgid "Koike-kun's never going to work! Didn't you hear him? He's only here to lose weight!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=32
+#. y4:msg_location=T0.P32
+#. y4:msg_speaker=Tokita
+#. y4:msg_speaker_id=9
 msgctxt "440_Tokita"
 msgid "There's no point in training someone unless they're aiming to go pro!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=33
+#. y4:msg_location=T0.P33
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "452_Saejima"
 msgid "Stop blabberin' already. Fine."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=34
+#. y4:msg_location=T0.P34
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "464_Saejima"
 msgid "Then..."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=38
+#. y4:msg_location=T0.P38
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "512_Saejima"
 msgid "You, Toyama-kun."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=39
+#. y4:msg_location=T0.P39
+#. y4:msg_speaker=Tokita
+#. y4:msg_speaker_id=9
 msgctxt "524_Tokita"
 msgid "Wait...! Wait just a second!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=30
+#. y4:msg_location=T0.P30
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "536_Saejima"
 msgid "What."
 msgstr "¿Qué?"
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=41
+#. y4:msg_location=T0.P41
+#. y4:msg_speaker=Tokita
+#. y4:msg_speaker_id=9
 msgctxt "548_Tokita"
 msgid "Are you sure you didn't mean to choose me? I have experience fighting! I think that I'll be easy to train."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=42
+#. y4:msg_location=T0.P42
+#. y4:msg_speaker=Tokita
+#. y4:msg_speaker_id=9
 msgctxt "560_Tokita"
 msgid "But... I'm not asking you to pick me or anything."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=43
+#. y4:msg_location=T0.P43
+#. y4:msg_speaker=Tokita
+#. y4:msg_speaker_id=9
 msgctxt "572_Tokita"
 msgid "I'm just saying that I wouldn't mind training with you, if you insisted..."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=44
+#. y4:msg_location=T0.P44
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=0
 msgctxt "584_Sodachi"
 msgid "Looks like he really wants you to train him, Saejima-san. Give him a shot."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=45
+#. y4:msg_location=T0.P45
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=0
 msgctxt "596_Sodachi"
 msgid "To be honest, he seems like a lot of work, so I don't want anything to do with him."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=46
+#. y4:msg_location=T0.P46
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
 msgctxt "608_Saejima"
 msgid "Since when did ya become so frank?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=53
+#. y4:msg_location=T0.P53
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=0
 msgctxt "692_Sodachi"
 msgid "Well, he's yours now! Hide-chan and I will look after the other two."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=54
+#. y4:msg_location=T0.P54
+#. y4:msg_speaker=Tokita
+#. y4:msg_speaker_id=9
 msgctxt "704_Tokita"
 msgid "So, you're going to train me? I trust that you feel honored by this noble opportunity."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=55
+#. y4:msg_location=T0.P55
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=0
 msgctxt "716_Sodachi"
 msgid "Let's go ahead and get started!"
 msgstr ""
-

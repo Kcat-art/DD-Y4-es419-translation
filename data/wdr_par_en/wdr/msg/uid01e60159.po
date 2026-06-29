@@ -17,47 +17,103 @@ msgstr ""
 "X-Crowdin-File-ID: 59836\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1436"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1440"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1444"
 msgid "Hana"
 msgstr "Hana"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1448"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1452"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "92_Akiyama"
 msgid "Akiyama speaking. "
 msgstr "Habla Akiyama. "
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=2
 msgctxt "104_Hana"
 msgid "Oh, Chief. I'm so glad I caught you. "
 msgstr "Ah, jefe. Menos mal que contestó. "
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "116_Akiyama"
 msgid "Why? What's up? "
 msgstr "¿Por qué? ¿Pasó algo? "
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=2
 msgctxt "128_Hana"
 msgid "There's a customer who wants to see you. "
 msgstr "Hay un cliente que desea reunirse con usted. "
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Hana
+#. y4:msg_speaker_id=2
 msgctxt "140_Hana"
 msgid "It seems kind of important. Can you come back to the office? "
 msgstr "Parece algo importante. ¿Podría regresar a la oficina? "
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "152_Akiyama"
 msgid "Yeah, hang tight. I'll be there as soon as I can. "
 msgstr "... Va, va. Iré tan pronto como pueda. "
-

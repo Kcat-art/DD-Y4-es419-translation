@@ -10,103 +10,179 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4632"
 msgid "Bystander"
 msgstr "Transeúnte"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4636"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4640"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4644"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4648"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4652"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "4656"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "4660"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "4664"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "4668"
 msgid "Talk_Info_L"
 msgstr "Talk_Info_L"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "4672"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "4676"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "4680"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "4684"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=14
 msgctxt "4688"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=15
 msgctxt "4692"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Bystander
+#. y4:msg_speaker_id=0
 msgctxt "84_Bystander"
 msgid "What the heck was that? Looked pretty bad..."
 msgstr "¿Qué demonios era eso? Qué mala pinta..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "96_Kiryu"
 msgid "Excuse me. You have a second?"
 msgstr "Disculpe. ¿Tiene un momento?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Bystander
+#. y4:msg_speaker_id=0
 msgctxt "108_Bystander"
 msgid "Yes, of course!"
 msgstr "¡Sí, claro!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Bystander
+#. y4:msg_speaker_id=0
 msgctxt "120_Bystander"
 msgid "(Crap, crap, crap, this guy's yakuza through and through! And I just pulled a ton of cash out of the bank today, too! I'm a sitting duck here!)"
 msgstr "(¡Mierda, mierda mierda, este es más yakuza y revienta! \\r\n¡Y acabo de sacar un montón de efectivo del banco! \\r\n¡Estoy en pelotas!)"
@@ -117,16 +193,37 @@ msgid "Did you happen to see someone with a baby come by here\\r\nearlier? The b
 msgstr "¿Es posible que hayas visto a alguien pasar por aquí con un\\r\nbebé antes? El bebé tendria como seis meses, creo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Bystander
+#. y4:msg_speaker_id=0
 msgctxt "144_Bystander"
 msgid "A baby? Uh... Yes! Now that you mention it, I did!"
 msgstr "¿Un bebé? Eh... ¡sí! ¡Ahora que lo mencionas, sí!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Bystander
+#. y4:msg_speaker_id=0
 msgctxt "156_Bystander"
 msgid "(I hope I'm not putting that poor woman's life in danger right now... What have I become!?)"
 msgstr "(Espero no estar poniendo en peligro la vida de esa mujer... \\r\n¿¡en qué me he convertido!?)"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Bystander
+#. y4:msg_speaker_id=0
 msgctxt "168_Bystander"
 msgid "(But I can't turn back now. Sorry for selling you out, mysterious baby lady!)"
 msgstr "(Pero ya no hay vuelta atrás. ¡Siento venderte, mujer \\r\nmisteriosa del bebé!)"
@@ -147,6 +244,13 @@ msgid "Last I saw the baby, she was clutching it in her arms\\r\nrunning back in
 msgstr "La última vez que vi al bebé, estaba en los brazos de su \\r\nmadre, que corrió al callejón trasero de este edificio."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=11
+#. y4:msg_location=T1.P11
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "216_Kiryu"
 msgid "And did you see what this woman looked like?"
 msgstr "¿Y viste cómo lucía la mujer?"
@@ -167,22 +271,49 @@ msgid "Well... I've been hanging around here for a while, but I\\r\nnever actual
 msgstr "Bueno... hace rato que estoy aquí, pero nunca la \\r\nllegué a ver salir por esta salida. Puede que se \\r\nhaya escapado por la otra punta del callejón."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=15
+#. y4:msg_location=T1.P15
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "264_Kiryu"
 msgid "Great, got it. Sorry to have bothered you."
 msgstr "Genial, de acuerdo. Siento haberte molestado."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Bystander
+#. y4:msg_speaker_id=0
 msgctxt "276_Bystander"
 msgid "Glad I could help!"
 msgstr "¡Me alegro de haberte ayudado!"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=17
+#. y4:msg_location=T1.P17
+#. y4:msg_speaker=Bystander
+#. y4:msg_speaker_id=0
 msgctxt "288_Bystander"
 msgid "(Phew, glad that's over with. Wish I didn't have to rat out that poor woman, though. I'm such a spineless worm...)"
 msgstr "(Uff, menos mal que ya está. Ojalá no hubiera tenido que \\r\ntraicionar a esa pobre mujer. Soy un gusano desalmado...)"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=18
+#. y4:msg_location=T1.P18
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "300_Kiryu"
 msgid "(Sounds like the lady he saw is the one who abandoned that baby. Guess I'll take a look around the area. Public Park 3 might be a good place to start.)"
 msgstr "(Parece que la mujer que vió es la que abandonó el bebé. \\r\nSupongo que tendré que echar un ojo por la zona. \\r\nEl Parque Público 3 puede ser un buen comienzo.)"
-

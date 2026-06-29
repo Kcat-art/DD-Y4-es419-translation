@@ -17,119 +17,309 @@ msgstr ""
 "X-Crowdin-File-ID: 59768\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "5660"
 msgid "Bouncer"
 msgstr "Cadenero"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "5664"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "5668"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "120_Bouncer"
 msgid "How was it? Enjoy our pole-dancing show, huh?"
 msgstr "¿Qué tal estuvo? ¿Disfrutaste nuestro show de pole dance, eh?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "132_Player"
 msgid "Yeah... It was pretty great."
 msgstr "Sí... Estuvo bastante bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "144_Bouncer"
 msgid "Keep this on the down low, but that dancer girl you were just watching? She was pretty plus sized a few years ago, if you catch my drift."
 msgstr "Mantén esto en secreto, pero esa bailarina que acabas de ver... Era bastante rellenita hace unos años, si entiendes lo que digo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "156_Player"
 msgid "Wait, really?"
 msgstr "Espera, ¿en serio?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "168_Bouncer"
 msgid "Yeah, but then she added pole dancing to her weight loss routine, and boom! Dropped those pounds like a crappy ex-boyfriend. She worked hard to earn that sexy bod of hers."
 msgstr "Sí, pero luego añadió el pole dancing a su rutina de pérdida de peso, y ¡boom! Perdió esos kilos como a un exnovio tóxico. Se esforzó mucho para ganarse ese cuerpo sexy que tiene ahora."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "180_Bouncer"
 msgid "It's good exercise, you know! Works every single muscle in your body, so it's great if you're looking to lose weight. Apparently, it's all the rage among Hollywood celebs, too."
 msgstr "Es un buen ejercicio, ¿sabes? Trabaja todos los músculos del cuerpo, así que es genial si buscas perder peso. Al parecer, también está de moda entre las celebridades de Hollywood."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "192_Bouncer"
 msgid "Everyone thinks pole dancing is just something for skeevy guys or desperate strippers, but it's a legitimate way to get your body into shape!"
 msgstr "Todos piensan que el pole dance es solo para tipos raros o strippers desesperadas, ¡pero en realidad es una forma legítima de ponerse en forma!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "204_Player"
 msgid "(The pole dancing workout, huh... The girls at the club might be into that.)"
 msgstr "(¿Un entrenamiento de pole dance, eh...? Quizás a las chicas del club les interese eso.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "216_Bouncer"
 msgid "How was it? Enjoy our pole-dancing show, huh?"
 msgstr "¿Qué tal estuvo? ¿Disfrutaste nuestro show de pole dance, eh?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "228_Player"
 msgid "Yeah... It was pretty great."
 msgstr "Sí... Estuvo bastante bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "240_Bouncer"
 msgid "Keep this on the down low, but that dancer girl you were just watching? She was pretty plus sized a few years ago, if you catch my drift."
 msgstr "Mantén esto en secreto, pero esa bailarina que acabas de ver... Era bastante rellenita hace unos años, si entiendes lo que digo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "252_Player"
 msgid "Wait, really?"
 msgstr "Espera, ¿en serio?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "264_Bouncer"
 msgid "Yeah, but then she added pole dancing to her weight loss routine, and boom! Dropped those pounds like a crappy ex-boyfriend. She worked hard to earn that sexy bod of hers."
 msgstr "Sí, pero luego añadió el pole dancing a su rutina de pérdida de peso, y ¡boom! Perdió esos kilos como a un exnovio tóxico. Se esforzó mucho para ganarse ese cuerpo sexy que tiene ahora."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "276_Bouncer"
 msgid "It's good exercise, you know! Works every single muscle in your body, so it's great if you're looking to lose weight. Apparently, it's all the rage among Hollywood celebs, too."
 msgstr "Es un buen ejercicio, ¿sabes? Trabaja todos los músculos del cuerpo, así que es genial si buscas perder peso. Al parecer, también está de moda entre las celebridades de Hollywood."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "288_Bouncer"
 msgid "Everyone thinks pole dancing is just something for skeevy guys or desperate strippers, but it's a legitimate way to get your body into shape!"
 msgstr "Todos piensan que el pole dance es solo para tipos raros o strippers desesperadas, ¡pero en realidad es una forma legítima de ponerse en forma!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "300_Player"
 msgid "(The pole dancing workout, huh... The girls at the club might be into that.)"
 msgstr "(¿Un entrenamiento de pole dance, eh...? Quizás a las chicas del club les interese eso.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "312_Bouncer"
 msgid "How was it? Enjoy our pole-dancing show, huh?"
 msgstr "¿Qué tal estuvo? ¿Disfrutaste nuestro show de pole dance, eh?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "324_Player"
 msgid "Yeah... It was pretty great."
 msgstr "Sí... Estuvo bastante bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "336_Bouncer"
 msgid "Keep this on the down low, but that dancer girl you were just watching? She was pretty plus sized a few years ago, if you catch my drift."
 msgstr "Mantén esto en secreto, pero esa bailarina que acabas de ver... Era bastante rellenita hace unos años, si entiendes lo que digo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "348_Player"
 msgid "Wait, really?"
 msgstr "Espera, ¿en serio?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "360_Bouncer"
 msgid "Yeah, but then she added pole dancing to her weight loss routine, and boom! Dropped those pounds like a crappy ex-boyfriend. She worked hard to earn that sexy bod of hers."
 msgstr "Sí, pero luego añadió el pole dancing a su rutina de pérdida de peso, y ¡boom! Perdió esos kilos como a un exnovio tóxico. Se esforzó mucho para ganarse ese cuerpo sexy que tiene ahora."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "372_Bouncer"
 msgid "It's good exercise, you know! Works every single muscle in your body, so it's great if you're looking to lose weight. Apparently, it's all the rage among Hollywood celebs, too."
 msgstr "Es un buen ejercicio, ¿sabes? Trabaja todos los músculos del cuerpo, así que es genial si buscas perder peso. Al parecer, también está de moda entre las celebridades de Hollywood."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "384_Bouncer"
 msgid "Everyone thinks pole dancing is just something for skeevy guys or desperate strippers, but it's a legitimate way to get your body into shape!"
 msgstr "Todos piensan que el pole dance es solo para tipos raros o strippers desesperadas, ¡pero en realidad es una forma legítima de ponerse en forma!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "396_Player"
 msgid "(The pole dancing workout, huh... The girls at the club might be into that.)"
 msgstr "(¿Un entrenamiento de pole dance, eh...? Quizás a las chicas del club les interese eso.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "408_Bouncer"
 msgid "Sorry, but once you leave, you can't come back in."
 msgstr "Lo siento, pero una vez que sales, no puedes volver a entrar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_speaker=Bouncer
+#. y4:msg_speaker_id=0
 msgctxt "420_Bouncer"
 msgid "I'll show you to your seat!"
 msgstr "¡Te mostraré tu asiento!"
-

@@ -17,35 +17,80 @@ msgstr ""
 "X-Crowdin-File-ID: 58590\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
 msgctxt "72"
 msgid "\"A room with 2 picture frames. Check the bookshelf.\""
 msgstr "\"Una habitación con 2 cuadros. Revisa la estantería.\""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
 msgctxt "108"
 msgid "\"A room with 2 picture frames. Check the bookshelf.\""
 msgstr "\"Una habitación con 2 cuadros. Revisa la estantería.\""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
 msgctxt "132"
 msgid "You found a <Color:8>Cat's Key<Color:Default>."
 msgstr "Encontraste un <Color:8>Llave de los gatos<Color:Default>."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1232"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "84_Saejima"
 msgid "(Is this where I'm supposed to go next?)"
 msgstr "(¿Se supone que aquí es donde debo ir ahora?)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "96_Saejima"
 msgid "(Geez, another note?)"
 msgstr "(Caramba, ¿otra nota?)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "120_Saejima"
 msgid "(Another weird note... Huh? Something's folded inside it.)"
 msgstr "(Otra nota rara... ¿eh? Hay algo doblado dentro.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "156_Saejima"
 msgid "(This must have somethin' to do with them cats. Better take it with me.)"
 msgstr "(Esto ha de tener algo que ver con los gatos. Será mejor que me lo lleve.)"
-

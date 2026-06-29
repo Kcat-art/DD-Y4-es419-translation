@@ -17,10 +17,16 @@ msgstr ""
 "X-Crowdin-File-ID: 61256\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "724"
 msgid "Man in a Suit"
 msgstr "Hombre Trajeado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "728"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -39,7 +45,13 @@ msgstr "Y lo que sea que intenten decir, diles que estamos bajo órdenes\\r\n"
 " de la oficina del fiscal del distrito. Eso es todo\\r\n"
 " lo que necesitan saber. Ahora, muévete."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "96_Kiryu"
 msgid "(The DA? I wonder what happened.)"
 msgstr "(¿El Agente de Distrito? Me pregunto qué pasó.)"
-

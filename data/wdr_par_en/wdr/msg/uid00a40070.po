@@ -17,42 +17,80 @@ msgstr ""
 "X-Crowdin-File-ID: 61622\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3616"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3620"
 msgid "Miki's Friend"
 msgstr "Amiga de Miki"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3624"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3628"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3632"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3636"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "3640"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "3644"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "84_Akiyama"
 msgid "Hey, you got a second? Are you Miki Nishihama-san's friend?"
 msgstr "Perdona, ¿tienes un minuto? ¿Eres la amiga de Miki Nishihama?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Miki's Friend
+#. y4:msg_speaker_id=1
 msgctxt "96_Miki's Friend"
 msgid "Yes, I am. Who are you?"
 msgstr "Así es. ¿Quién es usted?"
@@ -64,6 +102,13 @@ msgid "Er, well... I know her father, you see, and I could've\\r\n"
 msgstr "Eh... Conozco a su padre. Me pareció oír que el papá de\\r\n"
 "Miki \"engañó\" a alguien... ¿A qué te refieres?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Miki's Friend
+#. y4:msg_speaker_id=1
 msgctxt "120_Miki's Friend"
 msgid "Oh... Well, I dunno if I should say, but..."
 msgstr "Oh... Pues no sé si deba contar algo, pero..."
@@ -82,6 +127,13 @@ msgid "I mean, he'll kill you if you don't pay up, but, like, if\\r\n"
 msgstr "Si no cumples con el pago, hay consecuencias graves,\\r\n"
 "pero si logras engañarlo, podrías evitar cualquier pago."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "156_Akiyama"
 msgid "Huh... A \"legendary loan shark,\" you say?"
 msgstr "Mmm... Un \"famoso prestamista\", eh."
@@ -106,11 +158,24 @@ msgid "Then again, she started buying all these brand-name clothes\\r\n"
 msgstr "Por otro lado, empezó a comprar todas estas prendas de marca\\r\n"
 "y, además, mucha joyería, así que puede que sea cierto después de todo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=10
+#. y4:msg_location=T1.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "204_Akiyama"
 msgid "Hmm... I see. Thanks. I think I get it now."
 msgstr "Mmm... Ya veo. Gracias. Creo que ya lo tengo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=12
+#. y4:msg_location=T1.P12
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "228_Akiyama"
 msgid "(Well, they're not exactly trying to cover it up... Fancy clothes and jewelry in Kamurocho? Must be Le Marche... I should go check it out.)"
 msgstr "(Parece que no les importa disimular... ¿Ropa y joyas de lujo en Kamurocho? Debe ser Le Marche... Debería ir a echar un vistazo)."
-

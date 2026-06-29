@@ -17,26 +17,54 @@ msgstr ""
 "X-Crowdin-File-ID: 60020\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
 msgctxt "140"
 msgid "You got <Color:8>Original Curry Take-home Pack<Color:Default>."
 msgstr "Has obtenido un <Color:8>pack de curry original para llevar<Color:Default>."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2292"
 msgid "Matsuya Staff"
 msgstr "Personal de Matsuya"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2296"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2300"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Matsuya Staff
+#. y4:msg_speaker_id=0
 msgctxt "56_Matsuya Staff"
 msgid "Welcome to Matsuya, sir! How many will it be?"
 msgstr "¡Bienvenido a Matsuya, señor!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "68_Kiryu"
 msgid "I was actually wondering if you guys do takeout. I need curry, stat."
 msgstr "¿Tiene comida para llevar? Necesito curry, y lo necesito urgentemente."
@@ -47,31 +75,79 @@ msgid "Oh, of course. A take-home pack of our original curry would\\r\n"
 msgstr "Oh, claro. Un paquete para llevar de nuestro curry original sería\\r\n"
 "perfecto para lo que necesitas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "92_Kiryu"
 msgid "Perfect, I'll take one."
 msgstr "Perfecto, quiero uno."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Matsuya Staff
+#. y4:msg_speaker_id=0
 msgctxt "104_Matsuya Staff"
 msgid "That'll be 300 yen."
 msgstr "Serían 300 yenes."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Matsuya Staff
+#. y4:msg_speaker_id=0
 msgctxt "164_Matsuya Staff"
 msgid "Thank you very much."
 msgstr "Muchas gracias."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "176_Kiryu"
 msgid "(I know you're supposed to heat this stuff up before you eat it... but I don't have time for that. Gotta get this to him, ASAP.)"
 msgstr "(Normalmente se calienta antes de comerlo... pero no tengo tiempo para eso. Debo llevárselo lo antes posible)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "212_Kiryu"
 msgid "(Dammit, I don't have the cash.)"
 msgstr "(Maldita sea, no tengo el dinero)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
 msgctxt "224_Kiryu"
 msgid "Sorry, can I actually cancel that? Something came up."
 msgstr "Disculpa, ¿puedo cancelarlo? Surgió algo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Matsuya Staff
+#. y4:msg_speaker_id=0
 msgctxt "236_Matsuya Staff"
 msgid "Oh, no problem at all. Please come again!"
 msgstr "¡Oh, no hay problema! ¡Vuelva pronto!"
-

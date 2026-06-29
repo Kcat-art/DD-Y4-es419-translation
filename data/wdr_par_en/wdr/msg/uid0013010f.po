@@ -17,34 +17,66 @@ msgstr ""
 "X-Crowdin-File-ID: 61530\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1248"
 msgid "Angry Drunk"
 msgstr "Borracho Enojado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1252"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1256"
 msgid "Heated Drunk"
 msgstr "Borracho Exaltado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1260"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1264"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1268"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Angry Drunk
+#. y4:msg_speaker_id=0
 msgctxt "84_Angry Drunk"
 msgid "You the one tryna start a fight!"
 msgstr "¡Tú eres el que está buscando pelea!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Heated Drunk
+#. y4:msg_speaker_id=2
 msgctxt "96_Heated Drunk"
 msgid "You must got a death wish, comin' on to my lady like that. I'm gonna beat your ass right now!"
 msgstr "Debes estar loco, si te atreves a faltarle el respeto a mi pareja así. ¡Te voy a golpear ahora mismo!"
@@ -55,7 +87,13 @@ msgid "I'm with the police! Enough already!\\r\n"
 msgstr "¡Es la policía! ¡Deténganse inmediatamente!\\r\n"
 "¿No ven que están obstruyendo el paso?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Angry Drunk
+#. y4:msg_speaker_id=0
 msgctxt "120_Angry Drunk"
 msgid "Whazzat!? Take a hike, pal!"
 msgstr "¡Cáaallate! ¡Estorbas, así que lárgate!"
-

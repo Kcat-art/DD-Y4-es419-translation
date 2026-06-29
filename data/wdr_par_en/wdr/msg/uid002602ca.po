@@ -10,47 +10,78 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1712"
 msgid "Elise Manager"
 msgstr "Gerente del Elise"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1716"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1720"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1724"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1728"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1732"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "1736"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "1740"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Elise Manager
+#. y4:msg_speaker_id=0
 msgctxt "112_Elise Manager"
 msgid "Hello, Akiyama-san."
 msgstr "Hola, Akiyama-san."
@@ -61,42 +92,97 @@ msgid "Yo. I thought I'd drop in and check on the club. How are\\r\nthings?"
 msgstr "Hey. Pase a ver como estaban las cosas en el club. ¿Va todo\\r\nbien?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Elise Manager
+#. y4:msg_speaker_id=0
 msgctxt "136_Elise Manager"
 msgid "Remarkably well, given the state of the economy."
 msgstr "Considerando esta economía, increíblemente bien."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "148_Akiyama"
 msgid "Really? That's good to hear."
 msgstr "¿Ah, de verdad? Es bueno oírlo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Elise Manager
+#. y4:msg_speaker_id=0
 msgctxt "160_Elise Manager"
 msgid "But..."
 msgstr "Pero..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "172_Akiyama"
 msgid "But what?"
 msgstr "¿Qué?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Elise Manager
+#. y4:msg_speaker_id=0
 msgctxt "184_Elise Manager"
 msgid "Well, it's Miki..."
 msgstr "Se trata de Miki..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "196_Akiyama"
 msgid "What about her?"
 msgstr "¿Qué pasa con ella?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=8
+#. y4:msg_location=T2.P8
+#. y4:msg_speaker=Elise Manager
+#. y4:msg_speaker_id=0
 msgctxt "208_Elise Manager"
 msgid "Maybe you'd better ask her yourself. She's in today."
 msgstr "Ella está aquí hoy. Será mejor que le preguntes tú mismo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "220_Akiyama"
 msgid "All right. Have her stop by the dressing room."
 msgstr "Entiendo. Pídele que vaya al camerino."
-

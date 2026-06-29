@@ -17,38 +17,69 @@ msgstr ""
 "X-Crowdin-File-ID: 61430\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "5284"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "5288"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "5292"
 msgid "Loan Shark"
 msgstr "Usurero"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "5296"
 msgid "Loan Shark's Underling"
 msgstr "Secuaz del prestamista informal"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "5300"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "5304"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "5308"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "5312"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "84_Akiyama"
 msgid "(A host club, huh? This could be bad...)"
 msgstr "(Un club de hostess, ¿eh? Esto puede salir mal...)"
@@ -71,6 +102,13 @@ msgid "Pfft. That Akiyama... What a pain in the ass. Wish he'd get\\r\n"
 msgstr "Pfff. Ese Akiyama... qué dolor de cabeza. Desearía que\\r\n"
 "se fuera de Kamurocho de una vez por todas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "276_Akiyama"
 msgid "Er, excuse me. How do you know Shoko-san?"
 msgstr "Eh, disculpen. ¿Cómo es que conocen a Shoko-san?"
@@ -93,10 +131,24 @@ msgid "She's right in the middle of one of my tests and doesn't\\r\n"
 msgstr "Está justo en medio de una de mis pruebas y por ahora necesito\\r\n"
 "que no se distraiga."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=20
+#. y4:msg_location=T1.P20
+#. y4:msg_speaker=Loan Shark
+#. y4:msg_speaker_id=2
 msgctxt "324_Loan Shark"
 msgid "The hell you say!? You think you can order us around?"
 msgstr "¡¿Qué carajo dices?! ¿Crees que nos puedes dar órdenes?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=21
+#. y4:msg_location=T1.P21
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "336_Akiyama"
 msgid "I'm not ordering, I'm asking..."
 msgstr "No les estoy ordenando nada, Solo les estoy preguntando..."
@@ -133,6 +185,13 @@ msgid "Shut up! And mind your own damn business! You'll\\r\n"
 msgstr "¡Que te calles! ¡Y métete en tus putos asuntos! ¡Sal\\r\n"
 "de nuestro camino si no quieres acabar en el hospital!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=27
+#. y4:msg_location=T1.P27
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "408_Akiyama"
 msgid "*sigh* I guess there's no use in talking, huh?"
 msgstr "*Suspiro* Supongo que no quieren hablar las cosas, ¿eh?"
@@ -149,7 +208,13 @@ msgid "We need you out of our business, so we're just gonna snap\\r\n"
 msgstr "Necesitamos que estés fuera de nuestro negocio, así que vamos a romperte\\r\n"
 "uno que otro hueso."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=30
+#. y4:msg_location=T1.P30
+#. y4:msg_speaker=Loan Shark
+#. y4:msg_speaker_id=2
 msgctxt "444_Loan Shark"
 msgid "C'mon! Get him!"
 msgstr "¡Vamos, chicos! ¡A por él!"
-

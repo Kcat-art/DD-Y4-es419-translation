@@ -17,58 +17,100 @@ msgstr ""
 "X-Crowdin-File-ID: 59290\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "52864"
 msgid "Employee"
 msgstr "Empleado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "52868"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "52872"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "52876"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "52880"
 msgid "Noa"
 msgstr "Noa"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "52884"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "52888"
 msgid "Erena"
 msgstr "Erena"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "52892"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "52896"
 msgid "Chihiro"
 msgstr "Chihiro"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "52900"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "52904"
 msgid "Maya"
 msgstr "Maya"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "52908"
 msgid "Rio"
 msgstr "Rio"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "52912"
 msgid "Himeka"
 msgstr "Himeka"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "52916"
 msgid "Shizuka"
 msgstr "Shizuka"
@@ -85,495 +127,1335 @@ msgctxt "52928"
 msgid "峰村七海：源氏名"
 msgstr "峰村七海：源氏名"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=17
 msgctxt "52932"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=18
 msgctxt "52936"
 msgid "P_sitchr_tlk_kamae"
 msgstr "P_sitchr_tlk_kamae"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=19
 msgctxt "52940"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=20
 msgctxt "52944"
 msgid "P_stand"
 msgstr "P_stand"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=21
 msgctxt "52948"
 msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "304_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "316_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "412_Employee"
 msgid "Welcome. Can I get you started off with a drink?"
 msgstr "Bienvenido. ¿Puedo ofrecerle una bebida para comenzar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "424_Akiyama"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "496_Employee"
 msgid "Have you decided what you would like to order?"
 msgstr "¿Ya decidió lo que le gustaría ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=29
+#. y4:msg_location=T2.P29
+#. y4:msg_speaker=Noa
+#. y4:msg_speaker_id=4
 msgctxt "652_Noa"
 msgid "Huh? C'mon, you can handle ordering something, right?"
 msgstr "¿Eh? Puede encargarse de ordenar algo, ¿no?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=30
+#. y4:msg_location=T2.P30
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "664_Akiyama"
 msgid "Right..."
 msgstr "Cierto..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=34
+#. y4:msg_location=T2.P34
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "712_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=36
+#. y4:msg_location=T2.P36
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "736_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "760_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "772_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "868_Employee"
 msgid "Welcome. Can I get you started off with a drink?"
 msgstr "Bienvenido. ¿Puedo ofrecerle una bebida para comenzar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "880_Akiyama"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "952_Employee"
 msgid "Have you decided what you would like to order?"
 msgstr "¿Ya decidió lo que le gustaría ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=29
+#. y4:msg_location=T3.P29
+#. y4:msg_speaker=Erena
+#. y4:msg_speaker_id=6
 msgctxt "1108_Erena"
 msgid "C'mon, get me food already! I'm tired of waiting! Feed me, Akiyama-san!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=30
+#. y4:msg_location=T3.P30
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "1120_Akiyama"
 msgid "Right, sorry about that."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=34
+#. y4:msg_location=T2.P34
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "1168_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=36
+#. y4:msg_location=T2.P36
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "1192_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "1216_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "1228_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "1324_Employee"
 msgid "Welcome. Can I get you started off with a drink?"
 msgstr "Bienvenido. ¿Puedo ofrecerle una bebida para comenzar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "1336_Tanimura"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "1408_Employee"
 msgid "Have you decided what you would like to order?"
 msgstr "¿Ya decidió lo que le gustaría ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=29
+#. y4:msg_location=T4.P29
+#. y4:msg_speaker=Chihiro
+#. y4:msg_speaker_id=8
 msgctxt "1564_Chihiro"
 msgid "Huh? You have to order something, don't you?"
 msgstr "¿Eh? Debería ordenar algo, ¿no?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=30
+#. y4:msg_location=T4.P30
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=7
 msgctxt "1576_Tanimura"
 msgid "Oh..."
 msgstr "Oh..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=34
+#. y4:msg_location=T2.P34
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "1624_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=36
+#. y4:msg_location=T2.P36
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "1648_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "1672_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "1684_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "1780_Employee"
 msgid "Welcome. Can I get you started off with a drink?"
 msgstr "Bienvenido. ¿Puedo ofrecerle una bebida para comenzar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "1792_Kiryu"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "1864_Employee"
 msgid "Have you decided what you would like to order?"
 msgstr "¿Ya decidió lo que le gustaría ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=29
+#. y4:msg_location=T2.P29
+#. y4:msg_speaker=Noa
+#. y4:msg_speaker_id=4
 msgctxt "2020_Maya"
 msgid "Huh? C'mon, you can handle ordering something, right?"
 msgstr "¿Eh? Puede encargarse de ordenar algo, ¿no?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=30
+#. y4:msg_location=T2.P30
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "2032_Kiryu"
 msgid "Right..."
 msgstr "Sí..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=34
+#. y4:msg_location=T2.P34
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "2080_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=36
+#. y4:msg_location=T2.P36
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "2104_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "2128_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "2140_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "2236_Employee"
 msgid "Welcome. Can I get you started off with a drink?"
 msgstr "Bienvenido. ¿Puedo ofrecerle una bebida para comenzar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "2248_Akiyama"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "2320_Employee"
 msgid "Have you decided what you would like to order?"
 msgstr "¿Ya decidió lo que le gustaría ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=29
+#. y4:msg_location=T6.P29
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=11
 msgctxt "2476_Rio"
 msgid "Huh? Let's order something, c'mon."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=30
+#. y4:msg_location=T2.P30
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "2488_Akiyama"
 msgid "Right..."
 msgstr "Cierto..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=34
+#. y4:msg_location=T2.P34
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "2536_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=36
+#. y4:msg_location=T2.P36
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "2560_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "2584_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "2596_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "2692_Employee"
 msgid "Welcome. Can I get you started off with a drink?"
 msgstr "Bienvenido. ¿Puedo ofrecerle una bebida para comenzar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "2704_Tanimura"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "2776_Employee"
 msgid "Have you decided what you would like to order?"
 msgstr "¿Ya decidió lo que le gustaría ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=29
+#. y4:msg_location=T7.P29
+#. y4:msg_speaker=Himeka
+#. y4:msg_speaker_id=12
 msgctxt "2932_Himeka"
 msgid "Is there something wrong? Please pick something already."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=30
+#. y4:msg_location=T2.P30
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "2944_Tanimura"
 msgid "Right..."
 msgstr "Cierto..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=34
+#. y4:msg_location=T2.P34
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "2992_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=36
+#. y4:msg_location=T2.P36
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3016_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3040_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3052_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3148_Employee"
 msgid "Welcome. Can I get you started off with a drink?"
 msgstr "Bienvenido. ¿Puedo ofrecerle una bebida para comenzar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "3160_Kiryu"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3232_Employee"
 msgid "Have you decided what you would like to order?"
 msgstr "¿Ya decidió lo que le gustaría ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=8
+#. y4:msg_phrase=29
+#. y4:msg_location=T8.P29
+#. y4:msg_speaker=Shizuka
+#. y4:msg_speaker_id=13
 msgctxt "3388_Shizuka"
 msgid "Um, what's wrong? Are you ready to order?"
 msgstr "Um, ¿qué pasá? ¿Está listo para ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=8
+#. y4:msg_phrase=30
+#. y4:msg_location=T8.P30
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=9
 msgctxt "3400_Kiryu"
 msgid "Yeah, just give me a second."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=34
+#. y4:msg_location=T2.P34
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3448_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=36
+#. y4:msg_location=T2.P36
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3472_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3496_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3508_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3604_Employee"
 msgid "Welcome. Can I get you started off with a drink?"
 msgstr "Bienvenido. ¿Puedo ofrecerle una bebida para comenzar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "3616_Kiryu"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3688_Employee"
 msgid "Have you decided what you would like to order?"
 msgstr "¿Ya decidió lo que le gustaría ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=9
+#. y4:msg_phrase=29
+#. y4:msg_location=T9.P29
+#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=14
 msgctxt "3844_松岡里緒奈：源氏名"
 msgid "Huh? You really okay with me ordering? Your wallet is gonna regret it when we go to get the bill!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=9
+#. y4:msg_phrase=30
+#. y4:msg_location=T9.P30
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=9
 msgctxt "3856_Kiryu"
 msgid "Hold on, let me order."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=34
+#. y4:msg_location=T2.P34
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3904_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=36
+#. y4:msg_location=T2.P36
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3928_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3952_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "3964_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "4060_Employee"
 msgid "Welcome. Can I get you started off with a drink?"
 msgstr "Bienvenido. ¿Puedo ofrecerle una bebida para comenzar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "4072_Kiryu"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "4144_Employee"
 msgid "Have you decided what you would like to order?"
 msgstr "¿Ya decidió lo que le gustaría ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=10
+#. y4:msg_phrase=29
+#. y4:msg_location=T10.P29
+#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=15
 msgctxt "4300_望月京子：源氏名"
 msgid "C'mon, you're a man, aren't you? Man up and decide already!"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=10
+#. y4:msg_phrase=30
+#. y4:msg_location=T10.P30
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=9
 msgctxt "4312_Kiryu"
 msgid "Yeah, just give me a second..."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=34
+#. y4:msg_location=T2.P34
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "4360_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=36
+#. y4:msg_location=T2.P36
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "4384_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "4408_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "4420_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "4516_Employee"
 msgid "Welcome. Can I get you started off with a drink?"
 msgstr "Bienvenido. ¿Puedo ofrecerle una bebida para comenzar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=3
 msgctxt "4528_Tanimura"
 msgid "(Maybe I should order for the both of us.)"
 msgstr "(Quizá debería pedir para los dos.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "4600_Employee"
 msgid "Have you decided what you would like to order?"
 msgstr "¿Ya decidió lo que le gustaría ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=11
+#. y4:msg_phrase=29
+#. y4:msg_location=T11.P29
+#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
+#. y4:msg_speaker_id=16
 msgctxt "4756_峰村七海：源氏名"
 msgid "Is there something wrong? Don't worry about me. Just get something you'll like."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=11
+#. y4:msg_phrase=30
+#. y4:msg_location=T11.P30
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=7
 msgctxt "4768_Tanimura"
 msgid "Okay..."
 msgstr "Bueno..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=34
+#. y4:msg_location=T2.P34
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "4816_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=36
+#. y4:msg_location=T2.P36
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "4840_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "4876_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=3
+#. y4:msg_location=T13.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=17
 msgctxt "4912_Player"
 msgid "(I don't have the cash...)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=5
+#. y4:msg_location=T13.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=17
 msgctxt "4936_Player"
 msgid "(I'm not hungry right now...)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=6
+#. y4:msg_location=T13.P6
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=17
 msgctxt "4948_Player"
 msgid "Sorry, just remembered I got something to do first."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=7
+#. y4:msg_location=T13.P7
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "4960_Employee"
 msgid "Not a problem at all, sir. Please come again."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "4984_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5044_Employee"
 msgid "Welcome. Can I get you started off with a drink?"
 msgstr "Bienvenido. ¿Puedo ofrecerle una bebida para comenzar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5068_Employee"
 msgid "Have you decided what you would like to order?"
 msgstr "¿Ya decidió lo que le gustaría ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5116_Employee"
 msgid "Have you decided what you would like to order?"
 msgstr "¿Ya decidió lo que le gustaría ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=24
+#. y4:msg_location=T13.P24
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=17
 msgctxt "5164_Employee"
 msgid "Sorry. I've got to go take care of something."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=25
+#. y4:msg_location=T13.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5176_Employee"
 msgid "All right. Please come again."
 msgstr "De acuerdo. Por favor, vuelva otra vez."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=34
+#. y4:msg_location=T2.P34
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5212_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=36
+#. y4:msg_location=T2.P36
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5236_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=36
+#. y4:msg_location=T2.P36
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5296_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5320_Employee"
 msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=3
+#. y4:msg_location=T13.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=17
 msgctxt "5356_Player"
 msgid "(I don't have the cash...)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=14
+#. y4:msg_phrase=5
+#. y4:msg_location=T14.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=17
 msgctxt "5380_Player"
 msgid "(No point eating now. I'm not even hungry.)"
 msgstr "(No tiene sentido comer ahora. Ni siquiera tengo hambre)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=6
+#. y4:msg_location=T13.P6
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=17
 msgctxt "5392_Player"
 msgid "Sorry, just remembered I got something to do first."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=7
+#. y4:msg_location=T13.P7
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5404_Employee"
 msgid "Not a problem at all, sir. Please come again."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5428_Employee"
 msgid "Right this way."
 msgstr "Por aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5488_Employee"
 msgid "Welcome. Can I get you started off with a drink?"
 msgstr "Bienvenido. ¿Puedo ofrecerle una bebida para comenzar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5512_Employee"
 msgid "Have you decided what you would like to order?"
 msgstr "¿Ya decidió lo que le gustaría ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=16
+#. y4:msg_location=T2.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5560_Employee"
 msgid "Have you decided what you would like to order?"
 msgstr "¿Ya decidió lo que le gustaría ordenar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=13
+#. y4:msg_phrase=24
+#. y4:msg_location=T13.P24
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=17
 msgctxt "5608_Employee"
 msgid "Sorry. I've got to go take care of something."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=14
+#. y4:msg_phrase=25
+#. y4:msg_location=T14.P25
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5620_Employee"
 msgid "All right. Well, please come again."
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=34
+#. y4:msg_location=T2.P34
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5656_Employee"
 msgid "Here's your bill, sir."
 msgstr "Esta es su cuenta, señor."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=36
+#. y4:msg_location=T2.P36
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5680_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=36
+#. y4:msg_location=T2.P36
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "5740_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
-

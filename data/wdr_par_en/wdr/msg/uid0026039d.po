@@ -17,86 +17,163 @@ msgstr ""
 "X-Crowdin-File-ID: 61118\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
 msgctxt "176"
 msgid "You got <Color:8>50,000 yen<Color:Default>."
 msgstr "Obtuviste <Color:8>50 000 yenes<Color:Default>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
 msgctxt "212"
 msgid "You got <Color:8>10,000 yen<Color:Default>."
 msgstr "Obtuviste <Color:8>10 000 yenes<Color:Default>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
 msgctxt "320"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3820"
 msgid "Smith"
 msgstr "Herrero"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3824"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3828"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3832"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "3836"
 msgid "Talk_SmileBig_st"
 msgstr "Talk_SmileBig_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "3840"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "3844"
 msgid "Yakuza"
 msgstr "Yakuza"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "3848"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "3852"
 msgid "Talk_SmileBig_ed"
 msgstr "Talk_SmileBig_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "3856"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "3860"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "3864"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "3868"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "3872"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=14
 msgctxt "3876"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=15
 msgctxt "3880"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Smith
+#. y4:msg_speaker_id=0
 msgctxt "56_Smith"
 msgid "Sorry to keep you waiting!"
 msgstr "¡Siento haberte hecho esperar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=2
 msgctxt "68_Tanimura"
 msgid "Finally... Wait, aren't those guys...?"
 msgstr "Al fin... Espera, ¿no son esos tipos...?"
@@ -107,6 +184,13 @@ msgid "Yeah, those yakuza from before! We ended up bumping into\\r\n"
 msgstr "¡Sí, esos yakuza de antes! Terminamos chocando con el uno al\\r\n"
 "otro en el baño, y a que no adivinas, ¡nos convertimos en verdaderos compitas!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Smith
+#. y4:msg_speaker_id=0
 msgctxt "92_Smith"
 msgid "Nothing like a hot, steamy mineral bath to wash away your differences, am I right!? And now we're like family! Not, like, I actually joined their family, but you know what I mean!"
 msgstr "Nada como un baño mineral caliente y humeante para lavar tus diferencias,\\r\n"
@@ -119,14 +203,35 @@ msgid "Bwahaha! Get a load of this motherfucker!\\r\n"
 msgstr "¡Bua, ja, ja! ¡Solo escucha a este hijo de puta!\\r\n"
 "¡Este tipo es jodidamente gracioso!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Smith
+#. y4:msg_speaker_id=0
 msgctxt "116_Smith"
 msgid "Man, I tell you, we'd all get along better if nobody wore any clothes at all!"
 msgstr "¡Hermano, te digo que todos nos llevaríamos mejor si nadie usara ropa en absoluto!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Smith
+#. y4:msg_speaker_id=0
 msgctxt "128_Smith"
 msgid "Tanimura-san, you've made this the trip of a lifetime."
 msgstr "Tanimura-san, has hecho de este el viaje de mi vida."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Smith
+#. y4:msg_speaker_id=0
 msgctxt "140_Smith"
 msgid "Please take this as a token of my appreciation."
 msgstr "Por favor, toma esto como una muestra de mi agradecimiento."
@@ -137,7 +242,13 @@ msgid "All right, then. Guess I'm going out for drinks with the\\r\n"
 msgstr "Muy bien, entonces. ¡Supongo que voy a salir a tomar unas copas con los\\r\n"
 "muchachos ahora!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Yakuza
+#. y4:msg_speaker_id=6
 msgctxt "236_Yakuza"
 msgid "Hahaha, hope you're ready to drink till sunrise!"
 msgstr "Ja, ja, ja, ¡espero que estés listo para beber hasta el amanecer!"
-

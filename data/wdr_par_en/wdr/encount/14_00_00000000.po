@@ -17,39 +17,81 @@ msgstr ""
 "X-Crowdin-File-ID: 57992\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1132"
 msgid "Black Nightmare Survivor"
 msgstr "Sobreviviente de los Black Nightmare"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1136"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1140"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1144"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Black Nightmare Survivor
+#. y4:msg_speaker_id=0
 msgctxt "116_Black Nightmare Survivor"
 msgid "The Black Nightmare isn't over! It'll never end!"
 msgstr "¡Los Black Nightmare no han acabado aún! ¡Nunca lo harán!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Black Nightmare Survivor
+#. y4:msg_speaker_id=0
 msgctxt "140_Black Nightmare Survivor"
 msgid "Shit. Shoulda known I couldn't beat a legend..."
 msgstr "Mierda. Debí saber que no podría ganarle a la leyenda..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
 msgctxt "152_Black Nightmare Survivor"
 msgid "I'm not gonna give up!"
 msgstr "¡No me rendiré!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
 msgctxt "164_Black Nightmare Survivor"
 msgid "You got a <Color:8>Gang Emblem<Color:Default>."
 msgstr "Has obtenido un <Color:8>emblema de pandilla<Color:Default>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Black Nightmare Survivor
+#. y4:msg_speaker_id=0
 msgctxt "200_Black Nightmare Survivor"
 msgid "This isn't over!"
 msgstr "¡Esto no se ha acabado!"
-

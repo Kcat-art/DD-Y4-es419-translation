@@ -17,43 +17,96 @@ msgstr ""
 "X-Crowdin-File-ID: 61010\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "3332"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "3336"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "3340"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "3344"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "140_Akiyama"
 msgid "(So this is where she went... Now, let's see what she does.)"
 msgstr "(Así que aquí es donde ha venido... Veamos que es lo que hace.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "212_Akiyama"
 msgid "(She went inside... Better keep a low profile.)"
 msgstr "(Ha entrado... será mejor que mantenga un perfil bajo.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "236_Akiyama"
 msgid "(Crap! Here she comes.)"
 msgstr "(¡Diablos! Ahí viene.)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=8
+#. y4:msg_location=T3.P8
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "332_Akiyama"
 msgid "(Doesn't look like she bought anything...)"
 msgstr "(No parece que se haya comprado nada...)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=10
+#. y4:msg_location=T3.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "356_Akiyama"
 msgid "(Now, then, where's she off to next?)"
 msgstr "(¿Dónde irá ahora?)"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=15
+#. y4:msg_location=T3.P15
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "416_Akiyama"
 msgid "(All right, Shoko-san should be heading back to the office by now. I ought to head over that way myself.)"
 msgstr "(Pues bien, Shoko-san debería volver a la oficina a estas alturas. Debería ir también)"
-

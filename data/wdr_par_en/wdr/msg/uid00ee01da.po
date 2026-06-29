@@ -10,37 +10,64 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=25
+#. y4:msg_location=T1.P25
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Yeah, I know the password.
 msgctxt "960"
 msgid "You got a <Color:8>Pure Gold Manjiro<Color:Default>."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "6180"
 msgid "Employee"
 msgstr "Empleado"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "6184"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "6188"
 msgid "Player"
 msgstr "Player"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "6192"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "6196"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "6200"
 msgid "Sync_Send"
 msgstr "Sync_Send"
@@ -56,11 +83,33 @@ msgid "Oh, no...\\r\nI don't know the password."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=No, I don't.
 msgctxt "684_Employee"
 msgid "Is that so? Please visit www.777town.net/ryu/ to find it."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Yeah, I know the password.
 msgctxt "696_Employee"
 msgid "Yeah, I know it."
 msgstr ""
@@ -96,6 +145,17 @@ msgid "Okay, two characters left!\\r\nWhat's the sixth character?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=7
+#. y4:msg_section_label=Conversación 7
+#. y4:msg_talk=1
+#. y4:msg_phrase=16
+#. y4:msg_location=T1.P16
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=7
+#. y4:msg_decision_choices=1. Ro -> T1.P17 | 2. n -> T1.P20 | 3. D -> T1.P20 | 4. Ki -> T1.P20
 msgctxt "852_Employee"
 msgid "Okay, time for the seventh and final character!"
 msgstr ""
@@ -106,11 +166,33 @@ msgid "All right!\\r\nLet's see if it's correct or not!\\r\nIf you get all seven
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=19
+#. y4:msg_location=T1.P19
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Yeah, I know the password.
 msgctxt "888_Employee"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=21
+#. y4:msg_location=T1.P21
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Yeah, I know the password.
 msgctxt "912_Employee"
 msgid "Oh, I'm sorry, sir! You'll have to try again!"
 msgstr ""
@@ -121,36 +203,124 @@ msgid "Amazing! You're absolutely right!\\r\nCongratulations!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=23
+#. y4:msg_location=T1.P23
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Yeah, I know the password.
 msgctxt "936_Employee"
 msgid "Here is your fabulous gift!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P26
+#. y4:msg_branch_target_text=Yeah, I know it.
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 1a 00 00 00 00 00 00 00 00
 msgctxt "984_Employee"
 msgid "Yeah, I know the password."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P1
+#. y4:msg_branch_segment=T1.P1..P2
+#. y4:msg_branch_target_text=Oh, no...\nI don't know the password.
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "996_Employee"
 msgid "No, I don't."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P5
+#. y4:msg_branch_segment=T1.P5..P5
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "1008_Employee"
 msgid "Go"
 msgstr "Go"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P6
+#. y4:msg_branch_segment=T1.P6..P26
+#. y4:msg_branch_target_text=All right.\nWhat's the second character?
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 01 00 00 00 00 00 00 00 00
 msgctxt "1020_Employee"
 msgid "7"
 msgstr "7"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P6
+#. y4:msg_branch_segment=T1.P6..P26
+#. y4:msg_branch_target_text=All right.\nWhat's the second character?
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "1032_Employee"
 msgid "Se"
 msgstr "Se"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P6
+#. y4:msg_branch_segment=T1.P6..P26
+#. y4:msg_branch_target_text=All right.\nWhat's the second character?
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "1044_Employee"
 msgid "Pa"
 msgstr "Pa"
@@ -161,66 +331,232 @@ msgid "－"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P6
+#. y4:msg_branch_segment=T1.P6..P26
+#. y4:msg_branch_target_text=All right.\nWhat's the second character?
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 01 00 00 00 00 00 00 00 00
 msgctxt "1068_Employee"
 msgid "7"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P8
+#. y4:msg_branch_segment=T1.P8..P26
+#. y4:msg_branch_target_text=Oh ho...\nRight then, what's the third character?
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "1080_Employee"
 msgid "Ga"
 msgstr "Ga"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=11
+#. y4:msg_phrase=0
+#. y4:msg_location=T11.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P8
+#. y4:msg_branch_segment=T1.P8..P26
+#. y4:msg_branch_target_text=Oh ho...\nRight then, what's the third character?
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "1092_Employee"
 msgid "Chi"
 msgstr "Chi"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=12
+#. y4:msg_phrase=0
+#. y4:msg_location=T12.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P9
+#. y4:msg_branch_segment=T1.P9..P9
+#. y4:msg_branch_raw=01 11 00 09 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "1104_Employee"
 msgid "Ru"
 msgstr "Ru"
 
 #. y4:line_status=todo
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P6
+#. y4:msg_branch_segment=T1.P6..P26
+#. y4:msg_branch_target_text=All right.\nWhat's the second character?
+#. y4:msg_branch_raw=01 11 00 06 00 00 00 01 00 00 00 00 00 00 00 00
 msgctxt "1116_Employee"
 msgid "7"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=14
+#. y4:msg_phrase=0
+#. y4:msg_location=T14.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P10
+#. y4:msg_branch_segment=T1.P10..P26
+#. y4:msg_branch_target_text=There we go!\nWhat's the fourth character?
+#. y4:msg_branch_raw=01 11 00 0a 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "1128_Employee"
 msgid "Sa"
 msgstr "Sa"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=3
+#. y4:msg_section_label=Conversación 3
+#. y4:msg_talk=15
+#. y4:msg_phrase=0
+#. y4:msg_location=T15.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P10
+#. y4:msg_branch_segment=T1.P10..P26
+#. y4:msg_branch_target_text=There we go!\nWhat's the fourth character?
+#. y4:msg_branch_raw=01 11 00 0a 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "1140_Employee"
 msgid "Su"
 msgstr "Su"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=4
+#. y4:msg_section_label=Conversación 4
+#. y4:msg_talk=16
+#. y4:msg_phrase=0
+#. y4:msg_location=T16.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P11
+#. y4:msg_branch_segment=T1.P11..P11
+#. y4:msg_branch_raw=01 11 00 0b 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "1152_Employee"
 msgid "Do"
 msgstr "Do"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=4
+#. y4:msg_section_label=Conversación 4
+#. y4:msg_talk=17
+#. y4:msg_phrase=0
+#. y4:msg_location=T17.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P12
+#. y4:msg_branch_segment=T1.P12..P26
+#. y4:msg_branch_target_text=Hmmm, I see.\nThree characters left!\nPlease tell me the fifth character.
+#. y4:msg_branch_raw=01 11 00 0c 00 00 00 01 00 00 00 00 00 00 00 00
 msgctxt "1164_Employee"
 msgid "t"
 msgstr "t"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=4
+#. y4:msg_section_label=Conversación 4
+#. y4:msg_talk=18
+#. y4:msg_phrase=0
+#. y4:msg_location=T18.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P12
+#. y4:msg_branch_segment=T1.P12..P26
+#. y4:msg_branch_target_text=Hmmm, I see.\nThree characters left!\nPlease tell me the fifth character.
+#. y4:msg_branch_raw=01 11 00 0c 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "1176_Employee"
 msgid "Mi"
 msgstr "Mi"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=4
+#. y4:msg_section_label=Conversación 4
+#. y4:msg_talk=19
+#. y4:msg_phrase=0
+#. y4:msg_location=T19.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P12
+#. y4:msg_branch_segment=T1.P12..P26
+#. y4:msg_branch_target_text=Hmmm, I see.\nThree characters left!\nPlease tell me the fifth character.
+#. y4:msg_branch_raw=01 11 00 0c 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "1188_Employee"
 msgid "Ro"
 msgstr "Ro"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=5
+#. y4:msg_section_label=Conversación 5
+#. y4:msg_talk=20
+#. y4:msg_phrase=0
+#. y4:msg_location=T20.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P13
+#. y4:msg_branch_segment=T1.P13..P13
+#. y4:msg_branch_raw=01 11 00 0d 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "1200_Employee"
 msgid "Man"
 msgstr "Hombre"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=5
+#. y4:msg_section_label=Conversación 5
+#. y4:msg_talk=21
+#. y4:msg_phrase=0
+#. y4:msg_location=T21.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P14
+#. y4:msg_branch_segment=T1.P14..P26
+#. y4:msg_branch_target_text=Okay, two characters left!\nWhat's the sixth character?
+#. y4:msg_branch_raw=01 11 00 0e 00 00 00 01 00 00 00 00 00 00 00 00
 msgctxt "1212_Employee"
 msgid "O"
 msgstr "O"
@@ -231,47 +567,162 @@ msgid "－"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=5
+#. y4:msg_section_label=Conversación 5
+#. y4:msg_talk=23
+#. y4:msg_phrase=0
+#. y4:msg_location=T23.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P14
+#. y4:msg_branch_segment=T1.P14..P26
+#. y4:msg_branch_target_text=Okay, two characters left!\nWhat's the sixth character?
+#. y4:msg_branch_raw=01 11 00 0e 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "1236_Employee"
 msgid "Dai"
 msgstr "Dai"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=6
+#. y4:msg_section_label=Conversación 6
+#. y4:msg_talk=24
+#. y4:msg_phrase=0
+#. y4:msg_location=T24.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P15
+#. y4:msg_branch_segment=T1.P15..P15
+#. y4:msg_branch_raw=01 11 00 0f 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "1248_Employee"
 msgid "Ji"
 msgstr "Ji"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=6
+#. y4:msg_section_label=Conversación 6
+#. y4:msg_talk=25
+#. y4:msg_phrase=0
+#. y4:msg_location=T25.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P16
+#. y4:msg_branch_segment=T1.P16..P26
+#. y4:msg_branch_target_text=Okay, time for the seventh and final character!
+#. y4:msg_branch_raw=01 11 00 10 00 00 00 01 00 00 00 00 00 00 00 00
 msgctxt "1260_Employee"
 msgid "w"
 msgstr "w"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=6
+#. y4:msg_section_label=Conversación 6
+#. y4:msg_talk=26
+#. y4:msg_phrase=0
+#. y4:msg_location=T26.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P16
+#. y4:msg_branch_segment=T1.P16..P26
+#. y4:msg_branch_target_text=Okay, time for the seventh and final character!
+#. y4:msg_branch_raw=01 11 00 10 00 00 00 01 00 00 00 00 00 00 00 00
 msgctxt "1272_Employee"
 msgid "H"
 msgstr "H"
 
 #. y4:line_status=todo
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=6
+#. y4:msg_section_label=Conversación 6
+#. y4:msg_talk=27
+#. y4:msg_phrase=0
+#. y4:msg_location=T27.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P16
+#. y4:msg_branch_segment=T1.P16..P26
+#. y4:msg_branch_target_text=Okay, time for the seventh and final character!
+#. y4:msg_branch_raw=01 11 00 10 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "1284_Employee"
 msgid "Kou"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=4
+#. y4:msg_section_label=Conversación 4
+#. y4:msg_talk=19
+#. y4:msg_phrase=0
+#. y4:msg_location=T19.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P12
+#. y4:msg_branch_segment=T1.P12..P26
+#. y4:msg_branch_target_text=Hmmm, I see.\nThree characters left!\nPlease tell me the fifth character.
+#. y4:msg_branch_raw=01 11 00 0c 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "1296_Employee"
 msgid "Ro"
 msgstr "Ro"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=7
+#. y4:msg_section_label=Conversación 7
+#. y4:msg_talk=29
+#. y4:msg_phrase=0
+#. y4:msg_location=T29.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P20
+#. y4:msg_branch_segment=T1.P20..P26
+#. y4:msg_branch_target_text=Oh, I'm sorry, sir! You'll have to try again!
+#. y4:msg_branch_raw=01 11 00 14 00 00 00 01 00 00 00 00 00 00 00 00
 msgctxt "1308_Employee"
 msgid "n"
 msgstr "n"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=7
+#. y4:msg_section_label=Conversación 7
+#. y4:msg_talk=30
+#. y4:msg_phrase=0
+#. y4:msg_location=T30.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P20
+#. y4:msg_branch_segment=T1.P20..P26
+#. y4:msg_branch_target_text=Oh, I'm sorry, sir! You'll have to try again!
+#. y4:msg_branch_raw=01 11 00 14 00 00 00 01 00 00 00 00 00 00 00 00
 msgctxt "1320_Employee"
 msgid "D"
 msgstr "D"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=7
+#. y4:msg_section_label=Conversación 7
+#. y4:msg_talk=31
+#. y4:msg_phrase=0
+#. y4:msg_location=T31.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P20
+#. y4:msg_branch_segment=T1.P20..P26
+#. y4:msg_branch_target_text=Oh, I'm sorry, sir! You'll have to try again!
+#. y4:msg_branch_raw=01 11 00 14 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "1332_Employee"
 msgid "Ki"
 msgstr "Ki"
-

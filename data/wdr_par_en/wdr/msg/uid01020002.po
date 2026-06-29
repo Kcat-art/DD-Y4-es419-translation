@@ -17,51 +17,152 @@ msgstr ""
 "X-Crowdin-File-ID: 58924\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1532"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1536"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "164_Akiyama"
 msgid "(I can't be going back to the office right now. I need to find Midorikawa, and get back Kido-chan and the client list...)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "176_Akiyama"
 msgid "(The girl we were training at Elise just disappeared.)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "188_Akiyama"
 msgid "(I need to find her quickly. Where would she be... Maybe where we recruited her?)"
 msgstr ""
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "200_Akiyama"
 msgid "(The manager's asked me to go scout for him. I've got to find some potential hostesses.)"
 msgstr ""
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Stop Recruiting -> T2.P2 | 2. Continue Recruiting -> T2.P4
 msgctxt "212_Akiyama"
 msgid "(Or should I stop recruiting for the moment?)"
 msgstr "(¿O debería detener el reclutamiento por ahora?)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Stop Recruiting
 msgctxt "224_Akiyama"
 msgid "(I'll stop for now.)"
 msgstr "(Por ahora, voy a parar el reclutamiento)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=4
+#. y4:msg_location=T2.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Continue Recruiting
 msgctxt "248_Akiyama"
 msgid "(No, I should keep looking.)"
 msgstr "(No, voy a seguir buscando)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "272_Player"
 msgid "(Looks like it's locked.)"
 msgstr ""
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P2
+#. y4:msg_branch_segment=T2.P2..P3
+#. y4:msg_branch_target_text=(I'll stop for now.)
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "284_Akiyama"
 msgid "Stop Recruiting"
 msgstr "Dejar de Reclutar"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P4
+#. y4:msg_branch_segment=T2.P4..P4
+#. y4:msg_branch_target_text=(No, I should keep looking.)
+#. y4:msg_branch_raw=01 11 00 04 00 00 00 13 00 00 00 00 00 00 00 00
 msgctxt "296_Akiyama"
 msgid "Continue Recruiting"
 msgstr "Continuar Reclutando"
-

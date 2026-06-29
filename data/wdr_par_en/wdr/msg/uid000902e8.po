@@ -17,46 +17,95 @@ msgstr ""
 "X-Crowdin-File-ID: 60856\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2716"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2720"
 msgid "Shiobara"
 msgstr "Shiobara"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2724"
 msgid "Arima"
 msgstr "Arima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2728"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2732"
 msgid "M_ykz_sitgrd_tlk_agura_ed"
 msgstr "M_ykz_sitgrd_tlk_agura_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2736"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "2740"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "68_Akiyama"
 msgid "Why'd you get into this business to begin with?"
 msgstr "¿Por qué decidiste convertire en prestamista en primer lugar?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Shiobara
+#. y4:msg_speaker_id=1
 msgctxt "80_Shiobara"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Arima
+#. y4:msg_speaker_id=2
 msgctxt "92_Arima"
 msgid "Because I suggested it."
 msgstr "Porque yo se lo sugerí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "116_Akiyama"
 msgid "Arima... But why?"
 msgstr "Arima... Pero, ¿por qué...?"
@@ -73,18 +122,46 @@ msgid "I can't do the same thing you do, Akiyama-san, but I'm still\\r\n"
 msgstr "No puedo hacer lo mismo que tú, Akiyama-san,\\r\n"
 "pero realmente voy en serio sobre esto de ser prestamista."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Shiobara
+#. y4:msg_speaker_id=1
 msgctxt "164_Shiobara"
 msgid "Together, Arima-san and I will rule the world of Kamurocho finance."
 msgstr "Junto con Arima-san, tomaremos control de las finanzas en Kamurocho."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Shiobara
+#. y4:msg_speaker_id=1
 msgctxt "176_Akiyama"
 msgid "......"
 msgstr "......"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "188_Akiyama"
 msgid "Fine. But is that really what you want to do?"
 msgstr "Bien. Pero, ¿estás seguro de que eso es lo que quieres hacer?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Shiobara
+#. y4:msg_speaker_id=1
 msgctxt "200_Shiobara"
 msgid "It's a little too late for that."
 msgstr "Es un poco tarde para eso."
@@ -95,7 +172,13 @@ msgid "I suppose you're right. Well, go on and rake in the cash,\\r\n"
 msgstr "Es cierto, ya es demasiado tarde...\\r\n"
 "Bueno, suerte amasando dinero."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "224_Akiyama"
 msgid "See you 'round."
 msgstr "Nos vemos."
-

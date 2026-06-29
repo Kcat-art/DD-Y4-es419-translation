@@ -17,15 +17,31 @@ msgstr ""
 "X-Crowdin-File-ID: 59988\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "388"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "56_Kiryu"
 msgid "(I've got the sauce, but they're not gonna want to eat it cold...)"
 msgstr "(Tengo la salsa, pero no querrán comerla fría...)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "68_Kiryu"
 msgid "(There ought to be a stove I can use at New Serena. I'll run over and heat it up.)"
 msgstr "(Seguramente hay una estufa en New Serena. Iré rápido a calentarla)."
-

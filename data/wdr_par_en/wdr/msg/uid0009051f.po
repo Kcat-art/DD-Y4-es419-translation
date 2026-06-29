@@ -17,31 +17,67 @@ msgstr ""
 "X-Crowdin-File-ID: 58176\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "764"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "768"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "772"
 msgid "Client"
 msgstr "Cliente"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "56_Saejima"
 msgid "Pfft. Piece of cake."
 msgstr "Pfft. Pan comido."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Client
+#. y4:msg_speaker_id=2
 msgctxt "68_Client"
 msgid "You saved me..."
 msgstr "Me salvaste..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=0
 msgctxt "80_Saejima"
 msgid "C'mon now, don't just lie there. On your feet. Let's hustle."
 msgstr "Vamos, no te quedes ahí tirado. De pie y apurémonos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Client
+#. y4:msg_speaker_id=2
 msgctxt "92_Client"
 msgid "Bleh..."
 msgstr "Bleh..."
-

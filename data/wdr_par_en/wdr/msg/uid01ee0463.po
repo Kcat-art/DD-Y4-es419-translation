@@ -17,99 +17,254 @@ msgstr ""
 "X-Crowdin-File-ID: 60086\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4188"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4192"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4196"
 msgid "SetM_nml_sitsofa_nml_f_02"
 msgstr "SetM_nml_sitsofa_nml_f_02"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "196_Player"
 msgid "(Big event today. The customers look like they're enjoying themselves.)"
 msgstr "(Hoy hay un gran evento. Se ve que los clientes lo están gozando)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "208_Player"
 msgid "(That's all thanks to %s's hard work.)"
 msgstr "(Todo eso se debe al gran esfuerzo de %s)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "220_Player"
 msgid "(I think I'm done surveying. Time to head to the back room.)"
 msgstr "(Creo que ya terminé de revisar, hora de volver a la parte de atrás)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "244_Player"
 msgid "(%s looks a little tired.)"
 msgstr "(%s se ve un poco cansada)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "256_Player"
 msgid "(I think I'm done surveying. Time to head to the back room.)"
 msgstr "(Creo que ya terminé de revisar, hora de volver a la parte de atrás)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "280_Player"
 msgid "(%s sure knows how to handle her customers.)"
 msgstr "(%s sí que sabe cómo tratar a sus clientes)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "292_Player"
 msgid "(I think I'm done surveying. Time to head to the back room.)"
 msgstr "(Creo que ya terminé de revisar, hora de volver a la parte de atrás)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "316_Player"
 msgid "(Big event today. The customers look like they're enjoying themselves.)"
 msgstr "(Hoy hay un gran evento. Se ve que los clientes lo están gozando)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "328_Player"
 msgid "(That's all thanks to %s's hard work.)"
 msgstr "(Todo eso se debe al gran esfuerzo de %s)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "340_Player"
 msgid "(I think I'm done surveying. Time to head to the back room.)"
 msgstr "(Creo que ya terminé de revisar, hora de volver a la parte de atrás)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=4
+#. y4:msg_phrase=1
+#. y4:msg_location=T4.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "364_Player"
 msgid "(I wonder what's wrong with %s... Maybe she's getting a little stressed out.)"
 msgstr "(Me pregunto qué le pasa a %s... Quizás esté un poco estresada)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "376_Player"
 msgid "(I think I'm done surveying. Time to head to the back room.)"
 msgstr "(Creo que ya terminé de revisar, hora de volver a la parte de atrás)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=1
+#. y4:msg_location=T5.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "400_Player"
 msgid "(Good job, %s. That's excellent customer service.)"
 msgstr "(Buen trabajo, %s. Eso sí es servicio al cliente)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "412_Player"
 msgid "(I think I'm done surveying. Time to head to the back room.)"
 msgstr "(Creo que ya terminé de revisar, hora de volver a la parte de atrás)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "436_Player"
 msgid "(Big event today. The customers look like they're enjoying themselves.)"
 msgstr "(Hoy hay un gran evento. Se ve que los clientes lo están gozando)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "448_Player"
 msgid "(That's all thanks to %s's hard work.)"
 msgstr "(Todo eso se debe al gran esfuerzo de %s)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "460_Player"
 msgid "(I think I'm done surveying. Time to head to the back room.)"
 msgstr "(Creo que ya terminé de revisar, hora de volver a la parte de atrás)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=1
+#. y4:msg_location=T7.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "484_Player"
 msgid "(That's no way to treat a customer... I wonder if %s is feeling stressed out.)"
 msgstr "(Así no se trata a un cliente... Me pregunto si %s estará estresada)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "496_Player"
 msgid "(I think I'm done surveying. Time to head to the back room.)"
 msgstr "(Creo que ya terminé de revisar, hora de volver a la parte de atrás)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=8
+#. y4:msg_phrase=1
+#. y4:msg_location=T8.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "520_Player"
 msgid "(%s's doing a great job with her customers. She must be feeling great, too.)"
 msgstr "(%s está atendiendo a los clientes como reina. Apuesto que está contentísima)."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
 msgctxt "532_Player"
 msgid "(I think I'm done surveying. Time to head to the back room.)"
 msgstr "(Creo que ya terminé de revisar, hora de volver a la parte de atrás)."
-

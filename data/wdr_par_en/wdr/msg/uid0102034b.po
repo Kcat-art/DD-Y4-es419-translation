@@ -17,58 +17,120 @@ msgstr ""
 "X-Crowdin-File-ID: 60226\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "5540"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "5544"
 msgid "Kido"
 msgstr "Kido"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "5548"
 msgid "Midorikawa"
 msgstr "Midorikawa"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "5552"
 msgid "Hatsushiba"
 msgstr "Hatsushiba"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "5556"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "5560"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "5564"
 msgid "Talk_SmileBig_lp"
 msgstr "Talk_SmileBig_lp"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "5568"
 msgid "Talk_SmileBig_ed"
 msgstr "Talk_SmileBig_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "5572"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "56_Akiyama"
 msgid "Kido-chan!"
 msgstr "¡Kido-chan!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Kido
+#. y4:msg_speaker_id=1
 msgctxt "68_Kido"
 msgid "Akiyama-san...!"
 msgstr "¡Akiyama-san...!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Midorikawa
+#. y4:msg_speaker_id=2
 msgctxt "80_Midorikawa"
 msgid "Hey, you're good. Real dedication to the job..."
 msgstr "Sí que te gusta tu trabajo, eh..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "92_Akiyama"
 msgid "Midorikawa-san, I presume?"
 msgstr "¿Supongo que tú eres Midorikawa-san?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "104_Akiyama"
 msgid "And I take it that's the Hatsushiba Clan chairman?"
 msgstr "Y supongo que ese es el presidente del clan Hatsushiba, ¿verdad?"
@@ -78,6 +140,13 @@ msgid "I don't know what you want with Kido-chan and my registry,\\r\n"
 "but what do you say you give them back?"
 msgstr "No sé qué tengas que ver con Kido-chan, ni para que necesites mi lista de clientes, ¿pero y si los devuelves por las buenas?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Midorikawa
+#. y4:msg_speaker_id=2
 msgctxt "140_Midorikawa"
 msgid "You heard the man, boss. What's it gonna be?"
 msgstr "Ya lo escuchaste, jefe. ¿Qué le vamos a hacer?"
@@ -87,51 +156,134 @@ msgid "Heheheh... Akiyama, was it? I'm afraid you've got the\\r\n"
 "wrong idea."
 msgstr "Je, je, je... Akiyama, ¿verdad? Me temo que tienes una idea equivocada."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "176_Akiyama"
 msgid "Oh, yeah? How you figure?"
 msgstr "¿Ah, sí? ¿Entonces como serían las cosas?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Hatsushiba
+#. y4:msg_speaker_id=3
 msgctxt "188_Hatsushiba"
 msgid "You didn't lend us shit. You <Italic>gave</Italic> it to us."
 msgstr "No nos prestaste una <Italic>mierda</Italic>. Nos la diste."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Hatsushiba
+#. y4:msg_speaker_id=3
 msgctxt "200_Hatsushiba"
 msgid "So, you see, you can't ask for it back. That'd be just plain rude."
 msgstr "Lo que se regala no se pide. Ya sabes como dicen."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "212_Akiyama"
 msgid "Ohhh, why didn't you just say so? If I gave it to you, that's different."
 msgstr "Ahhh, lo hubieras dicho antes. Si te la di, las cosas cambian bastante."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Hatsushiba
+#. y4:msg_speaker_id=3
 msgctxt "224_Hatsushiba"
 msgid "Damn straight. Glad we're seein' eye to eye."
 msgstr "Maldita sea. Me alegro de que estemos de acuerdo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "236_Akiyama"
 msgid "Absolutely. Now I'm gonna ask you to <Italic>give</Italic> it back to me."
 msgstr "Por supuesto. Ahora voy a pedirte que me lo <Italic>devuelvas</Italic>."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Hatsushiba
+#. y4:msg_speaker_id=3
 msgctxt "248_Hatsushiba"
 msgid "What?"
 msgstr "¿Qué?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "260_Akiyama"
 msgid "Just playing along with your little game. Now give it back before things get ugly."
 msgstr "Solo te sigo la corriente con tu jueguecito. Ahora devuélvelo antes de que las cosas se pongan feas."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Midorikawa
+#. y4:msg_speaker_id=2
 msgctxt "272_Midorikawa"
 msgid "Hah, this guy's a riot! You seriously think you can take us?"
 msgstr "¡Ja, este tipo es un chiste! ¿En serio crees que puedes con nosotros?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "284_Akiyama"
 msgid "We won't know unless I try, will we?"
 msgstr "No lo sabremos a menos que lo intente, ¿verdad?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Midorikawa
+#. y4:msg_speaker_id=2
 msgctxt "296_Midorikawa"
 msgid "Oh, I definitely know... But hey, why not?"
 msgstr "Pues yo sí que lo sé... Pero oye, ¿por qué no?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Midorikawa
+#. y4:msg_speaker_id=2
 msgctxt "308_Midorikawa"
 msgid "I'll send you back to your bitch secretary in a body bag!"
 msgstr "¡Te enviaré de vuelta con tu puta secretaria en una bolsa!"
-

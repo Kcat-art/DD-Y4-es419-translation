@@ -17,47 +17,99 @@ msgstr ""
 "X-Crowdin-File-ID: 57770\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1404"
 msgid "Rich-looking Man"
 msgstr "Hombre de apariencia adinerada"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1408"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1412"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1416"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1420"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Rich-looking Man
+#. y4:msg_speaker_id=0
 msgctxt "116_Rich-looking Man"
 msgid "You look like you know a thing or two about fighting. I have a big reward for you if you can beat me!"
 msgstr "Pareces saber un par de cosas sobre pelear. ¡Tengo una gran recompensa para ti si logras vencerme!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Rich-looking Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Rich-looking Man"
 msgid "But don't count on that actually happening! You ready!?"
 msgstr "¡Pero no cuentes con que eso pase! ¿¡Estás listo!?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Rich-looking Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Rich-looking Man"
 msgid "I can't believe that just happened. You really got the goods, don't you?"
 msgstr "No puedo creer lo que acaba de pasar. Realmente tienes lo que se necesita."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
 msgctxt "164_Rich-looking Man"
 msgid "Here's that reward I promised, but I guarantee you won't be able to do that again."
 msgstr "Aquí está la recompensa que prometí, pero te garantizo que no volveré a perder."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
 msgctxt "176_Rich-looking Man"
 msgid "You got a gold-plated %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Rich-looking Man
+#. y4:msg_speaker_id=0
 msgctxt "212_Rich-looking Man"
 msgid "I'll get you next time."
 msgstr "La próxima vez te atraparé."
-

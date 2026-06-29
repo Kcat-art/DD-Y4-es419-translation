@@ -17,10 +17,16 @@ msgstr ""
 "X-Crowdin-File-ID: 61994\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4812"
 msgid "Shizuka"
 msgstr "Shizuka"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4816"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -33,18 +39,58 @@ msgctxt "268_Shizuka"
 msgid "Now, what should I sing? How about \"Raindrops\"? <Color:7>♥<Color:Default>"
 msgstr "Ahora, ¿qué debería cantar? ¿Qué tal \"Raindrops\"? <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Shizuka
+#. y4:msg_speaker_id=0
 msgctxt "280_Shizuka"
 msgid "Hehe. I think I was able to sing that fairly well!"
 msgstr "Je, je. ¡Creo que pude cantar eso bastante bien!"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Shizuka
+#. y4:msg_speaker_id=0
 msgctxt "292_Shizuka"
 msgid "Um... Would you do me the honor of singing a song?"
 msgstr "¿Me haría el honor de cantar una canción?"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Shizuka
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Sure. -> T2.P3 | 2. I'd rather not. -> T2.P5
 msgctxt "304_Shizuka"
 msgid "I know! Will you sing a duet with me?"
 msgstr "¡Lo sé! ¿Va a cantar un dueto conmigo?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "316_Kiryu"
 msgid "Sure, why not."
 msgstr ""
@@ -53,18 +99,56 @@ msgctxt "328_Shizuka"
 msgid "Thank you! <Color:7>♥<Color:Default> I can't wait to hear you sing. <Color:7>♥<Color:Default>"
 msgstr "¡Gracias! <Color:7>♥<Color:Default> No puedo esperar a escucharlo cantar. <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P5
+#. y4:msg_branch_segment=T2.P5..P6
+#. y4:msg_branch_target_text=I'd rather not.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "340_Kiryu"
 msgid "I'd rather not."
 msgstr "Preferiría no hacerlo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Shizuka
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I'd rather not.
 msgctxt "352_Shizuka"
 msgid "I see... I apologize for being so selfish."
 msgstr "Ya veo... Me disculpo por ser tan egoísta."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Shizuka
+#. y4:msg_speaker_id=0
 msgctxt "364_Shizuka"
 msgid "That was very awkward..."
 msgstr "Eso fue muy incómodo..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "376_Kiryu"
 msgid "Sorry."
 msgstr "Lo siento."
@@ -73,14 +157,45 @@ msgctxt "388_Shizuka"
 msgid "That was wonderful. <Color:7>♥<Color:Default> You certainly know how to make a girl feel like a diva. <Color:7>♥<Color:Default>"
 msgstr "Eso fue maravilloso. <Color:7>♥<Color:Default> Ciertamente sabe cómo hacer que una chica se sienta como una diva. <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Shizuka
+#. y4:msg_speaker_id=0
 msgctxt "400_Shizuka"
 msgid "Um... Would you do me the honor of singing a song?"
 msgstr "¿Me haría el honor de cantar una canción?"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Shizuka
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Sure. -> T2.P3 | 2. I'd rather not. -> T2.P5
 msgctxt "412_Shizuka"
 msgid "I know! Will you sing a duet with me?"
 msgstr "¡Lo sé! ¿Va a cantar un dueto conmigo?"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Sure.
 msgctxt "424_Kiryu"
 msgid "Sure, why not."
 msgstr ""
@@ -89,26 +204,78 @@ msgctxt "436_Shizuka"
 msgid "Thank you! <Color:7>♥<Color:Default>  I can't wait to hear you sing. <Color:7>♥<Color:Default>"
 msgstr "¡Gracias! <Color:7>♥<Color:Default> No puedo esperar a escucharlo cantar. <Color:7>♥<Color:Default>"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P5
+#. y4:msg_branch_segment=T2.P5..P6
+#. y4:msg_branch_target_text=I'd rather not.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "448_Kiryu"
 msgid "I'd rather not."
 msgstr "Preferiría no hacerlo."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Shizuka
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=I'd rather not.
 msgctxt "460_Shizuka"
 msgid "I see... I apologize for being so selfish."
 msgstr "Ya veo... Me disculpo por ser tan egoísta."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_speaker=Shizuka
+#. y4:msg_speaker_id=0
 msgctxt "472_Shizuka"
 msgid "Was that okay?"
 msgstr "¿Estuvo bien?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=5
+#. y4:msg_phrase=1
+#. y4:msg_location=T5.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "484_Kiryu"
 msgid "You were great."
 msgstr "Estuviste genial."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_speaker=Shizuka
+#. y4:msg_speaker_id=0
 msgctxt "496_Shizuka"
 msgid "I wish you would try a little harder..."
 msgstr "Me gustaría que pusiera un poco más de esfuerzo..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "508_Kiryu"
 msgid "Sorry."
 msgstr "Lo siento."
@@ -117,23 +284,81 @@ msgctxt "520_Shizuka"
 msgid "You're very good. <Color:7>♥<Color:Default> I was so enchanted by your voice, I almost forgot to sing!"
 msgstr "Usted es muy bueno. <Color:7>♥<Color:Default> ¡Estaba tan encantada con su voz que casi me olvido de cantar!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=7
+#. y4:msg_phrase=1
+#. y4:msg_location=T7.P1
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=1
 msgctxt "532_Kiryu"
 msgid "Heh..."
 msgstr "Je..."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P3
+#. y4:msg_branch_segment=T2.P3..P4
+#. y4:msg_branch_target_text=Sure, why not.
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "544_Shizuka"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P5
+#. y4:msg_branch_segment=T2.P5..P6
+#. y4:msg_branch_target_text=I'd rather not.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "556_Shizuka"
 msgid "I'd rather not."
 msgstr "Preferiría no hacerlo."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P3
+#. y4:msg_branch_segment=T2.P3..P4
+#. y4:msg_branch_target_text=Sure, why not.
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "568_Shizuka"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P5
+#. y4:msg_branch_segment=T2.P5..P6
+#. y4:msg_branch_target_text=I'd rather not.
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "580_Shizuka"
 msgid "I'd rather not."
 msgstr "Preferiría no hacerlo."
-

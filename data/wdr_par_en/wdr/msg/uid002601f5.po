@@ -10,87 +10,150 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "6408"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "6412"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "6416"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "6420"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "6424"
 msgid "Emoto"
 msgstr "Emoto"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "6428"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "6432"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "6436"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "6440"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "6444"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "6448"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "6452"
 msgid "Injured Man"
 msgstr "Hombre herido"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=12
 msgctxt "6456"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=13
 msgctxt "6460"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "56_Kiryu"
 msgid "Who would've thought this guy was one of the Snake Flower Triad?"
 msgstr "¿Quién hubiera pensado que este tipo era uno de la Triada Snake Flower?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "68_Tanimura"
 msgid "You want me to let the police know about it?"
 msgstr "¿Quieres que avise a la policía?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "80_Kiryu"
 msgid "Hmm..."
 msgstr "Mmm..."
@@ -101,116 +164,277 @@ msgid "Hey, come on now. Don't forget this guy's my patient.\\r\nHe'll need some
 msgstr "Oye, vamos. Este hombre es mi paciente.\\r\nNecesitará un tiempo para recuperarse."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "104_Kiryu"
 msgid "But what're you going to do with him?"
 msgstr "¿Pero qué vas a hacer con él?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=4
 msgctxt "116_Emoto"
 msgid "You could call it a gut instinct, but I don't think this guy's going to be giving me any trouble."
 msgstr "Mi instinto me dice que no me dará ninguna problema."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "128_Tanimura"
 msgid "What makes you say that?"
 msgstr "¿Qué le hace decir eso?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=4
 msgctxt "140_Emoto"
 msgid "When someone has a brush with death, they tend to reevaluate their priorities in life."
 msgstr "Estar tan cerca de la muerte hace que uno se replantee por completo sus prioridades en la vida."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=4
 msgctxt "152_Emoto"
 msgid "When he was coming to after surgery, he kept mumbling and crying for his mother and father."
 msgstr "Cuando empezó a recobrar el conocimiento después de la cirugía, no paraba de murmurar y llorar por sus padres."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "164_Kiryu"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=4
 msgctxt "176_Emoto"
 msgid "Even though I can heal a man's body, I can't mend his mind."
 msgstr "Aunque puedo sanar el cuerpo de un hombre, no puedo hacer lo mismo con su mente."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=11
+#. y4:msg_location=T0.P11
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=4
 msgctxt "188_Emoto"
 msgid "But I like to believe that as long as a man has life, he's still capable of changing for the better."
 msgstr "Pero me gusta creer que, mientras un hombre tenga vida, aún tiene la capacidad mejorar como persona."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=4
 msgctxt "200_Emoto"
 msgid "If there's even the tiniest chance of that, I'll treat the meanest bastard you can drag in here."
 msgstr "Si hay siquiera la más mínima posibilidad de eso, trataré al cabrón más malo que puedas traerme."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "212_Kiryu"
 msgid "Doc..."
 msgstr "Doc..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "224_Tanimura"
 msgid "When this guy's wounds are finally healed, I can't imagine he'll wanna stick with a group that would just throw him away like that."
 msgstr "Cuando este tipo se recupere, no creo que quiera seguir en un grupo que lo haya tirado así, como si fuera basura."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "236_Kiryu"
 msgid "I hope you're right."
 msgstr "Espero que tengas razón."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "248_Tanimura"
 msgid "Maybe I could help him out once he's better."
 msgstr "Tal vez podría echarle una mano cuando se recupere."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=4
 msgctxt "260_Emoto"
 msgid "You can do something for him?"
 msgstr "¿Qué podrías hacer por él?"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "272_Tanimura"
 msgid "Yeah, I think so."
 msgstr "Creo que sí..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "284_Tanimura"
 msgid "I figure now that you've saved the life his parents gave him, I can convince him to think of them and make a different choice this time."
 msgstr "Supongo que ahora que has salvado la vida que sus padres le dieron, podré convencerlo de que piense en ellos y tome una decisión diferente esta vez."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "296_Kiryu"
 msgid "Tanimura... Thanks."
 msgstr "Tanimura... Gracias."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "308_Tanimura"
 msgid "No problem. Just like the doctor, I deal with stuff like this all the time."
 msgstr "Sin problema. Al igual que el doctor, trato con cosas así constantemente."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Injured Man
+#. y4:msg_speaker_id=11
 msgctxt "320_Injured Man"
 msgid "Th... Th..."
 msgstr "Gr... Gr..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=23
+#. y4:msg_location=T0.P23
+#. y4:msg_speaker=Injured Man
+#. y4:msg_speaker_id=11
 msgctxt "332_Injured Man"
 msgid "Thank you..."
 msgstr "Gracias..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "344_Kiryu"
 msgid "He's awake..."
 msgstr "Está despierto..."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=25
+#. y4:msg_location=T0.P25
+#. y4:msg_speaker=Injured Man
+#. y4:msg_speaker_id=11
 msgctxt "356_Injured Man"
 msgid "I... work... work... hard."
 msgstr "Yo... tra... trabajaré.... duro."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=26
+#. y4:msg_location=T0.P26
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "368_Kiryu"
 msgid "He understood what we said?"
 msgstr "¿Ha entendido lo que decíamos?"
@@ -221,32 +445,73 @@ msgid "I think he understood enough to know how much\\r\nyou were all trying to 
 msgstr "Creo que entendió lo suficiente como para saber cuánto\\r \nestaban tratando de ayudarlo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=29
+#. y4:msg_location=T0.P29
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "404_Tanimura"
 msgid "Come on, now. You're the one who saved his life."
 msgstr "No se quite mérito. Usted fue quien le salvó la vida."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=30
+#. y4:msg_location=T0.P30
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=4
 msgctxt "416_Emoto"
 msgid "I just did what any doctor would do."
 msgstr "Solo cumplí con mi juramento hipocrático."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=31
+#. y4:msg_location=T0.P31
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=1
 msgctxt "428_Tanimura"
 msgid "Then I guess you could say we just did what any citizen of Kamurocho would do."
 msgstr "Entonces se podría decir que solo hicimos lo que haría cualquier ciudadano de Kamurocho."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=32
+#. y4:msg_location=T0.P32
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=4
 msgctxt "440_Emoto"
 msgid "Heheh. Fair enough."
 msgstr "Jejeje. Bastante justo."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=33
+#. y4:msg_location=T0.P33
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=0
 msgctxt "452_Kiryu"
 msgid "Take good care of him, Doc."
 msgstr "Cuide bien de él, Doc."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=34
+#. y4:msg_location=T0.P34
+#. y4:msg_speaker=Emoto
+#. y4:msg_speaker_id=4
 msgctxt "464_Emoto"
 msgid "You bet. Take good care of yourselves, too."
 msgstr "Por supuesto. Cuidaos vosotros también."
-

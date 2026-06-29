@@ -17,63 +17,151 @@ msgstr ""
 "X-Crowdin-File-ID: 57750\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2756"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2760"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2764"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "Got any money on you, pops? I bet you carry a lot of cash, seeing as you're a grown-ass man."
 msgstr "¿Llevas dinero encima, abuelo? Apuesto a que llevas bastante efectivo, considerando que eres un adulto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "140_Man"
 msgid "I bet you wouldn't mind helping a kid out!"
 msgstr "¡Apuesto a que no te importaría ayudar a un joven!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Man"
 msgid "Got any money on you, pops? I bet you carry a lot of cash, seeing as you're a grown-ass man."
 msgstr "¿Llevas dinero encima, abuelo? Apuesto a que llevas bastante efectivo, considerando que eres un adulto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "164_Man"
 msgid "I bet you wouldn't mind helping a kid out!"
 msgstr "¡Apuesto a que no te importaría ayudar a un joven!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "200_Man"
 msgid "Whoa! Why'd you have to go all medieval on my ass? That hurt!"
 msgstr "¡Ay! ¿Por qué tuviste que atacarme con tanta intensidad? ¡Eso dolió!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "212_Man"
 msgid "I'll give you this if you stop beating me up."
 msgstr "Te daré esto si dejas de golpearme."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
 msgctxt "224_Man"
 msgid "You got a rusty %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "248_Man"
 msgid "Whoa! Why'd you have to go all medieval on my ass? That hurt!"
 msgstr "¡Ay! ¿Por qué tuviste que atacarme con tanta intensidad? ¡Eso dolió!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "260_Man"
 msgid "I'll give you this if you stop beating me up."
 msgstr "Te daré esto si dejas de golpearme."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
 msgctxt "272_Man"
 msgid "You got a shredded %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "320_Man"
 msgid "Man, I feel like total shit now..."
 msgstr "Hombre, ahora me siento como una mierda..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "344_Man"
 msgid "Man, I feel like total shit now..."
 msgstr "Hombre, ahora me siento como una mierda..."
-

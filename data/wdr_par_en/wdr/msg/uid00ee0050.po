@@ -17,43 +17,104 @@ msgstr ""
 "X-Crowdin-File-ID: 58186\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2312"
 msgid "Tobe"
 msgstr "Tobe"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2316"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Tobe
+#. y4:msg_speaker_id=0
 msgctxt "140_Tobe"
 msgid "Welcome, Kiryu-san! Have you decided what you want?"
 msgstr "¡Bienvenido, Kiryu! ¿Has decidido lo que quieres?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Tobe
+#. y4:msg_speaker_id=0
 msgctxt "188_Tobe"
 msgid "Kiryu-san, I think you've had too much to drink. I'd stop now if I were you."
 msgstr "Kiryu-san, creo que has bebido demasiado. Yo pararía ahora si fuera tú."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Tobe
+#. y4:msg_speaker_id=0
 msgctxt "200_Tobe"
 msgid "Can I get you another drink?"
 msgstr "¿Te traigo otra copa?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
+#. y4:msg_speaker=Tobe
+#. y4:msg_speaker_id=0
 msgctxt "212_Tobe"
 msgid "All right. Please stop by again soon."
 msgstr "De acuerdo. Por favor, vuelva pronto."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Tobe
+#. y4:msg_speaker_id=0
 msgctxt "236_Tobe"
 msgid "Welcome. Have you decided what you want?"
 msgstr "Bienvenido. ¿Has decidido lo que quieres?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=5
+#. y4:msg_location=T3.P5
+#. y4:msg_speaker=Tobe
+#. y4:msg_speaker_id=0
 msgctxt "284_Tobe"
 msgid "I think you've already had enough to drink. I'd stop now if I were you."
 msgstr "Creo que ya has bebido bastante. Yo que tú pararía ahora."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=6
+#. y4:msg_location=T3.P6
+#. y4:msg_speaker=Tobe
+#. y4:msg_speaker_id=0
 msgctxt "296_Tobe"
 msgid "Another drink, sir?"
 msgstr "¿Otra bebida, señor?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
+#. y4:msg_speaker=Tobe
+#. y4:msg_speaker_id=0
 msgctxt "308_Tobe"
 msgid "All right. Please stop by again soon."
 msgstr "De acuerdo. Por favor, vuelva pronto."
-

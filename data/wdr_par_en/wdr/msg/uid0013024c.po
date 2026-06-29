@@ -17,75 +17,168 @@ msgstr ""
 "X-Crowdin-File-ID: 61556\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2540"
 msgid "Officer"
 msgstr "Oficial"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2544"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2548"
 msgid "Gun-toting Foreigner"
 msgstr "Forastero Armado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2552"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2556"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "2560"
 msgid "Idle"
 msgstr "Idle"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "2564"
 msgid "Knife-wielding Foreigner"
 msgstr "Forastero con un Cuchillo"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "2568"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Officer
+#. y4:msg_speaker_id=0
 msgctxt "84_Officer"
 msgid "Lay down your concealed weapons and surrender yourselves!"
 msgstr "¡Entreguen las armas que están escondiendo y ríndanse de una vez!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Gun-toting Foreigner
+#. y4:msg_speaker_id=2
 msgctxt "96_Gun-toting Foreigner"
 msgid "Get out of way! Or we kill you!"
 msgstr "¡Quítate del camino! ¡O te matamos!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=3
 msgctxt "108_Tanimura"
 msgid "Hey, you guys okay?"
 msgstr "Oigan, ¿están bien?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Officer
+#. y4:msg_speaker_id=0
 msgctxt "120_Officer"
 msgid "Oh, Detective Tanimura! Glad you're here. They don't seem to understand a lot of Japanese. We're having some trouble..."
 msgstr "¡Oh, Detective Tanimura! ¡Qué bueno que está aquí! Tenemos un problema urgente, estos tipos casi no entienden japonés..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=3
 msgctxt "132_Tanimura"
 msgid "All right, I'll see what I can do. Can you shoo off the rubberneckers?"
 msgstr "Está bien, veré qué puedo hacer. ¿Puedes espantar a los mirones?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=3
 msgctxt "144_Tanimura"
 msgid "[Hey, you guys. How about you give it a rest?]"
 msgstr "[¡Oigan, ustedes! ¿Por qué no se calman un poco?]"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Gun-toting Foreigner
+#. y4:msg_speaker_id=2
 msgctxt "156_Gun-toting Foreigner"
 msgid "[Bah! We know you Japanese police can't even shoot your guns or it'd be against the law!]"
 msgstr "[¡Bah! ¡Ya sabemos que ustedes policías japoneses no pueden disparar sus armas o estarían infringiendo la ley!]"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=7
+#. y4:msg_location=T1.P7
+#. y4:msg_speaker=Knife-wielding Foreigner
+#. y4:msg_speaker_id=6
 msgctxt "168_Knife-wielding Foreigner"
 msgid "[What a bunch of cowards! Step aside!]"
 msgstr "[¡Qué panda de cobardes! ¡Apártense!]"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=8
+#. y4:msg_location=T1.P8
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=3
 msgctxt "180_Tanimura"
 msgid "[Hey, don't think I'm the same as you guys. You aren't tough at all without your guns.]"
 msgstr "[¡Hey, no piensen que soy igual que ustedes! Sin sus armas no son nadie.]"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=9
+#. y4:msg_location=T1.P9
+#. y4:msg_speaker=Gun-toting Foreigner
+#. y4:msg_speaker_id=2
 msgctxt "192_Gun-toting Foreigner"
 msgid "[The hell did you say!? I'll end you right now!]"
 msgstr "[¡¿Qué dijiste, maldito...?! ¡Te voy a matar!]"
-

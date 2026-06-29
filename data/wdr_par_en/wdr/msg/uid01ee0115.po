@@ -17,127 +17,407 @@ msgstr ""
 "X-Crowdin-File-ID: 60986\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "5252"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "5256"
 msgid "2d_cf_zasshi_tokyo"
 msgstr "2d_cf_zasshi_tokyo"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "5260"
 msgid "2d_cf_zasshi_yj"
 msgstr "2d_cf_zasshi_yj"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "5264"
 msgid "2d_cf_zasshi_jitsuwa"
 msgstr "2d_cf_zasshi_jitsuwa"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "5268"
 msgid "2d_cf_zasshi_tvbros"
 msgstr "2d_cf_zasshi_tvbros"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "5272"
 msgid "2d_cf_zasshi_spa"
 msgstr "2d_cf_zasshi_spa"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "5276"
 msgid "2d_cf_zasshi_famitsu"
 msgstr "2d_cf_zasshi_famitsu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "5280"
 msgid "2d_cf_zasshi_digimono"
 msgstr "2d_cf_zasshi_digimono"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "5284"
 msgid "2d_cf_zasshi_tousupo"
 msgstr "2d_cf_zasshi_tousupo"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "5288"
 msgid "2d_cf_zasshi_kindaimahjan"
 msgstr "2d_cf_zasshi_kindaimahjan"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Tokyo Weekly -> T0.P2 | 2. TV Bros. -> T0.P11 | 3. Weekly Famitsu -> T0.P17 | 4. Weekly Spa! -> T0.P14 | 5. Dejimono Station -> T0.P20 | 6. Weekly Young Jump -> T0.P5 | 7. Modern Mahjong -> T0.P26 | 8. Weekly News ->…
 msgctxt "228_Player"
 msgid "(Lots of magazines here. Wonder if there's anything interesting...)"
 msgstr "(Hay tantas revistas... A ver si hay alguna interesante)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=10
+#. y4:msg_branch_choice=Never Mind
 msgctxt "240_Player"
 msgid "(I'll find something to read later.)"
 msgstr "(Leeré algo más tarde)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Tokyo Weekly
 msgctxt "264_Player"
 msgid "(A magazine published by Kodansha. Dishes out the latest information on hot date spots, restaurants and entertainment venues around Tokyo.)"
 msgstr "(Una revista publicada por Kodansha. Ofrece la información más reciente sobre los mejores lugares para citas, restaurantes y locales de entretenimiento en Tokio)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=6
+#. y4:msg_branch_choice=Weekly Young Jump
 msgctxt "300_Player"
 msgid "(A manga magazine published by Shuueisha targeting older boys. In addition to its many popular manga series, it features articles on up-and-coming gravure models.)"
 msgstr "(Una revista manga publicada por Shuueisha dirigida a jóvenes. Además de sus muchas series de manga populares, presenta artículos sobre modelos gravure emergentes)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=8
+#. y4:msg_branch_choice=Weekly News
 msgctxt "336_Player"
 msgid "(A weekly magazine for men published by the Nihon Journal. Provides a wealth of information on male-oriented entertainment and features columns that take a critical look at Japanese society.)"
 msgstr "(Una revista semanal para hombres publicada por Nihon Journal. Ofrece una amplia variedad de información sobre entretenimiento masculino e incluye columnas que analizan críticamente la sociedad japonesa)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=TV Bros.
 msgctxt "372_Player"
 msgid "(A biweekly TV guide published by the Tokyo News Service. It is popular for its articles, such as in-depth features for avid fans, plus up-to-date programming schedules.)"
 msgstr "(Una guía de televisión quincenal publicada por el Tokyo News Service. Es popular por sus artículos, como reportajes en profundidad para fanáticos acérrimos, además de sus programaciones actualizadas)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_choice=Weekly Spa!
 msgctxt "408_Player"
 msgid "(Fusosha's weekly magazine targeted at white-collar workers. It appeals to young men with its ambitious features and its series of topical articles.)"
 msgstr "(Una revista semanal de Fusosha dirigida a oficinistas. Atrae a hombres jóvenes con sus artículos ambiciosos y su serie de artículos de actualidad)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Weekly Famitsu
 msgctxt "444_Player"
 msgid "(A renowned gaming magazine published by Enterbrain. Chock full of game reviews, articles, reader polls, and more.)"
 msgstr "(Una reconocida revista de videojuegos publicada por Enterbrain. Llena de reseñas de juegos, artículos, encuestas a lectores y más)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=5
+#. y4:msg_branch_choice=Dejimono Station
 msgctxt "480_Player"
 msgid "(A magazine published by Sony Magazines that features information on new digital goods. Introduces readers to new A/V equipment, home appliances, and all types of gadgets.)"
 msgstr "(Una revista publicada por Sony Magazines que presenta información sobre nuevos productos digitales. Presenta a los lectores nuevos equipos de audio y video, electrodomésticos y todo tipo de aparatos electrónicos)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=24
+#. y4:msg_location=T0.P24
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=9
+#. y4:msg_branch_choice=Tokyo Sports
 msgctxt "516_Player"
 msgid "(An evening sports newspaper popular for its eccentric articles. Features bizarre headlines and extensive columns on pro wrestling, horse racing, and the red-light district.)"
 msgstr "(Un periódico deportivo vespertino popular por sus artículos excéntricos. Presenta titulares extravagantes y extensas columnas sobre lucha libre profesional, carreras de caballos y el distrito rojo)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=27
+#. y4:msg_location=T0.P27
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=7
+#. y4:msg_branch_choice=Modern Mahjong
 msgctxt "552_Player"
 msgid "(Takeshobo's magazine dedicated to manga about mahjong. Its many famous manga series are full of thrilling mahjong battles that leave readers on the edge of their seats.)"
 msgstr "(La revista de Takeshobo dedicada al manga sobre mahjong. Sus famosas series de manga están llenas de emocionantes batallas de mahjong que dejan a los lectores al borde de sus asientos.)"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P2
+#. y4:msg_branch_segment=T0.P2..P4
+#. y4:msg_branch_target_text=(A magazine published by Kodansha. Dishes out the latest information on hot date spots, restaurants and entertainment venues around Tokyo.)
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "576_Player"
 msgid "Tokyo Weekly"
 msgstr "Tokyo Weekly"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P11
+#. y4:msg_branch_segment=T0.P11..P13
+#. y4:msg_branch_target_text=(A biweekly TV guide published by the Tokyo News Service. It is popular for its articles, such as in-depth features for avid fans, plus up-to-date programming schedules.)
+#. y4:msg_branch_raw=01 11 00 0b 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "588_Player"
 msgid "TV Bros."
 msgstr "TV Bros."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P17
+#. y4:msg_branch_segment=T0.P17..P19
+#. y4:msg_branch_target_text=(A renowned gaming magazine published by Enterbrain. Chock full of game reviews, articles, reader polls, and more.)
+#. y4:msg_branch_raw=01 11 00 11 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "600_Player"
 msgid "Weekly Famitsu"
 msgstr "Weekly Famitsu"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P14
+#. y4:msg_branch_segment=T0.P14..P16
+#. y4:msg_branch_target_text=(Fusosha's weekly magazine targeted at white-collar workers. It appeals to young men with its ambitious features and its series of topical articles.)
+#. y4:msg_branch_raw=01 11 00 0e 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "612_Player"
 msgid "Weekly Spa!"
 msgstr "Weekly Spa!"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=5
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P20
+#. y4:msg_branch_segment=T0.P20..P22
+#. y4:msg_branch_target_text=(A magazine published by Sony Magazines that features information on new digital goods. Introduces readers to new A/V equipment, home appliances, and all types of gadgets.)
+#. y4:msg_branch_raw=01 11 00 14 00 00 00 10 00 00 00 00 00 00 00 00
 msgctxt "624_Player"
 msgid "Dejimono Station"
 msgstr "Dejimono Station"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=6
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P5
+#. y4:msg_branch_segment=T0.P5..P7
+#. y4:msg_branch_target_text=(A manga magazine published by Shuueisha targeting older boys. In addition to its many popular manga series, it features articles on up-and-coming gravure models.)
+#. y4:msg_branch_raw=01 11 00 05 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "636_Player"
 msgid "Weekly Young Jump"
 msgstr "Weekly Young Jump"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=7
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P26
+#. y4:msg_branch_segment=T0.P26..P28
+#. y4:msg_branch_target_text=(Takeshobo's magazine dedicated to manga about mahjong. Its many famous manga series are full of thrilling mahjong battles that leave readers on the edge of their seats.)
+#. y4:msg_branch_raw=01 11 00 1a 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "648_Player"
 msgid "Modern Mahjong"
 msgstr "Modern Mahjong"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=8
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P8
+#. y4:msg_branch_segment=T0.P8..P10
+#. y4:msg_branch_target_text=(A weekly magazine for men published by the Nihon Journal. Provides a wealth of information on male-oriented entertainment and features columns that take a critical look at Japanese society.)
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "660_Player"
 msgid "Weekly News"
 msgstr "El Semanario"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=9
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P23
+#. y4:msg_branch_segment=T0.P23..P25
+#. y4:msg_branch_target_text=(An evening sports newspaper popular for its eccentric articles. Features bizarre headlines and extensive columns on pro wrestling, horse racing, and the red-light district.)
+#. y4:msg_branch_raw=01 11 00 17 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "672_Player"
 msgid "Tokyo Sports"
 msgstr "Tokyo Sports"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
+#. y4:msg_choice_index=10
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P1
+#. y4:msg_branch_segment=T0.P1..P1
+#. y4:msg_branch_target_text=(I'll find something to read later.)
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "684_Player"
 msgid "Never Mind"
 msgstr "No importa"
-

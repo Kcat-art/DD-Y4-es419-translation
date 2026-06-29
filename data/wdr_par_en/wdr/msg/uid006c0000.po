@@ -17,63 +17,230 @@ msgstr ""
 "X-Crowdin-File-ID: 59416\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2128"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Yes -> T1.P1 | 2. No -> T1.P3
 msgctxt "264_Player"
 msgid "(Should I give her a present?)"
 msgstr "(¿Debería darle un regalo...?)"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Yes
 msgctxt "288_Player"
 msgid " (Maybe she'd like this.)"
 msgstr " (Puede que le guste esto)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=No
 msgctxt "300_Player"
 msgid "(On second thought, maybe not.)"
 msgstr "(Pensándolo bien... quizá no)."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. Stay -> T2.P1 | 2. Leave -> T2.P2
 msgctxt "312_Player"
 msgid "(This might be a good time to leave, but I've got enough money. Should I stay a bit longer?)"
 msgstr "(Este parece ser un buen momento para irme, pero todavía tengo dinero. ¿Debería quedarme otro rato?)"
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Stay
 msgctxt "324_Player"
 msgid " (I think I'll stay just a bit longer.)"
 msgstr " (Supongo que puedo quedarme un rato más)."
 
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Leave
 msgctxt "336_Player"
 msgid "(I think it's time to go.)"
 msgstr "(Creo que es hora de irse)."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=2
+#. y4:msg_decision_choices=1. The rumor about ramen. -> T3.P1 | 2. The rumor about gelato. -> T3.P2 | 3. The rumor about fake brand-name goods. -> T3.P3
 msgctxt "348_Player"
 msgid "(What should I talk about?)"
 msgstr "(¿Sobre qué debo hablar?)."
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P1
+#. y4:msg_branch_segment=T1.P1..P2
+#. y4:msg_branch_target_text=(Maybe she'd like this.)
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "396_Player"
 msgid "Yes"
 msgstr "Sí"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
+#. y4:msg_branch_segment=T1.P3..P3
+#. y4:msg_branch_target_text=(On second thought, maybe not.)
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "408_Player"
 msgid "No"
 msgstr "No"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P1
+#. y4:msg_branch_segment=T2.P1..P1
+#. y4:msg_branch_target_text=(I think I'll stay just a bit longer.)
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "420_Player"
 msgid "Stay"
 msgstr "Quedarse"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=7
+#. y4:msg_phrase=0
+#. y4:msg_location=T7.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P2
+#. y4:msg_branch_segment=T2.P2..P2
+#. y4:msg_branch_target_text=(I think it's time to go.)
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "432_Player"
 msgid "Leave"
 msgstr "Irse"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T3.P1
+#. y4:msg_branch_segment=T3.P1..P1
+#. y4:msg_branch_raw=01 12 00 01 01 00 00 16 00 92 00 3c 00 00 00 00
 msgctxt "444_Player"
 msgid "The rumor about ramen."
 msgstr ""
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=9
+#. y4:msg_phrase=0
+#. y4:msg_location=T9.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T3.P2
+#. y4:msg_branch_segment=T3.P2..P2
+#. y4:msg_branch_raw=01 12 00 02 01 00 00 17 00 92 00 3c 00 00 00 00
 msgctxt "456_Player"
 msgid "The rumor about gelato."
 msgstr ""
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=10
+#. y4:msg_phrase=0
+#. y4:msg_location=T10.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T3.P3
+#. y4:msg_branch_segment=T3.P3..P3
+#. y4:msg_branch_raw=01 12 00 03 01 00 00 26 00 92 00 3c 00 00 00 00
 msgctxt "468_Player"
 msgid "The rumor about fake brand-name goods."
 msgstr ""
-

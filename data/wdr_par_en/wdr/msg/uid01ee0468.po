@@ -17,31 +17,101 @@ msgstr ""
 "X-Crowdin-File-ID: 59156\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. One -> T0.P1 | 2. Two -> T0.P2
 msgctxt "176"
 msgid "Select the number of input devices to use."
 msgstr "Seleccione el número de dispositivos de entrada que desea utilizar."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
 msgctxt "212"
 msgid "Two input devices are required to play in this mode."
 msgstr "Se necesitan dos dispositivos de entrada para jugar este modo."
 
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. Yes -> T2.P1 | 2. No -> T2.P2
 msgctxt "224"
 msgid "Do you want to see the tutorial?"
 msgstr "¿Quiere ver el tutorial?"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P1
+#. y4:msg_branch_segment=T0.P1..P1
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "260"
 msgid "One"
 msgstr "Uno"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P2
+#. y4:msg_branch_segment=T0.P2..P2
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "272"
 msgid "Two"
 msgstr "Dos"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P1
+#. y4:msg_branch_segment=T2.P1..P1
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "284"
 msgid "Yes"
 msgstr "Sí"
 
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=6
+#. y4:msg_phrase=0
+#. y4:msg_location=T6.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P2
+#. y4:msg_branch_segment=T2.P2..P2
+#. y4:msg_branch_raw=01 11 00 02 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "296"
 msgid "No"
 msgstr "No"
-

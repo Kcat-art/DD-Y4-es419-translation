@@ -17,59 +17,136 @@ msgstr ""
 "X-Crowdin-File-ID: 60364\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "2408"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "2412"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "2416"
 msgid "Lily"
 msgstr "Lily"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "2420"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "2424"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "80_Akiyama"
 msgid "Phew... We should be safe here."
 msgstr "Uf... Deberíamos estar a salvo aquí."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "92_Akiyama"
 msgid "Sorry you got dragged into that. It's been an interesting couple of days."
 msgstr "Lamento haberte metido en esto. Han sido días algo inusuales."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=2
 msgctxt "104_Lily"
 msgid "It's okay..."
 msgstr "No pasa nada..."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "116_Akiyama"
 msgid "Hey, are you all right? You're not hurt, are you?"
 msgstr "Oye, ¿estás bien? No estás herida, ¿verdad?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=2
 msgctxt "128_Lily"
 msgid "No, I'm fine."
 msgstr "No, estoy bien."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "140_Akiyama"
 msgid "Much as I hate to say it, we should probably call it a night. I'd hate to run into more of them."
 msgstr "Odio decirlo, pero, será mejor que dejemos la cita hasta aquí. No me gustaría encontrarnos con más de ellos."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=8
+#. y4:msg_location=T0.P8
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=2
 msgctxt "152_Lily"
 msgid "You're probably right."
 msgstr "Quizás tengas razón."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=0
 msgctxt "164_Akiyama"
 msgid "Well, do your best tomorrow, all right? I'll swing by and check in on you if I can."
 msgstr "Bueno, mucha suerte mañana, me pasaré para ver como te va cuando pueda."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Lily
+#. y4:msg_speaker_id=2
 msgctxt "176_Lily"
 msgid "Okay. Good night, Akiyama-san."
 msgstr "Está bien. Buenas noches, Akiyama-san."
-

@@ -10,44 +10,87 @@ msgstr ""
 #. y4:last_translator=MasterCry
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1224"
 msgid "Prison Guard"
 msgstr "Guardia de Prisión"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1228"
 msgid "Yakuza Inmate"
 msgstr "Prisionero yakuza"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1232"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Prison Guard
+#. y4:msg_speaker_id=0
 msgctxt "84_Prison Guard"
 msgid "C'mon. Slip me a couple million and I'll make it worth your while."
 msgstr "Vamos. Dame un par de millones y haré que tu tiempo haya valido la pena."
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Yakuza Inmate
+#. y4:msg_speaker_id=1
 msgctxt "96_Yakuza Inmate"
 msgid "Gimme a break, man. Ya been hittin' me up for cash every month since I got tossed in this dump. I ain't made of money."
 msgstr "Dame un respiro, amigo. Me has estado pidiendo dinero desde el mes que entré a este basurero. No estoy hecho de dinero."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Prison Guard
+#. y4:msg_speaker_id=0
 msgctxt "108_Prison Guard"
 msgid "What's the big deal? You scratch my back, I scratch yours."
 msgstr "¿Cuál es el problema? Tú me rascas la espalda, yo rasco la tuya."
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Yakuza Inmate
+#. y4:msg_speaker_id=1
 msgctxt "120_Yakuza Inmate"
 msgid "Yeah, but you scratchin' my back's gonna end up bleedin' me dry... Fine. I'll get one of my pals on the outside to wire it over tomorrow."
 msgstr "Sí, pero si rascás mi espalda terminaré desangrándome... Bien. Le diré a un colega de fuera que mañana haga el cambio."
 
 #. y4:line_status=translated
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Prison Guard
+#. y4:msg_speaker_id=0
 msgctxt "132_Prison Guard"
 msgid "Heh, pleasure doing business. Don't worry, I'll make sure you're taken care of real good."
 msgstr "Je, un placer hacer negocios. No te preocupes, me aseguraré de que te cuiden muy bien."
-

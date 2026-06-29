@@ -10,157 +10,416 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "8640"
 msgid "Haruka"
 msgstr "Haruka"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "8644"
 msgid "Talk_Request"
 msgstr "Talk_Request"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "8648"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "8652"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "8656"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "8660"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "8664"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "8668"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "8672"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "8676"
 msgid "Player"
 msgstr "Player"
 
 #. y4:line_status=todo
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
 msgctxt "248_Haruka"
 msgid "Uncle Kaz, I heard you can catch <Color:8>Giant Crabs<Color:Default> around here. I'd love to bring one back as a present. You know, to eat!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Try -> T0.P8 | 2. Ask for a Tip -> T0.P3 | 3. Not Now -> T0.P14
 msgctxt "260_Kiryu"
 msgid "(<Color:8>Giant Crabs<Color:Default>, huh? I'm not sure they'd be a good souvenir... But I guess I could, if it'd make Haruka happy.)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Ask for a Tip
 msgctxt "272_Kiryu"
 msgid "A <Color:8>Giant Crab<Color:Default>, huh? Wish I knew how to catch one..."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Ask for a Tip
 msgctxt "284_Haruka"
 msgid "Ooh, I heard a fisherman talking about them! He said you can catch <Color:8>Giant Crabs<Color:Default> 100 to 150 meters from the shore."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=5
+#. y4:msg_location=T0.P5
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Ask for a Tip
 msgctxt "296_Kiryu"
 msgid "Huh, is that right? That's pretty far out there. What kind of bait do they like?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=6
+#. y4:msg_location=T0.P6
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Ask for a Tip
 msgctxt "308_Haruka"
 msgid "Apparently, they like things like <Color:8>Vinegar Squid (Bait)<Color:Default> and <Color:8>Manila Clams<Color:Default>. Oh, and I heard you can catch them with <Color:8>Chili Peppers<Color:Default>, too. Isn't that funny?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=7
+#. y4:msg_location=T0.P7
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Ask for a Tip
 msgctxt "320_Kiryu"
 msgid "Heh, who knew you were such a crab enthusiast? Well, thanks to you, I feel like I could go out there and catch us a few <Color:8>Giant Crabs<Color:Default>."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Try
 msgctxt "344_Kiryu"
 msgid "Okay, I'll give it a try."
 msgstr "De acuerdo, lo intentaré."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Try
 msgctxt "356_Haruka"
 msgid "Yay! Good luck, Uncle Kaz!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Try
 msgctxt "380_Kiryu"
 msgid "(Hold on, I don't have any bait.)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Try
 msgctxt "392_Haruka"
 msgid "Aww, that's too bad..."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Not Now
 msgctxt "404_Kiryu"
 msgid "(Not right now.)"
 msgstr "(Ahora no)."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Not Now
 msgctxt "416_Haruka"
 msgid "Aww, c'mon, let's do some fishing!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=16
+#. y4:msg_location=T0.P16
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Not Now
 msgctxt "428_Haruka"
 msgid "Can you catch a <Color:8>Marlin<Color:Default>, Uncle Kaz? Everyone at Morning Glory likes fish, you know. I bet they'd love to get one of these!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=1
+#. y4:msg_section_label=Conversación 1
+#. y4:msg_talk=0
+#. y4:msg_phrase=17
+#. y4:msg_location=T0.P17
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_decision_group=1
+#. y4:msg_decision_choices=1. Try -> T0.P25 | 2. Ask for a Tip -> T0.P18 | 3. Not Now -> T0.P31
 msgctxt "440_Kiryu"
 msgid "(A <Color:8>Marlin<Color:Default>, huh? Could be pretty hard to get home, but if it'll make Haruka happy, I guess I could give it a try...)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=18
+#. y4:msg_location=T0.P18
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Not Now
 msgctxt "452_Kiryu"
 msgid "Heh. So you want a <Color:8>Marlin<Color:Default> this time, huh? Do you happen to know how to catch one?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=19
+#. y4:msg_location=T0.P19
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Not Now
 msgctxt "464_Haruka"
 msgid "Actually, I do! I heard you can catch them 120 to 150 meters from the shore."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=20
+#. y4:msg_location=T0.P20
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Not Now
 msgctxt "476_Kiryu"
 msgid "Huh, is that right? That's pretty far. What kind of bait do they usually go for?"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=21
+#. y4:msg_location=T0.P21
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Not Now
 msgctxt "488_Haruka"
 msgid "Bait? Let me think... Uh... Sorry, Uncle Kaz, I don't remember hearing anything about bait."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=22
+#. y4:msg_location=T0.P22
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Not Now
 msgctxt "500_Kiryu"
 msgid "Huh... The <Color:8>Marlin<Color:Default> must be a hard fish to catch if even you don't know how to catch it."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=23
+#. y4:msg_location=T0.P23
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Not Now
 msgctxt "512_Haruka"
 msgid "I'm sorry, Uncle Kaz. I should've done more research."
 msgstr ""
@@ -171,97 +430,321 @@ msgid "Heh, it's all right. You shouldn't be expected to know everything.\\r\nA 
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=9
+#. y4:msg_location=T0.P9
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Try
 msgctxt "548_Kiryu"
 msgid "Okay, I'll give it a try."
 msgstr "De acuerdo, lo intentaré."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=10
+#. y4:msg_location=T0.P10
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Try
 msgctxt "560_Haruka"
 msgid "Yay! Good luck, Uncle Kaz!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=12
+#. y4:msg_location=T0.P12
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Try
 msgctxt "584_Kiryu"
 msgid "(Hold on, I don't have any bait.)"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=13
+#. y4:msg_location=T0.P13
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Try
 msgctxt "596_Haruka"
 msgid "Aww, that's too bad..."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Not Now
 msgctxt "608_Kiryu"
 msgid "(Not right now.)"
 msgstr "(Ahora no)."
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=15
+#. y4:msg_location=T0.P15
+#. y4:msg_speaker=Haruka
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Not Now
 msgctxt "620_Haruka"
 msgid "Aww, c'mon, let's do some fishing!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=1
+#. y4:msg_phrase=0
+#. y4:msg_location=T1.P0
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_decision_group=2
+#. y4:msg_decision_choices=1. Go Fishing -> T1.P1 | 2. Not Now -> T1.P4
 msgctxt "632_Player"
 msgid "(This is a perfect place to fish. Should I do a bit of fishing?)"
 msgstr "(Este es un lugar perfecto para pescar. \\r ¿Debería pescar un poco?)"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Go Fishing
 msgctxt "656_Haruka"
 msgid "(All right, let's give it a go.)"
 msgstr "(De acuerdo, vamos a intentarlo.)"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Not Now
 msgctxt "680_Haruka"
 msgid "(Not right now.)"
 msgstr "(Ahora no)."
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=9
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not Now
 msgctxt "692_Player"
 msgid "(I don't have anything to use as bait...)"
 msgstr "(No tengo nada para usar como carnada...)"
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=0
+#. y4:msg_phrase=14
+#. y4:msg_location=T0.P14
+#. y4:msg_speaker=Kiryu
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=3
+#. y4:msg_branch_choice=Not Now
 msgctxt "704_Player"
 msgid "(Not right now.)"
 msgstr "(Ahora no)."
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P8
+#. y4:msg_branch_segment=T0.P8..P13
+#. y4:msg_branch_target_text=Okay, I'll give it a try.
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "716_Haruka"
 msgid "Try"
 msgstr "Intentar"
 
 #. y4:line_status=todo
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P3
+#. y4:msg_branch_segment=T0.P3..P7
+#. y4:msg_branch_target_text=A <Color:8>Giant Crab<Color:Default>, huh? Wish I knew how to catch one...
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "728_Haruka"
 msgid "Ask for a Tip"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P14
+#. y4:msg_branch_segment=T0.P14..P32
+#. y4:msg_branch_target_text=(Not right now.)
+#. y4:msg_branch_raw=01 11 00 0e 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "740_Haruka"
 msgid "Not Now"
 msgstr "Ahora no"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=2
+#. y4:msg_phrase=0
+#. y4:msg_location=T2.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P8
+#. y4:msg_branch_segment=T0.P8..P13
+#. y4:msg_branch_target_text=Okay, I'll give it a try.
+#. y4:msg_branch_raw=01 11 00 08 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "752_Haruka"
 msgid "Try"
 msgstr "Intentar"
 
 #. y4:line_status=todo
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P3
+#. y4:msg_branch_segment=T0.P3..P7
+#. y4:msg_branch_target_text=A <Color:8>Giant Crab<Color:Default>, huh? Wish I knew how to catch one...
+#. y4:msg_branch_raw=01 11 00 03 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "764_Haruka"
 msgid "Ask for a Tip"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P14
+#. y4:msg_branch_segment=T0.P14..P32
+#. y4:msg_branch_target_text=(Not right now.)
+#. y4:msg_branch_raw=01 11 00 0e 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "776_Haruka"
 msgid "Not Now"
 msgstr "Ahora no"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=2
+#. y4:msg_section_label=Conversación 2
+#. y4:msg_talk=8
+#. y4:msg_phrase=0
+#. y4:msg_location=T8.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P1
+#. y4:msg_branch_segment=T1.P1..P3
+#. y4:msg_branch_target_text=(All right, let's give it a go.)
+#. y4:msg_branch_raw=01 11 00 01 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "788_Haruka"
 msgid "Go Fishing"
 msgstr "Ir de Pesca"
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P14
+#. y4:msg_branch_segment=T0.P14..P32
+#. y4:msg_branch_target_text=(Not right now.)
+#. y4:msg_branch_raw=01 11 00 0e 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "800_Haruka"
 msgid "Not Now"
 msgstr "Ahora no"
-

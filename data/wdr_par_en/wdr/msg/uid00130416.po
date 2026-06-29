@@ -10,153 +10,380 @@ msgstr ""
 #. y4:last_reviewer=Keiner
 
 #. y4:line_status=todo
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "6076"
 msgid "Ehama"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "6080"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "6084"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "6088"
 msgid "Sodachi"
 msgstr "Sodachi"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "6092"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "6096"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "6100"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "6104"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=todo
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "6108"
 msgid "Renovations"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=9
 msgctxt "6112"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=10
 msgctxt "6116"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=11
 msgctxt "6120"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=todo
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=0
+#. y4:msg_location=T0.P0
+#. y4:msg_speaker=Ehama
+#. y4:msg_speaker_id=0
 msgctxt "148_Ehama"
 msgid "Hello, Saejima-san! It's been a while! Let me know if you ever need anything at all. I'm forever in your debt."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Ehama
+#. y4:msg_speaker_id=0
 msgctxt "172_Ehama"
 msgid "Thanks to you, everything at home is going perfectly. Let me know if you ever need anything at all. I'm forever in your debt."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Ehama
+#. y4:msg_speaker_id=0
 msgctxt "196_Ehama"
 msgid "Thanks to you, everything at home is going perfectly. Let me know if you ever need anything at all. I'm forever in your debt."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=pre_context
+#. y4:msg_label=Contexto previo
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=0
+#. y4:msg_location=T3.P0
+#. y4:msg_speaker=Ehama
+#. y4:msg_speaker_id=0
 msgctxt "220_Ehama"
 msgid "Thanks to you, everything at home is going perfectly. Let me know if you ever need anything at all. I'm forever in your debt."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=decision
+#. y4:msg_label=Pregunta con opciones
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=6
+#. y4:msg_location=T3.P6
+#. y4:msg_speaker=Ehama
+#. y4:msg_speaker_id=0
+#. y4:msg_decision_group=0
+#. y4:msg_decision_choices=1. Renovate for 1.5 million yen. -> T3.P7 | 2. Not right now. -> T3.P20
 msgctxt "292_Ehama"
 msgid "By the way, I wanted to ask you about the renovation work we'd talked about before. What do you think? I can do it for 1.5 million yen."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=8
+#. y4:msg_location=T3.P8
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Renovate for 1.5 million yen.
 msgctxt "316_Saejima"
 msgid "That ain't a bad idea. The timing's good, too. Let's do it."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=9
+#. y4:msg_location=T3.P9
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Renovate for 1.5 million yen.
 msgctxt "328_Sodachi"
 msgid "Yippeeee! Thank you, Sae-chan! You're a doll!"
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=10
+#. y4:msg_location=T3.P10
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Renovate for 1.5 million yen.
 msgctxt "340_Saejima"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=11
+#. y4:msg_location=T3.P11
+#. y4:msg_speaker=Ehama
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Renovate for 1.5 million yen.
 msgctxt "352_Ehama"
 msgid "Okay then! I'll go ahead and make the arrangements!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=16
+#. y4:msg_location=T3.P16
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Renovate for 1.5 million yen.
 msgctxt "412_Sodachi"
 msgid "This is amazing! I'm so glad that we renovated! Look at this, Saejima-san!"
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=17
+#. y4:msg_location=T3.P17
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Renovate for 1.5 million yen.
 msgctxt "424_Saejima"
 msgid "Looks good. Now we can add lots of new trainin' equipment."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=18
+#. y4:msg_location=T3.P18
+#. y4:msg_speaker=Renovations
+#. y4:msg_speaker_id=8
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Renovate for 1.5 million yen.
 msgctxt "436_Ehama"
 msgid "Your dojo renovation is complete. Each facility can now be upgraded to Level 3."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=19
+#. y4:msg_location=T3.P19
+#. y4:msg_speaker=Sodachi
+#. y4:msg_speaker_id=3
+#. y4:msg_choice_index=1
+#. y4:msg_branch_choice=Renovate for 1.5 million yen.
 msgctxt "448_Sodachi"
 msgid "Hopefully this will attract a lot of new apprentices. Heheheh..."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=20
+#. y4:msg_location=T3.P20
+#. y4:msg_speaker=Saejima
+#. y4:msg_speaker_id=2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not right now.
 msgctxt "460_Saejima"
 msgid "This ain't the kind o' decision to make on a whim. We should pass this time."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=21
+#. y4:msg_location=T3.P21
+#. y4:msg_speaker=Ehama
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not right now.
 msgctxt "472_Ehama"
 msgid "I understand. No need to rush. We can do it anytime, so just let me know if you change your mind."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=branch_dialogue
+#. y4:msg_label=Respuesta de rama
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=3
+#. y4:msg_phrase=22
+#. y4:msg_location=T3.P22
+#. y4:msg_speaker=Ehama
+#. y4:msg_speaker_id=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_choice=Not right now.
 msgctxt "484_Ehama"
 msgid "I'm sorry, it looks like you don't have enough money. I'd love to give you a bigger discount, but this is the best I can do."
 msgstr ""
 
 #. y4:line_status=todo
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=4
+#. y4:msg_phrase=0
+#. y4:msg_location=T4.P0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P7
+#. y4:msg_branch_segment=T3.P7..P19
+#. y4:msg_branch_target_text=That ain't a bad idea. The timing's good, too. Let's do it.
+#. y4:msg_branch_raw=01 11 00 07 00 00 00 1d 00 00 00 00 00 00 00 00
 msgctxt "544_Ehama"
 msgid "Renovate for 1.5 million yen."
 msgstr ""
 
 #. y4:line_status=translated
+#. y4:msg_type=choice
+#. y4:msg_label=Opción del jugador
+#. y4:msg_section=0
+#. y4:msg_section_label=Conversación 0
+#. y4:msg_talk=5
+#. y4:msg_phrase=0
+#. y4:msg_location=T5.P0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P20
+#. y4:msg_branch_segment=T3.P20..P26
+#. y4:msg_branch_target_text=This ain't the kind o' decision to make on a whim. We should pass this time.
+#. y4:msg_branch_raw=01 11 00 14 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "556_Ehama"
 msgid "Not right now."
 msgstr "Ahora no."
-

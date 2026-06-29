@@ -17,103 +17,243 @@ msgstr ""
 "X-Crowdin-File-ID: 57688\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "4460"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "4464"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "4468"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "4472"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "4476"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "4480"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "4484"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=1
+#. y4:msg_location=T1.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "'Scuse me. You have a second? It turns out a certain someone thinks you're a real nuisance."
 msgstr "Disculpa. ¿Tienes un segundo? Resulta que cierta persona piensa que eres una verdadera molestia."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "140_Man"
 msgid "Now, are you gonna let us beat you up so we can collect our paycheck?"
 msgstr "Entonces, ¿nos vas a dejar golpearte para que podamos cobrar nuestro cheque?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=3
+#. y4:msg_location=T1.P3
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "152_Man"
 msgid "Hate to spring this on you, but we're gonna beat the crap out of you now."
 msgstr "Odio soltarte esto de repente, pero vamos a darte una paliza ahora mismo."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "164_Man"
 msgid "Even if you don't have a clue, we still have our reasons!"
 msgstr "¡Aunque usted no tenga ni idea, nosotros tenemos nuestras razones!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=5
+#. y4:msg_location=T1.P5
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "176_Man"
 msgid "We're soliciting donations for a group that's found itself down on its luck: us. Can you find it in your heart to give?"
 msgstr "Estamos solicitando donaciones para los menos afortunados: nosotros. ¿Podrías encontrar en tu corazón el deseo de ayudarnos?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=6
+#. y4:msg_location=T1.P6
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "188_Man"
 msgid "What, too afraid to answer me? Hahaha! What a loser! Hey boys, we got us a real sucker here!"
 msgstr "¿Qué pasa, tienes miedo de contestarme? ¡Ja, ja, ja! ¡Qué perdedor! ¡Oigan, muchachos, tenemos a un imbécil aquí!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=1
+#. y4:msg_location=T2.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "224_Man"
 msgid "Sorry. Actually, no one sent us to rough you up. We thought the cops would let us off easier if we told them we were hired muscle."
 msgstr "Lo siento. En realidad, nadie nos envió a golpearte. Pensamos que la policía nos trataría mejor si les decíamos que éramos matones contratados."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=2
+#. y4:msg_location=T2.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "236_Man"
 msgid "We did it for the money, that's all. Totally an impulse beating. Hope this makes up for it."
 msgstr "Lo hicimos por dinero, nada más. Totalmente una paliza impulsiva. Espero que esto lo compense."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=3
+#. y4:msg_location=T2.P3
 msgctxt "248_Man"
 msgid "You got a paint-spattered %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=5
+#. y4:msg_location=T2.P5
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "272_Man"
 msgid "Shit, this wasn't how it was supposed to happen. They paid us 100,000 yen to attack you, but damn! It totally wasn't worth it!"
 msgstr "Mierda, no se suponía que pasara así. Nos pagaron 100,000 yenes para atacarte, ¡pero maldita sea! ¡No valió la pena en absoluto!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=6
+#. y4:msg_location=T2.P6
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "284_Man"
 msgid "Here you go. Sorry for jumping on you like that."
 msgstr "Aquí tienes. Lo siento por atacarte de esa manera."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=7
+#. y4:msg_location=T2.P7
 msgctxt "296_Man"
 msgid "You got a totally crushed %s."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=9
+#. y4:msg_location=T2.P9
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "320_Man"
 msgid "Dude! My head is swimming... This is not good!"
 msgstr "¡Amigo! Mi cabeza está dando vueltas... ¡Esto no está bien!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=10
+#. y4:msg_location=T2.P10
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "332_Man"
 msgid "Uncle! Uncle! We give up! We surrender so hard, we'd fly a white flag if we had one!"
 msgstr "¡Tío! ¡Tío! Nos rendimos. ¡Nos rendimos tan fuerte que ondearíamos una bandera blanca si tuviéramos una!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=2
+#. y4:msg_phrase=11
+#. y4:msg_location=T2.P11
 msgctxt "344_Man"
 msgid "You got a nice %s instead of a white flag."
 msgstr "Obtuviste un %s."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=1
+#. y4:msg_location=T3.P1
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "392_Man"
 msgid "We'll stay on the straight and narrow, promise!"
 msgstr "¡Seguiremos por el buen camino, lo prometemos!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=2
+#. y4:msg_location=T3.P2
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "404_Man"
 msgid "...What? Don't bother me."
 msgstr "...Qué? No me molestes."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=3
+#. y4:msg_phrase=3
+#. y4:msg_location=T3.P3
+#. y4:msg_speaker=Man
+#. y4:msg_speaker_id=0
 msgctxt "416_Man"
 msgid "Man, who the hell said you were a sucker..."
 msgstr "Hombre, ¿quién demonios dijo que eres un imbécil..."
-

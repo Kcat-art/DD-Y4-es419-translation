@@ -17,54 +17,109 @@ msgstr ""
 "X-Crowdin-File-ID: 58460\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1560"
 msgid "Rio"
 msgstr "Rio"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1564"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=2
 msgctxt "1568"
 msgid "F_sxy_stand_sync_dakitukiA_ed"
 msgstr "F_sxy_stand_sync_dakitukiA_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=3
 msgctxt "1572"
 msgid "P_stand_sync_dakitukiA_ed"
 msgstr "P_stand_sync_dakitukiA_ed"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=4
 msgctxt "1576"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=5
 msgctxt "1580"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=6
 msgctxt "1584"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=7
 msgctxt "1588"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=8
 msgctxt "1592"
 msgid "0"
 msgstr "0"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "68_Rio"
 msgid "Thank you so much, Akiyama-san."
 msgstr "Muchas gracias, Akiyama-san."
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=2
+#. y4:msg_location=T0.P2
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "80_Akiyama"
 msgid "Do you feel more confident now?"
 msgstr "¿Te sientes más segura ahora?"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=3
+#. y4:msg_location=T0.P3
+#. y4:msg_speaker=Rio
+#. y4:msg_speaker_id=0
 msgctxt "92_Rio"
 msgid "For sure! You've seen everything. I've got nothing left to be embarrassed about now!"
 msgstr "¡Por supuesto! Lo has visto todo. ¡Ya no tengo nada de lo que estar avergonzada!"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=4
+#. y4:msg_location=T0.P4
+#. y4:msg_speaker=Akiyama
+#. y4:msg_speaker_id=1
 msgctxt "104_Akiyama"
 msgid "You don't have to say it so loud..."
 msgstr "No tienes que decirlo tan alto..."
@@ -72,4 +127,3 @@ msgstr "No tienes que decirlo tan alto..."
 msgctxt "116_Rio"
 msgid "Hehe. I love you, you know. <Color:7>♥<Color:Default>"
 msgstr "Jeje. Te quiero, ¿sabes? <Color:7>♥<Color:Default>"
-

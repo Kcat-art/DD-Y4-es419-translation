@@ -17,15 +17,27 @@ msgstr ""
 "X-Crowdin-File-ID: 59824\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "428"
 msgid "Employee"
 msgstr "Empleado"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "432"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Employee
+#. y4:msg_speaker_id=0
 msgctxt "68_Employee"
 msgid "Thank you, sir. We hope to see you again soon."
 msgstr "Gracias, señor. Esperamos verle de nuevo pronto."
-

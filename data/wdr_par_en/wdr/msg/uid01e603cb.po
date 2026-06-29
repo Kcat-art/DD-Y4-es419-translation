@@ -17,31 +17,71 @@ msgstr ""
 "X-Crowdin-File-ID: 61012\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=0
 msgctxt "1204"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:msg_type=id
+#. y4:msg_label=Nombre interno
+#. y4:msg_id_index=1
 msgctxt "1208"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=0
+#. y4:msg_phrase=1
+#. y4:msg_location=T0.P1
+#. y4:msg_speaker=Tanimura
+#. y4:msg_speaker_id=0
 msgctxt "84_Tanimura"
 msgid "(There are other things I should be doing. I'll come back here later.)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "132_Player"
 msgid "(Was there an accident or something? I probably shouldn't get too close...)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "144_Player"
 msgid "(Was there an accident or something? I probably shouldn't get too close...)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=4
+#. y4:msg_location=T1.P4
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "156_Player"
 msgid "(Look at all these cops... Better keep my distance.)"
 msgstr ""
 
+#. y4:msg_type=dialogue
+#. y4:msg_label=Diálogo
+#. y4:msg_talk=1
+#. y4:msg_phrase=2
+#. y4:msg_location=T1.P2
+#. y4:msg_speaker=Player
+#. y4:msg_speaker_id=1
 msgctxt "168_Player"
 msgid "(Was there an accident or something? I probably shouldn't get too close...)"
 msgstr ""
-

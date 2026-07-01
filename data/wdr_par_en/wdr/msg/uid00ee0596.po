@@ -7,9 +7,11 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=translated
+#. y4:last_translator=Keiner
 #. y4:last_reviewer=Keiner
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -89,9 +91,10 @@ msgid "Tanimura is also a resident of Little Asia. He considers the staff of Hom
 msgstr "Tanimura es policía, pero también un residente del Barrio Asiático. Gracias a su estrecha relación, casi familiar, con el personal de Dulce Patria, este puede usar el local como si fuera su escondite."
 
 #. y4:line_status=translated
+#. y4:translated_by=Keiner
 msgctxt "92_English Teacher"
 msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nRead <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\nYou can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
@@ -104,3 +107,4 @@ msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default
 msgctxt "104_English Teacher"
 msgid "Huh? You know most of the major Asian languages? Really!? Then I bet you could hold a conversation with anyone who lives here!"
 msgstr "¿Eh? ¿Conoces la mayoría de idiomas asiáticos? ¿¡En serio!? ¡Entonces puedes hablar con cualquiera persona de este barrio!"
+

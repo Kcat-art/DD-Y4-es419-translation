@@ -1,22 +1,17 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee0591.po\n"
-"X-Crowdin-File-ID: 58534\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_translator=Keiner
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -26,6 +21,7 @@ msgctxt "168"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -33,6 +29,7 @@ msgctxt "2160"
 msgid "Heartbroken Man"
 msgstr "Hombre con el corazón roto"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -40,6 +37,7 @@ msgctxt "2164"
 msgid "Finished and Complete"
 msgstr "Terminado y Completado"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -51,6 +49,7 @@ msgctxt "84_Heartbroken Man"
 msgid "No matter how long I wait for her... I know she won't come. Every story has an ending, some fulfilling, some not. Our story falls within the latter, I'm afraid."
 msgstr "No importa cuánto la espere... sé que no vendrá. Cada historia tiene un final, algunos satisfactorios, otros no. Hoy creo que un amor ha llegado a su fin."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -62,6 +61,7 @@ msgctxt "96_Heartbroken Man"
 msgid "But an unfulfilling ending doesn't need to be sad. It's merely an end... Ugh..."
 msgstr "Pero no significa que sea algo triste, ¿verdad? Es simplemente un final... Ugh..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -73,6 +73,7 @@ msgctxt "108_Heartbroken Man"
 msgid "Finished <Sign:34> and Complete <Sign:33> are two different indicators that a substory has been cleared. They appear under Substories on the Pause Menu. Finished indicates a less satisfying ending to the substory."
 msgstr "Los indicadores de Terminado <Sign:34> y Completado <Sign:33> aparecerán en la sección Subhistorias, dentro del Menú de Pausa, una vez acabada la subhistoria. \"Terminado\" suele indicar que el desenlace de la subhistoria es insatisfactorio o deja algunos cabos sueltos."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -84,14 +85,13 @@ msgctxt "120_Heartbroken Man"
 msgid "A Finished substory will still count towards your Completion List."
 msgstr "Una subhistoria finalizada seguirá contando para tu lista de objetivos."
 
+#. y4:line_status=translated
+#. y4:translated_by=Keiner
 msgctxt "132_Heartbroken Man"
-msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\n"
-"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\n"
-"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\n"
-"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"
-"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nRead <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\nYou can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -102,3 +102,4 @@ msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default
 msgctxt "144_Heartbroken Man"
 msgid "Time for me to start another chapter in the story of my love life... But first, a drink in the Champion District. Maybe two drinks..."
 msgstr "Es hora de que empiece otro capítulo en la historia de mi vida amorosa... Pero primero, una copa en el distrito Champion. Tal vez dos copas..."
+

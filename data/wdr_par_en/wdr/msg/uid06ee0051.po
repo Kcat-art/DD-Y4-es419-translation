@@ -1,22 +1,15 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid06ee0051.po\n"
-"X-Crowdin-File-ID: 58126\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=untranslated
+#. y4:last_translator=Keiner
+
+#. y4:line_status=translated
 #. y4:msg_type=decision
 #. y4:msg_label=Pregunta con opciones
 #. y4:msg_section=0
@@ -30,6 +23,7 @@ msgctxt "116"
 msgid "You can save the game and use the Item Box at pay phones."
 msgstr "Puedes guardar partida y usar el baúl de objetos en los teléfonos públicos."
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -37,14 +31,13 @@ msgctxt "1396"
 msgid "Save Point"
 msgstr "Punto de guardado"
 
+#. y4:line_status=translated
+#. y4:translated_by=Keiner
 msgctxt "140_Save Point"
-msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\n"
-"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\n"
-"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\n"
-"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"
-"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nRead <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\nYou can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=0
@@ -62,6 +55,7 @@ msgctxt "188_Save Point"
 msgid "Save"
 msgstr "Guardar"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=0
@@ -78,6 +72,7 @@ msgctxt "200_Save Point"
 msgid "Use the Item Box"
 msgstr "Usar el Baúl de objetos"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=0
@@ -93,3 +88,4 @@ msgstr "Usar el Baúl de objetos"
 msgctxt "212_Save Point"
 msgid "Cancel"
 msgstr "Cancelar"
+

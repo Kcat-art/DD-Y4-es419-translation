@@ -1,22 +1,17 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee042d.po\n"
-"X-Crowdin-File-ID: 59406\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_translator=Keiner
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -26,6 +21,7 @@ msgctxt "128"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -33,6 +29,7 @@ msgctxt "1856"
 msgid "Dangerous-Looking Man"
 msgstr "Hombre de aspecto peligroso"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -40,6 +37,7 @@ msgctxt "1860"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -47,6 +45,7 @@ msgctxt "1864"
 msgid "Equipment 1"
 msgstr "Equipamiento 1"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -58,6 +57,7 @@ msgctxt "56_Dangerous-Looking Man"
 msgid "Hey, I've got a pretty amazing weapon equipped. Wish I could show you, heh... Glad I found the right one for me."
 msgstr "Oye, tengo equipada un arma increíble ahora mismo. Ojalá pudiera enseñártela, je, je, je... Esta arma encaja tan bien conmigo."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -69,6 +69,7 @@ msgctxt "68_Dangerous-Looking Man"
 msgid "Equipment can be divided into Weapons, Gear, and Accessories. These items do not take effect until you equip them."
 msgstr "El equipamiento se divide en armas, equipo y accesorios. Estos objetos no surten efecto hasta que los equipas."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -80,14 +81,13 @@ msgctxt "80_Dangerous-Looking Man"
 msgid "By equipping them on the left side of the Item Menu, you can either use them or activate their effects. Be aware that some characters cannot equip certain weapons."
 msgstr "Luego de equiparlos en la parte izquierda del menú de objetos, podrás usarlos o activar sus efectos. Ten en cuenta que algunos protagonistas no pueden equiparse ciertas armas."
 
+#. y4:line_status=translated
+#. y4:translated_by=Keiner
 msgctxt "92_Equipment 1"
-msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\n"
-"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\n"
-"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\n"
-"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"
-"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nRead <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\nYou can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -98,3 +98,4 @@ msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default
 msgctxt "104_Dangerous-Looking Man"
 msgid "Equipping an amazing weapon feels amazing. Like walking on air, except with a huge knife. Know what I'm saying?"
 msgstr "Equipar un arma asombrosa te da una sensación increíble. Es como flotar por las nubes, pero con un cuchillo enorme, ¿no lo crees? ¿eh?"
+

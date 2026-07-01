@@ -1,22 +1,15 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00070001.po\n"
-"X-Crowdin-File-ID: 59926\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=untranslated
+#. y4:last_translator=Keiner
+
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +17,7 @@ msgctxt "12016"
 msgid "Receptionist"
 msgstr "Recepcionista"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +25,7 @@ msgctxt "12020"
 msgid "The Underground Coliseum"
 msgstr "El Coliseo Subterráneo"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -42,6 +37,7 @@ msgctxt "740_Receptionist"
 msgid "This facility is for members only."
 msgstr "Este lugar es solo para miembros."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -53,6 +49,7 @@ msgctxt "752_Receptionist"
 msgid "I'm sorry, only registered customers can enter this facility."
 msgstr "Lo siento, solo los clientes registrados pueden entrar a este lugar."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -64,6 +61,7 @@ msgctxt "764_Receptionist"
 msgid "Thank you very much. Come back when you want to fight again."
 msgstr "Muchas gracias. Vuelve cuando quieras volver a pelear."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -75,6 +73,7 @@ msgctxt "800_Receptionist"
 msgid "Congratulations. Here is your reward for winning."
 msgstr "¡Felicidades! Aquí tienes tu recompensa."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=4
@@ -86,6 +85,7 @@ msgctxt "836_Receptionist"
 msgid "Congratulations!"
 msgstr "¡Felicidades!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=4
@@ -97,6 +97,7 @@ msgctxt "848_Receptionist"
 msgid "Your nickname has been upgraded! You can check it out from the menu."
 msgstr "¡Tu apodo ha sido actualizado! Puedes comprobarlo en el menú."
 
+#. y4:line_status=translated
 #. y4:msg_type=pre_context
 #. y4:msg_label=Contexto previo
 #. y4:msg_section=0
@@ -110,12 +111,12 @@ msgctxt "860_Receptionist"
 msgid "Welcome. This is the Underground Coliseum."
 msgstr "Bienvenido al Coliseo Subterráneo."
 
+#. y4:line_status=translated
 msgctxt "872_Receptionist"
-msgid "Is this your first time here? We will have to register you first.\\r\n"
-"Have a look at the rules while you wait."
-msgstr "¿Es tu primera vez aquí? Tendrás que registrarte antes de poder luchar.\\r\n"
-"Echa un vistazo a las reglas mientras esperas."
+msgid "Is this your first time here? We will have to register you first.\\r\nHave a look at the rules while you wait."
+msgstr "¿Es tu primera vez aquí? Tendrás que registrarte antes de poder luchar.\\r\nEcha un vistazo a las reglas mientras esperas."
 
+#. y4:line_status=translated
 #. y4:msg_type=pre_context
 #. y4:msg_label=Contexto previo
 #. y4:msg_section=0
@@ -129,14 +130,13 @@ msgctxt "896_Receptionist"
 msgid "Your registration is complete."
 msgstr "Su registro está completo."
 
+#. y4:line_status=translated
+#. y4:translated_by=Keiner
 msgctxt "908_Receptionist"
-msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\n"
-"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\n"
-"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\n"
-"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"
-"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nRead <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\nYou can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
+#. y4:line_status=translated
 #. y4:msg_type=decision
 #. y4:msg_label=Pregunta con opciones
 #. y4:msg_section=0
@@ -152,6 +152,7 @@ msgctxt "920_Receptionist"
 msgid "What would you like to do?"
 msgstr "¿Qué te gustaría hacer?"
 
+#. y4:line_status=translated
 #. y4:msg_type=decision
 #. y4:msg_label=Pregunta con opciones
 #. y4:msg_section=1
@@ -167,6 +168,7 @@ msgctxt "932_Receptionist"
 msgid "What would you like to ask about?"
 msgstr "¿Qué le gustaría hacer ahora?"
 
+#. y4:line_status=translated
 #. y4:msg_type=decision
 #. y4:msg_label=Pregunta con opciones
 #. y4:msg_section=2
@@ -182,6 +184,7 @@ msgctxt "944_Receptionist"
 msgid "What would you like to view?"
 msgstr "¿Qué te gustaría ver?"
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -197,6 +200,7 @@ msgctxt "956_Receptionist"
 msgid "Be forewarned: you will not be able to use any weapons or defensive gear."
 msgstr "Estás prevenido: no podrás usar armas ni equipo defensivo."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -212,6 +216,7 @@ msgctxt "968_Receptionist"
 msgid "Please select a tournament."
 msgstr "Por favor, seleccione un torneo."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -227,6 +232,7 @@ msgctxt "1004_Receptionist"
 msgid "Best of luck, and have a good fight."
 msgstr "Lo mejor de la suerte, y ten una buena pelea."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -242,6 +248,7 @@ msgctxt "1028_Receptionist"
 msgid "Here are the rules of the Underground Coliseum."
 msgstr "Estas son las reglas del Coliseo Subterráneo."
 
+#. y4:line_status=translated
 #. y4:msg_type=decision
 #. y4:msg_label=Pregunta con opciones
 #. y4:msg_section=3
@@ -257,6 +264,7 @@ msgctxt "1052_Receptionist"
 msgid "What information would you like to view?"
 msgstr "¿Qué información desea consultar?"
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -272,6 +280,7 @@ msgctxt "1064_Receptionist"
 msgid "Here is information on individual match opponents."
 msgstr "Aquí encontrará información sobre los rivales de cada combate."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -287,6 +296,7 @@ msgctxt "1088_Receptionist"
 msgid "Here is information on tag match opponents."
 msgstr "Aquí tienes información sobre los oponentes de los combates por equipo."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -302,6 +312,7 @@ msgctxt "1112_Receptionist"
 msgid "You can trade points here for items and other things."
 msgstr "Puedes intercambiar puntos aquí por objetos y otras cosas."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -315,6 +326,7 @@ msgctxt "1124_Receptionist"
 msgid "What would you like to trade for?"
 msgstr "¿Para qué desea comerciar?"
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -330,6 +342,7 @@ msgctxt "1148_Receptionist"
 msgid "These are your fight stats."
 msgstr "Estas son tus estadísticas de combate."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -345,6 +358,7 @@ msgctxt "1172_Receptionist"
 msgid "This is a compilation of information about popularity in the Underground Coliseum."
 msgstr "Esta es una compilación de información sobre la popularidad en el Coliseo Subterráneo."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -360,6 +374,7 @@ msgctxt "1196_Receptionist"
 msgid "This is a compilation of information about tag matches."
 msgstr "Esta es una compilación de información sobre las coincidencias de etiquetas."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -375,14 +390,13 @@ msgctxt "1220_Receptionist"
 msgid "Thank you. Please come again."
 msgstr "Muchas gracias. Por favor, vuelva otra vez."
 
+#. y4:line_status=translated
+#. y4:translated_by=Keiner
 msgctxt "1244_Receptionist"
-msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\n"
-"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\n"
-"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\n"
-"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"
-"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nRead <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\nYou can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
+#. y4:line_status=translated
 #. y4:msg_type=decision
 #. y4:msg_label=Pregunta con opciones
 #. y4:msg_section=0
@@ -398,6 +412,7 @@ msgctxt "1256_Receptionist"
 msgid "What would you like to do?"
 msgstr "¿Qué te gustaría hacer?"
 
+#. y4:line_status=translated
 #. y4:msg_type=decision
 #. y4:msg_label=Pregunta con opciones
 #. y4:msg_section=1
@@ -413,6 +428,7 @@ msgctxt "1268_Receptionist"
 msgid "What would you like to ask about?"
 msgstr "¿Qué le gustaría hacer ahora?"
 
+#. y4:line_status=translated
 #. y4:msg_type=decision
 #. y4:msg_label=Pregunta con opciones
 #. y4:msg_section=1
@@ -428,6 +444,7 @@ msgctxt "1280_Receptionist"
 msgid "What would you like to ask about?"
 msgstr "¿Qué le gustaría hacer ahora?"
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -443,6 +460,7 @@ msgctxt "1292_Receptionist"
 msgid "Be forewarned: you will not be able to use any weapons or defensive gear."
 msgstr "Estás prevenido: no podrás usar armas ni equipo defensivo."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -458,6 +476,7 @@ msgctxt "1304_Receptionist"
 msgid "Please select a tournament."
 msgstr "Por favor, seleccione un torneo."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=4
@@ -473,6 +492,7 @@ msgctxt "1340_Receptionist"
 msgid "Thank you, and good luck."
 msgstr "Gracias y buena suerte."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -488,6 +508,7 @@ msgctxt "1364_Receptionist"
 msgid "Here are the rules of the Underground Coliseum."
 msgstr "Estas son las reglas del Coliseo Subterráneo."
 
+#. y4:line_status=translated
 #. y4:msg_type=decision
 #. y4:msg_label=Pregunta con opciones
 #. y4:msg_section=3
@@ -503,6 +524,7 @@ msgctxt "1388_Receptionist"
 msgid "What information would you like to view?"
 msgstr "¿Qué información desea consultar?"
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -518,6 +540,7 @@ msgctxt "1400_Receptionist"
 msgid "Here is information on individual match opponents."
 msgstr "Aquí encontrará información sobre los rivales de cada combate."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -533,6 +556,7 @@ msgctxt "1424_Receptionist"
 msgid "Here is information on tag match opponents."
 msgstr "Aquí tienes información sobre los oponentes de los combates por equipo."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -548,6 +572,7 @@ msgctxt "1448_Receptionist"
 msgid "You can trade points here for items and other things."
 msgstr "Puedes intercambiar puntos aquí por objetos y otras cosas."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -561,6 +586,7 @@ msgctxt "1460_Receptionist"
 msgid "What would you like to trade for?"
 msgstr "¿Para qué desea comerciar?"
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -576,6 +602,7 @@ msgctxt "1484_Receptionist"
 msgid "These are your fight stats."
 msgstr "Estas son tus estadísticas de combate."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -591,6 +618,7 @@ msgctxt "1508_Receptionist"
 msgid "This is a compilation of information about popularity in the Underground Coliseum."
 msgstr "Esta es una compilación de información sobre la popularidad en el Coliseo Subterráneo."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -606,6 +634,7 @@ msgctxt "1532_Receptionist"
 msgid "This is a compilation of information about tag matches."
 msgstr "Esta es una compilación de información sobre las coincidencias de etiquetas."
 
+#. y4:line_status=translated
 #. y4:msg_type=branch_dialogue
 #. y4:msg_label=Respuesta de rama
 #. y4:msg_section=0
@@ -621,6 +650,7 @@ msgctxt "1556_Receptionist"
 msgid "Thank you. Please come again."
 msgstr "Muchas gracias. Por favor, vuelva otra vez."
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=0
@@ -638,6 +668,7 @@ msgctxt "1568_Receptionist"
 msgid "Fight in a Match"
 msgstr "Pelea en un encuentro"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=0
@@ -655,6 +686,7 @@ msgctxt "1580_Receptionist"
 msgid "Ask about the Coliseum"
 msgstr "Pregunta sobre el coliseo"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=0
@@ -672,6 +704,7 @@ msgctxt "1592_Receptionist"
 msgid "View Fighter Stats"
 msgstr "Ver estadísticas de los peleadores"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=0
@@ -689,6 +722,7 @@ msgctxt "1604_Receptionist"
 msgid "Exchange Points"
 msgstr "Cambiar Puntos"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=0
@@ -706,6 +740,7 @@ msgctxt "1616_Receptionist"
 msgid "Nothing"
 msgstr "Nada"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=1
@@ -723,6 +758,7 @@ msgctxt "1628_Receptionist"
 msgid "The Rules"
 msgstr "Ver Reglas"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=1
@@ -740,6 +776,7 @@ msgctxt "1640_Receptionist"
 msgid "Ask About Popularity"
 msgstr "Preguntar por la Popularidad"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=1
@@ -757,6 +794,7 @@ msgctxt "1652_Receptionist"
 msgid "Ask About Tag Matches"
 msgstr "Pregunte por los Combates en Equipo"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=1
@@ -774,6 +812,7 @@ msgctxt "1664_Receptionist"
 msgid "Back"
 msgstr "Volver"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=2
@@ -791,6 +830,7 @@ msgctxt "1676_Receptionist"
 msgid "Opponent Info"
 msgstr "Información del oponente"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=2
@@ -808,6 +848,7 @@ msgctxt "1688_Receptionist"
 msgid "Fight Stats"
 msgstr "Estadísticas de la pelea"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=1
@@ -825,6 +866,7 @@ msgctxt "1700_Receptionist"
 msgid "Back"
 msgstr "Volver"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=3
@@ -842,6 +884,7 @@ msgctxt "1712_Receptionist"
 msgid "Individual Match Opponent Info"
 msgstr "Información Individual del Oponente"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=3
@@ -859,6 +902,7 @@ msgctxt "1724_Receptionist"
 msgid "Tag Match Opponent Info"
 msgstr "Información del Oponente en Combate por Equipos"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=1
@@ -876,6 +920,7 @@ msgctxt "1736_Receptionist"
 msgid "Back"
 msgstr "Volver"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=0
@@ -893,6 +938,7 @@ msgctxt "1748_Receptionist"
 msgid "Fight in a Match"
 msgstr "Pelea en un encuentro"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=0
@@ -910,6 +956,7 @@ msgctxt "1760_Receptionist"
 msgid "Ask about the Coliseum"
 msgstr "Pregunta sobre el coliseo"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=0
@@ -927,6 +974,7 @@ msgctxt "1772_Receptionist"
 msgid "View Fighter Stats"
 msgstr "Ver estadísticas de los peleadores"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=0
@@ -944,6 +992,7 @@ msgctxt "1784_Receptionist"
 msgid "Exchange Points"
 msgstr "Cambiar Puntos"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=0
@@ -961,6 +1010,7 @@ msgctxt "1796_Receptionist"
 msgid "Nothing"
 msgstr "Nada"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=1
@@ -978,6 +1028,7 @@ msgctxt "1808_Receptionist"
 msgid "The Rules"
 msgstr "Ver Reglas"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=1
@@ -995,6 +1046,7 @@ msgctxt "1820_Receptionist"
 msgid "Ask About Popularity"
 msgstr "Preguntar por la Popularidad"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=1
@@ -1012,6 +1064,7 @@ msgctxt "1832_Receptionist"
 msgid "Ask About Tag Matches"
 msgstr "Pregunte por los Combates en Equipo"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=1
@@ -1029,6 +1082,7 @@ msgctxt "1844_Receptionist"
 msgid "Back"
 msgstr "Volver"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=2
@@ -1046,6 +1100,7 @@ msgctxt "1856_Receptionist"
 msgid "Opponent Info"
 msgstr "Información del oponente"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=2
@@ -1063,6 +1118,7 @@ msgctxt "1868_Receptionist"
 msgid "Fight Stats"
 msgstr "Estadísticas de la pelea"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=1
@@ -1080,6 +1136,7 @@ msgctxt "1880_Receptionist"
 msgid "Back"
 msgstr "Volver"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=3
@@ -1097,6 +1154,7 @@ msgctxt "1892_Receptionist"
 msgid "Individual Match Opponent Info"
 msgstr "Información Individual del Oponente"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=3
@@ -1114,6 +1172,7 @@ msgctxt "1904_Receptionist"
 msgid "Tag Match Opponent Info"
 msgstr "Información del Oponente en Combate por Equipos"
 
+#. y4:line_status=translated
 #. y4:msg_type=choice
 #. y4:msg_label=Opción del jugador
 #. y4:msg_section=1
@@ -1130,3 +1189,4 @@ msgstr "Información del Oponente en Combate por Equipos"
 msgctxt "1916_Receptionist"
 msgid "Back"
 msgstr "Volver"
+

@@ -1,104 +1,73 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee042c.po\n"
-"X-Crowdin-File-ID: 60558\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Keiner
+#. y4:last_translator=Keiner
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "128"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "1780"
 msgid "Open-Minded Man"
 msgstr "Hombre bonachón"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:line_status=translated
 msgctxt "1784"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "1788"
 msgid "Using Items"
 msgstr "Usando objetos"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:line_status=translated
 msgctxt "1792"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Open-Minded Man
-#. y4:msg_speaker_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "56_Open-Minded Man"
 msgid "You there, are you always filling your pockets with stuff you get and throwing them away when you don't need them? How wasteful."
 msgstr "Oye tú, ¿no te pasa que se te llenan los bolsillos de cosas que te regalan y terminas tirándolas porque te estorban? ¡Qué desperdicio!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Using Items
-#. y4:msg_speaker_id=2
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "68_Open-Minded Man"
 msgid "Consumable Items have various effects such as recovery or sobering up, but disappear after being used."
 msgstr "Los objetos consumibles tienen varios efectos, como curación o recuperar la sobriedad. Estos desaparecen tras su uso."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "80_Open-Minded Man"
-msgid "Some items aren't sold at shops or can only be obtained through point exchange.\\r\n"
-"\\r\n"
-"Be sure to regularly purchase consumable items for times you may need them."
-msgstr "Algunos objetos no se venden en las tiendas o solo pueden obtenerse mediante el intercambio de puntos.\\r\n"
-"\\r\n"
-"Asegúrate de comprar regularmente consumibles para casos de emergencia."
+msgid "Some items aren't sold at shops or can only be obtained through point exchange.\\r\n\\r\nBe sure to regularly purchase consumable items for times you may need them."
+msgstr "Algunos objetos no se venden en las tiendas o solo pueden obtenerse mediante el intercambio de puntos.\n\nAsegúrate de comprar regularmente consumibles para casos de emergencia."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "92_Open-Minded Man"
-msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\n"
-"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\n"
-"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\n"
-"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"
-"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nRead <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\nYou can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Open-Minded Man
-#. y4:msg_speaker_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "104_Open-Minded Man"
 msgid "Everything has a soul, so don't waste anything! Now, it's time to down a Tauriner..."
 msgstr "Todo tiene un alma, ¡así que no desperdicies nada! Ahora, es momento de otro Tauriner..."
+

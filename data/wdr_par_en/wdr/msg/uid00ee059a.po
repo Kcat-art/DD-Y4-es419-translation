@@ -1,22 +1,17 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee059a.po\n"
-"X-Crowdin-File-ID: 62894\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_translator=Keiner
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=6
@@ -26,6 +21,7 @@ msgctxt "300"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -33,6 +29,7 @@ msgctxt "2932"
 msgid "Aoki"
 msgstr "Aoki"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -40,6 +37,7 @@ msgctxt "2936"
 msgid "Substories"
 msgstr "Subhistorias"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=6
@@ -51,6 +49,7 @@ msgctxt "240_Aoki"
 msgid "Hey, I'm Aoki. Want to know what's happening around town, or if anyone might need a helping hand? I've got your info hookup."
 msgstr "Hola, me llamo Aoki y soy informante. Puedo contarte sobre los incidentes que ocurren en la ciudad y sobre la gente que necesita ayuda."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=6
@@ -62,6 +61,7 @@ msgctxt "252_Aoki"
 msgid "Discover a different side of the main characters through substories! You can see where these stories start by going to Substories in the Pause Menu."
 msgstr "¡Descubre un lado diferente de los protagonistas a través de las subhistorias! Puedes ver dónde empiezan estas historias yendo a Subhistorias en el Menú de Pausa."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=6
@@ -73,14 +73,13 @@ msgctxt "264_Aoki"
 msgid "Looks like the regulars at this bar know a lot about minor happenings around town. You may want to check in with them every now and then to get new information."
 msgstr "Además, el reportero que es cliente habitual de este bar parece estar bien informado sobre los pequeños incidentes que suceden alrededor de la ciudad. Sería buena idea hablar con él también."
 
+#. y4:line_status=translated
+#. y4:translated_by=Keiner
 msgctxt "276_Aoki"
-msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\n"
-"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\n"
-"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
-msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\\r\n"
-"Lee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\\r\n"
-"Puedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nRead <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\nYou can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=6
@@ -92,6 +91,7 @@ msgctxt "312_Aoki"
 msgid "Looking for hot tips? Let me think..."
 msgstr "¿Buscando algo de info? Déjame ver..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=6
@@ -103,6 +103,7 @@ msgctxt "324_Aoki"
 msgid "%s"
 msgstr "%s"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=6
@@ -114,6 +115,7 @@ msgctxt "336_Aoki"
 msgid "...Sorry, buddy, I've got nothing right now. Check in with me later."
 msgstr "...Lo siento, amigo. No hay nada en este momento."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=7
@@ -125,6 +127,7 @@ msgctxt "348_Aoki"
 msgid "Hey, buddy. Want to know what's happening around town, or if anyone might need a helping hand? I've got your info hookup."
 msgstr "Hey, amigo. Tengo información sobre los incidentes que ocurren en la ciudad y sobre la gente que necesita ayuda. ¿Quieres algo de info?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=6
@@ -136,6 +139,7 @@ msgctxt "360_Aoki"
 msgid "%s"
 msgstr "%s"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=6
@@ -146,3 +150,4 @@ msgstr "%s"
 msgctxt "372_Aoki"
 msgid "...Sorry, buddy, I've got nothing right now. Check in with me later."
 msgstr "...Lo siento, amigo. No hay nada en este momento."
+

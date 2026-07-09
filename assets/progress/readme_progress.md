@@ -3,7 +3,7 @@
 **Progreso global:** 44,90%
 
 **Traducción global:** 92656/105374 (87,93%)
-**Revisión global:** 1963/105374 (1,86%)
+**Revisión global:** 1972/105374 (1,87%)
 
 | Área | Traducción | Revisión |
 |---|---:|---:|

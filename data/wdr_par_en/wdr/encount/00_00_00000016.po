@@ -1,22 +1,16 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/encount/00_00_00000016.po\n"
-"X-Crowdin-File-ID: 57812\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +18,7 @@ msgctxt "1544"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +26,7 @@ msgctxt "1548"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -38,6 +34,7 @@ msgctxt "1552"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=3
@@ -45,6 +42,7 @@ msgctxt "1556"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -56,6 +54,7 @@ msgctxt "116_Man"
 msgid "I've seen you wandering around here lately. Everyone's saying you're a good target, you know?"
 msgstr "Te he visto deambulando por aquí últimamente. Todo el mundo dice que eres un buen objetivo, ¿sabes?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -67,6 +66,7 @@ msgctxt "128_Man"
 msgid "I went outta my way to warn you, so why don't you reward me, huh?"
 msgstr "Me desvié de mi camino para advertirte, así que ¿por qué no me recompensas, eh?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -78,6 +78,7 @@ msgctxt "152_Man"
 msgid "I'm sorry. I'll make sure to tell the other guys around here..."
 msgstr "Lo siento. Me aseguraré de decirle a los otros chicos de por aquí..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -89,6 +90,7 @@ msgctxt "164_Man"
 msgid "Oh uh, I hope this helps you out."
 msgstr "Oh, espero que esto te ayude."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -98,6 +100,7 @@ msgctxt "176_Man"
 msgid "You got a second hand %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -108,3 +111,4 @@ msgstr "Obtuviste un %s."
 msgctxt "212_Man"
 msgid "Looks like we bump into each other often... We've been spreading rumors about you, saying there's a real swell guy around town. Hahaha..."
 msgstr "Parece que nos topamos a menudo... Hemos estado difundiendo rumores sobre ti, comentando que hay un tipo realmente fornido en la ciudad. Ja, ja, ja..."
+

@@ -1,22 +1,16 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/encount/01_04_00000004.po\n"
-"X-Crowdin-File-ID: 57884\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +18,7 @@ msgctxt "1504"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +26,7 @@ msgctxt "1508"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -38,6 +34,7 @@ msgctxt "1512"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=3
@@ -45,6 +42,7 @@ msgctxt "1516"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -56,6 +54,7 @@ msgctxt "116_Man"
 msgid "Listen, can we talk to you for a sec? Won't take but a moment of your time."
 msgstr "Oye, ¿podemos hablar contigo un momento? No te tomará mucho tiempo."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -65,9 +64,9 @@ msgstr "Oye, ¿podemos hablar contigo un momento? No te tomará mucho tiempo."
 #. y4:msg_speaker_id=0
 msgctxt "128_Man"
 msgid "In fact, if you shut up and hand over your cash, you can be on your way in a flash! So cough it up, pal, before we beat it outta you!"
-msgstr "De hecho, si te callas y nos entregas tu dinero, ¡puedes irte en un abrir y cerrar de ojos! ¡Así que suéltalo ya, amigo, antes de que\n"
-"te lo saquemos a golpes!"
+msgstr "De hecho, si te callas y nos entregas tu dinero, ¡puedes irte en un abrir y cerrar de ojos! ¡Así que suéltalo ya, amigo, antes de que\nte lo saquemos a golpes!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -79,6 +78,7 @@ msgctxt "152_Man"
 msgid "Please forgive us. We're very sorry."
 msgstr "Por favor, perdónenos. Lo sentimos mucho."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -90,6 +90,7 @@ msgctxt "164_Man"
 msgid "Here, take this with our apologies for wastin' your time."
 msgstr "Toma, llévate esto con nuestras disculpas por hacerte perder el tiempo."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -99,6 +100,7 @@ msgctxt "176_Man"
 msgid "You got a slim %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -109,3 +111,4 @@ msgstr "Obtuviste un %s."
 msgctxt "212_Man"
 msgid "Please, we don't want any more trouble..."
 msgstr "Por favor, no queremos más problemas..."
+

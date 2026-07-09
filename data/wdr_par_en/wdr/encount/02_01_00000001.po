@@ -1,22 +1,16 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/encount/02_01_00000001.po\n"
-"X-Crowdin-File-ID: 57716\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +18,7 @@ msgctxt "4244"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +26,7 @@ msgctxt "4248"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -38,6 +34,7 @@ msgctxt "4252"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=3
@@ -45,6 +42,7 @@ msgctxt "4256"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=4
@@ -52,6 +50,7 @@ msgctxt "4260"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -63,6 +62,7 @@ msgctxt "128_Man"
 msgid "Hey, mister! Wanna play a game with us? It's a punching bag game!"
 msgstr "¡Oiga, señor! ¿Quieres jugar con nosotros? ¡Es un juego de golpear sacos de boxeo!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -74,6 +74,7 @@ msgctxt "140_Man"
 msgid "I really, really love this game. Ready? Here we go! Oh, did I mention you get to be the punching bag?"
 msgstr "Me gusta mucho este juego, mucho, mucho. ¿Listo? ¡Allá vamos! Ah, ¿mencioné que tú serás el saco de boxeo?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -85,6 +86,7 @@ msgctxt "152_Man"
 msgid "That's a nice jacket you got there. Looks pretty pricey."
 msgstr "Esa chaqueta que llevas está genial. Parece bastante cara."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -96,10 +98,12 @@ msgctxt "164_Man"
 msgid "You must be in the money, huh? How's about you share it with us?"
 msgstr "Debes estar forrado, ¿eh? ¿Qué tal si lo compartes con nosotros?"
 
+#. y4:line_status=translated
 msgctxt "176_Man"
 msgid "Look, pops, this place is for us young guys－not old dudes like you. Catch my drift?"
 msgstr "Mira, viejo, este lugar es para los jóvenes, no para ancianos como tú. ¿Entiendes?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -111,6 +115,7 @@ msgctxt "188_Man"
 msgid "Having grubby old geezers around is a total buzzkill. So to make sure you never come back again, we're gonna beat you to a bloody pulp!"
 msgstr "Tener a viejos mugrientos por aquí arruina el ambiente. Así que, para asegurarnos de que no vuelvas nunca más, ¡te vamos a hacer papilla!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -122,6 +127,7 @@ msgctxt "224_Man"
 msgid "Ow... So that's what a punching bag feels like..."
 msgstr "Uf... Así que así se siente ser un saco de boxeo..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -133,6 +139,7 @@ msgctxt "236_Man"
 msgid "We don't wanna play anymore! Take this. We're sorry for bothering you."
 msgstr "¡Ya no queremos jugar más! Toma esto. Perdón por molestarte."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -142,6 +149,7 @@ msgctxt "248_Man"
 msgid "You got a sparkling %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -153,6 +161,7 @@ msgctxt "272_Man"
 msgid "We're so sorry. We didn't get your jacket dirty, did we?"
 msgstr "Lo sentimos mucho. No ensuciamos tu chaqueta, ¿verdad?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -164,6 +173,7 @@ msgctxt "284_Man"
 msgid "I hope this will make up for our nonsense."
 msgstr "Espero que esto compense nuestra tontería."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -173,6 +183,7 @@ msgctxt "296_Man"
 msgid "You got a piping hot %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -184,6 +195,7 @@ msgctxt "320_Man"
 msgid "*cough* How the hell did you get that strong, pops?"
 msgstr "*tos* ¿Cómo demonios te volviste tan fuerte, viejo?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -195,6 +207,7 @@ msgctxt "332_Man"
 msgid "Sorry for jumping on you like that. We won't be coming back."
 msgstr "Perdón por haberte atacado así. No lo volveremos a hacer más."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -204,6 +217,7 @@ msgctxt "344_Man"
 msgid "You got a salty %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -215,6 +229,7 @@ msgctxt "392_Man"
 msgid "Being a punching bag is no fun at all..."
 msgstr "Ser un saco de boxeo no es divertido..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -226,6 +241,7 @@ msgctxt "404_Man"
 msgid "Hahaha. Those are some pretty snazzy shoes too. Haha."
 msgstr "Ja, ja, ja. Esos zapatos también están bastante elegantes. Ja, ja."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -236,3 +252,4 @@ msgstr "Ja, ja, ja. Esos zapatos también están bastante elegantes. Ja, ja."
 msgctxt "416_Man"
 msgid "I should have watched my mouth. Sorry. We'll just be on our way... after resting up a little."
 msgstr "Debería haber tenido más cuidado con lo que decía. Lo siento. Solo nos iremos después de descansar un poco."
+

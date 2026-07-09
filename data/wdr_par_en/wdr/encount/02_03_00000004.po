@@ -1,22 +1,16 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/encount/02_03_00000004.po\n"
-"X-Crowdin-File-ID: 57906\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +18,7 @@ msgctxt "1412"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +26,7 @@ msgctxt "1416"
 msgid "P_stand_sync_btl_neck_st"
 msgstr "P_stand_sync_btl_neck_st"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -38,6 +34,7 @@ msgctxt "1420"
 msgid "M_ykz_stand_sync_btl_neck_st"
 msgstr "M_ykz_stand_sync_btl_neck_st"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=3
@@ -45,6 +42,7 @@ msgctxt "1424"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -56,6 +54,7 @@ msgctxt "88_Man"
 msgid "You! Stop right there. Congratulations! You've been carefully selected from a crowd of thousands!"
 msgstr "¡Tú! ¡Detente ahí mismo! ¡Felicidades! ¡Has sido cuidadosamente seleccionado de entre miles!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -67,6 +66,7 @@ msgctxt "100_Man"
 msgid "You're the one I'm gonna beat up today! Hooray! Lucky you! C'mon, show some enthusiasm!"
 msgstr "¡Tú eres a quien voy a darle una paliza hoy! ¡Hurra! ¡Qué suerte tienes! Vamos, ¡muestra algo de entusiasmo!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -78,10 +78,12 @@ msgctxt "124_Man"
 msgid "You're strong..."
 msgstr "Eres fuerte..."
 
+#. y4:line_status=translated
 msgctxt "136_Man"
 msgid "No, please－no more. Take this. I'm sorry I messed with you."
 msgstr "No, por favor, ya no más. Toma esto. Lo siento por haberte molestado."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -91,6 +93,7 @@ msgctxt "148_Man"
 msgid "You got a passable %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -101,3 +104,4 @@ msgstr "Obtuviste un %s."
 msgctxt "184_Man"
 msgid "Unh... You don't mess around."
 msgstr "Unh... No te andas con tonterías."
+

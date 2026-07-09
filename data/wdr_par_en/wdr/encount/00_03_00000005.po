@@ -1,22 +1,16 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/encount/00_03_00000005.po\n"
-"X-Crowdin-File-ID: 57866\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +18,7 @@ msgctxt "1412"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +26,7 @@ msgctxt "1416"
 msgid "P_stand_sync_btl_neck_st"
 msgstr "P_stand_sync_btl_neck_st"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -38,6 +34,7 @@ msgctxt "1420"
 msgid "M_ykz_stand_sync_btl_neck_st"
 msgstr "M_ykz_stand_sync_btl_neck_st"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=3
@@ -45,6 +42,7 @@ msgctxt "1424"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=4
@@ -52,6 +50,7 @@ msgctxt "1428"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -63,6 +62,7 @@ msgctxt "88_Man"
 msgid "You're not one of us, are you? Then you better pay the toll."
 msgstr "No eres uno de los nuestros, ¿verdad? Entonces más te vale pagar el peaje."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -74,6 +74,7 @@ msgctxt "100_Man"
 msgid "No? I'll show you what happens to cheap bastards who don't pay!"
 msgstr "¿No quieres? ¡Te mostraré lo que les pasa a los miserables que no pagan!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -85,6 +86,7 @@ msgctxt "124_Man"
 msgid "Ow, that hurt!"
 msgstr "¡Ay, eso dolió!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -96,6 +98,7 @@ msgctxt "136_Man"
 msgid "P-Please! I made it up! There's no toll! I'm real sorry. Here, you can keep this, all right?"
 msgstr "¡Po-por favor! ¡Lo inventé! ¡No hay peaje! Lo siento mucho. Toma, puedes quedarte con esto."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -105,6 +108,7 @@ msgctxt "148_Man"
 msgid "You got a traditional %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -115,3 +119,4 @@ msgstr "Obtuviste un %s."
 msgctxt "184_Man"
 msgid "There never was any toll. Sorry about that..."
 msgstr "Nunca hubo un peaje. De verdad lo siento..."
+

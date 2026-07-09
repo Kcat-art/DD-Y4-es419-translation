@@ -1,22 +1,16 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/encount/00_04_00000001.po\n"
-"X-Crowdin-File-ID: 57710\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +18,7 @@ msgctxt "4228"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +26,7 @@ msgctxt "4232"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -38,6 +34,7 @@ msgctxt "4236"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=3
@@ -45,6 +42,7 @@ msgctxt "4240"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=4
@@ -52,6 +50,7 @@ msgctxt "4244"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=5
@@ -59,6 +58,7 @@ msgctxt "4248"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -70,6 +70,7 @@ msgctxt "128_Man"
 msgid "Look at you, walkin' around like you own the place! And in front of us, no less!"
 msgstr "¡Mírate, caminando como si fueras el dueño del lugar! ¡Y delante de nosotros, para colmo!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -81,6 +82,7 @@ msgctxt "140_Man"
 msgid "You better apologize! Say you're lower than the dog shit on my shoe! Say it, or I'll beat the everlovin' life outta ya!"
 msgstr "¡Más te vale disculparte! ¡Di que eres peor que la mierda de perro en mi zapato! ¡Dilo, o te voy a dar una paliza!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -92,6 +94,7 @@ msgctxt "152_Man"
 msgid "Wait up! I heard you did a number on one of my boys the other day."
 msgstr "¡Espera! Escuché que le diste una paliza a uno de mis chicos el otro día."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -103,6 +106,7 @@ msgctxt "164_Man"
 msgid "Well, I'm about to repay you... with 100 times the hurt!"
 msgstr "Bueno, estoy a punto de devolvértelo... ¡con 100 veces más dolor!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -114,6 +118,7 @@ msgctxt "176_Man"
 msgid "You sure are muscular. You play any sports?"
 msgstr "Eres muy musculoso. ¿Practicas algún deporte?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -125,6 +130,7 @@ msgctxt "188_Man"
 msgid "I'm a weakling. They bully me all the time. But maybe you can teach me how to fight!"
 msgstr "Soy un debilucho. Me acosan todo el tiempo. ¡Pero tal vez puedas enseñarme a pelear!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -136,6 +142,7 @@ msgctxt "224_Man"
 msgid "I'm so, so sorryyy!"
 msgstr "¡Lo siento muchísimo!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -147,6 +154,7 @@ msgctxt "236_Man"
 msgid "I'm lower than the dog shit on your shoe! Here! Take this to make up for my insolence!"
 msgstr "¡Soy peor que la mierda de perro en tu zapato! ¡Ten! ¡Toma esto para compensar mi insolencia!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -156,6 +164,7 @@ msgctxt "248_Man"
 msgid "You got an insolent %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -167,6 +176,7 @@ msgctxt "272_Man"
 msgid "Urgh. Looks like I got that 100-fold payback. I'll have to repay you 1,000 times that now!"
 msgstr "Ugh. Parece que recibí ese pago 100 veces. ¡Ahora tendré que pagarte 1.000 veces más!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -178,6 +188,7 @@ msgctxt "284_Man"
 msgid "Wait... How much would that be... Shoot."
 msgstr "Espera... ¿Cuánto sería eso? Mierda..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -187,6 +198,7 @@ msgctxt "296_Man"
 msgid "You got an unimpressive %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -198,6 +210,7 @@ msgctxt "320_Man"
 msgid "I think I got the general idea of how to fight now. Forgive me for bothering you."
 msgstr "Creo que ya me hice una idea de cómo pelear. Perdóname por molestarte."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -209,6 +222,7 @@ msgctxt "332_Man"
 msgid "Here's a token of my thanks. It's yours to keep."
 msgstr "Toma tienes un símbolo de mi agradecimiento. Es tuyo para que lo conserves."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -218,6 +232,7 @@ msgctxt "344_Man"
 msgid "You got a nice %s. For keeps."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -229,6 +244,7 @@ msgctxt "392_Man"
 msgid "I'm still lower than the dog shit on your shoe!"
 msgstr "¡Sigo siendo peor que la mierda de perro en tu zapato!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -240,6 +256,7 @@ msgctxt "404_Man"
 msgid "1,000 times, 100 times. That works out to be... Let's see... Huh? Wait a minute..."
 msgstr "1,000 veces, 100 veces. Eso equivale a... Vamos a ver... ¿Eh? Espera un segundo..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -250,3 +267,4 @@ msgstr "1,000 veces, 100 veces. Eso equivale a... Vamos a ver... ¿Eh? Espera un
 msgctxt "416_Man"
 msgid "I thought I had that one in the bag."
 msgstr "Creía que ya lo tenía controlado."
+

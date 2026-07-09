@@ -1,22 +1,16 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/encount/00_03_00000001.po\n"
-"X-Crowdin-File-ID: 57724\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +18,7 @@ msgctxt "4032"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +26,7 @@ msgctxt "4036"
 msgid "P_stand_sync_btl_neck_st"
 msgstr "P_stand_sync_btl_neck_st"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -38,6 +34,7 @@ msgctxt "4040"
 msgid "M_ykz_stand_sync_btl_neck_st"
 msgstr "M_ykz_stand_sync_btl_neck_st"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=3
@@ -45,6 +42,7 @@ msgctxt "4044"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=4
@@ -52,6 +50,7 @@ msgctxt "4048"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=5
@@ -59,6 +58,7 @@ msgctxt "4052"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -70,6 +70,7 @@ msgctxt "100_Man"
 msgid "Hey, hold up there, asshole!"
 msgstr "Ey, espera, ¡gilipollas!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -81,6 +82,7 @@ msgctxt "112_Man"
 msgid "Think ya can ignore me and walk away!? Ya better bow yer fuckin' head when ya see me, or yer gonna get fucked up!"
 msgstr "¡¿Crees que puedes ignorarme y marcharte así sin más?! ¡Será mejor que inclines tu maldita cabeza cuando me veas, o te golpearan!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -92,6 +94,7 @@ msgctxt "124_Man"
 msgid "Gotcha! Sorry, but you're not going to be able to go home today. I hope you understand."
 msgstr "¡Entendido! Lo siento, pero hoy no podrás volver a casa. Espero que lo entiendas."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -103,6 +106,7 @@ msgctxt "136_Man"
 msgid "Don't worry, you'll be fine. We even got a place for you to sleep and all. Anyway... Nighty night, sucker!"
 msgstr "No te preocupes, estarás bien. Incluso tenemos un lugar para que duermas y todo. En fin... ¡Buenas noches, imbécil!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -114,6 +118,7 @@ msgctxt "148_Man"
 msgid "Yo, geezer! You just insulted me, didn't you!? You better show me some respect!"
 msgstr "Oye, viejo! Me acabas de insultar, ¿no? ¡Será mejor que me muestres un poco de respeto!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -125,6 +130,7 @@ msgctxt "160_Man"
 msgid "You think you can look down on me? I'm gonna knock you out for pissing me off!"
 msgstr "¿Crees que puedes menospreciarme? ¡Te voy a noquear por eso!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -136,6 +142,7 @@ msgctxt "196_Man"
 msgid "Aaaaagh! Sorry! No more...!"
 msgstr "¡Aaaaagh! ¡Perdón! ¡No más...!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -147,6 +154,7 @@ msgctxt "208_Man"
 msgid "I get it now. I'm the one that's gotta bow their head... Lemme off the hook with this, won't ya...?"
 msgstr "Lo entiendo ahora. Soy yo el que tiene que inclinar la cabeza... Déjame librarme con esto, ¿no...?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -156,6 +164,7 @@ msgctxt "220_Man"
 msgid "You got a cool-looking %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -167,6 +176,7 @@ msgctxt "244_Man"
 msgid "Ow ow... What's with this guy? He doesn't even look that strong..."
 msgstr "Ay, ay... ¿Qué le pasa a este tipo? Ni siquiera parece tan fuerte..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -178,6 +188,7 @@ msgctxt "256_Man"
 msgid "Aw shit. Looks like you won... this time."
 msgstr "Oh mierda. Parece que has ganado... por ahora."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -187,6 +198,7 @@ msgctxt "268_Man"
 msgid "You got a halfway decent %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -198,6 +210,7 @@ msgctxt "292_Man"
 msgid "Sorry, I guess I got carried away..."
 msgstr "Lo siento, creo que me dejé llevar..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -209,6 +222,7 @@ msgctxt "304_Man"
 msgid "I'll give you this. Please forgive me..."
 msgstr "Te daré esto, por favor perdóname..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -218,6 +232,7 @@ msgctxt "316_Man"
 msgid "You got an adequate %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -229,6 +244,7 @@ msgctxt "364_Man"
 msgid "No more...!"
 msgstr "No más...!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -240,6 +256,7 @@ msgctxt "376_Man"
 msgid "Damn..."
 msgstr "Maldición..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -250,3 +267,4 @@ msgstr "Maldición..."
 msgctxt "388_Man"
 msgid "Should I give you more...?"
 msgstr "¿Debería darte más...?"
+

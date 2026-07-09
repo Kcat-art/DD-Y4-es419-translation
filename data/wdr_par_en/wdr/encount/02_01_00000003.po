@@ -1,22 +1,16 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/encount/02_01_00000003.po\n"
-"X-Crowdin-File-ID: 57676\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +18,7 @@ msgctxt "5652"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +26,7 @@ msgctxt "5656"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -38,6 +34,7 @@ msgctxt "5660"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=3
@@ -45,10 +42,12 @@ msgctxt "5664"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "128_Man"
 msgid "There ain't been nothin' good goin' on in my life. But you－you look like you got it made. That ain't too cool, pal."
 msgstr "No me ha pasado nada bueno en mi vida últimamente. Pero tú... parece que lo tienes todo. Eso no está bien, amigo."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -60,6 +59,7 @@ msgctxt "140_Man"
 msgid "No, that ain't cool at all. And you know what I do with guys who ain't cool? I smack 'em around. Which means your number's up, pal!"
 msgstr "¡Eso no está nada bien! ¿Y sabes qué hago con los que no me caen bien? ¡Les doy una paliza! Así que prepárate, amigo, ¡te llegó la hora!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -71,6 +71,7 @@ msgctxt "152_Man"
 msgid "Say, are you a yakuza? I ask 'cause I'm picking up a strong high-and-mighty vibe from you."
 msgstr "¿Dime, eres un yakuza? Lo pregunto porque estás dando una vibra de superioridad muy fuerte."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -82,6 +83,7 @@ msgctxt "164_Man"
 msgid "How about showing me just how strong you yakuza types really are?"
 msgstr "¿Por qué no me muestras qué tan fuertes son realmente los de tu tipo, eh, yakuza?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -93,6 +95,7 @@ msgctxt "176_Man"
 msgid "Heheh. I'm in a bit of a pinch. Running low on money to paint the town red, y'see."
 msgstr "Je, je. Estoy en un pequeño aprieto. Me estoy quedando sin dinero para salir a pintar la ciudad de rojo, ¿sabes?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -102,9 +105,9 @@ msgstr "Je, je. Estoy en un pequeño aprieto. Me estoy quedando sin dinero para 
 #. y4:msg_speaker_id=0
 msgctxt "188_Man"
 msgid "You're that moneylender they talk about, aren't you? Why not lend me some, then? Too bad I'm never going to pay you back, though!"
-msgstr "Así que tú eres ese prestamista del que hablan, ¿no? ¿Por qué no me prestas algo, entonces? Aunque qué lástima, ¡nunca te lo voy\n"
-"a devolver!"
+msgstr "Así que tú eres ese prestamista del que hablan, ¿no? ¿Por qué no me prestas algo, entonces? Aunque qué lástima, ¡nunca te lo voy\na devolver!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -116,6 +119,7 @@ msgctxt "200_Man"
 msgid "Hey, shithead! You got us good last time! And don't even pretend you forgot!"
 msgstr "¡Oye, imbécil! ¡Nos jodiste bien la última vez! ¡Y ni te atrevas a hacerte el que no te acuerdas!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -125,9 +129,9 @@ msgstr "¡Oye, imbécil! ¡Nos jodiste bien la última vez! ¡Y ni te atrevas a 
 #. y4:msg_speaker_id=0
 msgctxt "212_Man"
 msgid "Today's the day I pound your sorry ass into oblivion. Brace yourself for the beating of a lifetime."
-msgstr "Hoy es el día en que te voy a darle una paliza de la que no te vas a recuperar. Prepárate para la paliza\n"
-"de tu vida."
+msgstr "Hoy es el día en que te voy a darle una paliza de la que no te vas a recuperar. Prepárate para la paliza\nde tu vida."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -139,6 +143,7 @@ msgctxt "248_Man"
 msgid "P-Please stop! I'm sorry!"
 msgstr "¡P-Por favor, para! ¡Lo siento!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -150,6 +155,7 @@ msgctxt "260_Man"
 msgid "I'll watch what I say from now on! Take this and forget it ever happened!"
 msgstr "¡Cuidaré lo que digo de ahora en adelante! ¡Toma esto y olvida que alguna vez pasó!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -159,6 +165,7 @@ msgctxt "272_Man"
 msgid "You got a strangely small %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -170,6 +177,7 @@ msgctxt "296_Man"
 msgid "Whoa, you really are strong..."
 msgstr "Guau, eres realmente fuerte..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -181,6 +189,7 @@ msgctxt "308_Man"
 msgid "I better not mess with any more yakuza. Oh, here. This is yours."
 msgstr "Será mejor que no me meta con más yakuzas. Oh, Toma. Esto es tuyo."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -190,6 +199,7 @@ msgctxt "320_Man"
 msgid "You got a crusty %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -201,6 +211,7 @@ msgctxt "344_Man"
 msgid "Ow, ow, ow... Shit, man. You coulda gone easier on me."
 msgstr "¡Ay, ay, ay... Mierda, amigo! Podrías haber sido un poco más suave conmigo."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -212,6 +223,7 @@ msgctxt "356_Man"
 msgid "Okay, so I lost this round. Just take this and scram already!"
 msgstr "Está bien, perdí esta ronda. ¡Solo toma esto y vete ya!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -221,6 +233,7 @@ msgctxt "368_Man"
 msgid "You got a phosphorescent %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -232,10 +245,12 @@ msgctxt "392_Man"
 msgid "That was the beating of a lifetime, all right..."
 msgstr "Esa fue la paliza de mi vida, de acuerdo..."
 
+#. y4:line_status=translated
 msgctxt "404_Man"
 msgid "Please－forgive me! I'll never pick a fight with you again!"
 msgstr "¡Por favor, perdóname! ¡Nunca más me meteré en una pelea contigo!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -245,6 +260,7 @@ msgctxt "416_Man"
 msgid "You got a questionable %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -256,6 +272,7 @@ msgctxt "464_Man"
 msgid "Man... This just isn't my week..."
 msgstr "Hombre... Esta no es mi semana..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -267,6 +284,7 @@ msgctxt "476_Man"
 msgid "What organization do you belong to? Wonder if the others have any weaker guys?"
 msgstr "¿A qué organización perteneces? Me pregunto si los demás tienen tipos más débiles."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -278,6 +296,7 @@ msgctxt "488_Man"
 msgid "I'll be repaying you, all right, so you'd better watch your back."
 msgstr "Te devolveré el favor, así que más te vale estar alerta."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -288,3 +307,4 @@ msgstr "Te devolveré el favor, así que más te vale estar alerta."
 msgctxt "500_Man"
 msgid "Did you study martial arts or what, pops?"
 msgstr "¿Estudiaste artes marciales o qué, abuelo?"
+

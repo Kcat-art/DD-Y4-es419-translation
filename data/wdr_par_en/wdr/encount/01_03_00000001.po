@@ -1,22 +1,16 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/encount/01_03_00000001.po\n"
-"X-Crowdin-File-ID: 57706\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +18,7 @@ msgctxt "4288"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +26,7 @@ msgctxt "4292"
 msgid "P_stand_sync_btl_neck_st"
 msgstr "P_stand_sync_btl_neck_st"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -38,6 +34,7 @@ msgctxt "4296"
 msgid "M_ykz_stand_sync_btl_neck_st"
 msgstr "M_ykz_stand_sync_btl_neck_st"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=3
@@ -45,6 +42,7 @@ msgctxt "4300"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=4
@@ -52,6 +50,7 @@ msgctxt "4304"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=5
@@ -59,6 +58,7 @@ msgctxt "4308"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -70,6 +70,7 @@ msgctxt "100_Man"
 msgid "Wait a minute, mister. Who gave you permission to come this way?"
 msgstr "Un momento, señor. ¿Quién le dio permiso para pasar por aquí?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -81,6 +82,7 @@ msgctxt "112_Man"
 msgid "It's called a toll, and you need to pay it. Now. C'mon, pay up or prepare for some bruising!"
 msgstr "Se llama peaje, y tienes que pagarlo. Ahora. ¡Vamos, paga o prepárate para algunos moretones!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -92,6 +94,7 @@ msgctxt "124_Man"
 msgid "Stop right there! Can't ya see you stepped on my freakin' foot, buddy?"
 msgstr "¡Alto ahí! ¿No ves que me has pisado, colega?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -101,9 +104,9 @@ msgstr "¡Alto ahí! ¿No ves que me has pisado, colega?"
 #. y4:msg_speaker_id=0
 msgctxt "136_Man"
 msgid "Now I'm all injured and stuff! 'Fraid I'm gonna have to ask you to pay me for the pain and sufferin'. So, gimme your wallet!"
-msgstr "¡Ahora estoy todo lastimado y eso! Me temo que voy a tener que pedirte que me pagues por el dolor y el sufrimiento.\n"
-"Así que, ¡dame tu billetera!"
+msgstr "¡Ahora estoy todo lastimado y eso! Me temo que voy a tener que pedirte que me pagues por el dolor y el sufrimiento.\nAsí que, ¡dame tu billetera!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -115,6 +118,7 @@ msgctxt "148_Man"
 msgid "Hey! Who told you you could use this road? No one passes through here without my say-so!"
 msgstr "¡Oye! ¿Quién te dijo que podías usar este camino? ¡Nadie pasa por aquí sin mi permiso!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -126,6 +130,7 @@ msgctxt "160_Man"
 msgid "You didn't know? That's a sorry-ass excuse. Now pay up or get out!"
 msgstr "¿No lo sabías? Esa es una excusa lamentable. ¡Ahora paga o lárgate!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -137,6 +142,7 @@ msgctxt "196_Man"
 msgid "I'm sorry! The toll? What toll? There's no toll. Hahaha!"
 msgstr "¡Lo siento! ¿Peaje? ¿Qué peaje? No hay peaje. ¡Ja, ja, ja!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -148,6 +154,7 @@ msgctxt "208_Man"
 msgid "This won't make up for much, but please take it."
 msgstr "Esto no compensará mucho, pero por favor, tómalo."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -157,6 +164,7 @@ msgctxt "220_Man"
 msgid "You got an unappetizing %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -168,6 +176,7 @@ msgctxt "244_Man"
 msgid "Now I'm really all injured and stuff. Pretty badly too, from the looks of it."
 msgstr "Ahora sí que estoy lesionado y eso. Bastante mal también, por lo que parece."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -177,9 +186,9 @@ msgstr "Ahora sí que estoy lesionado y eso. Bastante mal también, por lo que p
 #. y4:msg_speaker_id=0
 msgctxt "256_Man"
 msgid "But I'm sturdier'n I look, so don't waste time worryin' about me. Hahaha. Here, you can have this."
-msgstr "Pero soy más fuerte de lo que parezco, así que no pierdas el tiempo preocupándote por mí. Ja, ja, ja.\n"
-"Toma, puede tener esto."
+msgstr "Pero soy más fuerte de lo que parezco, así que no pierdas el tiempo preocupándote por mí. Ja, ja, ja.\nToma, puede tener esto."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -189,6 +198,7 @@ msgctxt "268_Man"
 msgid "You got a mediocre %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -200,6 +210,7 @@ msgctxt "292_Man"
 msgid "I'm sorry I said such crazy things..."
 msgstr "Siento haber dicho esas locuras..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -211,6 +222,7 @@ msgctxt "304_Man"
 msgid "This is for your trouble. Please accept it."
 msgstr "Esto es por las molestias. Por favor, acéptelo."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -220,6 +232,7 @@ msgctxt "316_Man"
 msgid "You got a beauteous %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -231,6 +244,7 @@ msgctxt "364_Man"
 msgid "You can come and go as you please..."
 msgstr "Puedes entrar y salir cuando quieras..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -242,6 +256,7 @@ msgctxt "376_Man"
 msgid "What do you want? And why are you still here?"
 msgstr "¿Qué es lo que quieres? ¿Y por qué sigues aquí?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -252,3 +267,4 @@ msgstr "¿Qué es lo que quieres? ¿Y por qué sigues aquí?"
 msgctxt "388_Man"
 msgid "Ouch... you sure are strong, pops."
 msgstr "Ouch... sí que eres fuerte, abuelo."
+

@@ -1,22 +1,15 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee0031.po\n"
-"X-Crowdin-File-ID: 58404\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +17,8 @@ msgctxt "2384"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +26,7 @@ msgctxt "2388"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -38,6 +34,7 @@ msgctxt "2392"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=3
@@ -45,6 +42,7 @@ msgctxt "2396"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=4
@@ -52,6 +50,7 @@ msgctxt "2400"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -63,10 +62,12 @@ msgctxt "156_Tanimura"
 msgid "Excuse me, I'd like to pass through here."
 msgstr "Disculpe, quiero pasar por aquí."
 
+#. y4:line_status=translated
 msgctxt "168_Man"
 msgid "這里是進入禁止。"
 msgstr "這里是進入禁止。"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -78,6 +79,7 @@ msgctxt "180_Tanimura"
 msgid "(Doesn't look like he understands Japanese.)"
 msgstr "(Creo que no entiende japonés)."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -89,6 +91,7 @@ msgctxt "192_Tanimura"
 msgid "\"Excuse me, are you Chinese? I'm a policeman. Could you let me through?\""
 msgstr "\"Disculpe, ¿es chino? Soy policía, ¿me podría dejar pasar?\""
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -100,6 +103,7 @@ msgctxt "204_Man"
 msgid "\"Go right ahead.\""
 msgstr "\"Adelante\"."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=4
@@ -111,6 +115,7 @@ msgctxt "264_Kiryu"
 msgid "Hey, could you move?"
 msgstr "Oiga, ¿podría moverse?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=4
@@ -122,6 +127,7 @@ msgctxt "276_Akiyama"
 msgid "Hey there. Think you could move out of my way?"
 msgstr "Disculpe. ¿Podría dejarme pasar?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=4
@@ -133,6 +139,7 @@ msgctxt "288_Saejima"
 msgid "Hey, you're in my way."
 msgstr "Oye, estás en mi camino."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=4
@@ -144,10 +151,12 @@ msgctxt "300_Tanimura"
 msgid "This place definitely wouldn't have been chosen."
 msgstr "Este lugar definitivamente no habría sido elegido."
 
+#. y4:line_status=translated
 msgctxt "312_Man"
 msgid "這里是進入禁止。"
 msgstr "這里是進入禁止。"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=4
@@ -159,6 +168,7 @@ msgctxt "336_Kiryu"
 msgid "(A foreigner... Doesn't look like he understands Japanese, or wants to let me through.)"
 msgstr "(Un extranjero... No parece que entienda japonés o que me vaya a dejar pasar)."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=4
@@ -170,6 +180,7 @@ msgctxt "348_Akiyama"
 msgid "(Doesn't look like he speaks Japanese, or wants to let me through.)"
 msgstr "(No parece que entienda japonés o que me vaya a dejar pasar)."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=4
@@ -181,6 +192,7 @@ msgctxt "360_Saejima"
 msgid "(Doesn't look like he's gonna let me through. Best to avoid causin' trouble.)"
 msgstr "(No parece que me vaya a dejar pasar. Mejor me evito problemas)."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=4
@@ -191,3 +203,4 @@ msgstr "(No parece que me vaya a dejar pasar. Mejor me evito problemas)."
 msgctxt "372_Tanimura"
 msgid "This place definitely wouldn't have been chosen."
 msgstr "Este lugar definitivamente no habría sido elegido."
+

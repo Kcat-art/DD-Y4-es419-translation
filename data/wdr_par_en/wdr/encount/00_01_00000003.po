@@ -1,22 +1,16 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/encount/00_01_00000003.po\n"
-"X-Crowdin-File-ID: 57748\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +18,7 @@ msgctxt "2788"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +26,7 @@ msgctxt "2792"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -38,6 +34,7 @@ msgctxt "2796"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -49,6 +46,7 @@ msgctxt "128_Man"
 msgid "I'm real pissed off right now...! I don't care who they are, I just wanna punch someone!"
 msgstr "¡Estoy muy enojado ahora mismo...! ¡No me importa quién sea, solo quiero golpear a alguien!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -60,6 +58,7 @@ msgctxt "140_Man"
 msgid "You look like you could take a few punches... All right, I'm gonna punch the shit outta you!"
 msgstr "Parece que puedes soportar unos cuantos puñetazos... Perfecto, te daré una ¡paliza!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -71,6 +70,7 @@ msgctxt "152_Man"
 msgid "The hell you doing in my territory, old man!"
 msgstr "Que cojones haces enmi territorio, ¡viejo!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -82,6 +82,7 @@ msgctxt "164_Man"
 msgid "Think you can fuck around like this? I'm gonna tear you apart!"
 msgstr "¿Crees que puedes hacer el tonto? ¡Te voy a destrozar!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -93,6 +94,7 @@ msgctxt "200_Man"
 msgid "Gaaaah... Ouch..."
 msgstr "Gaaaah... Ouch..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -104,6 +106,7 @@ msgctxt "212_Man"
 msgid "I'm sorry! I took my anger out on you for no reason...! I'm cooled off now, here, take this...!"
 msgstr "¡Lo lamento! ¡Descargué mi enojo contigo sin razón...! ¡Ya me he calmado, toma, toma esto...!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -113,6 +116,7 @@ msgctxt "224_Man"
 msgid "You got a cooled-off %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -124,6 +128,7 @@ msgctxt "248_Man"
 msgid "Sorry. I got too cocky..."
 msgstr "Lo siento. Me volví demasiado arrogante..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -135,6 +140,7 @@ msgctxt "260_Man"
 msgid "Here's something for your troubles. Please take it."
 msgstr "Aquí tienes algo para tus problemas. Por favor tómalo."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -144,6 +150,7 @@ msgctxt "272_Man"
 msgid "You got a musical %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -155,6 +162,7 @@ msgctxt "320_Man"
 msgid "Man, why was I even pissed off in the first place? I'm in so much pain, I can't remember..."
 msgstr "Hombre, ¿por qué estaba enojado en primer lugar? Me duele tanto que no lo puedo recordar..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -165,3 +173,4 @@ msgstr "Hombre, ¿por qué estaba enojado en primer lugar? Me duele tanto que no
 msgctxt "332_Man"
 msgid "I hope you'll treat them well from now on."
 msgstr "Espero que los trates bien a partir de ahora."
+

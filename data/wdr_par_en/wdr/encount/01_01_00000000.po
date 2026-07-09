@@ -1,22 +1,16 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/encount/01_01_00000000.po\n"
-"X-Crowdin-File-ID: 57950\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +18,7 @@ msgctxt "1492"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +26,7 @@ msgctxt "1496"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -38,10 +34,12 @@ msgctxt "1500"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=translated
 msgctxt "116_Man"
 msgid "I know I told you to wait－aren't you listenin' to me? Hang on a sec. That look on your face."
 msgstr "Sé que te dije que esperaras, ¿acaso no me estás escuchando? Espera un momento. Esa expresión en tu cara."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -53,6 +51,7 @@ msgctxt "128_Man"
 msgid "I thought maybe I'd forgive you if the price was right, but I changed my mind. First I'll kick your ass, <Italic>then</Italic> I'll take your money!"
 msgstr "Pensé que tal vez te perdonaría si el precio era el correcto, pero cambié de opinión. ¡Primero te daré una paliza y <Italic>luego</Italic> te quitaré tu dinero!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -64,6 +63,7 @@ msgctxt "152_Man"
 msgid "Please forgive me!"
 msgstr "¡Perdóname por favor!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -75,6 +75,7 @@ msgctxt "164_Man"
 msgid "I'm sorry! Here, this is for you..."
 msgstr "¡Lo siento! Toma, esto es para ti..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -84,6 +85,7 @@ msgctxt "176_Man"
 msgid "You got an agreeable %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -94,3 +96,4 @@ msgstr "Obtuviste un %s."
 msgctxt "212_Man"
 msgid "Aw, crap! No please forgive me!"
 msgstr "¡Mierda! ¡No, por favor, perdóname!"
+

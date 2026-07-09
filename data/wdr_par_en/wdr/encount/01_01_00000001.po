@@ -1,22 +1,16 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/encount/01_01_00000001.po\n"
-"X-Crowdin-File-ID: 57726\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +18,7 @@ msgctxt "4200"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +26,7 @@ msgctxt "4204"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -38,10 +34,12 @@ msgctxt "4208"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=translated
 msgctxt "128_Man"
 msgid "I know I told you to wait－aren't you listenin' to me? Hang on a sec. That look on your face."
 msgstr "Sé que te dije que esperaras, ¿acaso no me estás escuchando? Espera un momento. Esa expresión en tu cara."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -53,10 +51,12 @@ msgctxt "140_Man"
 msgid "I thought maybe I'd forgive you if the price was right, but I changed my mind. First I'll kick your ass, <Italic>then</Italic> I'll take your money!"
 msgstr "Pensé que tal vez te perdonaría si el precio era el correcto, pero cambié de opinión. ¡Primero te daré una paliza y <Italic>luego</Italic> te quitaré tu dinero!"
 
+#. y4:line_status=translated
 msgctxt "152_Man"
 msgid "Take one look at me and you know right away who I am, right? I'm a yakuza－a yakuza!"
 msgstr "Mírame y sabrás de inmediato quién soy, ¡Soy un yakuza, un yakuza!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -68,6 +68,7 @@ msgctxt "164_Man"
 msgid "Piss me off and you'll live to regret it. That being said, this is where you hand over your wallet like a good boy!"
 msgstr "Hazme enojar y lo lamentarás. Dicho esto, ¡es aquí donde entregas tu billetera como un buen chico!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -79,6 +80,7 @@ msgctxt "176_Man"
 msgid "Yo yo yo, pops! You've been dealing out a lot of hurt lately."
 msgstr "¡Oye, oye, viejo! Has estado causando mucho daño últimamente."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=1
@@ -90,6 +92,7 @@ msgctxt "188_Man"
 msgid "Now it's time for some payback. With 100 times the interest!"
 msgstr "Ahora es el momento de pagar. ¡Con 100 veces más intereses!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -101,6 +104,7 @@ msgctxt "224_Man"
 msgid "Please forgive me!"
 msgstr "¡Perdóname por favor!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -112,6 +116,7 @@ msgctxt "236_Man"
 msgid "I'm sorry! Here, this is for you..."
 msgstr "¡Lo siento! Toma, esto es para ti..."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -121,6 +126,7 @@ msgctxt "248_Man"
 msgid "You got a premium %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -132,6 +138,7 @@ msgctxt "272_Man"
 msgid "Aren't you afraid of fighting a yakuza? You must really be the baddest of the bad."
 msgstr "¿No tienes miedo de pelear contra un yakuza? Debes ser el más rudo de todos."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -143,6 +150,7 @@ msgctxt "284_Man"
 msgid "I'm just the low man on the totem pole. I don't have much, but will you accept this and forgive me for bothering you?"
 msgstr "Soy solo un pelagatos. No tengo mucho, pero ¿aceptarías esto y me perdonarías por molestarte?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -152,6 +160,7 @@ msgctxt "296_Man"
 msgid "You got a miraculous %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -163,6 +172,7 @@ msgctxt "320_Man"
 msgid "Ow ow ow... please, no more."
 msgstr "¡Ay, ay, ay... por favor, ya no más!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -174,6 +184,7 @@ msgctxt "332_Man"
 msgid "That's enough for today. Take this and forgive me and my big mouth!"
 msgstr "Es suficiente por hoy. ¡Toma esto y perdóname a mí y a mi bocota!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=2
@@ -183,6 +194,7 @@ msgctxt "344_Man"
 msgid "You got a well-deserved %s."
 msgstr "Obtuviste un %s."
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -194,6 +206,7 @@ msgctxt "392_Man"
 msgid "Aw, crap! No please forgive me!"
 msgstr "¡Mierda! ¡No, por favor, perdóname!"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -205,6 +218,7 @@ msgctxt "404_Man"
 msgid "Er... mind if I ask your name?"
 msgstr "Eh... ¿te importa si te pregunto tu nombre?"
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=3
@@ -215,3 +229,4 @@ msgstr "Eh... ¿te importa si te pregunto tu nombre?"
 msgctxt "416_Man"
 msgid "You'll pay for this, you old fart!"
 msgstr "¡Pagarás por esto, viejo chocho!"
+

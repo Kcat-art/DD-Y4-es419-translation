@@ -1,22 +1,16 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00130412.po\n"
-"X-Crowdin-File-ID: 62124\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=0
@@ -24,6 +18,7 @@ msgctxt "5384"
 msgid "Man"
 msgstr "Hombre"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=1
@@ -31,6 +26,7 @@ msgctxt "5388"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=2
@@ -38,6 +34,7 @@ msgctxt "5392"
 msgid "Sodachi"
 msgstr "Sodachi"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=3
@@ -45,6 +42,7 @@ msgctxt "5396"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=4
@@ -52,6 +50,7 @@ msgctxt "5400"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=5
@@ -59,6 +58,7 @@ msgctxt "5404"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=6
@@ -66,6 +66,7 @@ msgctxt "5408"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=7
@@ -73,6 +74,7 @@ msgctxt "5412"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=8
@@ -80,6 +82,7 @@ msgctxt "5416"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=todo
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=9
@@ -87,6 +90,7 @@ msgctxt "5420"
 msgid "Ehama"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=10
@@ -94,6 +98,7 @@ msgctxt "5424"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:line_status=translated
 #. y4:msg_type=id
 #. y4:msg_label=Nombre interno
 #. y4:msg_id_index=11
@@ -101,6 +106,7 @@ msgctxt "5428"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -112,6 +118,7 @@ msgctxt "68_Man"
 msgid "Excuse me... Is this where I can find the Sodachi Dojo?"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -123,6 +130,7 @@ msgctxt "92_Sodachi"
 msgid "Yes. Can I help you with something? If you're selling newspapers, we're not interested."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -134,6 +142,7 @@ msgctxt "104_Man"
 msgid "I'm not selling anything... I came to ask if I could be an apprentice at this dojo. Do you have any room?"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -145,6 +154,7 @@ msgctxt "116_Sodachi"
 msgid "An a... a... apprentice!? Saejima-san! Did you hear that!? We got our second apprentice!"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -156,6 +166,7 @@ msgctxt "128_Saejima"
 msgid "Oh? What's yer name?"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -167,6 +178,7 @@ msgctxt "140_Man"
 msgid "I'm Takehiro Ehama. I worked in an office until a little while ago. I'm embarrassed to say it, but I have no fighting experience."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -178,6 +190,7 @@ msgctxt "152_Sodachi"
 msgid "That's no problem at all! I don't have any either!"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -189,6 +202,7 @@ msgctxt "164_Ehama"
 msgid "What? Are you joking? I'm beginning to have second thoughts about this place..."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -200,6 +214,7 @@ msgctxt "176_Saejima"
 msgid "Relax. We've trained champions here. And I'm the teacher, not 'im."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -211,6 +226,7 @@ msgctxt "188_Ehama"
 msgid "Oh, that's a relief. It's a pleasure to meet you."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -222,6 +238,7 @@ msgctxt "200_Sodachi"
 msgid "My name is Sodachi and this is Saejima-san. Shall we go ahead and start training then?"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -233,6 +250,7 @@ msgctxt "212_Ehama"
 msgid "But I didn't bring anything to train in. What should I do?"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -244,6 +262,7 @@ msgctxt "224_Sodachi"
 msgid "No worries at all! I have everything you will need. Let's go ahead and get you changed!"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -255,6 +274,7 @@ msgctxt "296_Saejima"
 msgid "What the hell?"
 msgstr "¿Qué diablos?"
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -266,6 +286,7 @@ msgctxt "308_Sodachi"
 msgid "It's an original Sodachi Dojo Masked Man Set! Everything was ordered and made specially for the dojo. Man, what a good investment!"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -277,6 +298,7 @@ msgctxt "320_Saejima"
 msgid "This is exactly why this place ain't got no money. Ya don't have to wear that, y'know. Ain't it embarrassin'?"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -288,6 +310,7 @@ msgctxt "332_Ehama"
 msgid "Actually, I feel surprisingly good, like I'm a new person. This works for me!"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_type=dialogue
 #. y4:msg_label=Diálogo
 #. y4:msg_talk=0
@@ -298,3 +321,4 @@ msgstr ""
 msgctxt "344_Sodachi"
 msgid "Great! I'm glad you get what a great outfit this is! Now we're getting in the groove! Introducing the one and only, Sodachi Dojo Masked Man!"
 msgstr ""
+

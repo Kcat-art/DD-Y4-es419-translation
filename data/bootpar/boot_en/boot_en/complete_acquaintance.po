@@ -1,139 +1,134 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/bootpar/boot_en/boot_en/complete_acquaintance.po\n"
-"X-Crowdin-File-ID: 76571\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-msgctxt "210	NAME"
+#. y4:file_status=translated
+#. y4:last_reviewer=Keiner
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
+msgctxt "210\tNAME"
 msgid "Poppo"
 msgstr "Poppo"
 
-msgctxt "218	NAME"
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
+msgctxt "218\tNAME"
 msgid "M Store"
 msgstr "M Store"
 
-msgctxt "228	NAME"
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
+msgctxt "228\tNAME"
 msgid "Homeless Man"
 msgstr "Hombre sin hogar"
 
-msgctxt "243	NAME"
+#. y4:line_status=translated
+msgctxt "243\tNAME"
 msgid "Cuez Bar"
 msgstr "Bar Cuez"
 
-msgctxt "254	NAME"
+#. y4:line_status=translated
+msgctxt "254\tNAME"
 msgid "Taxi"
 msgstr "Taxi"
 
-msgctxt "261	NAME"
+#. y4:line_status=translated
+msgctxt "261\tNAME"
 msgid "Club Asia"
 msgstr "Club Asia"
 
-msgctxt "273	NAME"
+#. y4:line_status=translated
+msgctxt "273\tNAME"
 msgid "Earth Angel"
 msgstr "Ángel Terrenal"
 
-msgctxt "287	NAME"
+#. y4:line_status=translated
+msgctxt "287\tNAME"
 msgid "Club SEGA"
 msgstr "Club SEGA"
 
-msgctxt "299	NAME"
+#. y4:line_status=translated
+msgctxt "299\tNAME"
 msgid "Kotobuki Drugs"
 msgstr "Farmacia Kotobuki"
 
-msgctxt "316	NAME"
+#. y4:line_status=translated
+msgctxt "316\tNAME"
 msgid "Café Alps"
 msgstr "Café Alps"
 
-msgctxt "329	NAME"
+#. y4:line_status=translated
+msgctxt "329\tNAME"
 msgid "Homeless Man 2"
 msgstr "Vagabundo 2"
 
-msgctxt "346	NAME"
+#. y4:line_status=translated
+msgctxt "346\tNAME"
 msgid "Kyushu No. 1 Star"
 msgstr "Kyushu Estrella N° 1"
 
-msgctxt "460	EXPLANATION"
-msgid "You became a regular customer at the Poppo on Tenkaichi St. and are\n"
-"now allies with the manager."
-msgstr "Te convertiste en un cliente habitual del Poppo de la calle Tenkaichi y\n"
-"ahora te has aliado con el gerente."
+#. y4:line_status=translated
+msgctxt "460\tEXPLANATION"
+msgid "You became a regular customer at the Poppo on Tenkaichi St. and are\nnow allies with the manager."
+msgstr "Te convertiste en un cliente habitual del Poppo de la calle Tenkaichi y\nahora te has aliado con el gerente."
 
-msgctxt "557	EXPLANATION"
-msgid "You became a regular customer at M Store and are now allies with\n"
-"the manager."
-msgstr "Te convertiste en un cliente habitual de la M Store y ahora te has\n"
-"aliado con el gerente."
+#. y4:line_status=translated
+msgctxt "557\tEXPLANATION"
+msgid "You became a regular customer at M Store and are now allies with\nthe manager."
+msgstr "Te convertiste en un cliente habitual de la M Store y ahora te has\naliado con el gerente."
 
-msgctxt "635	EXPLANATION"
-msgid "You gave alcohol to the homeless man in front of West Park and are\n"
-"now allies with him."
-msgstr "Le diste alcohol al vagabundo que estaba frente al parque oeste y\n"
-"ahora te has aliado con él."
+#. y4:line_status=translated
+msgctxt "635\tEXPLANATION"
+msgid "You gave alcohol to the homeless man in front of West Park and are\nnow allies with him."
+msgstr "Le diste alcohol al vagabundo que estaba frente al parque oeste y\nahora te has aliado con él."
 
-msgctxt "723	EXPLANATION"
-msgid "You became a regular customer at Cuez Bar and are now allies with\n"
-"the bartender."
-msgstr "Te convertiste en un cliente habitual del Bar Cuez y ahora te has\n"
-"aliado con el barman."
+#. y4:line_status=translated
+msgctxt "723\tEXPLANATION"
+msgid "You became a regular customer at Cuez Bar and are now allies with\nthe bartender."
+msgstr "Te convertiste en un cliente habitual del Bar Cuez y ahora te has\naliado con el barman."
 
-msgctxt "804	EXPLANATION"
-msgid "You used the taxi frequently and are now allies with a driver\n"
-"at the north end of the Hotel District."
-msgstr "Usaste el taxi con frecuencia y ahora eres aliado de un\n"
-"conductor que está en el norte del distrito hotelero."
+#. y4:line_status=translated
+msgctxt "804\tEXPLANATION"
+msgid "You used the taxi frequently and are now allies with a driver\nat the north end of the Hotel District."
+msgstr "Usaste el taxi con frecuencia y ahora eres aliado de un\nconductor que está en el norte del distrito hotelero."
 
-msgctxt "906	EXPLANATION"
-msgid "You became a regular customer at Asia and are now allies with the\n"
-"employee there."
-msgstr "Te convertiste en un cliente habitual del Club Asia y ahora eres\n"
-"aliado de los empleados del lugar."
+#. y4:line_status=translated
+msgctxt "906\tEXPLANATION"
+msgid "You became a regular customer at Asia and are now allies with the\nemployee there."
+msgstr "Te convertiste en un cliente habitual del Club Asia y ahora eres\naliado de los empleados del lugar."
 
-msgctxt "988	EXPLANATION"
-msgid "You became a regular customer at Earth Angel and are now allies\n"
-"with the mama."
-msgstr "Te convertiste en un cliente habitual del Ángel Terrenal y ahora\n"
-"eres aliado de la mama."
+#. y4:line_status=translated
+msgctxt "988\tEXPLANATION"
+msgid "You became a regular customer at Earth Angel and are now allies\nwith the mama."
+msgstr "Te convertiste en un cliente habitual del Ángel Terrenal y ahora\neres aliado de la mama."
 
-msgctxt "1067	EXPLANATION"
-msgid "You played Boxcelios 2 frequently and are now allies with a\n"
-"Club SEGA employee."
-msgstr "Jugaste Boxcelios 2 con frecuencia y ahora eres aliado\n"
-"de un empleado del Club SEGA."
+#. y4:line_status=translated
+msgctxt "1067\tEXPLANATION"
+msgid "You played Boxcelios 2 frequently and are now allies with a\nClub SEGA employee."
+msgstr "Jugaste Boxcelios 2 con frecuencia y ahora eres aliado\nde un empleado del Club SEGA."
 
-msgctxt "1147	EXPLANATION"
-msgid "You became a regular customer at Kotobuki Drugs and are now allies\n"
-"with the employee there."
-msgstr "Te convertiste en un cliente habitual de Farmacias Kotobuki y\n"
-"ahora te has aliado con los empleados del lugar."
+#. y4:line_status=translated
+msgctxt "1147\tEXPLANATION"
+msgid "You became a regular customer at Kotobuki Drugs and are now allies\nwith the employee there."
+msgstr "Te convertiste en un cliente habitual de Farmacias Kotobuki y\nahora te has aliado con los empleados del lugar."
 
-msgctxt "1239	EXPLANATION"
-msgid "You became a regular customer at Café Alps and are now allies\n"
-"with an employee there."
-msgstr "Te convertiste en cliente habitual del Café Alps y ahora te has\n"
-"aliado con el empleado del lugar."
+#. y4:line_status=translated
+msgctxt "1239\tEXPLANATION"
+msgid "You became a regular customer at Café Alps and are now allies\nwith an employee there."
+msgstr "Te convertiste en cliente habitual del Café Alps y ahora te has\naliado con el empleado del lugar."
 
-msgctxt "1326	EXPLANATION"
-msgid "You gave a drink to the homeless man in Theater Square and are now\n"
-"allies with him."
-msgstr "Le diste una bebida al vagabundo que estaba en la Plaza del Teatro\n"
-"y ahora te has aliado con él."
+#. y4:line_status=translated
+msgctxt "1326\tEXPLANATION"
+msgid "You gave a drink to the homeless man in Theater Square and are now\nallies with him."
+msgstr "Le diste una bebida al vagabundo que estaba en la Plaza del Teatro\ny ahora te has aliado con él."
 
-msgctxt "1410	EXPLANATION"
-msgid "You became a regular customer at Kyushu No. 1 Star and are now\n"
-"allies with the owner."
-msgstr "Te convertiste en un cliente habitual de Kyushu Estrella N° 1 y\n"
-"ahora te has aliado con el dueño."
+#. y4:line_status=translated
+msgctxt "1410\tEXPLANATION"
+msgid "You became a regular customer at Kyushu No. 1 Star and are now\nallies with the owner."
+msgstr "Te convertiste en un cliente habitual de Kyushu Estrella N° 1 y\nahora te has aliado con el dueño."
 

@@ -1,43 +1,27 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00090055.po\n"
-"X-Crowdin-File-ID: 58842\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:file_status=translated
+#. y4:last_translator=Keiner
+
+#. y4:line_status=translated
+#. y4:translated_by=Keiner
 msgctxt "264"
 msgid "Troubled Man"
-msgstr "Hombre con problemas"
+msgstr "Hombre lleno de problemas"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:line_status=translated
 msgctxt "268"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Troubled Man
-#. y4:msg_speaker_id=0
+#. y4:line_status=translated
 msgctxt "84_Troubled Man"
 msgid "I'm low on cash, but maybe with the discount I can go..."
 msgstr "Estoy corto de dinero, pero tal vez con ese descuento pueda ir..."
+

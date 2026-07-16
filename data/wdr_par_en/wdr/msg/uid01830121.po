@@ -1,97 +1,42 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01830121.po\n"
-"X-Crowdin-File-ID: 61264\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
+
+#. y4:line_status=translated
 msgctxt "56"
 msgid "How to Play Shoot-Out:"
 msgstr "Cómo jugar Shoot-Out:"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
+#. y4:line_status=translated
 msgctxt "68"
 msgid "In Shoot-Out, the score for the numbers you hit are added up."
 msgstr "En el Shoot-Out, se suman los puntos de los números que aciertes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "80"
 msgid "When all rounds are concluded, the player with the higher score is declared the winner."
-msgstr ""
+msgstr "Cuando todas las rondas hayan concluido, el jugador con más puntos se declara ganador."
 
+#. y4:line_status=translated
 msgctxt "92"
-msgid "Scores for Shoot-Out are calculated differently than in regular darts.\\r\n"
-"Sections other than bull's-eye:\\r\n"
-"\\r\n"
-"Number that was hit\\r\n"
-"\\r\n"
-"×\\r\n"
-"(Single: 1, Double: 2, Triple: 3)\\r\n"
-"×\\r\n"
-"Number of sections hit (other than bull's-eye)\\r\n"
-"Bull's-eye:\\r\n"
-"\\r\n"
-"\\r\n"
-"(Outer Bull: 25, Inner Bull: 50)\\r\n"
-"\\r\n"
-"×\\r\n"
-"Number of sections hit (other than bull's-eye)"
-msgstr "En el Shoot-Out, los puntos se calculan diferente a los dardos normales.\\r\n"
-"Para secciones que no son la diana:\\r\n"
-"\\r\n"
-"Número al que le atinaste\\r\n"
-"\\r\n"
-"×\\r\n"
-"(Simple: 1, Doble: 2, Triple: 3)\\r\n"
-"×\\r\n"
-"Número de secciones acertadas (sin contar la diana)\\r\n"
-"Diana:\\r\n"
-"\\r\n"
-"\\r\n"
-"(Anillo exterior: 25, Centro: 50)\\r\n"
-"\\r\n"
-"×\\r\n"
-"Número de secciones acertadas (sin contar la diana)"
+msgid "Scores for Shoot-Out are calculated differently than in regular darts.\\r\nSections other than bull's-eye:\\r\n\\r\nNumber that was hit\\r\n\\r\n×\\r\n(Single: 1, Double: 2, Triple: 3)\\r\n×\\r\nNumber of sections hit (other than bull's-eye)\\r\nBull's-eye:\\r\n\\r\n\\r\n(Outer Bull: 25, Inner Bull: 50)\\r\n\\r\n×\\r\nNumber of sections hit (other than bull's-eye)"
+msgstr "En el Shoot-Out, los puntos se calculan diferente a los dardos normales.\\r\nPara secciones que no son la diana:\\r\n\\r\nNúmero al que le atinaste\\r\n\\r\n×\\r\n(Simple: 1, Doble: 2, Triple: 3)\\r\n×\\r\nNúmero de secciones acertadas (sin contar la diana)\\r\nDiana:\\r\n\\r\n\\r\n(Anillo exterior: 25, Centro: 50)\\r\n\\r\n×\\r\nNúmero de secciones acertadas (sin contar la diana)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
+#. y4:line_status=translated
 msgctxt "104"
 msgid "If you still have rounds remaining after hitting all of the numbers, you can continue to target the bull's-eye until you run out of rounds."
 msgstr "Si te quedan rondas después de acertar todos los números, puedes seguir lanzando a la diana hasta que se acaben las rondas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
+#. y4:line_status=translated
 msgctxt "116"
 msgid "Have fun and give it your all."
 msgstr "Diviértete y da lo mejor de ti."
+

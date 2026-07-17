@@ -18,75 +18,40 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
 msgctxt "168"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2160"
 msgid "Heartbroken Man"
 msgstr "Hombre con el corazón roto"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "2164"
 msgid "Finished and Complete"
 msgstr "Terminado y Completado"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Heartbroken Man
-#. y4:msg_speaker_id=0
 msgctxt "84_Heartbroken Man"
 msgid "No matter how long I wait for her... I know she won't come. Every story has an ending, some fulfilling, some not. Our story falls within the latter, I'm afraid."
 msgstr "No importa cuánto la espere... sé que no vendrá. Cada historia tiene un final, algunos satisfactorios, otros no. Hoy creo que un amor ha llegado a su fin."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Heartbroken Man
-#. y4:msg_speaker_id=0
 msgctxt "96_Heartbroken Man"
 msgid "But an unfulfilling ending doesn't need to be sad. It's merely an end... Ugh..."
 msgstr "Pero no significa que sea algo triste, ¿verdad? Es simplemente un final... Ugh..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Finished and Complete
-#. y4:msg_speaker_id=1
 msgctxt "108_Heartbroken Man"
 msgid "Finished <Sign:34> and Complete <Sign:33> are two different indicators that a substory has been cleared. They appear under Substories on the Pause Menu. Finished indicates a less satisfying ending to the substory."
 msgstr "Los indicadores de Terminado <Sign:34> y Completado <Sign:33> aparecerán en la sección Subhistorias, dentro del Menú de Pausa, una vez acabada la subhistoria. \"Terminado\" suele indicar que el desenlace de la subhistoria es insatisfactorio o deja algunos cabos sueltos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Finished and Complete
-#. y4:msg_speaker_id=1
 msgctxt "120_Heartbroken Man"
 msgid "A Finished substory will still count towards your Completion List."
 msgstr "Una subhistoria finalizada seguirá contando para tu lista de objetivos."
@@ -98,13 +63,6 @@ msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nR
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Heartbroken Man
-#. y4:msg_speaker_id=0
 msgctxt "144_Heartbroken Man"
 msgid "Time for me to start another chapter in the story of my love life... But first, a drink in the Champion District. Maybe two drinks..."
 msgstr "Es hora de que empiece otro capítulo en la historia de mi vida amorosa... Pero primero, una copa en el distrito Champion. Tal vez dos copas..."

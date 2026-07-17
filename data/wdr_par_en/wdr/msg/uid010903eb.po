@@ -24,61 +24,31 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_ROOF01.bin
 #. y4:runtime_play_command=y4.play_msg 010903EB <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1084"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1088"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "72_Tanimura"
 msgid "(Here I am, the roof of the pachinko parlor building. Nothing out of the ordinary.)"
 msgstr "(Aquí estoy, el techo del edificio del salón de pachinko. Nada fuera de lo común)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "84_Tanimura"
 msgid "(Think it might be better to keep watch on this place from atop the building across from here.)"
 msgstr "(Creo que sería mejor vigilar este lugar desde lo alto del edificio\\r\n"
 "que está aquí enfrente)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "108_Tanimura"
 msgid "(Here I am, the roof of the pachinko parlor building. Nothing out of the ordinary.)"
 msgstr "(Aquí estoy, el techo del edificio del salón de pachinko. Nada fuera de lo común)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "120_Tanimura"
 msgid "(Think it might be better to keep watch on this place from atop the building across from here.)"
 msgstr "(Creo que sería mejor vigilar este lugar desde lo alto del edificio\\r\n"

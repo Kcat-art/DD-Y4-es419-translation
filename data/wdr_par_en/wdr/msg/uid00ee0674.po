@@ -24,316 +24,134 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00EE0674 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
+
+
 msgctxt "304"
 msgid "You got a <Color:8>Ultimate Skill Completion Letter<Color:Default>."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
 msgctxt "352"
 msgid "You got a <Color:8>Saejima Substories Completion Letter<Color:Default>."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
 msgctxt "400"
 msgid "You got an <Color:8>Amon Battle Completion Letter<Color:Default>."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=2
-#. y4:msg_location=T3.P2
 msgctxt "448"
 msgid "You got a <Color:8>Lockers Completion Letter<Color:Default>."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=2
-#. y4:msg_location=T4.P2
 msgctxt "496"
 msgid "You got a <Color:8>Dining Completion Letter<Color:Default>."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=2
-#. y4:msg_location=T5.P2
 msgctxt "544"
 msgid "You got a <Color:8>Modding Completion Letter<Color:Default>."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=2
-#. y4:msg_location=T6.P2
 msgctxt "592"
 msgid "You got a <Color:8>Revelations Completion Letter<Color:Default>."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=2
-#. y4:msg_location=T7.P2
 msgctxt "640"
 msgid "You got a <Color:8>Minigames Completion Letter<Color:Default>."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=2
-#. y4:msg_location=T8.P2
 msgctxt "688"
 msgid "You got <Color:8>The Master's Training Completion Letter<Color:Default>."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=2
-#. y4:msg_location=T9.P2
 msgctxt "736"
 msgid "You got a <Color:8>Coliseum Completion Letter<Color:Default>."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=2
-#. y4:msg_location=T10.P2
 msgctxt "784"
 msgid "You got a <Color:8>Fighter Maker Completion Letter<Color:Default>."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=2
-#. y4:msg_location=T11.P2
 msgctxt "832"
 msgid "You got an <Color:8>IF7-R Completion Letter<Color:Default>."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=2
-#. y4:msg_location=T12.P2
 msgctxt "880"
 msgid "You got a <Color:8>Heat Actions Completion Letter<Color:Default>."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=2
-#. y4:msg_location=T13.P2
 msgctxt "928"
 msgid "You got a <Color:8>From 777 Town<Color:Default>."
 msgstr "Has obtenido un <Color:8>From 777 Town<Color:Default>."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=2
-#. y4:msg_location=T13.P2
 msgctxt "976"
 msgid "You got a <Color:8>From 777 Town<Color:Default>."
 msgstr "Has obtenido un <Color:8>From 777 Town<Color:Default>."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "8720"
 msgid "Letter Deliveryman"
 msgstr "Cartero"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "8724"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "280_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "328_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "376_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "424_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "472_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "520_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "568_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "616_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "664_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "712_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "760_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "808_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "856_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "904_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Letter Deliveryman
-#. y4:msg_speaker_id=0
 msgctxt "952_Letter Deliveryman"
 msgid "Hello, Saejima-san. Looks like you've accomplished an achievement of sorts. Let me give you this."
 msgstr "Hola, Saejima-san. Veo que has logrado algo importante. Permíteme darte esto."

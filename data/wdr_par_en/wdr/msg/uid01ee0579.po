@@ -24,183 +24,88 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01EE0579 <group>
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
+
+
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Take One -> T0.P7 | 2. Not Now -> T0.P10
 msgctxt "216"
 msgid "Take a copy of Kamuro Gourmet?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Read It
 msgctxt "228"
 msgid "You got a copy of Kamuro Gourmet."
 msgstr ""
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1788"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1792"
 msgid "2d_cf_zasshi_3times00"
 msgstr "2d_cf_zasshi_3times00"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "156_Player"
 msgid "(Kamuro Gourmet, huh. I already have one, though.)"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Read It -> T0.P3 | 2. Not Now -> T0.P9
 msgctxt "168_Player"
 msgid "(It's a food magazine called Kamuro Gourmet. Should I read it?)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Read It
 msgctxt "192_Player"
 msgid "(It's a food magazine called Kamuro Gourmet. It showcases cool places to eat and coupons for great deals.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Not Now
 msgctxt "252_Player"
 msgid "(Not right now...)"
 msgstr "(Ahora no...)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Not Now
 msgctxt "264_Player"
 msgid "(Not right now...)"
 msgstr "(Ahora no...)"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P8
-#. y4:msg_branch_target_text=(It's a food magazine called Kamuro Gourmet. It showcases cool places to eat and coupons for great deals.)
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "276_Player"
 msgid "Read It"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P9
-#. y4:msg_branch_segment=T0.P9..P10
-#. y4:msg_branch_target_text=(Not right now...)
-#. y4:msg_branch_raw=01 11 00 09 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "288_Player"
 msgid "Not Now"
 msgstr "Ahora no"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P7
-#. y4:msg_branch_segment=T0.P7..P9
-#. y4:msg_branch_target_text=You got a copy of Kamuro Gourmet.
-#. y4:msg_branch_raw=01 11 00 07 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "300_Player"
 msgid "Take One"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P9
-#. y4:msg_branch_segment=T0.P9..P10
-#. y4:msg_branch_target_text=(Not right now...)
-#. y4:msg_branch_raw=01 11 00 09 00 00 00 07 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T0.P10
 msgctxt "312_Player"
 msgid "Not Now"
 msgstr "Ahora no"

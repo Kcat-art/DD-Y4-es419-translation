@@ -16,116 +16,71 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00E600B5 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
 msgctxt "320"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3908"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "3912"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "3916"
 msgid "Scout"
 msgstr "Cazatalentos"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "3920"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "3924"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "3928"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "3932"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "3936"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "3940"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "3944"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "104_Akiyama"
 msgid "Thank you. You were a big help."
 msgstr "Gracias, has sido de mucha ayuda."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Scout
-#. y4:msg_speaker_id=2
 msgctxt "116_Scout"
 msgid "That cutie sure was upset. Is she going to be all right?"
 msgstr "Esa preciosura se enfadó muchísimo. ¿Seguro que estará bien?"
@@ -136,13 +91,6 @@ msgid "Don't worry, she'll be just fine. Now, I'm not sure if this\\r\nqualifies
 msgstr "No te preocupes, estará bien. No estoy seguro de que esto\\r\ncuente como \"Compensación,\" ¿pero qué tal si trabajas para mi\\r\nclub de hostess?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Scout
-#. y4:msg_speaker_id=2
 msgctxt "140_Scout"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
@@ -173,49 +121,21 @@ msgid "Well, I'll have no problem pulling in curvy girls. I can\\r\nguarantee yo
 msgstr "Bueno, no tendré problema llevándote chicas curvilíneas. ¡Te lo\\r\nGarantizo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "212_Akiyama"
 msgid "Excellent. Then, I'll see you at the club."
 msgstr "Excelente. Entonces, te veré en el club."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Scout
-#. y4:msg_speaker_id=2
 msgctxt "224_Scout"
 msgid "Yes, sir. Thank you for the opportunity."
 msgstr "Sí, señor. Muchas gracias por esta oportunidad."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "236_Akiyama"
 msgid "Sure thing. Take care."
 msgstr "De nada. Cuídate."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "296_Akiyama"
 msgid "(They say a woman's mind changes like the autumn leaves... Agh, I can't believe I managed to piss off Hana-chan again.)"
 msgstr "(Dicen que la mente de una mujer cambia como las hojas de otoño... Agh, no puedo creer que hice enojar a Hana-chan otra vez.)"

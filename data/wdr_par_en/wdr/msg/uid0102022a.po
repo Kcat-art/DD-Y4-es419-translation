@@ -16,654 +16,301 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 0102022A <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "10044"
 msgid "Hana"
 msgstr "Hana"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "10048"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "10052"
 msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "10056"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "10060"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "10064"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "10068"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "10072"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "10076"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "10080"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "10084"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "10088"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "10092"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "10096"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "56_Hana"
 msgid "*pant* *pant*"
 msgstr "*jadeo* *jadeo*"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "68_Akiyama"
 msgid "So, are you going to tell me what's wrong or not?"
 msgstr "¿Vas a decirme qué pasa Hana-chan?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "80_Hana"
 msgid "I don't get it, Chief... *pant* Why are you going out of your way for this Lily-san?"
 msgstr "Jefe... ¿Por qué se preocupa tanto por esa tal Lili?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "92_Akiyama"
 msgid "...Huh?"
 msgstr "... ¿Eh?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "104_Hana"
 msgid "I don't care if you're the owner. Lending that much to a total stranger is just plain crazy!"
 msgstr "¡Aunque sea el jefe, es una locura prestar cien millones a alguien que ni siquiera conoce bien!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "116_Akiyama"
 msgid "Come on, Hana-chan. She passed my test, so I gave her the loan. Same rules I hold everyone to."
 msgstr "Lily-chan pasó la prueba. Y no era una fácil. Por eso se lo presté."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "128_Hana"
 msgid "Don't lie to me, Chief! I know the real reason you did it."
 msgstr "¡No es por eso! ¡Eso no es verdad!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "140_Akiyama"
 msgid "What?"
 msgstr "¿Qué?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "152_Hana"
 msgid "It's because she reminds you of Eri-san! Don't try to deny it!"
 msgstr "¡Usted se lo prestó porque esa tal Lily se parece a Eri-san! ¡¿Verdad?!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "164_Akiyama"
 msgid "Hana-chan, please. It's not like that. Just hear me out."
 msgstr "Hana-chan. No es eso."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "176_Hana"
 msgid "...Say what you need to say."
 msgstr "Diga lo que tenga que decir."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "188_Akiyama"
 msgid "It's true, I was pretty blown away at first."
 msgstr "Es cierto que al principio me sorprendió. Lily-chan se parece muchísimo a mi exnovia. No te lo voy a negar."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "200_Akiyama"
 msgid "I mean, it's not every day the splitting image of your ex comes walking through your office door."
 msgstr "Pero esa no fue la razón por la que le presté el dinero."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "212_Hana"
 msgid "Uh-huh..."
 msgstr "Pero..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "224_Akiyama"
 msgid "And I won't deny that I have feelings for Lily-chan. Pretty face, great personality, an air of mystery... She's got the whole nine yards."
 msgstr "Sí, me gusta Lily-chan. Me gusta como se ve, y sobre todo ese aire misterioso. Es exactamente mi tipo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "236_Akiyama"
 msgid "But that's not why I gave her the loan. You know I wouldn't do that."
 msgstr "Pero esa no fue la razón por la que le presté dinero. Tú lo sabes, ¿no?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "248_Hana"
 msgid "Still..."
 msgstr "Aún así..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "260_Akiyama"
 msgid "You don't believe me, do you?"
 msgstr "¿Aun así no puedes aceptarlo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "272_Hana"
 msgid "No, it's just... I already knew all that. And it doesn't change the fact that I'm mad at you!"
 msgstr "Sé que tiene razón. Pero no puedo perdonarlo, jefe."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "284_Akiyama"
 msgid "Come on, Hana-chan."
 msgstr "Hana-chan..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "296_Hana"
 msgid "Don't you \"Hana-chan\" me! What are you doing dragging all that baggage around!? Eri-san's never coming back! Why can't you accept that?"
 msgstr "¡¿Por qué sigue sin superar a Eri-san?! ¡Ella ya no es su novia!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "308_Hana"
 msgid "Or did you forget how she left you for another man the minute you got fired? It was never about you, Chief. She was only in it for the money."
 msgstr "Además, Eri-san lo abandonó después de que lo despidieran del banco, ¡y se fue con otro hombre!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "320_Akiyama"
 msgid "Leave Eri out of this!"
 msgstr "¡Ya basta!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "332_Hana"
 msgid "Chief, I..."
 msgstr "Jefe..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "344_Akiyama"
 msgid "Don't. Hearing you talk about her like that only makes it worse."
 msgstr "No hables mal de ella. Y no quiero verte hablar mal de nadie, Hana-chan."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "356_Hana"
 msgid "But..."
 msgstr "Pero..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "368_Akiyama"
 msgid "You're right, Hana-chan. I've got a lot of baggage weighing me down."
 msgstr "Tienes razón. La verdad, sigo sin poder soltar el pasado."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "380_Akiyama"
 msgid "I had honestly thought I could get rid of it all, live free... but I guess there are some things I just can't let go of."
 msgstr "Pensé que lo había dejado todo atrás, pero hay cosas que todavía no he podido soltar."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "392_Hana"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=29
-#. y4:msg_location=T0.P29
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "404_Akiyama"
 msgid "That's just who I am... and I don't think that's ever gonna change."
 msgstr "Pero así soy yo. Quiero que lo entiendas."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=30
-#. y4:msg_location=T0.P30
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "416_Hana"
 msgid "Someone as stubborn as you? Not a chance."
 msgstr "Sigue siendo igual de egoísta, ¿verdad?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=31
-#. y4:msg_location=T0.P31
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "428_Akiyama"
 msgid "Heh, yeah. Sorry."
 msgstr "Sí. Lo siento."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=32
-#. y4:msg_location=T0.P32
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "440_Hana"
 msgid "That doesn't mean I'm going to just magically forgive you."
 msgstr "¿Y cree que con solo decir eso, voy a perdonarlo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "452_Akiyama"
 msgid "No, guess not. Do I get credit for at least trying?"
 msgstr "No lo sé. De verdad... no lo sé."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=34
-#. y4:msg_location=T0.P34
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "464_Hana"
 msgid "...Chief."
 msgstr "... Jefe."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=35
-#. y4:msg_location=T0.P35
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "476_Akiyama"
 msgid "Hm?"
 msgstr "¿Mm?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=36
-#. y4:msg_location=T0.P36
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "488_Hana"
 msgid "I'm still quitting."
 msgstr "He decidido que, a partir de hoy, dejo Sky Finance."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=37
-#. y4:msg_location=T0.P37
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "500_Akiyama"
 msgid "Hana-chan..."
 msgstr "Hana-chan..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=38
-#. y4:msg_location=T0.P38
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "512_Hana"
 msgid "Today made me realize our relationship is a little too codependent."
 msgstr "Pensándolo bien, puede que me haya apoyado demasiado en usted."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=39
-#. y4:msg_location=T0.P39
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "524_Hana"
 msgid "I've been with you eight years now, ever since your banking days. I've always admired you, Akiyama-san... but I think I need some space."
 msgstr "Desde hace ocho años, desde el banco Touto, he estado siguiéndolo porque lo admiraba. Pero ahora quiero tomarme un tiempo para pensar."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=40
-#. y4:msg_location=T0.P40
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "536_Hana"
 msgid "There's a lot I still have to figure out. About my future in the industry. About my feelings for you."
 msgstr "Sobre mi trabajo en las finanzas. Sobre mi futuro. Y también sobre mis sentimientos como mujer."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "548_Akiyama"
 msgid "But..."
 msgstr "Pero..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=42
-#. y4:msg_location=T0.P42
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "560_Hana"
 msgid "No buts. You've done so much for me over the years, and I know it won't be easy for you being on your own... but you'll be okay. I'm sure of it."
 msgstr "Gracias por todo. Sé que será un fastidio no tener a alguien que le ayude con las cosas del día a día, pero le deseo lo mejor."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=43
-#. y4:msg_location=T0.P43
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "572_Akiyama"
 msgid "Hana-chan, wait."
 msgstr "Hana-chan, espera."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=44
-#. y4:msg_location=T0.P44
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "584_Hana"
 msgid "Goodbye, Akiyama-san."
 msgstr "Adiós, Akiyama-san."

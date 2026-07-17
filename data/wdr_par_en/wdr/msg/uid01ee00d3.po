@@ -24,38 +24,22 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CLUBSEGA_01.bin
 #. y4:runtime_play_command=y4.play_msg 01EE00D3 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1196"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1200"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "68_Player"
 msgid "(No point in playing if there's nothing to catch. I should go ask an attendant to fill it with prizes.)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "152_Player"
 msgid "(500 yen for three tries at this UFO Catcher. Not a bad deal.)"
 msgstr ""

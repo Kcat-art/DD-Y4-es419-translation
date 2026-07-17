@@ -24,51 +24,36 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_BRAND.bin
 #. y4:runtime_play_command=y4.play_msg 01A401BE <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "5280"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "5284"
 msgid "Employee"
 msgstr "Empleado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "5288"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "5292"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "5296"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "5300"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "5304"
 msgid "Talk_Kosite_Yes"
 msgstr "Talk_Kosite_Yes"
@@ -79,62 +64,21 @@ msgid "Excuse me. I'd like to purchase a complete ensemble, clothes\\r\n"
 msgstr "Disculpe. Quisiera comprar un conjunto completo, ropa\\r\n"
 "y todos los accesorios."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. You can't go wrong with a chic suit. -> T0.P2 | 2. A wild, American casual look might work. -> T0.P5 | 3. How about a psychedelic '60s look? -> T0.P8
 msgctxt "188_Employee"
 msgid "Certainly, sir. What kind of ensemble would you like today?"
 msgstr "Ciertamente, señor. ¿Qué tipo de conjunto le gustaría llevarse?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=You can't go wrong with a chic suit.
 msgctxt "200_Akiyama"
 msgid "Let's see. Do you have any chic suits?"
 msgstr "Vamos a ver. ¿Tiene algún traje elegante?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=You can't go wrong with a chic suit.
 msgctxt "212_Employee"
 msgid "We do have some new Italian suits in stock."
 msgstr "Tenemos unos nuevos trajes italianos en stock."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=You can't go wrong with a chic suit.
 msgctxt "224_Akiyama"
 msgid "I'll take one of those, then."
 msgstr "Entonces me llevo uno de esos."
@@ -145,152 +89,45 @@ msgid "Let's see... Do you have anything you would call\\r\n"
 msgstr "Vamos a ver... ¿Tienen algo que a lo que se le\\r\n"
 "pudiera decir \"estilo americano casual\"?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=A wild, American casual look might work.
 msgctxt "248_Employee"
 msgid "Ah, yes. I know just the thing."
 msgstr "Oh, claro. Sé justo a lo que se refiere."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=A wild, American casual look might work.
 msgctxt "260_Akiyama"
 msgid "I'll take that, then."
 msgstr "Me llevo ese entonces."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=How about a psychedelic '60s look?
 msgctxt "272_Akiyama"
 msgid "Let's see... Do you have any psychedelic shirts?"
 msgstr "Vamos a ver... ¿Tiene alguna camisa psicodélica?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=How about a psychedelic '60s look?
 msgctxt "284_Employee"
 msgid "We do have one in silk. It's quite luxurious."
 msgstr "Tenemos una en seda. Es bastante lujosa."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=A wild, American casual look might work.
 msgctxt "296_Akiyama"
 msgid "I'll take that, then."
 msgstr "Me llevo ese entonces."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. A no-nonsense vest. -> T0.P12 | 2. A stylin' hat. -> T0.P15 | 3. How about an afro wig? -> T0.P18
 msgctxt "308_Employee"
 msgid "Thank you very much. Now, what accessories can I show you?"
 msgstr "Muchas gracias. Ahora bien, ¿qué tipo de accesorios quiere ver?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=How about a psychedelic '60s look?
 msgctxt "320_Akiyama"
 msgid "Let's see... Do you have any elegant vests?"
 msgstr "Vamos a ver... ¿Tienen algún chaleco elegante?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=How about a psychedelic '60s look?
 msgctxt "332_Employee"
 msgid "This one is rather fashionable at the moment."
 msgstr "Este de aquí está bastante de moda en estos momentos."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=You can't go wrong with a chic suit.
 msgctxt "344_Akiyama"
 msgid "I'll take one of those, then."
 msgstr "Entonces me llevo uno de esos."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=How about a psychedelic '60s look?
 msgctxt "356_Akiyama"
 msgid "Let's see... Do you have any sophisticated hats?"
 msgstr "Vamos a ver... ¿Tienen algún sombrero sofisticado?"
@@ -301,239 +138,98 @@ msgid "Ah, yes. This particular style is proving to be quite\\r\n"
 msgstr "Oh, sí. Este estilo en particular se está volviendo bastante\\r\n"
 "popular entre la elite, o al menos eso he escuchado."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=You can't go wrong with a chic suit.
 msgctxt "380_Akiyama"
 msgid "I'll take one of those, then."
 msgstr "Entonces me llevo uno de esos."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=How about a psychedelic '60s look?
 msgctxt "392_Akiyama"
 msgid "You wouldn't happen to have any afro wigs here, would you?"
 msgstr "Por casualidad, ¿No tendrán pelucas afros aquí, verdad?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=How about a psychedelic '60s look?
 msgctxt "404_Employee"
 msgid "Wigs? If you mean extensions, then, yes, indeed we do."
 msgstr "¿Pelucas? Si se refiere a extensiones, pues, sí, de hecho, tenemos."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=How about a psychedelic '60s look?
 msgctxt "416_Akiyama"
 msgid "Seriously? Wow. I guess it never hurts to ask..."
 msgstr "¿De verdad? Wow. Supongo que nunca hace daño preguntar..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=How about a psychedelic '60s look?
 msgctxt "488_Employee"
 msgid "Will that be all?"
 msgstr "¿Eso sería todo?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=How about a psychedelic '60s look?
 msgctxt "500_Akiyama"
 msgid "That's it. What do I owe you?"
 msgstr "Eso es todo. ¿Cuánto le debo?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=How about a psychedelic '60s look?
 msgctxt "512_Employee"
 msgid "That will be 98,000 yen."
 msgstr "Serían 98.000 yenes."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=29
-#. y4:msg_location=T0.P29
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=How about a psychedelic '60s look?
 msgctxt "524_Akiyama"
 msgid "Thanks for your help."
 msgstr "Gracias por la ayuda."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=30
-#. y4:msg_location=T0.P30
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=How about a psychedelic '60s look?
 msgctxt "536_Employee"
 msgid "It's been my pleasure. I look forward to seeing you again."
 msgstr "Ha sido un placer. Espero volver a verlos."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P2
-#. y4:msg_branch_segment=T0.P2..P4
-#. y4:msg_branch_target_text=Let's see. Do you have any chic suits?
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 24 00 00 00 00 00 00 00 00
 msgctxt "560_Akiyama"
 msgid "You can't go wrong with a chic suit."
 msgstr "No hay forma de equivocarse con un traje elegante."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P5
-#. y4:msg_branch_segment=T0.P5..P7
-#. y4:msg_branch_target_text=Let's see... Do you have anything you would call\n"American casual"?
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 28 00 00 00 00 00 00 00 00
 msgctxt "572_Akiyama"
 msgid "A wild, American casual look might work."
 msgstr "Un estilo americano salvaje puede funcionar."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P8
-#. y4:msg_branch_segment=T0.P8..P31
-#. y4:msg_branch_target_text=Let's see... Do you have any psychedelic shirts?
-#. y4:msg_branch_raw=01 11 00 08 00 00 00 22 00 00 00 00 00 00 00 00
 msgctxt "584_Akiyama"
 msgid "How about a psychedelic '60s look?"
 msgstr "¿Qué tal un look psicodélico de los 60?"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P12
-#. y4:msg_branch_segment=T0.P12..P14
-#. y4:msg_branch_target_text=Let's see... Do you have any elegant vests?
-#. y4:msg_branch_raw=01 11 00 0c 00 00 00 13 00 00 00 00 00 00 00 00
 msgctxt "596_Akiyama"
 msgid "A no-nonsense vest."
 msgstr "Un chaleco sencillo."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P15
-#. y4:msg_branch_segment=T0.P15..P17
-#. y4:msg_branch_target_text=Let's see... Do you have any sophisticated hats?
-#. y4:msg_branch_raw=01 11 00 0f 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "608_Akiyama"
 msgid "A stylin' hat."
 msgstr "Un sombrero con estilo."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P18
-#. y4:msg_branch_segment=T0.P18..P31
-#. y4:msg_branch_target_text=You wouldn't happen to have any afro wigs here, would you?
-#. y4:msg_branch_raw=01 11 00 12 00 00 00 16 00 00 00 00 00 00 00 00
 msgctxt "620_Akiyama"
 msgid "How about an afro wig?"
 msgstr "¿Qué tal una peluca afro?"

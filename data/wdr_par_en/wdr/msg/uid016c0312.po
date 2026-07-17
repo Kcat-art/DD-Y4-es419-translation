@@ -16,6 +16,8 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 016C0312 <group>
 
 #. y4:line_status=translated
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "6264"
 msgid "Player"
 msgstr "Player"
@@ -26,6 +28,9 @@ msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=0
 msgctxt "444_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
@@ -41,6 +46,9 @@ msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=1
 msgctxt "528_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
@@ -56,6 +64,9 @@ msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=2
 msgctxt "612_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
@@ -71,6 +82,9 @@ msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=3
 msgctxt "696_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
@@ -81,6 +95,9 @@ msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=4
 msgctxt "756_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
@@ -92,78 +109,168 @@ msgstr "(Eso debería bastar)."
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P3
 msgctxt "816_Player"
 msgid "\"I'm tired, too. Maybe I can pet you, instead?\""
 msgstr "\"Yo también estoy cansado. ¿Tal vez puedo acariciarte, en su lugar?\""
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P4
 msgctxt "828_Player"
 msgid "\"I'd like to pet Chachamaru sometime, myself.\""
 msgstr "\"Me gustaría acariciar a Chachamaru alguna vez.\""
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P5
 msgctxt "840_Player"
 msgid "\"Pets are nice.\""
 msgstr "\"Las mascotas son agradables.\""
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
 msgctxt "852_Player"
 msgid "\"Let's have a sing-off.\""
 msgstr "\"Tengamos un duelo de canto.\""
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
 msgctxt "864_Player"
 msgid "\"Sticking with something is important.\""
 msgstr "\"Perseverar en algo es importante.\""
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P5
 msgctxt "876_Player"
 msgid "\"You should try singing for me at the club.\""
 msgstr "\"Deberías intentar cantar para mí en el club.\""
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P3
 msgctxt "888_Player"
 msgid "\"I'm kind of picky about Chinese tea.\""
 msgstr "\"Soy un poco exigente con el té chino.\""
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P4
 msgctxt "900_Player"
 msgid "\"I'd like to try your tea sometime.\""
 msgstr "\"Me gustaría probar tu té algún día.\""
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P5
 msgctxt "912_Player"
 msgid "\"How you make the tea doesn't matter, does it?\""
 msgstr "\"Como prepares el té no es tan importante, ¿no?\""
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P3
 msgctxt "924_Player"
 msgid "\"Nobody can do it well right off the bat.\""
 msgstr "\"Nadie puede hacerlo bien a la primera.\""
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P4
 msgctxt "936_Player"
 msgid "\"You just have to keep practicing.\""
 msgstr "\"Solo debes continuar practicando.\""
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P5
 msgctxt "948_Player"
 msgid "\"You could try looking at other performances.\""
 msgstr "\"Podrías intentar ver otras actuaciones.\""
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P1
 msgctxt "960_Player"
 msgid "\"Keep working hard.\""
 msgstr "\"Sigue trabajando duro.\""
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P2
 msgctxt "972_Player"
 msgid "\"I'll come see you again soon.\""
 msgstr "\"Volveré a verte pronto.\""
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P3
 msgctxt "984_Player"
 msgid "\"I like you just the way you are.\""
 msgstr "\"Me gustas tal y como eres.\""

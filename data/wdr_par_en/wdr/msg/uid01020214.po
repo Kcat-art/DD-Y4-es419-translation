@@ -24,245 +24,110 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_ASAGAO.bin
 #. y4:runtime_play_command=y4.play_msg 01020214 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "13604"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "13608"
 msgid "Haruka"
 msgstr "Haruka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "13612"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "13616"
 msgid "P_sitgrd_tlk_agura_kamae_ed"
 msgstr "P_sitgrd_tlk_agura_kamae_ed"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "13620"
 msgid "P_stand"
 msgstr "P_stand"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "13624"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "13628"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "13632"
 msgid "P_sae_sitgrd_tlk_bed_st"
 msgstr "P_sae_sitgrd_tlk_bed_st"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "84_Kiryu"
 msgid "How is he?"
 msgstr "¿Cómo está?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "96_Haruka"
 msgid "Not good. It looks like he's been having nightmares."
 msgstr "No está bien. Ha estado teniendo pesadillas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "108_Kiryu"
 msgid "Right... The doctor said he's exhausted. Probably malnourished, too."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "120_Haruka"
 msgid "Hm..."
 msgstr "Mm..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "132_Kiryu"
 msgid "You're worried about him, aren't you? I can tell."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "144_Haruka"
 msgid "Yeah. That, and..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "156_Kiryu"
 msgid "You're still thinking about what he said on the beach."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "168_Haruka"
 msgid "Uh-huh."
 msgstr "Ajá."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "180_Kiryu"
 msgid "What about it?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "192_Haruka"
 msgid "That \"Hamazaki\" he mentioned... That's the guy who stabbed you last year."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "204_Haruka"
 msgid "I'd never forget that name. And I can't trust someone who says they're friends with him."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "216_Kiryu"
 msgid "Believe me, I know how you feel."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "228_Haruka"
 msgid "If he's really friends with Hamazaki, I... I..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "240_Kiryu"
 msgid "Hate him?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "252_Haruka"
 msgid "I... don't know."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "264_Kiryu"
 msgid "Listen, Haruka."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "276_Kiryu"
 msgid "Even if he does know Hamazaki, that doesn't automatically mean he's a bad person."
 msgstr ""
@@ -271,530 +136,194 @@ msgctxt "288_Haruka"
 msgid "But－"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "300_Kiryu"
 msgid "Sure, Hamazaki was a bit unhinged the last time we met. But a lot can change in a year."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "312_Kiryu"
 msgid "When he lost the fight for the Tojo Clan, he lost the only thing that <Italic>meant</Italic> something to him. I was probably the only one he could take his anger out on."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "324_Haruka"
 msgid "Maybe..."
 msgstr "Tal vez..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "336_Kiryu"
 msgid "If Hamazaki came to me now asking for help, I'd give it to him in a heartbeat."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "348_Kiryu"
 msgid "As long as he's learned to have some faith in his fellow man, that is."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "360_Haruka"
 msgid "Uncle Kaz..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "384_Kiryu"
 msgid "So, what do you say, Haruka?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "396_Haruka"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "408_Kiryu"
 msgid "Do you really think he's a bad guy just because he knows Hamazaki?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=29
-#. y4:msg_location=T0.P29
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "420_Haruka"
 msgid "I don't know <Italic>what</Italic> I think..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=30
-#. y4:msg_location=T0.P30
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "432_Kiryu"
 msgid "He's a yakuza, no question. The tattoo's a dead giveaway."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=31
-#. y4:msg_location=T0.P31
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "444_Kiryu"
 msgid "But I have one of those too. He and I aren't so different in that respect."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=32
-#. y4:msg_location=T0.P32
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "456_Haruka"
 msgid "Yeah, but..."
 msgstr "Sí, pero..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "468_Kiryu"
 msgid "You've seen plenty of men like us over the years. Some good, some bad."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=34
-#. y4:msg_location=T0.P34
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "480_Kiryu"
 msgid "Where do you think he falls on that spectrum?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=35
-#. y4:msg_location=T0.P35
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "492_Haruka"
 msgid "Well, if I had to pick... I don't think he's a bad person."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=36
-#. y4:msg_location=T0.P36
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "504_Kiryu"
 msgid "Yeah?"
 msgstr "¿Sí?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=37
-#. y4:msg_location=T0.P37
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "516_Haruka"
 msgid "But I can't say for sure. That's just the impression I get."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=38
-#. y4:msg_location=T0.P38
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "528_Kiryu"
 msgid "All right, then. Good to know."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=39
-#. y4:msg_location=T0.P39
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "540_Haruka"
 msgid "Huh? Are you going somewhere?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=40
-#. y4:msg_location=T0.P40
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "552_Kiryu"
 msgid "I have some shopping to do."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=41
-#. y4:msg_location=T0.P41
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "564_Haruka"
 msgid "Right now?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=42
-#. y4:msg_location=T0.P42
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "576_Kiryu"
 msgid "Yeah. He'll need a nice meal when he comes to."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=43
-#. y4:msg_location=T0.P43
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "588_Kiryu"
 msgid "The doctor said he hasn't been eating very well, after all."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=44
-#. y4:msg_location=T0.P44
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "600_Haruka"
 msgid "But aren't all the stores closed by now?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=45
-#. y4:msg_location=T0.P45
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "612_Kiryu"
 msgid "Don't worry, I'm sure somewhere in town will still be open."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=46
-#. y4:msg_location=T0.P46
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "624_Haruka"
 msgid "Maybe, but..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=47
-#. y4:msg_location=T0.P47
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "636_Kiryu"
 msgid "What's wrong? Are you worried about being left alone with him?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=48
-#. y4:msg_location=T0.P48
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "648_Haruka"
 msgid "No, it's not that. It's just..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=49
-#. y4:msg_location=T0.P49
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "660_Kiryu"
 msgid "Relax. He's not going to hurt you. That's not the kind of man he is."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=50
-#. y4:msg_location=T0.P50
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "672_Haruka"
 msgid "...Okay."
 msgstr "...Bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=51
-#. y4:msg_location=T0.P51
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "684_Kiryu"
 msgid "Well, I should be going. I won't be gone long."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "708_Haruka"
 msgid "Please wake up, mister..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "720_Haruka"
 msgid "Oh, he's opening his eyes!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=6
 msgctxt "732_Saejima"
 msgid "Urgh..."
 msgstr "Urgh..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "744_Haruka"
 msgid "I'm so glad you're okay!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=6
 msgctxt "756_Saejima"
 msgid "Huh? Where... am I?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "768_Haruka"
 msgid "This is Morning Glory Orphanage. We have lots of kids, but this is the first time we've taken in an adult."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=6
 msgctxt "780_Saejima"
 msgid "An orphanage?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "792_Haruka"
 msgid "Phew, I'm so glad you're okay, mister."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "804_Haruka"
 msgid "I was worried you were dead when I found you down on the beach..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=6
 msgctxt "816_Saejima"
 msgid "Beach? What beach?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=6
 msgctxt "840_Saejima"
 msgid "...Right. Must've washed up here."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "852_Haruka"
 msgid "Are you sure you're okay, mister?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=6
 msgctxt "864_Saejima"
 msgid "Think so."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "876_Haruka"
 msgid "My Uncle Kaz should be back any minute now."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=1
 msgctxt "888_Haruka"
 msgid "He thought you might've been shipwrecked, so he's checking in with the police. Don't worry, everything's gonna be okay."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=16
-#. y4:msg_location=T1.P16
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=6
 msgctxt "900_Saejima"
 msgid "The cops!?"
 msgstr ""

@@ -24,260 +24,117 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 0183026D <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
+
+
 msgctxt "236"
 msgid "You got a <Color:8>Staminan X<Color:Default>."
 msgstr "Obtuviste un <Color:8>Staminan X<Color:Default>."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
 msgctxt "260"
 msgid "You got a <Color:8>Toughness Z<Color:Default>."
 msgstr "Obtuviste un <Color:8>Toughness Z<Color:Default>."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "4688"
 msgid "Mei Hua"
 msgstr "Mei Hua"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "4692"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "4696"
 msgid "Talk_Cry"
 msgstr "Talk_Cry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "4700"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "4704"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "4708"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "4712"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "4716"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "4720"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=0
 msgctxt "68_Mei Hua"
 msgid "Ma-chan! Help!"
 msgstr "¡Ma-chan! ¡Ayuda!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=0
 msgctxt "80_Mei Hua"
 msgid "It's Dad... You gotta help my dad!"
 msgstr "Es papá... ¡Tienes que ayudar a mi papá!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "92_Tanimura"
 msgid "What's wrong?"
 msgstr "¿Qué ocurre?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=0
 msgctxt "104_Mei Hua"
 msgid "They... took him away!"
 msgstr "Ellos... ¡Se lo llevaron!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "116_Tanimura"
 msgid "Who did!? What happened?"
 msgstr "¿¡Quienes!? ¿Qué pasó?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=0
 msgctxt "128_Mei Hua"
 msgid "These scary guys burst into Homeland and harassed us about a woman named Nadine..."
 msgstr "Estos tipos aterradores irrumpieron en el Homeland y nos atormentaron sobre una chica llamada Nadie..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "140_Tanimura"
 msgid "Do you know who they were?"
 msgstr "¿Sabes quienes eran?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=0
 msgctxt "152_Mei Hua"
 msgid "No... But I think I know where they headed: somewhere off of Senryo Avenue."
 msgstr "No... pero creo saber a donde se dirigieron: a algún lugar de la Avenida Senryo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=0
 msgctxt "164_Mei Hua"
 msgid "Please, Ma-chan, you gotta save my dad!"
 msgstr "Por favor, Ma-chan, ¡tienes que salvar a mi papá!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "176_Tanimura"
 msgid "Don't worry, I'll get him back in one piece. You just head back to the restaurant where it's safe, okay?"
 msgstr "No te preocupes, lo traeré de vuelta sano y salvo. \n"
 "Tú mientras tanto regresa al restaurante donde están a salvo, ¿de acuerdo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=0
 msgctxt "188_Mei Hua"
 msgid "No! I'm going, too!"
 msgstr "¡No! ¡Iré contigo!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "200_Tanimura"
 msgid "I had a feeling you'd say that..."
 msgstr "Ya sabia que ibas a decir eso..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "212_Tanimura"
 msgid "Fine. But we've gotta hurry. Think you can keep up?"
 msgstr "Bien. Pero tenemos que apresurarnos. ¿Crees que puedes mantener el ritmo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=0
 msgctxt "224_Mei Hua"
 msgid "Of course I can! By the way, Ma-chan, I brought these for you in case you were tired. Hope you like them!"
 msgstr "¡Por supuesto que puedo! Por cierto, Ma-chan, te he traído esto por si  te cansas. ¡Espero que te guste!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "284_Tanimura"
 msgid "You're the best. Now let's get going!"
 msgstr "Eres la mejor. ¡Ahora andando!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=0
 msgctxt "296_Mei Hua"
 msgid "I'm right behind you!"
 msgstr "¡Voy detrás de ti!"

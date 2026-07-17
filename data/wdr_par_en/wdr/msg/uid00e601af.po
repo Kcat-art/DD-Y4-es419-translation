@@ -24,76 +24,48 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E601AF <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
+
+
 msgctxt "200"
 msgid "You got a <Color:8>Gold-Plated Dish<Color:Default>."
 msgstr "Has obtenido un <Color:8>plato de oro<Color:Default>."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
 msgctxt "320"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "4156"
 msgid "Tadashi"
 msgstr "Tadashi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "4160"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "4164"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "4168"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "4172"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "4176"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "4180"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "4184"
 msgid "dummy"
 msgstr "dummy"
@@ -110,13 +82,6 @@ msgid "It's alright. I used to be a pretty bad guy, m'self.\\r\n"
 msgstr "No pasa nada. Solía ser igual de malo que él.\\r\n"
 "Y aún lo soy."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Tadashi
-#. y4:msg_speaker_id=0
 msgctxt "80_Tadashi"
 msgid "Oh..."
 msgstr "Oh..."
@@ -133,13 +98,6 @@ msgid "My boss taught me that. And that's why I'm gonna help ya.\\r\n"
 msgstr "Mi jefe me enseño eso. Y por eso te ayudaré.\\r\n"
 "¿Me captas?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Tadashi
-#. y4:msg_speaker_id=0
 msgctxt "116_Tadashi"
 msgid "Uh-huh. Thanks, big guy."
 msgstr "Sí. Gracias, grandulón."
@@ -150,13 +108,6 @@ msgid "Thank me when you and your sister are back together.\\r\n"
 msgstr "Agradéceme cuando estés devuelta con tu hermana.\\r\n"
 "Ahora vámonos a casa."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Tadashi
-#. y4:msg_speaker_id=0
 msgctxt "140_Tadashi"
 msgid "Huh? But I don't..."
 msgstr "¿Eh? Pero yo no..."
@@ -173,46 +124,18 @@ msgid "Okay! Just let me get my stuff first. Go on ahead,\\r\n"
 msgstr "Está bien, deja que busque mis cosas.\n"
 "¡Adelántate grandulón, te veré ahí!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "176_Saejima"
 msgid "Huh? Well, alright. Come home before it gets too late, now."
 msgstr "¿Eh? Bueno, está bien. Vente antes de que anochezca."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Tadashi
-#. y4:msg_speaker_id=0
 msgctxt "188_Tadashi"
 msgid "I will! Oh yeah, here. I found something for you."
 msgstr "¡Claro! Oh sí, toma. Encontré algo para ti."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "224_Saejima"
 msgid "Heh. Much obliged, kid."
 msgstr "Jeh. Gracias, chico."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Tadashi
-#. y4:msg_speaker_id=0
 msgctxt "236_Tadashi"
 msgid "Catch you later!"
 msgstr "¡Te veo luego!"

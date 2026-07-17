@@ -24,45 +24,28 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E6019C <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "524"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "528"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "532"
 msgid "Homeless Man"
 msgstr "Hombre sin hogar"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "100_Saejima"
 msgid "Hey, you seen a kid pickpocket 'round here?"
 msgstr "Hey, ¿has visto a algún niño hurtando por aquí?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=2
 msgctxt "112_Homeless Man"
 msgid "I take it you mean Tadashi? Nope, I ain't seen him today."
 msgstr "¿Imagino que te refieres a Tadashi? No, no le he visto hoy."

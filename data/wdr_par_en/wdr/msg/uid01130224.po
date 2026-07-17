@@ -24,69 +24,34 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_PARKING.bin
 #. y4:runtime_play_command=y4.play_msg 01130224 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
+
+
 msgctxt "152"
 msgid "You got <Color:8>20,000 yen<Color:Default>."
 msgstr "Obtuviste <Color:8>20 000 yenes<Color:Default>."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2076"
 msgid "Officer"
 msgstr "Oficial"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2080"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Officer
-#. y4:msg_speaker_id=0
 msgctxt "104_Officer"
 msgid "Well done."
 msgstr "Bien hecho."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Officer
-#. y4:msg_speaker_id=0
 msgctxt "116_Officer"
 msgid "Well, you got two of the robbers. Not bad."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Officer
-#. y4:msg_speaker_id=0
 msgctxt "128_Officer"
 msgid "We managed to catch the last one, so it looks like this case is all wrapped up."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Officer
-#. y4:msg_speaker_id=0
 msgctxt "140_Officer"
 msgid "This is a little something for all the help. Thank you."
 msgstr ""

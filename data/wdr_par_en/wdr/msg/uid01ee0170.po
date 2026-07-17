@@ -24,20 +24,14 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01EE0170 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "432"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "84_Tanimura"
 msgid "(This is no time to be making detours. They took Zhao-san somewhere off Senryo Avenue.)"
 msgstr "(No es momento de tomar desvíos. Se llevaron a Zhao-san para algún lugar fuera de la avenida Senryo)."

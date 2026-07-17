@@ -24,434 +24,157 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_URANAI.bin
 #. y4:runtime_play_command=y4.play_msg 00EE05B6 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "58416"
 msgid "Bob Utsunomiya"
 msgstr "Bob Utsunomiya"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "58420"
 msgid "Shifty-eyed Man"
 msgstr "Hombre de ojos rasgados"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "58424"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "58428"
 msgid "Bob Utsunomiya A"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P15
-#. y4:msg_branch_target_text=The Underground Coliseum SP Battle King Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 30 00 00 00 00 00 00 00 00
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "58432"
 msgid "Underground Coliseum SP Battle King Championship"
 msgstr "Campeonato del Rey de la Batalla SP del Coliseo Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P16
-#. y4:msg_branch_segment=T2.P16..P18
-#. y4:msg_branch_target_text=The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 10 01 00 00 33 01 4c 00 20 00 00 00 00
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "58436"
 msgid "Underground Coliseum SP Fastest Killer Championship"
 msgstr ""
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "58440"
 msgid "Endless Survival Tag SP"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_choice_index=5
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P25
-#. y4:msg_branch_segment=T2.P25..P27
-#. y4:msg_branch_target_text=The Underground Parking Lot Speed King Championship?
-#. y4:msg_branch_raw=01 12 00 19 01 00 00 2f 01 4c 00 1f 00 00 00 00
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "58444"
 msgid "Underground Parking Lot Speed King Championship"
 msgstr "Campeonato del Rey de la Velocidad del Estacionamiento Subterráneo"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
 msgctxt "1556_Bob Utsunomiya"
 msgid "Sorry, but I've nothing to say at the moment. Once you've completed the game, come talk to me again in Premium Adventure mode."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Shifty-eyed Man
-#. y4:msg_speaker_id=1
 msgctxt "1580_Shifty-eyed Man"
 msgid "Hey, I'm Bob Utsunomiya from the House of Extras."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "1592_Player"
 msgid "House of Extras? What's that?"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
 msgctxt "1604_Bob Utsunomiya"
 msgid "It's like a reward for completing the main part of the game."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "1616_Player"
 msgid "...So, what exactly can I do here?"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Underground Coliseum SP Battle King Championship -> T2.P10 | 2. Underground Coliseum SP Fastest Killer Championship -> T2.P16 | 3. Survival Tag SP -> T2.P19 | 4. Endless Survival Tag -> T2.P22 | 5. Underground Parkin…
 msgctxt "1628_Bob Utsunomiya"
 msgid "Here's what's available:"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Underground Coliseum SP Battle King Championship -> T2.P10 | 2. Underground Coliseum SP Fastest Killer Championship -> T2.P16 | 3. Survival Tag SP -> T2.P19 | 4. Endless Survival Tag -> T2.P22 | 5. Underground Parkin…
 msgctxt "1640_Bob Utsunomiya"
 msgid "Welcome to the House of Extras. Here's what's available:"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
 msgctxt "1652_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Battle King Championship?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "1664_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=10
-#. y4:msg_location=T2.P10
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "1688_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Battle King Championship that supports Online Ranking?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "1700_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=13
-#. y4:msg_location=T2.P13
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "1724_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Fastest Killer Championship?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "1736_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=16
-#. y4:msg_location=T2.P16
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Underground Coliseum SP Fastest Killer Championship
 msgctxt "1760_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "1772_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=19
-#. y4:msg_location=T2.P19
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Survival Tag SP
 msgctxt "1796_Bob Utsunomiya"
 msgid "Survival Tag SP?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "1808_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=22
-#. y4:msg_location=T2.P22
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=Endless Survival Tag
 msgctxt "1832_Bob Utsunomiya"
 msgid "The Endless Survival Tag that supports Online Ranking?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "1844_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=25
-#. y4:msg_location=T2.P25
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=5
-#. y4:msg_branch_choice=Underground Parking Lot Speed King Championship
 msgctxt "1868_Bob Utsunomiya"
 msgid "The Underground Parking Lot Speed King Championship?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "1880_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=28
-#. y4:msg_location=T2.P28
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=7
-#. y4:msg_branch_choice=Never Mind
 msgctxt "1904_Bob Utsunomiya"
 msgid "Changed your mind? Well, come again sometime."
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=2
-#. y4:msg_phrase=29
-#. y4:msg_location=T2.P29
-#. y4:msg_speaker=Bob Utsunomiya A
-#. y4:msg_speaker_id=3
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
-#. y4:msg_decision_choices=1. Underground Coliseum SP Battle King Championship -> T2.P30 | 2. Underground Coliseum SP Fastest Killer Championship -> T2.P37 | 3. Endless Survival Tag -> T2.P44 | 4. Underground Parking Lot Speed King Championship -…
 msgctxt "1916_Bob Utsunomiya A"
 msgid "Whaddaya wanna know?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=30
-#. y4:msg_location=T2.P30
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "1928_Bob Utsunomiya"
 msgid "See how many enemies you can defeat before you're defeated in this unique game. "
 msgstr ""
@@ -462,47 +185,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "1952_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "1964_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "1976_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -511,32 +201,10 @@ msgctxt "1988_Underground Coliseum SP Battle King Championship"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2000_Underground Coliseum SP Battle King Championship"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=37
-#. y4:msg_location=T2.P37
-#. y4:msg_speaker=Underground Coliseum SP Fastest Killer Championship
-#. y4:msg_speaker_id=5
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2012_Bob Utsunomiya"
 msgid "See how long it takes you to defeat all of your enemies in this unique game. "
 msgstr ""
@@ -547,47 +215,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2036_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2048_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2060_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -596,32 +231,10 @@ msgctxt "2072_Underground Coliseum SP Fastest Killer Championship"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2084_Underground Coliseum SP Fastest Killer Championship"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=44
-#. y4:msg_location=T2.P44
-#. y4:msg_speaker=Endless Survival Tag SP
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2096_Bob Utsunomiya"
 msgid "See how long you can survive in a mission with no time limit in this unique game. "
 msgstr ""
@@ -632,47 +245,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2120_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2132_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2144_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -681,32 +261,10 @@ msgctxt "2156_Endless Survival Tag SP"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2168_Endless Survival Tag SP"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=51
-#. y4:msg_location=T2.P51
-#. y4:msg_speaker=Underground Parking Lot Speed King Championship
-#. y4:msg_speaker_id=7
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2180_Bob Utsunomiya"
 msgid "See how quickly you can make 3 laps around the underground parking lot in this unique game. "
 msgstr ""
@@ -717,47 +275,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2204_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2216_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2228_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -766,352 +291,107 @@ msgctxt "2240_Underground Parking Lot Speed King Championship"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2252_Underground Parking Lot Speed King Championship"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Shifty-eyed Man
-#. y4:msg_speaker_id=1
 msgctxt "2276_Shifty-eyed Man"
 msgid "Hey, I'm Bob Utsunomiya from the House of Extras."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2288_Player"
 msgid "House of Extras? What's that?"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
 msgctxt "2300_Bob Utsunomiya"
 msgid "It's like a reward for completing the main part of the game."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=3
-#. y4:msg_phrase=4
-#. y4:msg_location=T3.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2312_Player"
 msgid "...So, what exactly can i do here?"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Underground Coliseum SP Battle King Championship -> T2.P10 | 2. Underground Coliseum SP Fastest Killer Championship -> T2.P16 | 3. Survival Tag SP -> T2.P19 | 4. Endless Survival Tag -> T2.P22 | 5. Underground Parkin…
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=3
 msgctxt "2324_Bob Utsunomiya"
 msgid "Here's what's available:"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Underground Coliseum SP Battle King Championship -> T2.P10 | 2. Underground Coliseum SP Fastest Killer Championship -> T2.P16 | 3. Survival Tag SP -> T2.P19 | 4. Endless Survival Tag -> T2.P22 | 5. Underground Parkin…
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=4
 msgctxt "2336_Bob Utsunomiya"
 msgid "Welcome to the House of Extras. Here's what's available:"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
 msgctxt "2348_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Battle King Championship?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "2360_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=10
-#. y4:msg_location=T2.P10
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "2384_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Battle King Championship that supports Online Ranking?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "2396_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=13
-#. y4:msg_location=T2.P13
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "2420_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Fastest Killer Championship?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "2432_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=16
-#. y4:msg_location=T2.P16
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Underground Coliseum SP Fastest Killer Championship
 msgctxt "2456_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "2468_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=19
-#. y4:msg_location=T2.P19
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Survival Tag SP
 msgctxt "2492_Bob Utsunomiya"
 msgid "Survival Tag SP?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "2504_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=22
-#. y4:msg_location=T2.P22
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=Endless Survival Tag
 msgctxt "2528_Bob Utsunomiya"
 msgid "The Endless Survival Tag that supports Online Ranking?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "2540_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=25
-#. y4:msg_location=T2.P25
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=5
-#. y4:msg_branch_choice=Underground Parking Lot Speed King Championship
 msgctxt "2564_Bob Utsunomiya"
 msgid "The Underground Parking Lot Speed King Championship?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "2576_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=28
-#. y4:msg_location=T2.P28
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=7
-#. y4:msg_branch_choice=Never Mind
 msgctxt "2600_Bob Utsunomiya"
 msgid "Changed your mind? Well, come again sometime."
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=2
-#. y4:msg_phrase=29
-#. y4:msg_location=T2.P29
-#. y4:msg_speaker=Bob Utsunomiya A
-#. y4:msg_speaker_id=3
-#. y4:msg_decision_group=2
-#. y4:msg_decision_choices=1. Underground Coliseum SP Battle King Championship -> T2.P30 | 2. Underground Coliseum SP Fastest Killer Championship -> T2.P37 | 3. Endless Survival Tag -> T2.P44 | 4. Underground Parking Lot Speed King Championship -…
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=5
 msgctxt "2612_Bob Utsunomiya A"
 msgid "Whaddaya wanna know?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=30
-#. y4:msg_location=T2.P30
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2624_Bob Utsunomiya"
 msgid "See how many enemies you can defeat before you're defeated in this unique game. "
 msgstr ""
@@ -1122,47 +402,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2648_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2660_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2672_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -1171,32 +418,10 @@ msgctxt "2684_Underground Coliseum SP Battle King Championship"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2696_Underground Coliseum SP Battle King Championship"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=37
-#. y4:msg_location=T2.P37
-#. y4:msg_speaker=Underground Coliseum SP Fastest Killer Championship
-#. y4:msg_speaker_id=5
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2708_Bob Utsunomiya"
 msgid "See how long it takes you to defeat all of your enemies in this unique game. "
 msgstr ""
@@ -1207,47 +432,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2732_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2744_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2756_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -1256,32 +448,10 @@ msgctxt "2768_Underground Coliseum SP Fastest Killer Championship"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2780_Underground Coliseum SP Fastest Killer Championship"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=44
-#. y4:msg_location=T2.P44
-#. y4:msg_speaker=Endless Survival Tag SP
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2792_Bob Utsunomiya"
 msgid "See how long you can survive in a mission with no time limit in this unique game. "
 msgstr ""
@@ -1292,47 +462,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2816_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2828_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2840_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -1341,32 +478,10 @@ msgctxt "2852_Endless Survival Tag SP"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2864_Endless Survival Tag SP"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=51
-#. y4:msg_location=T2.P51
-#. y4:msg_speaker=Underground Parking Lot Speed King Championship
-#. y4:msg_speaker_id=7
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2876_Bob Utsunomiya"
 msgid "See how quickly you can make 3 laps around the underground parking lot in this unique game. "
 msgstr ""
@@ -1377,47 +492,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2900_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2912_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2924_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -1426,352 +508,107 @@ msgctxt "2936_Underground Parking Lot Speed King Championship"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "2948_Underground Parking Lot Speed King Championship"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Shifty-eyed Man
-#. y4:msg_speaker_id=1
 msgctxt "2972_Shifty-eyed Man"
 msgid "Hey, I'm Bob Utsunomiya from the House of Extras."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2984_Player"
 msgid "House of Extras? What's that?"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
 msgctxt "2996_Bob Utsunomiya"
 msgid "It's like a reward for completing the main part of the game."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=3
-#. y4:msg_phrase=4
-#. y4:msg_location=T3.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "3008_Player"
 msgid "...So, what exactly can i do here?"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Underground Coliseum SP Battle King Championship -> T2.P10 | 2. Underground Coliseum SP Fastest Killer Championship -> T2.P16 | 3. Survival Tag SP -> T2.P19 | 4. Endless Survival Tag -> T2.P22 | 5. Underground Parkin…
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=6
 msgctxt "3020_Bob Utsunomiya"
 msgid "Here's what's available:"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Underground Coliseum SP Battle King Championship -> T2.P10 | 2. Underground Coliseum SP Fastest Killer Championship -> T2.P16 | 3. Survival Tag SP -> T2.P19 | 4. Endless Survival Tag -> T2.P22 | 5. Underground Parkin…
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=7
 msgctxt "3032_Bob Utsunomiya"
 msgid "Welcome to the House of Extras. Here's what's available:"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
 msgctxt "3044_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Battle King Championship?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3056_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=10
-#. y4:msg_location=T2.P10
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3080_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Battle King Championship that supports Online Ranking?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3092_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=13
-#. y4:msg_location=T2.P13
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3116_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Fastest Killer Championship?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3128_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=16
-#. y4:msg_location=T2.P16
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Underground Coliseum SP Fastest Killer Championship
 msgctxt "3152_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3164_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=19
-#. y4:msg_location=T2.P19
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Survival Tag SP
 msgctxt "3188_Bob Utsunomiya"
 msgid "Survival Tag SP?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3200_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=22
-#. y4:msg_location=T2.P22
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=Endless Survival Tag
 msgctxt "3224_Bob Utsunomiya"
 msgid "The Endless Survival Tag that supports Online Ranking?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3236_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=25
-#. y4:msg_location=T2.P25
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=5
-#. y4:msg_branch_choice=Underground Parking Lot Speed King Championship
 msgctxt "3260_Bob Utsunomiya"
 msgid "The Underground Parking Lot Speed King Championship?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3272_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=28
-#. y4:msg_location=T2.P28
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=7
-#. y4:msg_branch_choice=Never Mind
 msgctxt "3296_Bob Utsunomiya"
 msgid "Changed your mind? Well, come again sometime."
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=2
-#. y4:msg_phrase=29
-#. y4:msg_location=T2.P29
-#. y4:msg_speaker=Bob Utsunomiya A
-#. y4:msg_speaker_id=3
-#. y4:msg_decision_group=2
-#. y4:msg_decision_choices=1. Underground Coliseum SP Battle King Championship -> T2.P30 | 2. Underground Coliseum SP Fastest Killer Championship -> T2.P37 | 3. Endless Survival Tag -> T2.P44 | 4. Underground Parking Lot Speed King Championship -…
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=8
 msgctxt "3308_Bob Utsunomiya A"
 msgid "Whaddaya wanna know?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=30
-#. y4:msg_location=T2.P30
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3320_Bob Utsunomiya"
 msgid "See how many enemies you can defeat before you're defeated in this unique game. "
 msgstr ""
@@ -1782,47 +619,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3344_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3356_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3368_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -1831,32 +635,10 @@ msgctxt "3380_Underground Coliseum SP Battle King Championship"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3392_Underground Coliseum SP Battle King Championship"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=37
-#. y4:msg_location=T2.P37
-#. y4:msg_speaker=Underground Coliseum SP Fastest Killer Championship
-#. y4:msg_speaker_id=5
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3404_Bob Utsunomiya"
 msgid "See how long it takes you to defeat all of your enemies in this unique game. "
 msgstr ""
@@ -1867,47 +649,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3428_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3440_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3452_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -1916,32 +665,10 @@ msgctxt "3464_Underground Coliseum SP Fastest Killer Championship"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3476_Underground Coliseum SP Fastest Killer Championship"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=44
-#. y4:msg_location=T2.P44
-#. y4:msg_speaker=Endless Survival Tag SP
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3488_Bob Utsunomiya"
 msgid "See how long you can survive in a mission with no time limit in this unique game. "
 msgstr ""
@@ -1952,47 +679,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3512_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3524_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3536_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -2001,32 +695,10 @@ msgctxt "3548_Endless Survival Tag SP"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3560_Endless Survival Tag SP"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=51
-#. y4:msg_location=T2.P51
-#. y4:msg_speaker=Underground Parking Lot Speed King Championship
-#. y4:msg_speaker_id=7
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3572_Bob Utsunomiya"
 msgid "See how quickly you can make 3 laps around the underground parking lot in this unique game. "
 msgstr ""
@@ -2037,47 +709,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3596_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3608_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3620_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -2086,342 +725,108 @@ msgctxt "3632_Underground Parking Lot Speed King Championship"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "3644_Underground Parking Lot Speed King Championship"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Shifty-eyed Man
-#. y4:msg_speaker_id=1
 msgctxt "3668_Shifty-eyed Man"
 msgid "Hey, I'm Bob Utsunomiya from the House of Extras."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "3680_Player"
 msgid "House of Extras? What's that?"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
 msgctxt "3692_Bob Utsunomiya"
 msgid "It's like a reward for completing the main part of the game."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=3
-#. y4:msg_phrase=4
-#. y4:msg_location=T3.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "3704_Player"
 msgid "...So, what exactly can i do here?"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Underground Coliseum SP Battle King Championship -> T2.P10 | 2. Underground Coliseum SP Fastest Killer Championship -> T2.P16 | 3. Survival Tag SP -> T2.P19 | 4. Endless Survival Tag -> T2.P22 | 5. Underground Parkin…
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=9
 msgctxt "3716_Bob Utsunomiya"
 msgid "Here's what's available:"
 msgstr ""
 
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=10
 msgctxt "3728_Bob Utsunomiya"
 msgid "Welcome to the House of Extras. Here's what's available:\\r\n"
 "Here's what's available:"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
 msgctxt "3740_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Battle King Championship?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3752_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=10
-#. y4:msg_location=T2.P10
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3776_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Battle King Championship that supports Online Ranking?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3788_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=13
-#. y4:msg_location=T2.P13
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3812_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Fastest Killer Championship?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3824_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=16
-#. y4:msg_location=T2.P16
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Underground Coliseum SP Fastest Killer Championship
 msgctxt "3848_Bob Utsunomiya"
 msgid "The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3860_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=19
-#. y4:msg_location=T2.P19
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Survival Tag SP
 msgctxt "3884_Bob Utsunomiya"
 msgid "Survival Tag SP?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3896_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=22
-#. y4:msg_location=T2.P22
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=Endless Survival Tag
 msgctxt "3920_Bob Utsunomiya"
 msgid "The Endless Survival Tag that supports Online Ranking?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3932_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=25
-#. y4:msg_location=T2.P25
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=5
-#. y4:msg_branch_choice=Underground Parking Lot Speed King Championship
 msgctxt "3956_Bob Utsunomiya"
 msgid "The Underground Parking Lot Speed King Championship?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Underground Coliseum SP Battle King Championship
 msgctxt "3968_Bob Utsunomiya"
 msgid "Okay, let me take you to the world of Extra Modes."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=28
-#. y4:msg_location=T2.P28
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=7
-#. y4:msg_branch_choice=Never Mind
 msgctxt "3992_Bob Utsunomiya"
 msgid "Changed your mind? Well, come again sometime."
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=2
-#. y4:msg_phrase=29
-#. y4:msg_location=T2.P29
-#. y4:msg_speaker=Bob Utsunomiya A
-#. y4:msg_speaker_id=3
-#. y4:msg_decision_group=2
-#. y4:msg_decision_choices=1. Underground Coliseum SP Battle King Championship -> T2.P30 | 2. Underground Coliseum SP Fastest Killer Championship -> T2.P37 | 3. Endless Survival Tag -> T2.P44 | 4. Underground Parking Lot Speed King Championship -…
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=11
 msgctxt "4004_Bob Utsunomiya A"
 msgid "Whaddaya wanna know?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=30
-#. y4:msg_location=T2.P30
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4016_Bob Utsunomiya"
 msgid "See how many enemies you can defeat before you're defeated in this unique game. "
 msgstr ""
@@ -2432,47 +837,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4040_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4052_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4064_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -2481,32 +853,10 @@ msgctxt "4076_Underground Coliseum SP Battle King Championship"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4088_Underground Coliseum SP Battle King Championship"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=37
-#. y4:msg_location=T2.P37
-#. y4:msg_speaker=Underground Coliseum SP Fastest Killer Championship
-#. y4:msg_speaker_id=5
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4100_Bob Utsunomiya"
 msgid "See how long it takes you to defeat all of your enemies in this unique game. "
 msgstr ""
@@ -2517,47 +867,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4124_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4136_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4148_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -2566,32 +883,10 @@ msgctxt "4160_Underground Coliseum SP Fastest Killer Championship"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4172_Underground Coliseum SP Fastest Killer Championship"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=44
-#. y4:msg_location=T2.P44
-#. y4:msg_speaker=Endless Survival Tag SP
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4184_Bob Utsunomiya"
 msgid "See how long you can survive in a mission with no time limit in this unique game. "
 msgstr ""
@@ -2602,47 +897,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4208_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4220_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4232_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -2651,32 +913,10 @@ msgctxt "4244_Endless Survival Tag SP"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4256_Endless Survival Tag SP"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=51
-#. y4:msg_location=T2.P51
-#. y4:msg_speaker=Underground Parking Lot Speed King Championship
-#. y4:msg_speaker_id=7
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4268_Bob Utsunomiya"
 msgid "See how quickly you can make 3 laps around the underground parking lot in this unique game. "
 msgstr ""
@@ -2687,47 +927,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4292_Bob Utsunomiya"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4304_Bob Utsunomiya"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4316_Bob Utsunomiya"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -2736,1342 +943,778 @@ msgctxt "4328_Underground Parking Lot Speed King Championship"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Underground Coliseum SP Battle King Championship
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Learn About Online Content
 msgctxt "4340_Underground Parking Lot Speed King Championship"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
 msgctxt "4352_Bob Utsunomiya"
 msgid "What, done already? You're going to come back again sometime, aren't you?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=1
-#. y4:msg_location=T7.P1
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
 msgctxt "4376_Bob Utsunomiya"
 msgid "Well? Did you enjoy yourself? You should come again sometime."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=1
-#. y4:msg_location=T7.P1
-#. y4:msg_speaker=Bob Utsunomiya
-#. y4:msg_speaker_id=0
 msgctxt "4388_Bob Utsunomiya"
 msgid "Well? Did you enjoy yourself? You should come again sometime."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P15
-#. y4:msg_branch_target_text=The Underground Coliseum SP Battle King Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 30 00 00 00 00 00 00 00 00
 msgctxt "4400_Bob Utsunomiya"
 msgid "Underground Coliseum SP Battle King Championship"
 msgstr "Campeonato del Rey de la Batalla SP del Coliseo Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T2.P16
-#. y4:msg_branch_segment=T2.P16..P18
-#. y4:msg_branch_target_text=The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 10 01 00 00 33 01 4c 00 20 00 00 00 00
 msgctxt "4412_Bob Utsunomiya"
 msgid "Underground Coliseum SP Fastest Killer Championship"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T2.P19
-#. y4:msg_branch_segment=T2.P19..P21
-#. y4:msg_branch_target_text=Survival Tag SP?
-#. y4:msg_branch_raw=01 12 00 13 01 00 00 0f 01 4c 00 1e 00 00 00 00
 msgctxt "4424_Bob Utsunomiya"
 msgid "Survival Tag SP"
 msgstr "Supervivencia SP"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=4
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T2.P22
-#. y4:msg_branch_segment=T2.P22..P24
-#. y4:msg_branch_target_text=The Endless Survival Tag that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 16 01 00 00 14 01 4c 00 1e 00 00 00 00
 msgctxt "4436_Bob Utsunomiya"
 msgid "Endless Survival Tag"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=5
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T2.P25
-#. y4:msg_branch_segment=T2.P25..P27
-#. y4:msg_branch_target_text=The Underground Parking Lot Speed King Championship?
-#. y4:msg_branch_raw=01 12 00 19 01 00 00 2f 01 4c 00 1f 00 00 00 00
 msgctxt "4448_Bob Utsunomiya"
 msgid "Underground Parking Lot Speed King Championship"
 msgstr "Campeonato del Rey de la Velocidad del Estacionamiento Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=6
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P29
-#. y4:msg_branch_segment=T2.P29..P57
-#. y4:msg_branch_target_text=Whaddaya wanna know?
-#. y4:msg_branch_raw=01 11 00 1d 00 00 00 1a 00 00 00 00 00 00 00 00
 msgctxt "4460_Bob Utsunomiya"
 msgid "Learn About Online Content"
 msgstr "Saber más sobre el Contenido Online"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=7
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P28
-#. y4:msg_branch_segment=T2.P28..P28
-#. y4:msg_branch_target_text=Changed your mind? Well, come again sometime.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "4472_Bob Utsunomiya"
 msgid "Never Mind"
 msgstr "No importa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P15
-#. y4:msg_branch_target_text=The Underground Coliseum SP Battle King Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 30 00 00 00 00 00 00 00 00
 msgctxt "4484_Bob Utsunomiya"
 msgid "Underground Coliseum SP Battle King Championship"
 msgstr "Campeonato del Rey de la Batalla SP del Coliseo Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P16
-#. y4:msg_branch_segment=T2.P16..P18
-#. y4:msg_branch_target_text=The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 10 01 00 00 33 01 4c 00 20 00 00 00 00
 msgctxt "4496_Bob Utsunomiya"
 msgid "Underground Coliseum SP Fastest Killer Championship"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P19
-#. y4:msg_branch_segment=T2.P19..P21
-#. y4:msg_branch_target_text=Survival Tag SP?
-#. y4:msg_branch_raw=01 12 00 13 01 00 00 0f 01 4c 00 1e 00 00 00 00
 msgctxt "4508_Bob Utsunomiya"
 msgid "Survival Tag SP"
 msgstr "Supervivencia SP"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=4
-#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P22
-#. y4:msg_branch_segment=T2.P22..P24
-#. y4:msg_branch_target_text=The Endless Survival Tag that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 16 01 00 00 14 01 4c 00 1e 00 00 00 00
 msgctxt "4520_Bob Utsunomiya"
 msgid "Endless Survival Tag"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=5
-#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P25
-#. y4:msg_branch_segment=T2.P25..P27
-#. y4:msg_branch_target_text=The Underground Parking Lot Speed King Championship?
-#. y4:msg_branch_raw=01 12 00 19 01 00 00 2f 01 4c 00 1f 00 00 00 00
 msgctxt "4532_Bob Utsunomiya"
 msgid "Underground Parking Lot Speed King Championship"
 msgstr "Campeonato del Rey de la Velocidad del Estacionamiento Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=6
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P29
-#. y4:msg_branch_segment=T2.P29..P57
-#. y4:msg_branch_target_text=Whaddaya wanna know?
-#. y4:msg_branch_raw=01 11 00 1d 00 00 00 1a 00 00 00 00 00 00 00 00
 msgctxt "4544_Bob Utsunomiya"
 msgid "Learn About Online Content"
 msgstr "Saber más sobre el Contenido Online"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=7
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P28
-#. y4:msg_branch_segment=T2.P28..P28
-#. y4:msg_branch_target_text=Changed your mind? Well, come again sometime.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "4556_Bob Utsunomiya"
 msgid "Never Mind"
 msgstr "No importa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P15
-#. y4:msg_branch_target_text=The Underground Coliseum SP Battle King Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 30 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T2.P30
 msgctxt "4568_Bob Utsunomiya"
 msgid "Underground Coliseum SP Battle King Championship"
 msgstr "Campeonato del Rey de la Batalla SP del Coliseo Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P16
-#. y4:msg_branch_segment=T2.P16..P18
-#. y4:msg_branch_target_text=The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 10 01 00 00 33 01 4c 00 20 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P37
 msgctxt "4580_Bob Utsunomiya"
 msgid "Underground Coliseum SP Fastest Killer Championship"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
-#. y4:msg_choice_index=4
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P22
-#. y4:msg_branch_segment=T2.P22..P24
-#. y4:msg_branch_target_text=The Endless Survival Tag that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 16 01 00 00 14 01 4c 00 1e 00 00 00 00
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P44
 msgctxt "4592_Bob Utsunomiya"
 msgid "Endless Survival Tag"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_choice_index=5
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P25
-#. y4:msg_branch_segment=T2.P25..P27
-#. y4:msg_branch_target_text=The Underground Parking Lot Speed King Championship?
-#. y4:msg_branch_raw=01 12 00 19 01 00 00 2f 01 4c 00 1f 00 00 00 00
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P51
 msgctxt "4604_Bob Utsunomiya"
 msgid "Underground Parking Lot Speed King Championship"
 msgstr "Campeonato del Rey de la Velocidad del Estacionamiento Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=27
-#. y4:msg_phrase=0
-#. y4:msg_location=T27.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=5
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P28
-#. y4:msg_branch_segment=T2.P28..P29
-#. y4:msg_branch_target_text=Changed your mind? Well, come again sometime.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "4616_Bob Utsunomiya"
 msgid "Not Now"
 msgstr "Ahora no"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P15
-#. y4:msg_branch_target_text=The Underground Coliseum SP Battle King Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 30 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T3.P10
 msgctxt "4628_Bob Utsunomiya"
 msgid "Underground Coliseum SP Battle King Championship"
 msgstr "Campeonato del Rey de la Batalla SP del Coliseo Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P16
-#. y4:msg_branch_segment=T2.P16..P18
-#. y4:msg_branch_target_text=The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 10 01 00 00 33 01 4c 00 20 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P16
 msgctxt "4640_Bob Utsunomiya"
 msgid "Underground Coliseum SP Fastest Killer Championship"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P19
-#. y4:msg_branch_segment=T2.P19..P21
-#. y4:msg_branch_target_text=Survival Tag SP?
-#. y4:msg_branch_raw=01 12 00 13 01 00 00 0f 01 4c 00 1e 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P19
 msgctxt "4652_Bob Utsunomiya"
 msgid "Survival Tag SP"
 msgstr "Supervivencia SP"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=4
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P22
-#. y4:msg_branch_segment=T2.P22..P24
-#. y4:msg_branch_target_text=The Endless Survival Tag that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 16 01 00 00 14 01 4c 00 1e 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P22
 msgctxt "4664_Bob Utsunomiya"
 msgid "Endless Survival Tag"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=5
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P25
-#. y4:msg_branch_segment=T2.P25..P27
-#. y4:msg_branch_target_text=The Underground Parking Lot Speed King Championship?
-#. y4:msg_branch_raw=01 12 00 19 01 00 00 2f 01 4c 00 1f 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P25
 msgctxt "4676_Bob Utsunomiya"
 msgid "Underground Parking Lot Speed King Championship"
 msgstr "Campeonato del Rey de la Velocidad del Estacionamiento Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=6
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P29
-#. y4:msg_branch_segment=T2.P29..P57
-#. y4:msg_branch_target_text=Whaddaya wanna know?
-#. y4:msg_branch_raw=01 11 00 1d 00 00 00 1a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T3.P29
 msgctxt "4688_Bob Utsunomiya"
 msgid "Learn About Online Content"
 msgstr "Saber más sobre el Contenido Online"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=34
-#. y4:msg_phrase=0
-#. y4:msg_location=T34.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=7
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P28
-#. y4:msg_branch_segment=T3.P28..P28
-#. y4:msg_branch_target_text=Changed your mind? Well, come again sometime.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "4700_Bob Utsunomiya"
 msgid "Never mind"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P15
-#. y4:msg_branch_target_text=The Underground Coliseum SP Battle King Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 30 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T3.P10
 msgctxt "4712_Bob Utsunomiya"
 msgid "Underground Coliseum SP Battle King Championship"
 msgstr "Campeonato del Rey de la Batalla SP del Coliseo Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P16
-#. y4:msg_branch_segment=T2.P16..P18
-#. y4:msg_branch_target_text=The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 10 01 00 00 33 01 4c 00 20 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P16
 msgctxt "4724_Bob Utsunomiya"
 msgid "Underground Coliseum SP Fastest Killer Championship"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P19
-#. y4:msg_branch_segment=T2.P19..P21
-#. y4:msg_branch_target_text=Survival Tag SP?
-#. y4:msg_branch_raw=01 12 00 13 01 00 00 0f 01 4c 00 1e 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P19
 msgctxt "4736_Bob Utsunomiya"
 msgid "Survival Tag SP"
 msgstr "Supervivencia SP"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=4
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P22
-#. y4:msg_branch_segment=T2.P22..P24
-#. y4:msg_branch_target_text=The Endless Survival Tag that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 16 01 00 00 14 01 4c 00 1e 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P22
 msgctxt "4748_Bob Utsunomiya"
 msgid "Endless Survival Tag"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=5
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P25
-#. y4:msg_branch_segment=T2.P25..P27
-#. y4:msg_branch_target_text=The Underground Parking Lot Speed King Championship?
-#. y4:msg_branch_raw=01 12 00 19 01 00 00 2f 01 4c 00 1f 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P25
 msgctxt "4760_Bob Utsunomiya"
 msgid "Underground Parking Lot Speed King Championship"
 msgstr "Campeonato del Rey de la Velocidad del Estacionamiento Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=6
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P29
-#. y4:msg_branch_segment=T2.P29..P57
-#. y4:msg_branch_target_text=Whaddaya wanna know?
-#. y4:msg_branch_raw=01 11 00 1d 00 00 00 1a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T3.P29
 msgctxt "4772_Bob Utsunomiya"
 msgid "Learn About Online Content"
 msgstr "Saber más sobre el Contenido Online"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=34
-#. y4:msg_phrase=0
-#. y4:msg_location=T34.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=7
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P28
-#. y4:msg_branch_segment=T3.P28..P28
-#. y4:msg_branch_target_text=Changed your mind? Well, come again sometime.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "4784_Bob Utsunomiya"
 msgid "Never mind"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=5
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P15
-#. y4:msg_branch_target_text=The Underground Coliseum SP Battle King Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 30 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T3.P30
 msgctxt "4796_Bob Utsunomiya"
 msgid "Underground Coliseum SP Battle King Championship"
 msgstr "Campeonato del Rey de la Batalla SP del Coliseo Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=5
 #. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P16
-#. y4:msg_branch_segment=T2.P16..P18
-#. y4:msg_branch_target_text=The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 10 01 00 00 33 01 4c 00 20 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P37
 msgctxt "4808_Bob Utsunomiya"
 msgid "Underground Coliseum SP Fastest Killer Championship"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
-#. y4:msg_choice_index=4
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P22
-#. y4:msg_branch_segment=T2.P22..P24
-#. y4:msg_branch_target_text=The Endless Survival Tag that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 16 01 00 00 14 01 4c 00 1e 00 00 00 00
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=5
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P44
 msgctxt "4820_Bob Utsunomiya"
 msgid "Endless Survival Tag"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_choice_index=5
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P25
-#. y4:msg_branch_segment=T2.P25..P27
-#. y4:msg_branch_target_text=The Underground Parking Lot Speed King Championship?
-#. y4:msg_branch_raw=01 12 00 19 01 00 00 2f 01 4c 00 1f 00 00 00 00
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=5
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P51
 msgctxt "4832_Bob Utsunomiya"
 msgid "Underground Parking Lot Speed King Championship"
 msgstr "Campeonato del Rey de la Velocidad del Estacionamiento Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=27
-#. y4:msg_phrase=0
-#. y4:msg_location=T27.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=5
 #. y4:msg_choice_index=5
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P28
-#. y4:msg_branch_segment=T2.P28..P29
-#. y4:msg_branch_target_text=Changed your mind? Well, come again sometime.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 07 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T3.P28
 msgctxt "4844_Bob Utsunomiya"
 msgid "Not Now"
 msgstr "Ahora no"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=6
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P15
-#. y4:msg_branch_target_text=The Underground Coliseum SP Battle King Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 30 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P10
 msgctxt "4856_Bob Utsunomiya"
 msgid "Underground Coliseum SP Battle King Championship"
 msgstr "Campeonato del Rey de la Batalla SP del Coliseo Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=6
 #. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P16
-#. y4:msg_branch_segment=T2.P16..P18
-#. y4:msg_branch_target_text=The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 10 01 00 00 33 01 4c 00 20 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P16
 msgctxt "4868_Bob Utsunomiya"
 msgid "Underground Coliseum SP Fastest Killer Championship"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=6
 #. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P19
-#. y4:msg_branch_segment=T2.P19..P21
-#. y4:msg_branch_target_text=Survival Tag SP?
-#. y4:msg_branch_raw=01 12 00 13 01 00 00 0f 01 4c 00 1e 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P19
 msgctxt "4880_Bob Utsunomiya"
 msgid "Survival Tag SP"
 msgstr "Supervivencia SP"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=6
 #. y4:msg_choice_index=4
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P22
-#. y4:msg_branch_segment=T2.P22..P24
-#. y4:msg_branch_target_text=The Endless Survival Tag that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 16 01 00 00 14 01 4c 00 1e 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P22
 msgctxt "4892_Bob Utsunomiya"
 msgid "Endless Survival Tag"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=6
 #. y4:msg_choice_index=5
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P25
-#. y4:msg_branch_segment=T2.P25..P27
-#. y4:msg_branch_target_text=The Underground Parking Lot Speed King Championship?
-#. y4:msg_branch_raw=01 12 00 19 01 00 00 2f 01 4c 00 1f 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P25
 msgctxt "4904_Bob Utsunomiya"
 msgid "Underground Parking Lot Speed King Championship"
 msgstr "Campeonato del Rey de la Velocidad del Estacionamiento Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=6
 #. y4:msg_choice_index=6
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P29
-#. y4:msg_branch_segment=T2.P29..P57
-#. y4:msg_branch_target_text=Whaddaya wanna know?
-#. y4:msg_branch_raw=01 11 00 1d 00 00 00 1a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P29
 msgctxt "4916_Bob Utsunomiya"
 msgid "Learn About Online Content"
 msgstr "Saber más sobre el Contenido Online"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=6
 #. y4:msg_choice_index=7
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P28
-#. y4:msg_branch_segment=T2.P28..P28
-#. y4:msg_branch_target_text=Changed your mind? Well, come again sometime.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 0a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P28
 msgctxt "4928_Bob Utsunomiya"
 msgid "Never Mind"
 msgstr "No importa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=7
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P15
-#. y4:msg_branch_target_text=The Underground Coliseum SP Battle King Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 30 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P10
 msgctxt "4940_Bob Utsunomiya"
 msgid "Underground Coliseum SP Battle King Championship"
 msgstr "Campeonato del Rey de la Batalla SP del Coliseo Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=7
 #. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P16
-#. y4:msg_branch_segment=T2.P16..P18
-#. y4:msg_branch_target_text=The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 10 01 00 00 33 01 4c 00 20 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P16
 msgctxt "4952_Bob Utsunomiya"
 msgid "Underground Coliseum SP Fastest Killer Championship"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=7
 #. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P19
-#. y4:msg_branch_segment=T2.P19..P21
-#. y4:msg_branch_target_text=Survival Tag SP?
-#. y4:msg_branch_raw=01 12 00 13 01 00 00 0f 01 4c 00 1e 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P19
 msgctxt "4964_Bob Utsunomiya"
 msgid "Survival Tag SP"
 msgstr "Supervivencia SP"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=7
 #. y4:msg_choice_index=4
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P22
-#. y4:msg_branch_segment=T2.P22..P24
-#. y4:msg_branch_target_text=The Endless Survival Tag that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 16 01 00 00 14 01 4c 00 1e 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P22
 msgctxt "4976_Bob Utsunomiya"
 msgid "Endless Survival Tag"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=7
 #. y4:msg_choice_index=5
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P25
-#. y4:msg_branch_segment=T2.P25..P27
-#. y4:msg_branch_target_text=The Underground Parking Lot Speed King Championship?
-#. y4:msg_branch_raw=01 12 00 19 01 00 00 2f 01 4c 00 1f 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P25
 msgctxt "4988_Bob Utsunomiya"
 msgid "Underground Parking Lot Speed King Championship"
 msgstr "Campeonato del Rey de la Velocidad del Estacionamiento Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=7
 #. y4:msg_choice_index=6
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P29
-#. y4:msg_branch_segment=T2.P29..P57
-#. y4:msg_branch_target_text=Whaddaya wanna know?
-#. y4:msg_branch_raw=01 11 00 1d 00 00 00 1a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P29
 msgctxt "5000_Bob Utsunomiya"
 msgid "Learn About Online Content"
 msgstr "Saber más sobre el Contenido Online"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=7
 #. y4:msg_choice_index=7
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P28
-#. y4:msg_branch_segment=T2.P28..P28
-#. y4:msg_branch_target_text=Changed your mind? Well, come again sometime.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 0a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P28
 msgctxt "5012_Bob Utsunomiya"
 msgid "Never Mind"
 msgstr "No importa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=8
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P15
-#. y4:msg_branch_target_text=The Underground Coliseum SP Battle King Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 30 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P30
 msgctxt "5024_Bob Utsunomiya"
 msgid "Underground Coliseum SP Battle King Championship"
 msgstr "Campeonato del Rey de la Batalla SP del Coliseo Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=8
 #. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P16
-#. y4:msg_branch_segment=T2.P16..P18
-#. y4:msg_branch_target_text=The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 10 01 00 00 33 01 4c 00 20 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P37
 msgctxt "5036_Bob Utsunomiya"
 msgid "Underground Coliseum SP Fastest Killer Championship"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
-#. y4:msg_choice_index=4
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P22
-#. y4:msg_branch_segment=T2.P22..P24
-#. y4:msg_branch_target_text=The Endless Survival Tag that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 16 01 00 00 14 01 4c 00 1e 00 00 00 00
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=8
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P44
 msgctxt "5048_Bob Utsunomiya"
 msgid "Endless Survival Tag"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_choice_index=5
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P25
-#. y4:msg_branch_segment=T2.P25..P27
-#. y4:msg_branch_target_text=The Underground Parking Lot Speed King Championship?
-#. y4:msg_branch_raw=01 12 00 19 01 00 00 2f 01 4c 00 1f 00 00 00 00
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=8
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P51
 msgctxt "5060_Bob Utsunomiya"
 msgid "Underground Parking Lot Speed King Championship"
 msgstr "Campeonato del Rey de la Velocidad del Estacionamiento Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=27
-#. y4:msg_phrase=0
-#. y4:msg_location=T27.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=8
 #. y4:msg_choice_index=5
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P28
-#. y4:msg_branch_segment=T2.P28..P29
-#. y4:msg_branch_target_text=Changed your mind? Well, come again sometime.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 07 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P28
 msgctxt "5072_Bob Utsunomiya"
 msgid "Not Now"
 msgstr "Ahora no"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=9
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P15
-#. y4:msg_branch_target_text=The Underground Coliseum SP Battle King Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 30 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T5.P10
 msgctxt "5084_Bob Utsunomiya"
 msgid "Underground Coliseum SP Battle King Championship"
 msgstr "Campeonato del Rey de la Batalla SP del Coliseo Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=9
 #. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P16
-#. y4:msg_branch_segment=T2.P16..P18
-#. y4:msg_branch_target_text=The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 10 01 00 00 33 01 4c 00 20 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P16
 msgctxt "5096_Bob Utsunomiya"
 msgid "Underground Coliseum SP Fastest Killer Championship"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=9
 #. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P19
-#. y4:msg_branch_segment=T2.P19..P21
-#. y4:msg_branch_target_text=Survival Tag SP?
-#. y4:msg_branch_raw=01 12 00 13 01 00 00 0f 01 4c 00 1e 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P19
 msgctxt "5108_Bob Utsunomiya"
 msgid "Survival Tag SP"
 msgstr "Supervivencia SP"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=9
 #. y4:msg_choice_index=4
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P22
-#. y4:msg_branch_segment=T2.P22..P24
-#. y4:msg_branch_target_text=The Endless Survival Tag that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 16 01 00 00 14 01 4c 00 1e 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P22
 msgctxt "5120_Bob Utsunomiya"
 msgid "Endless Survival Tag"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=9
 #. y4:msg_choice_index=5
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P25
-#. y4:msg_branch_segment=T2.P25..P27
-#. y4:msg_branch_target_text=The Underground Parking Lot Speed King Championship?
-#. y4:msg_branch_raw=01 12 00 19 01 00 00 2f 01 4c 00 1f 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P25
 msgctxt "5132_Bob Utsunomiya"
 msgid "Underground Parking Lot Speed King Championship"
 msgstr "Campeonato del Rey de la Velocidad del Estacionamiento Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=9
 #. y4:msg_choice_index=6
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P29
-#. y4:msg_branch_segment=T2.P29..P57
-#. y4:msg_branch_target_text=Whaddaya wanna know?
-#. y4:msg_branch_raw=01 11 00 1d 00 00 00 1a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T5.P29
 msgctxt "5144_Bob Utsunomiya"
 msgid "Learn About Online Content"
 msgstr "Saber más sobre el Contenido Online"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=9
 #. y4:msg_choice_index=7
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P28
-#. y4:msg_branch_segment=T2.P28..P28
-#. y4:msg_branch_target_text=Changed your mind? Well, come again sometime.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 0a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T5.P28
 msgctxt "5156_Bob Utsunomiya"
 msgid "Never Mind"
 msgstr "No importa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=10
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P15
-#. y4:msg_branch_target_text=The Underground Coliseum SP Battle King Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 30 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T5.P10
 msgctxt "5168_Bob Utsunomiya"
 msgid "Underground Coliseum SP Battle King Championship"
 msgstr "Campeonato del Rey de la Batalla SP del Coliseo Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=10
 #. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P16
-#. y4:msg_branch_segment=T2.P16..P18
-#. y4:msg_branch_target_text=The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 10 01 00 00 33 01 4c 00 20 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P16
 msgctxt "5180_Bob Utsunomiya"
 msgid "Underground Coliseum SP Fastest Killer Championship"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=10
 #. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P19
-#. y4:msg_branch_segment=T2.P19..P21
-#. y4:msg_branch_target_text=Survival Tag SP?
-#. y4:msg_branch_raw=01 12 00 13 01 00 00 0f 01 4c 00 1e 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P19
 msgctxt "5192_Bob Utsunomiya"
 msgid "Survival Tag SP"
 msgstr "Supervivencia SP"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=10
 #. y4:msg_choice_index=4
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P22
-#. y4:msg_branch_segment=T2.P22..P24
-#. y4:msg_branch_target_text=The Endless Survival Tag that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 16 01 00 00 14 01 4c 00 1e 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P22
 msgctxt "5204_Bob Utsunomiya"
 msgid "Endless Survival Tag"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=10
 #. y4:msg_choice_index=5
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P25
-#. y4:msg_branch_segment=T2.P25..P27
-#. y4:msg_branch_target_text=The Underground Parking Lot Speed King Championship?
-#. y4:msg_branch_raw=01 12 00 19 01 00 00 2f 01 4c 00 1f 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P25
 msgctxt "5216_Bob Utsunomiya"
 msgid "Underground Parking Lot Speed King Championship"
 msgstr "Campeonato del Rey de la Velocidad del Estacionamiento Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=10
 #. y4:msg_choice_index=6
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P29
-#. y4:msg_branch_segment=T2.P29..P57
-#. y4:msg_branch_target_text=Whaddaya wanna know?
-#. y4:msg_branch_raw=01 11 00 1d 00 00 00 1a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T5.P29
 msgctxt "5228_Bob Utsunomiya"
 msgid "Learn About Online Content"
 msgstr "Saber más sobre el Contenido Online"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=10
 #. y4:msg_choice_index=7
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P28
-#. y4:msg_branch_segment=T2.P28..P28
-#. y4:msg_branch_target_text=Changed your mind? Well, come again sometime.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 0a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T5.P28
 msgctxt "5240_Bob Utsunomiya"
 msgid "Never Mind"
 msgstr "No importa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=11
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P15
-#. y4:msg_branch_target_text=The Underground Coliseum SP Battle King Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 30 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T5.P30
 msgctxt "5252_Bob Utsunomiya"
 msgid "Underground Coliseum SP Battle King Championship"
 msgstr "Campeonato del Rey de la Batalla SP del Coliseo Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=11
 #. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P16
-#. y4:msg_branch_segment=T2.P16..P18
-#. y4:msg_branch_target_text=The Underground Coliseum SP Fastest Killer Championship that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 10 01 00 00 33 01 4c 00 20 00 00 00 00
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P37
 msgctxt "5264_Bob Utsunomiya"
 msgid "Underground Coliseum SP Fastest Killer Championship"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
-#. y4:msg_choice_index=4
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P22
-#. y4:msg_branch_segment=T2.P22..P24
-#. y4:msg_branch_target_text=The Endless Survival Tag that supports Online Ranking?
-#. y4:msg_branch_raw=01 12 00 16 01 00 00 14 01 4c 00 1e 00 00 00 00
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=11
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P44
 msgctxt "5276_Bob Utsunomiya"
 msgid "Endless Survival Tag"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_choice_index=5
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P25
-#. y4:msg_branch_segment=T2.P25..P27
-#. y4:msg_branch_target_text=The Underground Parking Lot Speed King Championship?
-#. y4:msg_branch_raw=01 12 00 19 01 00 00 2f 01 4c 00 1f 00 00 00 00
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=11
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P51
 msgctxt "5288_Bob Utsunomiya"
 msgid "Underground Parking Lot Speed King Championship"
 msgstr "Campeonato del Rey de la Velocidad del Estacionamiento Subterráneo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=27
-#. y4:msg_phrase=0
-#. y4:msg_location=T27.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=11
 #. y4:msg_choice_index=5
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P28
-#. y4:msg_branch_segment=T2.P28..P29
-#. y4:msg_branch_target_text=Changed your mind? Well, come again sometime.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 07 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T5.P28
 msgctxt "5300_Bob Utsunomiya"
 msgid "Not Now"
 msgstr "Ahora no"

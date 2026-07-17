@@ -24,476 +24,192 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CABA01.bin
 #. y4:runtime_play_command=y4.play_msg 016C0017 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
 msgctxt "504"
 msgid "Controls:"
 msgstr "Controles:"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "16540"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "16544"
 msgid "F_cab_sitsofa_hot_muneA"
 msgstr "F_cab_sitsofa_hot_muneA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "16548"
 msgid "Maya"
 msgstr "Maya"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "16552"
 msgid "F_cab_sitsofa_tlk_happy"
 msgstr "F_cab_sitsofa_tlk_happy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "16556"
 msgid "F_cab_sitsofa_talk_smileA"
 msgstr "F_cab_sitsofa_talk_smileA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "16560"
 msgid "F_cab_sitsofa_tlk_angry"
 msgstr "F_cab_sitsofa_tlk_angry"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
 msgctxt "516_Kiryu"
 msgid "Use <Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control where you look. This is your chance to feast your eyes on her beauty."
 msgstr "Usa <Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> para mover tu mirada. Esta es tu oportunidad para deleitar tus ojos con su belleza."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
 msgctxt "528_Kiryu"
 msgid "Press <Action:Button_Cross@Cabaret>when you want to focus intently on one of her features. Holding down <Action:Button_Cross@Cabaret>allows you to focus your gaze."
 msgstr "Presiona <Action:Button_Cross@Cabaret> en el lugar donde deseas dirigir tu \"poderosa\" mirada. Si mantienes presionado <Action:Button_Cross@Cabaret>, la mirada se enfocará más y será aún más intensa."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
 msgctxt "540_Kiryu"
 msgid "Her reaction will change depending on what you focus on."
 msgstr "Su reacción cambiará dependiendo en lo que te enfoques."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "564_Kiryu"
 msgid "(Maybe her eyes...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "576_Kiryu"
 msgid "(Those luscious lips...)"
 msgstr "(Esos labios exquisitos...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "588_Kiryu"
 msgid "(Those beautiful nails...)"
 msgstr "(Esas hermosas uñas...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "600_Kiryu"
 msgid "(What kind of shoes is she wearing?)"
 msgstr "(¿Qué tipo de zapatos estará usando...?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "612_Kiryu"
 msgid "(Maybe her hair...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "624_Kiryu"
 msgid "(Maybe her chest...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "636_Kiryu"
 msgid "(What part of a woman do I look at? Hmm...)"
 msgstr "(¿Qué parte de una mujer miraré? Mmm...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "648_Kiryu"
 msgid "Her eyes. A woman's personality can really shine through depending on the kind of makeup she uses."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=1
-#. y4:msg_location=T8.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "660_Maya"
 msgid "That's true. And the eyes are the part of the face that stands out the most."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=2
-#. y4:msg_location=T8.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "672_Kiryu"
 msgid "The shape of a woman's eyebrows is important, too. They can really change how a woman looks."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=3
-#. y4:msg_location=T8.P3
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "684_Maya"
 msgid "Heh. You've really spent a lot of time looking at women's faces, haven't you? I should work harder on my makeup."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "696_Kiryu"
 msgid "I look at a woman's mouth. When her lips are a little moist, it can be incredibly sexy."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=1
-#. y4:msg_location=T9.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "708_Maya"
 msgid "Her lips, huh? You really pay attention to details."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=2
-#. y4:msg_location=T9.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "720_Kiryu"
 msgid "The shape of a woman's lips changes depending on her mood. And when a beautiful woman smiles, she can be radiant."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=3
-#. y4:msg_location=T9.P3
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "732_Maya"
 msgid "Hehe. I think maybe you're taking things a little too far. But I'll try to focus on my lips a bit more from now on."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "744_Kiryu"
 msgid "I look at a woman's hands. I want to see what her nails look like."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=1
-#. y4:msg_location=T10.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "756_Maya"
 msgid "Nails, huh? They can really stand out sometimes."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=2
-#. y4:msg_location=T10.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "768_Kiryu"
 msgid "Nails are really just an accessory. If a woman puts effort into her nails, you know she's really fashionable."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=3
-#. y4:msg_location=T10.P3
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "780_Maya"
 msgid "You sure know what you're talking about. I should've guessed."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "792_Kiryu"
 msgid "I look at her shoes first."
 msgstr "Primero, miraré sus zapatos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=1
-#. y4:msg_location=T11.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "804_Maya"
 msgid "Ha! That's surprising!"
 msgstr "¡Ja! ¡Eso es sorprendente!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=2
-#. y4:msg_location=T11.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "816_Kiryu"
 msgid "You can tell how much someone cares about their appearance by looking at their shoes, you know."
 msgstr "¿Sabes? Se puede saber como alguien le importa la  apariencia mirando sus zapatos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=3
-#. y4:msg_location=T11.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "828_Kiryu"
 msgid "And you can guess how much money they have, too."
 msgstr "También, puedes adivinar cuanto dinero tienen."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=4
-#. y4:msg_location=T11.P4
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "840_Maya"
 msgid "You're right! You really know your stuff!"
 msgstr "¡Tienes razón! ¡Realmente sabes lo que haces!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "852_Kiryu"
 msgid "I look at a woman's hair."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=1
-#. y4:msg_location=T12.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "864_Maya"
 msgid "Hmm? Her hairstyle? Why?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=2
-#. y4:msg_location=T12.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "876_Kiryu"
 msgid "Women wear different clothes every day, but their hairstyle stays for a long time. It's the easiest way to see their fashion sense."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=3
-#. y4:msg_location=T12.P3
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "888_Maya"
 msgid "Oh! I never looked at it that way. I think I just learned something!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "900_Kiryu"
 msgid "I look at a woman's chest."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=1
-#. y4:msg_location=T13.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "912_Maya"
 msgid "I should've known. Men look at that kind of thing first, don't they?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=2
-#. y4:msg_location=T13.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "924_Kiryu"
 msgid "Well, that's the reason so many clothes are low-cut."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=3
-#. y4:msg_location=T13.P3
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "936_Maya"
 msgid "I suppose you're right. Asking a man for advice about how to prepare for fashion shoots wasn't the best idea."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "948_Maya"
 msgid "Um, hello? What are you looking at?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=1
-#. y4:msg_location=T14.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "960_Kiryu"
 msgid "Hmm? Oh, sorry... I get a little nervous when you're watching me look at you."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=2
-#. y4:msg_location=T14.P2
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "972_Maya"
 msgid "Hahaha! I never thought of you as the shy type!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=3
-#. y4:msg_location=T14.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "984_Kiryu"
 msgid "I just don't like the idea of ogling women."
 msgstr ""
@@ -502,90 +218,34 @@ msgctxt "996_Maya"
 msgid "We're talking about modeling. It's not that big a deal, is it? You're more innocent than I thought. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1008_Kiryu"
 msgid "(She's got strong eyes...)"
 msgstr "(Tiene ojos fuertes...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=16
-#. y4:msg_phrase=0
-#. y4:msg_location=T16.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1020_Kiryu"
 msgid "(Her mouth is very shapely...)"
 msgstr "(Su boca está muy bien formada...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1032_Kiryu"
 msgid "(Her hands are nice...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=0
-#. y4:msg_location=T18.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1044_Kiryu"
 msgid "(It's hard to see with her dress, but her legs?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=19
-#. y4:msg_phrase=0
-#. y4:msg_location=T19.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1056_Kiryu"
 msgid "(She's got such pretty hair...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=20
-#. y4:msg_phrase=0
-#. y4:msg_location=T20.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1068_Kiryu"
 msgid "(Could it be her chest?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=21
-#. y4:msg_phrase=0
-#. y4:msg_location=T21.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1080_Kiryu"
 msgid "(What could he have complimented her on?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=0
-#. y4:msg_location=T22.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1092_Kiryu"
 msgid "Was it your eyes? They're so strong and defiant."
 msgstr "¿Fueron tus ojos? Son muy fuertes y desafiantes."
@@ -594,376 +254,138 @@ msgctxt "1104_Maya"
 msgid "That's right! I'm impressed. <Color:7>♥<Color:Default>"
 msgstr "¡Le atinaste! Estoy muy impresionada. <Color:Default>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=2
-#. y4:msg_location=T22.P2
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1116_Maya"
 msgid "They were going for a serious look today, and he said he loved how strong my eyes looked."
 msgstr "Iban a por un look serio y dijo que le encantaba lo fuerte que se veían mis ojos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1128_Kiryu"
 msgid "Ah. What kind of expression did you use? Could you show me?"
 msgstr "Ah. ¿Y qué tipo de expresión usaste? ¿Me lo podrías enseñar?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1140_Maya"
 msgid "Sorry! I only turn it on while I'm working. You'll have to wait until the photos are published."
 msgstr "¡Discúlpame! Solo lo enseño mientras estoy trabajando. Así que solo te toca esperar hasta que se publiquen las fotos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=0
-#. y4:msg_location=T23.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1152_Kiryu"
 msgid "Was it your mouth? A good smile must be important in modeling."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=1
-#. y4:msg_location=T23.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1164_Maya"
 msgid "Nope! I do get compliments on my smile, but today they were going for a more serious look."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=2
-#. y4:msg_location=T23.P2
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1176_Maya"
 msgid "The correct answer was... my eyes! He said they looked strong and beautiful."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1188_Kiryu"
 msgid "Ah. What kind of expression did you use? Could you show me?"
 msgstr "Ah. ¿Y qué tipo de expresión usaste? ¿Me lo podrías enseñar?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1200_Maya"
 msgid "Sorry! I only turn it on while I'm working. You'll have to wait until the photos are published."
 msgstr "¡Discúlpame! Solo lo enseño mientras estoy trabajando. Así que solo te toca esperar hasta que se publiquen las fotos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=0
-#. y4:msg_location=T24.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1212_Kiryu"
 msgid "I bet it was your hands. You probably use them in all sorts of poses."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=1
-#. y4:msg_location=T24.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1224_Maya"
 msgid "Nope! The important thing is to show off the clothes, so I don't do much posing with my hands."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=2
-#. y4:msg_location=T23.P2
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1236_Maya"
 msgid "The correct answer was... my eyes! He said they looked strong and beautiful."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1248_Kiryu"
 msgid "Ah. What kind of expression did you use? Could you show me?"
 msgstr "Ah. ¿Y qué tipo de expresión usaste? ¿Me lo podrías enseñar?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1260_Maya"
 msgid "Sorry! I only turn it on while I'm working. You'll have to wait until the photos are published."
 msgstr "¡Discúlpame! Solo lo enseño mientras estoy trabajando. Así que solo te toca esperar hasta que se publiquen las fotos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=0
-#. y4:msg_location=T25.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1272_Kiryu"
 msgid "Was it your legs? You probably do all sorts of poses, right?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=1
-#. y4:msg_location=T25.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1284_Maya"
 msgid "Nope! The important thing is to show off the clothes, so I don't do much posing with my legs."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=2
-#. y4:msg_location=T23.P2
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1296_Maya"
 msgid "The correct answer was... my eyes! He said they looked strong and beautiful."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1308_Kiryu"
 msgid "Ah. What kind of expression did you use? Could you show me?"
 msgstr "Ah. ¿Y qué tipo de expresión usaste? ¿Me lo podrías enseñar?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1320_Maya"
 msgid "Sorry! I only turn it on while I'm working. You'll have to wait until the photos are published."
 msgstr "¡Discúlpame! Solo lo enseño mientras estoy trabajando. Así que solo te toca esperar hasta que se publiquen las fotos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=0
-#. y4:msg_location=T26.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1332_Kiryu"
 msgid "Was it your hair?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=1
-#. y4:msg_location=T26.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1344_Maya"
 msgid "Nope! The makeup artist always does my hair, so people wouldn't compliment me on it anyway."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=2
-#. y4:msg_location=T23.P2
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1356_Maya"
 msgid "The correct answer was... my eyes! He said they looked strong and beautiful."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1368_Kiryu"
 msgid "Ah. What kind of expression did you use? Could you show me?"
 msgstr "Ah. ¿Y qué tipo de expresión usaste? ¿Me lo podrías enseñar?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1380_Maya"
 msgid "Sorry! I only turn it on while I'm working. You'll have to wait until the photos are published."
 msgstr "¡Discúlpame! Solo lo enseño mientras estoy trabajando. Así que solo te toca esperar hasta que se publiquen las fotos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=0
-#. y4:msg_location=T27.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1392_Kiryu"
 msgid "Er... Was it your chest?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=1
-#. y4:msg_location=T27.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1404_Maya"
 msgid "Ha, nope! I don't do pin-up photos, so people don't compliment me on things like that."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=2
-#. y4:msg_location=T23.P2
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1416_Maya"
 msgid "The correct answer was... my eyes! He said they looked strong and beautiful."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1428_Kiryu"
 msgid "Ah. What kind of expression did you use? Could you show me?"
 msgstr "Ah. ¿Y qué tipo de expresión usaste? ¿Me lo podrías enseñar?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1440_Maya"
 msgid "Sorry! I only turn it on while I'm working. You'll have to wait until the photos are published."
 msgstr "¡Discúlpame! Solo lo enseño mientras estoy trabajando. Así que solo te toca esperar hasta que se publiquen las fotos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=0
-#. y4:msg_location=T28.P0
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1452_Maya"
 msgid "Hello! Are you listening to me?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=1
-#. y4:msg_location=T28.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1464_Maya"
 msgid "Or do you think I don't have anything worth complimenting!?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=2
-#. y4:msg_location=T28.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1476_Kiryu"
 msgid "No, that's not it..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=3
-#. y4:msg_location=T28.P3
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1488_Maya"
 msgid "Hmph! I was in a good mood and now you've ruined it."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=4
-#. y4:msg_location=T28.P4
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=2
 msgctxt "1500_Maya"
 msgid "If talking to me is so boring, you don't have to keep requesting me, you know."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=5
-#. y4:msg_location=T28.P5
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1512_Kiryu"
 msgid "......"
 msgstr "......"

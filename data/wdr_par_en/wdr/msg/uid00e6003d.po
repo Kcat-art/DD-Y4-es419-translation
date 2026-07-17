@@ -24,91 +24,53 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E6003D <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1300"
 msgid "Katagiri"
 msgstr "Katagiri"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1304"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "1308"
 msgid "Street Thug"
 msgstr "Maton de la Calle"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "1312"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "1316"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "1320"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=0
 msgctxt "100_Katagiri"
 msgid "You idiots know I'm yakuza, right? Mess with me and things are gonna get real ugly, real fast."
 msgstr "Idiotas saben que soy un yakuza, ¿no?\n"
 "Métanse conmigo y las cosas se pondrán feas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Street Thug
-#. y4:msg_speaker_id=2
 msgctxt "112_Street Thug"
 msgid "What, you think you're hot shit just 'cause you're yakuza? Those suits have been losin' their muscle for years. You're not tough... You're just a rat. Now empty your pockets!"
 msgstr "¿Te crees la gran cosa solo por ser un yakuza? Esos trajes ya no\n"
 "sirven para nada. No eres poderoso, no eres fuerte... solo eres\n"
 "una rata. ¡Ahora vacía tus bolsillos!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=0
 msgctxt "124_Katagiri"
 msgid "D-D-Don't hurt me! Please!"
 msgstr "¡N-N-no me lastimes! ¡Por favor!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=4
 msgctxt "136_Saejima"
 msgid "(Ain't that the guy who was beatin' the crap outta Irie-han? Think his name was Katagiri...)"
 msgstr "(¿No es ese el tipo que estaba golpeando a Irie-han?\n"

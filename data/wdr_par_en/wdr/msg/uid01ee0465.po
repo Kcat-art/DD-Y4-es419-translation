@@ -24,207 +24,126 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_DARTS_01.bin
 #. y4:runtime_play_command=y4.play_msg 01EE0465 <group>
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. One -> T0.P1 | 2. Two -> T0.P2
 msgctxt "312"
 msgid "Select the number of input devices to use."
 msgstr "Seleccione el número de dispositivos de entrada que desea utilizar."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. 301 -> T1.P1 | 2. Cricket -> T1.P2 | 3. Count-Up -> T1.P3
 msgctxt "348"
 msgid "Select the game you want to play."
 msgstr "Seleccione el modo que desea jugar."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
-#. y4:msg_decision_choices=1. Play Again -> T2.P1 | 2. Quit -> T2.P2
 msgctxt "396"
 msgid "Do you want to play again?"
 msgstr "¿Quieres volver a jugar?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
 msgctxt "432"
 msgid "Two input devices are required to play in this mode."
 msgstr "Se necesitan dos dispositivos de entrada para jugar este modo."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=3
-#. y4:msg_decision_choices=1. Yes -> T4.P1 | 2. No -> T4.P2
 msgctxt "444"
 msgid "Do you want to see the tutorial?"
 msgstr "¿Quiere ver el tutorial?"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P1
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "480"
 msgid "One"
 msgstr "Uno"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P2
-#. y4:msg_branch_segment=T0.P2..P2
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "492"
 msgid "Two"
 msgstr "Dos"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P1
-#. y4:msg_branch_segment=T1.P1..P1
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "504"
 msgid "301"
 msgstr "301"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P2
-#. y4:msg_branch_segment=T1.P2..P2
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "516"
 msgid "Cricket"
 msgstr "Cricket"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P3
-#. y4:msg_branch_segment=T1.P3..P3
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "528"
 msgid "Count-Up"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P1
-#. y4:msg_branch_segment=T2.P1..P1
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "540"
 msgid "Play Again"
 msgstr "Volver a jugar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P2
-#. y4:msg_branch_segment=T2.P2..P2
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "552"
 msgid "Quit"
 msgstr "Salir"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T4.P1
-#. y4:msg_branch_segment=T4.P1..P1
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "564"
 msgid "Yes"
 msgstr "Sí"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T4.P2
-#. y4:msg_branch_segment=T4.P2..P2
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "576"
 msgid "No"
 msgstr "No"

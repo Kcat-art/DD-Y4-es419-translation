@@ -24,452 +24,192 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CABA02.bin
 #. y4:runtime_play_command=y4.play_msg 016C001E <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
 msgctxt "504"
 msgid "Controls"
 msgstr "Controles"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "19976"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "19980"
 msgid "F_cab_sitsofa_hot_momoA"
 msgstr "F_cab_sitsofa_hot_momoA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "19984"
 msgid "F_cab_sitsofa_hot_muneA"
 msgstr "F_cab_sitsofa_hot_muneA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "19988"
 msgid "Rio"
 msgstr "Rio"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "19992"
 msgid "F_cab_sitsofa_tlk_noA"
 msgstr "F_cab_sitsofa_tlk_noA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "19996"
 msgid "F_cab_sitsofa_tlk_tereruA"
 msgstr "F_cab_sitsofa_tlk_tereruA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "20000"
 msgid "F_cab_sitsofa_tlk_happy"
 msgstr "F_cab_sitsofa_tlk_happy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "20004"
 msgid "F_cab_sitsofa_tlk_yes"
 msgstr "F_cab_sitsofa_tlk_yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "20008"
 msgid "F_cab_sitsofa_tlk_suprise"
 msgstr "F_cab_sitsofa_tlk_suprise"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "20012"
 msgid "F_cab_sitsofa_tlk_gakkariA"
 msgstr "F_cab_sitsofa_tlk_gakkariA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "20016"
 msgid "F_cab_sitsofa_tlk_angry"
 msgstr "F_cab_sitsofa_tlk_angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "20020"
 msgid "F_cab_sitsofa_talk_smileA"
 msgstr "F_cab_sitsofa_talk_smileA"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
 msgctxt "516_Akiyama"
 msgid "Use <Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control where you look. This is your chance to feast your eyes on her beauty."
 msgstr "Usa <Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> para mover tu mirada. Esta es tu oportunidad para deleitar tus ojos con su belleza."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
 msgctxt "528_Akiyama"
 msgid "Press <Action:Button_Cross@Cabaret> when you want to focus intently on one of her features. Holding down <Action:Button_Cross@Cabaret> allows you to focus your gaze."
 msgstr "Presiona <Action:Button_Cross@Cabaret> en el lugar donde deseas dirigir tu \"poderosa\" mirada. Si mantienes presionado <Action:Button_Cross@Cabaret>, la mirada se enfocará más y será aún más intensa."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
 msgctxt "540_Akiyama"
 msgid "Note that her response will change depending on where you look."
 msgstr "Ten en cuenta que su reacción cambiará dependiendo a donde mires."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "564_Akiyama"
 msgid "(Did she lose a little weight?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "576_Akiyama"
 msgid "(Is that a different color lipstick?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "588_Akiyama"
 msgid "(Her beautiful hands...)"
 msgstr "(Sus manos son preciosas...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "600_Akiyama"
 msgid "(I can't really tell...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "612_Akiyama"
 msgid "(Hm? Is that her usual hairstyle?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "624_Akiyama"
 msgid "(Did her chest get bigger?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "636_Akiyama"
 msgid "(How the hell am I supposed to know?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "648_Akiyama"
 msgid "Did you lose a little weight?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=1
-#. y4:msg_location=T8.P1
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "660_Rio"
 msgid "No! You're just guessing, aren't you?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=2
-#. y4:msg_location=T8.P2
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "672_Rio"
 msgid "I actually just started eating a kind of gelatin dessert with collagen in it. It's made my skin so youthful!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=3
-#. y4:msg_location=T8.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "684_Akiyama"
 msgid "Oh! Now that you mention it, your skin does look really nice!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=4
-#. y4:msg_location=T8.P4
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "696_Rio"
 msgid "Are you sure?"
 msgstr "Tú..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=5
-#. y4:msg_location=T8.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "708_Akiyama"
 msgid "Of course. Just look at it... Wow... Youthful!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=6
-#. y4:msg_location=T8.P6
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "720_Rio"
 msgid "Hehe. Thanks!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=7
-#. y4:msg_location=T8.P7
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "732_Rio"
 msgid "It has collagen and hyaluronic acid in it. They say it works better if you eat it rather than apply it directly to your skin."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=8
-#. y4:msg_location=T8.P8
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "744_Akiyama"
 msgid "Hmm, I see..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "756_Akiyama"
 msgid "Did you change the color of your lipstick?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=1
-#. y4:msg_location=T9.P1
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "768_Rio"
 msgid "No, nothing like that! Don't you notice anything looking prettier than usual?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=2
-#. y4:msg_location=T8.P2
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "780_Rio"
 msgid "I actually just started eating a kind of gelatin dessert with collagen in it. It's made my skin so youthful!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=3
-#. y4:msg_location=T8.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "792_Akiyama"
 msgid "Oh! Now that you mention it, your skin does look really nice!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=4
-#. y4:msg_location=T9.P4
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "804_Rio"
 msgid "Are you sure...?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=5
-#. y4:msg_location=T9.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "816_Akiyama"
 msgid "Of course. Just look at that... Wow... Youthful!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=6
-#. y4:msg_location=T9.P6
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "828_Rio"
 msgid "Hehehe. Thanks!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=7
-#. y4:msg_location=T9.P7
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "840_Rio"
 msgid "It has collagen and hyaluronic acid in it. They say it works better if you eat it rather than apply it to your skin."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=8
-#. y4:msg_location=T8.P8
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "852_Akiyama"
 msgid "Hmm, I see..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "864_Akiyama"
 msgid "Your hands look so smooth. In fact, all your skin looks really good."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=1
-#. y4:msg_location=T10.P1
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "876_Rio"
 msgid "That's right! I've been eating a kind of gelatin dessert with collagen in it!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=2
-#. y4:msg_location=T10.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "888_Akiyama"
 msgid "Wow... Really?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=7
-#. y4:msg_location=T9.P7
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "900_Rio"
 msgid "It has collagen and hyaluronic acid in it. They say it works better if you eat it rather than apply it to your skin."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=4
-#. y4:msg_location=T10.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "912_Akiyama"
 msgid "I guess you really are what you eat, huh?"
 msgstr ""
@@ -478,728 +218,266 @@ msgctxt "924_Rio"
 msgid "Hehe, yep! <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "936_Rio"
 msgid "Hey, what are you looking at?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=1
-#. y4:msg_location=T11.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "948_Akiyama"
 msgid "No... There's no way I can tell."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=2
-#. y4:msg_location=T11.P2
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "960_Rio"
 msgid "So you just stare at my legs instead? That's so pervy..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=2
-#. y4:msg_location=T8.P2
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "972_Rio"
 msgid "I actually just started eating a kind of gelatin dessert with collagen in it. It's made my skin so youthful!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=4
-#. y4:msg_location=T11.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "984_Akiyama"
 msgid "Collagen? I think I've heard of that."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=7
-#. y4:msg_location=T9.P7
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "996_Rio"
 msgid "It has collagen and hyaluronic acid in it. They say it works better if you eat it rather than apply it to your skin."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=6
-#. y4:msg_location=T11.P6
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1008_Akiyama"
 msgid "Hmm... I see."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1020_Akiyama"
 msgid "You changed your hairstyle, right? Even I can notice something like that."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=1
-#. y4:msg_location=T12.P1
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1032_Rio"
 msgid "Huh? I haven't changed my hair at all."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=2
-#. y4:msg_location=T12.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1044_Akiyama"
 msgid "You're kidding. Really?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=3
-#. y4:msg_location=T12.P3
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1056_Rio"
 msgid "Akiyama-san, I guess you weren't really looking at me at all..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=4
-#. y4:msg_location=T12.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1068_Akiyama"
 msgid "So what's different, then?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=5
-#. y4:msg_location=T12.P5
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1080_Rio"
 msgid "Oh, never mind. I'm a little saddened..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=6
-#. y4:msg_location=T12.P6
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1092_Akiyama"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1104_Akiyama"
 msgid "Did your chest get bigger?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=1
-#. y4:msg_location=T13.P1
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1116_Rio"
 msgid "I don't think so..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=2
-#. y4:msg_location=T13.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1128_Akiyama"
 msgid "Oh..."
 msgstr "Oh..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=3
-#. y4:msg_location=T13.P3
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1140_Rio"
 msgid "You just wanted an excuse to stare at my chest, didn't you? You're such a perv..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=2
-#. y4:msg_location=T8.P2
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1152_Rio"
 msgid "I actually just started eating a kind of gelatin dessert with collagen in it. It's made my skin so youthful!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=4
-#. y4:msg_location=T11.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1164_Akiyama"
 msgid "Collagen? I think I've heard of that."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=7
-#. y4:msg_location=T9.P7
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1176_Rio"
 msgid "It has collagen and hyaluronic acid in it. They say it works better if you eat it rather than apply it to your skin."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=6
-#. y4:msg_location=T11.P6
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1188_Akiyama"
 msgid "Hmm... I see."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1200_Rio"
 msgid "Hey, what are you looking at?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=1
-#. y4:msg_location=T14.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1212_Akiyama"
 msgid "Hm? Oh, I was just thinking. This is a tough one."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=2
-#. y4:msg_location=T14.P2
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1224_Rio"
 msgid "Here I am working hard to make myself more attractive for you, and you don't even notice."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=3
-#. y4:msg_location=T14.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1236_Akiyama"
 msgid "Working hard? What did you do?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=4
-#. y4:msg_location=T14.P4
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1248_Rio"
 msgid "Never mind! If you don't know, I'm not telling you!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=6
-#. y4:msg_location=T12.P6
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1260_Akiyama"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1272_Akiyama"
 msgid "(Glasses or sunglasses, maybe?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=16
-#. y4:msg_phrase=0
-#. y4:msg_location=T16.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1284_Akiyama"
 msgid "(Possibly different kinds of lipstick...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1296_Akiyama"
 msgid "(She's not wearing one now, but... a watch?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=0
-#. y4:msg_location=T18.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1308_Akiyama"
 msgid "(A skirt?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=19
-#. y4:msg_phrase=0
-#. y4:msg_location=T19.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1320_Akiyama"
 msgid "(I think she'd look good in a hat...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=20
-#. y4:msg_phrase=0
-#. y4:msg_location=T20.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1332_Akiyama"
 msgid "(I know! A bra!)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=21
-#. y4:msg_phrase=0
-#. y4:msg_location=T21.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1344_Akiyama"
 msgid "(Hmm... Could be almost anything.)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=0
-#. y4:msg_location=T22.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1356_Akiyama"
 msgid "Glasses or sunglasses, maybe? It can take a while to find a pair that fits just right."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=1
-#. y4:msg_location=T22.P1
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1368_Rio"
 msgid "Nope! I've never spent that long deciding on a pair of sunglasses."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=2
-#. y4:msg_location=T22.P2
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1380_Rio"
 msgid "The correct answer was... a bra! I adore cute underwear."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1392_Akiyama"
 msgid "Wow, it was that cute, huh? Can I take a look?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1404_Rio"
 msgid "Haha! Nuh-uh. Nice try though!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=5
-#. y4:msg_location=T22.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1416_Akiyama"
 msgid "Aw... You shouldn't make such a big deal about something if you're not going to let me see it for myself."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=0
-#. y4:msg_location=T23.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1428_Akiyama"
 msgid "Lipstick or makeup? There're so many different colors."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=1
-#. y4:msg_location=T23.P1
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1440_Rio"
 msgid "Nope! I do like makeup, but I know what I like, so I always buy the same kind."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=2
-#. y4:msg_location=T22.P2
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1452_Rio"
 msgid "The correct answer was... a bra! I adore cute underwear."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1464_Akiyama"
 msgid "Wow, it was that cute, huh? Can I take a look?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1476_Rio"
 msgid "Haha! Nuh-uh. Nice try though!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=5
-#. y4:msg_location=T22.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1488_Akiyama"
 msgid "Aw... You shouldn't make such a big deal about something if you're not going to let me see it for myself."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=0
-#. y4:msg_location=T24.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1500_Akiyama"
 msgid "A wristwatch, maybe? I could understand spending that long trying to decide over something so expensive."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=1
-#. y4:msg_location=T24.P1
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1512_Rio"
 msgid "Nope! I don't usually wear watches."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=2
-#. y4:msg_location=T22.P2
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1524_Rio"
 msgid "The correct answer was... a bra! I adore cute underwear."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1536_Akiyama"
 msgid "Wow, it was that cute, huh? Can I take a look?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1548_Rio"
 msgid "Haha! Nuh-uh. Nice try though!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=5
-#. y4:msg_location=T22.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1560_Akiyama"
 msgid "Aw... You shouldn't make such a big deal about something if you're not going to let me see it for myself."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=0
-#. y4:msg_location=T25.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1572_Akiyama"
 msgid "I don't really know much about this kind of thing, but... a skirt, maybe?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=1
-#. y4:msg_location=T25.P1
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1584_Rio"
 msgid "Nope! I've never spent that long deciding on a skirt or a pair of pants."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=2
-#. y4:msg_location=T22.P2
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1596_Rio"
 msgid "The correct answer was... a bra! I adore cute underwear."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=3
-#. y4:msg_location=T25.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1608_Akiyama"
 msgid "Wow, they it was that cute, huh? Can I take a look?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1620_Rio"
 msgid "Haha! Nuh-uh. Nice try though!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=5
-#. y4:msg_location=T22.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1632_Akiyama"
 msgid "Aw... You shouldn't make such a big deal about something if you're not going to let me see it for myself."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=0
-#. y4:msg_location=T26.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1644_Akiyama"
 msgid "I bet it was a hat. You look like you probably have a lot of them."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=1
-#. y4:msg_location=T26.P1
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1656_Rio"
 msgid "No, if I see a hat I like, I usually just buy it without giving it much thought."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=2
-#. y4:msg_location=T22.P2
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1668_Rio"
 msgid "The correct answer was... a bra! I adore cute underwear."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1680_Akiyama"
 msgid "Wow, it was that cute, huh? Can I take a look?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1692_Rio"
 msgid "Haha! Nuh-uh. Nice try though!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=5
-#. y4:msg_location=T22.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1704_Akiyama"
 msgid "Aw... You shouldn't make such a big deal about something if you're not going to let me see it for myself."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=0
-#. y4:msg_location=T27.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1716_Akiyama"
 msgid " Was it a bra? I know a lot of girls can be pretty picky about underwear."
 msgstr ""
@@ -1208,79 +486,30 @@ msgctxt "1728_Rio"
 msgid "That's right! How did you know? I just love cute underwear! <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=2
-#. y4:msg_location=T27.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1740_Akiyama"
 msgid "Now you've got me curious. Mind if I take a look?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1752_Rio"
 msgid "Haha! Nuh-uh. Nice try though!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=4
-#. y4:msg_location=T27.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1764_Akiyama"
 msgid "Heh. It was worth a try."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=0
-#. y4:msg_location=T28.P0
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1776_Rio"
 msgid "Akiyama-san, what are you looking at?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=1
-#. y4:msg_location=T28.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "1788_Akiyama"
 msgid "Hm? Oh, I... Sorry, what were we talking about again?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=2
-#. y4:msg_location=T28.P2
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1800_Rio"
 msgid "Huh? You weren't even listening?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=3
-#. y4:msg_location=T28.P3
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=3
 msgctxt "1812_Rio"
 msgid "Oh, never mind."
 msgstr ""

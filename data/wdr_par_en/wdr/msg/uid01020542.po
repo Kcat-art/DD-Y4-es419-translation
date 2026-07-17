@@ -24,553 +24,222 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KOKYO.bin
 #. y4:runtime_play_command=y4.play_msg 01020542 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "16176"
 msgid "Zhao"
 msgstr "Zhao"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "16180"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "16184"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "16188"
 msgid "Hisai"
 msgstr "Hisai"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "16192"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "16196"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "16200"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "16204"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "88_Zhao"
 msgid "Oh, Ma-chan, you're back. How'd the thing go?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "100_Tanimura"
 msgid "Well, I found the case report for the hit."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "112_Zhao"
 msgid "You did!? What did it say!?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "124_Tanimura"
 msgid "A lot of stuff I already knew, plus one new piece of info."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "136_Zhao"
 msgid "Oh?"
 msgstr "Oh..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "148_Tanimura"
 msgid "Sugiuchi was investigating that case... along with my dad."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "160_Zhao"
 msgid "Sugiuchi? The same one that's always giving you hell back at the station?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "172_Tanimura"
 msgid "Mhm. I've talked to him more times than I care to remember, but he never once mentioned being on a case with my dad."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "184_Tanimura"
 msgid "And that's despite him knowing how bad I want the truth."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "196_Zhao"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "208_Tanimura"
 msgid "That's not the worst of it, either. I'm starting to believe someone on the force did my father in."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "220_Tanimura"
 msgid "Katsuragi said as much when we met yesterday."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "232_Zhao"
 msgid "Another officer... Things just keep getting better, huh?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "244_Tanimura"
 msgid "Seriously..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "256_Zhao"
 msgid "Why don't you call it a day, Ma-chan? Even you need to rest at some point."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "268_Tanimura"
 msgid "...You're right. I think I'll knock out for a while."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "280_Zhao"
 msgid "You do that."
 msgstr "Hazlo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "292_Zhao"
 msgid "Hey, Mei Hua! Get Ma-chan's futon ready!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "340_Hisai"
 msgid "Either way, Tanimura-kun, that stunt you pulled had me worried half to death!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "352_Hisai"
 msgid "I got a call from Sugiuchi-kun in Homicide telling me you were trying to contact the Ueno Seiwa."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "364_Hisai"
 msgid "So I took it upon myself to search for you before you wound up in danger... Which ended up happening anyway!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "376_Tanimura"
 msgid "Ahh, so that's why you're here."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "388_Hisai"
 msgid "Tanimura-kun. You must have some inclination as to how dangerous the Ueno Seiwa Clan is right now. Are you even aware of the gravity of this situation?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "400_Tanimura"
 msgid "Eh, more or less."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "412_Hisai"
 msgid "*sigh*"
 msgstr "*suspiro*"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "424_Zhao"
 msgid "Well, at least this Katsuragi seems to know something about your father's killer."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "436_Zhao"
 msgid "Sounds like progress to me."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "448_Tanimura"
 msgid "Yeah, I guess that's one way to look at it..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "460_Zhao"
 msgid "Then why the long face? You finally have a promising lead."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "472_Tanimura"
 msgid "Something that Katsuragi said has been bugging me."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "484_Zhao"
 msgid "And what was that?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "496_Tanimura"
 msgid "The police covered up the truth about the massacre in 1985."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "508_Tanimura"
 msgid "They knew the real killer was Katsuragi, but they pinned it all on Saejima."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=16
-#. y4:msg_location=T1.P16
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "520_Zhao"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=17
-#. y4:msg_location=T1.P17
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "532_Hisai"
 msgid "What!?"
 msgstr "¡¿Qué?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=18
-#. y4:msg_location=T1.P18
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "544_Tanimura"
 msgid "None of this rings a bell, Chief?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=19
-#. y4:msg_location=T1.P19
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "556_Hisai"
 msgid "No. I'm not in Homicide, and back then I was as low on the totem pole as it gets."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=20
-#. y4:msg_location=T1.P20
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "568_Tanimura"
 msgid "Fair enough."
 msgstr "Así es."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=21
-#. y4:msg_location=T1.P21
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "580_Zhao"
 msgid "So were the police trying to protect Katsuragi? If so, why?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=22
-#. y4:msg_location=T1.P22
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "592_Tanimura"
 msgid "Who knows? But they obviously couldn't let a scandal like that go public."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=23
-#. y4:msg_location=T1.P23
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "604_Zhao"
 msgid "Hrm..."
 msgstr "Hrm..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=25
-#. y4:msg_location=T1.P25
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "628_Hisai"
 msgid "...I just thought of something."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=26
-#. y4:msg_location=T1.P26
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "640_Tanimura"
 msgid "Hm?"
 msgstr "¿Mm?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=27
-#. y4:msg_location=T1.P27
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "652_Hisai"
 msgid "Maybe we could dig something up at headquarters."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=28
-#. y4:msg_location=T1.P28
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "664_Tanimura"
 msgid "Oh yeah? How?"
 msgstr ""
@@ -580,321 +249,118 @@ msgid "Archive Room 13 on basement level 3...\\r\n"
 "The so-called Forbidden Room."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=30
-#. y4:msg_location=T1.P30
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "688_Zhao"
 msgid "Forbidden Room!?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=31
-#. y4:msg_location=T1.P31
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "700_Hisai"
 msgid "That's right. Also known as the \"Scandal Graveyard.\""
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=32
-#. y4:msg_location=T1.P32
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "712_Hisai"
 msgid "All records of police misconduct over the years supposedly end up there."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=33
-#. y4:msg_location=T1.P33
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "724_Hisai"
 msgid "Or so the rumor goes."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=34
-#. y4:msg_location=T1.P34
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "736_Tanimura"
 msgid "Interesting. Then we just might find something useful."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=35
-#. y4:msg_location=T1.P35
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "748_Hisai"
 msgid "Yes. Or, well, it could all simply be a rumor."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=36
-#. y4:msg_location=T1.P36
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "760_Tanimura"
 msgid "Still, worth a shot. In fact... I'm all over it."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=37
-#. y4:msg_location=T1.P37
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "772_Hisai"
 msgid "Now hold your horses, Tanimura-kun! Think about it. Archive 13 is smack-dab in the middle of headquarters!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=38
-#. y4:msg_location=T1.P38
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "784_Hisai"
 msgid "A rookie like you can't just go strolling in there without permission."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=39
-#. y4:msg_location=T1.P39
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "796_Tanimura"
 msgid "I never planned on asking. I mean, we're dealing with someone who can cover up mass murder."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=40
-#. y4:msg_location=T1.P40
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "808_Tanimura"
 msgid "I doubt they'd be keen on giving me access to the evidence."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=41
-#. y4:msg_location=T1.P41
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "820_Zhao"
 msgid "You serious about this, Ma-chan...?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=42
-#. y4:msg_location=T1.P42
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "832_Hisai"
 msgid "Tanimura-kun, I... No, nothing."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=43
-#. y4:msg_location=T1.P43
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "844_Tanimura"
 msgid "So. We all ready to go?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=44
-#. y4:msg_location=T1.P44
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "856_Hisai"
 msgid "Huh? Wait... \"We\" as in you and me?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=45
-#. y4:msg_location=T1.P45
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "868_Tanimura"
 msgid "Of course! Us Community Safety boys gotta stick together, right? Besides, I've only been to HQ maybe once or twice."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=46
-#. y4:msg_location=T1.P46
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "880_Tanimura"
 msgid "I probably couldn't find this archive even if I tried."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=47
-#. y4:msg_location=T1.P47
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "892_Tanimura"
 msgid "But you know right where it is, don't you, Chief?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=48
-#. y4:msg_location=T1.P48
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "904_Hisai"
 msgid "What? No, I... Well, I mean, yes, but be that as it may..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=49
-#. y4:msg_location=T1.P49
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "916_Tanimura"
 msgid "Great! Then I'll be counting on you!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "940_Zhao"
 msgid "What!? You mean someone else killed those 18 men?"
 msgstr "¿¡Qué!? ¿Dices que alguien más mató a esos 18 hombres?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "952_Tanimura"
 msgid "Right. The Ueno Seiwa officers were taken out by one of their own: Katsuragi."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "964_Zhao"
 msgid "Then Yasuko Saejima's brother is innocent?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "976_Tanimura"
 msgid "Well, he did carry out the attack, so he's far from innocent."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "988_Tanimura"
 msgid "But there's a big difference in sentencing for murder and attempted murder."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=23
-#. y4:msg_location=T1.P23
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=0
 msgctxt "1000_Zhao"
 msgid "Hrm..."
 msgstr "Hrm..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "1012_Hisai"
 msgid "Was this Katsuragi also responsible for killing your father?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1024_Tanimura"
 msgid "I couldn't get an answer out of him."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=8
-#. y4:msg_location=T2.P8
-#. y4:msg_speaker=Hisai
-#. y4:msg_speaker_id=3
 msgctxt "1036_Hisai"
 msgid "I see..."
 msgstr "Ya veo..."

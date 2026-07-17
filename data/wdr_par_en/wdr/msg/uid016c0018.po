@@ -24,294 +24,136 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CABA02.bin
 #. y4:runtime_play_command=y4.play_msg 016C0018 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
 msgctxt "504"
 msgid "Controls"
 msgstr "Controles"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=2
-#. y4:msg_location=T8.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "672"
 msgid "Sometimes it can help to put a warm, damp cloth on your eyes. It improves the blood flow."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=5
-#. y4:msg_location=T8.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "708"
 msgid "True enough."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=2
-#. y4:msg_location=T9.P2
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=2
 msgctxt "744"
 msgid "And besides, I move my mouth all the time when I talk. I don't need to worry about it."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=3
-#. y4:msg_location=T10.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "852"
 msgid "All right."
 msgstr "Está bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=3
-#. y4:msg_location=T12.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "900"
 msgid "Not a bad idea, right?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=2
-#. y4:msg_location=T27.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1392"
 msgid "Me? No way."
 msgstr ""
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "13440"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "13444"
 msgid "F_cab_sitsofa_hot_muneA"
 msgstr "F_cab_sitsofa_hot_muneA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "13448"
 msgid "Himeka"
 msgstr "Himeka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "13452"
 msgid "F_cab_sitsofa_tlk_suprise"
 msgstr "F_cab_sitsofa_tlk_suprise"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "13456"
 msgid "F_cab_sitsofa_tlk_happy"
 msgstr "F_cab_sitsofa_tlk_happy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "13460"
 msgid "F_cab_sitsofa_tlk_noA"
 msgstr "F_cab_sitsofa_tlk_noA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "13464"
 msgid "F_cab_sitsofa_talk_smileA"
 msgstr "F_cab_sitsofa_talk_smileA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "13468"
 msgid "F_cab_sitsofa_tlk_refuse"
 msgstr "F_cab_sitsofa_tlk_refuse"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "13472"
 msgid "F_cab_sitsofa_tlk_angry"
 msgstr "F_cab_sitsofa_tlk_angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "13476"
 msgid "F_cab_sitsofa_hot_momoA"
 msgstr "F_cab_sitsofa_hot_momoA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "13480"
 msgid "P_sitsofaR_tlk_yes"
 msgstr "P_sitsofaR_tlk_yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "13484"
 msgid "F_cab_sitsofa_sp5_sync_laugh"
 msgstr "F_cab_sitsofa_sp5_sync_laugh"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "13488"
 msgid "P_sitsofa_sp5_sync_laugh"
 msgstr "P_sitsofa_sp5_sync_laugh"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
 msgctxt "516_Tanimura"
 msgid "Use <Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control where you look. This is your chance to feast your eyes on her beauty."
 msgstr "Usa <Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> para mover tu mirada. Esta es tu oportunidad para deleitar tus ojos con su belleza."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
 msgctxt "528_Tanimura"
 msgid "Press <Action:Button_Cross@Cabaret> when you want to focus intently on one of her features. Holding down <Action:Button_Cross@Cabaret> allows you to focus your gaze."
 msgstr "Presiona <Action:Button_Cross@Cabaret> en el lugar donde deseas dirigir tu \"poderosa\" mirada. Si mantienes presionado <Action:Button_Cross@Cabaret>, la mirada se enfocará más y será aún más intensa."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
 msgctxt "540_Tanimura"
 msgid "Note that her response will change depending on where you look."
 msgstr "Ten en cuenta que su reacción cambiará dependiendo a donde mires."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "564_Tanimura"
 msgid "(Should I choose her eyes?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "576_Tanimura"
 msgid "(Should I choose her mouth?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "588_Tanimura"
 msgid "(Maybe her hands...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "600_Tanimura"
 msgid "(Maybe her legs...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "612_Tanimura"
 msgid "(Maybe her head...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "624_Tanimura"
 msgid "(Well...)"
 msgstr "(Bueno...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "636_Tanimura"
 msgid "(Let me think...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "648_Tanimura"
 msgid "Your eyes look tired. A nice eye massage would do the trick."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=1
-#. y4:msg_location=T8.P1
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=2
 msgctxt "660_Tanimura"
 msgid "Ya think so? It's true that I haven't been gettin' enough sleep lately."
 msgstr ""
@@ -324,90 +166,34 @@ msgctxt "696_F_cab_sitsofa_tlk_noA"
 msgid "But wouldn't that ruin my makeup? ♪"
 msgstr "¿Pero eso no arruinaría mi maquillaje? ♪"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "720_Tanimura"
 msgid "I could massage the area around your mouth. It could help relax your cheek muscles and even improve your smile."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=1
-#. y4:msg_location=T9.P1
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=2
 msgctxt "732_Tanimura"
 msgid "What? You think my smile needs improvin'?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=3
-#. y4:msg_location=T9.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "756_Tanimura"
 msgid "Suit yourself."
 msgstr "Bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "768_Tanimura"
 msgid "I could try the pressure points in your hand."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=1
-#. y4:msg_location=T10.P1
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=2
 msgctxt "780_F_cab_sitsofa_tlk_happy"
 msgid "Yeah, that sounds good."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=2
-#. y4:msg_location=T10.P2
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=2
 msgctxt "792_Tanimura"
 msgid "But I could do that myself. I was thinkin' of someplace else."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=3
-#. y4:msg_location=T10.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "804_Tanimura"
 msgid "All right."
 msgstr "Está bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "816_Tanimura"
 msgid "How about your legs? Massaging different parts of your legs and feet can really have an effect."
 msgstr ""
@@ -420,13 +206,6 @@ msgctxt "840_Tanimura"
 msgid "But they don't allow touching at this club. Maybe some other time? <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "864_Tanimura"
 msgid "Maybe I could massage your head a bit?"
 msgstr ""
@@ -439,189 +218,70 @@ msgctxt "888_F_cab_sitsofa_talk_smileA"
 msgid "But come to think of it, I get a head massage when I get my hair shampooed at the beauty salon and I love that. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=2
 msgctxt "912_Himeka"
 msgid "Tanimura-san! What are you thinking of massaging!?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=1
-#. y4:msg_location=T13.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "924_Tanimura"
 msgid "Oh, uh... Sorry..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=2
-#. y4:msg_location=T13.P2
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=2
 msgctxt "936_Himeka"
 msgid "I think massagin' my chest would be more of a treat for you than for me! Ya pervert!"
 msgstr "¡Creo que masajear mi pecho sería más un placer para ti que para mí! ¡Pervertido!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=3
-#. y4:msg_location=T13.P3
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=2
 msgctxt "948_Himeka"
 msgid "I didn't think you were that kinda guy!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=4
-#. y4:msg_location=T13.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "960_Tanimura"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=2
 msgctxt "972_Himeka"
 msgid "What are you lookin' at?"
 msgstr "¿Qué estás mirando?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=1
-#. y4:msg_location=T14.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "984_Tanimura"
 msgid "Huh? Oh, I just..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=2
-#. y4:msg_location=T14.P2
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=2
 msgctxt "996_F_cab_sitsofa_tlk_angry"
 msgid "Ya didn't really want to give me a massage, did ya?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=3
-#. y4:msg_location=T14.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1008_Tanimura"
 msgid "Sure I did..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1020_Tanimura"
 msgid "(Her face?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1032_Tanimura"
 msgid "(Her face?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1044_Tanimura"
 msgid "(Her hands?)"
 msgstr "(¿Sus manos?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=0
-#. y4:msg_location=T18.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1056_Tanimura"
 msgid "(Her feet?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=19
-#. y4:msg_phrase=0
-#. y4:msg_location=T19.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1068_Tanimura"
 msgid "(Her hair?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=20
-#. y4:msg_phrase=0
-#. y4:msg_location=T20.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1080_Tanimura"
 msgid "(Her chest?)"
 msgstr "(¿Su pecho?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=21
-#. y4:msg_phrase=0
-#. y4:msg_location=T21.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1092_Tanimura"
 msgid "(I really don't know what to pick.)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=0
-#. y4:msg_location=T22.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1104_Tanimura"
 msgid "Your face?"
 msgstr ""
@@ -630,24 +290,10 @@ msgctxt "1116_Tanimura"
 msgid "You got it! I guess you know me pretty well. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=2
-#. y4:msg_location=T22.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1128_P_sitsofaR_tlk_yes"
 msgid "It's always so pretty."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=2
 msgctxt "1140_F_cab_sitsofa_sp5_sync_laugh"
 msgid "Oh, you... Yer so damn honest..."
 msgstr ""
@@ -657,13 +303,6 @@ msgid "I always make sure to wash off my makeup before I get into\\r\n"
 "the tub. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=0
-#. y4:msg_location=T22.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1164_Tanimura"
 msgid "Your face?"
 msgstr ""
@@ -672,13 +311,6 @@ msgctxt "1176_Tanimura"
 msgid "You got it! ♪ I guess you know me pretty well. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=2
-#. y4:msg_location=T22.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1188_Tanimura"
 msgid "It's always so pretty."
 msgstr ""
@@ -692,13 +324,6 @@ msgid "I always make sure to wash off my makeup before I get into\\r\n"
 "the tub. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=0
-#. y4:msg_location=T24.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1224_Tanimura"
 msgid "Your hands?"
 msgstr ""
@@ -716,13 +341,6 @@ msgid "I always make sure to wash off my makeup before I get into\\r\n"
 "the tub. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=0
-#. y4:msg_location=T25.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1272_Tanimura"
 msgid "Your feet?"
 msgstr ""
@@ -740,13 +358,6 @@ msgid "I always make sure to wash off my makeup before I get into\\r\n"
 "the tub. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=0
-#. y4:msg_location=T26.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1320_Tanimura"
 msgid "Your hair?"
 msgstr ""
@@ -764,13 +375,6 @@ msgid "I always make sure to wash off my makeup before I get into\\r\n"
 "the tub. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=0
-#. y4:msg_location=T27.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1368_Tanimura"
 msgid "Your chest?"
 msgstr ""
@@ -788,35 +392,14 @@ msgid "I always make sure to wash off my makeup before I get into\\r\n"
 "the tub. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=0
-#. y4:msg_location=T28.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1428_Tanimura"
 msgid "(There's no way I'd know this...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=1
-#. y4:msg_location=T28.P1
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=2
 msgctxt "1440_F_cab_sitsofa_tlk_angry"
 msgid "Oh, c'mon! You even tryin'? Get that noggin joggin'!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=2
-#. y4:msg_location=T28.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1452_Tanimura"
 msgid "I give up. Tell me."
 msgstr ""

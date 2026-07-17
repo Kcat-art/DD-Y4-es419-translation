@@ -24,326 +24,148 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E60292 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "4520"
 msgid "Shinnosuke"
 msgstr "Shinnosuke"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "4524"
 msgid "Shinnosuke's Former Customer"
 msgstr "Antiguo Cliente de Shinnosuke"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "4528"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "4532"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "4536"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "4540"
 msgid "Boyfriend"
 msgstr "Novio"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "4544"
 msgid "ReM_nml_yoroke_br_big"
 msgstr "ReM_nml_yoroke_br_big"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "4548"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "4552"
 msgid "SetM_nml_sitgrd_down_02"
 msgstr "SetM_nml_sitgrd_down_02"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
+#. y4:msg_role=name
+#. y4:msg_name_id=9
 msgctxt "4556"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "4560"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "4564"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Shinnosuke
-#. y4:msg_speaker_id=0
 msgctxt "100_Shinnosuke"
 msgid "You can't get away with this! You have to pay your tab!"
 msgstr "¡No puedes salirte con la tuya! ¡Tienes que pagar tu cuenta!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Shinnosuke's Former Customer
-#. y4:msg_speaker_id=1
 msgctxt "112_Shinnosuke's Former Customer"
 msgid "Huh? What're you talking about!? You already paid off the club, right? I don't owe them anything!"
 msgstr "¿Eh? ¿¡De qué hablas!? Ya le pagaste al club, ¿verdad? ¡No les debo nada!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Shinnosuke
-#. y4:msg_speaker_id=0
 msgctxt "124_Shinnosuke"
 msgid "But you owe me now, so pay up!"
 msgstr "Pero ahora me debes, ¡así que paga!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Shinnosuke's Former Customer
-#. y4:msg_speaker_id=1
 msgctxt "136_Shinnosuke's Former Customer"
 msgid "No."
 msgstr "Así es."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Shinnosuke
-#. y4:msg_speaker_id=0
 msgctxt "148_Shinnosuke"
 msgid "Why you...!"
 msgstr "¡Por qué tú...!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Boyfriend
-#. y4:msg_speaker_id=5
 msgctxt "160_Boyfriend"
 msgid "Give it up! You're a professional host, time you learned how to deal with things like this!"
 msgstr "¡Ríndete! Eres un anfitrión profesional, ¡es hora de que aprendas a lidiar con cosas como esta!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Shinnosuke
-#. y4:msg_speaker_id=0
 msgctxt "196_Shinnosuke"
 msgid "Agh!"
 msgstr "¡Agh!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Shinnosuke's Former Customer
-#. y4:msg_speaker_id=1
 msgctxt "208_Shinnosuke's Former Customer"
 msgid "Haha! I soooo prefer a strong man to a pretty-faced host!"
 msgstr "¡Jaja! ¡Prefiero a un hombre fuerte a un host de cara bonita!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Boyfriend
-#. y4:msg_speaker_id=5
 msgctxt "220_Boyfriend"
 msgid "Heheh..."
 msgstr "Je, je, je..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Shinnosuke
-#. y4:msg_speaker_id=0
 msgctxt "232_Shinnosuke"
 msgid "Damn it..."
 msgstr "Maldita sea..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=9
 msgctxt "244_Tanimura"
 msgid "That's enough."
 msgstr "Ya fue suficiente."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Boyfriend
-#. y4:msg_speaker_id=5
 msgctxt "256_Boyfriend"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Shinnosuke's Former Customer
-#. y4:msg_speaker_id=1
 msgctxt "268_Shinnosuke's Former Customer"
 msgid "Who are you?"
 msgstr "¿Quién eres?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=9
 msgctxt "280_Tanimura"
 msgid "I heard everything. You're definitely in the wrong here. Pay him his money."
 msgstr "Escuché todo. Definitivamente estas mal aquí. Páguele su dinero."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=16
-#. y4:msg_location=T1.P16
-#. y4:msg_speaker=Shinnosuke's Former Customer
-#. y4:msg_speaker_id=1
 msgctxt "292_Shinnosuke's Former Customer"
 msgid "No way! The host pays if the customer doesn't, right? Those are the rules!"
 msgstr "¡No es posible! El anfitrión paga si el cliente no lo hace, ¿verdad? ¡Esas son las reglas!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=17
-#. y4:msg_location=T1.P17
-#. y4:msg_speaker=Shinnosuke's Former Customer
-#. y4:msg_speaker_id=1
 msgctxt "304_Shinnosuke's Former Customer"
 msgid "He knew that when he started this line of work! No point crying about it now!"
 msgstr "¡Lo supo cuando comenzó esta línea de trabajo! ¡No tiene sentido llorar por eso ahora!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=18
-#. y4:msg_location=T1.P18
-#. y4:msg_speaker=Shinnosuke
-#. y4:msg_speaker_id=0
 msgctxt "316_Shinnosuke"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=19
-#. y4:msg_location=T1.P19
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=9
 msgctxt "328_Tanimura"
 msgid "He may have been a little naive. But it sounds to me like you had no intention of paying what you owed."
 msgstr "Él me parecerá un poco ingenuo, pero aún así me suena a que no tenías ninguna intención de pagar lo que debes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=20
-#. y4:msg_location=T1.P20
 msgctxt "340_Talk_Quest"
 msgid "That's straight-up fraud."
 msgstr "Eso es simplemente un fraude."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=21
-#. y4:msg_location=T1.P21
-#. y4:msg_speaker=Shinnosuke's Former Customer
-#. y4:msg_speaker_id=1
 msgctxt "352_Shinnosuke's Former Customer"
 msgid "Don't be ridiculous! I didn't defraud anybody!"
 msgstr "¡No seas ridículo! ¡No defraudé a nadie!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=22
-#. y4:msg_location=T1.P22
-#. y4:msg_speaker=Boyfriend
-#. y4:msg_speaker_id=5
 msgctxt "364_Boyfriend"
 msgid "I've heard enough. Time for you to get lost!"
 msgstr "Ya escuché suficiente. ¡Hora de que te pierdas!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=23
-#. y4:msg_location=T1.P23
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=9
 msgctxt "376_Tanimura"
 msgid "Oh, and I suppose you're gonna make me?"
 msgstr "Oh, ¿y supongo que me obligarás?"

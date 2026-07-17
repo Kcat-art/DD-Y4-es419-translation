@@ -19,143 +19,106 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "6912"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "6916"
 msgid "Kobayashi"
 msgstr "Kobayashi"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "6920"
 msgid "Ito"
 msgstr "Ito"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "6924"
 msgid "Akiyama's Fighting Style"
 msgstr "Estilo de pelea de Akiyama"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "6928"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "6932"
 msgid "Abilities"
 msgstr "Habilidades"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "6936"
 msgid "Street Punk"
 msgstr "Matones callejeros"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "6940"
 msgid "Displeased Man"
 msgstr "Hombre malhumorado"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "6944"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "6948"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
+#. y4:msg_role=name
+#. y4:msg_name_id=10
 msgctxt "6952"
 msgid "Takahashi"
 msgstr "Takahashi"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "6956"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "6960"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "84_Akiyama"
 msgid "One thing the loan business and a street fight have in common? You gotta know who you're dealing with."
 msgstr "Una cosa que tienen en común el negocio de los préstamos y las peleas callejeras es que tienes que saber con quién estás tratando."
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Kobayashi
-#. y4:msg_speaker_id=1
 msgctxt "96_Kobayashi"
 msgid "Ugh..."
 msgstr "Ugh..."
@@ -163,13 +126,6 @@ msgstr "Ugh..."
 #. y4:line_status=reviewed
 #. y4:translated_by=Keiner
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Ito
-#. y4:msg_speaker_id=2
 msgctxt "108_Ito"
 msgid "Grr... We'll be back!"
 msgstr "Tch, maldito... ¡Pagarás por esto!"
@@ -183,39 +139,18 @@ msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "180_Akiyama"
 msgid "(Guess I'll go collect some debts.)"
 msgstr "(Y ahora, a seguir con la recolecta)."
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Abilities
-#. y4:msg_speaker_id=5
 msgctxt "204_Abilities"
 msgid "Unlock new abilities by using the <Color:200,255,200,255>Soul Orbs<Color:Default> you earn by leveling up. Check abilities in the Abilities screen of the Pause Menu."
 msgstr "Desbloquea nuevas habilidades usando los <Color:200,255,200,255>orbes de alma<Color:Default> que ganas al subir de nivel. Comprueba las habilidades en el menú Habilidades del menú de pausa."
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Street Punk
-#. y4:msg_speaker_id=6
 msgctxt "240_Street Punk"
 msgid "Well, well, well. If it ain't our good friend Akiyama-san."
 msgstr "¡Pero miren quién está aquí!\n¡El mismísimo Akiyama-san de Sky Finance!"
@@ -223,13 +158,6 @@ msgstr "¡Pero miren quién está aquí!\n¡El mismísimo Akiyama-san de Sky Fin
 #. y4:line_status=reviewed
 #. y4:translated_by=Keiner
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Displeased Man
-#. y4:msg_speaker_id=7
 msgctxt "252_Displeased Man"
 msgid "Looks like Sky Finance's flying sky high. You out to collect?"
 msgstr "Parece que hoy te está yendo bien. ¿Vas a ir a cobrar o qué?"
@@ -237,180 +165,84 @@ msgstr "Parece que hoy te está yendo bien. ¿Vas a ir a cobrar o qué?"
 #. y4:line_status=reviewed
 #. y4:translated_by=Keiner
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "264_Akiyama"
 msgid "(Great, a pack of loan shark heavies. Just what I needed.)"
 msgstr "(Genial, usureros... Qué fastidio)."
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "276_Akiyama"
 msgid "Hey, guys. How's business over at Kamurocho Loans?"
 msgstr "Oh, ¿Qué tal, muchachos? ¿Cómo va el negocio de préstamos?"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Kobayashi
-#. y4:msg_speaker_id=1
 msgctxt "288_Kobayashi"
 msgid "It's shit, thanks to you and your company. You're a regular pain in the ass."
 msgstr "Como el culo, gracias a ti y a tu empresa.\nEstás siendo una jodida molestia."
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Ito
-#. y4:msg_speaker_id=2
 msgctxt "300_Ito"
 msgid "Got that right. I hear you don't even charge interest on the loans you dish out."
 msgstr "A ver, a ver. Dicen que prestas dinero sin cobrar intereses, ¿es eso cierto?"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Ito
-#. y4:msg_speaker_id=2
 msgctxt "312_Ito"
 msgid "You're stealing away all our customers."
 msgstr "Nos estás robando a todos nuestros clientes."
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Takahashi
-#. y4:msg_speaker_id=10
 msgctxt "324_Takahashi"
 msgid "C'mon, we're both lenders here. Let's all play by the rules and everyone'll do just fine."
 msgstr "Vamos, somos colegas en el negocio de los préstamos. Portémonos bien y respetemos las reglas, ¿qué dices?"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "336_Akiyama"
 msgid "Rules? Pfft."
 msgstr "¿Reglas?... Ja, ja, ja. ¡No me hagas reír!"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "348_Akiyama"
 msgid "You guys aren't even a legitimate business. What rules do you play by?"
 msgstr "Ustedes ni siquiera son prestamistas legales.\n¿De qué reglas hablan?"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "360_Akiyama"
 msgid "You don't seem to mind bullying folks into borrowing, or plastering up ugly ads all over. My customers find me on their own."
 msgstr "Además, a diferencia de ustedes, nosotros no hostigamos a la gente ni hacemos publicidad intrusiva. Nuestros clientes vienen por cuenta propia, ¿sabían?"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
 msgctxt "372_Akiyama"
 msgid "If anyone's a pain in the ass here, it's you."
 msgstr "De hecho, ustedes son la verdadera molestia."
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Takahashi
-#. y4:msg_speaker_id=10
 msgctxt "384_Takahashi"
 msgid "So we got a tough guy, do we? I'd watch that big mouth of yours if I were you."
 msgstr "¡Oye! ¡Cuida esa boca! ¡No te pases de listo, eh!"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "396_Akiyama"
 msgid "Oh, and one more thing. You and me? Don't think we're in the same league. Heck, we're not even playing the same game."
 msgstr "Ah, y una cosa más. Dejen de comparar mi negocio con el suyo, no somos unos usureros como ustedes."
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Kobayashi
-#. y4:msg_speaker_id=1
 msgctxt "408_Kobayashi"
 msgid "Shut your trap, dickweed!"
 msgstr "¡Serás idiota! ¡¡No nos subestimes, imbécil!!"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=16
-#. y4:msg_location=T1.P16
-#. y4:msg_speaker=Ito
-#. y4:msg_speaker_id=2
 msgctxt "420_Ito"
 msgid "You've been pissing me off for a while now. I'm gonna enjoy flattening your ass!"
 msgstr "He estado deseando esto desde hace tiempo.\n¡Voy a disfrutar dándote una paliza!"

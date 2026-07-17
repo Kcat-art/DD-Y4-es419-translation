@@ -24,38 +24,22 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01020480 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "916"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "920"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "72_Tanimura"
 msgid "(I wonder if the woman at <Color:7>Midori<Color:Default> is the same one I've been looking for.)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "108_Tanimura"
 msgid "(Okay, now to find whoever ratted me out to the force. <Color:7>Orchid Palace Mahjong<Color:Default>'s a good place to start.)"
 msgstr ""

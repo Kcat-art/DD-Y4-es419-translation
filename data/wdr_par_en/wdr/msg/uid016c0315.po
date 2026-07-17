@@ -24,456 +24,231 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 016C0315 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "6220"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "432_Player"
 msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. "Japanese clothing is nice once in a while." -> T0.P3 | 2. "We should go see the flowers together." -> T0.P4 | 3. "You're even prettier than the flowers." -> T0.P5
 msgctxt "444_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice="You're even prettier than the flowers."
 msgctxt "492_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "516_Player"
 msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. "Japanese clothing is nice once in a while." -> T0.P3 | 2. "We should go see the flowers together." -> T0.P4 | 3. "You're even prettier than the flowers." -> T0.P5
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=1
 msgctxt "528_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice="You're even prettier than the flowers."
 msgctxt "576_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "600_Player"
 msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. "Japanese clothing is nice once in a while." -> T0.P3 | 2. "We should go see the flowers together." -> T0.P4 | 3. "You're even prettier than the flowers." -> T0.P5
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=2
 msgctxt "612_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice="You're even prettier than the flowers."
 msgctxt "660_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "684_Player"
 msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. "Japanese clothing is nice once in a while." -> T0.P3 | 2. "We should go see the flowers together." -> T0.P4 | 3. "You're even prettier than the flowers." -> T0.P5
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=3
 msgctxt "696_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice="You're even prettier than the flowers."
 msgctxt "744_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. "Japanese clothing is nice once in a while." -> T0.P3 | 2. "We should go see the flowers together." -> T0.P4 | 3. "You're even prettier than the flowers." -> T0.P5
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=4
 msgctxt "756_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice="You're even prettier than the flowers."
 msgctxt "804_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P3
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 2c 00 00 00 00 00 00 00 00
 msgctxt "816_Player"
 msgid "\"Japanese clothing is nice once in a while.\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P4
-#. y4:msg_branch_segment=T0.P4..P4
-#. y4:msg_branch_raw=01 11 00 04 00 00 00 28 00 00 00 00 00 00 00 00
 msgctxt "828_Player"
 msgid "\"We should go see the flowers together.\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P5
-#. y4:msg_branch_segment=T0.P5..P6
-#. y4:msg_branch_target_text=(That should do.)
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 28 00 00 00 00 00 00 00 00
 msgctxt "840_Player"
 msgid "\"You're even prettier than the flowers.\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P3
-#. y4:msg_branch_segment=T1.P3..P3
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 25 00 00 00 00 00 00 00 00
 msgctxt "852_Player"
 msgid "\"I'd like to see you dance sometime.\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P4
-#. y4:msg_branch_segment=T1.P4..P4
-#. y4:msg_branch_raw=01 11 00 04 00 00 00 2f 00 00 00 00 00 00 00 00
 msgctxt "864_Player"
 msgid "\"Why don't you try being serious all the time?\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P5
-#. y4:msg_branch_segment=T1.P5..P6
-#. y4:msg_branch_target_text=(That should do.)
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 23 00 00 00 00 00 00 00 00
 msgctxt "876_Player"
 msgid "\"Say hello to your teacher for me.\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P3
-#. y4:msg_branch_segment=T2.P3..P3
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 20 00 00 00 00 00 00 00 00
 msgctxt "888_Player"
 msgid "\"Okinawa is nice and laid-back.\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P4
-#. y4:msg_branch_segment=T2.P4..P4
-#. y4:msg_branch_raw=01 11 00 04 00 00 00 2e 00 00 00 00 00 00 00 00
 msgctxt "900_Player"
 msgid "\"You shouldn't let yourself get too stressed.\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P5
-#. y4:msg_branch_segment=T2.P5..P6
-#. y4:msg_branch_target_text=(That should do.)
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 13 00 00 00 00 00 00 00 00
 msgctxt "912_Player"
 msgid "\"I'm not your pet.\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P3
-#. y4:msg_branch_segment=T3.P3..P3
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 21 00 00 00 00 00 00 00 00
 msgctxt "924_Player"
 msgid "\"I teach my kids the same thing.\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P4
-#. y4:msg_branch_segment=T3.P4..P4
-#. y4:msg_branch_raw=01 11 00 04 00 00 00 22 00 00 00 00 00 00 00 00
 msgctxt "936_Player"
 msgid "\"Communication is very important.\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=16
-#. y4:msg_phrase=0
-#. y4:msg_location=T16.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P5
-#. y4:msg_branch_segment=T3.P5..P6
-#. y4:msg_branch_target_text=(That should do.)
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 2d 00 00 00 00 00 00 00 00
 msgctxt "948_Player"
 msgid "\"Try to keep your mind on what you're doing.\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T4.P1
-#. y4:msg_branch_segment=T4.P1..P1
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 24 00 00 00 00 00 00 00 00
 msgctxt "960_Player"
 msgid "\"Thanks. That's nice of you to say.\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=18
-#. y4:msg_phrase=0
-#. y4:msg_location=T18.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T4.P2
-#. y4:msg_branch_segment=T4.P2..P2
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 22 00 00 00 00 00 00 00 00
 msgctxt "972_Player"
 msgid "\"Your job must be difficult, too.\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=19
-#. y4:msg_phrase=0
-#. y4:msg_location=T19.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T4.P3
-#. y4:msg_branch_segment=T4.P3..P4
-#. y4:msg_branch_target_text=(That should do.)
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 1a 00 00 00 00 00 00 00 00
 msgctxt "984_Player"
 msgid "\"It was nice meeting you.\""
 msgstr ""

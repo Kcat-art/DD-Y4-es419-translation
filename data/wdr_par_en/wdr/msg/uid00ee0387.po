@@ -24,223 +24,147 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_SPA.bin
 #. y4:runtime_play_command=y4.play_msg 00EE0387 <group>
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=3
-#. y4:msg_phrase=35
-#. y4:msg_location=T3.P35
+
+
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Rio -> T3.P36 | 2. Himeka Kawasaki -> T3.P60 | 3. Shizuka Saito -> T3.P48 | 4. Noa Mizutani -> T3.P86 | 5. Erena Aihara -> T3.P98 | 6. Chihiro Ikki -> T3.P111 | 7. Maya Mori -> T3.P73 | 8. Never Mind -> T3.P28
 msgctxt "1352"
 msgid "Who do you want to call?"
 msgstr "¿Con quién quieres jugar?"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "39636"
 msgid "Employee"
 msgstr "Empleado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "39640"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T3.P36
-#. y4:msg_branch_segment=T3.P36..P47
-#. y4:msg_branch_target_text=(Let's see if Rio's interested.)
-#. y4:msg_branch_raw=01 12 00 24 01 00 00 03 00 c8 00 07 00 00 00 00
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "39644"
 msgid "Rio"
 msgstr "Rio"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "39648"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "39652"
 msgid "Shizuka"
 msgstr "Shizuka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "39656"
 msgid "Himeka"
 msgstr "Himeka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "39660"
 msgid "Maya"
 msgstr "Maya"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "39664"
 msgid "Noa"
 msgstr "Noa"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "39668"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
+#. y4:msg_role=name
+#. y4:msg_name_id=9
 msgctxt "39672"
 msgid "Erena"
 msgstr "Erena"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
+#. y4:msg_role=name
+#. y4:msg_name_id=10
 msgctxt "39676"
 msgid "Chihiro"
 msgstr "Chihiro"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "39680"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
+#. y4:msg_role=name
+#. y4:msg_name_id=12
 msgctxt "39684"
 msgid "Table Tennis - Basic Rules"
 msgstr "Tenis de mesa - Reglas básicas"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
+#. y4:msg_role=name
+#. y4:msg_name_id=13
 msgctxt "39688"
 msgid "Table Tennis - Shots"
 msgstr "Tenis de mesa - Tiros"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
+#. y4:msg_role=name
+#. y4:msg_name_id=14
 msgctxt "39692"
 msgid "Table Tennis - Timing Shots"
 msgstr "Tenis de mesa - Tiros sincronizados"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
+#. y4:msg_role=name
+#. y4:msg_name_id=15
 msgctxt "39696"
 msgid "Table Tennis - Aiming the Ball"
 msgstr "Tenis de mesa - Apuntar a la bola"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
+#. y4:msg_role=name
+#. y4:msg_name_id=16
 msgctxt "39700"
 msgid "Table Tennis - Heat and Smashes"
 msgstr "Tenis de mesa - Heat y tiros fuertes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=17
+#. y4:msg_role=name
+#. y4:msg_name_id=17
 msgctxt "39704"
 msgid "Table Tennis - Stare Mode"
 msgstr "Tenis de mesa - Modo mirada"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=18
+#. y4:msg_role=name
+#. y4:msg_name_id=18
 msgctxt "39708"
 msgid "Steamy Table Tennis Ranking Mode"
 msgstr "Clasificatoria - Tenis de mesa apasionante"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=19
 msgctxt "39712"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=20
 msgctxt "39716"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=21
 msgctxt "39720"
 msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
 msgctxt "452_Employee"
 msgid "Thank you, sir. Please come again."
 msgstr "Gracias, señor. Por favor, vuelva pronto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
 msgctxt "500_Employee"
 msgid "Thank you very much. Please come again."
 msgstr "Muchas gracias. Por favor, vuelva pronto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=2
 msgctxt "536_Employee"
 msgid "That was fun! See you later."
 msgstr "¡Eso fue divertido! Nos vemos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "548_Player"
 msgid "Later."
 msgstr "Nos vemos."
@@ -249,35 +173,14 @@ msgctxt "584_Employee"
 msgid "That was so much fun! <Color:7>♥<Color:Default> Well, I'd better be off."
 msgstr "¡Eso estuvo divertido! <Color:7>♥<Color:Default> Bueno, me tengo que ir."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "596_Player"
 msgid "See you later."
 msgstr "Hasta luego."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=5
 msgctxt "632_Himeka"
 msgid "That was fun! Call me again soon, okay?"
 msgstr "¡Eso fue divertido! Llámame de nuevo más tarde, ¿vale?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "644_Player"
 msgid "See you later."
 msgstr "Hasta luego."
@@ -286,13 +189,6 @@ msgctxt "680_Maya"
 msgid "I was so glad you invited me out, %s-san! <Color:7>♥<Color:Default> Call me again soon, okay?"
 msgstr "¡Me alegra que me hayas invitado, %s-san! Llámame otra vez, ¿bueno?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "692_Player"
 msgid "See you later."
 msgstr "Hasta luego."
@@ -301,13 +197,6 @@ msgctxt "728_Employee"
 msgid "Hehehe. <Color:7>♥<Color:Default> That was fun. See you later."
 msgstr "Je, je, je. <Color:7>♥<Color:Default> Eso fue divertido. Nos vemos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=22
-#. y4:msg_location=T1.P22
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "740_Player"
 msgid "Okay, see you."
 msgstr "Bien, nos vemos luego."
@@ -316,13 +205,6 @@ msgctxt "776_Employee"
 msgid "That was sooo much fun! <Color:7>♥<Color:Default> See you later, %s-san."
 msgstr "¡Eso fue divertidísimo! <Color:7>♥<Color:Default> Nos vemos, %s-san."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=22
-#. y4:msg_location=T1.P22
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "788_Player"
 msgid "Okay, see you."
 msgstr "Bien, nos vemos luego."
@@ -331,166 +213,53 @@ msgctxt "824_Employee"
 msgid "That was fun! <Color:7>♥<Color:Default> See you later!"
 msgstr "¡Eso fue divertido! <Color:7>♥<Color:Default> ¡Nos vemos!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=22
-#. y4:msg_location=T1.P22
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "836_Player"
 msgid "Okay, see you."
 msgstr "Nos vemos después."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
 msgctxt "872_Employee"
 msgid "Welcome. Just the two of you today? That will be 2,000 yen."
 msgstr "Bienvenidos- ¿Solo serán los dos? Serían 2 000 yenes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "884_Player"
 msgid "All right."
 msgstr "Muy bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
 msgctxt "896_Employee"
 msgid "Thank you! Right this way, please."
 msgstr "¡Gracias! Por aquí, por favor."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=3
-#. y4:msg_location=T3.P3
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Bath and Table Tennis -> T3.P4 | 2. Just Table Tennis -> T3.P22 | 3. Call a Date -> T3.P31 | 4. How to Play Table Tennis -> T3.P9 | 5. Never Mind -> T3.P28
 msgctxt "968_Employee"
 msgid "Welcome. Our entry fee is 1,000 yen per person."
 msgstr "Bienvenidos. Nuestra tarifa de entrada es de 1 000 yenes por persona."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=4
-#. y4:msg_location=T3.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Bath and Table Tennis
 msgctxt "980_Employee"
 msgid "I'll go to the baths first."
 msgstr "Iré a los baños primero."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=6
-#. y4:msg_location=T3.P6
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Bath and Table Tennis
 msgctxt "1004_Employee"
 msgid "Very well. Right this way, please."
 msgstr "Muy bien. Por aquí, por favor."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=9
-#. y4:msg_location=T3.P9
-#. y4:msg_speaker=Table Tennis - Basic Rules
-#. y4:msg_speaker_id=12
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "1040_Employee"
 msgid "Table tennis is played in 11-point rounds. The first player to win two rounds wins. When both players have 10 points, it's called a deuce. The first player to lead by two points wins. "
 msgstr "El tenis de mesa se juega a 11 puntos. Gana el primero que gane dos rondas. Cuando ambos jugadores consiguen 10 puntos es un empate. Gana el primer jugador que consiga una ventaja de dos puntos."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=10
-#. y4:msg_location=T3.P10
-#. y4:msg_speaker=Table Tennis - Shots
-#. y4:msg_speaker_id=13
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "1052_Table Tennis - Shots"
 msgid "Shots are performed by holding down <Action:Button_Cross@TableTenis>, then letting go. This <Color:255,200,200,255>power shot<Color:Default> is a key element of the game, so don't forget it. "
 msgstr "Los tiros se realizan manteniendo pulsado y luego soltando <Action:Button_Cross@TableTenis>. Un <Color:255,200,200,255> tiro potente<Color:Default> es un elemento clave de la partida, así que no lo olvides."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=11
-#. y4:msg_location=T3.P11
-#. y4:msg_speaker=Table Tennis - Timing Shots
-#. y4:msg_speaker_id=14
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "1064_Table Tennis - Timing Shots"
 msgid "During a rally, <Color:255,200,200,255>the ball will glow<Color:Default> at the best time for a shot. When that happens, release <Action:Button_Cross@TableTenis>. You'll need to get a feel for the ideal timing. "
 msgstr "Durante un intercambio, <Color:255,200,200,255>la pelota brillará<Color:Default>, cuando sea el momento, suelta <Action:Button_Cross@TableTenis>. Tendrás que familiarizarte con el momento perfecto."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=12
-#. y4:msg_location=T3.P12
-#. y4:msg_speaker=Table Tennis - Aiming the Ball
-#. y4:msg_speaker_id=15
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "1076_Table Tennis - Aiming the Ball"
 msgid "Use <Action:Button_LS_Up@TableTenis><Action:Button_LS_Down@TableTenis><Action:Button_LS_Left@TableTenis><Action:Button_LS_Right@TableTenis> when making a shot to control the shot's direction.  Making your opponent run back and forth can be an excellent strategy.  However, the ball can move unpredictably if your timing is off. "
 msgstr "Usa <Action:Button_LS_Up@TableTenis><Action:Button_LS_Down@TableTenis><Action:Button_LS_Left@TableTenis><Action:Button_LS_Right@TableTenis> al realizar un tiro para controlar su dirección. Hacer que tu oponente corra de un lado a otro puede ser una excelente estrategia. Pero si no calculas bien los tiempos, la pelota puede moverse de forma impredecible."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=13
-#. y4:msg_location=T3.P13
-#. y4:msg_speaker=Table Tennis - Heat and Smashes
-#. y4:msg_speaker_id=16
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "1088_Table Tennis - Heat and Smashes"
 msgid "By keeping up a rally or hitting a <Color:255,200,200,255>power shot<Color:Default>, you build up <Color:220,255,255,255>Heat<Color:Default>.  Once you are in <Color:220,255,255,255>Heat Mode<Color:Default>, you'll be able to dole out smash after smash. Use this to your advantage. "
 msgstr "Al mantener un intercambio o realizar un <Color:255,200,200,255>tiro potente<Color:Default>, acumulas <Color:220,255,255,255>Heat<Color:Default>. Una vez en <Color:220,255,255,255>Modo Heat<Color:Default>, podrás repartir tiros potentes uno tras otro. Aprovecha esto."
@@ -499,17 +268,6 @@ msgctxt "1100_Table Tennis - Stare Mode"
 msgid "Press <Action:Button_L2@TableTenis> while playing and you'll enter <Color:255,200,200,255>Stare Mode<Color:Default>, where you can stare directly at your opponent. Time slows down for a while in this mode, but be careful－it doesn't last long. You do, however, accumulate <Color:255,200,200,255>Heat<Color:Default> in <Color:220,255,255,255>Stare Mode<Color:Default>. "
 msgstr "Pulsa <Action:Button_L2@TableTenis> mientras juegas y entrarás en el <Color:255,200,200,255>Modo Mirada<Color:Default>, donde podrás mirar fijamente a tu oponente. El tiempo se ralentiza durante un rato en este modo, pero ten cuidado: no dura mucho. Sin embargo, acumulas <Color:255,200,200,255>Heat<Color:Default> en él."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=15
-#. y4:msg_location=T3.P15
-#. y4:msg_speaker=Steamy Table Tennis Ranking Mode
-#. y4:msg_speaker_id=18
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "1112_Employee"
 msgid "See how long you can keep up a rally in this unique game. "
 msgstr "Comprueba cuánto tiempo puedes mantener un intercambio en esta partida."
@@ -520,47 +278,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=17
-#. y4:msg_location=T3.P17
-#. y4:msg_speaker=Steamy Table Tennis Ranking Mode
-#. y4:msg_speaker_id=18
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "1136_Employee"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=18
-#. y4:msg_location=T3.P18
-#. y4:msg_speaker=Steamy Table Tennis Ranking Mode
-#. y4:msg_speaker_id=18
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "1148_Employee"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=19
-#. y4:msg_location=T3.P19
-#. y4:msg_speaker=Steamy Table Tennis Ranking Mode
-#. y4:msg_speaker_id=18
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "1160_Employee"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -569,167 +294,46 @@ msgctxt "1172_Employee"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=21
-#. y4:msg_location=T3.P21
-#. y4:msg_speaker=Steamy Table Tennis Ranking Mode
-#. y4:msg_speaker_id=18
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "1184_Employee"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=22
-#. y4:msg_location=T3.P22
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Just Table Tennis
 msgctxt "1196_Employee"
 msgid "I'll play some table tennis."
 msgstr "Jugaré un poco de tenis de mesa."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=6
-#. y4:msg_location=T3.P6
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Bath and Table Tennis
 msgctxt "1220_Employee"
 msgid "Very well. Right this way, please."
 msgstr "Muy bien. Por aquí, por favor."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=27
-#. y4:msg_location=T3.P27
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Just Table Tennis
 msgctxt "1256_Employee"
 msgid "(I'm short on cash...)"
 msgstr "(No tengo dinero)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=28
-#. y4:msg_location=T3.P28
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=5
-#. y4:msg_branch_choice=Never Mind
 msgctxt "1268_Employee"
 msgid "Um, maybe not right now."
 msgstr "Mmm, creo que hoy no será."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=29
-#. y4:msg_location=T3.P29
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=5
-#. y4:msg_branch_choice=Never Mind
 msgctxt "1280_Employee"
 msgid "All right. Please come again."
 msgstr "De acuerdo. Por favor, vuelva otra vez."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=31
-#. y4:msg_location=T3.P31
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1304_Employee"
 msgid "I think I'll call someone to join me."
 msgstr "Creo que llamaré a alguien para que me acompañe."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=32
-#. y4:msg_location=T3.P32
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1316_Employee"
 msgid "All right. That will be 2,000 yen for two people."
 msgstr "De acuerdo. Serán 2 000 yenes para dos personas."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=34
-#. y4:msg_location=T3.P34
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1340_Employee"
 msgid "Okay. Give me just a moment."
 msgstr "Vale. Dame solo un momento."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=36
-#. y4:msg_location=T3.P36
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1364_Employee"
 msgid "(Let's see if Rio's interested.)"
 msgstr "(Veamos si Río está interesada)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=37
-#. y4:msg_location=T3.P37
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1376_Player"
 msgid "(......)"
 msgstr "(......)"
@@ -738,17 +342,6 @@ msgctxt "1436_Employee"
 msgid "Hope you didn't wait too long. <Color:7>♥<Color:Default> Let's go have some fun! ♪"
 msgstr "Lamento haberte hecho esperar. <Color:7>♥<Color:Default> ¡Vamos a divertirnos!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=43
-#. y4:msg_location=T3.P43
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1448_Player"
 msgid "Thanks for coming."
 msgstr "Gracias por venir."
@@ -757,77 +350,22 @@ msgctxt "1460_Rio"
 msgid "I could never turn down an invitation from you, %s-san! <Color:7>♥<Color:Default>"
 msgstr "¡Nunca podría rechazar una invitación de usted, %s-san! <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=45
-#. y4:msg_location=T3.P45
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1472_Employee"
 msgid "Right this way, please."
 msgstr "Por aquí, por favor."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=48
-#. y4:msg_location=T3.P48
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1508_Employee"
 msgid "(Let's see if Shizuka's interested.)"
 msgstr "(Veamos si Shizuka está interesada.)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=37
-#. y4:msg_location=T3.P37
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1520_Player"
 msgid "(......)"
 msgstr "(......)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=54
-#. y4:msg_location=T3.P54
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1580_Employee"
 msgid "Thank you for waiting!<Color:7>"
 msgstr "¡Gracias por esperar!<Color:7>"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=43
-#. y4:msg_location=T3.P43
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1592_Player"
 msgid "Thanks for coming."
 msgstr "Gracias por venir."
@@ -836,47 +374,14 @@ msgctxt "1604_Shizuka"
 msgid "It's no trouble at all! I was so happy you invited me out. <Color:7>♥<Color:Default>"
 msgstr "¡No hay problema en absoluto! Estaba tan feliz de que me invitaras a salir. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=45
-#. y4:msg_location=T3.P45
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1616_Employee"
 msgid "Right this way, please."
 msgstr "Por aquí, por favor."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=60
-#. y4:msg_location=T3.P60
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1652_Employee"
 msgid "(Let's see if Himeka's interested.)"
 msgstr "(Veamos si Himeka está interesada.)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=37
-#. y4:msg_location=T3.P37
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1664_Player"
 msgid "(......)"
 msgstr "(......)"
@@ -885,17 +390,6 @@ msgctxt "1724_Employee"
 msgid "Hope you didn't wait too long. <Color:7>♥<Color:Default> You're so spontaneous, %s-san. <Color:7>♥<Color:Default>"
 msgstr "Espero que no me hayas estado esperando mucho tiempo. <Color:7>♥<Color:Default> Eres tan espontáneo, %s-san. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=67
-#. y4:msg_location=T3.P67
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1736_Player"
 msgid "You sure your club won't mind?"
 msgstr "¿Segura de que a tu club no le importará?"
@@ -908,47 +402,14 @@ msgctxt "1760_Employee"
 msgid "Besides, I was totally ready for a break. <Color:7>♥<Color:Default>"
 msgstr "Además, estaba totalmente lista para un descanso. <Color:7>⑮<Color:Default>"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=45
-#. y4:msg_location=T3.P45
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1772_Employee"
 msgid "Right this way, please."
 msgstr "Por aquí, por favor."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=73
-#. y4:msg_location=T3.P73
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1808_Employee"
 msgid "(Let's see if Maya's interested.)"
 msgstr "(Veamos si Maya está interesada)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=37
-#. y4:msg_location=T3.P37
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1820_Player"
 msgid "(......)"
 msgstr "(......)"
@@ -957,17 +418,6 @@ msgctxt "1880_Employee"
 msgid "Thanks for waiting! <Color:7>♥<Color:Default> I was so surprised when you asked me out all of the sudden, %s-san!"
 msgstr "¡Gracias por esperar! <Color:7>♥<Color:Default> ¡Estaba tan sorprendida cuando me solicitaste de forma tan repentina, %s-san!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=43
-#. y4:msg_location=T3.P43
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1892_Player"
 msgid "Thanks for coming."
 msgstr "Gracias por venir."
@@ -980,47 +430,14 @@ msgctxt "1916_Talk_Yes"
 msgid "I haven't been going out much lately, and I totally couldn't say no to a date with you, %s-san. <Color:7>♥<Color:Default>"
 msgstr "Últimamente no salgo mucho, pero no podría decir que no a una cita contigo, %s-san. <Color:7>⑮<Color:Default>"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=45
-#. y4:msg_location=T3.P45
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1928_Employee"
 msgid "Right this way, please."
 msgstr "Por aquí, por favor."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=86
-#. y4:msg_location=T3.P86
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1964_Employee"
 msgid "(Let's see if Noa is interested.)"
 msgstr "(Veamos si Noa está interesada)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=37
-#. y4:msg_location=T3.P37
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "1976_Player"
 msgid "(......)"
 msgstr "(......)"
@@ -1029,17 +446,6 @@ msgctxt "2036_Employee"
 msgid "Hehehe. <Color:7>♥<Color:Default> You're so spontaneous, Akiyama-san. <Color:7>♥<Color:Default>"
 msgstr "Jejeje. <Color:7>♥<Color:Default> Eres tan espontáneo, Akiyama-san. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=43
-#. y4:msg_location=T3.P43
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "2048_Player"
 msgid "Thanks for coming."
 msgstr "Gracias por venir."
@@ -1048,47 +454,14 @@ msgctxt "2060_Noa"
 msgid "Hehehe... Let's go have some fun! <Color:7>♥<Color:Default>"
 msgstr "Je, je, je... ¡Vamos a divertirnos! <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=45
-#. y4:msg_location=T3.P45
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "2072_Employee"
 msgid "Right this way, please."
 msgstr "Por aquí, por favor."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=98
-#. y4:msg_location=T3.P98
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "2108_Employee"
 msgid "(Let's see if Erena's interested.)"
 msgstr "(A ver si a Erena le interesa)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=37
-#. y4:msg_location=T3.P37
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "2120_Player"
 msgid "(......)"
 msgstr "(......)"
@@ -1097,17 +470,6 @@ msgctxt "2180_Employee"
 msgid "Hope you didn't wait too long. <Color:7>♥<Color:Default> You're so spontaneous, %s-san!"
 msgstr "Espero que no hayas esperado demasiado. <Color:7>♥<Color:Default> ¡Eres tan espontáneo, %s-san!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=105
-#. y4:msg_location=T3.P105
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "2192_Player"
 msgid "You sure it's okay for you to be here?"
 msgstr "¿Estás segura de qué estás bien aquí?"
@@ -1116,60 +478,18 @@ msgctxt "2204_Erena"
 msgid "Hehehe. <Color:7>♥<Color:Default> I just got off work, so it's totally fine."
 msgstr "Je, je, je. Acabo de salir del trabajo, estoy bien. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=107
-#. y4:msg_location=T3.P107
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "2216_Employee"
 msgid "C'mon, let's go!"
 msgstr "¡Vamos!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=45
-#. y4:msg_location=T3.P45
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "2228_Employee"
 msgid "Right this way, please."
 msgstr "Por aquí, por favor."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=111
-#. y4:msg_location=T3.P111
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "2264_Employee"
 msgid "(Let's see if Chihiro's interested.)"
 msgstr "(Veamos si Chihiro está interesada.)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=37
-#. y4:msg_location=T3.P37
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "2276_Player"
 msgid "(......)"
 msgstr "(......)"
@@ -1178,17 +498,6 @@ msgctxt "2336_Employee"
 msgid "Sorry to keep you waiting. <Color:7>♥<Color:Default>"
 msgstr "Lamento hacerle esperar. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=43
-#. y4:msg_location=T3.P43
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "2348_Player"
 msgid "Thanks for coming."
 msgstr "Gracias por venir."
@@ -1197,225 +506,65 @@ msgctxt "2360_Chihiro"
 msgid "Hehe. <Color:7>♥<Color:Default> Well, when you're asking me out, %s-san, I can't say no! <Color:7>♥<Color:Default>"
 msgstr "Je, je. <Color:7>♥<Color:Default> Bueno, si me pide salir, %s-san. ¡No puedo decirle que no! <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=120
-#. y4:msg_location=T3.P120
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "2372_Employee"
 msgid "Let's go have some fun!"
 msgstr "¡Vayamos a divertirnos!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=45
-#. y4:msg_location=T3.P45
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Call a Date
 msgctxt "2384_Employee"
 msgid "Right this way, please."
 msgstr "Por aquí, por favor."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=3
-#. y4:msg_location=T3.P3
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Bath and Table Tennis -> T3.P4 | 2. Just Table Tennis -> T3.P22 | 3. Call a Date -> T3.P31 | 4. How to Play Table Tennis -> T3.P9 | 5. Never Mind -> T3.P28
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=2
 msgctxt "2420_Employee"
 msgid "Welcome. Our entry fee is 1,000 yen per person."
 msgstr "Bienvenidos. Nuestra tarifa de entrada es de 1 000 yenes por persona."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=4
-#. y4:msg_location=T3.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Bath and Table Tennis
 msgctxt "2432_Employee"
 msgid "I'll go to the baths first."
 msgstr "Iré a los baños primero."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=6
-#. y4:msg_location=T3.P6
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Bath and Table Tennis
 msgctxt "2456_Employee"
 msgid "Very well. Right this way, please."
 msgstr "Muy bien. Por aquí, por favor."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=22
-#. y4:msg_location=T3.P22
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Just Table Tennis
 msgctxt "2492_Employee"
 msgid "I'll play some table tennis."
 msgstr "Jugaré un poco de tenis de mesa."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=6
-#. y4:msg_location=T3.P6
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Bath and Table Tennis
 msgctxt "2516_Employee"
 msgid "Very well. Right this way, please."
 msgstr "Muy bien. Por aquí, por favor."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=4
-#. y4:msg_phrase=11
-#. y4:msg_location=T4.P11
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Just Table Tennis
 msgctxt "2552_Employee"
 msgid "(I don't have enough money...)"
 msgstr "(No tengo suficiente dinero...)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=28
-#. y4:msg_location=T3.P28
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=5
-#. y4:msg_branch_choice=Never Mind
 msgctxt "2564_Employee"
 msgid "Um, maybe not right now."
 msgstr "Um, creo por ahora no."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=4
-#. y4:msg_phrase=13
-#. y4:msg_location=T4.P13
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=Never Mind
 msgctxt "2576_Employee"
 msgid "Very well. Please come again."
 msgstr "Está bien. Por favor, vuelva pronto."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=9
-#. y4:msg_location=T3.P9
-#. y4:msg_speaker=Table Tennis - Basic Rules
-#. y4:msg_speaker_id=12
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "2600_Employee"
 msgid "Table tennis is played in 11-point rounds. The first player to win two rounds wins. When both players have 10 points, it's called a deuce. The first player to lead by two points wins. "
 msgstr "El tenis de mesa se juega a 11 puntos. Gana el primero que gane dos rondas. Cuando ambos jugadores consiguen 10 puntos es un empate. Gana el primer jugador que consiga una ventaja de dos puntos."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=10
-#. y4:msg_location=T3.P10
-#. y4:msg_speaker=Table Tennis - Shots
-#. y4:msg_speaker_id=13
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "2612_Table Tennis - Shots"
 msgid "Shots are performed by holding down <Action:Button_Cross@TableTenis>, then letting go. This <Color:255,200,200,255>power shot<Color:Default> is a key element of the game, so don't forget it. "
 msgstr "Los tiros se realizan manteniendo pulsado y luego soltando <Action:Button_Cross@TableTenis>. Un <Color:255,200,200,255> tiro potente<Color:Default> es un elemento clave de la partida, así que no lo olvides."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=11
-#. y4:msg_location=T3.P11
-#. y4:msg_speaker=Table Tennis - Timing Shots
-#. y4:msg_speaker_id=14
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "2624_Table Tennis - Timing Shots"
 msgid "During a rally, <Color:255,200,200,255>the ball will glow<Color:Default> at the best time for a shot. When that happens, release <Action:Button_Cross@TableTenis>. You'll need to get a feel for the ideal timing. "
 msgstr "Durante un intercambio, <Color:255,200,200,255>la pelota brillará<Color:Default>, cuando sea el momento, suelta <Action:Button_Cross@TableTenis>. Tendrás que familiarizarte con el momento perfecto."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=12
-#. y4:msg_location=T3.P12
-#. y4:msg_speaker=Table Tennis - Aiming the Ball
-#. y4:msg_speaker_id=15
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "2636_Table Tennis - Aiming the Ball"
 msgid "Use <Action:Button_LS_Up@TableTenis><Action:Button_LS_Down@TableTenis><Action:Button_LS_Left@TableTenis><Action:Button_LS_Right@TableTenis> when making a shot to control the shot's direction.  Making your opponent run back and forth can be an excellent strategy.  However, the ball can move unpredictably if your timing is off. "
 msgstr "Usa <Action:Button_LS_Up@TableTenis><Action:Button_LS_Down@TableTenis><Action:Button_LS_Left@TableTenis><Action:Button_LS_Right@TableTenis> al realizar un tiro para controlar su dirección. Hacer que tu oponente corra de un lado a otro puede ser una excelente estrategia. Pero si no calculas bien los tiempos, la pelota puede moverse de forma impredecible."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=13
-#. y4:msg_location=T3.P13
-#. y4:msg_speaker=Table Tennis - Heat and Smashes
-#. y4:msg_speaker_id=16
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "2648_Table Tennis - Heat and Smashes"
 msgid "By keeping up a rally or hitting a <Color:255,200,200,255>power shot<Color:Default>, you build up <Color:220,255,255,255>Heat<Color:Default>.  Once you are in <Color:220,255,255,255>Heat Mode<Color:Default>, you'll be able to dole out smash after smash. Use this to your advantage. "
 msgstr "Al mantener un intercambio o realizar un <Color:255,200,200,255>tiro potente<Color:Default>, acumulas <Color:220,255,255,255>Heat<Color:Default>. Una vez en <Color:220,255,255,255>Modo Heat<Color:Default>, podrás repartir tiros potentes uno tras otro. Aprovecha esto."
@@ -1424,17 +573,6 @@ msgctxt "2660_Table Tennis - Stare Mode"
 msgid "Press <Action:Button_L2@TableTenis> while playing and you'll enter <Color:255,200,200,255>Stare Mode<Color:Default>, where you can stare directly at your opponent. Time slows down for a while in this mode, but be careful－it doesn't last long. You do, however, accumulate <Color:255,200,200,255>Heat<Color:Default> in <Color:220,255,255,255>Stare Mode<Color:Default>. "
 msgstr "Pulsa <Action:Button_L2@TableTenis> mientras juegas y entrarás en el <Color:255,200,200,255>Modo Mirada<Color:Default>, donde podrás mirar fijamente a tu oponente. El tiempo se ralentiza durante un rato en este modo, pero ten cuidado: no dura mucho. Sin embargo, acumulas <Color:255,200,200,255>Heat<Color:Default> en él."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=15
-#. y4:msg_location=T3.P15
-#. y4:msg_speaker=Steamy Table Tennis Ranking Mode
-#. y4:msg_speaker_id=18
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "2672_Employee"
 msgid "See how long you can keep up a rally in this unique game. "
 msgstr "Comprueba cuánto tiempo puedes mantener un intercambio en esta partida."
@@ -1445,47 +583,14 @@ msgid "If you reach a new personal high score, you can upload that score to the 
 msgstr "Si alcanzas una nueva puntuación máxima, puedes subirla al ranking en línea.\n"
 "*Si tu puntuación es demasiado baja para el ranking, no podrás subirla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=17
-#. y4:msg_location=T3.P17
-#. y4:msg_speaker=Steamy Table Tennis Ranking Mode
-#. y4:msg_speaker_id=18
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "2696_Employee"
 msgid "It will take a few seconds to upload your score to the online ranking. Sometimes, it may take up to a few minutes to tally your score, due to server conditions or other issues. (In this case, the ranking will display \"Tallying\".)"
 msgstr "Subir tu puntuación al ranking solo tardará unos segundos. En ocasiones, debido a problemas con el servidor u otros inconvenientes, el cálculo de la puntuación puede tardar hasta unos minutos. (En ese caso, el ranking mostrará \"Calculando\")."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=18
-#. y4:msg_location=T3.P18
-#. y4:msg_speaker=Steamy Table Tennis Ranking Mode
-#. y4:msg_speaker_id=18
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "2708_Employee"
 msgid "After uploading, your record will be saved to the server, so even if you close the ranking display and quit the game, your data will not be lost."
 msgstr "Una vez subida, tu puntuación se guardará en el servidor, así que, aunque cierres la pantalla de clasificación y salgas del juego, tus datos no se perderán."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=19
-#. y4:msg_location=T3.P19
-#. y4:msg_speaker=Steamy Table Tennis Ranking Mode
-#. y4:msg_speaker_id=18
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "2720_Employee"
 msgid "You can also check the online rankings from a hideout."
 msgstr "También puedes consultar las clasificaciones en línea desde un escondite."
@@ -1494,306 +599,176 @@ msgctxt "2732_Employee"
 msgid "You cannot upload a score if you are not signed in to the PlayStationNetwork. However, after playing in online ranking mode, your score is still saved, so the next time you sign in and play, your high score will be sent to the ranking."
 msgstr "No puedes cargar una puntuación sin iniciar sesión en PlayStation Network. Pero tu puntuación se guarda y se enviará la próxima vez que inicies sesión y juegues."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=21
-#. y4:msg_location=T3.P21
-#. y4:msg_speaker=Steamy Table Tennis Ranking Mode
-#. y4:msg_speaker_id=18
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=How to Play Table Tennis
 msgctxt "2744_Employee"
 msgid "When records are saved, they will also be saved in your save data."
 msgstr "Cuando se guardan los registros, también se almacenan en tus datos guardados."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P4
-#. y4:msg_branch_segment=T3.P4..P8
-#. y4:msg_branch_target_text=I'll go to the baths first.
-#. y4:msg_branch_raw=01 11 00 04 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "2756_Employee"
 msgid "Bath and Table Tennis"
 msgstr "Baño y tenis de mesa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P22
-#. y4:msg_branch_segment=T3.P22..P27
-#. y4:msg_branch_target_text=I'll play some table tennis.
-#. y4:msg_branch_raw=01 11 00 16 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "2768_Employee"
 msgid "Just Table Tennis"
 msgstr "Sólo tenis de mesa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T3.P31
-#. y4:msg_branch_segment=T3.P31..P123
-#. y4:msg_branch_target_text=I think I'll call someone to join me.
-#. y4:msg_branch_raw=01 12 00 1f 01 00 00 0b 00 c8 00 0d 00 00 00 00
 msgctxt "2780_Employee"
 msgid "Call a Date"
 msgstr "Llamar a una cita"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=4
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P9
-#. y4:msg_branch_segment=T3.P9..P21
-#. y4:msg_branch_target_text=Table tennis is played in 11-point rounds. The first player to win two rounds wins. When both players have 10 points, it's called a deuce. The first player to lead by two points wins.
-#. y4:msg_branch_raw=01 11 00 09 00 00 00 18 00 00 00 00 00 00 00 00
 msgctxt "2792_Employee"
 msgid "How to Play Table Tennis"
 msgstr "Cómo jugar tenis de mesa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=5
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P28
-#. y4:msg_branch_segment=T3.P28..P30
-#. y4:msg_branch_target_text=Um, maybe not right now.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "2804_Employee"
 msgid "Never Mind"
 msgstr "No importa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T3.P36
-#. y4:msg_branch_segment=T3.P36..P47
-#. y4:msg_branch_target_text=(Let's see if Rio's interested.)
-#. y4:msg_branch_raw=01 12 00 24 01 00 00 03 00 c8 00 07 00 00 00 00
 msgctxt "2816_Employee"
 msgid "Rio"
 msgstr "Rio"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T3.P60
-#. y4:msg_branch_segment=T3.P60..P72
-#. y4:msg_branch_target_text=(Let's see if Himeka's interested.)
-#. y4:msg_branch_raw=01 12 00 3c 01 00 00 0f 00 c8 00 08 00 00 00 00
 msgctxt "2828_Employee"
 msgid "Himeka Kawasaki"
 msgstr "Himeka Kawasaki"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T3.P48
-#. y4:msg_branch_segment=T3.P48..P59
-#. y4:msg_branch_target_text=(Let's see if Shizuka's interested.)
-#. y4:msg_branch_raw=01 12 00 30 01 00 00 0d 00 c8 00 09 00 00 00 00
 msgctxt "2840_Employee"
 msgid "Shizuka Saito"
 msgstr "Shizuka Saito"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=4
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T3.P86
-#. y4:msg_branch_segment=T3.P86..P97
-#. y4:msg_branch_target_text=(Let's see if Noa is interested.)
-#. y4:msg_branch_raw=01 12 00 56 01 00 00 0c 00 c8 00 03 00 00 00 00
 msgctxt "2852_Employee"
 msgid "Noa Mizutani"
 msgstr "Noa Mizutani"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=5
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T3.P98
-#. y4:msg_branch_segment=T3.P98..P110
-#. y4:msg_branch_target_text=(Let's see if Erena's interested.)
-#. y4:msg_branch_raw=01 12 00 62 01 00 00 0c 00 c8 00 04 00 00 00 00
 msgctxt "2864_Employee"
 msgid "Erena Aihara"
 msgstr "Erena Aihara"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=6
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T3.P111
-#. y4:msg_branch_segment=T3.P111..P123
-#. y4:msg_branch_target_text=(Let's see if Chihiro's interested.)
-#. y4:msg_branch_raw=01 12 00 6f 01 00 00 0c 00 c8 00 05 00 00 00 00
 msgctxt "2876_Employee"
 msgid "Chihiro Ikki"
 msgstr "Chihiro Ikki"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=16
-#. y4:msg_phrase=0
-#. y4:msg_location=T16.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=7
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T3.P73
-#. y4:msg_branch_segment=T3.P73..P85
-#. y4:msg_branch_target_text=(Let's see if Maya's interested.)
-#. y4:msg_branch_raw=01 12 00 49 01 00 00 09 00 c8 00 06 00 00 00 00
 msgctxt "2888_Employee"
 msgid "Maya Mori"
 msgstr "Maya Mori"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_choice_index=5
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
+#. y4:msg_choice_index=8
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P28
-#. y4:msg_branch_segment=T3.P28..P30
-#. y4:msg_branch_target_text=Um, maybe not right now.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "2900_Employee"
 msgid "Never Mind"
 msgstr "No importa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P4
-#. y4:msg_branch_segment=T3.P4..P8
-#. y4:msg_branch_target_text=I'll go to the baths first.
-#. y4:msg_branch_raw=01 11 00 04 00 00 00 15 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P1
 msgctxt "2912_Employee"
 msgid "Bath and Table Tennis"
 msgstr "Baño y tenis de mesa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P22
-#. y4:msg_branch_segment=T3.P22..P27
-#. y4:msg_branch_target_text=I'll play some table tennis.
-#. y4:msg_branch_raw=01 11 00 16 00 00 00 11 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P6
 msgctxt "2924_Employee"
 msgid "Just Table Tennis"
 msgstr "Sólo tenis de mesa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_choice_index=4
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
+#. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P9
-#. y4:msg_branch_segment=T3.P9..P21
-#. y4:msg_branch_target_text=Table tennis is played in 11-point rounds. The first player to win two rounds wins. When both players have 10 points, it's called a deuce. The first player to lead by two points wins.
-#. y4:msg_branch_raw=01 11 00 09 00 00 00 18 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P15
 msgctxt "2936_Employee"
 msgid "How to Play Table Tennis"
 msgstr "Cómo jugar tenis de mesa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_choice_index=5
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
+#. y4:msg_choice_index=4
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P28
-#. y4:msg_branch_segment=T3.P28..P30
-#. y4:msg_branch_target_text=Um, maybe not right now.
-#. y4:msg_branch_raw=01 11 00 1c 00 00 00 0a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P12
 msgctxt "2948_Employee"
 msgid "Never Mind"
 msgstr "No importa"

@@ -24,128 +24,63 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01EE020A <group>
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
+
+
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Yes -> T1.P3 | 2. No -> T1.P2
 msgctxt "188"
 msgid "Go to the rooftop?"
 msgstr "¿Ir a la azotea?"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1408"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1412"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "176_Akiyama"
 msgid "(This is where I'm supposed to meet up with Kido-chan. Guess I should start climbing.)"
 msgstr "(Aquí es donde se supone que me iba a reunir con Kido-chan. Debería empezar a subir)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=No
 msgctxt "200_Akiyama"
 msgid "(Maybe later.)"
 msgstr "(Tal vez más tarde)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Yes
 msgctxt "212_Akiyama"
 msgid "(Okay, I better go see what Kido-chan wants.)"
 msgstr "(Muy bien, hora de ver lo que Kido-chan quiere)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
 msgctxt "236_Player"
 msgid "(I'm not alone right now... Would be dangerous to take them to the rooftop with me.)"
 msgstr "(No estoy solo ahora... Sería peligroso que me acompañe a la azotea)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
 msgctxt "248_Player"
 msgid "(It's dangerous to go to the rooftops in the rain. I shouldn't do that right now.)"
 msgstr "(Es peligroso ir a los tejados cuando llueve. Mejor no)."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P3
-#. y4:msg_branch_segment=T1.P3..P4
-#. y4:msg_branch_target_text=(Okay, I better go see what Kido-chan wants.)
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "272_Akiyama"
 msgid "Yes"
 msgstr "Sí"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P2
-#. y4:msg_branch_segment=T1.P2..P2
-#. y4:msg_branch_target_text=(Maybe later.)
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "284_Akiyama"
 msgid "No"
 msgstr "No"

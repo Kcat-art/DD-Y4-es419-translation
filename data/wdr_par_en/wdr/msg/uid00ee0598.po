@@ -18,136 +18,71 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
 msgctxt "176"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2836"
 msgid "Scrutinizing Man"
 msgstr "Hombre juzgón"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2840"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "2844"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "2848"
 msgid "MEB"
 msgstr "SEM"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "2852"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Scrutinizing Man
-#. y4:msg_speaker_id=0
 msgctxt "56_Scrutinizing Man"
 msgid "Hmm... She might do, yes."
 msgstr "Mmm... Esta también está interesante."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Scrutinizing Man
-#. y4:msg_speaker_id=0
 msgctxt "68_Scrutinizing Man"
 msgid "Ooh... No, no, this one is far too unscrupulous, yes!"
 msgstr "Ooh... Esta de acá tiene demasiada <Italic>personalidad</Italic>, ¡Demasiada!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Scrutinizing Man
-#. y4:msg_speaker_id=0
 msgctxt "80_Scrutinizing Man"
 msgid "Are you here to find the perfect hostess, too? Come now, take a look."
 msgstr "¿Tú también has venido aquí para juzgar? Yo soy de los tipos que se conforman mirando estas bellezas desde este lugar."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Scrutinizing Man
-#. y4:msg_speaker_id=0
 msgctxt "92_Scrutinizing Man"
 msgid "Just knowing about these girls is enough for me. Going to an actual hostess club? Perish the thought! Why, if I met them, the perfect image in my mind would be ruined!"
 msgstr "¡Ir a un club de hostesses está completamente prohibido para mí! Existe la posibilidad de que, al verlas en persona, se rompa la imagen perfecta que tengo de ellas en mi mente."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Scrutinizing Man
-#. y4:msg_speaker_id=0
 msgctxt "104_Scrutinizing Man"
 msgid "No, it's not a matter of preference, but of my own personal principles! I'm sure someone like you could handle the disappointment, though!"
 msgstr "No, no es cosa de preferencias, ¡son mis principios! ¡Aunque alguien como tú deberías ir a verlas!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=MEB
-#. y4:msg_speaker_id=3
 msgctxt "116_Scrutinizing Man"
 msgid "The MEB is an information spot that will introduce you to excellent hostess clubs for free. You can also learn about the most popular girls at certain hostess clubs, as well as receive coupons."
 msgstr "El SEM es un punto de información que te presentará los mejores cabaret clubs completamente gratis. Puedes obtener información sobre las hostesses más populares, además de recibir cupones de vez en cuando."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=MEB
-#. y4:msg_speaker_id=3
 msgctxt "128_Scrutinizing Man"
 msgid "If you want to take part in Kamurocho nightlife, the MEB will be your strongest ally."
 msgstr "Si quieres formar parte de la vida nocturna de Kamurocho, el SEM será tu mejor aliado."
@@ -159,13 +94,6 @@ msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nR
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Scrutinizing Man
-#. y4:msg_speaker_id=0
 msgctxt "152_Scrutinizing Man"
 msgid "Wow, she's perfect. Simply the pinnacle of womankind! Has the day finally come for me to break free of my principles! No, no! I must hold fast! Not yet!"
 msgstr "¡Wow, ella es perfecta! ¡El pináculo de la feminidad! ¡Finalmente, ha llegado el día de romper mis principios! ¡No, no! ¡Tengo que resistir! ¡Aún no es el día!"

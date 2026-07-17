@@ -24,199 +24,96 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01A40024 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3160"
 msgid "Suited Thug"
 msgstr "Matón Trajeado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "3164"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "3168"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "3172"
 msgid "Suited Minion"
 msgstr "Secuaz Trajeado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "3176"
 msgid "Suited Henchman"
 msgstr "Secuaz Trajeado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "3180"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "3184"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "3188"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Suited Thug
-#. y4:msg_speaker_id=0
 msgctxt "72_Suited Thug"
 msgid "You'll pay for this, damn it..."
 msgstr "Maldición, pagarás por esto..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "84_Saejima"
 msgid "Snot-nosed crooks like you never learn. I don't know nothin' about no woman, so leave me the fuck alone!"
 msgstr "Mocosos maleducados como ustedes nunca aprenden. ¡No sé nada de ninguna mujer, así que dejenme en paz de una puta vez!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "132_Saejima"
 msgid "(What's she up to, anyhow? They wouldn't be this dead set on hunting her down over nothin'.)"
 msgstr "(Aunque, ¿en qué andará metida? No por nada le están dando caza.)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
 msgctxt "144_Suited Thug"
 msgid "(She mentioned the subway tunnel... Aw, hell. Guess I'll go check it out.)"
 msgstr "(Ella mencionó el túnel del metro... Bah, qué demonios. Supongo que iré a echar un ojo.)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Suited Minion
-#. y4:msg_speaker_id=3
 msgctxt "192_Suited Minion"
 msgid "You couldn't have picked a better time to show up."
 msgstr "No podrías haber elegido un mejor momento para aparecer."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "204_Saejima"
 msgid "You're the ones who were harassin' that woman."
 msgstr "Ustedes eran los que estaban molestando a esa mujer."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Suited Minion
-#. y4:msg_speaker_id=3
 msgctxt "216_Suited Minion"
 msgid "And you're the one who got in our way, big time."
 msgstr "Y tú eres el que se metió en nuestro camino."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Suited Minion
-#. y4:msg_speaker_id=3
 msgctxt "228_Suited Minion"
 msgid "If you know where she is, it'd be in your best interest to tell us."
 msgstr "Si sabes dónde está, te conviene decírnoslo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "240_Saejima"
 msgid "I dunno where she's at."
 msgstr "Ni idea de dónde está."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Suited Henchman
-#. y4:msg_speaker_id=4
 msgctxt "252_Suited Henchman"
 msgid "Don't play dumb with us. Where's that CD-ROM!?"
 msgstr "No te hagas el idiota. ¿¡Dónde está el CD-ROM!?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "264_Saejima"
 msgid "Seedy what?"
 msgstr "¿Sede de qué?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Suited Henchman
-#. y4:msg_speaker_id=4
 msgctxt "276_Suited Henchman"
 msgid "Grr... I'll teach you to mess with us! You're in cahoots with her, aren't you?"
 msgstr "Grr... ¡Te enseñaré a no meterte con nosotros! Estás aliado con ella, ¿verdad?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Suited Henchman
-#. y4:msg_speaker_id=4
 msgctxt "288_Suited Henchman"
 msgid "You'll wish you'd told us in the first place when you confess through a mouthful of broken teeth!"
 msgstr "¡Desearás habérnoslo dicho desde el principio cuando confieses con la boca llena de dientes rotos!"

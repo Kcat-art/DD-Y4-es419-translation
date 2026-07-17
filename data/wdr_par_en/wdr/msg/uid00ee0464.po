@@ -18,59 +18,35 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
 msgctxt "144"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1752"
 msgid "Quiet Bespectacled Man"
 msgstr "Cuatro ojos silencioso"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1756"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "1760"
 msgid "Valuables"
 msgstr "Objetos valiosos"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Quiet Bespectacled Man
-#. y4:msg_speaker_id=0
 msgctxt "84_Quiet Bespectacled Man"
 msgid "Oh, man, these DVDs are amazing... Truly the most priceless of valuables. I can't stop staring at them. I've gotta memorize everything about them..."
 msgstr "No puedo dejar de ver estos objetos, quiero observarlos más de cerca. Necesito saber todo sobre ellos..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Valuables
-#. y4:msg_speaker_id=2
 msgctxt "96_Quiet Bespectacled Man"
 msgid "You can zoom in on Valuables with <Action:Button_Cross@UI>. You can also view equipment recipes at any time with <Action:Button_Cross@UI>."
 msgstr "Puedes hacer zoom a los objetos valiosos con <Action:Button_Cross@UI>. También puedes ver las recetas de Equipamiento en cualquier momento con <Action:Button_Cross@UI>."
@@ -82,13 +58,6 @@ msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nR
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Quiet Bespectacled Man
-#. y4:msg_speaker_id=0
 msgctxt "120_Quiet Bespectacled Man"
 msgid "Yes, yes, this one! I just need to glance at the packaging to know what beauties lie within. I've got to stare harder though... I need every molecule burned into my retinas!"
 msgstr "Esto también me pasa con los DVDs. Son muy valiosos, no puedo desprenderme de ellos... Con solo mirar la funda ya puedo captar la información básica... ¡Hasta siento que entiendo la estructura molecular del DVD!"

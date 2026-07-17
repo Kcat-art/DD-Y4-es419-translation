@@ -24,218 +24,110 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
 #. y4:runtime_play_command=y4.play_msg 016C0037 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
 msgctxt "504"
 msgid "Controls"
 msgstr "Controles"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "18272"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "18276"
 msgid "F_cab_sitsofa_tlk_kamaeA"
 msgstr "F_cab_sitsofa_tlk_kamaeA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "18280"
 msgid "F_cab_sitsofa_hot_muneA"
 msgstr "F_cab_sitsofa_hot_muneA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "18284"
 msgid "Player"
 msgstr "Player"
 
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "18288"
 msgid "松岡里緒奈：源氏名"
 msgstr "松岡里緒奈：源氏名"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "18292"
 msgid "F_cab_sitsofa_talk_smileA"
 msgstr "F_cab_sitsofa_talk_smileA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "18296"
 msgid "F_cab_sitsofa_tlk_happy"
 msgstr "F_cab_sitsofa_tlk_happy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "18300"
 msgid "F_cab_sitsofa_tlk_gakkariA"
 msgstr "F_cab_sitsofa_tlk_gakkariA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "18304"
 msgid "F_cab_sitsofa_tlk_commentA"
 msgstr "F_cab_sitsofa_tlk_commentA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "18308"
 msgid "F_cab_sitsofa_tlk_angry"
 msgstr "F_cab_sitsofa_tlk_angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "18312"
 msgid "F_cab_sitsofa_sp8_sync_crap"
 msgstr "F_cab_sitsofa_sp8_sync_crap"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "18316"
 msgid "F_cab_sitsofa_tlk_kamaeAtoB"
 msgstr "F_cab_sitsofa_tlk_kamaeAtoB"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
 msgctxt "516_Kiryu"
 msgid "Use <Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control where you look. This is your chance to feast your eyes on her beauty."
 msgstr "Usa <Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> para mover tu mirada. Esta es tu oportunidad para deleitar tus ojos con su belleza."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
 msgctxt "528_Kiryu"
 msgid "Press <Action:Button_Cross@Cabaret> when you want to focus intently on one of her features. Holding down <Action:Button_Cross@Cabaret>  allows you to focus your gaze."
 msgstr "Presiona <Action:Button_Cross@Cabaret> en el lugar donde deseas dirigir tu \"poderosa\" mirada. Si mantienes presionado <Action:Button_Cross@Cabaret>, la mirada se enfocará más y será aún más intensa."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
 msgctxt "540_Kiryu"
 msgid "Note that her response will change depending on where you look."
 msgstr "Ten en cuenta que su reacción cambiará dependiendo a donde mires."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "564_Kiryu"
 msgid "(Maybe she had a problem with her eyes...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "576_Kiryu"
 msgid "(Maybe her mouth was the problem...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "588_Kiryu"
 msgid "(Was it her hands?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "600_Kiryu"
 msgid "(Maybe she had a problem with her legs...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "612_Kiryu"
 msgid "(Maybe the problem was with her head...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "624_Kiryu"
 msgid "(Her chest...?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "636_Kiryu"
 msgid "(Where was the problem?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "648_Player"
 msgid "Did you have a problem with your eyes? Bad vision, maybe?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=1
-#. y4:msg_location=T8.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "660_松岡里緒奈：源氏名"
 msgid "Nope! Actually, I have 20/20 vision."
 msgstr ""
@@ -244,68 +136,26 @@ msgctxt "672_松岡里緒奈：源氏名"
 msgid "The correct answer was... my chest! <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=3
-#. y4:msg_location=T8.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "684_Player"
 msgid "Your chest?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=4
-#. y4:msg_location=T8.P4
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "696_松岡里緒奈：源氏名"
 msgid "When my boobs got bigger, it was hard to run. And the boys kept staring, so I had to quit."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=5
-#. y4:msg_location=T8.P5
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "708_松岡里緒奈：源氏名"
 msgid "There's nothing good about having big boobs."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=6
-#. y4:msg_location=T8.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "720_Player"
 msgid "Oh, I wouldn't say that."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "732_Player"
 msgid "Was your mouth the problem? They say that the mouth is the gate of misfortune, after all."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=1
-#. y4:msg_location=T9.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "744_松岡里緒奈：源氏名"
 msgid "Hahaha! That's a good one! But no, I've always been careful about what I say."
 msgstr ""
@@ -314,79 +164,30 @@ msgctxt "756_松岡里緒奈：源氏名"
 msgid "The correct answer was... my chest! <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=3
-#. y4:msg_location=T8.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "768_Player"
 msgid "Your chest?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=4
-#. y4:msg_location=T8.P4
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "780_松岡里緒奈：源氏名"
 msgid "When my boobs got bigger, it was hard to run. And the boys kept staring, so I had to quit."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=5
-#. y4:msg_location=T8.P5
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "792_松岡里緒奈：源氏名"
 msgid "There's nothing good about having big boobs."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=6
-#. y4:msg_location=T8.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "804_Player"
 msgid "Oh, I wouldn't say that."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "816_Player"
 msgid "Were your hands the problem?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=1
-#. y4:msg_location=T10.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "828_松岡里緒奈：源氏名"
 msgid "No. You could probably play soccer even if you did have a problem with your hands."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=2
-#. y4:msg_location=T10.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "840_Player"
 msgid "I guess that's true."
 msgstr "Supongo que tiene razón."
@@ -395,46 +196,18 @@ msgctxt "852_松岡里緒奈：源氏名"
 msgid "The correct answer was... my chest! <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=3
-#. y4:msg_location=T8.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "864_Player"
 msgid "Your chest?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=4
-#. y4:msg_location=T8.P4
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "876_松岡里緒奈：源氏名"
 msgid "When my boobs got bigger, it was hard to run. And the boys kept staring, so I had to quit."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=5
-#. y4:msg_location=T8.P5
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "888_松岡里緒奈：源氏名"
 msgid "There's nothing good about having big boobs."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=6
-#. y4:msg_location=T8.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "900_Player"
 msgid "Oh, I wouldn't say that."
 msgstr ""
@@ -444,112 +217,42 @@ msgid "You naughty boy. You shouldn't stare at a girl's thighs\\r\n"
 "like that. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=1
-#. y4:msg_location=T11.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "924_Player"
 msgid "Were your legs too slow?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=2
-#. y4:msg_location=T11.P2
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "936_松岡里緒奈：源氏名"
 msgid "Hey! Are you saying I've got fat legs?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=3
-#. y4:msg_location=T11.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "948_Player"
 msgid "Uh, I didn't mean it that way."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=4
-#. y4:msg_location=T11.P4
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "960_松岡里緒奈：源氏名"
 msgid "Hmph! That's not very nice!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=5
-#. y4:msg_location=T11.P5
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "972_松岡里緒奈：源氏名"
 msgid "The correct answer was my chest! Sorry I've got such huge elephant legs!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=6
-#. y4:msg_location=T11.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "984_Player"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "996_Player"
 msgid "Was the problem with your head?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=1
-#. y4:msg_location=T12.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1008_松岡里緒奈：源氏名"
 msgid "What's that supposed to mean!?"
 msgstr "¿¡Qué se supone que significa eso!?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=2
-#. y4:msg_location=T12.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "1020_Player"
 msgid "Soccer is a strategic sport, isn't it? It takes more than just physical fitness to be good at it."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=3
-#. y4:msg_location=T12.P3
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1032_松岡里緒奈：源氏名"
 msgid "I suppose that's true, but I'm not stupid. That's kind of rude."
 msgstr ""
@@ -558,46 +261,18 @@ msgctxt "1044_松岡里緒奈：源氏名"
 msgid "The correct answer was... my chest! <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=3
-#. y4:msg_location=T8.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "1056_Player"
 msgid "Your chest?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=4
-#. y4:msg_location=T8.P4
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1068_松岡里緒奈：源氏名"
 msgid "When my boobs got bigger, it was hard to run. And the boys kept staring, so I had to quit."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=5
-#. y4:msg_location=T8.P5
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1080_松岡里緒奈：源氏名"
 msgid "There's nothing good about having big boobs."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=6
-#. y4:msg_location=T8.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "1092_Player"
 msgid "Oh, I wouldn't say that."
 msgstr ""
@@ -606,13 +281,6 @@ msgctxt "1104_松岡里緒奈：源氏名"
 msgid "Hey. What are you looking at? <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=1
-#. y4:msg_location=T13.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "1116_Player"
 msgid "Hehehe. Was that the problem by any chance?"
 msgstr ""
@@ -621,46 +289,18 @@ msgctxt "1128_松岡里緒奈：源氏名"
 msgid "That's right! I should've known you'd guess that. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=3
-#. y4:msg_location=T13.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "1140_Player"
 msgid "They do stand out."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=4
-#. y4:msg_location=T13.P4
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1152_松岡里緒奈：源氏名"
 msgid "If they were smaller, I might have made it to the national finals."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=5
-#. y4:msg_location=T13.P5
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1164_松岡里緒奈：源氏名"
 msgid "Do you like girls with big boobs?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=6
-#. y4:msg_location=T13.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=3
 msgctxt "1176_Player"
 msgid "Well, I certainly don't dislike them."
 msgstr ""
@@ -673,310 +313,114 @@ msgctxt "1200_松岡里緒奈：源氏名"
 msgid "But if you like them, there's a bit of a silver lining for me to have big boobs. Hehe, just kidding! <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1212_松岡里緒奈：源氏名"
 msgid "Hey! Are you even thinking about what I asked you?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=1
-#. y4:msg_location=T14.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1224_Kiryu"
 msgid "Sorry. I was a little distracted..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=2
-#. y4:msg_location=T14.P2
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1236_Kiryu"
 msgid "Hmph! Sorry I'm so boring to talk to!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1248_Kiryu"
 msgid "(Maybe a pierced eyelid?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=16
-#. y4:msg_phrase=0
-#. y4:msg_location=T16.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1260_Kiryu"
 msgid "(Maybe a pierced lip?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1272_Kiryu"
 msgid "(Maybe a bracelet?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=0
-#. y4:msg_location=T18.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1284_Kiryu"
 msgid "(Maybe something on her feet?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=19
-#. y4:msg_phrase=0
-#. y4:msg_location=T19.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1296_Kiryu"
 msgid "(Maybe a ribbon in her hair?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=20
-#. y4:msg_phrase=0
-#. y4:msg_location=T20.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1308_Kiryu"
 msgid "(Maybe a necklace on her chest?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=21
-#. y4:msg_phrase=0
-#. y4:msg_location=T21.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1320_Kiryu"
 msgid "(An accessory?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=0
-#. y4:msg_location=T22.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1332_Kiryu"
 msgid "How about a pierced eyelid?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=1
-#. y4:msg_location=T22.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1344_松岡里緒奈：源氏名"
 msgid "My eyelid!? That sounds pretty scary... Besides, I don't think the club would allow that."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=2
-#. y4:msg_location=T22.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1356_Kiryu"
 msgid "No?"
 msgstr "¿No?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1368_松岡里緒奈：源氏名"
 msgid "I don't think I want to get anything pierced. It sounds like it would be pretty painful."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1380_松岡里緒奈：源氏名"
 msgid "I wonder what else I could do."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=0
-#. y4:msg_location=T23.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1392_Kiryu"
 msgid "How about a pierced lip?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=1
-#. y4:msg_location=T23.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1404_松岡里緒奈：源氏名"
 msgid "Wow, that's kind of extreme. I'm not sure the club would allow that kind of thing."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=2
-#. y4:msg_location=T22.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1416_Kiryu"
 msgid "No?"
 msgstr "¿No?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1428_松岡里緒奈：源氏名"
 msgid "I don't think I want to get anything pierced. It sounds like it would be pretty painful."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1440_松岡里緒奈：源氏名"
 msgid "I wonder what else I could do."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=0
-#. y4:msg_location=T24.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1452_Kiryu"
 msgid "How about a bracelet or something?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=1
-#. y4:msg_location=T24.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1464_松岡里緒奈：源氏名"
 msgid "Hmm... A bracelet, huh?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=2
-#. y4:msg_location=T24.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1476_Kiryu"
 msgid "Is there a problem with that?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=3
-#. y4:msg_location=T24.P3
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1488_松岡里緒奈：源氏名"
 msgid "No, but I often wear wrist weights when I'm training. It reminded me of that. I'd probably like something else."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1500_松岡里緒奈：源氏名"
 msgid "I wonder what else I could do."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=0
-#. y4:msg_location=T25.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1512_Kiryu"
 msgid "What about a toe ring?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=1
-#. y4:msg_location=T25.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1524_松岡里緒奈：源氏名"
 msgid "Huh? A toe ring?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=2
-#. y4:msg_location=T25.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1536_Kiryu"
 msgid "It's getting warm out, so you'll probably wear sandals a lot. I think it'd look nice."
 msgstr ""
@@ -990,13 +434,6 @@ msgctxt "1560_松岡里緒奈：源氏名"
 msgid "I'll think about it. Thanks for the advice! <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=0
-#. y4:msg_location=T26.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1572_Kiryu"
 msgid "What about a ribbon in your hair?"
 msgstr ""
@@ -1005,13 +442,6 @@ msgctxt "1584_松岡里緒奈：源氏名"
 msgid "Ha! A ribbon? I don't think that suits me at all. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=2
-#. y4:msg_location=T26.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1596_Kiryu"
 msgid "That's the point. It'll make people who know you take notice."
 msgstr ""
@@ -1024,24 +454,10 @@ msgctxt "1620_松岡里緒奈：源氏名"
 msgid "I'll think about it. Thanks for the advice! <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=0
-#. y4:msg_location=T27.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1632_Kiryu"
 msgid "How about a necklace? You know, something to add a little accent to your chest area."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=1
-#. y4:msg_location=T27.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1644_松岡里緒奈：源氏名"
 msgid "A necklace, huh? People do tend to look at my chest a lot."
 msgstr ""
@@ -1050,68 +466,26 @@ msgctxt "1656_松岡里緒奈：源氏名"
 msgid "One of those Y-shaped ones might be good. Maybe I'll give it a try. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=3
-#. y4:msg_location=T27.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1668_Kiryu"
 msgid "Hehehe."
 msgstr "Je, je, je."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=0
-#. y4:msg_location=T28.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1680_松岡里緒奈：源氏名"
 msgid "Hey! Are you even thinking about what I asked?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=1
-#. y4:msg_location=T28.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1692_Kiryu"
 msgid "Sorry... I just can't think of anything off the top of my head."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=2
-#. y4:msg_location=T28.P2
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1704_松岡里緒奈：源氏名"
 msgid "So you think nothing would look good on me?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=3
-#. y4:msg_location=T28.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1716_Kiryu"
 msgid "I didn't say that."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=4
-#. y4:msg_location=T28.P4
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=4
 msgctxt "1728_松岡里緒奈：源氏名"
 msgid "I guess I'll just forget about it then."
 msgstr ""

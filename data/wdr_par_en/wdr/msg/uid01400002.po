@@ -24,260 +24,102 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_CHOHAN.bin
 #. y4:runtime_play_command=y4.play_msg 01400002 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=1
-#. y4:msg_location=T8.P1
+
+
 msgctxt "500"
 msgid "Game on!"
 msgstr "¡A jugar!"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2988"
 msgid "Dealer"
 msgstr "Crupier"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "392_Dealer"
 msgid "Ready? Here we go."
 msgstr "¿Listos? Allá vamos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "404_Dealer"
 msgid "Ready? Here we go."
 msgstr "¿Listos? Allá vamos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "416_Dealer"
 msgid "Ready? Here we go."
 msgstr "¿Listos? Allá vamos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "428_Dealer"
 msgid "Ready? Here we go."
 msgstr "¿Listos? Allá vamos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "440_Dealer"
 msgid "What's it gonna be!?"
 msgstr "¡Vamos, apuesten, apuesten!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "452_Dealer"
 msgid "What's it gonna be!?"
 msgstr "¡Vamos, apuesten, apuesten!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "464_Dealer"
 msgid "What's it gonna be!?"
 msgstr "¡Vamos, apuesten, apuesten!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "476_Dealer"
 msgid "What's it gonna be!?"
 msgstr "¡Vamos, apuesten, apuesten!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "488_Dealer"
 msgid "Now they fall."
 msgstr "Las fichas del cho-han están listas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "512_Dealer"
 msgid "Not too bad!"
 msgstr "¡No está mal!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "524_Dealer"
 msgid "Not too bad!"
 msgstr "¡No está mal!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "536_Dealer"
 msgid "Not too bad!"
 msgstr "¡No está mal!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "548_Dealer"
 msgid "Not too bad!"
 msgstr "¡No está mal!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "560_Dealer"
 msgid "That's the way it goes."
 msgstr "Asi son las cosas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "572_Dealer"
 msgid "That's the way it goes."
 msgstr "Asi son las cosas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "584_Dealer"
 msgid "That's the way it goes."
 msgstr "Asi son las cosas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "596_Dealer"
 msgid "That's the way it goes."
 msgstr "Asi son las cosas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "608_Dealer"
 msgid "Wanna play the house again?"
 msgstr "¿Quieres volver a jugar contra la casa?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "620_Dealer"
 msgid "Wanna play the house again?"
 msgstr "¿Quieres volver a jugar contra la casa?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "632_Dealer"
 msgid "Wanna play the house again?"
 msgstr "¿Quieres volver a jugar contra la casa?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "644_Dealer"
 msgid "Wanna play the house again?"
 msgstr "¿Quieres volver a jugar contra la casa?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=21
-#. y4:msg_phrase=0
-#. y4:msg_location=T21.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "656_Dealer"
 msgid "You got me. Take it easy, why don't ya?"
 msgstr "Me ganaste. Tómalo con calma, ¿sí?"

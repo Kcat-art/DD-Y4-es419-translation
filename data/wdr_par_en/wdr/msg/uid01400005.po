@@ -24,92 +24,44 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_CHOHAN.bin
 #. y4:runtime_play_command=y4.play_msg 01400005 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
 msgctxt "200"
 msgid "The next roll came up even."
 msgstr "La siguiente tirada será par."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
 msgctxt "212"
 msgid "The next roll came up odd."
 msgstr "La siguiente tirada será impar."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
 msgctxt "224"
 msgid "The next roll was Snake Eyes."
 msgstr "La siguiente tirada será Ojos de Serpiente."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
 msgctxt "236"
 msgid "The gamblers' bets are becoming very lopsided."
 msgstr "Las apuestas de los jugadores se están volviendo muy desiguales."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
 msgctxt "248"
 msgid "An item cannot be used twice in one game."
 msgstr "Un objeto no puede usarse dos veces en una misma partida."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
 msgctxt "260"
 msgid "Nothing happened."
 msgstr "No pasó nada."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
 msgctxt "272"
 msgid "You need 40 chips to guess both dice rolls."
 msgstr "Necesitas 40 fichas para adivinar el resultado de ambos dados."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
 msgctxt "284"
 msgid "You need 100 chips to guess both dice rolls."
 msgstr "Necesitas 100 fichas para adivinar el resultado de ambos dados."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
 msgctxt "296"
 msgid "You need 160 chips to guess both dice rolls."
 msgstr "Necesitas 160 fichas para adivinar el resultado de ambos dados."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
 msgctxt "308"
 msgid "You need 200 chips to guess both dice rolls."
 msgstr "Necesitas 200 fichas para adivinar el resultado de ambos dados."

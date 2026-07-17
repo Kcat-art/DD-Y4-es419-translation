@@ -24,138 +24,78 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_MTOWER.bin
 #. y4:runtime_play_command=y4.play_msg 0183064F <group>
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Yes -> T0.P1 | 2. No -> T0.P2
 msgctxt "160"
 msgid "Head up to the rooftop of the Millennium Tower?"
 msgstr "¿Subir a la azotea de la Torre Millennium?"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Yes -> T0.P1 | 2. No -> T0.P2
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=1
 msgctxt "196"
 msgid "Head up to the rooftop of the Millennium Tower?"
 msgstr "¿Subir a la azotea de la Torre Millennium?"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1140"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1144"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=No
 msgctxt "184_Akiyama"
 msgid "(Maybe later.)"
 msgstr "(Tal vez más tarde)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=No
 msgctxt "220_Player"
 msgid "(Maybe later.)"
 msgstr "(Tal vez más tarde)."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P1
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "232_Akiyama"
 msgid "Yes"
 msgstr "Sí"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P2
-#. y4:msg_branch_segment=T0.P2..P2
-#. y4:msg_branch_target_text=(Maybe later.)
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "244_Akiyama"
 msgid "No"
 msgstr "No"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P1
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 03 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T1.P1
 msgctxt "256_Akiyama"
 msgid "Yes"
 msgstr "Sí"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P2
-#. y4:msg_branch_segment=T0.P2..P2
-#. y4:msg_branch_target_text=(Maybe later.)
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 02 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T1.P2
 msgctxt "268_Akiyama"
 msgid "No"
 msgstr "No"

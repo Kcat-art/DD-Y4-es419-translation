@@ -24,34 +24,22 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_ROOF01.bin
 #. y4:runtime_play_command=y4.play_msg 01910953 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "684"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "688"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "692"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "56_Kiryu"
 msgid "(Vermillion Bird... Finally, the boss? Giant tower... Hmm... Guess I should try to go underground from behind the Millennium Tower.)"
 msgstr "(Ave Bermellón... ¿Finalmente, el jefe? Torre gigante... Mmm... Supongo que debería intentar ir al subterráneo por detrás de la Torre Millennium)."

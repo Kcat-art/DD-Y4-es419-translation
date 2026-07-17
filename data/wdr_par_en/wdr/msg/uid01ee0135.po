@@ -24,396 +24,191 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_BATTING.bin
 #. y4:runtime_play_command=y4.play_msg 01EE0135 <group>
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Use a Coupon
+
+
 msgctxt "388"
 msgid "You used a <Color:8>Batting Coupon<Color:Default>."
 msgstr "Usaste un <Color:8>Cupón de bateo<Color:Default>."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "4720"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "4724"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "4728"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "4732"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "4736"
 msgid "Batting Center: Easy Game"
 msgstr "Centro de Béisbol: Modo Fácil"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "268_Kiryu"
 msgid "(Sure, I'll do it for Haruka...)"
 msgstr "(Claro, lo haré por Haruka...)"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Pay 300 Yen -> T1.P6 | 2. Use a Coupon -> T1.P8 | 3. Don't Play -> T1.P12 | 4. Read the Rules -> T1.P14
 msgctxt "316_Player"
 msgid "(Hmm... The Easy Game is 300 yen. Maybe I should give it a try.)"
 msgstr "(Mmm... El Modo Fácil cuesta 300 yenes. Quizá debería darle una oportunidad)."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Pay 300 Yen -> T1.P6 | 2. Use a Coupon -> T1.P8 | 3. Don't Play -> T1.P12 | 4. Read the Rules -> T1.P14
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=1
 msgctxt "328_Player"
 msgid "(Hmm... The Easy Game is 300 yen. Maybe I should give it a try.)"
 msgstr "(Mmm... El Modo Fácil cuesta 300 yenes. Quizá debería darle una oportunidad)."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
-#. y4:msg_decision_choices=1. Use a Coupon -> T1.P8 | 2. Don't Play -> T1.P12 | 3. Read the Rules -> T1.P14
 msgctxt "340_Player"
 msgid "(Hmm... The Easy Game is 300 yen. I can use a coupon to play it for free...)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Pay 300 Yen
 msgctxt "352_Player"
 msgid "(Okay, let's do this.)"
 msgstr "(Está bien, lo intentaré.)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Pay 300 Yen
 msgctxt "376_Player"
 msgid "(Okay, let's do this.)"
 msgstr "(Está bien, lo intentaré.)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Don't Play
 msgctxt "424_Player"
 msgid "(Not right now.)"
 msgstr "(Ahora no)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Batting Center: Easy Game
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=Read the Rules
 msgctxt "448_Kiryu"
 msgid "Press <Action:Button_Cross@Battingcenter> at the right time to hit the balls pitched by the pitching machine. Hit the home run targets to earn points."
 msgstr "Prensa <Action:Button_Cross@Battingcenter> en el momento adecuado para golpear las bolas lanzadas por la máquina de lanzar. Golpea los objetivos de jonrones para ganar puntos."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Batting Center: Easy Game
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=Read the Rules
 msgctxt "460_Kiryu"
 msgid "There are three targets in the Easy Game. Each target will grant the same number of points, but once a target is hit, it will not be restored until all the remaining targets are also hit."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=16
-#. y4:msg_location=T1.P16
-#. y4:msg_speaker=Batting Center: Easy Game
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=Read the Rules
 msgctxt "472_Kiryu"
 msgid "Use <Action:Button_LS_Up@Battingcenter><Action:Button_LS_Down@Battingcenter><Action:Button_LS_Left@Battingcenter><Action:Button_LS_Right@Battingcenter> to aim your swing. If you aim well enough, you can hit two targets at once and earn two times the points."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=17
-#. y4:msg_location=T1.P17
-#. y4:msg_speaker=Batting Center: Easy Game
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=Read the Rules
 msgctxt "484_Kiryu"
 msgid "Once you hit all the targets, a bonus target will appear. However, you only get one chance to hit it. The bonus target disappears after one pitch, whether you hit it or not. Aim carefully and go for a new high score!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=18
-#. y4:msg_location=T1.P18
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=Read the Rules
 msgctxt "496_Player"
 msgid "(One Easy Game is 300 yen. I don't have enough money, though...)"
 msgstr "(Una partida fácil son 300 yenes. Pero... no tengo suficiente dinero)."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P6
-#. y4:msg_branch_segment=T1.P6..P7
-#. y4:msg_branch_target_text=(Okay, let's do this.)
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "520_Kiryu"
 msgid "Pay 300 Yen"
 msgstr "Pagar 300 yenes"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P8
-#. y4:msg_branch_segment=T1.P8..P11
-#. y4:msg_branch_target_text=(Okay, let's do this.)
-#. y4:msg_branch_raw=01 11 00 08 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "532_Kiryu"
 msgid "Use a Coupon"
 msgstr "Usar un Cupón"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P12
-#. y4:msg_branch_segment=T1.P12..P13
-#. y4:msg_branch_target_text=(Not right now.)
-#. y4:msg_branch_raw=01 11 00 0c 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "544_Kiryu"
 msgid "Don't Play"
 msgstr "No jugar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=4
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P14
-#. y4:msg_branch_segment=T1.P14..P19
-#. y4:msg_branch_target_text=Press <Action:Button_Cross@Battingcenter> at the right time to hit the balls pitched by the pitching machine. Hit the home run targets to earn points.
-#. y4:msg_branch_raw=01 11 00 0e 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "556_Kiryu"
 msgid "Read the Rules"
 msgstr "Leer las Reglas"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P6
-#. y4:msg_branch_segment=T1.P6..P11
-#. y4:msg_branch_target_text=(Okay, let's do this.)
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "568_Kiryu"
 msgid "Play"
 msgstr "Jugar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_choice_index=3
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
+#. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P12
-#. y4:msg_branch_segment=T1.P12..P13
-#. y4:msg_branch_target_text=(Not right now.)
-#. y4:msg_branch_raw=01 11 00 0c 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "580_Kiryu"
 msgid "Don't Play"
 msgstr "No jugar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_choice_index=4
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
+#. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P14
-#. y4:msg_branch_segment=T1.P14..P19
-#. y4:msg_branch_target_text=Press <Action:Button_Cross@Battingcenter> at the right time to hit the balls pitched by the pitching machine. Hit the home run targets to earn points.
-#. y4:msg_branch_raw=01 11 00 0e 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "592_Kiryu"
 msgid "Read the Rules"
 msgstr "Leer las Reglas"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_choice_index=2
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
+#. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P8
-#. y4:msg_branch_segment=T1.P8..P11
-#. y4:msg_branch_target_text=(Okay, let's do this.)
-#. y4:msg_branch_raw=01 11 00 08 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "604_Kiryu"
 msgid "Use a Coupon"
 msgstr "Usar un Cupón"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_choice_index=3
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
+#. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P12
-#. y4:msg_branch_segment=T1.P12..P13
-#. y4:msg_branch_target_text=(Not right now.)
-#. y4:msg_branch_raw=01 11 00 0c 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "616_Kiryu"
 msgid "Don't Play"
 msgstr "No jugar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_choice_index=4
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
+#. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P14
-#. y4:msg_branch_segment=T1.P14..P19
-#. y4:msg_branch_target_text=Press <Action:Button_Cross@Battingcenter> at the right time to hit the balls pitched by the pitching machine. Hit the home run targets to earn points.
-#. y4:msg_branch_raw=01 11 00 0e 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "628_Kiryu"
 msgid "Read the Rules"
 msgstr "Leer las Reglas"

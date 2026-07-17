@@ -24,42 +24,22 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
 #. y4:runtime_play_command=y4.play_msg 00EE047A <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "576"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "100_Akiyama"
 msgid "(%s looks a little stressed out...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "124_Akiyama"
 msgid "(Looking good out there, %s...)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "148_Akiyama"
 msgid "(%s doesn't seem to have any customers...)"
 msgstr ""

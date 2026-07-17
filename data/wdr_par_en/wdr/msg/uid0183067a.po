@@ -24,83 +24,40 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_BILLIARD_BAR.bin
 #. y4:runtime_play_command=y4.play_msg 0183067A <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
 msgctxt "56"
 msgid "How to Play Rotation:"
 msgstr "Cómo jugar a Rotación:"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
 msgctxt "68"
 msgid "Rotation uses balls 1 through 15."
 msgstr "Rotación usa la bola 1 hasta la bola 15."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
 msgctxt "80"
 msgid "Players must pocket the balls on the table in order, starting with the lowest-numbered ball."
 msgstr "Los jugadores deben juntar las bolas de la tabla en orden, comenzando desde la bola 1 hasta la bola 15."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
 msgctxt "92"
 msgid "Pocketing a ball awards the player with the same number of points as the ball's number."
 msgstr "Meter una bola premia al jugador con el mismo número de puntos que el número de la bola tenga."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
 msgctxt "104"
 msgid "The first player to exceed 61 points wins."
 msgstr "El primer jugador que pase los 61 puntos, ganara."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
 msgctxt "116"
 msgid "Fouls:"
 msgstr "Faltas:"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
 msgctxt "128"
 msgid "If the cue ball falls into a pocket or does not strike an object ball, it is deemed a foul."
 msgstr "Si la bola blanca cae en una de las bolsas o no pega a ninguna bola, se considera falta."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
 msgctxt "140"
 msgid "The opposing player may then take a shot by placing the cue ball anywhere on the table."
 msgstr "El jugador contrario puede colocar la bola blanca en cualquier lugar de la mesa, y viceversa."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
 msgctxt "152"
 msgid "Now, let's give it a try."
 msgstr "Ahora, vamos a intentarlo."

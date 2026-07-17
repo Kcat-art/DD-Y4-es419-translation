@@ -24,38 +24,22 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_VIDEO.bin
 #. y4:runtime_play_command=y4.play_msg 00EE0056 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "452"
 msgid "Employee"
 msgstr "Empleado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "456"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
 msgctxt "56_Employee"
 msgid "Hello! Let's see... I'd recommend these items for you, sir."
 msgstr "¡Hola! Veamos... Le recomendaría estos objetos, señor."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
 msgctxt "80_Employee"
 msgid "Thank you. Please come again."
 msgstr "Muchas gracias. Por favor, vuelva pronto."

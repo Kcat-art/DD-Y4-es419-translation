@@ -24,481 +24,220 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E6003F <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "7792"
 msgid "Street Thug"
 msgstr "Maton de la Calle"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "7796"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "7800"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "7804"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "7808"
 msgid "Katagiri"
 msgstr "Katagiri"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "7812"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "7816"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "7820"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "7824"
 msgid "P_sae_stand_tlk_udekumi_st"
 msgstr "P_sae_stand_tlk_udekumi_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "7828"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "7832"
 msgid "P_sae_stand_tlk_udekumi_no"
 msgstr "P_sae_stand_tlk_udekumi_no"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "7836"
 msgid "P_sae_stand_tlk_udekumi_yes"
 msgstr "P_sae_stand_tlk_udekumi_yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "7840"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "7844"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "7848"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Street Thug
-#. y4:msg_speaker_id=0
 msgctxt "56_Street Thug"
 msgid "What the shit? Who <Italic>are</Italic> you, man!?"
 msgstr "¿Qué mierda fue eso? ¡¿Quién <Italic>eres</Italic>?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "68_Saejima"
 msgid "Nobody worth carin' about. But if ya wanna get strong like me, there ain't much better than a nice, long trip to the slammer. You could use the discipline."
 msgstr "Nadie por quien valga la pena preocuparse. Pero si quieres ponerte\n"
 "fuerte como yo, no hay nada mejor que un largo viaje tras las rejas.\n"
 "Te vendría bien como disciplina."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Street Thug
-#. y4:msg_speaker_id=0
 msgctxt "80_Street Thug"
 msgid "The slammer? You mean... <Italic>prison</Italic>!?"
 msgstr "¿Tras las rejas? Quieres decir... ¡¿<Italic>la cárcel</Italic>?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "92_Saejima"
 msgid "Look... Just scram, kid. You don't know who you're messin' with."
 msgstr "Mira... solo lárgate, chico. No sabes con quién te estás metiendo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Street Thug
-#. y4:msg_speaker_id=0
 msgctxt "104_Street Thug"
 msgid "Sir, yes, sir! C'mon boys, let's roll!"
 msgstr "¡Señor, sí, señor! ¡Salgamos de aquí, vamos!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "116_Saejima"
 msgid "Ya should be ashamed, lettin' yourself get run down by those punks."
 msgstr "Debería darte vergüenza que esos delincuentes te dieran una paliza."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=4
 msgctxt "128_Katagiri"
 msgid "Spare me the lecture, man. The days of yakuza muscling guys around are long over. It's all about brains now."
 msgstr "Ahórrate el sermón. Los días en que los yakuza eran enormes y fuertes\n"
 "ya pasaron. Ahora todo es cuestión de inteligencia."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "140_Saejima"
 msgid "You're missin' the point. Brawn or brains ain't what's important. It's respect. The whole damn thing goes down the drain once people start disrespectin' ya."
 msgstr "Ese no es el punto. La fuerza o el intelecto no es lo importante.\n"
 "Es el respeto. Todo se jode cuando las personas comienzan\n"
 "a faltarte el respeto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=4
 msgctxt "152_Katagiri"
 msgid "Say that all you want, but whose money does the family run on!? Mine! I'm not one of those fools who's blinded by strength!"
 msgstr "Di todo lo que quieras, pero, ¡¿de quién es el dinero del cual\n"
 "la familia depende?! ¡Mío! ¡No soy de esos estúpidos que están\n"
 "cegados por la fuerza!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "164_Saejima"
 msgid "Who're ya talkin' about?"
 msgstr "¿A quién te estás refiriendo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=4
 msgctxt "176_Katagiri"
 msgid "Those thugs from before, you... and especially Irie! Street fights won't keep the lights on, or the water running, or the rent paid!"
 msgstr "A esos delincuentes de antes... ¡Y específicamente a Irie!\n"
 "Las peleas no mantendrán las facturas de la luz y el agua.\n"
 "¡Ni mucho menos el alquiler!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "188_Saejima"
 msgid "...Ya got it all backwards."
 msgstr "... Lo entendiste todo mal."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=4
 msgctxt "200_Katagiri"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "212_Saejima"
 msgid "A yakuza who can't defend his family ain't nothin' more than dead weight."
 msgstr "Un yakuza que no puede defender a su familia no es más que\n"
 "un estorbo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=4
 msgctxt "224_Katagiri"
 msgid "Come again?"
 msgstr "¿Cómo dices?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "236_Saejima"
 msgid "Money's important, yeah. But while you're busy porin' over your spreadsheets, the muscle's out there keepin' your office safe."
 msgstr "El dinero es importante, sí. Pero mientras estás revisando tus\n"
 "hojas de cálculo, el hombre que actúa con fuerza protege tu oficina."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "248_Saejima"
 msgid "Don't ya get it? A yakuza too weak to protect his own ain't no better than those bottom-feedin' thugs from earlier. Hell, maybe even worse."
 msgstr "¿No lo entiendes? Si un yakuza es demasiado débil para proteger\n"
 "a los suyos, no es mejor que esos delincuentes.\n"
 "Mierda, tal vez es incluso peor."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=4
 msgctxt "260_Katagiri"
 msgid "Nrgh..."
 msgstr "Aagh..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "272_Saejima"
 msgid "And Irie-han? That's exactly the kinda guy a yakuza should strive to be."
 msgstr "¿Y Irie-han? Ese es exactamente el tipo de hombre que un yakuza\n"
 "debería aspirar a ser."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "284_Saejima"
 msgid "Throwin' money around is fine and all, but if ya wanna really make it in this world, ya gotta respect the people keepin' ya safe."
 msgstr "Derrochar el dinero por ahí está bien y todo. Pero si realmente\n"
 "quieres triunfar en este mundo, tienes que respetar a las\n"
 "personas que te mantienen a salvo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=4
 msgctxt "296_Katagiri"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "308_Saejima"
 msgid "Ya must've realized that, right?"
 msgstr "Te habrás dado cuenta de eso, ¿verdad?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=4
 msgctxt "320_Katagiri"
 msgid "...All I ever wanted was to feel strong. And bossing around those who were was the only way I could do it."
 msgstr "Siempre quise sentirme fuerte... y dar órdenes a aquellos\n"
 "que sí lo eran, fue la única manera que conseguía hacerme\n"
 "sentir de esa manera."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=4
 msgctxt "332_Saejima"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=4
 msgctxt "344_Katagiri"
 msgid "But you reminded me of something. How I felt when I first met Irie."
 msgstr "Pero me has recordado algo. Como me sentí al conocer a Irie."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "356_Saejima"
 msgid "And how's that?"
 msgstr "¿Y como fue?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=4
 msgctxt "368_Katagiri"
 msgid "He was... incredible. I'd never seen someone that strong before. And yet there I was, humiliating him in public... I'm so sorry."
 msgstr "Fue... Increíble. Nunca había visto a alguien tan fuerte.\n"
 "Sin embargo, yo estaba ahí humillándolo en público...\n"
 "Lo siento tanto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "380_Saejima"
 msgid "Don't be sorry, be better. Now, how 'bout ya go give Irie-han a hand collectin' that tribute money?"
 msgstr "No lo sientas, debes mejorar. ¿Por qué no le das una mano\n"
 "a Irie-han para ayudarle a pagar aquel dinero del tributo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=4
 msgctxt "392_Katagiri"
 msgid "Yeah. That's exactly what I'll do."
 msgstr "Sí. Eso es exactamente lo que haré."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=29
-#. y4:msg_location=T0.P29
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=4
 msgctxt "404_Katagiri"
 msgid "Irie... I can only hope he doesn't turn me down after what I did to him."
 msgstr "Irie... Solo espero que puedas perdonarme después de todo lo que hice."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=30
-#. y4:msg_location=T0.P30
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "416_Saejima"
 msgid "He ain't that thick-skulled. Besides, you're his boss. Just keep your chin up and you'll be fine."
 msgstr "No es tan cabezota. Además, eres su jefe.\n"
 "Mantén la cabeza en alto y estarás bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=31
-#. y4:msg_location=T0.P31
-#. y4:msg_speaker=Katagiri
-#. y4:msg_speaker_id=4
 msgctxt "428_Katagiri"
 msgid "Yeah... I guess you're right. Thank you again. For everything."
 msgstr "Sí... Supongo que tienes razón. Gracias."

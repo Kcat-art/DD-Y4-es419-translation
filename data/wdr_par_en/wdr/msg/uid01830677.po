@@ -24,20 +24,12 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_BILLIARD_BAR.bin
 #. y4:runtime_play_command=y4.play_msg 01830677 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
 msgctxt "56"
 msgid "As before, <Action:Button_RS_Down@Billard> can be used to adjust the power of the shot."
 msgstr "Como antes, puedes usar <Action:Button_RS_Down@Billard> para ajustar la potencia del tiro."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
 msgctxt "68"
 msgid "Move it straight towards you to take a steady shot."
 msgstr "Muévelo directamente hacia ti para realizar un tiro controlado."

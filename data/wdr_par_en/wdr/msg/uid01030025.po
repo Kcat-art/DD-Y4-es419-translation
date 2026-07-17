@@ -24,141 +24,58 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_CHINCHIRO.bin
 #. y4:runtime_play_command=y4.play_msg 01030025 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1320"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "232_Akiyama"
 msgid "Let's choose the banker."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "244_Akiyama"
 msgid "Guess I'm the banker."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "256_Akiyama"
 msgid "(How much should I wager?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "268_Akiyama"
 msgid "Let's start the match."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "280_Akiyama"
 msgid "Looks like it's my turn."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "292_Akiyama"
 msgid "I'll roll again."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "304_Akiyama"
 msgid "Let's settle up."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "316_Akiyama"
 msgid "(You're the banker.)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "328_Akiyama"
 msgid "Why don't we change the banker."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "340_Akiyama"
 msgid "(Play again?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "352_Akiyama"
 msgid "(I'm broke.)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "364_Akiyama"
 msgid "(Try again next time.)"
 msgstr ""

@@ -24,31 +24,18 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01EE0208 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "620"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "88_Player"
 msgid "(I'm not alone right now... Would be dangerous to take them to the rooftop with me.)"
 msgstr "(No estoy solo en este momento... Sería peligroso que me acompañe a la azotea)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "100_Player"
 msgid "(It's dangerous to go to the rooftops in the rain. I shouldn't do that right now.)"
 msgstr "(Es peligroso ir a los tejados cuando llueve. Mejor no lo hago)."

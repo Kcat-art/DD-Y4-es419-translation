@@ -19,51 +19,34 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
 msgctxt "116"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1748"
 msgid "Thirsty Businessman"
 msgstr "Empresario <Italic>simp</Italic>ático"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1752"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "1756"
 msgid "Action Icons"
 msgstr "Íconos de acción"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Thirsty Businessman
-#. y4:msg_speaker_id=0
 msgctxt "56_Thirsty Businessman"
 msgid "Dammit, flirting is tougher than I thought. The timing is impossible. I wish there were some way I could know the exact second I should approach someone..."
 msgstr "Maldición, coquetear es más difícil de lo que pensaba. Siempre termino ignorado. Ojalá existiera alguna forma de saber el momento exacto en que debería acercarme a alguien..."
@@ -84,13 +67,6 @@ msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Thirsty Businessman
-#. y4:msg_speaker_id=0
 msgctxt "92_Thirsty Businessman"
 msgid "No, no, I shouldn't give up yet. Just gotta practice my lines and find the right time to use it..."
 msgstr "No debería rendirme justo ahora. De seguro aparecerá otra chica que quiera hablar conmigo, debo esperar..."

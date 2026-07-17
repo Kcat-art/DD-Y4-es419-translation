@@ -24,49 +24,26 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
 #. y4:runtime_play_command=y4.play_msg 00EE0483 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "488"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "492"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "88_Akiyama"
 msgid "(Lily-chan is doing fantastic.)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "100_Akiyama"
 msgid "(Lily-chan has a ton of customers requesting her.)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "112_Akiyama"
 msgid "(Lily-chan is getting tons of requests! She's even got someone helping her.)"
 msgstr ""

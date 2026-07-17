@@ -24,196 +24,95 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_GOLF.bin
 #. y4:runtime_play_command=y4.play_msg 01260346 <group>
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Shizuka Saito -> T0.P6 | 2. Maya Mori -> T0.P1 | 3. 1 -> T0.P11 | 4. 2 -> T0.P17 | 5. 3 -> T0.P23
 msgctxt "148"
 msgid "Who are you going to call?"
 msgstr "¿A quién vas a llamar?"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2720"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2724"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "2728"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Maya Mori
 msgctxt "160_Player"
 msgid "(Let's give Maya a call...)"
 msgstr "(Vamos a llamar a Maya...)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Shizuka Saito
 msgctxt "220_Player"
 msgid "(Let's give Shizuka a call...)"
 msgstr "(Vamos a llamar a Shizuka...)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=1
 msgctxt "292_Player"
 msgid "(Let's give %s a call...)"
 msgstr "(Llamaré a %s...)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=1
 msgctxt "364_Player"
 msgid "(Let's give %s a call...)"
 msgstr "(Llamaré a %s...)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=5
-#. y4:msg_branch_choice=3
 msgctxt "424_Player"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T0.P6
-#. y4:msg_branch_segment=T0.P6..P10
-#. y4:msg_branch_target_text=(Let's give Shizuka a call...)
-#. y4:msg_branch_raw=01 12 00 06 01 00 00 0d 00 95 00 18 00 00 00 00
 msgctxt "436_Player"
 msgid "Shizuka Saito"
 msgstr "Shizuka Saito"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P5
-#. y4:msg_branch_target_text=(Let's give Maya a call...)
-#. y4:msg_branch_raw=01 12 00 01 01 00 00 09 00 97 00 12 00 00 00 00
 msgctxt "448_Player"
 msgid "Maya Mori"
 msgstr "Maya Mori"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T0.P11
-#. y4:msg_branch_segment=T0.P11..P16
-#. y4:msg_branch_target_text=(Let's give %s a call...)
-#. y4:msg_branch_raw=01 12 00 0b 01 00 00 01 00 9b 00 16 00 00 00 00
 msgctxt "460_Player"
 msgid "1"
 msgstr "1"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=4
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T0.P17
-#. y4:msg_branch_segment=T0.P17..P22
-#. y4:msg_branch_target_text=(Let's give %s a call...)
-#. y4:msg_branch_raw=01 12 00 11 01 00 00 01 00 9c 00 1a 00 00 00 00
 msgctxt "472_Player"
 msgid "2"
 msgstr "2"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=5
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T0.P23
-#. y4:msg_branch_segment=T0.P23..P23
-#. y4:msg_branch_target_text=......
-#. y4:msg_branch_raw=01 12 00 17 01 00 00 01 00 01 00 22 00 00 00 00
 msgctxt "484_Player"
 msgid "3"
 msgstr "3"

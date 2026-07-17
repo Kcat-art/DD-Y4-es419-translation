@@ -24,165 +24,76 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_ROOF01.bin
 #. y4:runtime_play_command=y4.play_msg 01020AAF <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
 msgctxt "2360"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "2364"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2368"
 msgid "Kido"
 msgstr "Kido"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2372"
 msgid "Talk_Phone_yes"
 msgstr "Talk_Phone_yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "2376"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "2380"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "92_Akiyama"
 msgid "Hello?"
 msgstr "Oi."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Kido
-#. y4:msg_speaker_id=2
 msgctxt "104_Kido"
 msgid "Akiyama-san, it's me. Is now a good time?"
 msgstr "Soy yo, Akiyama-san. ¿Tiene un momento ahora?\""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "116_Akiyama"
 msgid "Yup, we're all in the clear. What's up?"
 msgstr "Sí, no hay problema."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Kido
-#. y4:msg_speaker_id=2
 msgctxt "128_Kido"
 msgid "There's something I gotta talk to you about. You mind if we meet up for a few?"
 msgstr "Hay algo de lo que me gustaría hablar con usted. ¿Podríamos vernos un momento?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "140_Akiyama"
 msgid "Not at all. Where at?"
 msgstr "Claro. ¿Dónde quieres que nos encontremos?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Kido
-#. y4:msg_speaker_id=2
 msgctxt "152_Kido"
 msgid "How about that building in Theater Square? You know, the red one down the alley?"
 msgstr "Veamos... ¿Qué le parece el edificio frente al teatro? Preferiría que nadie nos escuche."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Kido
-#. y4:msg_speaker_id=2
 msgctxt "164_Kido"
 msgid "We'll have some privacy there."
 msgstr "Es el edificio rojo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Kido
-#. y4:msg_speaker_id=2
 msgctxt "176_Kido"
 msgid "Anyway, it's the one right across from the movie theater. I'll be waiting up on the roof."
 msgstr "Está justo frente al cine. Nos vemos en la azotea de ese edificio."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "188_Akiyama"
 msgid "Roof of the red building. Got it."
 msgstr "Entendido. El edificio rojo, ¿no?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Kido
-#. y4:msg_speaker_id=2
 msgctxt "200_Kido"
 msgid "Perfect. See you there."
 msgstr "Sí. Entonces, lo espero allí. Por favor."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "248_Akiyama"
 msgid "(Sounds like I should head over to Theater Square.)"
 msgstr "(Bien, vamos hacia el edificio rojo frente al teatro)."

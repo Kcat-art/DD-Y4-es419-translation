@@ -24,101 +24,48 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_DARTS_02.bin
 #. y4:runtime_play_command=y4.play_msg 018300A7 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
 msgctxt "56"
 msgid "How to Play Hidden Cricket:"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
 msgctxt "68"
 msgid "Unlike standard cricket, hidden cricket uses seven hidden numbers."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
 msgctxt "80"
 msgid "The seven numbers are hidden at the start of the game, and are not revealed until they are hit by a player."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
 msgctxt "92"
 msgid "Players who reveal a hidden number by hitting it for the first time receive an open bonus."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
 msgctxt "104"
 msgid "Hitting numbers in the single ring counts as one hit, the double ring as two hits, and the triple ring as three hits."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
 msgctxt "116"
 msgid "Three hits on a number closes it."
 msgstr "Tres aciertos en un número lo cierran."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
 msgctxt "128"
 msgid "The points from subsequent hits on a number you closed are added to your score."
 msgstr "Los puntos de los aciertos posteriores en un número que hayas cerrado se suman a tu puntuación."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
 msgctxt "140"
 msgid "However, if your opponent closes that number as well, you will no longer get points when you hit it."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
 msgctxt "152"
 msgid "The player with the highest score at the end of the allotted number of rounds wins."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
 msgctxt "164"
 msgid "You can also win if you close all the numbers before the end of the assigned number of rounds, and your score is higher than your opponent's."
 msgstr "También puedes ganar si cierras todos los números antes de que finalice el número de rondas y tu puntuación es superior a la de tu oponente."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
 msgctxt "176"
 msgid "Have fun and give it your all."
 msgstr "Diviértete y da lo mejor de ti."

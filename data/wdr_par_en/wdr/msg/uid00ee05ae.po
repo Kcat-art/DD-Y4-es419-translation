@@ -24,43 +24,28 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_FISHING.bin
 #. y4:runtime_play_command=y4.play_msg 00EE05AE <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
+
+
 msgctxt "168"
 msgid "You got a copy of <Color:8>Fishing Champ Magazine<Color:Default>."
 msgstr "Has obtenido una copia de <Color:8>revista del Campeón de la Pesca<Color:Default>."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3224"
 msgid "Fisherman"
 msgstr "Pescador"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "3228"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "3232"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Fisherman
-#. y4:msg_speaker_id=0
 msgctxt "132_Fisherman"
 msgid "You going to fish here? Y'know what, I bet you are. You look like quite the fisherman, I just know it!"
 msgstr "¿Vas a pescar aquí? Sabes, me lo imaginaba. ¡Tienes toda la pinta de pescador!"
@@ -69,187 +54,75 @@ msgctxt "144_Player"
 msgid "No, I'm just－"
 msgstr "No, yo solo-"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Fisherman
-#. y4:msg_speaker_id=0
 msgctxt "156_Fisherman"
 msgid "Oh, is that so? Well then, you must be an aspiring novice fisherman! In that case, let me give you this."
 msgstr "¿Ah no? ¡En ese caso debes ser un aspirante a pescador! Déjame darte esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Fisherman
-#. y4:msg_speaker_id=0
 msgctxt "192_Fisherman"
 msgid "By the way, if you don't have any bait, I'll sell you some. I always come here with a veritable mountain of bait, I do."
 msgstr "Por cierto, si no tienes cebo, te venderé un poco. Siempre que vengo aquí traigo una auténtica montaña de cebos, te lo juro."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Fisherman
-#. y4:msg_speaker_id=0
 msgctxt "204_Fisherman"
 msgid "See, I love fishing, but I'm not the best fisherman. Never catch anything myself. So, if you ever have too many fish, I'll buy 'em off you. Good deal, huh?"
 msgstr "Mira, amo la pesca, pero no soy el mejor. Nunca pesco nada. Así que si consigues muchos peces te los compraré. Es un buen trato, ¿no?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Fisherman
-#. y4:msg_speaker_id=0
 msgctxt "216_Fisherman"
 msgid "Stop by and see me anytime! I'll be waitin'!"
 msgstr "¡Ven a verme en cualquier momento! ¡Estaré esperando!"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Fisherman
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Buy Bait -> T1.P1 | 2. Sell Fish -> T1.P4 | 3. Never Mind -> T1.P7
 msgctxt "228_Fisherman"
 msgid "Hey, you a fishing enthusiast too? Let me know if there's any way I can help you. I got me a soft spot for new and aspiring fishermen."
 msgstr "Hey, ¿también eres un fanático de la pesca? Si te hace falta ayuda, dímelo. Siento debilidad por los pescadores nuevos."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Fisherman
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Buy Bait
 msgctxt "240_Fisherman"
 msgid "Alrighty then, what would you like?"
 msgstr "Muy bien, ¿qué le gustaría?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Fisherman
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Buy Bait
 msgctxt "264_Fisherman"
 msgid "Thanks! Hope to see you again real soon!"
 msgstr "¡Gracias! ¡Espero volver a verte pronto!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Fisherman
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Sell Fish
 msgctxt "276_Fisherman"
 msgid "Alrighty then, what do you got for me?"
 msgstr "Muy bien, ¿qué me traes?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Fisherman
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Buy Bait
 msgctxt "300_Fisherman"
 msgid "Thanks! Hope to see you again real soon!"
 msgstr "¡Gracias! ¡Espero volver a verte pronto!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Fisherman
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Never Mind
 msgctxt "312_Fisherman"
 msgid "Is that so? Well, you come by again whenever you're in the fishin' mood."
 msgstr "¿No? Bueno, vuelve cuando estés de humor para pescar."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P1
-#. y4:msg_branch_segment=T1.P1..P3
-#. y4:msg_branch_target_text=Alrighty then, what would you like?
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "324_Fisherman"
 msgid "Buy Bait"
 msgstr "Comprar Cebo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P4
-#. y4:msg_branch_segment=T1.P4..P6
-#. y4:msg_branch_target_text=Alrighty then, what do you got for me?
-#. y4:msg_branch_raw=01 11 00 04 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "336_Fisherman"
 msgid "Sell Fish"
 msgstr "Vender Pescado"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P7
-#. y4:msg_branch_segment=T1.P7..P7
-#. y4:msg_branch_target_text=Is that so? Well, you come by again whenever you're in the fishin' mood.
-#. y4:msg_branch_raw=01 11 00 07 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "348_Fisherman"
 msgid "Never Mind"
 msgstr "No importa"

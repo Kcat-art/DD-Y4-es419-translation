@@ -24,253 +24,156 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01A400FD <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=43
-#. y4:msg_location=T0.P43
+
+
 msgctxt "588"
 msgid "You got a <Color:8>Ruby<Color:Default>."
 msgstr "Has obtenido un <Color:8>rubí<Color:Default>."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=51
-#. y4:msg_location=T0.P51
 msgctxt "684"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "13288"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "13292"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "13296"
 msgid "Yanagi"
 msgstr "Yanagi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "13300"
 msgid "Mei Hua"
 msgstr "Mei Hua"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "13304"
 msgid "Young Man from Little Asia"
 msgstr "Joven de la Pequeña Asia"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "13308"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "13312"
 msgid "Young Woman from Little Asia"
 msgstr "Mujer joven de la Pequeña Asia"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "13316"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
+#. y4:msg_role=name
+#. y4:msg_name_id=8
 msgctxt "13320"
 msgid "Boy from Little Asia"
 msgstr "Chico de Pequeña Asia"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "13324"
 msgid "CheerRand"
 msgstr "CheerRand"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
+#. y4:msg_role=name
+#. y4:msg_name_id=10
 msgctxt "13328"
 msgid "Man from Little Asia"
 msgstr "Hombre de Pequeña Asia"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "13332"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
+#. y4:msg_role=name
+#. y4:msg_name_id=12
 msgctxt "13336"
 msgid "Woman from Little Asia"
 msgstr "Mujer de Pequeña Asia"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "13340"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "13344"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
+#. y4:msg_role=name
+#. y4:msg_name_id=15
 msgctxt "13348"
 msgid "Zhao"
 msgstr "Zhao"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
 msgctxt "13352"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=17
 msgctxt "13356"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=18
 msgctxt "13360"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=19
+#. y4:msg_role=name
+#. y4:msg_name_id=19
 msgctxt "13364"
 msgid "Yanagi's Underling"
 msgstr "Subordinado de Yanagi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=20
 msgctxt "13368"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=21
 msgctxt "13372"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=22
 msgctxt "13376"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=23
 msgctxt "13380"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=24
 msgctxt "13384"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=25
 msgctxt "13388"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=26
 msgctxt "13392"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "72_Tanimura"
 msgid "All right. Now give me the money."
 msgstr "Muy bien. Ahora dame el dinero."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "84_Yanagi"
 msgid "I'll never give it back! Not to a dirty scoundrel like you!"
 msgstr "¡Nunca lo devolveré! ¡No a un sucio sinvergüenza como tú!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=3
 msgctxt "96_Mei Hua"
 msgid "Ma-chan!"
 msgstr "¡Ma-chan!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "108_Tanimura"
 msgid "Mei Hua! What are you doing here!?"
 msgstr "¡Mei Hua! ¡¿Qué haces aquí?!"
@@ -281,257 +184,96 @@ msgid "I was so worried, I just had to come and check on you!\\r\n"
 msgstr "¡Estaba tan preocupada que solo quería venir a ver cómo estabas!\\r\n"
 "Y no soy solo yo..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "132_Tanimura"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Young Man from Little Asia
-#. y4:msg_speaker_id=4
 msgctxt "144_Young Man from Little Asia"
 msgid "You good, Tanimura!?"
 msgstr "¡¿Estás bien, Tanimura?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Young Woman from Little Asia
-#. y4:msg_speaker_id=6
 msgctxt "156_Young Woman from Little Asia"
 msgid "Ma-kun, please tell me you're okay!"
 msgstr "¡Ma-kun, por favor dime que estás bien!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Boy from Little Asia
-#. y4:msg_speaker_id=8
 msgctxt "168_Boy from Little Asia"
 msgid "We're here for you, big bro!"
 msgstr "¡Estamos aquí para ti, hermanito!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Man from Little Asia
-#. y4:msg_speaker_id=10
 msgctxt "180_Man from Little Asia"
 msgid "Yeah, now step away from Ma-chan this instant!"
 msgstr "¡Sí, ahora aléjate de Ma-chan en este instante!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Woman from Little Asia
-#. y4:msg_speaker_id=12
 msgctxt "192_Woman from Little Asia"
 msgid "You'd better not have hurt him!"
 msgstr "¡Más te vale no haberle hecho daño!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "204_Yanagi"
 msgid "Who are all these people...?"
 msgstr "¿Quiénes son todas estas personas...?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "288_Yanagi"
 msgid "I apologize. It looks like I made a terrible mistake."
 msgstr "Pido disculpas. Parece que cometí un terrible error."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=3
 msgctxt "300_Mei Hua"
 msgid "How could you believe some stupid rumors!? And you better apologize to my dad, too!"
 msgstr "¡¿Cómo pudiste creer algunos rumores estúpidos?! ¡Y será mejor que te disculpes con mi papá también!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "312_Yanagi"
 msgid "I... I'm sorry. Please forgive me, sir."
 msgstr "Yo... Lo siento. Le ruego que me disculpe, señor."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=15
 msgctxt "324_Zhao"
 msgid "That's enough, Mei Hua. It looks like it was just a misunderstanding."
 msgstr "Eso es suficiente, Mei Hua. Parece que fue solo un malentendido."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "336_Tanimura"
 msgid "Maybe, but he just called you a \"chubby old man\" a few minutes ago."
 msgstr "Tal vez, pero te acaba de llamar \"viejo regordete\" hace unos minutos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=15
 msgctxt "348_Zhao"
 msgid "What!?"
 msgstr "¡¿Qué?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=3
 msgctxt "360_Mei Hua"
 msgid "But you were in the wrong, too, Ma-chan. You knew it was a misunderstanding right from the start. You should've talked it out instead of fighting."
 msgstr "Pero tú también te equivocaste, Ma-chan. Sabías que era un\\r\n"
 "malentendido desde el principio. Deberías haberlo hablado en lugar de pelear."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "372_Tanimura"
 msgid "Yeah, I guess you're right... It's just that negotiating's such a hassle."
 msgstr "Sí, supongo que tienes razón... Es solo que negociar es\\r\n"
 "es algo tan difícil."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=3
 msgctxt "384_Mei Hua"
 msgid "Oh, Ma-chan!"
 msgstr "¡Oh, Ma-chan!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "396_Tanimura"
 msgid "So, Yanagi."
 msgstr "Entonces, Yanagi."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "408_Yanagi"
 msgid "Yes?"
 msgstr "¿Sí?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=29
-#. y4:msg_location=T0.P29
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "420_Tanimura"
 msgid "All that talk about helping the weak just now... Was that for real?"
 msgstr "Toda esa charla sobre ayudar a los débiles que dijiste hace nada... ¿Era eso real?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=30
-#. y4:msg_location=T0.P30
-#. y4:msg_speaker=Yanagi's Underling
-#. y4:msg_speaker_id=19
 msgctxt "432_Yanagi's Underling"
 msgid "Of course! He's already helped out plenty of people in this town!"
 msgstr "¡Por supuesto! ¡Ya ha ayudado a mucha gente en esta ciudad!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=31
-#. y4:msg_location=T0.P31
-#. y4:msg_speaker=Yanagi's Underling
-#. y4:msg_speaker_id=19
 msgctxt "444_Yanagi's Underling"
 msgid "This time was a bit of a clusterfuck, though..."
 msgstr "Esta vez fue un poco como una mierda de racimo, pero aún así..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=32
-#. y4:msg_location=T0.P32
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=15
 msgctxt "456_Zhao"
 msgid "All right, then. Starting today, you're going to be helping the Asian Gateway."
 msgstr "Muy bien, entonces. A partir de hoy, vas a ayudar a Puerta Asiática."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "468_Yanagi"
 msgid "What?"
 msgstr "¿Qué?"
@@ -549,71 +291,29 @@ msgstr "Esa puede ser una forma de hacer las cosas, pero demasiadas cosas\\r\n"
 "podrían salir mal. No puedo quedarme de brazos cruzados\\r\n"
 "viendo cómo eso sucede."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=36
-#. y4:msg_location=T0.P36
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=15
 msgctxt "504_Zhao"
 msgid "All in all, I do believe we have the same goal. So we should be working together, don't you think?"
 msgstr "Con todo, creo que tenemos el mismo objetivo.\\r\n"
 "Así que deberíamos trabajar juntos, ¿no crees?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=37
-#. y4:msg_location=T0.P37
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "516_Yanagi"
 msgid "Will... you forgive us for what happened today?"
 msgstr "Ustedes... ¿Nos perdonan por lo que ha pasado hoy?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=38
-#. y4:msg_location=T0.P38
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=15
 msgctxt "528_Zhao"
 msgid "We're not the yakuza. As far as I'm concerned, what happened today is over and done with. So will you agree to help?"
 msgstr "No somos la yakuza. En lo que a mí respecta, lo que ha ocurrido\\r\n"
 "hoy ya ha terminado. Entonces, ¿aceptarás ayudar?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=39
-#. y4:msg_location=T0.P39
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "540_Yanagi"
 msgid "I'd be honored to."
 msgstr "Sería un honor para mí."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=40
-#. y4:msg_location=T0.P40
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=3
 msgctxt "552_Mei Hua"
 msgid "Okay, then I'll teach you all about what the Asian Gateway does. From here on out, you'll be my official understudy!"
 msgstr "Bien, entonces te enseñaré todo sobre lo que hace el Puerta Asiática.\\r\n"
 "¡De aquí en adelante, serás mi suplente oficial!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=41
-#. y4:msg_location=T0.P41
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "564_Yanagi"
 msgid "Sure... Looking forward to it."
 msgstr "Seguro... Espero con ansias."
@@ -624,35 +324,14 @@ msgid "Hey, I'm really sorry about today. Please take this\\r\n"
 msgstr "Ey, lo siento mucho por lo de hoy. Por favor, tome esto\\r\n"
 "como mis disculpas para usted."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=45
-#. y4:msg_location=T0.P45
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=3
 msgctxt "612_Mei Hua"
 msgid "Come on! We've got a lot of work to do!"
 msgstr "¡Vamos! ¡Tenemos mucho trabajo por hacer!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=46
-#. y4:msg_location=T0.P46
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "624_Yanagi"
 msgid "Coming!"
 msgstr "¡Ya voy!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "708_Yanagi"
 msgid "Ah. We've been waiting for you."
 msgstr "Ah. Te hemos estado esperando."
@@ -663,35 +342,14 @@ msgid "So you're the Parasite of Kamurocho, huh... A real pleasure,\\r\n"
 msgstr "Así que eres el Parásito de Kamurocho, eh... Un verdadero placer.\\r\n"
 "Eres el policía más corrupto de la ciudad."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "732_Tanimura"
 msgid "You the guys who attacked Homeland? Why did you do it?"
 msgstr "¿Ustedes son los tipos que atacaron mi hogar? ¿Por qué lo hicieron?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "744_Yanagi"
 msgid "\"Why?\" You've got some nerve to ask."
 msgstr "\"¿Por qué?\" De verdad tienes hasta el valor para preguntar."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "756_Yanagi"
 msgid "Our mission is to punish people like you who prey on the weak."
 msgstr "Nuestra misión es castigar a las personas\\r\n"
@@ -702,35 +360,14 @@ msgid "I've heard all sorts of things about you－how you extort piles of money 
 msgstr "He oído todo tipo de cosas sobre ti: cómo extorsionas montones\\r\n"
 "de dinero a mujeres que no pueden ir a la policía, por ejemplo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "780_Yanagi"
 msgid "And I know you and that chubby old man are in on it together."
 msgstr "Y sé que tú y ese viejo regordete están juntos en esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "792_Tanimura"
 msgid "...What do you intend to do with the money?"
 msgstr "... ¿Qué piensas hacer con el dinero?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Yanagi
-#. y4:msg_speaker_id=2
 msgctxt "804_Yanagi"
 msgid "What else but return it to the good, honest people you stole it from? That's why we brought you here, so you can get to telling us their names."
 msgstr "¿Qué otra cosa sino devolvérselo a las personas buenas y honestas a las que les robaste? Es por eso que te trajimos aquí, para que puedas decirnos sus nombres."
@@ -741,35 +378,14 @@ msgid "Oh, and we were thinking we should break one or both of your\\r\n"
 msgstr "Oh, y estábamos pensando que debíamos romper uno o ambos de tus\\r\n"
 "brazos por si acaso. De lo contrario, volverías a hacerlo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "828_Tanimura"
 msgid "I see. So, is that all you had to say?"
 msgstr "Ya veo. Entonces, ¿es eso todo lo que tenías para decir?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=15
 msgctxt "840_Yanagi"
 msgid "What!?"
 msgstr "¡¿Qué?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "852_Tanimura"
 msgid "Just give me back the money already... You are done talking, right?"
 msgstr "Solo devuélveme el dinero y fin... Ya terminaste de hablar, ¿verdad?"

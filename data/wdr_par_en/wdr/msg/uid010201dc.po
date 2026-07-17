@@ -24,724 +24,307 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 010201DC <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "8540"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "8544"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "8548"
 msgid "Haruka"
 msgstr "Haruka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "8552"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "8556"
 msgid "Lily"
 msgstr "Lily"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "8560"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "8564"
 msgid "Yasuko"
 msgstr "Yasuko"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "8568"
 msgid "Hostess Club Scouting"
 msgstr "Reclutamiento de Hostess Club"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "544_Player"
 msgid "(Now's not the time for that...)"
 msgstr "(Ahora no es el momento para eso...)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "556_Akiyama"
 msgid "(I'm with Lily-chan right now. I'll come back later.)"
 msgstr "(Ahora estoy con Lily-chan. Volveré aquí en otra ocasión...)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=2
 msgctxt "580_Player"
 msgid "What took you so long, Uncle Kaz? I got tired of waiting..."
 msgstr "¿Por qué demoraste tanto, tío Kaz? Me cansé de esperar..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=3
-#. y4:msg_location=T3.P3
-#. y4:msg_speaker=Lily
-#. y4:msg_speaker_id=4
 msgctxt "604_Player"
 msgid "Oh, you're back, Akiyama-san. Shall we go, then?"
 msgstr "Ah, ahí estás, Akiyama-san. ¿Vamos?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=4
-#. y4:msg_location=T3.P4
-#. y4:msg_speaker=Yasuko
-#. y4:msg_speaker_id=6
 msgctxt "616_Player"
 msgid "Oh, Kiryu-san, I've been waiting for you. Shall we go, then?"
 msgstr "Ah, Kiryu-san, te estaba esperando. ¿Nos vamos?"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=1
-#. y4:msg_location=T4.P1
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=2
 msgctxt "652_Player"
 msgid "Are you... going in there, Uncle Kaz?"
 msgstr "¿Vas a entrar... ahí, tío Kaz?"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=2
-#. y4:msg_location=T4.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Go In Anyway -> T4.P3 | 2. Forget It -> T4.P5
 msgctxt "664_Player"
 msgid "(Haruka's with me. What should I do?)"
 msgstr "(Haruka está conmigo. ¿Qué podría hacer?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=3
-#. y4:msg_location=T4.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Go In Anyway
 msgctxt "676_Player"
 msgid "Yeah, sorry. Think you can be a big girl and wait here while I'm gone?"
 msgstr "Sí, lo siento. ¿Podrías ser una niña grande y esperarme aquí mientras?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=4
-#. y4:msg_location=T4.P4
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Go In Anyway
 msgctxt "688_Haruka"
 msgid "...Okay. Have fun, Uncle Kaz."
 msgstr "... Bueno, diviértete, tío Kaz."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=5
-#. y4:msg_location=T4.P5
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Forget It
 msgctxt "700_Player"
 msgid "No, I'm okay."
 msgstr "No, estoy bien."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=6
-#. y4:msg_location=T4.P6
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Forget It
 msgctxt "712_Haruka"
 msgid "Really? I don't mind."
 msgstr "¿En serio? No me importa."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=8
-#. y4:msg_location=T4.P8
-#. y4:msg_speaker=Lily
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Forget It
 msgctxt "736_Player"
 msgid "Um, are you going in here?"
 msgstr "Mm, ¿vas a entrar ahí?"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=9
-#. y4:msg_location=T4.P9
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Go In Anyway -> T4.P10 | 2. Forget It -> T4.P12
 msgctxt "748_Player"
 msgid "(I forgot Lily-chan's with me. What to do...)"
 msgstr "(Me olvidé que Lily-chan estaba conmigo. Qué hago ahora...)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=10
-#. y4:msg_location=T4.P10
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Forget It
 msgctxt "760_Player"
 msgid "Yeah. Sorry, but could you wait a bit out here?"
 msgstr "Sí, ¿podría esperar aquí fuera?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=11
-#. y4:msg_location=T4.P11
-#. y4:msg_speaker=Lily
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Forget It
 msgctxt "772_Lily"
 msgid "Oh, sure. I understand."
 msgstr "Claro. Entiendo."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=12
-#. y4:msg_location=T4.P12
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Forget It
 msgctxt "784_Player"
 msgid "Actually, never mind."
 msgstr "Pensándolo bien, no importa."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=13
-#. y4:msg_location=T4.P13
-#. y4:msg_speaker=Lily
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Forget It
 msgctxt "796_Lily"
 msgid "I see... You don't have to worry about me though."
 msgstr "Entiendo... No tienes que preocuparte por mí."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=8
-#. y4:msg_location=T4.P8
-#. y4:msg_speaker=Lily
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Forget It
 msgctxt "808_Player"
 msgid "Um, are you going in here?"
 msgstr "Mm, ¿vas a entrar ahí?"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=4
-#. y4:msg_phrase=15
-#. y4:msg_location=T4.P15
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
-#. y4:msg_decision_choices=1. Go In Anyway -> T4.P16 | 2. Forget It -> T4.P18
 msgctxt "820_Player"
 msgid "(I forgot Yasuko-san's with me. What to do...)"
 msgstr "(Me olvidé que Yasuko-san estaba conmigo. Qué hago ahora...)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=16
-#. y4:msg_location=T4.P16
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Forget It
 msgctxt "832_Player"
 msgid "Sorry, but could you wait here for a bit?"
 msgstr "Disculpe, ¿podría esperar aquí un momento?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=11
-#. y4:msg_location=T4.P11
-#. y4:msg_speaker=Lily
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Forget It
 msgctxt "844_Yasuko"
 msgid "Oh, sure. I understand."
 msgstr "Claro. Entiendo."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=18
-#. y4:msg_location=T4.P18
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Forget It
 msgctxt "856_Player"
 msgid "Never mind."
 msgstr "No importa."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=13
-#. y4:msg_location=T4.P13
-#. y4:msg_speaker=Lily
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Forget It
 msgctxt "868_Yasuko"
 msgid "I see... You don't have to worry about me though."
 msgstr "Entiendo... No tienes que preocuparte por mí."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "952_Player"
 msgid "(Hostess club, Elise... Ain't interested.)"
 msgstr "(Club de Hostess, Elise... No me interesa)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "1000_Akiyama"
 msgid "(I don't have any business here right now. I've done everything I can.)"
 msgstr "(No tengo nada que hacer aquí... Creo que ya hice lo que tenía que hacer)."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=3
-#. y4:msg_decision_choices=1. Start Recruiting Again -> T10.P1 | 2. Not Now -> T10.P6
 msgctxt "1012_Akiyama"
 msgid "(Come to think of it, I was recruiting hostesses earlier. Maybe I should try again.)"
 msgstr "(Ahora que lo pienso, dejé el reclutamiento a medias. ¿Debería volver a buscar chicas para el club?)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=10
-#. y4:msg_phrase=1
-#. y4:msg_location=T10.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Start Recruiting Again
 msgctxt "1024_Akiyama"
 msgid "(Okay, I'll give it another try.)"
 msgstr "(Bien, retomemos el reclutamiento)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=10
-#. y4:msg_phrase=2
-#. y4:msg_location=T10.P2
-#. y4:msg_speaker=Hostess Club Scouting
-#. y4:msg_speaker_id=7
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Start Recruiting Again
 msgctxt "1036_Hostess Club Scouting"
 msgid "The game's story will not advance while you are recruiting girls for the club. Walk around the streets of Kamurocho until you find a girl you like."
 msgstr "La historia del juego no avanzará mientras reclutes chicas para el club. Camina por las calles de Kamurocho hasta que encuentres a una chica que te guste."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=10
-#. y4:msg_phrase=6
-#. y4:msg_location=T10.P6
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Not Now
 msgctxt "1084_Akiyama"
 msgid "(No, I have other things to do. I'll get back to recruiting later.)"
 msgstr "(No, todavía tengo cosas que hacer. Retomaré el reclutamiento más tarde)."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "1096_Akiyama"
 msgid "(Gotta scout some girls for the club...)"
 msgstr "(Tengo que ir a buscar candidatas para el club...)."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=11
-#. y4:msg_phrase=1
-#. y4:msg_location=T11.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=4
-#. y4:msg_decision_choices=1. Stop Recruiting -> T11.P2 | 2. Continue Recruiting -> T11.P6
 msgctxt "1108_Akiyama"
 msgid "(Or should I stop recruiting for the moment?)"
 msgstr "(¿O debería detener el reclutamiento por ahora?)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=11
-#. y4:msg_phrase=2
-#. y4:msg_location=T11.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Stop Recruiting
 msgctxt "1120_Akiyama"
 msgid "(I'll stop for now.)"
 msgstr "(Por ahora, voy a parar el reclutamiento)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=11
-#. y4:msg_phrase=6
-#. y4:msg_location=T11.P6
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Continue Recruiting
 msgctxt "1168_Akiyama"
 msgid "(No, I should keep looking.)"
 msgstr "(No, voy a seguir buscando)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "1180_Akiyama"
 msgid "(Now's not the time for this.)"
 msgstr "(Ahora no es momento para distracciones...)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "1192_Akiyama"
 msgid "(Now's not the time for this.)"
 msgstr "(Ahora no es momento para distracciones...)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "1216_Akiyama"
 msgid "(I think I was supposed to meet a girl now.)"
 msgstr "(Creo que tenía que verme con una chica ahora)."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T4.P3
-#. y4:msg_branch_segment=T4.P3..P4
-#. y4:msg_branch_target_text=Yeah, sorry. Think you can be a big girl and wait here while I'm gone?
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "1240_Player"
 msgid "Go In Anyway"
 msgstr "Entrar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=18
-#. y4:msg_phrase=0
-#. y4:msg_location=T18.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T4.P5
-#. y4:msg_branch_segment=T4.P5..P25
-#. y4:msg_branch_target_text=No, I'm okay.
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "1252_Player"
 msgid "Forget It"
 msgstr "Olvidarlo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P3
-#. y4:msg_branch_segment=T4.P3..P4
-#. y4:msg_branch_target_text=Yeah, sorry. Think you can be a big girl and wait here while I'm gone?
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 0c 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P10
 msgctxt "1264_Player"
 msgid "Go In Anyway"
 msgstr "Entrar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=18
-#. y4:msg_phrase=0
-#. y4:msg_location=T18.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P5
-#. y4:msg_branch_segment=T4.P5..P25
-#. y4:msg_branch_target_text=No, I'm okay.
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 09 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P12
 msgctxt "1276_Player"
 msgid "Forget It"
 msgstr "Olvidarlo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P3
-#. y4:msg_branch_segment=T4.P3..P4
-#. y4:msg_branch_target_text=Yeah, sorry. Think you can be a big girl and wait here while I'm gone?
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 0c 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P16
 msgctxt "1288_Player"
 msgid "Go In Anyway"
 msgstr "Entrar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=18
-#. y4:msg_phrase=0
-#. y4:msg_location=T18.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P5
-#. y4:msg_branch_segment=T4.P5..P25
-#. y4:msg_branch_target_text=No, I'm okay.
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 09 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P18
 msgctxt "1300_Player"
 msgid "Forget It"
 msgstr "Olvidarlo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=23
-#. y4:msg_phrase=0
-#. y4:msg_location=T23.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T10.P1
-#. y4:msg_branch_segment=T10.P1..P5
-#. y4:msg_branch_target_text=(Okay, I'll give it another try.)
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 16 00 00 00 00 00 00 00 00
 msgctxt "1312_Player"
 msgid "Start Recruiting Again"
 msgstr "Empezar a Reclutar de Nuevo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=24
-#. y4:msg_phrase=0
-#. y4:msg_location=T24.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T10.P6
-#. y4:msg_branch_segment=T10.P6..P6
-#. y4:msg_branch_target_text=(No, I have other things to do. I'll get back to recruiting later.)
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "1324_Player"
 msgid "Not Now"
 msgstr "Ahora no"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=25
-#. y4:msg_phrase=0
-#. y4:msg_location=T25.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T11.P2
-#. y4:msg_branch_segment=T11.P2..P5
-#. y4:msg_branch_target_text=(I'll stop for now.)
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "1336_Player"
 msgid "Stop Recruiting"
 msgstr "Dejar de Reclutar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=26
-#. y4:msg_phrase=0
-#. y4:msg_location=T26.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T11.P6
-#. y4:msg_branch_segment=T11.P6..P6
-#. y4:msg_branch_target_text=(No, I should keep looking.)
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 13 00 00 00 00 00 00 00 00
 msgctxt "1348_Player"
 msgid "Continue Recruiting"
 msgstr "Continuar Reclutando"

@@ -24,74 +24,36 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_DARTS_02.bin
 #. y4:runtime_play_command=y4.play_msg 018306E0 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
 msgctxt "56"
 msgid "How to Play Cricket:"
 msgstr "Cómo jugar al cricket:"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
 msgctxt "68"
 msgid "In cricket, only the numbers 15 to 20 and the bull's-eye are used."
 msgstr "En cricket, solo se utilizan los números del 15 al 20 y la diana."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
 msgctxt "80"
 msgid "Singles count as one hit, Doubles count as two hits, and Triples count as three hits."
 msgstr "Los simples cuentan como un acierto, los dobles cuentan como dos aciertos y los triples cuentan como tres aciertos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
 msgctxt "92"
 msgid "Three hits on a number closes it."
 msgstr "Tres aciertos en un número lo cierran."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
 msgctxt "104"
 msgid "The points from subsequent hits on a number you closed are added to your score."
 msgstr "Los puntos de los aciertos posteriores en un número que hayas cerrado se suman a tu puntuación."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
 msgctxt "116"
 msgid "However, if your opponent closes that number as well, you will no longer get points when you hit it. The player with the highest score at the end of the allotted number of rounds wins."
 msgstr "Pero si tu oponente cierra también ese número, no podrás conseguir puntos al golpearlo. El jugador con la puntuación más alta al final de la ronda gana."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
 msgctxt "128"
 msgid "You can also win if you close all the numbers before the end of the assigned number of rounds, and your score is higher than your opponent's."
 msgstr "También puedes ganar si cierras todos los números antes de que finalice el número de rondas y tu puntuación es superior a la de tu oponente."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
 msgctxt "140"
 msgid "Have fun and give it your all."
 msgstr "Diviértete y da lo mejor de ti."

@@ -24,991 +24,321 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_WATAMI.bin
 #. y4:runtime_play_command=y4.play_msg 011303D7 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "33348"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "33352"
 msgid "Ochiai"
 msgstr "Ochiai"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "33356"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "33360"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "33364"
 msgid "Talk_SmileBig_st"
 msgstr "Talk_SmileBig_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "33368"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "33372"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "33376"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "33380"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "33384"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "33388"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "33392"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Something Motivational -> T0.P2 | 2. A Cool Analysis -> T0.P8 | 3. Something Comical -> T0.P13
 msgctxt "684_Saejima"
 msgid "(So, what should I talk about?)"
 msgstr "(Bueno, ¿qué podría decir?)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Something Motivational
 msgctxt "732_Ochiai"
 msgid "Bo-ring. Don't you have anything interesting to talk about?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Something Motivational
 msgctxt "744_Ochiai"
 msgid "I don't give a fuck about psychology and shit."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Something Motivational
 msgctxt "756_Saejima"
 msgid "(Looks like he ain't interested in this topic. I can't ever win with this kid.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=A Cool Analysis
 msgctxt "804_Ochiai"
 msgid "Save your fancy analyses for your own time. My interest level in this is bubbling just over zero percent. Ugh, this is so boring..."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Something Motivational
 msgctxt "816_Saejima"
 msgid "(Looks like he ain't interested in this topic. I can't ever win with this kid.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "864_Ochiai"
 msgid "Bwahahaha! That's friggin' hilarious! I can't believe you did that! And completely naked, too! Hahaha!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "876_Saejima"
 msgid "(Looks like he likes this topic. He's really openin' up, too. I'm glad we came.)"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Something Motivational -> T0.P2 | 2. A Cool Analysis -> T0.P8 | 3. Something Comical -> T0.P13
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=1
 msgctxt "888_Saejima"
 msgid "(So, what should I talk about?)"
 msgstr "(Bueno, ¿qué podría decir?)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "936_Ochiai"
 msgid "Math? What's got into you all of a sudden, huh? And what the hell is so interesting about math? Are you stupid or something?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Something Motivational
 msgctxt "948_Saejima"
 msgid "(Looks like he ain't interested in this topic. I can't ever win with this kid.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "996_Ochiai"
 msgid "Literature? The column I write is literature. \"The literary genius Fukushi Ochiai.\" Sounds perfect! Heheh."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1008_Saejima"
 msgid "(He's gettin' on my nerves, but at least it looks like he's feeling better.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=32
-#. y4:msg_location=T0.P32
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1056_Ochiai"
 msgid "The arts? Huh! You're not worthy enough to talk about stuff like that! Only sophisticated people like me are allowed to talk about the arts!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1068_Saejima"
 msgid "(Fuckin' kid...)"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Something Motivational -> T0.P2 | 2. A Cool Analysis -> T0.P8 | 3. Something Comical -> T0.P13
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=2
 msgctxt "1080_Saejima"
 msgid "(So, what should I talk about?)"
 msgstr "(Bueno, ¿qué podría decir?)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=38
-#. y4:msg_location=T0.P38
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1128_Ochiai"
 msgid "Zzz..."
 msgstr "Zzz..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1140_Saejima"
 msgid "(Fuckin' kid...)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=43
-#. y4:msg_location=T0.P43
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1188_Ochiai"
 msgid "Bwahahaha! Wow, you screwed up pretty bad! That's friggin' hilarious! Hwahahahaha!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1200_Saejima"
 msgid "(He's gettin' on my nerves, but at least it looks like he's feeling better.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=38
-#. y4:msg_location=T0.P38
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1248_Ochiai"
 msgid "Zzz..."
 msgstr "Zzz..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1260_Saejima"
 msgid "(Fuckin' kid...)"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Something Motivational -> T0.P2 | 2. A Cool Analysis -> T0.P8 | 3. Something Comical -> T0.P13
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=3
 msgctxt "1272_Saejima"
 msgid "(So, what should I talk about?)"
 msgstr "(Bueno, ¿qué podría decir?)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=38
-#. y4:msg_location=T0.P38
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1320_Ochiai"
 msgid "Zzz..."
 msgstr "Zzz..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1332_Saejima"
 msgid "(Fuckin' kid...)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=38
-#. y4:msg_location=T0.P38
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1380_Ochiai"
 msgid "Zzz..."
 msgstr "Zzz..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1392_Saejima"
 msgid "(Fuckin' kid...)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=64
-#. y4:msg_location=T0.P64
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1440_Ochiai"
 msgid "Bwahahaha! That's hilarious! How did you fit something like that in your nose? Hahaha!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1452_Saejima"
 msgid "(Looks like he likes this topic. He's really openin' up, too. I'm glad we came.)"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Something Motivational -> T0.P2 | 2. A Cool Analysis -> T0.P8 | 3. Something Comical -> T0.P13
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=4
 msgctxt "1464_Saejima"
 msgid "(So, what should I talk about?)"
 msgstr "(Bueno, ¿qué podría decir?)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=70
-#. y4:msg_location=T0.P70
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1512_Ochiai"
 msgid "Heheheh. I knew you wanted to know more. I guess I have no choice but to give you the whole unrated story... Heheheh."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=71
-#. y4:msg_location=T0.P71
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1524_Saejima"
 msgid "(That was one long story... But at least he opened up. And it looks like he's more motivated, too.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=75
-#. y4:msg_location=T0.P75
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1572_Ochiai"
 msgid "I could care less about that stupid baldy."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=76
-#. y4:msg_location=T0.P76
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1584_Saejima"
 msgid "(Stupid baldy...?)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=38
-#. y4:msg_location=T0.P38
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1632_Ochiai"
 msgid "Zzz..."
 msgstr "Zzz..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1644_Saejima"
 msgid "(Fuckin' kid...)"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Something Motivational -> T0.P2 | 2. A Cool Analysis -> T0.P8 | 3. Something Comical -> T0.P13
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=5
 msgctxt "1656_Saejima"
 msgid "(So, what should I talk about?)"
 msgstr "(Bueno, ¿qué podría decir?)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=86
-#. y4:msg_location=T0.P86
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1704_Ochiai"
 msgid "You should study harder. I may not look it, but I actually like to study. Maybe you need to practice self discipline."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=87
-#. y4:msg_location=T0.P87
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1716_Saejima"
 msgid "(......)"
 msgstr "(......)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=91
-#. y4:msg_location=T0.P91
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1764_Ochiai"
 msgid "I feel exactly the same way. You say some interesting things every now and then. Maybe you're not so bad after all."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=92
-#. y4:msg_location=T0.P92
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1776_Saejima"
 msgid "(I finally found somethin' he's interested in. Looks like he's startin' to open up.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=96
-#. y4:msg_location=T0.P96
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1824_Ochiai"
 msgid "Well, you should've done your homework, idiot. I may not look like it, but I like to study. Maybe you need to practice self discipline."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=87
-#. y4:msg_location=T0.P87
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Something Comical
 msgctxt "1836_Saejima"
 msgid "(......)"
 msgstr "(......)"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "1872_Saejima"
 msgid "So, tell me, Fukushi... Why do ya wanna become a champion?"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
 msgctxt "1884_Ochiai"
 msgid "No big reason. Champions are cool. That's all."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
 msgctxt "1896_Ochiai"
 msgid "Plus, I'll get a lot of girls. Heheheh..."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "1908_Saejima"
 msgid "You ain't got a more passionate reason?"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
 msgctxt "1920_Ochiai"
 msgid "Nope. And anyway, fighting is a result-oriented game. Who gives a shit about the details?"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=6
-#. y4:msg_decision_choices=1. Exactly. You just gotta win. -> T1.P7 | 2. Motivation is real important. -> T1.P11 | 3. Results don't matter. -> T1.P23
 msgctxt "1932_Ochiai"
 msgid "No need for motivation or a reason. Am I right?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Exactly. You just gotta win.
 msgctxt "1944_Saejima"
 msgid "Exactly. In the end, the winner's the better fighter. That's the name o' the game."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Exactly. You just gotta win.
 msgctxt "1956_Saejima"
 msgid "No matter how admirable yer reasons, if ya don't win, it don't mean shit."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Exactly. You just gotta win.
 msgctxt "1968_Ochiai"
 msgid "I totally agree! But... if you knew that already, then why the hell did you ask!? Fucking waste of my time."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Exactly. You just gotta win.
 msgctxt "1980_Saejima"
 msgid "(Didn't get my point across... That didn't go well...)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Motivation is real important.
 msgctxt "1992_Saejima"
 msgid "True, the winner's the better fighter. That's what fightin's about. But motivation's important too."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Motivation is real important.
 msgctxt "2004_Saejima"
 msgid "Fighters with motivation are ten times stronger than unmotivated fighters."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Motivation is real important.
 msgctxt "2016_Ochiai"
 msgid "Hm...? Why's that?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Motivation is real important.
 msgctxt "2028_Saejima"
 msgid "See, what would ya do if yer mom was bein' attacked by some street thugs?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Motivation is real important.
 msgctxt "2040_Ochiai"
 msgid "That's obvious! I'd protect my mom. I'd beat the hell out of those thugs and give it everything I've got!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=16
-#. y4:msg_location=T1.P16
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Motivation is real important.
 msgctxt "2052_Saejima"
 msgid "What if ya start a fight for no reason with a passerby? Could you fight that person with everythin' ya got?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=17
-#. y4:msg_location=T1.P17
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Motivation is real important.
 msgctxt "2064_Ochiai"
 msgid "Hmmm... I don't know... I mean, I don't really have a reason to be fighting."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=18
-#. y4:msg_location=T1.P18
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Motivation is real important.
 msgctxt "2076_Ochiai"
 msgid "I would definitely fight harder against the thugs that were attacking my mom."
 msgstr ""
@@ -1017,497 +347,140 @@ msgctxt "2088_Saejima"
 msgid "That's my point. People who got somethin' to protect－people with a motivation or goal－are stronger 'cause they fight harder."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=20
-#. y4:msg_location=T1.P20
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Motivation is real important.
 msgctxt "2100_Ochiai"
 msgid "Huh! I get it! That was really easy to understand!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=21
-#. y4:msg_location=T1.P21
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Motivation is real important.
 msgctxt "2112_Ochiai"
 msgid "I guess I have to come up with some goals for myself. Mmhm!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=22
-#. y4:msg_location=T1.P22
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Motivation is real important.
 msgctxt "2124_Saejima"
 msgid "(Looks like I got my point across. That went real well.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=23
-#. y4:msg_location=T1.P23
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2136_Saejima"
 msgid "Results don't matter at all. What's important is how ya fight."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=24
-#. y4:msg_location=T1.P24
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2148_Saejima"
 msgid "People respect effort more than a borin' win."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=25
-#. y4:msg_location=T1.P25
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2160_Ochiai"
 msgid "Huh. But if you don't win then you can't become champion, right?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=26
-#. y4:msg_location=T1.P26
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2172_Ochiai"
 msgid "What you're saying is loser's logic. A simple excuse. Your explanation makes no fucking sense. You're pissing me off."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Exactly. You just gotta win.
 msgctxt "2184_Saejima"
 msgid "(Didn't get my point across... That didn't go well...)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=28
-#. y4:msg_location=T1.P28
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2196_Saejima"
 msgid "So, whaddya do on yer days off?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=29
-#. y4:msg_location=T1.P29
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2208_Ochiai"
 msgid "Well, let's see. Lately I've started watching anime. There's this one anime about a robot that I really like."
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=7
-#. y4:msg_section_label=Conversación 7
-#. y4:msg_talk=1
-#. y4:msg_phrase=30
-#. y4:msg_location=T1.P30
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=7
-#. y4:msg_decision_choices=1. That's kids stuff. -> T1.P31 | 2. Anime is respectable Japanese culture. -> T1.P34 | 3. I used to love anime. -> T1.P38
 msgctxt "2220_Saejima"
 msgid "Anime, huh...?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=31
-#. y4:msg_location=T1.P31
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2232_Saejima"
 msgid "Anime, huh? That's a pretty childish hobby, ain't it?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=32
-#. y4:msg_location=T1.P32
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2244_Ochiai"
 msgid "What!? What are you saying, old man? You trying to start something with me?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=33
-#. y4:msg_location=T1.P33
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2256_Saejima"
 msgid "(Looks like that put 'im in a foul mood... That didn't go well.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=34
-#. y4:msg_location=T1.P34
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2268_Saejima"
 msgid "That's great. Anime's a revered part o' culture, ain't it?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=35
-#. y4:msg_location=T1.P35
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2280_Saejima"
 msgid "They call it \"Japanimation\" or somethin', right? I heard about it from Sodachi."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=36
-#. y4:msg_location=T1.P36
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2292_Ochiai"
 msgid "Stop talking out of your ass, you old freak. That's the most aggravating thing you could possibly say to a cultured man like myself!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=37
-#. y4:msg_location=T1.P37
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2304_Saejima"
 msgid "(Er... That didn't go well...)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=38
-#. y4:msg_location=T1.P38
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2316_Saejima"
 msgid "Y'know, I was real into an anime about robots, too. Made me realize that even bad guys have their own purpose and sense o' justice."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=39
-#. y4:msg_location=T1.P39
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2328_Ochiai"
 msgid "Wait, the anime you're talking about might actually be the same one that I like..."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=40
-#. y4:msg_location=T1.P40
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2340_Ochiai"
 msgid "This is starting to get fun! Let's talk more about this!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=41
-#. y4:msg_location=T1.P41
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2352_Saejima"
 msgid "(That was a good talk. I'm glad we came.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=42
-#. y4:msg_location=T1.P42
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2364_Ochiai"
 msgid "So, old man. Can you do any tricks?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=43
-#. y4:msg_location=T1.P43
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2376_Saejima"
 msgid "Tricks...?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=44
-#. y4:msg_location=T1.P44
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2388_Ochiai"
 msgid "Yeah, I'm good at impersonations. What can you do? There must be something that you're good at."
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=8
-#. y4:msg_section_label=Conversación 8
-#. y4:msg_talk=1
-#. y4:msg_phrase=45
-#. y4:msg_location=T1.P45
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=8
-#. y4:msg_decision_choices=1. I'm good at makin' faces. -> T1.P46 | 2. I can recite pi indefinitely. -> T1.P53 | 3. I got nothin'. -> T1.P56
 msgctxt "2400_Saejima"
 msgid "Tricks, huh? Hmmm..."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=46
-#. y4:msg_location=T1.P46
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2412_Saejima"
 msgid "I guess I'm good at makin' faces."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=47
-#. y4:msg_location=T1.P47
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2424_Ochiai"
 msgid "Really!? Faces!? I have to see this! Come on, show me one! Please!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=48
-#. y4:msg_location=T1.P48
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2436_Saejima"
 msgid "Fine..."
 msgstr "Bueno..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=49
-#. y4:msg_location=T1.P49
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2448_Saejima"
 msgid "How's this?"
 msgstr "¿Así está bien?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=50
-#. y4:msg_location=T1.P50
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2460_Ochiai"
 msgid "Ha... Hahaha! Bwahahahahahahaha! That's great! I'm impressed!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=51
-#. y4:msg_location=T1.P51
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2472_Ochiai"
 msgid "That was awesome! Consider us friends for life! Hahahaha!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=52
-#. y4:msg_location=T1.P52
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2484_Saejima"
 msgid "(That went a lot better than I expected...)"
 msgstr ""
@@ -1517,62 +490,18 @@ msgid "I can recite the number pi indefinitely. Listen.\\r\n"
 "3.1415926535..."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=54
-#. y4:msg_location=T1.P54
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2508_Ochiai"
 msgid "Okay, okay, enough already. This is boring. Sorry I asked."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=55
-#. y4:msg_location=T1.P55
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2520_Saejima"
 msgid "(Huh. He didn't like that. It took me ages to remember those damn numbers...)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=56
-#. y4:msg_location=T1.P56
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2532_Saejima"
 msgid "I'm no good at tricks. And I ain't interested in learning any."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=57
-#. y4:msg_location=T1.P57
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2544_Ochiai"
 msgid "Bo-ring. Loser!"
 msgstr ""
@@ -1581,782 +510,377 @@ msgctxt "2556_Ochiai"
 msgid "I hate it when people just write off ideas like that! Who knows－it might be fun if you just tried. You have a really negative attitude."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=59
-#. y4:msg_location=T1.P59
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2568_Saejima"
 msgid "(Hmph. Didn't think I'd be lectured...)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=60
-#. y4:msg_location=T1.P60
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2580_Ochiai"
 msgid "I'm curious... Out of these three, which do you like the most?"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=9
-#. y4:msg_section_label=Conversación 9
-#. y4:msg_talk=1
-#. y4:msg_phrase=61
-#. y4:msg_location=T1.P61
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=9
-#. y4:msg_decision_choices=1. Dragon -> T1.P62 | 2. Tiger -> T1.P67 | 3. Colossus -> T1.P72
 msgctxt "2592_Saejima"
 msgid "What kinda question is that? Hmph. Lemme see..."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=62
-#. y4:msg_location=T1.P62
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2604_Saejima"
 msgid "I gotta go with the dragon. They're cool-lookin'. And anyway, real men like dragons."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=63
-#. y4:msg_location=T1.P63
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2616_Ochiai"
 msgid "Haha! I knew you would say that! But you do got that right. Dragons sure are cool!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=64
-#. y4:msg_location=T1.P64
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2628_Saejima"
 msgid "Great. But why'd ya ask me such a random question?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=65
-#. y4:msg_location=T1.P65
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2640_Ochiai"
 msgid "Hm? Oh, don't worry. It's just something personal. Nothing to do with you. But dragons really are cool, huh? Yeah..."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=66
-#. y4:msg_location=T1.P66
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2652_Saejima"
 msgid "(What a weird guy. But at least he looks satisfied.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=67
-#. y4:msg_location=T1.P67
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2664_Saejima"
 msgid "I've got a tiger tattoo on my back, y'know. I gotta go with the tiger."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=68
-#. y4:msg_location=T1.P68
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2676_Ochiai"
 msgid "A tiger!? Why not the dragon? Dragons are number one! Tigers are so lame!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=69
-#. y4:msg_location=T1.P69
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2688_Saejima"
 msgid "Ain't sure how to respond to that... But why'd ya ask me such a random question?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=70
-#. y4:msg_location=T1.P70
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2700_Ochiai"
 msgid "Hm? Oh, don't worry. It's just something personal. Nothing to do with you. But dragons really are the coolest, okay?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=71
-#. y4:msg_location=T1.P71
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2712_Saejima"
 msgid "(Looks like I hurt his feelin's a bit... What a weird guy. I sure don't get 'im.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=72
-#. y4:msg_location=T1.P72
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2724_Saejima"
 msgid "Never really thought about it before. But if I gotta choose, I'd probably go with the colossus."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=73
-#. y4:msg_location=T1.P73
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2736_Ochiai"
 msgid "What!? You must be joking. Why didn't you choose the dragon? You must know that dragons are number one!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=69
-#. y4:msg_location=T1.P69
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2748_Saejima"
 msgid "Ain't sure how to respond to that... But why'd ya ask me such a random question?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=70
-#. y4:msg_location=T1.P70
-#. y4:msg_speaker=Ochiai
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2760_Ochiai"
 msgid "Hm? Oh, don't worry. It's just something personal. Nothing to do with you. But dragons really are the coolest, okay?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=1
-#. y4:msg_phrase=71
-#. y4:msg_location=T1.P71
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Results don't matter.
 msgctxt "2772_Saejima"
 msgid "(Looks like I hurt his feelin's a bit... What a weird guy. I sure don't get 'im.)"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P2
-#. y4:msg_branch_segment=T0.P2..P7
-#. y4:msg_branch_target_text=Bo-ring. Don't you have anything interesting to talk about?
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 16 00 00 00 00 00 00 00 00
 msgctxt "2796_Saejima"
 msgid "Something Motivational"
 msgstr "Algo Motivacional"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P8
-#. y4:msg_branch_segment=T0.P8..P12
-#. y4:msg_branch_target_text=Save your fancy analyses for your own time. My interest level in this is bubbling just over zero percent. Ugh, this is so boring...
-#. y4:msg_branch_raw=01 11 00 08 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "2808_Saejima"
 msgid "A Cool Analysis"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P13
-#. y4:msg_branch_segment=T0.P13..P98
-#. y4:msg_branch_target_text=Bwahahaha! That's friggin' hilarious! I can't believe you did that! And completely naked, too! Hahaha!
-#. y4:msg_branch_raw=01 11 00 0d 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "2820_Saejima"
 msgid "Something Comical"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P19
-#. y4:msg_branch_segment=T0.P19..P23
-#. y4:msg_branch_target_text=Math? What's got into you all of a sudden, huh? And what the hell is so interesting about math? Are you stupid or something?
-#. y4:msg_branch_raw=01 11 00 13 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "2832_Saejima"
 msgid "Math"
 msgstr "Matemática"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P24
-#. y4:msg_branch_segment=T0.P24..P28
-#. y4:msg_branch_target_text=Literature? The column I write is literature. "The literary genius Fukushi Ochiai." Sounds perfect! Heheh.
-#. y4:msg_branch_raw=01 11 00 18 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "2844_Saejima"
 msgid "Literature"
 msgstr "Literatura"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P29
-#. y4:msg_branch_segment=T0.P29..P98
-#. y4:msg_branch_target_text=The arts? Huh! You're not worthy enough to talk about stuff like that! Only sophisticated people like me are allowed to talk about the arts!
-#. y4:msg_branch_raw=01 11 00 1d 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "2856_Saejima"
 msgid "Art"
 msgstr "Arte"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P35
-#. y4:msg_branch_segment=T0.P35..P39
-#. y4:msg_branch_target_text=Zzz...
-#. y4:msg_branch_raw=01 11 00 23 00 00 00 14 00 00 00 00 00 00 00 00
 msgctxt "2868_Saejima"
 msgid "Brag About Something"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P40
-#. y4:msg_branch_segment=T0.P40..P44
-#. y4:msg_branch_target_text=Bwahahaha! Wow, you screwed up pretty bad! That's friggin' hilarious! Hwahahahaha!
-#. y4:msg_branch_raw=01 11 00 28 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "2880_Saejima"
 msgid "Talk About Failure"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P45
-#. y4:msg_branch_segment=T0.P45..P98
-#. y4:msg_branch_target_text=Zzz...
-#. y4:msg_branch_raw=01 11 00 2d 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "2892_Saejima"
 msgid "Talk About Success"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P51
-#. y4:msg_branch_segment=T0.P51..P55
-#. y4:msg_branch_target_text=Zzz...
-#. y4:msg_branch_raw=01 11 00 33 00 00 00 1b 00 00 00 00 00 00 00 00
 msgctxt "2904_Saejima"
 msgid "The Japanese Pension System"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P56
-#. y4:msg_branch_segment=T0.P56..P60
-#. y4:msg_branch_target_text=Zzz...
-#. y4:msg_branch_raw=01 11 00 38 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "2916_Saejima"
 msgid "Diplomacy and the Yen"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P13
-#. y4:msg_branch_segment=T0.P13..P98
-#. y4:msg_branch_target_text=Bwahahaha! That's friggin' hilarious! I can't believe you did that! And completely naked, too! Hahaha!
-#. y4:msg_branch_raw=01 11 00 0d 00 00 00 11 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T0.P61
 msgctxt "2928_Saejima"
 msgid "Something Comical"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P67
-#. y4:msg_branch_segment=T0.P67..P71
-#. y4:msg_branch_target_text=Heheheh. I knew you wanted to know more. I guess I have no choice but to give you the whole unrated story... Heheheh.
-#. y4:msg_branch_raw=01 11 00 43 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "2940_Saejima"
 msgid "Fukushi Ochiai"
 msgstr "Fukushi Ochiai"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P72
-#. y4:msg_branch_segment=T0.P72..P76
-#. y4:msg_branch_target_text=I could care less about that stupid baldy.
-#. y4:msg_branch_raw=01 11 00 48 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "2952_Saejima"
 msgid "Sodachi"
 msgstr "Sodachi"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=16
-#. y4:msg_phrase=0
-#. y4:msg_location=T16.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P77
-#. y4:msg_branch_segment=T0.P77..P98
-#. y4:msg_branch_target_text=Zzz...
-#. y4:msg_branch_raw=01 11 00 4d 00 00 00 06 00 00 00 00 00 00 00 00
 msgctxt "2964_Saejima"
 msgid "Myself"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=5
-#. y4:msg_section_label=Conversación 5
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=5
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P83
-#. y4:msg_branch_segment=T0.P83..P87
-#. y4:msg_branch_target_text=You should study harder. I may not look it, but I actually like to study. Maybe you need to practice self discipline.
-#. y4:msg_branch_raw=01 11 00 53 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "2976_Saejima"
 msgid "Bad Test Score"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=5
-#. y4:msg_section_label=Conversación 5
-#. y4:msg_talk=18
-#. y4:msg_phrase=0
-#. y4:msg_location=T18.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=5
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P88
-#. y4:msg_branch_segment=T0.P88..P92
-#. y4:msg_branch_target_text=I feel exactly the same way. You say some interesting things every now and then. Maybe you're not so bad after all.
-#. y4:msg_branch_raw=01 11 00 58 00 00 00 19 00 00 00 00 00 00 00 00
 msgctxt "2988_Saejima"
 msgid "Japanese Education System"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=5
-#. y4:msg_section_label=Conversación 5
-#. y4:msg_talk=19
-#. y4:msg_phrase=0
-#. y4:msg_location=T19.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=5
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P93
-#. y4:msg_branch_segment=T0.P93..P98
-#. y4:msg_branch_target_text=Well, you should've done your homework, idiot. I may not look like it, but I like to study. Maybe you need to practice self discipline.
-#. y4:msg_branch_raw=01 11 00 5d 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "3000_Saejima"
 msgid "Forgotten Homework"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=20
-#. y4:msg_phrase=0
-#. y4:msg_location=T20.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=6
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P7
-#. y4:msg_branch_segment=T1.P7..P10
-#. y4:msg_branch_target_text=Exactly. In the end, the winner's the better fighter. That's the name o' the game.
-#. y4:msg_branch_raw=01 11 00 07 00 00 00 1c 00 00 00 00 00 00 00 00
 msgctxt "3012_Saejima"
 msgid "Exactly. You just gotta win."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=21
-#. y4:msg_phrase=0
-#. y4:msg_location=T21.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=6
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P11
-#. y4:msg_branch_segment=T1.P11..P22
-#. y4:msg_branch_target_text=True, the winner's the better fighter. That's what fightin's about. But motivation's important too.
-#. y4:msg_branch_raw=01 11 00 0b 00 00 00 1d 00 00 00 00 00 00 00 00
 msgctxt "3024_Saejima"
 msgid "Motivation is real important."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=6
-#. y4:msg_section_label=Conversación 6
-#. y4:msg_talk=22
-#. y4:msg_phrase=0
-#. y4:msg_location=T22.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=6
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P23
-#. y4:msg_branch_segment=T1.P23..P77
-#. y4:msg_branch_target_text=Results don't matter at all. What's important is how ya fight.
-#. y4:msg_branch_raw=01 11 00 17 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "3036_Saejima"
 msgid "Results don't matter."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=7
-#. y4:msg_section_label=Conversación 7
-#. y4:msg_talk=23
-#. y4:msg_phrase=0
-#. y4:msg_location=T23.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=7
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P31
-#. y4:msg_branch_segment=T1.P31..P33
-#. y4:msg_branch_target_text=Anime, huh? That's a pretty childish hobby, ain't it?
-#. y4:msg_branch_raw=01 11 00 1f 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "3048_Saejima"
 msgid "That's kids stuff."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=7
-#. y4:msg_section_label=Conversación 7
-#. y4:msg_talk=24
-#. y4:msg_phrase=0
-#. y4:msg_location=T24.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=7
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P34
-#. y4:msg_branch_segment=T1.P34..P37
-#. y4:msg_branch_target_text=That's great. Anime's a revered part o' culture, ain't it?
-#. y4:msg_branch_raw=01 11 00 22 00 00 00 26 00 00 00 00 00 00 00 00
 msgctxt "3060_Saejima"
 msgid "Anime is respectable Japanese culture."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=7
-#. y4:msg_section_label=Conversación 7
-#. y4:msg_talk=25
-#. y4:msg_phrase=0
-#. y4:msg_location=T25.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=7
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P38
-#. y4:msg_branch_segment=T1.P38..P77
-#. y4:msg_branch_target_text=Y'know, I was real into an anime about robots, too. Made me realize that even bad guys have their own purpose and sense o' justice.
-#. y4:msg_branch_raw=01 11 00 26 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "3072_Saejima"
 msgid "I used to love anime."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=8
-#. y4:msg_section_label=Conversación 8
-#. y4:msg_talk=26
-#. y4:msg_phrase=0
-#. y4:msg_location=T26.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=8
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P46
-#. y4:msg_branch_segment=T1.P46..P52
-#. y4:msg_branch_target_text=I guess I'm good at makin' faces.
-#. y4:msg_branch_raw=01 11 00 2e 00 00 00 19 00 00 00 00 00 00 00 00
 msgctxt "3084_Saejima"
 msgid "I'm good at makin' faces."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=8
-#. y4:msg_section_label=Conversación 8
-#. y4:msg_talk=27
-#. y4:msg_phrase=0
-#. y4:msg_location=T27.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=8
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P53
-#. y4:msg_branch_segment=T1.P53..P55
-#. y4:msg_branch_target_text=I can recite the number pi indefinitely. Listen.\n3.1415926535...
-#. y4:msg_branch_raw=01 11 00 35 00 00 00 1d 00 00 00 00 00 00 00 00
 msgctxt "3096_Saejima"
 msgid "I can recite pi indefinitely."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=8
-#. y4:msg_section_label=Conversación 8
-#. y4:msg_talk=28
-#. y4:msg_phrase=0
-#. y4:msg_location=T28.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=8
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P56
-#. y4:msg_branch_segment=T1.P56..P77
-#. y4:msg_branch_target_text=I'm no good at tricks. And I ain't interested in learning any.
-#. y4:msg_branch_raw=01 11 00 38 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "3108_Saejima"
 msgid "I got nothin'."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=9
-#. y4:msg_section_label=Conversación 9
-#. y4:msg_talk=29
-#. y4:msg_phrase=0
-#. y4:msg_location=T29.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=9
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P62
-#. y4:msg_branch_segment=T1.P62..P66
-#. y4:msg_branch_target_text=I gotta go with the dragon. They're cool-lookin'. And anyway, real men like dragons.
-#. y4:msg_branch_raw=01 11 00 3e 00 00 00 06 00 00 00 00 00 00 00 00
 msgctxt "3120_Saejima"
 msgid "Dragon"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=9
-#. y4:msg_section_label=Conversación 9
-#. y4:msg_talk=30
-#. y4:msg_phrase=0
-#. y4:msg_location=T30.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=9
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P67
-#. y4:msg_branch_segment=T1.P67..P71
-#. y4:msg_branch_target_text=I've got a tiger tattoo on my back, y'know. I gotta go with the tiger.
-#. y4:msg_branch_raw=01 11 00 43 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "3132_Saejima"
 msgid "Tiger"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=9
-#. y4:msg_section_label=Conversación 9
-#. y4:msg_talk=31
-#. y4:msg_phrase=0
-#. y4:msg_location=T31.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=9
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P72
-#. y4:msg_branch_segment=T1.P72..P77
-#. y4:msg_branch_target_text=Never really thought about it before. But if I gotta choose, I'd probably go with the colossus.
-#. y4:msg_branch_raw=01 11 00 48 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "3144_Saejima"
 msgid "Colossus"
 msgstr ""

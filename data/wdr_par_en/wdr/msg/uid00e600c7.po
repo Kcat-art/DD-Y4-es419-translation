@@ -24,62 +24,40 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E600C7 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2268"
 msgid "Isawa"
 msgstr "Isawa"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "2272"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "2276"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2280"
 msgid "M_ykzs_stand"
 msgstr "M_ykzs_stand"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "2284"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "2288"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "2292"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Isawa
-#. y4:msg_speaker_id=0
 msgctxt "56_Isawa"
 msgid "Shit... I had a goddamn gun! How the hell could this happen!?"
 msgstr "Mierda... ¡tenía una maldita pistola! ¿¡Cómo diablos ha \\r podido pasar esto!?"
@@ -99,35 +77,14 @@ msgstr "Maldición... ¡No tendría que haber terminado así!\\r \n"
 "¡Eh, esto no se ha acabado ni de lejos! ¡Quédate\\r \n"
 "con mis palabras!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "116_Tanimura"
 msgid "What!?"
 msgstr "¡¿Qué?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Isawa
-#. y4:msg_speaker_id=0
 msgctxt "128_Isawa"
 msgid "Fay's mine! And I ain't lettin' nobody get their hands on her!"
 msgstr "¡Fay es mía! ¡Y no dejaré que nadie le ponga las manos encima!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "140_Tanimura"
 msgid "Damn... Fay's in danger! I have to catch him before it's too late."
 msgstr "Maldición... ¡Fay corre peligro! Tengo que alcanzarle antes \\r de que sea demasiado tarde."

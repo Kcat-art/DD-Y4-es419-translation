@@ -24,202 +24,90 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
 #. y4:runtime_play_command=y4.play_msg 00EE0506 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2920"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2924"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2928"
 msgid "Lily"
 msgstr "Lily"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2932"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "2936"
 msgid "Putting Together a Stylish Outfit"
 msgstr "Combinar un atuendo elegante"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "104_Akiyama"
 msgid "Okay. Let's get started."
 msgstr "Bien. Empecemos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Lily
-#. y4:msg_speaker_id=2
 msgctxt "116_Lily"
 msgid "Yes, let's."
 msgstr "Sí, vamos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "128_Akiyama"
 msgid "First, let's get you changed into an outfit that brings out the best of your natural beauty. Don't worry, I guarantee you'll look great."
 msgstr "Primero, vamos a cambiarte a un atuendo que resalte lo mejor de tu belleza natural. No te preocupes, te garantizo que te verás genial."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "152_Akiyama"
 msgid "Looking good."
 msgstr "Te ves bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Lily
-#. y4:msg_speaker_id=2
 msgctxt "164_Lily"
 msgid "You think so?"
 msgstr "¿De verdad?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "176_Akiyama"
 msgid "Of course. Now go get 'em."
 msgstr "Claro. Ahora sal ahí a dar lo mejor de ti."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Lily
-#. y4:msg_speaker_id=2
 msgctxt "188_Lily"
 msgid "Okay... I'll do my best."
 msgstr "Sí, haré mi mejor esfuerzo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Putting Together a Stylish Outfit
-#. y4:msg_speaker_id=4
 msgctxt "248_Akiyama"
 msgid "Get a feel for your customers' preferences by walking around the club, then return to the break room and coordinate your hostess to fit their ideal image."
 msgstr "Familiarízate con las preferencias de los clientes caminando por el club, luego regresa a la sala de descanso y coordina a tu hostess para que se ajuste a su imagen ideal."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "260_Akiyama"
 msgid "(Guess I should take a stroll around the club.)"
 msgstr "(Creo que debería revisar un poco el club)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "284_Akiyama"
 msgid "I've taught you everything I know. It's all up to you now."
 msgstr "Te enseñé todo lo que sé. Ahora todo depende de ti."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Lily
-#. y4:msg_speaker_id=2
 msgctxt "296_Lily"
 msgid "Okay..."
 msgstr "Bueno..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "308_Akiyama"
 msgid "There's still some time until the club closes. Good luck."
 msgstr "Todavía queda algo de tiempo hasta que el club cierre. Buena suerte."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Lily
-#. y4:msg_speaker_id=2
 msgctxt "320_Lily"
 msgid "Thank you."
 msgstr "Gracias."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "332_Akiyama"
 msgid "The manager will contact me once he's calculated your sales. We just need to wait until then."
 msgstr "El gerente se pondrá en contacto conmigo una vez que haya calculado tus ventas. Solo tenemos que esperar hasta entonces."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=Lily
-#. y4:msg_speaker_id=2
 msgctxt "344_Lily"
 msgid "Okay."
 msgstr "Está bien."

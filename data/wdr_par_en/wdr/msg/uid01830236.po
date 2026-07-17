@@ -16,114 +16,73 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 01830236 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "8144"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "8148"
 msgid "Shiobara"
 msgstr "Shiobara"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "8152"
 msgid "Manager"
 msgstr "Gerente"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "8156"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "8160"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "8164"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "8168"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "8172"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "8176"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "8180"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "8184"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "68_Akiyama"
 msgid "I'll go first."
 msgstr "Bueno, empezaré yo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=1
 msgctxt "80_Shiobara"
 msgid "Okay."
 msgstr "Está bien."
@@ -134,73 +93,31 @@ msgid "Let's see... Well, would ya look at this!? This here's a\\r\ngenuine arti
 msgstr "A ver, a ver... ¡Pero bueno, mira esto!\\r\n¡Es una artículo genuino!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=1
 msgctxt "104_Shiobara"
 msgid "Urk..."
 msgstr "Uh..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=2
 msgctxt "116_Manager"
 msgid "Wait here a sec. I'll take a closer look in back."
 msgstr "Espere aquí un momento. Iré atrás a examinarlo mejor."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=2
 msgctxt "188_Manager"
 msgid "Sorry. Didn't mean to leave you hanging."
 msgstr "Ya volví, disculpe la tardanza."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=1
 msgctxt "200_Shiobara"
 msgid "So? How much is it worth?"
 msgstr "¿Y-y bien? ¿Cuánto vale?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=2
 msgctxt "212_Manager"
 msgid "Five million if it's worth a yen."
 msgstr "Es un artículo que vale al menos cinco millones."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=1
 msgctxt "224_Shiobara"
 msgid "Five...!?"
 msgstr "¡¿Cinco...?!"
@@ -221,25 +138,11 @@ msgid "Can't help but wonder who this belonged to. Such a\\r\nnice watch being t
 msgstr "Viéndolo mejor, me pregunto quién es el dueño.\\r\nUn artículo tan lujoso, tratado de una manera\\r\nterrible. Tiene muchos arañazos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=2
 msgctxt "272_Manager"
 msgid "It wasn't you, was it?"
 msgstr "¿Es suyo, verdad?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "284_Akiyama"
 msgid "Don't I wish."
 msgstr "Desafortunadamente."
@@ -250,85 +153,36 @@ msgid "Knock off a little for that and well... If I were to buy\\r\nthis off ya,
 msgstr "Teniendo en cuenta el estado y esto de acá... Si fuese\\r\na adquirirlo, pagaría..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=2
 msgctxt "308_Manager"
 msgid "Nine hundred and eighty thousand."
 msgstr "Novecientos ochenta mil yenes."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=1
 msgctxt "320_Shiobara"
 msgid "Eeep!"
 msgstr "¡Uyyy!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "332_Akiyama"
 msgid "Hey, not bad!"
 msgstr "¡Vaya, no está mal!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=1
 msgctxt "344_Shiobara"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "356_Akiyama"
 msgid "Okay, your turn."
 msgstr "Bueno, ahora es tu turno."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=1
 msgctxt "368_Shiobara"
 msgid "...I still think I'm going to win."
 msgstr "...Voy a ganar, ya verás."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "380_Akiyama"
 msgid "!"
 msgstr "¡!"
@@ -339,13 +193,6 @@ msgid "Nine hundred and eighty thousand, was it? Then, I still have\\r\na chance
 msgstr "¿Novecientos ochenta mil, no? ¡Entonces, aún tengo una\\r\noportunidad! Este es el mío."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=29
-#. y4:msg_location=T0.P29
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "404_Akiyama"
 msgid "You got a watch, too, huh...?"
 msgstr "Así que usted también trae un reloj..."
@@ -356,25 +203,11 @@ msgid "Oho! Another damn fine watch! Just what've you boys been up\\r\nto?"
 msgstr "¡Ooooh! ¡Este es otro reloj magnífico! ¿A qué se han dedicado\\r\núltimamente, caballeros?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=31
-#. y4:msg_location=T0.P31
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=1
 msgctxt "428_Shiobara"
 msgid "Never you mind! Get on with the appraisal!"
 msgstr "¡No se preocupe por eso! ¡Continúe con la tasación!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=32
-#. y4:msg_location=T0.P32
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=2
 msgctxt "440_Manager"
 msgid "All right, keep your shirt on. Gimme a sec..."
 msgstr "O-oye, tranquilo amigo. Dame un momento..."
@@ -385,49 +218,21 @@ msgid "Phew. Seein' two of these babies in a row, I can't help but\\r\nbreak int
 msgstr "Buf. Ver dos de estas preciosidades del tirón, me pone\\r\nmuy nervioso, ya hasta estoy sudando."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=39
-#. y4:msg_location=T0.P39
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=1
 msgctxt "524_Shiobara"
 msgid "Well!?"
 msgstr "¡¿Y-y bien?!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=40
-#. y4:msg_location=T0.P40
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=2
 msgctxt "536_Manager"
 msgid "If it was new, two million."
 msgstr "Si fuese nuevo, dos millones."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "548_Shiobara"
 msgid "!"
 msgstr "¡!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=42
-#. y4:msg_location=T0.P42
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=2
 msgctxt "560_Manager"
 msgid "And in this condition..."
 msgstr "Pero en este estado..."
@@ -438,37 +243,16 @@ msgid "I'd say nine hundred thou, exactly. And that's backed by\\r\nforty years 
 msgstr "Diría que novecientos mil, exactos. Y eso lo avalan\\r\nmis cuarenta años de experiencia en el sector."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=44
-#. y4:msg_location=T0.P44
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=1
 msgctxt "584_Shiobara"
 msgid "No..."
 msgstr "No... no... no... no..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=45
-#. y4:msg_location=T0.P45
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "596_Akiyama"
 msgid "...So I win."
 msgstr "...Entonces la victoria es mía."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=46
-#. y4:msg_location=T0.P46
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "608_Akiyama"
 msgid "You've failed the test."
 msgstr "Has fallado la prueba."

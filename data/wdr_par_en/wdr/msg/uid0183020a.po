@@ -24,89 +24,46 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 0183020A <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "708"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Go In -> T0.P1 | 2. Not Now -> T0.P3
 msgctxt "100_Akiyama"
 msgid "(This must be the fake Sky Finance. Wonder if I should head on in...)"
 msgstr "(Tengo entendido que aquí está el falso Sky Finance. Bueno, ¿qué tal\n"
 "si entramos de una vez?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Go In
 msgctxt "112_Akiyama"
 msgid "(Here goes nothing!)"
 msgstr "(¡Vamos allá!)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Not Now
 msgctxt "136_Akiyama"
 msgid "(No need to rush things. I'll come back later.)"
 msgstr "(No hay necesidad de apresurarse. Volveré más tarde.)"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P2
-#. y4:msg_branch_target_text=(Here goes nothing!)
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "148_Akiyama"
 msgid "Go In"
 msgstr "Entrar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P3
-#. y4:msg_branch_target_text=(No need to rush things. I'll come back later.)
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "160_Akiyama"
 msgid "Not Now"
 msgstr "Ahora no"

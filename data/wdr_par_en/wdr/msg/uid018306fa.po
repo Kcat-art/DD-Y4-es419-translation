@@ -24,20 +24,14 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_BILLIARD_BAR.bin
 #. y4:runtime_play_command=y4.play_msg 018306FA <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "212"
 msgid "Barkeep"
 msgstr "Cantinero"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Barkeep
-#. y4:msg_speaker_id=0
 msgctxt "56_Barkeep"
 msgid "That was a fine match! Would you like to play \"Prize Bank Shot\"?"
 msgstr "¡Esa fue una gran partida! ¿Te gustaría jugar \"Tiro Premiado a la Banda\"?"

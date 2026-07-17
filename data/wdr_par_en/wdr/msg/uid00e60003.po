@@ -24,83 +24,52 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E60003 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "4044"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "4048"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "4052"
 msgid "Paradise Advertising President"
 msgstr "Presidente de Publicidad Paradise"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "4056"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "4060"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "4064"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "4068"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "4072"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "4076"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "4080"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "84_Akiyama"
 msgid "Yo. What's going on?"
 msgstr "Buenas. ¿Qué tal todo?"
@@ -139,13 +108,6 @@ msgid "Say, Akiyama-san, do you think that'll happen to my place,\\r\n"
 msgstr "Akiyama-san, ¿existe la posibilidad de que mi compañía\\r\n"
 "sufra el mismo destino?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "156_Akiyama"
 msgid "Most likely. I peered over your books last time we talked..."
 msgstr "Me temo que sí. Revisé tus cuentas la última vez que charlamos..."
@@ -169,46 +131,18 @@ msgid "I've got to be frank with you here. It's your job as\\r\n"
 msgstr "Sé que es duro, pero como presidente, es tu responsabilidad\\r\n"
 "tomar esta decisión, por más difícil que sea."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Paradise Advertising President
-#. y4:msg_speaker_id=2
 msgctxt "204_Paradise Advertising President"
 msgid "I guess you're right..."
 msgstr "Supongo que tienes razón..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "216_Akiyama"
 msgid "Oh, another thing. Do you know where Shiobara-kun went?"
 msgstr "Ah, otra cosa. ¿Sabes a dónde fue Shiobara-kun?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Paradise Advertising President
-#. y4:msg_speaker_id=2
 msgctxt "228_Paradise Advertising President"
 msgid "Not exactly. He was walking toward Children's Park, though."
 msgstr "No estoy seguro, pero creo que iba en dirección al parque infantil."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "240_Akiyama"
 msgid "He was? Thanks. I'll have to stop by again sometime soon."
 msgstr "¿Ah, sí? Gracias. Volveré a visitarte pronto."

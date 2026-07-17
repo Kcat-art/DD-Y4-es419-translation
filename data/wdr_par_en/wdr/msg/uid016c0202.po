@@ -24,164 +24,112 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 016C0202 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
 msgctxt "32644"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "32648"
 msgid "Rio"
 msgstr "Rio"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "32652"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "32656"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "32660"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "32664"
 msgid "Shizuka"
 msgstr "Shizuka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "32668"
 msgid "Himeka"
 msgstr "Himeka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "32672"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
+#. y4:msg_role=name
+#. y4:msg_name_id=8
 msgctxt "32676"
 msgid "Maya"
 msgstr "Maya"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
+#. y4:msg_role=name
+#. y4:msg_name_id=9
 msgctxt "32680"
 msgid "Noa"
 msgstr "Noa"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
+#. y4:msg_role=name
+#. y4:msg_name_id=10
 msgctxt "32684"
 msgid "Erena"
 msgstr "Erena"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
+#. y4:msg_role=name
+#. y4:msg_name_id=11
 msgctxt "32688"
 msgid "Chihiro"
 msgstr "Chihiro"
 
+#. y4:msg_role=name
+#. y4:msg_name_id=12
 msgctxt "32692"
 msgid "峰村七海：源氏名"
 msgstr "峰村七海：源氏名"
 
+#. y4:msg_role=name
+#. y4:msg_name_id=13
 msgctxt "32696"
 msgid "松岡里緒奈：源氏名"
 msgstr "松岡里緒奈：源氏名"
 
+#. y4:msg_role=name
+#. y4:msg_name_id=14
 msgctxt "32700"
 msgid "望月京子：源氏名"
 msgstr "望月京子：源氏名"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=1
 msgctxt "396_Rio"
 msgid "Hello? It's Rio, from Shine."
 msgstr "¿Hola? Es Río, del Shine."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "408_Player"
 msgid "Oh, hi, Rio. How're you doing?"
 msgstr "Oh, hola, Río. ¿Cómo estás?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=1
 msgctxt "420_Rio"
 msgid "I was just thinking about you... Was wondering if you'd like to go out on a date?"
 msgstr "Estaba pensando en usted... ¿Me preguntaba si le gustaría tener una cita?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "432_Player"
 msgid "Sure."
 msgstr "Claro."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=1
 msgctxt "444_Rio"
 msgid "Great! I'll meet you in front of the Millennium Tower."
 msgstr "¡Estupendo! Nos vemos frente a la Torre Millennium."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "456_Player"
 msgid "In front of the Millennium Tower. Got it."
 msgstr "Enrente de la Torre Millennium. Entendido."
@@ -190,343 +138,126 @@ msgctxt "468_Rio"
 msgid "Yup. Okay, see you later. <Color:7>♥<Color:Default>"
 msgstr "Sip. Ok, te veo luego. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=1
 msgctxt "564_Rio"
 msgid "Hello? It's me, Rio."
 msgstr "¿Hola? Soy yo, Rio."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "576_Player"
 msgid "Hi, Rio. What's up?"
 msgstr "Hola, Rio. ¿Qué pasa?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=1
 msgctxt "588_Rio"
 msgid "Are you coming to the club today? I was thinking, maybe we could meet up beforehand and head over together!"
 msgstr "¿Va a venir al club hoy? ¡Estaba pensando en que quizá podríamos encontrarnos antes e ir juntos!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "600_Player"
 msgid "How could I say no?"
 msgstr "¿Cómo podría negarme?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=1
 msgctxt "612_Rio"
 msgid "Great! I'll wait for you in front of the Millennium Tower."
 msgstr "¡Estupendo! Lo esperare frente a la Torre Millenium."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "624_Player"
 msgid "In front of the Millennium Tower. Got it."
 msgstr "Enrente de la Torre Millennium. Entendido."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=1
 msgctxt "636_Rio"
 msgid "Okay, I'll be waiting. Don't be late!"
 msgstr "Bien, estaré esperando. ¡No llegue tarde!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=5
 msgctxt "732_Shizuka"
 msgid "Hello? This is Shizuka from Shine."
 msgstr "¿Hola? Esta es Shizuka del Shine."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "744_Player"
 msgid "Oh, hey. How's it going?"
 msgstr "Oh, ey. ¿Cómo estás?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=5
 msgctxt "756_Shizuka"
 msgid "I was wondering if you wanted to go out with me? Sometime today, if you can?"
 msgstr "Me preguntaba si le gustaría salir conmigo. ¿Tal vez hoy, si no le molesta?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "768_Player"
 msgid "Sure, sounds good."
 msgstr "Claro, suena bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=5
 msgctxt "780_Shizuka"
 msgid "Great! I'll meet you in front of the lockers on Taihei Boulevard."
 msgstr "¡Estupendo! Nos vemos frente a los casilleros del bulevar Taihei."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=8
-#. y4:msg_location=T2.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "792_Player"
 msgid "In front of the lockers on Taihei Boulevard. Got it."
 msgstr "Frente a los casilleros en el bulevar Taihei. Entendido."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=9
-#. y4:msg_location=T2.P9
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=5
 msgctxt "804_Shizuka"
 msgid "Okay! I'm looking forward to it!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=3
-#. y4:msg_location=T3.P3
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=5
 msgctxt "900_Shizuka"
 msgid "This is Shizuka. Are you free right now?"
 msgstr "Esta es Shizuka. ¿Está libre en este momento?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=4
-#. y4:msg_location=T3.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "912_Player"
 msgid "Sure, what's up?"
 msgstr "Claro, ¿qué pasa?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=5
-#. y4:msg_location=T3.P5
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=5
 msgctxt "924_Shizuka"
 msgid "You don't have to if you don't want to, but... would you be interested in hanging out with me sometime today?"
 msgstr "No tiene que hacerlo si no quiere, pero... ¿Estaría interesado en pasar el rato conmigo cuando este libre?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "936_Player"
 msgid "Sure, sounds good."
 msgstr "Claro, suena bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=7
-#. y4:msg_location=T3.P7
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=5
 msgctxt "948_Shizuka"
 msgid "I'll be in front of the lockers on Taihei Boulevard. Does that work for you?"
 msgstr "Voy a estar en frente de las taquillas en Bulevar taihei. ¿Le parece bien?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=8
-#. y4:msg_location=T2.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "960_Player"
 msgid "In front of the lockers on Taihei Boulevard. Got it."
 msgstr "Frente a los casilleros en el bulevar Taihei. Entendido."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=9
-#. y4:msg_location=T3.P9
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=5
 msgctxt "972_Shizuka"
 msgid "Great! I'll be waiting!"
 msgstr "¡Estupendo! ¡Estaré esperando!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=3
-#. y4:msg_location=T4.P3
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=6
 msgctxt "1068_Himeka"
 msgid "Hello? It's Himeka from Shine."
 msgstr "¿Hola? Es Himeka del Shine."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=4
-#. y4:msg_location=T4.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "1080_Tanimura"
 msgid "Nice to hear from you, Himeka. What's up?"
 msgstr "Encantado de saber de ti, Himeka. ¿Qué sucede?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=5
-#. y4:msg_location=T4.P5
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=6
 msgctxt "1092_Himeka"
 msgid "Um... Would you like to go out with me today?"
 msgstr "Um... ¿Le gustaría salir conmigo hoy?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=6
-#. y4:msg_location=T4.P6
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "1104_Tanimura"
 msgid "You mean on a date?"
 msgstr "¿Te refieres a una cita?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=7
-#. y4:msg_location=T4.P7
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=6
 msgctxt "1116_Himeka"
 msgid "Yeah! I want to learn a little bit more about you."
 msgstr "¡Sí! Quiero conocer un poco más de usted."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=8
-#. y4:msg_location=T4.P8
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=6
 msgctxt "1128_Himeka"
 msgid "Is that cool?"
 msgstr "¿Le parece bien?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=9
-#. y4:msg_location=T4.P9
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "1140_Tanimura"
 msgid "Of course. Where should we meet?"
 msgstr "Por supuesto. ¿Dónde nos encontramos?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=10
-#. y4:msg_location=T4.P10
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=6
 msgctxt "1152_Himeka"
 msgid "I'll wait for you in front of the Millennium Tower."
 msgstr "Lo espero delante de la Torre Millenium."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=11
-#. y4:msg_location=T4.P11
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "1164_Tanimura"
 msgid "Got it. I'll be there soon."
 msgstr "Entendido. Estaré ahí pronto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=12
-#. y4:msg_location=T4.P12
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=6
 msgctxt "1176_Himeka"
 msgid "Really? Okay, I'll leave right away!"
 msgstr "¿De verdad? Ok, ¡saldré enseguida!"
@@ -535,178 +266,66 @@ msgctxt "1272_Himeka"
 msgid "Hello? It's me, Himeka. Hi! <Color:7>♥<Color:Default>"
 msgstr "¿Hola? Soy yo, Himeka. ¡Hola! <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=4
-#. y4:msg_location=T5.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "1284_Tanimura"
 msgid "Hey. How's it going?"
 msgstr "Ey. ¿Cómo estas?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=5
-#. y4:msg_location=T5.P5
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=6
 msgctxt "1296_Himeka"
 msgid "If you're free, wanna hang out for a bit?"
 msgstr "Si estás libre, ¿quieres pasar un rato juntos?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=6
-#. y4:msg_location=T5.P6
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "1308_Tanimura"
 msgid "Right now? That's a bit out of the blue."
 msgstr "¿Ahora mismo? Eso es un poco inesperado."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=7
-#. y4:msg_location=T5.P7
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=6
 msgctxt "1320_Himeka"
 msgid "I feel like someone's following me around. I know it sounds silly, but... I'm kind of scared to be alone right now."
 msgstr "Siento que alguien me está siguiendo. Sé que suena tonto, pero... Tengo un poco de miedo de estar sola en este momento."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=8
-#. y4:msg_location=T5.P8
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "1332_Tanimura"
 msgid "Damn..."
 msgstr "Maldición..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=9
-#. y4:msg_location=T5.P9
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=6
 msgctxt "1344_Himeka"
 msgid "Besides, I wanna see you again!"
 msgstr "Además, ¡quiero volver a verte!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=10
-#. y4:msg_location=T5.P10
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "1356_Tanimura"
 msgid "Heh. Well, there's nothing wrong with that."
 msgstr "Je. Bueno, no hay nada de malo en eso."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=11
-#. y4:msg_location=T5.P11
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=6
 msgctxt "1368_Himeka"
 msgid "Meet me in front of the Millennium Tower. Sound good?"
 msgstr "Encuéntrame frente a la Torre Millenium. ¿Suena bien?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=12
-#. y4:msg_location=T5.P12
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "1380_Tanimura"
 msgid "Same place as before? Okay. I'll be there soon."
 msgstr "¿El mismo lugar que antes? Bien. Estaré allí pronto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=13
-#. y4:msg_location=T5.P13
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=6
 msgctxt "1392_Himeka"
 msgid "Yay! Don't keep me waiting!"
 msgstr "¡Yay! ¡No me hagas esperar!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=3
-#. y4:msg_location=T6.P3
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=8
 msgctxt "1488_Maya"
 msgid "Hello? This is Maya from Jewel."
 msgstr "¿Hola? Esta es Maya del Jewel."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=4
-#. y4:msg_location=T6.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "1500_Player"
 msgid "Hi. What's up?"
 msgstr "Hola. ¿Qué pasa?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=5
-#. y4:msg_location=T6.P5
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=8
 msgctxt "1512_Maya"
 msgid "I'm free tonight, and I'm hoping you might be, too. Would you like to go out on a date?"
 msgstr "Estoy libre esta noche, y espero que tú también lo estés. ¿Te gustaría tener una cita?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "1524_Player"
 msgid "Sure, sounds good."
 msgstr "Claro, suena bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=7
-#. y4:msg_location=T6.P7
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=8
 msgctxt "1536_Maya"
 msgid "Really!? Great, I'll meet you in Theater Square."
 msgstr "¿¡En serio!? Genial, nos vemos en la Plaza del Teatro."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=8
-#. y4:msg_location=T6.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "1548_Player"
 msgid "Got it."
 msgstr "Entiendo."
@@ -715,68 +334,26 @@ msgctxt "1560_Maya"
 msgid "You better come! <Color:7>♥<Color:Default>"
 msgstr "¡Será mejor que vengas! <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=3
-#. y4:msg_location=T7.P3
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=8
 msgctxt "1656_Maya"
 msgid "Hello? It's me, Maya."
 msgstr "¿Hola? Soy yo, Maya."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "1668_Player"
 msgid "Oh, hey. How's it going?"
 msgstr "Oh, ey. ¿Cómo estás?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=5
-#. y4:msg_location=T7.P5
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=8
 msgctxt "1680_Maya"
 msgid "I wanted to see you... Would you like to spend some time with me today?"
 msgstr "Me gustaría verte... ¿Tienes tiempo para pasar un rato conmigo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "1692_Player"
 msgid "Sure, sounds good."
 msgstr "Claro, suena bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=7
-#. y4:msg_location=T7.P7
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=8
 msgctxt "1704_Maya"
 msgid "Yay! Shall we meet in Theater Square again?"
 msgstr "¡Yupi! ¿Nos volvemos a ver en la Plaza del Teatro?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=8
-#. y4:msg_location=T7.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "1716_Player"
 msgid "All right."
 msgstr "Está bien."
@@ -785,145 +362,54 @@ msgctxt "1728_Maya"
 msgid "It's a date, then. I'll see you soon! You better come! <Color:7>♥<Color:Default>"
 msgstr "Es una cita, entonces. ¡Te veré pronto! ¡Será mejor que vengas! <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=3
-#. y4:msg_location=T8.P3
-#. y4:msg_speaker=Noa
-#. y4:msg_speaker_id=9
 msgctxt "1824_Noa"
 msgid "Hello? This is Noa from Jewel."
 msgstr "¿Hola? Habla Noa del Jewel."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=4
-#. y4:msg_location=T8.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "1836_Player"
 msgid "Oh, hi, Noa. What's up?"
 msgstr "Ah, hola, Noa-chan. ¿Qué cuentas?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=5
-#. y4:msg_location=T8.P5
-#. y4:msg_speaker=Noa
-#. y4:msg_speaker_id=9
 msgctxt "1848_Noa"
 msgid "Um... I was thinking... Would you like to meet up today?"
 msgstr "Esto... si no te molesta... ¿te gustaría salir en un rato?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "1860_Player"
 msgid "Sure."
 msgstr "Oh, me encantaría."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=7
-#. y4:msg_location=T8.P7
-#. y4:msg_speaker=Noa
-#. y4:msg_speaker_id=9
 msgctxt "1872_Noa"
 msgid "Can we meet up in Theater Square?"
 msgstr "¿Podemos encontrarnos en la Plaza del teatro?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=8
-#. y4:msg_location=T8.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "1884_Player"
 msgid "Theater Square. Got it."
 msgstr "Plaza del teatro. Lo tengo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=9
-#. y4:msg_location=T8.P9
-#. y4:msg_speaker=Noa
-#. y4:msg_speaker_id=9
 msgctxt "1896_Noa"
 msgid "I'll be waiting for you! Don't take too long."
 msgstr "¡Te estaré esperando! ♪ No tardes. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=3
-#. y4:msg_location=T9.P3
-#. y4:msg_speaker=Noa
-#. y4:msg_speaker_id=9
 msgctxt "1992_Noa"
 msgid "Hello? This is Noa."
 msgstr "¿Hola? Esta es Noa."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=4
-#. y4:msg_location=T8.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2004_Player"
 msgid "Oh, hi, Noa. What's up?"
 msgstr "Ah, hola, Noa-chan. ¿Qué cuentas?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=5
-#. y4:msg_location=T9.P5
-#. y4:msg_speaker=Noa
-#. y4:msg_speaker_id=9
 msgctxt "2016_Noa"
 msgid "I've been thinking about you. Do you have some time today to hang out?"
 msgstr "He estado pensando en ti. ¿Tienes algo de tiempo hoy para pasar el rato?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=6
-#. y4:msg_location=T9.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2028_Player"
 msgid "Sure. Sounds good."
 msgstr "Claro. Suena bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=7
-#. y4:msg_location=T9.P7
-#. y4:msg_speaker=Noa
-#. y4:msg_speaker_id=9
 msgctxt "2040_Noa"
 msgid "Okay. How about we meet in Theater Square, like we did before?"
 msgstr "Bien. ¿Qué tal si nos encontramos en la Plaza del Teatro, como hicimos antes?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=8
-#. y4:msg_location=T9.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2052_Player"
 msgid "Theater Square. I'll be there."
 msgstr "Plaza del Teatro. Allí estaré."
@@ -932,387 +418,142 @@ msgctxt "2064_Noa"
 msgid "Thanks! I'm looking forward to seeing you. <Color:7>♥<Color:Default>"
 msgstr "¡Gracias! Estoy deseando verte. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=3
-#. y4:msg_location=T10.P3
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=10
 msgctxt "2160_Erena"
 msgid "Hello? It's me, Erena."
 msgstr "¿Hola? Soy yo, Erena."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=4
-#. y4:msg_location=T10.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2172_Player"
 msgid "Oh, hi, Erena. What's up?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=5
-#. y4:msg_location=T10.P5
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=10
 msgctxt "2184_Erena"
 msgid "Wanna go out on a date with me today?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2196_Player"
 msgid "Sure."
 msgstr "Claro."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=7
-#. y4:msg_location=T10.P7
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=10
 msgctxt "2208_Erena"
 msgid "Okay. I'll meet you in Theater Square."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=8
-#. y4:msg_location=T10.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2220_Player"
 msgid "Sounds good, I'll see you there."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=9
-#. y4:msg_location=T10.P9
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=10
 msgctxt "2232_Erena"
 msgid "See you there. Don't forget about me!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=3
-#. y4:msg_location=T11.P3
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=10
 msgctxt "2328_Erena"
 msgid "Hello? This is Erena from Jewel."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=4
-#. y4:msg_location=T10.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2340_Player"
 msgid "Oh, hi, Erena. What's up?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=5
-#. y4:msg_location=T11.P5
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=10
 msgctxt "2352_Erena"
 msgid "I'm sooo bored. Wanna change that by going out with me today?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=6
-#. y4:msg_location=T11.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2364_Player"
 msgid "Hmm... Sure, I'd love to."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=7
-#. y4:msg_location=T11.P7
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=10
 msgctxt "2376_Erena"
 msgid "Great! Wanna meet in Theater Square, like last time?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=8
-#. y4:msg_location=T8.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2388_Player"
 msgid "Theater Square. Got it."
 msgstr "Plaza del teatro. Lo tengo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=9
-#. y4:msg_location=T11.P9
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=10
 msgctxt "2400_Erena"
 msgid "Heh, you better show up! I'll be waiting."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=3
-#. y4:msg_location=T12.P3
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=11
 msgctxt "2496_Chihiro"
 msgid "Hello? This is Chihiro from Jewel."
 msgstr "¿Hola? Le habla Chihiro del Jewel."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=4
-#. y4:msg_location=T12.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2508_Player"
 msgid "Oh, hi. What's up?"
 msgstr "Ah, hola. ¿Qué tal?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=5
-#. y4:msg_location=T12.P5
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=11
 msgctxt "2520_Chihiro"
 msgid "I don't have any classes tomorrow, so I'm free right now. Do you wanna go out with me?"
 msgstr "No tengo ninguna clase mañana, así que ahora estoy libre. ¿Quiere salir conmigo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=6
-#. y4:msg_location=T4.P6
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "2532_Player"
 msgid "You mean on a date?"
 msgstr "¿Te refieres a una cita?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=7
-#. y4:msg_location=T12.P7
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=11
 msgctxt "2544_Chihiro"
 msgid "Yes! You'll go out with me, right?"
 msgstr "¡Sí! Saldrá conmigo, ¿cierto?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=8
-#. y4:msg_location=T12.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2556_Player"
 msgid "Hey, I never said yes."
 msgstr "Oye, nunca dije que sí."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=9
-#. y4:msg_location=T12.P9
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=11
 msgctxt "2568_Chihiro"
 msgid "Luckily, you don't have to! I'll meet you in Theater Square, okay?"
 msgstr "Por suerte, no tiene porque. ¿Lo veré en la Plaza del Teatro, está bien?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=10
-#. y4:msg_location=T12.P10
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2580_Player"
 msgid "Theater Square. Okay."
 msgstr "Plaza del Teatro. Estaré ahí."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=11
-#. y4:msg_location=T12.P11
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=11
 msgctxt "2592_Chihiro"
 msgid "I'm leaving right now, so don't take too long!"
 msgstr "Estoy yendo ahora mismo, ¡así que no tardes mucho!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=3
-#. y4:msg_location=T13.P3
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=11
 msgctxt "2688_Chihiro"
 msgid "Hello? It's me, Chihiro."
 msgstr "¿Hola? Soy Chihiro."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2700_Player"
 msgid "Oh, hey. How's it going?"
 msgstr "Ah, hola. ¿Cómo estás?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=5
-#. y4:msg_location=T13.P5
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=11
 msgctxt "2712_Chihiro"
 msgid "So I was thinking... would you like to come hang out with me before work?"
 msgstr "Estaba pensando si..., ¿Le gustaría pasar el rato conmigo antes de ir al trabajo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=6
-#. y4:msg_location=T11.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2724_Player"
 msgid "Hmm... Sure, I'd love to."
 msgstr "Mmm... Sí, claro. Me encantaría."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=7
-#. y4:msg_location=T13.P7
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=11
 msgctxt "2736_Chihiro"
 msgid "I just had to see you... I'm all excited now."
 msgstr "Solo quería verte..., ahora estoy emocionada."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=8
-#. y4:msg_location=T13.P8
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=11
 msgctxt "2748_Chihiro"
 msgid "I'll wait for you in Theater Square."
 msgstr "Lo esperaré en la Plaza del Teatro."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=8
-#. y4:msg_location=T8.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2760_Player"
 msgid "Theater Square. Got it."
 msgstr "¿Plaza del Teatro? Está bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=10
-#. y4:msg_location=T13.P10
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=11
 msgctxt "2772_Chihiro"
 msgid "Great! Don't be late, promise?"
 msgstr "¡Genial! No tarde, ¿sí?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=4
-#. y4:msg_location=T14.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=12
 msgctxt "2880_峰村七海：源氏名"
 msgid "Hello? This is %s from Elise."
 msgstr "¿Hola? Le habla %s del club Elise."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=4
-#. y4:msg_location=T12.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2892_Player"
 msgid "Oh, hi. What's up?"
 msgstr "Ah, hola. ¿Qué tal?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=6
-#. y4:msg_location=T14.P6
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=12
 msgctxt "2904_峰村七海：源氏名"
 msgid "I was just wondering if you'd like to hang out with me right now?"
 msgstr "Me preguntaba si le gustaría salir conmigo ahora mismo. ¿Qué le parece?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "2916_Player"
 msgid "Sure, sounds good."
 msgstr "Claro, suena bien."
@@ -1329,57 +570,22 @@ msgctxt "2952_峰村七海：源氏名"
 msgid "I'll be waiting. <Color:7>♥<Color:Default>"
 msgstr "Lo estaré esperando. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=4
-#. y4:msg_location=T15.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=12
 msgctxt "3060_峰村七海：源氏名"
 msgid "Hello? It's me, %s."
 msgstr "¿Hola? Soy yo, %s."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=4
-#. y4:msg_location=T12.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "3072_Player"
 msgid "Oh, hi. What's up?"
 msgstr "Ah, hola. ¿Qué tal?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=6
-#. y4:msg_location=T15.P6
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=12
 msgctxt "3084_峰村七海：源氏名"
 msgid "Would you like to hang out before I go to the club?"
 msgstr "¿Le gustaría salir por ahí un rato antes que me vaya al club?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=6
-#. y4:msg_location=T4.P6
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "3096_Player"
 msgid "You mean on a date?"
 msgstr "¿Te refieres a una cita?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=8
-#. y4:msg_location=T15.P8
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=12
 msgctxt "3108_峰村七海：源氏名"
 msgid "Yup!"
 msgstr "¡Sí!"
@@ -1392,57 +598,22 @@ msgctxt "3132_Player"
 msgid "Café Alps on Nakamichi Street. Got it."
 msgstr "Café Alps de la calle Nakamichi. Entendido."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=13
-#. y4:msg_location=T5.P13
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=6
 msgctxt "3144_峰村七海：源氏名"
 msgid "Yay! Don't keep me waiting!"
 msgstr "¡Genial! ¡No me haga esperar!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=4
-#. y4:msg_location=T14.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=12
 msgctxt "3252_松岡里緒奈：源氏名"
 msgid "Hello? This is %s from Elise."
 msgstr "¿Hola? Soy %s de Elise."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "3264_Player"
 msgid "Oh, hey. How's it going?"
 msgstr "Oh, ey. ¿Cómo estás?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=16
-#. y4:msg_phrase=6
-#. y4:msg_location=T16.P6
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=13
 msgctxt "3276_松岡里緒奈：源氏名"
 msgid "I'm kinda bored... Wanna hang out?"
 msgstr "Estoy algo aburrida... ¿Quieres salir?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=8
-#. y4:msg_location=T7.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "3288_Player"
 msgid "All right."
 msgstr "Está bien."
@@ -1455,57 +626,22 @@ msgctxt "3312_Player"
 msgid "Café Alps on Nakamichi Street. I'll be there."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=16
-#. y4:msg_phrase=10
-#. y4:msg_location=T16.P10
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=13
 msgctxt "3324_松岡里緒奈：源氏名"
 msgid "Great. I'll be waiting! Bye."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=4
-#. y4:msg_location=T15.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=12
 msgctxt "3432_松岡里緒奈：源氏名"
 msgid "Hello? It's me, %s."
 msgstr "¿Hola? Soy yo, %s."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "3444_Player"
 msgid "Oh, hey. How's it going?"
 msgstr "Oh, ey. ¿Cómo estás?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=6
-#. y4:msg_location=T17.P6
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=13
 msgctxt "3456_松岡里緒奈：源氏名"
 msgid "Are you coming to the club today? Maybe we could meet up beforehand, hang out a little bit?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=8
-#. y4:msg_location=T7.P8
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "3468_Player"
 msgid "All right."
 msgstr "Está bien."
@@ -1518,57 +654,22 @@ msgctxt "3492_Player"
 msgid "Café Alps on Nakamichi Street. Got it."
 msgstr "Café Alps de la calle Nakamichi. Entendido."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=10
-#. y4:msg_location=T17.P10
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=13
 msgctxt "3504_松岡里緒奈：源氏名"
 msgid "I haven't gone on a date like this for a while, hehe. I'll see you then!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=4
-#. y4:msg_location=T14.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=12
 msgctxt "3612_望月京子：源氏名"
 msgid "Hello? This is %s from Elise."
 msgstr "¿Hola? Le habla %s del club Elise."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "3624_Player"
 msgid "Oh, hey. How's it going?"
 msgstr "Oh, ey. ¿Cómo estás?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=6
-#. y4:msg_location=T18.P6
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=14
 msgctxt "3636_望月京子：源氏名"
 msgid "I was wondering... Do you want to go on a date with me today?"
 msgstr "Te queria preguntar... ¿Quieres tener una cita?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "3648_Player"
 msgid "Sure, sounds good."
 msgstr "Claro, suena bien."
@@ -1581,57 +682,22 @@ msgctxt "3672_Player"
 msgid "Café Alps on Nakamichi Street. Got it."
 msgstr "Café Alps en la calle Nakamichi. Lo tengo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=10
-#. y4:msg_location=T18.P10
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=14
 msgctxt "3684_望月京子：源氏名"
 msgid "Don't be late!"
 msgstr "¡No llegues tarde! ♡"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=4
-#. y4:msg_location=T15.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=12
 msgctxt "3792_望月京子：源氏名"
 msgid "Hello? It's me, %s."
 msgstr "¿Hola? Soy yo, %s."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "3804_Player"
 msgid "Oh, hey. How's it going?"
 msgstr "Oh, ey. ¿Cómo estás?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=19
-#. y4:msg_phrase=6
-#. y4:msg_location=T19.P6
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=14
 msgctxt "3816_望月京子：源氏名"
 msgid "Are you going to the club today? If you are, perhaps we could go on a date first?"
 msgstr "¿Vienes hoy al club? Si es así, ¿Podríamos tener nuestra cita primero?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "3828_Player"
 msgid "Sure, sounds good."
 msgstr "Claro, suena bien."

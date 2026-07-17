@@ -24,237 +24,106 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KOKYO.bin
 #. y4:runtime_play_command=y4.play_msg 00E600C3 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "11816"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "11820"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "11824"
 msgid "Filipino Girl"
 msgstr "Chica Filipina"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "11828"
 msgid "Fay"
 msgstr "Fay"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "11832"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "11836"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "11840"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "11844"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
+#. y4:msg_role=name
+#. y4:msg_name_id=8
 msgctxt "11848"
 msgid "Zhao"
 msgstr "Zhao"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "11852"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "11856"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "188_Tanimura"
 msgid "Are you the person who needed some kind of favor?"
 msgstr "¿Eres tú? ¿La persona que dijo que tenía algo que hablar conmigo?"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Filipino Girl
-#. y4:msg_speaker_id=2
 msgctxt "200_Filipino Girl"
 msgid "Oh, you're... Tanimura-san, yes? My friend talks about you. She says you're very... kind."
 msgstr "Tanimura-san, ¿verdad? Escuché sobre ti por una amiga y vine a conocerte. Es una persona muy buena, eso fue lo que ella dijo."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "212_Tanimura"
 msgid "Wonder who that is... Anyway, tell me about yourself."
 msgstr "¿Y tú quién eres?"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
 msgctxt "224_Fay"
 msgid "I'm Fay, and... I'm a hostess here in Kamurocho."
 msgstr "Yo soy Fay. Trabajo en un club de hostesses en Kamurocho."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "236_Tanimura"
 msgid "Okay... And what is it you want?"
 msgstr "Entonces, ¿cuál es el problema?"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
 msgctxt "248_Fay"
 msgid "I want you to... be my boyfriend!"
 msgstr "¡Por favor! ¡¡Sé mi novio!!"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
 msgctxt "260_Fay"
 msgid "I'll do anything for you! Anything! So please, be my boyfriend!"
 msgstr "¡Puedo hacer cualquier cosa! ¡¡Por favor, Sea mi novio!!"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "272_Tanimura"
 msgid "Whoa, slow down there! What's all this boyfriend stuff about? You don't even know me."
 msgstr "¡¡Eh...!! ¿Qué estás diciendo de repente?\n"
 "\n"
 "Primero, explícame la razón."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
 msgctxt "284_Fay"
 msgid "Does that mean... you won't be my boyfriend?"
 msgstr "Eh, um... ¿No seras mi novio?"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "296_Tanimura"
 msgid "I don't know why you thought I would. Is there some kind of reason you're looking for a boyfriend so bad?"
 msgstr "No sé por qué pensaste que lo haría. ¿Hay alguna razón por la que busques un novio con tanta urgencia?"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
 msgctxt "308_Fay"
 msgid "Well, if... If you were my boyfriend, I thought maybe you could... save me."
 msgstr "Eh... esto... Por favor, sea en mi novio, necesito tu ayuda."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "320_Tanimura"
 msgid "Save you? From what? Is somebody after you?"
 msgstr "¿Salvarte? ¿De qué? ¿Hay alguien que te persigue?"
@@ -265,28 +134,10 @@ msgid "There... was a man I was dating... who did some terrible\\r\n"
 msgstr "Sí... había un hombre con el que salía. Ese hombre...\\r\n"
 "hizo cosas malas y terminó en prisión."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
 msgctxt "344_Fay"
 msgid "But now he's back in Kamurocho, and the first thing he did was find me."
 msgstr "Pero ese hombre... regresó a Kamurocho y vino a buscarme..."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
 msgctxt "356_Fay"
 msgid "He took all my money... which I need to send back home to the Philippines. I thought I'd never see him again, but he forced his way back into my life..."
 msgstr "Me robó mi dinero. El dinero que envío a Filipinas... Quiero separarme de ese hombre."
@@ -303,45 +154,17 @@ msgstr "Entiendo... Quieres terminar con tu novio mantenido,\\r\n"
 "así que deseas que yo finja ser tu novio y hable de\\r\n"
 "la ruptura, ¿verdad?"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=17
-#. y4:msg_location=T1.P17
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
 msgctxt "392_Fay"
 msgid "Yes. I'd like you to talk to him and make him leave me alone."
 msgstr "Así es. Quiero que le hables de la ruptura."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=18
-#. y4:msg_location=T1.P18
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Yeah, ask somebody else. -> T1.P30 | 2. Fine, I'll do it. -> T1.P19
 msgctxt "404_Fay"
 msgid "Please, just this once! Won't you be my boyfriend?"
 msgstr "Tanimura-san, ¡por favor! ¡¡Sea en mi novio!!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=19
-#. y4:msg_location=T1.P19
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Fine, I'll do it.
 msgctxt "416_Tanimura"
 msgid "Fine, I'll do it. Though I'm not quite sure how you want this to work."
 msgstr "Está bien, seré tu novio. Entonces... ¿qué se supone que debemos hacer?"
@@ -352,32 +175,10 @@ msgid "Thank you! You have no idea how much this means to me...\\r\n"
 msgstr "¡Gracias! ¡¡Muchas gracias, Tanimura-san!!\\r\n"
 "Entonces..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=21
-#. y4:msg_location=T1.P21
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Fine, I'll do it.
 msgctxt "440_Fay"
 msgid "First, I need to call my ex-boyfriend and invite him to Shellac. You and I will be waiting there."
 msgstr "Llamaré al hombre... así que, ven a \"Shellac\". Estaré esperando."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=22
-#. y4:msg_location=T1.P22
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Fine, I'll do it.
 msgctxt "452_Tanimura"
 msgid "Shellac... That's in the Champion District. Okay, got it."
 msgstr "El \"Shellac\" en el Distrito Champion, ¿verdad? Entendido.\n"
@@ -388,32 +189,10 @@ msgstr "El \"Shellac\" en el Distrito Champion, ¿verdad? Entendido.\n"
 "\n"
 "\n"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=23
-#. y4:msg_location=T1.P23
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Fine, I'll do it.
 msgctxt "464_Fay"
 msgid "Ah, that's such a relief. I'll meet you there, okay? Please don't forget to show up."
 msgstr "Entonces, iré primero. ¡Asegúrate de venir, Tanimura-san!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=28
-#. y4:msg_location=T1.P28
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Fine, I'll do it.
 msgctxt "524_Tanimura"
 msgid "Well, guess I'd better get on over to Shellac. This should be fun."
 msgstr "Bueno... Entonces, yo también me dirigiré a \"Shellac\"."
@@ -424,17 +203,6 @@ msgid "Yeah, you need to ask somebody else. Breaking up with bad\\r\n"
 msgstr "Lo siento, pide ayuda a otra persona. Hablar de rupturas no\\r\n"
 "es parte del trabajo de la policía."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=31
-#. y4:msg_location=T1.P31
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Yeah, ask somebody else.
 msgctxt "560_Fay"
 msgid "But... you're the only person I can ask."
 msgstr "No hay nadie más a quien pueda pedir ayuda que no sea Tanimura-san..."
@@ -450,17 +218,6 @@ msgid "I'm flattered, but I'm not the guy for the job. But you know\\r\n"
 msgstr "Si solo necesitas a alguien que haga el papel de novio, no necesariamente\\r\n"
 "tengo que ser yo. ¿Qué tal Zhao-san el de allí?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=34
-#. y4:msg_location=T1.P34
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Yeah, ask somebody else.
 msgctxt "596_Zhao"
 msgid "Hm? You guys need something?"
 msgstr "¿Mmm...?\n"
@@ -471,107 +228,33 @@ msgstr "¿Mmm...?\n"
 "\n"
 "\n"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=35
-#. y4:msg_location=T1.P35
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Yeah, ask somebody else.
 msgctxt "608_Fay"
 msgid "You mean... him? Will... anyone really believe we're dating?"
 msgstr "Es imposible... el no puede ser a mi novio."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=36
-#. y4:msg_location=T1.P36
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Yeah, ask somebody else.
 msgctxt "620_Tanimura"
 msgid "...Yeah, maybe not."
 msgstr "Ya veo..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=37
-#. y4:msg_location=T1.P37
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Yeah, ask somebody else.
 msgctxt "632_Fay"
 msgid "See? You're my only hope, Tanimura-san... All I can do now is wait for you to change your mind."
 msgstr "No hay nadie más que Tanimura-san. Estare esperando... Por favor, ayúdeme."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=38
-#. y4:msg_location=T1.P38
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Yeah, ask somebody else.
 msgctxt "644_Tanimura"
 msgid "I'll at least mull it over in my head. For now, I've got actual police work to do. Kinda."
 msgstr "Si me animo. Bueno, también tengo trabajo que hacer."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=39
-#. y4:msg_location=T1.P39
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Yeah, ask somebody else.
 msgctxt "656_Fay"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Fine, I'll do it. -> T2.P1 | 2. Sorry, ask someone else. -> T2.P12
 msgctxt "716_Fay"
 msgid "Save me, Tanimura-san... Please be my boyfriend, just for today."
 msgstr "Tanimura-san, sea en mi novio y ayúdeme..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=19
-#. y4:msg_location=T1.P19
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Fine, I'll do it.
 msgctxt "728_Tanimura"
 msgid "Fine, I'll do it. Though I'm not quite sure how you want this to work."
 msgstr "Está bien, seré tu novio. Entonces... ¿qué se supone que debemos hacer?"
@@ -582,32 +265,10 @@ msgid "Thank you! You have no idea how much this means to me...\\r\n"
 msgstr "¡Gracias! ¡¡Muchas gracias, Tanimura-san!!\\r\n"
 "Entonces..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=21
-#. y4:msg_location=T1.P21
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Fine, I'll do it.
 msgctxt "752_Fay"
 msgid "First, I need to call my ex-boyfriend and invite him to Shellac. You and I will be waiting there."
 msgstr "Llamaré al hombre... así que, ven a \"Shellac\". Estaré esperando."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=22
-#. y4:msg_location=T1.P22
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Fine, I'll do it.
 msgctxt "764_Tanimura"
 msgid "Shellac... That's in the Champion District. Okay, got it."
 msgstr "El \"Shellac\" en el Distrito Champion, ¿verdad? Entendido.\n"
@@ -618,130 +279,58 @@ msgstr "El \"Shellac\" en el Distrito Champion, ¿verdad? Entendido.\n"
 "\n"
 "\n"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=23
-#. y4:msg_location=T1.P23
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Fine, I'll do it.
 msgctxt "776_Fay"
 msgid "Ah, that's such a relief. I'll meet you there, okay? Please don't forget to show up."
 msgstr "Entonces, iré primero. ¡Asegúrate de venir, Tanimura-san!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=28
-#. y4:msg_location=T1.P28
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Fine, I'll do it.
 msgctxt "836_Tanimura"
 msgid "Well, guess I'd better get on over to Shellac. This should be fun."
 msgstr "Bueno... Entonces, yo también me dirigiré a \"Shellac\"."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=2
-#. y4:msg_phrase=12
-#. y4:msg_location=T2.P12
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Sorry, ask someone else.
 msgctxt "860_Tanimura"
 msgid "Maybe when I have time. For now, I suggest you ask someone else."
 msgstr "Está bien, seré tu novio. Entonces... ¿qué se supone que debemos hacer?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=39
-#. y4:msg_location=T1.P39
-#. y4:msg_speaker=Fay
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Yeah, ask somebody else.
 msgctxt "872_Fay"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P30
-#. y4:msg_branch_segment=T1.P30..P43
-#. y4:msg_branch_target_text=Yeah, you need to ask somebody else. Breaking up with bad\nboyfriends is not what I signed up for.
-#. y4:msg_branch_raw=01 11 00 1e 00 00 00 18 00 00 00 00 00 00 00 00
 msgctxt "896_Tanimura"
 msgid "Yeah, ask somebody else."
 msgstr "Lo siento, por favor, pida ayuda a otra persona."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P19
-#. y4:msg_branch_segment=T1.P19..P29
-#. y4:msg_branch_target_text=Fine, I'll do it. Though I'm not quite sure how you want this to work.
-#. y4:msg_branch_raw=01 11 00 13 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "908_Tanimura"
 msgid "Fine, I'll do it."
 msgstr "Entendido, seré tu novio."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_choice_index=2
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
+#. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P19
-#. y4:msg_branch_segment=T1.P19..P29
-#. y4:msg_branch_target_text=Fine, I'll do it. Though I'm not quite sure how you want this to work.
-#. y4:msg_branch_raw=01 11 00 13 00 00 00 11 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T2.P1
 msgctxt "920_Tanimura"
 msgid "Fine, I'll do it."
 msgstr "Entendido, seré tu novio."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P12
-#. y4:msg_branch_segment=T2.P12..P14
-#. y4:msg_branch_target_text=Maybe when I have time. For now, I suggest you ask someone else.
-#. y4:msg_branch_raw=01 11 00 0c 00 00 00 18 00 00 00 00 00 00 00 00
 msgctxt "932_Tanimura"
 msgid "Sorry, ask someone else."
 msgstr "Lo siento, pregúntale a otro."

@@ -17,176 +17,98 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00EE05B5 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
 msgctxt "92"
 msgid "You got a <Color:8>Kamiyama Weapon Catalog<Color:Default>."
 msgstr "Has obtenido un <Color:8>catálogo de armas de Kamiyama<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3220"
 msgid "Kamiyama"
 msgstr "Kamiyama"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "3224"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "3228"
 msgid "Player"
 msgstr "Player"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "3232"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "3236"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "3240"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "3244"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "3248"
 msgid "Kamiyama Works"
 msgstr "Kamiyama Works"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "3252"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "3256"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "56_Kamiyama"
 msgid "Hey, you... You really laid it on those guys back there. I can tell you're on the side of justice."
 msgstr "Oye... Sí que le diste una buena a esos tipos allá atrás. Te digo que estás del lado de la justicia."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "68_Player"
 msgid "Oh yeah? I appreciate the compliment, but I'm actually kinda in a hurry here."
 msgstr "¿En serio? Te lo agradezco.\nLo siento, pero estoy un poco apurado..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "80_Kamiyama"
 msgid "Oh, wait! Uh, here... Take this, please! Take a look at it when you have the time!"
 msgstr "¡Oh, espera! Por favor, toma esto.\nSi tienes tiempo, échale un vistazo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "116_Player"
 msgid "A weapon catalog? What're you trying to imply here?"
 msgstr "¿Un catálogo de armas? ¿Insinúas algo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "128_Kamiyama"
 msgid "Oh, nothing at all! Promise! I just thought you might be interested in my... choice wares. They'd be sure to help you out in a pinch, so stop by my shop if you're interested."
 msgstr "¡Oh, nada de nada! ¡Te lo prometo! Solo pensé que podrías estar interesado en mis... productos. Seguro que te sacaran de cualquier apuro, así que pásate por mi tienda si te interesa."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "140_Kamiyama"
 msgid "You know that back alley up in the northeast part of the city? That's where I'm shacked up. It's a bit of a maze back there... so sorry in advance."
 msgstr "La tienda está en el noreste de Kamurocho,\nen una zona un poco complicada. Puedes venir más tarde."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "152_Kamiyama"
 msgid "Anyway, see you later. Hope you stop by soon!"
 msgstr "En fin, hasta luego.\n¡Espero que te pases pronto!"
@@ -198,49 +120,21 @@ msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nR
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "176_Kamiyama"
 msgid "Want to come by my shop now? I'll show you how to get there."
 msgstr "¿Te gustaría venir a la tienda ahora?\nPuedo llevarte."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "188_Player"
 msgid "Huh? Oh, no, uh..."
 msgstr "¿Eh? No, gracias..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "200_Kamiyama"
 msgid "It's this way. It's very close by!"
 msgstr "Está por aquí. Muy cerca."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "212_Player"
 msgid "(Here we go, I guess...)"
 msgstr "(Aquí vamos, creo...)."

@@ -18,79 +18,45 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
 msgctxt "140"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2072"
 msgid "Man With a Past"
 msgstr "Hombre con pasado turbio"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2076"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2080"
 msgid "Police Patrols"
 msgstr "Patrullas policiales"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2084"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Man With a Past
-#. y4:msg_speaker_id=0
 msgctxt "56_Man With a Past"
 msgid "Hey, don't start doing anything shady, okay? Cops are everywhere, and I can't have them thinkin' I've got anything to do with you!"
 msgstr "Oye, no hagas nada sospechoso cerca de mí. ¡Vas a llamar la atención de los policías!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Police Patrols
-#. y4:msg_speaker_id=2
 msgctxt "68_Man With a Past"
 msgid "The police in Kamurocho are on high alert. They have sent many of their officers out on patrol around the town to make sure they catch anyone acting suspicious."
 msgstr "La policía de Kamurocho está en alerta máxima. Mandaron a muchos de sus agentes a patrullar para asegurarse de atrapar a cualquiera que actúe de forma sospechosa."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Police Patrols
-#. y4:msg_speaker_id=2
 msgctxt "80_Man With a Past"
 msgid "There are two types of officers: some stand guard in place and watch their surroundings, while others follow a patrol and approach shady individuals to question them."
 msgstr "Hay dos tipos de policías: unos que hacen guardia en un lugar y vigilan el entorno, y otros que recorren una ruta acercándose a personas sospechosas para interrogarlas."
@@ -107,13 +73,6 @@ msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nR
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Man With a Past
-#. y4:msg_speaker_id=0
 msgctxt "116_Man With a Past"
 msgid "Be careful out there."
 msgstr "Ten cuidado, amigo."

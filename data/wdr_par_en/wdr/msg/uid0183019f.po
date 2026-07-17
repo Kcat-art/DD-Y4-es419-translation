@@ -24,38 +24,22 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAWARA_UN.bin
 #. y4:runtime_play_command=y4.play_msg 0183019F <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "664"
 msgid "Haruka"
 msgstr "Haruka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "668"
 msgid "HAL_stand_tlk_happy_small"
 msgstr "HAL_stand_tlk_happy_small"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=0
 msgctxt "228_Haruka"
 msgid "Uncle Kaz! Play poker!"
 msgstr "¡Tío Kaz! ¡Juega al póker!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=0
 msgctxt "252_Haruka"
 msgid "Uncle Kaz! Play poker!"
 msgstr "¡Tío Kaz! ¡Juega al póker!"

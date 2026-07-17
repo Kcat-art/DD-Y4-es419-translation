@@ -24,31 +24,18 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01910943 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "444"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "112_Kiryu"
 msgid "(Huh? Is this some kind of an invitation from the Dark Clan?)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "124_Kiryu"
 msgid "(Looks like I've got no choice but to go to the underground parking lot and find out.)"
 msgstr "(Parece que no me queda otra que ir al estacionamiento subterráneo a averiguarlo)."

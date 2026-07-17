@@ -16,194 +16,96 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00EE01A8 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2096"
 msgid "Food Distributor"
 msgstr "Distribuidor de Alimentos"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "2100"
 msgid "Player"
 msgstr "Jugador"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "2104"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2108"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "2112"
 msgid "Talk_Info_L"
 msgstr "Talk_Info_L"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "2116"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Food Distributor
-#. y4:msg_speaker_id=0
 msgctxt "72_Food Distributor"
 msgid "Hey, man, lookin' for something to eat?"
 msgstr "Ey, amigo, ¿buscas algo pa' comer?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Food Distributor
-#. y4:msg_speaker_id=0
 msgctxt "84_Food Distributor"
 msgid "Wait, you don't have any points."
 msgstr "Espera, No tienes puntos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
 msgctxt "96_Player"
 msgid "Points? Don't you guys take money?"
 msgstr "¿Puntos? ¿No aceptan dinero normal?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Food Distributor
-#. y4:msg_speaker_id=0
 msgctxt "108_Food Distributor"
 msgid "Nope. We only take special points you use down here in the underground."
 msgstr "Nop. Solo aceptamos puntos especiales que se usan aquí abajo, en el subterráneo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Food Distributor
-#. y4:msg_speaker_id=0
 msgctxt "120_Food Distributor"
 msgid "If you wanna learn more about 'em, go ask the guy at the top of the stairs over there."
 msgstr "Si te interesa saber más, ve a preguntarle al tipo que está subiendo las escaleras."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Food Distributor
-#. y4:msg_speaker_id=0
 msgctxt "132_Food Distributor"
 msgid "Hey, man, lookin' for something to eat? It's not as nice as the stuff you might get up above, but it's better than nothing."
 msgstr "¿Ey, amigo, buscas algo pa' comer? No es tan bueno como lo de arriba, pero peor es nada."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Food Distributor
-#. y4:msg_speaker_id=0
 msgctxt "156_Food Distributor"
 msgid "Thanks for coming! Stop by any time."
 msgstr "¡Gracias por venir! Pasa cuando quieras."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
 msgctxt "168_Food Distributor"
 msgid "(No point eating now. I'm not even hungry.)"
 msgstr "(No tiene sentido comer ahora. Ni siquiera tengo hambre)."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
 msgctxt "180_Player"
 msgid "Sorry, I'm not hungry."
 msgstr "No tengo hambre, gracias."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Food Distributor
-#. y4:msg_speaker_id=0
 msgctxt "192_Food Distributor"
 msgid "No worries. Come by when you are."
 msgstr "No pasa nada. Pásate por aquí cuando quieras."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
 msgctxt "204_Player"
 msgid "Sorry, something just came up."
 msgstr "Discúlpe, me surgió un imprevisto."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Food Distributor
-#. y4:msg_speaker_id=0
 msgctxt "216_Food Distributor"
 msgid "No worries. Come by anytime."
 msgstr "No te preocupes. Pásate cuando quieras."

@@ -24,20 +24,14 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_ROOF01.bin
 #. y4:runtime_play_command=y4.play_msg 01910422 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "820"
 msgid "Unleashing Heat Actions"
 msgstr "Desencadenar acciones heat"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Unleashing Heat Actions
-#. y4:msg_speaker_id=0
 msgctxt "56_Unleashing Heat Actions"
 msgid "When you are in danger of being caught, the <Sign:35> icon will sometimes appear in the upper right corner of the screen. Press <Action:Button_Triangle@Chase> in time to stop and fight off the pursuer with a Heat Action."
 msgstr "Cuando estés a punto de ser atrapado, el ícono <Sign:35> aparecerá a veces en la esquina derecha de la pantalla. Presiona <Action:Button_Triangle@Chase> a tiempo para detenerte y combatir al perseguidor con una acción heat."

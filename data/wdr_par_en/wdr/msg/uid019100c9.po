@@ -24,23 +24,18 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_ROOF01.bin
 #. y4:runtime_play_command=y4.play_msg 019100C9 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1112"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1116"
 msgid "15_35_SLOWER_VF_ON"
 msgstr "15_35_SLOWER_VF_ON"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1120"
 msgid "SetP_sync_chase_hold_lp"
 msgstr "SetP_sync_chase_hold_lp"
@@ -49,74 +44,34 @@ msgctxt "1124"
 msgid "Player_BACK��_2.5_ON"
 msgstr "Player_BACK��_2.5_ON"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "1128"
 msgid "P_damage"
 msgstr "P_damage"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "1132"
 msgid "Player_AORI_0.8_ON"
 msgstr "Player_AORI_0.8_ON"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "1136"
 msgid "10_-15_SLOWER_VF_ON"
 msgstr "10_-15_SLOWER_VF_ON"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "1140"
 msgid "Idle"
 msgstr "Idle"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "72_Player"
 msgid "*pant* *pant*"
 msgstr "*jadeo* *jadeo*"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "84_Player"
 msgid "Damn...! I couldn't get away..."
 msgstr "¡Maldición...! No pude escapar..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "132_Player"
 msgid "*pant* *pant*"
 msgstr "*jadeo* *jadeo*"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "144_Player"
 msgid "No good... I can't run anymore..."
 msgstr "No puede ser... Ya no tengo fuerzas para correr..."

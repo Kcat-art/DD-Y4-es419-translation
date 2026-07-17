@@ -24,567 +24,330 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_SERENA.bin
 #. y4:runtime_play_command=y4.play_msg 010205BF <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "39388"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "39392"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "39396"
 msgid "Date"
 msgstr "Date"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "39400"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "39404"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "39408"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "39412"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "39416"
 msgid "Katsuragi"
 msgstr "Katsuragi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "39420"
 msgid "adv_p4c4_010/kiryu_0226"
 msgstr "adv_p4c4_010/kiryu_0226"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "39424"
 msgid "adv_p4c4_010/katsuragi_0125"
 msgstr "adv_p4c4_010/katsuragi_0125"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "39428"
 msgid "adv_p4c4_010/kiryu_0227"
 msgstr "adv_p4c4_010/kiryu_0227"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "39432"
 msgid "Talk_Phone_yes"
 msgstr "Talk_Phone_yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "39436"
 msgid "adv_p4c4_010/katsuragi_0126"
 msgstr "adv_p4c4_010/katsuragi_0126"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "39440"
 msgid "adv_p4c4_010/kiryu_0228"
 msgstr "adv_p4c4_010/kiryu_0228"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "39444"
 msgid "adv_p4c4_010/katsuragi_0127"
 msgstr "adv_p4c4_010/katsuragi_0127"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
 msgctxt "39448"
 msgid "adv_p4c4_010/kiryu_0229"
 msgstr "adv_p4c4_010/kiryu_0229"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
 msgctxt "39452"
 msgid "adv_p4c4_010/katsuragi_0128"
 msgstr "adv_p4c4_010/katsuragi_0128"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=17
 msgctxt "39456"
 msgid "adv_p4c4_010/kiryu_0230"
 msgstr "adv_p4c4_010/kiryu_0230"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=18
 msgctxt "39460"
 msgid "adv_p4c4_010/katsuragi_0129"
 msgstr "adv_p4c4_010/katsuragi_0129"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=19
 msgctxt "39464"
 msgid "adv_p4c4_010/kiryu_0231"
 msgstr "adv_p4c4_010/kiryu_0231"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=20
 msgctxt "39468"
 msgid "adv_p4c4_010/kiryu_0232"
 msgstr "adv_p4c4_010/kiryu_0232"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=21
 msgctxt "39472"
 msgid "adv_p4c4_010/kiryu_0232b"
 msgstr "adv_p4c4_010/kiryu_0232b"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=22
 msgctxt "39476"
 msgid "adv_p4c4_010/kiryu_0233"
 msgstr "adv_p4c4_010/kiryu_0233"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=23
 msgctxt "39480"
 msgid "adv_p4c4_010/katsuragi_0132"
 msgstr "adv_p4c4_010/katsuragi_0132"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=24
 msgctxt "39484"
 msgid "adv_p4c4_010/katsuragi_0133"
 msgstr "adv_p4c4_010/katsuragi_0133"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=25
 msgctxt "39488"
 msgid "adv_p4c4_010/kiryu_0235"
 msgstr "adv_p4c4_010/kiryu_0235"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=26
 msgctxt "39492"
 msgid "adv_p4c4_010/katsuragi_0134"
 msgstr "adv_p4c4_010/katsuragi_0134"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=27
 msgctxt "39496"
 msgid "adv_p4c4_010/kiryu_0236"
 msgstr "adv_p4c4_010/kiryu_0236"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=28
 msgctxt "39500"
 msgid "adv_p4c4_010/katsuragi_0135"
 msgstr "adv_p4c4_010/katsuragi_0135"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=29
 msgctxt "39504"
 msgid "adv_p4c4_010/kiryu_0237"
 msgstr "adv_p4c4_010/kiryu_0237"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=30
 msgctxt "39508"
 msgid "adv_p4c4_010/katsuragi_0136"
 msgstr "adv_p4c4_010/katsuragi_0136"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=31
 msgctxt "39512"
 msgid "adv_p4c4_010/kiryu_0238"
 msgstr "adv_p4c4_010/kiryu_0238"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=32
 msgctxt "39516"
 msgid "adv_p4c4_010/katsuragi_0137"
 msgstr "adv_p4c4_010/katsuragi_0137"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=33
 msgctxt "39520"
 msgid "adv_p4c4_010/kiryu_0239"
 msgstr "adv_p4c4_010/kiryu_0239"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=34
 msgctxt "39524"
 msgid "adv_p4c4_010/katsuragi_0138"
 msgstr "adv_p4c4_010/katsuragi_0138"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=35
 msgctxt "39528"
 msgid "adv_p4c4_010/katsuragi_0139"
 msgstr "adv_p4c4_010/katsuragi_0139"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=36
 msgctxt "39532"
 msgid "adv_p4c4_010/katsuragi_0139b"
 msgstr "adv_p4c4_010/katsuragi_0139b"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=37
 msgctxt "39536"
 msgid "adv_p4c4_010/katsuragi_0139c"
 msgstr "adv_p4c4_010/katsuragi_0139c"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=38
 msgctxt "39540"
 msgid "adv_p4c4_010/kiryu_0241"
 msgstr "adv_p4c4_010/kiryu_0241"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=39
 msgctxt "39544"
 msgid "Talk_Phone_no"
 msgstr "Talk_Phone_no"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=40
 msgctxt "39548"
 msgid "adv_p4c4_010/katsuragi_0140"
 msgstr "adv_p4c4_010/katsuragi_0140"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=41
 msgctxt "39552"
 msgid "adv_p4c4_010/katsuragi_0140b"
 msgstr "adv_p4c4_010/katsuragi_0140b"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=42
 msgctxt "39556"
 msgid "adv_p4c4_010/kiryu_0242"
 msgstr "adv_p4c4_010/kiryu_0242"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=43
 msgctxt "39560"
 msgid "adv_p4c4_010/katsuragi_0141"
 msgstr "adv_p4c4_010/katsuragi_0141"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=44
 msgctxt "39564"
 msgid "adv_p4c4_010/kiryu_0243"
 msgstr "adv_p4c4_010/kiryu_0243"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=45
 msgctxt "39568"
 msgid "adv_p4c4_010/katsuragi_0142"
 msgstr "adv_p4c4_010/katsuragi_0142"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=46
 msgctxt "39572"
 msgid "adv_p4c4_010/katsuragi_0142b"
 msgstr "adv_p4c4_010/katsuragi_0142b"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=47
 msgctxt "39576"
 msgid "adv_p4c4_010/kiryu_0244"
 msgstr "adv_p4c4_010/kiryu_0244"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=48
 msgctxt "39580"
 msgid "adv_p4c4_010/katsuragi_0143"
 msgstr "adv_p4c4_010/katsuragi_0143"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=49
 msgctxt "39584"
 msgid "adv_p4c4_010/katsuragi_0143b"
 msgstr "adv_p4c4_010/katsuragi_0143b"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=50
 msgctxt "39588"
 msgid "adv_p4c4_010/katsuragi_0143c"
 msgstr "adv_p4c4_010/katsuragi_0143c"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=51
 msgctxt "39592"
 msgid "adv_p4c4_010/kiryu_0245"
 msgstr "adv_p4c4_010/kiryu_0245"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=52
 msgctxt "39596"
 msgid "adv_p4c4_010/katsuragi_0144"
 msgstr "adv_p4c4_010/katsuragi_0144"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=53
 msgctxt "39600"
 msgid "adv_p4c4_010/katsuragi_0144b"
 msgstr "adv_p4c4_010/katsuragi_0144b"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=54
 msgctxt "39604"
 msgid "adv_p4c4_010/katsuragi_0144c"
 msgstr "adv_p4c4_010/katsuragi_0144c"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=55
 msgctxt "39608"
 msgid "adv_p4c4_010/kiryu_0246"
 msgstr "adv_p4c4_010/kiryu_0246"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=56
 msgctxt "39612"
 msgid "adv_p4c4_010/katsuragi_0145"
 msgstr "adv_p4c4_010/katsuragi_0145"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=57
 msgctxt "39616"
 msgid "adv_p4c4_010/katsuragi_0145b"
 msgstr "adv_p4c4_010/katsuragi_0145b"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=58
 msgctxt "39620"
 msgid "adv_p4c4_010/katsuragi_0145c"
 msgstr "adv_p4c4_010/katsuragi_0145c"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=59
 msgctxt "39624"
 msgid "adv_p4c4_010/katsuragi_0146"
 msgstr "adv_p4c4_010/katsuragi_0146"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=60
 msgctxt "39628"
 msgid "adv_p4c4_010/katsuragi_0146b"
 msgstr "adv_p4c4_010/katsuragi_0146b"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=61
 msgctxt "39632"
 msgid "adv_p4c4_010/katsuragi_0146c"
 msgstr "adv_p4c4_010/katsuragi_0146c"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=62
 msgctxt "39636"
 msgid "adv_p4c4_010/katsuragi_0146d"
 msgstr "adv_p4c4_010/katsuragi_0146d"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=63
 msgctxt "39640"
 msgid "adv_p4c4_010/katsuragi_0146e"
 msgstr "adv_p4c4_010/katsuragi_0146e"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=64
 msgctxt "39644"
 msgid "adv_p4c4_010/kiryu_0248"
 msgstr "adv_p4c4_010/kiryu_0248"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=65
 msgctxt "39648"
 msgid "adv_p4c4_010/katsuragi_0147"
 msgstr "adv_p4c4_010/katsuragi_0147"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=66
 msgctxt "39652"
 msgid "adv_p4c4_010/katsuragi_0147b"
 msgstr "adv_p4c4_010/katsuragi_0147b"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=67
 msgctxt "39656"
 msgid "adv_p4c4_010/katsuragi_0147c"
 msgstr "adv_p4c4_010/katsuragi_0147c"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=68
 msgctxt "39660"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=69
 msgctxt "39664"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=70
 msgctxt "39668"
 msgid "P_aki_sitcnt"
 msgstr "P_aki_sitcnt"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=71
 msgctxt "39672"
 msgid "P_aki_sitcnt_tlk_kamae"
 msgstr "P_aki_sitcnt_tlk_kamae"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=72
 msgctxt "39676"
 msgid "P_aki_sitcnt_tlk_kamae02_yes"
 msgstr "P_aki_sitcnt_tlk_kamae02_yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=73
 msgctxt "39680"
 msgid "P_aki_sitcnt_tlk_tabako_lp"
 msgstr "P_aki_sitcnt_tlk_tabako_lp"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=74
 msgctxt "39684"
 msgid "P_aki_sitcnt_tlk_tabako_st"
 msgstr "P_aki_sitcnt_tlk_tabako_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=75
 msgctxt "39688"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "148_Kiryu"
 msgid "Well, I should probably get going."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "160_Date"
 msgid "Be careful out there, Kiryu."
 msgstr "Ten cuidado ahí fuera, Kiryu."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "172_Kiryu"
 msgid "I will."
 msgstr "Lo haré."
@@ -599,13 +362,6 @@ msgid "Yeah, I'm meeting him with the file on the roof of Kamurocho\\r\n"
 "Hills. Tonight at ten... alone."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "232_Tanimura"
 msgid "Alone!? But that's insane!"
 msgstr ""
@@ -615,13 +371,6 @@ msgid "You're not actually going through with that baloney, are\\r\n"
 "you?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "256_Kiryu"
 msgid "I have to. That's part of the deal."
 msgstr ""
@@ -636,24 +385,10 @@ msgid "Guy doesn't take any chances once he gets down to business,\\r\n"
 "huh? You sure you still wanna go?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "292_Kiryu"
 msgid "I'm sure. There's no other way."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "304_Date"
 msgid "You say that, but..."
 msgstr ""
@@ -663,57 +398,22 @@ msgid "Let him go if he wants to go. Besides, I don't think\\r\n"
 "anything we say is gonna change his mind."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "328_Akiyama"
 msgid "Isn't that right, Kiryu-san?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "340_Kiryu"
 msgid "Right. A deal's a deal."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "412_Katsuragi"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "424_Kiryu"
 msgid "You there, Katsuragi?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "436_Katsuragi"
 msgid "You're not Tanimura."
 msgstr ""
@@ -728,13 +428,6 @@ msgid "Kiryu? As in the Tojo Clan Fourth Chairman, Kazuma\\r\n"
 "Kiryu-san?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=8
-#. y4:msg_location=T2.P8
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "472_Kiryu"
 msgid "That's the one."
 msgstr "Así es."
@@ -744,46 +437,18 @@ msgid "Well, well, well. What a nice little surprise. So, what can\\r\n"
 "I do for you?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=10
-#. y4:msg_location=T2.P10
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "496_Kiryu"
 msgid "I'm calling about Taiga and Yasuko Saejima."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "508_Katsuragi"
 msgid "Oh? I don't know what you're talking about."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=12
-#. y4:msg_location=T2.P12
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "520_Kiryu"
 msgid "Drop the act. We know you took them from Purgatory."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=13
-#. y4:msg_location=T2.P13
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "532_Katsuragi"
 msgid "And what of it?"
 msgstr ""
@@ -793,13 +458,6 @@ msgid "I want to cut a deal with you. I have something you want\\r\n"
 "very badly. I'm sure of it."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "556_Katsuragi"
 msgid "......"
 msgstr "......"
@@ -814,13 +472,6 @@ msgid "I can't help but assume you want it back. But maybe I'm\\r\n"
 "wrong."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "592_Katsuragi"
 msgid "......"
 msgstr "......"
@@ -830,57 +481,22 @@ msgid "Sounds like you don't want it after all. Let's just forget\\r\n"
 "this ever happened. Later."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=20
-#. y4:msg_location=T2.P20
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "616_Katsuragi"
 msgid "Wait."
 msgstr "Espera."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "628_Kiryu"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=22
-#. y4:msg_location=T2.P22
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "640_Katsuragi"
 msgid "How did that file find its way into your hands?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=23
-#. y4:msg_location=T2.P23
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "652_Kiryu"
 msgid "Good question. Hamazaki gave it to me down in Okinawa."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=24
-#. y4:msg_location=T2.P24
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "664_Katsuragi"
 msgid "...And who knows about all this?"
 msgstr ""
@@ -890,57 +506,22 @@ msgid "Besides me and Hamazaki, just a few others who are here with\\r\n"
 "me now."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=26
-#. y4:msg_location=T2.P26
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "688_Katsuragi"
 msgid "Munakata is in the dark?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=27
-#. y4:msg_location=T2.P27
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "700_Kiryu"
 msgid "Munakata?"
 msgstr "¿Munakata?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=28
-#. y4:msg_location=T2.P28
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "712_Katsuragi"
 msgid "Deputy commissioner of the Tokyo PD."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=29
-#. y4:msg_location=T2.P29
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "724_Kiryu"
 msgid "Yeah. I don't see how he'd know."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=30
-#. y4:msg_location=T2.P30
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "736_Katsuragi"
 msgid "...Good. Well? Let's hear what you want."
 msgstr ""
@@ -955,24 +536,10 @@ msgid "For a living yakuza legend, you make a piss poor negotiator.\\r\n"
 "You're going to have to do better than that."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "772_Kiryu"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "784_Katsuragi"
 msgid "Negotiation is a psychological battle."
 msgstr ""
@@ -982,57 +549,22 @@ msgid "If you can't entice the other party with terms that favor\\r\n"
 "them, you may as well pack up and go home."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "808_Katsuragi"
 msgid "You understand, don't you?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=37
-#. y4:msg_location=T2.P37
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "820_Kiryu"
 msgid "...Then what do you suggest?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=38
-#. y4:msg_location=T2.P38
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "832_Katsuragi"
 msgid "What indeed... How about this?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=39
-#. y4:msg_location=T2.P39
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "844_Katsuragi"
 msgid "You come alone to make the exchange."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=40
-#. y4:msg_location=T2.P40
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "856_Kiryu"
 msgid "Alone?"
 msgstr ""
@@ -1042,57 +574,22 @@ msgid "You heard me. I'd like to see you bloodied and bruised by\\r\n"
 "the time you arrive, as well."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=42
-#. y4:msg_location=T2.P42
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "880_Kiryu"
 msgid "What's that supposed to mean?"
 msgstr "¿Qué se supone que significa eso?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=43
-#. y4:msg_location=T2.P43
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "892_Katsuragi"
 msgid "I'm going to have you jump through a little hoop for me."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=44
-#. y4:msg_location=T2.P44
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "904_Katsuragi"
 msgid "See if this old dog can still do a few tricks."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=45
-#. y4:msg_location=T2.P45
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "916_Kiryu"
 msgid "What?"
 msgstr "¿Qué?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=46
-#. y4:msg_location=T2.P46
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "928_Katsuragi"
 msgid "We'll make the exchange on the Kamurocho Hills roof."
 msgstr ""
@@ -1107,13 +604,6 @@ msgid "All you'll need to do to reach the roof... is fight your way\\r\n"
 "through the entire Ueno Seiwa Clan."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=49
-#. y4:msg_location=T2.P49
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "964_Kiryu"
 msgid "What!?"
 msgstr "¡¿Qué?!"
@@ -1123,46 +613,18 @@ msgid "You might make your way up to the roof. You might die in the\\r\n"
 "process."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=51
-#. y4:msg_location=T2.P51
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "988_Katsuragi"
 msgid "It doesn't matter much to me either way."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=52
-#. y4:msg_location=T2.P52
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "1000_Katsuragi"
 msgid "Those are the terms I'd be willing to accept."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=53
-#. y4:msg_location=T2.P53
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1012_Kiryu"
 msgid "And if I make it up to the roof?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=54
-#. y4:msg_location=T2.P54
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "1024_Katsuragi"
 msgid "Then we move forward with the transaction."
 msgstr ""
@@ -1172,24 +634,10 @@ msgid "And I'll be secure in the knowledge that you'll be far too\\r\n"
 "exhausted to kill me."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=56
-#. y4:msg_location=T2.P56
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "1048_Katsuragi"
 msgid "Even if you wanted to."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "1060_Kiryu"
 msgid "......"
 msgstr "......"
@@ -1204,13 +652,6 @@ msgid "And taking my chances with monsters like you and Saejima...\\r\n"
 "Well, it would be nothing short of a fool's errand."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=60
-#. y4:msg_location=T2.P60
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "1096_Katsuragi"
 msgid "Not all yakuza are like Nishikiyama or Ryuji Goda."
 msgstr ""
@@ -1220,35 +661,14 @@ msgid "Some of us would rather survive than die atop the hill of\\r\n"
 "\"honor\" and \"manliness.\""
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=62
-#. y4:msg_location=T2.P62
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "1120_Katsuragi"
 msgid "So, do we have a deal?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=63
-#. y4:msg_location=T2.P63
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1132_Kiryu"
 msgid "Fine. I'll be there, just name the time."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=64
-#. y4:msg_location=T2.P64
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "1144_Katsuragi"
 msgid "Ten o'clock tonight."
 msgstr ""
@@ -1258,24 +678,10 @@ msgid "I can only hope you still have a pulse by the time I see you\\r\n"
 "next."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=66
-#. y4:msg_location=T2.P66
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "1168_Katsuragi"
 msgid "Until then."
 msgstr "Hasta entonces."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "1228_Date"
 msgid "How'd you end up with this thing, Kiryu?"
 msgstr ""
@@ -1302,13 +708,6 @@ msgid "That's the incident you were wrapped up in, right,\\r\n"
 "Kiryu-san?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=6
-#. y4:msg_location=T3.P6
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1288_Kiryu"
 msgid "Right."
 msgstr "Ya veo."
@@ -1324,13 +723,6 @@ msgid "But there's more. There are notes on here detailing a police\\r\n"
 "artificial crime. All to make the police look good."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=9
-#. y4:msg_location=T3.P9
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "1324_Date"
 msgid "That's one hell of a scoop."
 msgstr ""
@@ -1340,13 +732,6 @@ msgid "No wonder they're so desperate to get it back. This goes\\r\n"
 "public, all their dirty laundry'll be out in the open."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=11
-#. y4:msg_location=T3.P11
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "1348_Date"
 msgid "So what's your next move?"
 msgstr ""
@@ -1361,46 +746,18 @@ msgid "I can help you with that. He and I have talked on the phone\\r\n"
 "before."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=14
-#. y4:msg_location=T3.P14
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "1384_Tanimura"
 msgid "If you call from my cell, I'm sure he'll answer."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=15
-#. y4:msg_location=T3.P15
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1396_Kiryu"
 msgid "Huh. Mind if I borrow your phone, then?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=16
-#. y4:msg_location=T3.P16
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "1408_Tanimura"
 msgid "Go right ahead."
 msgstr "Sí..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=1
-#. y4:msg_location=T4.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "1456_Akiyama"
 msgid "Life's a cruel mistress sometimes."
 msgstr ""
@@ -1410,24 +767,10 @@ msgid "Sure, you get used to the cheating and the backstabbing and\\r\n"
 "the lying in my line of work."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=3
-#. y4:msg_location=T4.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "1480_Akiyama"
 msgid "But when it all smacks you in the face one after another... Oof."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=4
-#. y4:msg_location=T4.P4
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "1492_Date"
 msgid "You seem like you're taking it pretty well, though."
 msgstr ""
@@ -1437,145 +780,54 @@ msgid "Most guys would go into total shock if they lost a hundred\\r\n"
 "grand, let alone a hundred billion."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=6
-#. y4:msg_location=T4.P6
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "1516_Akiyama"
 msgid "I am in shock. This is me in shock."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=7
-#. y4:msg_location=T4.P7
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "1528_Akiyama"
 msgid "It's not that big of a deal, I know, but still."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=8
-#. y4:msg_location=T4.P8
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "1540_Date"
 msgid "Not that big of a deal!?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=9
-#. y4:msg_location=T4.P9
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "1552_Akiyama"
 msgid "I'll just make it all back again."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=10
-#. y4:msg_location=T4.P10
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "1564_Date"
 msgid "But..."
 msgstr "Pero..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Katsuragi
-#. y4:msg_speaker_id=7
 msgctxt "1576_Tanimura"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=12
-#. y4:msg_location=T4.P12
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1588_Kiryu"
 msgid "Heh."
 msgstr "Je."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=13
-#. y4:msg_location=T4.P13
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "1600_Akiyama"
 msgid "And hey, the week has had its highlights."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=14
-#. y4:msg_location=T4.P14
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1612_Kiryu"
 msgid "Oh yeah?"
 msgstr "Ya veo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=15
-#. y4:msg_location=T4.P15
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "1624_Akiyama"
 msgid "I met you for one, Kiryu-san."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=16
-#. y4:msg_location=T4.P16
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1636_Kiryu"
 msgid "Is that really so special?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=17
-#. y4:msg_location=T4.P17
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "1648_Akiyama"
 msgid "You're my freaking hero, man. You saved my life."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=18
-#. y4:msg_location=T4.P18
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1660_Kiryu"
 msgid "Did I? I think I'd remember that."
 msgstr ""
@@ -1595,24 +847,10 @@ msgid "If not for you, I'd still be out on the streets. Digging\\r\n"
 "through trash just to keep myself alive."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=22
-#. y4:msg_location=T4.P22
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1708_Kiryu"
 msgid "That's the money you built your business on, huh?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=23
-#. y4:msg_location=T4.P23
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "1720_Akiyama"
 msgid "Yup. Though now that I think about it..."
 msgstr ""
@@ -1622,24 +860,10 @@ msgid "That ten billion was probably the same cash my bank duped me\\r\n"
 "into laundering for them before they had me take the fall."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=25
-#. y4:msg_location=T4.P25
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1744_Kiryu"
 msgid "The ten billion Jingu diverted to the Tojo Clan."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=26
-#. y4:msg_location=T4.P26
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "1756_Akiyama"
 msgid "...So, yeah. This all feels kinda personal somehow."
 msgstr ""
@@ -1649,68 +873,26 @@ msgid "If this stuff going down now is linked to that ten billion,\\r\n"
 "consider me there."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=30
-#. y4:msg_location=T4.P30
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "1804_Akiyama"
 msgid "I dunno about you guys, but this is starting to feel like fate to me."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=31
-#. y4:msg_location=T4.P31
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "1816_Akiyama"
 msgid "Almost like we were all destined to end up here."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=32
-#. y4:msg_location=T4.P32
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "1828_Tanimura"
 msgid "Fate?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=33
-#. y4:msg_location=T4.P33
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "1840_Date"
 msgid "Hm."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=34
-#. y4:msg_location=T4.P34
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1852_Kiryu"
 msgid "You might just be right..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "1888_Date"
 msgid "You really think that's how it went down?"
 msgstr ""
@@ -1720,24 +902,10 @@ msgid "Can't think of any other way. Me and Hana-chan are the only\\r\n"
 "two people who knew about the vault."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=2
-#. y4:msg_location=T5.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "1912_Akiyama"
 msgid "Kido-chan's the only other possibility."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=3
-#. y4:msg_location=T5.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1924_Kiryu"
 msgid "What makes you say that?"
 msgstr "¿Qué le hace decir eso?"
@@ -1747,13 +915,6 @@ msgid "Well, it would certainly wrap things up all nice and neat.\\r\n"
 "Everything would make sense."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=5
-#. y4:msg_location=T5.P5
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1948_Kiryu"
 msgid "What do you mean?"
 msgstr "¿A qué te refieres?"
@@ -1764,24 +925,10 @@ msgid "Not long after Hana-chan saw him at the office, Kido-chan\\r\n"
 "with the Shibata."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=7
-#. y4:msg_location=T5.P7
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "1972_Akiyama"
 msgid "Just walked in and spirited him away. Simple. Clean."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=8
-#. y4:msg_location=T5.P8
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1984_Kiryu"
 msgid "What's so strange about that?"
 msgstr ""
@@ -1791,13 +938,6 @@ msgid "Everything. You'd understand if you've seen what Kido-chan\\r\n"
 "can do in a fight."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=10
-#. y4:msg_location=T5.P10
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "2008_Date"
 msgid "Go on."
 msgstr "Dime."
@@ -1812,24 +952,10 @@ msgid "He's pretty coy about it, though. Prefers to keep all that\\r\n"
 "under wraps."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=13
-#. y4:msg_location=T5.P13
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "2044_Date"
 msgid "How come?"
 msgstr "¿Por qué?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=14
-#. y4:msg_location=T5.P14
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "2056_Kiryu"
 msgid "It's better for the family that way."
 msgstr ""
@@ -1845,13 +971,6 @@ msgid "Now your usual yakuza outfit makes their living off those\\r\n"
 "dramatic displays of strength... but not Kanemura."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=17
-#. y4:msg_location=T5.P17
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "2092_Date"
 msgid "Why not?"
 msgstr "¿Por qué no?"
@@ -1886,24 +1005,10 @@ msgid "For sure. That's why Arai-san and Kido-chan were so careful\\r\n"
 "not to make any waves."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=24
-#. y4:msg_location=T5.P24
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "2176_Akiyama"
 msgid "But yeah. Kido-chan's a monster."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=25
-#. y4:msg_location=T5.P25
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "2188_Date"
 msgid "You think he let himself get kidnapped on purpose, then?"
 msgstr ""
@@ -1918,35 +1023,14 @@ msgid "The place was more of a mess than usual thanks to the\\r\n"
 "\"struggle.\" It was convincing, honestly. But one thing stood out to me."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=28
-#. y4:msg_location=T5.P28
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "2224_Tanimura"
 msgid "Which was what?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=29
-#. y4:msg_location=T5.P29
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "2236_Akiyama"
 msgid "The order my books were in."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=30
-#. y4:msg_location=T5.P30
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "2248_Tanimura"
 msgid "Your... books?"
 msgstr ""
@@ -1972,24 +1056,10 @@ msgid "Are you seriously telling me you know where every single\\r\n"
 "book is supposed to be on your shelf?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=35
-#. y4:msg_location=T5.P35
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=5
 msgctxt "2308_Akiyama"
 msgid "Every single one."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=36
-#. y4:msg_location=T5.P36
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "2320_Tanimura"
 msgid "Whoa..."
 msgstr "Guau..."
@@ -2004,13 +1074,6 @@ msgid "What I really wanna know is, who keeps a hundred billion in\\r\n"
 "cash just lying around in this day and age?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=39
-#. y4:msg_location=T5.P39
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=2
 msgctxt "2356_Date"
 msgid "Why not stash it in a bank?"
 msgstr ""
@@ -2030,13 +1093,6 @@ msgid "Ask the \"DA\" guys who raided my office yesterday. They're\\r\n"
 "the ones who did it."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=43
-#. y4:msg_location=T5.P43
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "2404_Tanimura"
 msgid "You think they were impostors?"
 msgstr ""
@@ -2046,13 +1102,6 @@ msgid "Big time. Katsuragi must've sent them over once Kido-chan\\r\n"
 "tipped him off."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=45
-#. y4:msg_location=T5.P45
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "2428_Kiryu"
 msgid "That would explain it."
 msgstr ""

@@ -16,424 +16,182 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00E60534 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "4612"
 msgid "Matsuyama"
 msgstr "Matsuyama"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "4616"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "4620"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "4624"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "4628"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "4632"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "4636"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "4640"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "4644"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Matsuyama
-#. y4:msg_speaker_id=0
 msgctxt "164_Matsuyama"
 msgid "That was just sublime! Great fish, great rice... Simply beautiful!"
 msgstr "¡Eso fue sublime! Pescado delicioso, un gran arroz... ¡Simplemente hermoso!"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "176_Kiryu"
 msgid "It was good... but did you get any ideas?"
 msgstr "Era bueno pero... ¿has tienes alguna idea?"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Matsuyama
-#. y4:msg_speaker_id=0
 msgctxt "188_Matsuyama"
 msgid "Not really."
 msgstr "En realidad, no."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "200_Kiryu"
 msgid "Nothing? Oh, well. We might as well take our time. Let's go somewhere else."
 msgstr "¿Nada? Oh, bueno. Deberíamos tomarnos nuestro tiempo. Vayamos a otro sitio."
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Matsuyama
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Let's get some tasty yakiniku. -> T0.P10 | 2. Let's see what fast food has to offer. -> T0.P18 | 3. Let's just wander around town. -> T0.P23
 msgctxt "224_Matsuyama"
 msgid "Where to next?"
 msgstr "¿Adónde vamos ahora?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Let's get some tasty yakiniku.
 msgctxt "236_Kiryu"
 msgid "Let's go eat some tasty yakiniku. I think it has something in common with that rich tonkotsu ramen at Kyushu No. 1 Star. "
 msgstr "Vamos a comer un buen yakiniku. Creo que tiene algo en común con ese delicioso ramen tonkotsu de Kyushu No. 1 Star. "
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Matsuyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Let's get some tasty yakiniku.
 msgctxt "248_Matsuyama"
 msgid "Great idea! Let's go! "
 msgstr "¡Qué buena idea! ¡Vamos! "
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Let's get some tasty yakiniku.
 msgctxt "272_Kiryu"
 msgid "Let's go eat some top-notch sushi."
 msgstr "Vamos a comer sushi de primera."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Matsuyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Let's get some tasty yakiniku.
 msgctxt "284_Matsuyama"
 msgid "Got it. Expensive, high-end seafood would be the exact opposite of the affordable, hearty tonkotsu ramen we serve. "
 msgstr "Entendido. Mariscos caros y de alta gama serían todo lo contrario de nuestro ramen tonkotsu accesible y sustancioso. "
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Let's get some tasty yakiniku.
 msgctxt "296_Kiryu"
 msgid "Exactly. Let's go. "
 msgstr "Exacto. Vamos. "
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Matsuyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Let's get some tasty yakiniku.
 msgctxt "308_Matsuyama"
 msgid "You're the boss! "
 msgstr "¡Tú mandas! "
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Let's see what fast food has to offer.
 msgctxt "332_Kiryu"
 msgid "Ramen's all about serving good food fast and cheap. With that in mind, it might be worthwhile to visit a fast food joint. "
 msgstr "El ramen se trata de servir buena comida rápido y barata. Con eso en mente, podría valer la pena visitar un local de comida rápida. "
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Matsuyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Let's see what fast food has to offer.
 msgctxt "344_Matsuyama"
 msgid "Great idea! I never thought of that! "
 msgstr "¡Buena idea! ¡Nunca lo había pensado! "
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Let's see what fast food has to offer.
 msgctxt "356_Kiryu"
 msgid "Okay, let's go to Smile Burger. "
 msgstr "Vale, vamos a Smile Burger. "
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Matsuyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Let's get some tasty yakiniku.
 msgctxt "368_Matsuyama"
 msgid "You're the boss! "
 msgstr "¡Tú mandas! "
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Let's just wander around town.
 msgctxt "392_Kiryu"
 msgid "Maybe we're trying too hard. Let's wander around a little for a change of pace. "
 msgstr "Tal vez estamos esforzándonos demasiado. Vamos a dar una vuelta para cambiar un poco de ritmo. "
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Matsuyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Let's just wander around town.
 msgctxt "404_Matsuyama"
 msgid "But..."
 msgstr "Pero..."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Let's just wander around town.
 msgctxt "416_Kiryu"
 msgid "You shouldn't overthink things. Let's just take it slow. "
 msgstr "No deberías darle tantas vueltas. Mejor vamos despacio. "
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Matsuyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Let's just wander around town.
 msgctxt "428_Matsuyama"
 msgid "Okay..."
 msgstr "Bueno..."
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T0.P10
-#. y4:msg_branch_segment=T0.P10..P17
-#. y4:msg_branch_target_text=Let's go eat some tasty yakiniku. I think it has something in common with that rich tonkotsu ramen at Kyushu No. 1 Star.
-#. y4:msg_branch_raw=01 12 00 0a 00 00 00 1e 00 5b 00 09 00 00 00 00
 msgctxt "452_Matsuyama"
 msgid "Let's get some tasty yakiniku."
 msgstr "Vamos a comer un buen yakiniku."
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T0.P18
-#. y4:msg_branch_segment=T0.P18..P22
-#. y4:msg_branch_target_text=Ramen's all about serving good food fast and cheap. With that in mind, it might be worthwhile to visit a fast food joint.
-#. y4:msg_branch_raw=01 12 00 12 00 00 00 26 00 5b 00 0d 00 00 00 00
 msgctxt "464_Matsuyama"
 msgid "Let's see what fast food has to offer."
 msgstr "Veamos qué nos ofrece la comida rápida."
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T0.P23
-#. y4:msg_branch_segment=T0.P23..P27
-#. y4:msg_branch_target_text=Maybe we're trying too hard. Let's wander around a little for a change of pace.
-#. y4:msg_branch_raw=01 12 00 17 01 00 00 1e 00 5b 00 0f 00 00 00 00
 msgctxt "476_Matsuyama"
 msgid "Let's just wander around town."
 msgstr "Demos una vuelta por la ciudad."

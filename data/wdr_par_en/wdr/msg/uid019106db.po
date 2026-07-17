@@ -24,223 +24,102 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 019106DB <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
 msgctxt "2792"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "2796"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "2800"
 msgid "Talk_Phone_yes"
 msgstr "Talk_Phone_yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "2804"
 msgid "???"
 msgstr "???"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "2808"
 msgid "Purple Killers Boss"
 msgstr ""
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "2812"
 msgid "Talk_Phone_no"
 msgstr "Talk_Phone_no"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "2816"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "2820"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "92_Kiryu"
 msgid "Who are you?"
 msgstr "¿Quién eres?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=???
-#. y4:msg_speaker_id=3
 msgctxt "104_???"
 msgid "I'm with the Purple Killers."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=???
-#. y4:msg_speaker_id=3
 msgctxt "116_???"
 msgid "I hear you've been having some fun with my men."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "128_Kiryu"
 msgid "I take it you're the boss? Just what are you planning, anyway?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=4
 msgctxt "140_Purple Killers Boss"
 msgid "Oh, I was just thinking about all the things I could do to you."
 msgstr "Oh, Estaba pensando en todas las cosas que podría hacerte."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "152_Kiryu"
 msgid "Save your delusional fantasies for later. Let's settle this once and for all. My questions can wait till after I kick your ass."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=4
 msgctxt "164_Purple Killers Boss"
 msgid "Well. You're rather bullheaded, aren't you?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=4
 msgctxt "176_Purple Killers Boss"
 msgid "I've seen many who run in fear from a killer, but running towards one is something new."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=4
 msgctxt "188_Purple Killers Boss"
 msgid "You're not even going to bother asking how I got your phone number?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=4
 msgctxt "200_Purple Killers Boss"
 msgid "I'm rather excited about this."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=4
 msgctxt "212_Purple Killers Boss"
 msgid "I'll tell you what. How about we meet at the bowling alley?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "224_Kiryu"
 msgid "The bowling alley? Got it."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=4
 msgctxt "236_Purple Killers Boss"
 msgid "Just watch yourself. My men have been ordered to kill you on sight."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=4
 msgctxt "248_Purple Killers Boss"
 msgid "Careful you don't end up in a ditch on the way over here!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "260_Kiryu"
 msgid "Hmph. You wish."
 msgstr ""

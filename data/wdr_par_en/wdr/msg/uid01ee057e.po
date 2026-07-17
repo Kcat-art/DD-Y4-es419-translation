@@ -16,11 +16,16 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 01EE057E <group>
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=0
 msgctxt "112"
 msgid "Look at the flyer?"
 msgstr "¿Mirar el volante?"
 
 #. y4:line_status=translated
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1372"
 msgid "Player"
 msgstr "Player"
@@ -57,11 +62,23 @@ msgstr "(Ahora no...)"
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P2
 msgctxt "208_Player"
 msgid "Read It"
 msgstr "Léelo."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P8
 msgctxt "220_Player"
 msgid "Not Now"
 msgstr "Ahora no"

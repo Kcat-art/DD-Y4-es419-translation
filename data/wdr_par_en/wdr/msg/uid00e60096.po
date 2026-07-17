@@ -24,44 +24,34 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E60096 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1060"
 msgid "Grumpy Owner"
 msgstr "Dueño gruñón"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1064"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "1068"
 msgid "Calming Man"
 msgstr "Hombre calmado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "1072"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "1076"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "1080"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
@@ -72,13 +62,6 @@ msgid "Why's that scout always bringing in the fat girls? I thought\\r\n"
 msgstr "¿Por qué ese scout siempre me trae chicas gordas? ¡Pensé\\r\n"
 "haberle dicho que me trajera las mejores chicas que pudiera encontrar!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Calming Man
-#. y4:msg_speaker_id=2
 msgctxt "96_Calming Man"
 msgid "Well, you know... To each his own."
 msgstr "Bueno, ya sabes... Cada quien con sus gustos."
@@ -89,13 +72,6 @@ msgid "He's out looking for new girls on Pink Street today. If he\\r\n"
 msgstr "Está buscando chicas nuevas en la Calle Pink ahora, Si me vuelve\\r\n"
 "a traer otra chica rechoncha, ¡lo despediré!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=4
 msgctxt "120_Akiyama"
 msgid "(Seems there's a scout on Pink Street who's only going after bigger girls... He might be just the man I'm looking for!)"
 msgstr "(Al parecer hay un scout en la Calle Pink que solo va tras chicas de talla grande... ¡A lo mejor él es a quien estoy buscando!)"

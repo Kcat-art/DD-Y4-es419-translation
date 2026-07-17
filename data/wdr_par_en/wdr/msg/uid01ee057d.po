@@ -17,12 +17,18 @@ msgstr ""
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=0
 msgctxt "208"
 msgid "Read Night Magazine?"
 msgstr "¿Leer Night Magazine?"
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=1
 msgctxt "280"
 msgid "Take a copy of Night Magazine?"
 msgstr "¿Tomar una copia de Night Magazine?"
@@ -34,6 +40,8 @@ msgid "You got a copy of Night Magazine."
 msgstr "Ya tienes una copia de Night Magazine."
 
 #. y4:line_status=translated
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2292"
 msgid "Player"
 msgstr "Player"
@@ -90,21 +98,45 @@ msgstr "(Ahora no...)"
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P4
 msgctxt "340_Player"
 msgid "Read It"
 msgstr "Léelo."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P8
 msgctxt "352_Player"
 msgid "Not Now"
 msgstr "Ahora no"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P10
 msgctxt "364_Player"
 msgid "Take It"
 msgstr "Tomarlo"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P13
 msgctxt "376_Player"
 msgid "Don't Take It"
 msgstr "No Tomarlo"

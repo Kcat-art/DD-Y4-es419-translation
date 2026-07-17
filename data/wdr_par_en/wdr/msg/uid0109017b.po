@@ -24,93 +24,70 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KOMAMACHI.bin
 #. y4:runtime_play_command=y4.play_msg 0109017B <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3612"
 msgid "Smartass"
 msgstr "Listillo"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "3616"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "3620"
 msgid "Jackass"
 msgstr "Idiota"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "3624"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "3628"
 msgid "Old Man"
 msgstr "Abuelo"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "3632"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "3636"
 msgid "Poor Man"
 msgstr "Hombre Pobre"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "3640"
 msgid "Yamashita"
 msgstr "Yamashita"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "3644"
 msgid "Talk_Cry"
 msgstr "Talk_Cry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
+#. y4:msg_role=name
+#. y4:msg_name_id=9
 msgctxt "3648"
 msgid "Morimoto"
 msgstr "Morimoto"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "3652"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
+#. y4:msg_role=name
+#. y4:msg_name_id=11
 msgctxt "3656"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "3660"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
@@ -122,79 +99,30 @@ msgstr "No son nada más que sanguijuelas para la sociedad. \\r\n"
 "¡Parásitos! Las casas son para la gente. ¡Los gusanos\\r\n"
 "que se queden en la tierra!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Jackass
-#. y4:msg_speaker_id=2
 msgctxt "80_Jackass"
 msgid "Eat dirt and die, worms!"
 msgstr "¡Coman tierra y muéranse, gusanos!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Old Man
-#. y4:msg_speaker_id=4
 msgctxt "92_Old Man"
 msgid "No, my shelter..."
 msgstr "No, mi refugio..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Poor Man
-#. y4:msg_speaker_id=6
 msgctxt "104_Poor Man"
 msgid "What did we ever do to you?"
 msgstr "¿Qué les hicimos a ustedes?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Yamashita
-#. y4:msg_speaker_id=7
 msgctxt "116_Yamashita"
 msgid "Urgh... Why are you doing this? Give us one good reason!"
 msgstr "Urgh... ¿Por qué hacen esto? ¡Danos una buena razón!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Morimoto
-#. y4:msg_speaker_id=9
 msgctxt "128_Morimoto"
 msgid "You want a reason? All right. We're cleaning up the streets by getting rid of the garbage."
 msgstr "¿Quieres una razón? Muy bien. Estamos limpiando las calles de la basura."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Yamashita
-#. y4:msg_speaker_id=7
 msgctxt "140_Yamashita"
 msgid "But we're just living our lives here. We're not bothering a soul!"
 msgstr "Pero solo estamos viviendo nuestras vidas. ¡No molestamos a nadie!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Morimoto
-#. y4:msg_speaker_id=9
 msgctxt "152_Morimoto"
 msgid "Not a soul, huh?"
 msgstr "¿A nadie, eh?"
@@ -203,79 +131,30 @@ msgctxt "164_Yamashita"
 msgid "Wha－!?"
 msgstr "¡¿Qué－?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Morimoto
-#. y4:msg_speaker_id=9
 msgctxt "176_Morimoto"
 msgid "Bloodsuckers like you bother us just by existing!"
 msgstr "¡Los parásitos como ustedes nos molestan con solo existir!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Yamashita
-#. y4:msg_speaker_id=7
 msgctxt "188_Yamashita"
 msgid "Augh!"
 msgstr "¡Augh!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=11
 msgctxt "200_Saejima"
 msgid "Don't do somethin' you'll regret, now."
 msgstr "No hagan cosas de las que se vayan a arrepentir."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Morimoto
-#. y4:msg_speaker_id=9
 msgctxt "212_Morimoto"
 msgid "Funny. I don't remember asking for your opinion."
 msgstr "Qué curioso. No recuerdo haber pedido tu opinión."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Smartass
-#. y4:msg_speaker_id=0
 msgctxt "224_Smartass"
 msgid "Better watch your mouth, you crusty old asshole."
 msgstr "Mejor cuida tus palabras, viejo decrépito."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=11
 msgctxt "236_Saejima"
 msgid "Least I ain't too chickenshit to fight a man one-on-one."
 msgstr "Al menos yo tengo huevos para pelear cara a cara."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Jackass
-#. y4:msg_speaker_id=2
 msgctxt "248_Jackass"
 msgid "Why, you... I guess it's time for somebody to get his ass kicked!"
 msgstr "Serás... ¡Parece que a alguien le gustaria llevarse una paliza!"

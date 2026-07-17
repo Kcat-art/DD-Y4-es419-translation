@@ -24,303 +24,134 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_BILLIARDS.bin
 #. y4:runtime_play_command=y4.play_msg 00EE0316 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "4960"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "4964"
 msgid "Nanami"
 msgstr "Nanami"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "4968"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "4972"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "4976"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "4980"
 msgid "Talk_Kosite_Yes"
 msgstr "Talk_Kosite_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "4984"
 msgid "Nanami's Boyfriend"
 msgstr "Novio de Nanami"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "4988"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "4992"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "4996"
 msgid "M_nml_stand"
 msgstr "M_nml_stand"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "72_Player"
 msgid "Excuse me, can I talk to you for a second?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Nanami
-#. y4:msg_speaker_id=1
 msgctxt "84_Nanami"
 msgid "Huh? What's up?"
 msgstr "¿Eh? ¿Qué sucede?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "96_Player"
 msgid "Would you be interested in working at a hostess club?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Nanami
-#. y4:msg_speaker_id=1
 msgctxt "108_Nanami"
 msgid "A hostess club? Why would I want to work somewhere like that?"
 msgstr "¿Un club de hostess? ¿Por qué querría trabajar en un lugar así?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "120_Player"
 msgid "You'll get to meet new people every day at the club. Hell, you could even meet the guy of your dreams."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Nanami
-#. y4:msg_speaker_id=1
 msgctxt "132_Nanami"
 msgid "Look, I'm just a normal businesswoman. I don't have time for another job."
 msgstr "Mira, solo soy una mujer de negocios normal. No tengo tiempo para otro trabajo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "144_Player"
 msgid "That's okay. Your schedule can be set around your day job."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "156_Player"
 msgid "Lots of girls have day jobs, too."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Nanami
-#. y4:msg_speaker_id=1
 msgctxt "168_Nanami"
 msgid "Really? Hmm... Maybe I'll look into it. I could certainly use the money!"
 msgstr "¿De verdad? Hmm... Tal vez lo investigue. ¡Me vendría muy bien el dinero!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "180_Player"
 msgid "Then it's settled! I'll show you to the club. Come on."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Nanami
-#. y4:msg_speaker_id=1
 msgctxt "204_Nanami"
 msgid "Since it's your payday, why don't you splurge on a bottle of champagne? Come on, live a little!"
 msgstr "Ya que es tu día de pago, ¿por qué no derrochas en una botella de champaña? ¡Vamos, vive un poco!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Nanami's Boyfriend
-#. y4:msg_speaker_id=6
 msgctxt "216_Nanami's Boyfriend"
 msgid "Champagne? That's kinda expensive..."
 msgstr "¿Champaña? Eso es un poco caro..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Nanami
-#. y4:msg_speaker_id=1
 msgctxt "228_Nanami"
 msgid "That's no way to talk. You'll never get ahead at work if they think you're a cheapskate."
 msgstr "Esa no es forma de hablar. Nunca saldrás adelante en el trabajo si piensan que eres un tacaño."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Nanami's Boyfriend
-#. y4:msg_speaker_id=6
 msgctxt "240_Nanami's Boyfriend"
 msgid "Who are you to tell me how to spend my money? Keep your hands in your own damn wallet, all right!?"
 msgstr "¿Quién eres tú para decirme cómo gastar mi dinero? Mantén tus manos en tu propia maldita billetera, ¿¡de acuerdo!?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Nanami
-#. y4:msg_speaker_id=1
 msgctxt "252_Nanami"
 msgid "Wow, okay! I'm just trying to help you get ahead..."
 msgstr "¡Wow, está bien! Solo estoy tratando de ayudarte a salir adelante..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Nanami's Boyfriend
-#. y4:msg_speaker_id=6
 msgctxt "264_Nanami's Boyfriend"
 msgid "Look, apparently you want me to be this rich guy who throws money all over the place, but that's not who I am. I can't afford all of this stuff!"
 msgstr "Mira, aparentemente quieres que sea un tipo rico que tira el dinero por todas partes, pero yo no soy así. ¡No puedo permitirme todas estas cosas!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Nanami's Boyfriend
-#. y4:msg_speaker_id=6
 msgctxt "276_Nanami's Boyfriend"
 msgid "If you can't accept that, then maybe we should see other people."
 msgstr "Si no puedes aceptar eso, entonces tal vez deberíamos ver a otras personas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Nanami
-#. y4:msg_speaker_id=1
 msgctxt "288_Nanami"
 msgid "Wait a minute! Are you... are you breaking up with me!?"
 msgstr "¡Espera un segundo! Estás... ¿¡Estás rompiendo conmigo!?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Nanami's Boyfriend
-#. y4:msg_speaker_id=6
 msgctxt "300_Nanami's Boyfriend"
 msgid "Yeah. Have a nice life."
 msgstr "Sí. Ten una buena vida."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Nanami
-#. y4:msg_speaker_id=1
 msgctxt "324_Nanami"
 msgid "Urgh! Why does this always happen!? I swear, there are no good men in this city! Hell, maybe in Japan!"
 msgstr "¡Urgh! ¿¡Por qué siempre pasa esto!? ¡Lo juro, no hay hombres buenos en esta ciudad. ¡Demonios, tal vez ni en Japón!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "348_Player"
 msgid "(I could try recruiting her for the club.)"
 msgstr ""

@@ -24,237 +24,100 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00EE0416 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=5
-#. y4:msg_location=T3.P5
+
+
 msgctxt "248"
 msgid "The homeless man in front of West Park is now your ally."
 msgstr ""
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3708"
 msgid "Homeless Man"
 msgstr "Hombre sin hogar"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "3712"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "3716"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "3720"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "116_Homeless Man"
 msgid "Hey, man, thanks for the booze the other day."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "128_Homeless Man"
 msgid "I've got your back no matter what happens. You ever get caught in a fight nearby, I'll be there for you!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "140_Homeless Man"
 msgid "Wha? Huh? I'm outta booze."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "152_Homeless Man"
 msgid "Hey, you there. Can you be a pal and get me some booze?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "164_Homeless Man"
 msgid "Don't worry, I don't expect you to do it for free. I'll pay you back. You always treat me nice, so I owe you anyway."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "176_Homeless Man"
 msgid "I'll be waiting right here for the booze!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "188_Homeless Man"
 msgid "Ahh, there you are. Did you get me some booze?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=2
-#. y4:msg_location=T3.P2
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "212_Homeless Man"
 msgid "Ooh! Thank you!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=3
-#. y4:msg_location=T3.P3
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "224_Homeless Man"
 msgid "I knew you'd come through! I've got your back no matter what happens."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=4
-#. y4:msg_location=T3.P4
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "236_Homeless Man"
 msgid " I'll be there for you if you ever get caught in a fight nearby."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=8
-#. y4:msg_location=T3.P8
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "284_Homeless Man"
 msgid "By the way, you know about the Dragon Palace?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=9
-#. y4:msg_location=T3.P9
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
 msgctxt "296_Player"
 msgid "The Dragon Palace? Isn't that some famous castle or something?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=10
-#. y4:msg_location=T3.P10
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "308_Homeless Man"
 msgid "Nah. It's a little hangout spot for us homeless to get together and run some games of chance. Think of it like an arcade, but for grownups!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=11
-#. y4:msg_location=T3.P11
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
 msgctxt "320_Player"
 msgid "I never heard about it when I was homeless."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=12
-#. y4:msg_location=T3.P12
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "332_Homeless Man"
 msgid "That so? Well, it's the building just west of here. Place was abandoned in the middle of getting built up."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=13
-#. y4:msg_location=T3.P13
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "344_Homeless Man"
 msgid "You're a good guy. I'll tell 'em to let you in. You definitely gotta stop by."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=14
-#. y4:msg_location=T3.P14
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
 msgctxt "356_Player"
 msgid "I see, thanks for that. I'll check it out sometime."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=15
-#. y4:msg_location=T3.P15
-#. y4:msg_speaker=Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "368_Homeless Man"
 msgid "Oh, you don't have any. Well, I'll be here waiting."
 msgstr ""

@@ -24,456 +24,166 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
 #. y4:runtime_play_command=y4.play_msg 016C031B <group>
 
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "8184"
 msgid "峰村七海：源氏名"
 msgstr "峰村七海：源氏名"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "8188"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "8192"
 msgid "P_sitsofaR_tlk_yes"
 msgstr "P_sitsofaR_tlk_yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "8196"
 msgid "F_cab_sitsofa_tlk_happy"
 msgstr "F_cab_sitsofa_tlk_happy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "8200"
 msgid "P_sitsofaR_tlk_no"
 msgstr "P_sitsofaR_tlk_no"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "8204"
 msgid "F_cab_sitsofa_tlk_gakkariA"
 msgstr "F_cab_sitsofa_tlk_gakkariA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "8208"
 msgid "F_cab_sitsofa_tlk_appealA"
 msgstr "F_cab_sitsofa_tlk_appealA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "8212"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Sounds like a good idea to me. -> T0.P1 | 2. I don't think you should. -> T0.P3
 msgctxt "420_峰村七海：源氏名"
 msgid "I've been thinking about changing my hairstyle. What do you think?"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P2
-#. y4:msg_branch_target_text=Sounds like a good idea to me.
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 1e 00 00 00 00 00 00 00 00
 msgctxt "432_Player"
 msgid "Sounds like a good idea to me."
 msgstr "Parece una buena idea."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Sounds like a good idea to me.
 msgctxt "444_峰村七海：源氏名"
 msgid "Really? Then maybe I'll try it!"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P4
-#. y4:msg_branch_target_text=I don't think you should.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 19 00 00 00 00 00 00 00 00
 msgctxt "456_Player"
 msgid "I don't think you should."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=I don't think you should.
 msgctxt "468_峰村七海：源氏名"
 msgid "I see... I'll forget about it, then."
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Sounds like a good idea to me. -> T0.P1 | 2. I don't think you should. -> T0.P3
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=1
 msgctxt "480_峰村七海：源氏名"
 msgid "I've been thinking about changing my hairstyle. What do you think?"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P2
-#. y4:msg_branch_target_text=Sounds like a good idea to me.
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 1e 00 00 00 00 00 00 00 00
 msgctxt "492_Player"
 msgid "Sounds like a good idea to me."
 msgstr "Parece una buena idea."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Sounds like a good idea to me.
 msgctxt "504_峰村七海：源氏名"
 msgid "Really? Then maybe I'll try it!"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P4
-#. y4:msg_branch_target_text=I don't think you should.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 19 00 00 00 00 00 00 00 00
 msgctxt "516_Player"
 msgid "I don't think you should."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=I don't think you should.
 msgctxt "528_峰村七海：源氏名"
 msgid "I see... I'll forget about it, then."
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Sounds like a good idea to me. -> T0.P1 | 2. I don't think you should. -> T0.P3
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=2
 msgctxt "540_峰村七海：源氏名"
 msgid "I've been thinking about changing my hairstyle. What do you think?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Sounds like a good idea to me.
 msgctxt "552_Player"
 msgid "Sounds like a good idea."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Sounds like a good idea to me.
 msgctxt "564_峰村七海：源氏名"
 msgid "Really? Then maybe I'll try it!"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P4
-#. y4:msg_branch_target_text=I don't think you should.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 19 00 00 00 00 00 00 00 00
 msgctxt "576_Player"
 msgid "I don't think you should."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=I don't think you should.
 msgctxt "588_峰村七海：源氏名"
 msgid "I see... I'll forget about it, then."
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Sounds like a good idea to me. -> T0.P1 | 2. I don't think you should. -> T0.P3
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=3
 msgctxt "600_峰村七海：源氏名"
 msgid "I've been thinking about changing my hairstyle. What do you think?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Sounds like a good idea to me.
 msgctxt "612_Player"
 msgid "Sounds like a good idea."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Sounds like a good idea to me.
 msgctxt "624_峰村七海：源氏名"
 msgid "Really? Then maybe I'll try it!"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P4
-#. y4:msg_branch_target_text=I don't think you should.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 19 00 00 00 00 00 00 00 00
 msgctxt "636_Player"
 msgid "I don't think you should."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=I don't think you should.
 msgctxt "648_峰村七海：源氏名"
 msgid "I see... I'll forget about it, then."
 msgstr ""
 
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=4
 msgctxt "660_峰村七海：源氏名"
 msgid "I've been thinking about changing my hairstyle. What do you think?\\r\n"
 "What do you think?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Sounds like a good idea to me.
 msgctxt "672_Player"
 msgid "Sounds like a good idea."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Sounds like a good idea to me.
 msgctxt "684_峰村七海：源氏名"
 msgid "Really? Then maybe I'll try it!"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P4
-#. y4:msg_branch_target_text=I don't think you should.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 19 00 00 00 00 00 00 00 00
 msgctxt "696_Player"
 msgid "I don't think you should."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=I don't think you should.
 msgctxt "708_峰村七海：源氏名"
 msgid "I see... I'll forget about it, then."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "720_峰村七海：源氏名"
 msgid "I changed my hairstyle. What do you think?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=1
-#. y4:msg_location=T5.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "732_Tanimura"
 msgid "It looks great."
 msgstr ""
@@ -482,24 +192,10 @@ msgctxt "744_峰村七海：源氏名"
 msgid "Really? Thank you! I'm so happy. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "756_峰村七海：源氏名"
 msgid "I changed my hairstyle. What do you think?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=1
-#. y4:msg_location=T5.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "768_Tanimura"
 msgid "It looks great."
 msgstr ""
@@ -508,24 +204,10 @@ msgctxt "780_峰村七海：源氏名"
 msgid "Really? Thank you! <Color:7>♥<Color:Default>"
 msgstr "¡¿De verdad?! ¡Gracias! <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "792_峰村七海：源氏名"
 msgid "I changed my hairstyle. What do you think?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=1
-#. y4:msg_location=T5.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "804_Tanimura"
 msgid "It looks great."
 msgstr ""
@@ -534,24 +216,10 @@ msgctxt "816_峰村七海：源氏名"
 msgid "Really? Thank you! I'm so happy. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "828_峰村七海：源氏名"
 msgid "I changed my hairstyle. What do you think?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=1
-#. y4:msg_location=T5.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "840_Tanimura"
 msgid "It looks great."
 msgstr ""
@@ -560,24 +228,10 @@ msgctxt "852_峰村七海：源氏名"
 msgid "Really? Thank you! <Color:7>♥<Color:Default>"
 msgstr "¡¿De verdad?! ¡Gracias! <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "864_峰村七海：源氏名"
 msgid "I changed my hairstyle. What do you think?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=1
-#. y4:msg_location=T5.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=7
 msgctxt "876_Tanimura"
 msgid "It looks great."
 msgstr ""
@@ -586,172 +240,102 @@ msgctxt "888_峰村七海：源氏名"
 msgid "Really? Thank you! I'm so happy. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P2
-#. y4:msg_branch_target_text=Sounds like a good idea to me.
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 1e 00 00 00 00 00 00 00 00
 msgctxt "900_峰村七海：源氏名"
 msgid "Sounds like a good idea to me."
 msgstr "Parece una buena idea."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P4
-#. y4:msg_branch_target_text=I don't think you should.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 19 00 00 00 00 00 00 00 00
 msgctxt "912_峰村七海：源氏名"
 msgid "I don't think you should."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P2
-#. y4:msg_branch_target_text=Sounds like a good idea to me.
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 1e 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T1.P1
 msgctxt "924_峰村七海：源氏名"
 msgid "Sounds like a good idea to me."
 msgstr "Parece una buena idea."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P4
-#. y4:msg_branch_target_text=I don't think you should.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 19 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T1.P3
 msgctxt "936_峰村七海：源氏名"
 msgid "I don't think you should."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P2
-#. y4:msg_branch_target_text=Sounds like a good idea to me.
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 1e 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T2.P1
 msgctxt "948_峰村七海：源氏名"
 msgid "Sounds like a good idea to me."
 msgstr "Parece una buena idea."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P4
-#. y4:msg_branch_target_text=I don't think you should.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 19 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T2.P3
 msgctxt "960_峰村七海：源氏名"
 msgid "I don't think you should."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P2
-#. y4:msg_branch_target_text=Sounds like a good idea to me.
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 1e 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T3.P1
 msgctxt "972_峰村七海：源氏名"
 msgid "Sounds like a good idea to me."
 msgstr "Parece una buena idea."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P4
-#. y4:msg_branch_target_text=I don't think you should.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 19 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T3.P3
 msgctxt "984_峰村七海：源氏名"
 msgid "I don't think you should."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P2
-#. y4:msg_branch_target_text=Sounds like a good idea to me.
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 1e 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P1
 msgctxt "996_峰村七海：源氏名"
 msgid "Sounds like a good idea to me."
 msgstr "Parece una buena idea."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P4
-#. y4:msg_branch_target_text=I don't think you should.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 19 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P3
 msgctxt "1008_峰村七海：源氏名"
 msgid "I don't think you should."
 msgstr ""

@@ -24,152 +24,71 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_MAHJONG.bin
 #. y4:runtime_play_command=y4.play_msg 00EE00DD <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1588"
 msgid "Customer"
 msgstr "Cliente"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1592"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1596"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "1600"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Customer
-#. y4:msg_speaker_id=0
 msgctxt "140_Customer"
 msgid "You wanna play a game of mahjong, man? Gotta have 25,000 sticks on you. You can buy 'em over at the desk."
 msgstr "¿Quieres jugar una partida de mahjong? Necesitas 25.000 palos. Puedes comprarlos en el mostrador."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Customer
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Play -> T1.P3 | 2. Don't Play -> T1.P6
 msgctxt "152_Customer"
 msgid "Yo, play some mahjong with us? Just to warn you, we all suck at this game, heh."
 msgstr "Oye, ¿quieres jugar al mahjong con nosotros? Pero te advierto, somos muy malos a este juego, je."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Play
 msgctxt "164_Customer"
 msgid "Yeah, I'll play."
 msgstr "Sí, jugaré."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Customer
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Play
 msgctxt "176_Customer"
 msgid "Okay, let's get started, then!"
 msgstr "¡Bien, empecemos entonces!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Don't Play
 msgctxt "200_Customer"
 msgid "Not right now."
 msgstr "Ahora no."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Customer
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Don't Play
 msgctxt "212_Customer"
 msgid "Aw, man... Well, come talk to me if you're feeling up to it later."
 msgstr "Ay, hombre... Bueno, ven a hablar conmigo si te sientes con ganas más tarde."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P3
-#. y4:msg_branch_segment=T1.P3..P5
-#. y4:msg_branch_target_text=Yeah, I'll play.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "224_Customer"
 msgid "Play"
 msgstr "Jugar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P6
-#. y4:msg_branch_segment=T1.P6..P7
-#. y4:msg_branch_target_text=Not right now.
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "236_Customer"
 msgid "Don't Play"
 msgstr "No jugar"

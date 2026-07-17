@@ -24,103 +24,49 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_PACHINKO.bin
 #. y4:runtime_play_command=y4.play_msg 01EE04FE <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1736"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Play -> T0.P2 | 2. Not Now -> T0.P1
 msgctxt "100_Player"
 msgid "(This is CR Aladdin Destiny pachinko machine number 73. Maybe I should give it a try.)"
 msgstr "(Esta es la máquina pachinko número 73 de CR Aladdin Destiny. Tal vez podría probar suerte.)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Not Now
 msgctxt "112_Player"
 msgid "(Maybe later...)"
 msgstr "(Quizás luego...)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Play
 msgctxt "148_Player"
 msgid "(I don't have the cash... Guess I should go scrounge up 1,000 yen.)"
 msgstr "(No tengo dinero suficiente... Debería conseguir 1.000 yenes.)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Play
 msgctxt "256_Player"
 msgid "(Okay, let's do this.)"
 msgstr "(Está bien, lo intentaré.)"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P2
-#. y4:msg_branch_segment=T0.P2..P14
-#. y4:msg_branch_target_text=(I don't have the cash... Guess I should go scrounge up 1,000 yen.)
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "280_Player"
 msgid "Play"
 msgstr "Jugar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P1
-#. y4:msg_branch_target_text=(Maybe later...)
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "292_Player"
 msgid "Not Now"
 msgstr "Ahora no"

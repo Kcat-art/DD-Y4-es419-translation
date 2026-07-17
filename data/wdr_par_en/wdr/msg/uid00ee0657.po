@@ -18,103 +18,55 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
 msgctxt "176"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3012"
 msgid "Frustrated Businesswoman"
 msgstr "Empresaria frustrada"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "3016"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "3020"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "3024"
 msgid "Experience Points and Leveling Up"
 msgstr "Puntos de experiencia y subida de nivel"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Frustrated Businesswoman
-#. y4:msg_speaker_id=0
 msgctxt "56_Frustrated Businesswoman"
 msgid "Screw you! I hope you get fired, you good-for-nothing manager! ...Oh, crap, did you hear all that?"
 msgstr "¡Maldita sea! ¡Jefe de mierda! ...Ah, ¿escuchaste todo eso?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Frustrated Businesswoman
-#. y4:msg_speaker_id=0
 msgctxt "68_Frustrated Businesswoman"
 msgid "See, I used to be a hostess, right? Then I quit when I graduated college and started working at this \"dream\" company..."
 msgstr "Verás, yo solía trabajar como hostess en esta ciudad. Hace algunos años, cuando me gradué de la universidad, dejé ese trabajo\ny entré a una empresa de \"ensueño\"..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Frustrated Businesswoman
-#. y4:msg_speaker_id=0
 msgctxt "80_Frustrated Businesswoman"
 msgid "But my manager is totally worthless! I wish I could just sock him in the face and quit all dramatic-like, but I really wanted this job... Ugh."
 msgstr "¡Pero mi jefe es un completo idiota! A veces pienso en darle un puñetazo y renunciar, pero este puesto lo conseguí con mucho esfuerzo..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Frustrated Businesswoman
-#. y4:msg_speaker_id=0
 msgctxt "92_Frustrated Businesswoman"
 msgid "So, whenever I feel like quitting, I come to Kamurocho and shout my anger from the rooftops."
 msgstr "Por eso, cuando quiero renunciar, vengo a Kamurocho y grito en las azoteas para desahogar mis frustraciones."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Frustrated Businesswoman
-#. y4:msg_speaker_id=0
 msgctxt "104_Frustrated Businesswoman"
 msgid "Strangely enough, all the experience I gained here as a hostess is actually really helpful in my current job. Maybe you'll get something out of your experience in Kamurocho, too."
 msgstr "Sabes, la experiencia que he ganado en Kamurocho, como hostess, también me ha servido en mi actual trabajo. Amiguito, de seguro que tú también aprendes muchas cosas de esta ciudad."
@@ -125,13 +77,6 @@ msgid "Whenever you defeat enemies, eat, drink, or clear substories, you will ga
 msgstr "Siempre que derrotes enemigos, comas, bebas o completes subhistorias, ganaras cierta cantidad de puntos de experiencia, lo que te llevara a subir de nivel.\\r\nCada vez que subas un nivel, tu salud máxima y el medidor de Heat aumentaran. También obtendrás Orbes de Alma."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Experience Points and Leveling Up
-#. y4:msg_speaker_id=3
 msgctxt "128_Frustrated Businesswoman"
 msgid "Be sure to level up and prepare yourself to face even stronger foes."
 msgstr "Sube de nivel y prepárate bien para poder enfrentar enemigos fuertes."
@@ -143,13 +88,6 @@ msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nR
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Frustrated Businesswoman
-#. y4:msg_speaker_id=0
 msgctxt "152_Frustrated Businesswoman"
 msgid "I feel so much better after venting to you. Maybe I should grab a coworker to rant to, instead of forcing Kamurocho to hear it all the time."
 msgstr "Hablar contigo me hizo sentir mucho mejor. La próxima vez, en vez de gritar sola, quizá debería salir a conversar con un compañero de trabajo."

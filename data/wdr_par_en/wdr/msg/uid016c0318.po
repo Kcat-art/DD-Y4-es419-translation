@@ -24,456 +24,231 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 016C0318 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "6248"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "432_Player"
 msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. "You like expensive places, don't you?" -> T0.P3 | 2. "Would you want to live in a high-rise apartment?" -> T0.P4 | 3. "Taking care of a yard is a pain, isn't it?" -> T0.P5
 msgctxt "444_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice="Taking care of a yard is a pain, isn't it?"
 msgctxt "492_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "516_Player"
 msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. "You like expensive places, don't you?" -> T0.P3 | 2. "Would you want to live in a high-rise apartment?" -> T0.P4 | 3. "Taking care of a yard is a pain, isn't it?" -> T0.P5
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=1
 msgctxt "528_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice="Taking care of a yard is a pain, isn't it?"
 msgctxt "576_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "600_Player"
 msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. "You like expensive places, don't you?" -> T0.P3 | 2. "Would you want to live in a high-rise apartment?" -> T0.P4 | 3. "Taking care of a yard is a pain, isn't it?" -> T0.P5
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=2
 msgctxt "612_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice="Taking care of a yard is a pain, isn't it?"
 msgctxt "660_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "684_Player"
 msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. "You like expensive places, don't you?" -> T0.P3 | 2. "Would you want to live in a high-rise apartment?" -> T0.P4 | 3. "Taking care of a yard is a pain, isn't it?" -> T0.P5
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=3
 msgctxt "696_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice="Taking care of a yard is a pain, isn't it?"
 msgctxt "744_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. "You like expensive places, don't you?" -> T0.P3 | 2. "Would you want to live in a high-rise apartment?" -> T0.P4 | 3. "Taking care of a yard is a pain, isn't it?" -> T0.P5
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=4
 msgctxt "756_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice="Taking care of a yard is a pain, isn't it?"
 msgctxt "804_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P3
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 27 00 00 00 00 00 00 00 00
 msgctxt "816_Player"
 msgid "\"You like expensive places, don't you?\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P4
-#. y4:msg_branch_segment=T0.P4..P4
-#. y4:msg_branch_raw=01 11 00 04 00 00 00 32 00 00 00 00 00 00 00 00
 msgctxt "828_Player"
 msgid "\"Would you want to live in a high-rise apartment?\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P5
-#. y4:msg_branch_segment=T0.P5..P6
-#. y4:msg_branch_target_text=(That should do.)
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 2c 00 00 00 00 00 00 00 00
 msgctxt "840_Player"
 msgid "\"Taking care of a yard is a pain, isn't it?\""
 msgstr "\"Cuidar un jardín es una molestia, ¿no?\""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P3
-#. y4:msg_branch_segment=T1.P3..P3
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 26 00 00 00 00 00 00 00 00
 msgctxt "852_Player"
 msgid "\"You were the one being unreasonable.\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P4
-#. y4:msg_branch_segment=T1.P4..P4
-#. y4:msg_branch_raw=01 11 00 04 00 00 00 2a 00 00 00 00 00 00 00 00
 msgctxt "864_Player"
 msgid "\"Champagne is asking a little too much...\""
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P5
-#. y4:msg_branch_segment=T1.P5..P6
-#. y4:msg_branch_target_text=(That should do.)
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 1e 00 00 00 00 00 00 00 00
 msgctxt "876_Player"
 msgid "\"All men are pervs deep down.\""
 msgstr "\"Todos los hombres son pervertidos en el fondo.\""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P3
-#. y4:msg_branch_segment=T2.P3..P3
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 1e 00 00 00 00 00 00 00 00
 msgctxt "888_Player"
 msgid "\"That's incredibly expensive.\""
 msgstr "\"Eso es exageradamente caro.\""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P4
-#. y4:msg_branch_segment=T2.P4..P4
-#. y4:msg_branch_raw=01 11 00 04 00 00 00 2f 00 00 00 00 00 00 00 00
 msgctxt "900_Player"
 msgid "\"You're making a good living. It's not so bad.\""
 msgstr "\"Estás viviendo bien. No es para tanto.\""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P5
-#. y4:msg_branch_segment=T2.P5..P6
-#. y4:msg_branch_target_text=(That should do.)
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 2e 00 00 00 00 00 00 00 00
 msgctxt "912_Player"
 msgid "\"I hate it when people cancel on me suddenly.\""
 msgstr "\"Odio cuando la gente me cancela de repente\"."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P3
-#. y4:msg_branch_segment=T3.P3..P3
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 1c 00 00 00 00 00 00 00 00
 msgctxt "924_Player"
 msgid "\"You can't fool me anymore.\""
 msgstr "\"Ya no puedes engañarme.\""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P4
-#. y4:msg_branch_segment=T3.P4..P4
-#. y4:msg_branch_raw=01 11 00 04 00 00 00 25 00 00 00 00 00 00 00 00
 msgctxt "936_Player"
 msgid "\"I look forward to seeing you again.\""
 msgstr "\"Espero volver a verte pronto.\""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=16
-#. y4:msg_phrase=0
-#. y4:msg_location=T16.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P5
-#. y4:msg_branch_segment=T3.P5..P6
-#. y4:msg_branch_target_text=(That should do.)
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 1d 00 00 00 00 00 00 00 00
 msgctxt "948_Player"
 msgid "\"I'm serious about you, too.\""
 msgstr "\"Yo también voy en serio contigo.\""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T4.P1
-#. y4:msg_branch_segment=T4.P1..P1
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 23 00 00 00 00 00 00 00 00
 msgctxt "960_Player"
 msgid "\"You're a really interesting girl.\""
 msgstr "\"Eres una chica muy interesante.\""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=18
-#. y4:msg_phrase=0
-#. y4:msg_location=T18.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T4.P2
-#. y4:msg_branch_segment=T4.P2..P2
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "972_Player"
 msgid "\"Sorry I'm not rich.\""
 msgstr "\"Lo siento no soy millonario.\""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=19
-#. y4:msg_phrase=0
-#. y4:msg_location=T19.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T4.P3
-#. y4:msg_branch_segment=T4.P3..P4
-#. y4:msg_branch_target_text=(That should do.)
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 1d 00 00 00 00 00 00 00 00
 msgctxt "984_Player"
 msgid "\"I'll go see you again soon.\""
 msgstr "\"Volveré a verte pronto.\""

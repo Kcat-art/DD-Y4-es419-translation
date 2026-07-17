@@ -24,353 +24,150 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CLUBSEGA_02.bin
 #. y4:runtime_play_command=y4.play_msg 01EE02F4 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "4796"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "4800"
 msgid "Boxcelios 2"
 msgstr "Boxcelios 2"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "4804"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Read the Instructions
 msgctxt "204_Player"
 msgid "(Boxcelios 2? Looks like an arcade shooter...)"
 msgstr "(¿Boxcelios 2? Parece ser un shooter arcade...)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Boxcelios 2
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Read the Instructions
 msgctxt "216_Boxcelios 2"
 msgid "The sequel to Boxcelios. Control an invincible fighter and destroy as many enemies as possible before time runs out. This time, the game takes place over land."
 msgstr "La secuela de Boxcelios. Controla un invencible caza y destruye tantos enemigos sea posible antes que acabe el tiempo. Esta vez, el juego tiene lugar sobre la tierra."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Boxcelios 2
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Read the Instructions
 msgctxt "228_Boxcelios 2"
 msgid "Move your ship with <Action:Button_LS_Up@Shooting><Action:Button_LS_Down@Shooting><Action:Button_LS_Left@Shooting><Action:Button_LS_Right@Shooting>, and fire at enemies with your laser cannons using <Action:Button_Cross@Shooting>. Shoot and destroy either the glowing core or the majority of enemy ships to take them down."
 msgstr "Mueve tu nave con <Action:Button_LS_Up@Shooting><Action:Button_LS_Down@Shooting><Action:Button_LS_Left@Shooting><Action:Button_LS_Right@Shooting>, y dispara tus cañones láser con <Action:Button_Cross@Shooting>. Dispara y destruye los núcleos brillantes para derribar a las naves enemigas."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Boxcelios 2
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Read the Instructions
 msgctxt "240_Boxcelios 2"
 msgid "Time stands still for two seconds after an enemy appears. Use this time to aim for the enemy's core for maximum efficiency. You can also increase your time by up to 1 second with a quick defeat."
 msgstr "El tiempo se detiene dos segundos mientras aparece un nuevo enemigo. Aprovecha para apuntar al núcleo de la nave enemiga para mayor eficacia. Puedes incrementar el tiempo 1 segundo venciendo rápido al enemigo."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Play -> T0.P6 | 2. Read the Instructions -> T0.P1 | 3. Don't Play -> T0.P10
 msgctxt "252_Player"
 msgid "(Boxcelios 2... It's 100 yen per game. Should I give it a try?)"
 msgstr "(Boxcelios 2 ... Son 100 yenes por partida. ¿Debería probarlo?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Play
 msgctxt "276_Player"
 msgid "(All right, let's do this.)"
 msgstr "(Muy bien, empecemos.)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Play
 msgctxt "300_Player"
 msgid "(I don't have the money...)"
 msgstr "(No tengo dinero.)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Don't Play
 msgctxt "312_Player"
 msgid "(On second thought... maybe not.)"
 msgstr "(Pensándolo bien... mejor no.)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Read the Instructions
 msgctxt "336_Player"
 msgid "(Boxcelios 2? Looks like an arcade shooter...)"
 msgstr "(¿Boxcelios 2? Parece ser un shooter arcade...)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Boxcelios 2
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Read the Instructions
 msgctxt "348_Boxcelios 2"
 msgid "The sequel to Boxcelios. Control an invincible fighter and destroy as many enemies as possible before time runs out. This time, the game takes place over land."
 msgstr "La secuela de Boxcelios. Controla un invencible caza y destruye tantos enemigos sea posible antes que acabe el tiempo. Esta vez, el juego tiene lugar sobre la tierra."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Boxcelios 2
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Read the Instructions
 msgctxt "360_Boxcelios 2"
 msgid "Move your ship with <Action:Button_LS_Up@Shooting><Action:Button_LS_Down@Shooting><Action:Button_LS_Left@Shooting><Action:Button_LS_Right@Shooting>, and fire at enemies with your laser cannons using <Action:Button_Cross@Shooting>. Shoot and destroy either the glowing core or the majority of enemy ships to take them down."
 msgstr "Mueve tu nave con <Action:Button_LS_Up@Shooting><Action:Button_LS_Down@Shooting><Action:Button_LS_Left@Shooting><Action:Button_LS_Right@Shooting>, y dispara tus cañones láser con <Action:Button_Cross@Shooting>. Dispara y destruye los núcleos brillantes para derribar a las naves enemigas."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Boxcelios 2
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Read the Instructions
 msgctxt "372_Boxcelios 2"
 msgid "Time stands still for two seconds after an enemy appears. Use this time to aim for the enemy's core for maximum efficiency. You can also increase your time by up to 1 second with a quick defeat."
 msgstr "El tiempo se detiene dos segundos mientras aparece un nuevo enemigo. Aprovecha para apuntar al núcleo de la nave enemiga para mayor eficacia. Puedes incrementar el tiempo 1 segundo venciendo rápido al enemigo."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Play -> T0.P6 | 2. Read the Instructions -> T0.P1 | 3. Don't Play -> T0.P10
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=1
 msgctxt "384_Player"
 msgid "(Boxcelios 2... It's 100 yen per game. Should I give it a try?)"
 msgstr "(Boxcelios 2 ... Son 100 yenes por partida. ¿Debería probarlo?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Play
 msgctxt "408_Player"
 msgid "(All right, let's do this.)"
 msgstr "(Muy bien, empecemos.)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Play
 msgctxt "432_Player"
 msgid "(I don't have the money...)"
 msgstr "(No tengo dinero.)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Don't Play
 msgctxt "444_Player"
 msgid "(On second thought... maybe not.)"
 msgstr "(Pensándolo bien... mejor no.)"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P6
-#. y4:msg_branch_segment=T0.P6..P9
-#. y4:msg_branch_target_text=(All right, let's do this.)
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "456_Player"
 msgid "Play"
 msgstr "Jugar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0112
 #. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P5
-#. y4:msg_branch_target_text=(Boxcelios 2? Looks like an arcade shooter...)
-#. y4:msg_branch_raw=01 12 00 01 01 00 00 15 00 bd 00 20 00 00 00 00
 msgctxt "468_Player"
 msgid "Read the Instructions"
 msgstr "Leer las instrucciones"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P10
-#. y4:msg_branch_segment=T0.P10..P10
-#. y4:msg_branch_target_text=(On second thought... maybe not.)
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "480_Player"
 msgid "Don't Play"
 msgstr "No jugar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P6
-#. y4:msg_branch_segment=T0.P6..P9
-#. y4:msg_branch_target_text=(All right, let's do this.)
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 04 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T1.P6
 msgctxt "492_Player"
 msgid "Play"
 msgstr "Jugar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P5
-#. y4:msg_branch_target_text=(Boxcelios 2? Looks like an arcade shooter...)
-#. y4:msg_branch_raw=01 12 00 01 01 00 00 15 00 bd 00 20 00 00 00 00
+#. y4:msg_branch_target=T1.P1
 msgctxt "504_Player"
 msgid "Read the Instructions"
 msgstr "Leer las instrucciones"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P10
-#. y4:msg_branch_segment=T0.P10..P10
-#. y4:msg_branch_target_text=(On second thought... maybe not.)
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 0a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T1.P10
 msgctxt "516_Player"
 msgid "Don't Play"
 msgstr "No jugar"

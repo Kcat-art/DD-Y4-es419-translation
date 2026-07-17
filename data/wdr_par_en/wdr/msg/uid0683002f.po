@@ -24,43 +24,26 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 0683002F <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
+
+
 msgctxt "140"
 msgid "You got <Color:255,255,200,255>Taihei Boulevard Locker Key H-1<Color:Default>."
 msgstr "Has obtenido la <Color:255,255,200,255>llave del casillero H-1 del Bulevar Taihei<Color:Default>."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1184"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1188"
 msgid "Talk_Syagamu_st"
 msgstr "Talk_Syagamu_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1192"
 msgid "Talk_Syagamu_ed"
 msgstr "Talk_Syagamu_ed"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "56_Player"
 msgid "(There's something here...)"
 msgstr "(Hay algo ahí...)."

@@ -24,111 +24,57 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_ASAGAO.bin
 #. y4:runtime_play_command=y4.play_msg 06EE03A0 <group>
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
+
+
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Pick It Up -> T0.P2 | 2. Leave It There -> T0.P4
 msgctxt "112"
 msgid "Pick up the <Color:8>Worm<Color:Default>?"
 msgstr "¿Tomar el <Color:8>Gusano<Color:Default>?"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "940"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "944"
 msgid "P_stand_tlk_hirou_st"
 msgstr "P_stand_tlk_hirou_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "948"
 msgid "P_stand_tlk_hirou_ed"
 msgstr "P_stand_tlk_hirou_ed"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "100_Player"
 msgid "(There's something here...)"
 msgstr "(Hay algo ahí...)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Pick It Up
 msgctxt "124_Player"
 msgid "You got a <Color:8>Worm<Color:Default>."
 msgstr "Has obtenido un <Color:8>gusano<Color:Default>."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Leave It There
 msgctxt "148_Player"
 msgid "(I'll let him go on his way.)"
 msgstr "(Lo dejaré seguir su camino.)"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P2
-#. y4:msg_branch_segment=T0.P2..P3
-#. y4:msg_branch_target_text=You got a <Color:8>Worm<Color:Default>.
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "160_Player"
 msgid "Pick It Up"
 msgstr "Recógelo"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P4
-#. y4:msg_branch_segment=T0.P4..P4
-#. y4:msg_branch_target_text=(I'll let him go on his way.)
-#. y4:msg_branch_raw=01 11 00 04 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "172_Player"
 msgid "Leave It There"
 msgstr "Déjalo ahí"

@@ -24,53 +24,26 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_GOLF.bin
 #. y4:runtime_play_command=y4.play_msg 01260368 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1444"
 msgid "Tutorial"
 msgstr "Tutorial"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Tutorial
-#. y4:msg_speaker_id=0
 msgctxt "136_Tutorial"
 msgid "Use <Action:Button_LS_Left@Golf><Action:Button_LS_Right@Golf> to adjust the shot direction."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Tutorial
-#. y4:msg_speaker_id=0
 msgctxt "148_Tutorial"
 msgid "Press <Action:Button_L1@Golf><Action:Button_R1@Golf> to change clubs."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Tutorial
-#. y4:msg_speaker_id=0
 msgctxt "160_Tutorial"
 msgid "Press <Action:Button_Triangle@Golf> to alter the shot range to half the distance."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Tutorial
-#. y4:msg_speaker_id=0
 msgctxt "172_Tutorial"
 msgid "Use the <Action:Button_DPad_Up@Golf><Action:Button_DPad_Down@Golf><Action:Button_DPad_Left@Golf><Action:Button_DPad_Right@Golf> to change the impact point. Some points can put a spin on the ball."
 msgstr ""
@@ -80,13 +53,6 @@ msgid "Press <Action:Button_Cross@Golf>  to get the cursor moving.\\r\n"
 "Press <Action:Button_Cross@Golf> again to stop the cursor and set the shot power."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Tutorial
-#. y4:msg_speaker_id=0
 msgctxt "196_Tutorial"
 msgid "After setting the power, press <Action:Button_Cross@Golf> just as the cursor is aligned with the ball to deliver optimal impact."
 msgstr ""

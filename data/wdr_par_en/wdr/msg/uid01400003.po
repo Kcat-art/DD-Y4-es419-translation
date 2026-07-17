@@ -24,95 +24,42 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_CHOHAN.bin
 #. y4:runtime_play_command=y4.play_msg 01400003 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1108"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "152_Kiryu"
 msgid "Hold it... Don't think an amateur like you can trick me."
 msgstr "Espera... No creas que un novato como tú puede engañarme."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "164_Kiryu"
 msgid "Hold it... You wouldn't be cheating, now would you?"
 msgstr "Un momento... No estarás haciendo trampa, ¿verdad?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "176_Kiryu"
 msgid "Heh... Fine."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "188_Kiryu"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
 msgctxt "200_Kiryu"
 msgid "(She kept her cool... Guess I was wrong.)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "212_Kiryu"
 msgid "(Haruka says it'll be even... What should I do?)"
 msgstr "(Haruka dice que será par... ¿Qué debería hacer?)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "224_Kiryu"
 msgid "(Haruka says it'll be odd... What should I do?)"
 msgstr "(Haruka dice que será impar... ¿Qué debería hacer?)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "236_Kiryu"
 msgid "(I'm spent out.)"
 msgstr ""

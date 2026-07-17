@@ -24,20 +24,14 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01E6043D <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "296"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "56_Tanimura"
 msgid "(So this is Urban Foods... Tsugawa had better be in here.)"
 msgstr "(Así que esto es Urban Foods... Más le vale a Tsugawa estar aquí.)"

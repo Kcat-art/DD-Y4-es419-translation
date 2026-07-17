@@ -24,30 +24,28 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_CHOHAN.bin
 #. y4:runtime_play_command=y4.play_msg 01400007 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1524"
 msgid "Guessing the Number on One Die"
 msgstr "Adivinar el Número de Un Dado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1528"
 msgid "Guessing the Numbers on Both Dice"
 msgstr "Adivinar los Números en Ambos Dados"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "1532"
 msgid "Playing Against the House"
 msgstr "Jugar Contra la Casa"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "1536"
 msgid "How to Play Cho-han"
 msgstr "Cómo Jugar a Cho-han"
@@ -64,11 +62,6 @@ msgid "You can also bet on which numbers will show on both dice.\\r\n"
 msgstr "También puedes apostar a qué números saldrán en ambos dados.\\r\n"
 "Si aciertas, te llevas todo el dinero acumulado en el pozo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
 msgctxt "128_Guessing the Number on One Die"
 msgid "However, you must wager 20 percent of the betting limit in order to make your bet."
 msgstr "Sin embargo, debes apostar un 20% del límite de apuesta para poder participar."
@@ -81,13 +74,6 @@ msgstr "Para jugar contra la casa, primero haz tu apuesta. Si aciertas, las fich
 "En tu siguiente turno, volverás a adivinar si sale par o impar. Si aciertas, ganas el doble de fichas que apostaste.\\r\n"
 "Se pueden hacer hasta cinco tiradas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=How to Play Cho-han
-#. y4:msg_speaker_id=3
 msgctxt "152_Guessing the Number on One Die"
 msgid "Cho-han is a dice-rolling game where you guess if the total value of a pair of dice will be odd or even."
 msgstr "El Cho-han es un juego de dados en el que adivinas si la suma de un par de dados será par o impar."

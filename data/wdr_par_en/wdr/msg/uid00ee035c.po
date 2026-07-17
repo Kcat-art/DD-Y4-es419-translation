@@ -24,362 +24,158 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
 #. y4:runtime_play_command=y4.play_msg 00EE035C <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "17248"
 msgid "Naoki"
 msgstr "Naoki"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "17252"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "17256"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "17260"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "17264"
 msgid "Achieve Super Service 5 Times"
 msgstr "Alcanza el Super servicio 5 veces"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "17268"
 msgid "Mastering Cosplay Day"
 msgstr "Dominando el día del cosplay"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "17272"
 msgid "Aim for the Top!"
 msgstr "¡Apunta a la cima!"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "17276"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "17280"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "392_Naoki"
 msgid "Please pick out an outfit for your hostess. You can choose different types of clothing, makeup, and other items."
 msgstr "Por favor, escoja un atuendo para la hostess. Puede elegir diferentes tipos de ropa, maquillaje y otros accesorios."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "404_Naoki"
 msgid "There are only a small number of clothes available to you at first, but you will get more as you go along."
 msgstr "Cuando empiezas tienes poca ropa disponible, pero a medida que avances conseguirás más."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "416_Naoki"
 msgid "However, getting new clothes or accessories costs money."
 msgstr "Pero conseguirlos cuesta dinero."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "428_Naoki"
 msgid "Do your best to get by on the funds that we gave you."
 msgstr "Haga su mejor esfuerzo para poder aprovechar los fondos que tenga."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "440_Naoki"
 msgid "At our club, our girls go out on the club floor to entertain customers three times during their work day."
 msgstr "En nuestro club, las chicas deben salir a la sala a entretener a los clientes durante tres rondas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "452_Naoki"
 msgid "There is a short rest period between each shift. During this time, you can adjust her outfit or provide additional training."
 msgstr "Hay un pequeño descanso entre cada ronda. Aprovéchelo para mejorar en lo que esté fallando y cambiar de atuendo si es necesario."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "464_Naoki"
 msgid "We'll talk more about training next time."
 msgstr "Hablaremos sobre el entrenamiento más adelante."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "488_Naoki"
 msgid "Thank you! I'll contact you later about the results."
 msgstr "¡Gracias! Más tarde le digo los resultados."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "500_Naoki"
 msgid "See you next time!"
 msgstr "¡Hasta la próxima!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "524_Naoki"
 msgid "You can train your hostess between her shifts."
 msgstr "Puedes entrenar a su hostess en los descansos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "536_Naoki"
 msgid "Training allows you to improve the service stats of the hostesses, so it's important to train consistently."
 msgstr "El entrenamiento permite mejorar las estadísticas, así que es importante entrenar constantemente."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "548_Naoki"
 msgid "Looks, Smarts, and Charisma, as well as Motivation and Stress, can be affected by training. All are important factors when taking customer service into account."
 msgstr "Apariencia, inteligencia y carisma, entre otros, pueden afectar el entrenamiento. Todos estos son factores importantes a la hora de brindar el servicio al cliente."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "560_Naoki"
 msgid "Some customers may pay more attention to these subtle details as opposed to what outfit she's wearing. After all, it's what's on the inside that counts!"
 msgstr "Algunos clientes pueden prestar más atención a estos detalles en lugar de lo que lleva puesto. Al fin y al cabo, ¡lo que importa es lo que hay dentro!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "572_Naoki"
 msgid "However, please be aware that excessive training will make a hostess stressed out."
 msgstr "Pero ten en cuenta que un entrenamiento excesivo puede estresar a una hostess."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "584_Naoki"
 msgid "This can be remedied by having a hostess rest during break."
 msgstr "Esto se puede solucionar haciendo que la hostess tome un descanso."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "596_Naoki"
 msgid "Also note that repeating the same training may not be very effective. Hostesses are humans! They get bored, too!"
 msgstr "Ten en cuenta que repetir el mismo entrenamiento puede no ser muy efectivo. ¡Las hostesses son personas! ¡También se aburren!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "608_Naoki"
 msgid "Use both coordination and training to cultivate an excellent hostess. Remember, we're aiming for the top here!"
 msgstr "Usa tanto la coordinación como el entrenamiento para formar a una excelente hostess. ¡Recuerda, nuestro objetivo es llegar a lo más alto!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=8
-#. y4:msg_location=T2.P8
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "620_Naoki"
 msgid "Now, let's give training a try!"
 msgstr "Ahora, ¡a entrenar!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "644_Naoki"
 msgid "Great work today! I'll get in touch with you later."
 msgstr "¡Buen trabajo! Me pondré en contacto con usted más tarde."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "656_Naoki"
 msgid "See you next time!"
 msgstr "¡Hasta la próxima!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "680_Naoki"
 msgid "We did it! We brought up another number one hostess!"
 msgstr "¡Lo hicimos, convertimos a otra hostess en la número uno!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=1
-#. y4:msg_location=T4.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "692_Naoki"
 msgid "I expected nothing less from you, Akiyama-san. I believe our manager wishes to speak with you as well. Let's see what he has to say!"
 msgstr "No esperaba menos de usted, Akiyama-san. Nuestro gerente quiere hablar con usted también, veamos que tiene para decir."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "716_Naoki"
 msgid "Have you heard of Super Service?"
 msgstr "¿Ha escuchado del superservicio?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=1
-#. y4:msg_location=T5.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=3
 msgctxt "728_Akiyama"
 msgid "Super Service? No, I don't believe I have."
 msgstr "¿Super Servicio? No, nunca lo escuche, ¿de qué trata?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=2
-#. y4:msg_location=T5.P2
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "740_Naoki"
 msgid "Yes. When a hostess provides the best possible service to a customer, she shines like a radiant goddess."
 msgstr "Cuando una hostess da el mejor servicio al cliente, ella brilla como una diosa."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=3
-#. y4:msg_location=T5.P3
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "752_Naoki"
 msgid "That's what we call Super Service."
 msgstr "Eso lo llamamos Super Servicio."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=4
-#. y4:msg_location=T5.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=3
 msgctxt "764_Akiyama"
 msgid "Now <Italic>that</Italic> I'd like to see..."
 msgstr "Ahora <Italic>eso</Italic> me gustaría verlo..."
@@ -392,57 +188,22 @@ msgstr "Puedes activar el Super Servicio usando ciertas combinaciones de trajes 
 "\\r\n"
 "Usa una gran variedad de trajes para alcanzar el Super Servicio. Alcánzalo 5 veces."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=6
-#. y4:msg_location=T5.P6
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "788_Naoki"
 msgid "Good luck!"
 msgstr "¡Buena suerte!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "812_Naoki"
 msgid "Do you know what cosplay is?"
 msgstr "¿Sabes qué es el cosplay?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=1
-#. y4:msg_location=T6.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=3
 msgctxt "824_Akiyama"
 msgid "Cosplay? I've certainly heard of it. It's just dressing up in costumes, right?"
 msgstr "¿Cosplay? He oído sobre ello. Es solo disfrazarse, ¿no?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=2
-#. y4:msg_location=T6.P2
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "836_Naoki"
 msgid "Correct. At our club we sometimes have our hostesses dress in different costumes."
 msgstr "Exacto. En nuestro club a veces nuestros hostess van disfrazados."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=3
-#. y4:msg_location=T6.P3
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "848_Naoki"
 msgid "Of course, doing that all the time would be rather tiring, so we don't do it too often."
 msgstr "Claro, llevarlo puesto todo el tiempo es agotador, así que no lo usamos con frecuencia."
@@ -455,277 +216,102 @@ msgstr "A veces podrás encontrar que hay un evento de cosplay en curso. Cuanto 
 "\\r\n"
 "Durante el evento, podrás tener 10 o más solicitudes. El día de cosplay sigue hasta que consigas al menos 10 solicitudes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=6
-#. y4:msg_location=T5.P6
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "872_Naoki"
 msgid "Good luck!"
 msgstr "¡Buena suerte!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "896_Naoki"
 msgid "I think you know everything you need to know. There's nothing else I can tell you now!"
 msgstr "Creo que ya le dije todo lo que necesita saber, no hay nada más."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=1
-#. y4:msg_location=T7.P1
-#. y4:msg_speaker=Aim for the Top!
-#. y4:msg_speaker_id=6
 msgctxt "908_Naoki"
 msgid "Work hard, and help your hostess climb to the top!"
 msgstr "¡A trabajar duro y a subir una hostess a la cima!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=2
-#. y4:msg_location=T7.P2
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "920_Naoki"
 msgid "By the way, Akiyama-san. The event days have been pretty popular with our customers, so we're going to start adding them to the usual schedule."
 msgstr "Por cierto Akiyama-san. Los eventos son bastante populares entre los clientes, así que vamos a empezar a agendar algunos en el calendario."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=3
-#. y4:msg_location=T7.P3
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "932_Naoki"
 msgid "This is your chance to use what you learned last time to get closer to number one. I hope you'll take advantage of it."
 msgstr "Esta es la oportunidad para usar todo lo aprendido para acercarnos más a conseguir la hostess número uno. Espero que lo aproveche."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=6
-#. y4:msg_location=T5.P6
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "944_Naoki"
 msgid "Good luck!"
 msgstr "¡Buena suerte!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "968_Naoki"
 msgid "Well done, Akiyama-san!"
 msgstr "¡Bien hecho, Akiyama-san!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=1
-#. y4:msg_location=T8.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "980_Naoki"
 msgid "You witnessed 5 examples of Super Service. That means you've completed the Super Service mission!"
 msgstr "Has presenciado 5 ejemplos de superservicio. ¡Eso quiere decir que ya completaste la misión de Superservicio!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "992_Naoki"
 msgid "See you next time!"
 msgstr "¡Hasta la próxima!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1016_Naoki"
 msgid "Well done, Akiyama-san!"
 msgstr "¡Bien hecho, Akiyama-san!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=1
-#. y4:msg_location=T9.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1028_Naoki"
 msgid "You managed to get 10 requests, allowing you to complete the Cosplay Day mission!"
 msgstr "¡Te las arreglaste para conseguir 10 solicitudes, esto te permitió completar la misión del Día del Cosplay!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1040_Naoki"
 msgid "See you next time!"
 msgstr "¡Hasta la próxima!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1064_Naoki"
 msgid "Well done, Akiyama-san!"
 msgstr "¡Bien hecho, Akiyama-san!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=1
-#. y4:msg_location=T10.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1076_Naoki"
 msgid "At this rate, you're going to be giving me advice! You sure are an expert at training hostesses."
 msgstr "¡A este ritmo será usted el que me dé consejos! Seguro termina siendo un experto entrenando hostesses."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1112_Naoki"
 msgid "Well done, Akiyama-san!"
 msgstr "¡Bien hecho, Akiyama-san!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=2
-#. y4:msg_location=T11.P2
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1124_Naoki"
 msgid "Let's total up your earnings, shall we?"
 msgstr "Revisemos las ganancias, ¿le parece?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1160_Naoki"
 msgid "Well done, Akiyama-san!"
 msgstr "¡Bien hecho, Akiyama-san!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=2
-#. y4:msg_location=T11.P2
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1172_Naoki"
 msgid "Let's total up your earnings, shall we?"
 msgstr "Revisemos las ganancias, ¿le parece?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1208_Naoki"
 msgid "Well done, Akiyama-san!"
 msgstr "¡Bien hecho, Akiyama-san!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=2
-#. y4:msg_location=T11.P2
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1220_Naoki"
 msgid "Let's total up your earnings, shall we?"
 msgstr "Revisemos las ganancias, ¿le parece?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1256_Naoki"
 msgid "Well done, Akiyama-san!"
 msgstr "¡Bien hecho, Akiyama-san!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=2
-#. y4:msg_location=T14.P2
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1268_Naoki"
 msgid "Very impressive. You managed to make %s-san the number one hostess!"
 msgstr "Impresionante. ¡Convertiste a %s-san en la hostess número uno!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=3
-#. y4:msg_location=T14.P3
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1280_Naoki"
 msgid "Looks like the manager would like to talk to you. You should go see what he wants!"
 msgstr "Creo que el gerente quiere hablar contigo. ¡Deberías ir a hablar con él!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1304_Naoki"
 msgid "Now that you're getting used to training, let's give you a few more options."
 msgstr "Ya que te estás acostumbrando a entrenar, te daré otras opciones."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=1
-#. y4:msg_location=T15.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1316_Naoki"
 msgid "The following three options will allow you to balance a hostess's Stress and Motivation, improving their overall condition."
 msgstr "Estas tres opciones te ayudarán a manejar el estrés y la motivación, mejorando su estado general."
@@ -756,57 +342,22 @@ msgid "Use these training options wisely to get your hostess in\\r\n"
 msgstr "Utiliza sabiamente estas opciones para que tu hostess\n"
 "esté en óptimas condiciones."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=16
-#. y4:msg_phrase=1
-#. y4:msg_location=T16.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1400_Naoki"
 msgid "Everybody's dressing up for the cosplay event we're hosting!"
 msgstr "¡Todo el mundo se está disfrazando para el evento de cosplay que estamos organizando!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=16
-#. y4:msg_phrase=2
-#. y4:msg_location=T16.P2
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1412_Naoki"
 msgid "%s-san, please select a costume of your choice."
 msgstr "%s-san, por favor selecciona un atuendo de tu elección."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1436_Naoki"
 msgid "Akiyama-san, we've received something new for the wardrobe."
 msgstr "Akiyama-san, hemos recibido algo nuevo para el vestidor."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=1
-#. y4:msg_location=T17.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1448_Naoki"
 msgid "Please be sure to take a look whenever you can."
 msgstr "Por favor, eche un vistazo cuando pueda."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=1
-#. y4:msg_location=T18.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1484_Naoki"
 msgid "%s-san's rank has gone down."
 msgstr "El rango de %s-san ha bajado."
@@ -822,13 +373,6 @@ msgid "In any case, everyone worked hard today. Let's do our best\\r\n"
 msgstr "En cualquier caso, todo el mundo ha trabajado duro hoy.\\r\n"
 "Hagamos todo lo posible para conseguir otro ascenso de rango."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=19
-#. y4:msg_phrase=1
-#. y4:msg_location=T19.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1544_Naoki"
 msgid "%s-san's rank went up!"
 msgstr "¡El rango de %s-san ha subido!"
@@ -839,57 +383,22 @@ msgid "I can tell you've both been putting a lot into it. Keep up\\r\n"
 msgstr "Se nota que los dos le han puesto mucho empeño.\\r\n"
 "¡Sigan trabajando así de bien!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=19
-#. y4:msg_phrase=3
-#. y4:msg_location=T19.P3
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1568_Naoki"
 msgid "Great work today! Let's aim for the next milestone!"
 msgstr "¡Gran trabajo el de hoy! ¡Vamos a por el siguiente hito!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1592_Naoki"
 msgid "Well done, Akiyama-san!"
 msgstr "¡Bien hecho, Akiyama-san!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1604_Naoki"
 msgid "See you next time!"
 msgstr "¡Hasta la próxima!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=21
-#. y4:msg_phrase=0
-#. y4:msg_location=T21.P0
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1628_Naoki"
 msgid "%s-san isn't here today... She apparently skipped work."
 msgstr "%s-san no vino hoy... Al parecer se tomó el día libre."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=21
-#. y4:msg_phrase=1
-#. y4:msg_location=T21.P1
-#. y4:msg_speaker=Naoki
-#. y4:msg_speaker_id=0
 msgctxt "1640_Naoki"
 msgid "I would think she'd at least give us a call..."
 msgstr "Pensé que al menos nos llamaría..."

@@ -24,286 +24,124 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
 #. y4:runtime_play_command=y4.play_msg 016C0039 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
 msgctxt "504"
 msgid "Controls"
 msgstr "Controles"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "14280"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "14284"
 msgid "F_cab_sitsofa_hot_muneA"
 msgstr "F_cab_sitsofa_hot_muneA"
 
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "14288"
 msgid "望月京子：源氏名"
 msgstr "望月京子：源氏名"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "14292"
 msgid "F_cab_sitsofa_tlk_happy"
 msgstr "F_cab_sitsofa_tlk_happy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "14296"
 msgid "F_cab_sitsofa_tlk_angry"
 msgstr "F_cab_sitsofa_tlk_angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "14300"
 msgid "F_cab_sitsofa_talk_smileA"
 msgstr "F_cab_sitsofa_talk_smileA"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
 msgctxt "516_Kiryu"
 msgid "Use <Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control where you look. This is your chance to feast your eyes on her beauty."
 msgstr "Usa <Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> para mover tu mirada. Esta es tu oportunidad para deleitar tus ojos con su belleza."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
 msgctxt "528_Kiryu"
 msgid "Press <Action:Button_Cross@Cabaret> when you want to focus intently on one of her features. Holding down <Action:Button_Cross@Cabaret> allows you to focus your gaze."
 msgstr "Presiona <Action:Button_Cross@Cabaret> en el lugar donde deseas dirigir tu \"poderosa\" mirada. Si mantienes presionado <Action:Button_Cross@Cabaret>, la mirada se enfocará más y será aún más intensa."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
 msgctxt "540_Kiryu"
 msgid "Note that her response will change depending on where you look."
 msgstr "Ten en cuenta que su reacción cambiará dependiendo a donde mires."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "564_Kiryu"
 msgid "(Her eyes?)"
 msgstr "(¿Sus ojos?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "576_Kiryu"
 msgid "(Her mouth?)"
 msgstr "(¿Su boca?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "588_Kiryu"
 msgid "(Her hands?)"
 msgstr "(¿Sus manos?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "600_Kiryu"
 msgid "(Her thighs?)"
 msgstr "(¿Sus muslos?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "612_Kiryu"
 msgid "(Her forehead?)"
 msgstr "(¿Su frente?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "624_Kiryu"
 msgid "(Her chest?)"
 msgstr "(¿Su pecho?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "636_Kiryu"
 msgid "(Hmm...)"
 msgstr "(Mmm...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "648_Kiryu"
 msgid "What about your eyes? I've heard of women getting eyeliner tattoos."
 msgstr "¿En los ojos? Escuche de mujeres que se tatúan los ojos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=1
-#. y4:msg_location=T8.P1
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "660_望月京子：源氏名"
 msgid "It would make it simpler to put on makeup. I wouldn't have to draw it on every day."
 msgstr "Eso haría más fácil el maquillarse. No tendría que dibujarlo cada día."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=2
-#. y4:msg_location=T8.P2
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "672_望月京子：源氏名"
 msgid "But not what I had in mind. I wanted a picture. Like a fashion accessory."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=3
-#. y4:msg_location=T8.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "684_Kiryu"
 msgid "Oh, I see."
 msgstr "Oh, ya veo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "696_Kiryu"
 msgid "What about your lips or tongue? You'd only be able to see it when you opened your mouth."
 msgstr "¿En tus labios? Solo podrían verlo cara que abras la boca."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=1
-#. y4:msg_location=T9.P1
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "708_望月京子：源氏名"
 msgid "My mouth!? I don't know about that..."
 msgstr "¡¿En mi boca?! No lo se..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=2
-#. y4:msg_location=T9.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "720_Kiryu"
 msgid "Oh?"
 msgstr "Oh..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=3
-#. y4:msg_location=T9.P3
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "732_望月京子：源氏名"
 msgid "I'm a singer. I open my mouth all the time, so if I got a tattoo there, it would really change my image."
 msgstr "Soy cantante. Abro mi boca todo el tiempo, y ponerme un tatuaje allí cambiaria por completo mi imagen."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=4
-#. y4:msg_location=T9.P4
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "744_Kiryu"
 msgid "I see. That might be a little much then, huh?"
 msgstr "Ya veo. Cambiaria un poco demasiado..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "756_Kiryu"
 msgid "What about the back of your hand?"
 msgstr "¿Qué tal en tu mano? No en la palma, sino que en el dorso."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=1
-#. y4:msg_location=T10.P1
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "768_望月京子：源氏名"
 msgid "That's not a bad idea. It would stand out when I'm playing my guitar or holding a mic."
 msgstr "No es mala. Destacaría bastante ya que uso la guitarra o el micrófono."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=2
-#. y4:msg_location=T10.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "780_Kiryu"
 msgid "Do you know what kind of tattoo you want?"
 msgstr "¿Sabes por lo menos que tatuaje quieres?"
@@ -312,35 +150,14 @@ msgctxt "792_望月京子：源氏名"
 msgid "Hmm... Maybe I'll go with one of my favorite flowers. I bet that'd be cute. <Color:7>♥<Color:Default>"
 msgstr "Mmm... Capaz una de mis flores favoritas. Segura que quedaría bonita.<Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "804_Kiryu"
 msgid "What about your thighs?"
 msgstr "¿Y en tus muslos?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=1
-#. y4:msg_location=T11.P1
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "816_望月京子：源氏名"
 msgid "Maybe... I suppose you could see it when I wear a miniskirt."
 msgstr "Quizás... Supongo que se vería con una minifalda."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=2
-#. y4:msg_location=T10.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "828_Kiryu"
 msgid "Do you know what kind of tattoo you want?"
 msgstr "¿Sabes por lo menos que tatuaje quieres?"
@@ -349,244 +166,90 @@ msgctxt "840_望月京子：源氏名"
 msgid "Hmm... I might go with one of my favorite flowers. I bet that'd be cute. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "852_Kiryu"
 msgid "What about your forehead?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=1
-#. y4:msg_location=T12.P1
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "864_望月京子：源氏名"
 msgid "My forehead!? Are you insane!? That'd stand out a little much, don't you think?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=2
-#. y4:msg_location=T12.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "876_Kiryu"
 msgid "Well, it would certainly have an impact."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=3
-#. y4:msg_location=T12.P3
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "888_望月京子：源氏名"
 msgid "I don't need that kind of impact! People would think I was crazy!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "900_Kiryu"
 msgid "What about your chest? It would emphasize your sexy side."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=1
-#. y4:msg_location=T13.P1
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "912_望月京子：源氏名"
 msgid "Hmm. That's not a bad idea, but..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=2
-#. y4:msg_location=T13.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "924_Kiryu"
 msgid "But?"
 msgstr "¿Pero?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=3
-#. y4:msg_location=T13.P3
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "936_望月京子：源氏名"
 msgid "I don't like the idea of the tattooist seeing my chest while I had it done. I want to save that for someone special."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=4
-#. y4:msg_location=T13.P4
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "948_Kiryu"
 msgid "Heh, I see..."
 msgstr "Je, ya veo..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "960_望月京子：源氏名"
 msgid "Hey, what're you looking at?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=1
-#. y4:msg_location=T14.P1
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "972_望月京子：源氏名"
 msgid "This is important. Pay a little more attention!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=2
-#. y4:msg_location=T14.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "984_Kiryu"
 msgid "If you can't decide on your own, maybe you shouldn't do it. You can't take it back once you get a tattoo, you know."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=3
-#. y4:msg_location=T14.P3
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "996_望月京子：源氏名"
 msgid "I've heard they can remove tattoos now. It does leave a small scar, though."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=4
-#. y4:msg_location=T14.P4
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1008_望月京子：源氏名"
 msgid "Okay. I'll give it a little more thought."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1020_Kiryu"
 msgid "(Her almond-shaped eyes?)"
 msgstr "(¿Sus ojos café?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=16
-#. y4:msg_phrase=0
-#. y4:msg_location=T16.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1032_Kiryu"
 msgid "(Her strong lips?)"
 msgstr "(¿Sus labios?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1044_Kiryu"
 msgid "(Her slender hands?)"
 msgstr "(¿Sus delicadas manos?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=0
-#. y4:msg_location=T18.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1056_Kiryu"
 msgid "(Her pretty legs?)"
 msgstr "(¿Sus hermosas piernas?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=19
-#. y4:msg_phrase=0
-#. y4:msg_location=T19.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1068_Kiryu"
 msgid "(Her beautiful hair?)"
 msgstr "(¿Su lindo pelo?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=20
-#. y4:msg_phrase=0
-#. y4:msg_location=T20.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1080_Kiryu"
 msgid "(Pretty impressive...)"
 msgstr "(Impresionante...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=21
-#. y4:msg_phrase=0
-#. y4:msg_location=T21.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1092_Kiryu"
 msgid "(Well...)"
 msgstr "(Bueno...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=0
-#. y4:msg_location=T22.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1104_Kiryu"
 msgid "I'd say your almond-shaped eyes."
 msgstr "Yo diría que tus ojos color café."
@@ -595,35 +258,14 @@ msgctxt "1116_望月京子：源氏名"
 msgid "Good answer. They are pretty sexy, if I do say so myself. <Color:7>♥<Color:Default>"
 msgstr "Qué cosas dices Kiryu-san ♥, Gracias. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=2
-#. y4:msg_location=T22.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1128_Kiryu"
 msgid "I always get a little thrill when you look at me with those eyes."
 msgstr "Me pones un poco nervioso cuando me miras con esos ojos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1140_望月京子：源氏名"
 msgid "Hahaha! I guess that makes two of us."
 msgstr "¡ja, ja, ja! Supongo que ya somos dos. ♥"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1152_Kiryu"
 msgid "Hm? Two of us?"
 msgstr "¿Hm? ¿Ya somos dos?"
@@ -632,79 +274,30 @@ msgctxt "1164_望月京子：源氏名"
 msgid "Oh, never mind! I was just talking to myself. <Color:7>♥<Color:Default>"
 msgstr "¡Oh, no es nada! Estaba pensando en voz alta. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=0
-#. y4:msg_location=T23.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1176_Kiryu"
 msgid "I'd say your strong lips."
 msgstr "Diría que tus labios."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=1
-#. y4:msg_location=T23.P1
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1188_望月京子：源氏名"
 msgid "Actually, I'm pretty proud of my lips. As a singer, my lips are important."
 msgstr "La verdad, estoy bastante contenta de como quedaron. Como cantante, verme bien es importante."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=2
-#. y4:msg_location=T23.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1200_Kiryu"
 msgid "I like it when they're moist and supple."
 msgstr "Me gusta el color y brillo que tienen."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=3
-#. y4:msg_location=T23.P3
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1212_望月京子：源氏名"
 msgid " Is that so? Sounds like you have a thing for lips..."
 msgstr " ¿De verdad? Suena que te gustan los labios..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=0
-#. y4:msg_location=T24.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1224_Kiryu"
 msgid "I'd say your slender hands."
 msgstr "Diría que tus delicadas manos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=1
-#. y4:msg_location=T24.P1
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1236_望月京子：源氏名"
 msgid "You really think so? Everybody says I'm such a tomboy. Nobody's ever complimented me on my hands before."
 msgstr "¿De verdad? Todo el mundo me dice que soy una tomboy. Nadie me dijo o halagado por mis manos antes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=2
-#. y4:msg_location=T24.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1248_Kiryu"
 msgid "Heh... They don't appreciate you enough."
 msgstr "Je... No te aprecian lo suficiente."
@@ -713,35 +306,14 @@ msgctxt "1260_望月京子：源氏名"
 msgid "Hahaha! You sure have a silver tongue, don't you? But thanks. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=0
-#. y4:msg_location=T25.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1272_Kiryu"
 msgid "I'd say your pretty legs."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=1
-#. y4:msg_location=T25.P1
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1284_望月京子：源氏名"
 msgid "Oh, I see. You're a leg man."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=2
-#. y4:msg_location=T25.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1296_Kiryu"
 msgid "Not really. But anyone can appreciate legs as nice as yours."
 msgstr ""
@@ -750,145 +322,54 @@ msgctxt "1308_望月京子：源氏名"
 msgid "Hahaha! You sure have a silver tongue, don't you? But thanks. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=0
-#. y4:msg_location=T26.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1320_Kiryu"
 msgid "I'd say your beautiful hair."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=1
-#. y4:msg_location=T26.P1
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1332_望月京子：源氏名"
 msgid "Really? You think it's beautiful?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=2
-#. y4:msg_location=T26.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1344_Kiryu"
 msgid "Yeah."
 msgstr "Sí."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=3
-#. y4:msg_location=T26.P3
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1356_望月京子：源氏名"
 msgid "Wow. I wear hats pretty often, but maybe I shouldn't be hiding this beautiful hair of mine."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1368_望月京子：源氏名"
 msgid "Hey, what're you looking at?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=1
-#. y4:msg_location=T27.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1380_Kiryu"
 msgid "I know what's most attractive."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=2
-#. y4:msg_location=T27.P2
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1392_望月京子：源氏名"
 msgid "Haha! At least you're direct. I like that about you."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=3
-#. y4:msg_location=T27.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1404_Kiryu"
 msgid "Heh..."
 msgstr "Je..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=0
-#. y4:msg_location=T28.P0
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1416_望月京子：源氏名"
 msgid "Hey, what're you looking at!?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=1
-#. y4:msg_location=T28.P1
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1428_望月京子：源氏名"
 msgid "So no part of me is attractive, huh?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=2
-#. y4:msg_location=T28.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1440_Kiryu"
 msgid "I didn't mean that."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=3
-#. y4:msg_location=T28.P3
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1452_望月京子：源氏名"
 msgid "I'm disappointed. Hundreds of people look at me on stage, but I can't even get you to give me a second glance."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=4
-#. y4:msg_location=T28.P4
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1464_Kiryu"
 msgid "......"
 msgstr "......"

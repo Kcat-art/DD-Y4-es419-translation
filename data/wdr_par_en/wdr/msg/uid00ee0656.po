@@ -18,83 +18,45 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
 msgctxt "168"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2456"
 msgid "Directionally Challenged Man"
 msgstr "Hombre con problemas de orientación"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2460"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2464"
 msgid "Maps"
 msgstr "Mapas"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Directionally Challenged Man
-#. y4:msg_speaker_id=0
 msgctxt "84_Directionally Challenged Man"
 msgid "...Huh? Hold on. I was just walking around the movie theater in Theater Square, but now I'm near Tenkaichi Street..."
 msgstr "..¿Eh? Espera. Estaba paseando frente al cine de la plaza del teatro, pero ahora estoy cerca de la calle Tenkaichi..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Directionally Challenged Man
-#. y4:msg_speaker_id=0
 msgctxt "96_Directionally Challenged Man"
 msgid "This map makes no sense. How'm I supposed to know where I'm going? Ugh. I'm gonna go back to the rooftop to see if I can figure it out up there."
 msgstr "Este mapa que me dieron no sirve. Qué suerte que tengo buena vista. Debería subir a las azoteas y guiarme desde ahí."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Maps
-#. y4:msg_speaker_id=2
 msgctxt "108_Maps"
 msgid "The circular map on the bottom left of your screen is called the minimap. Not only does it display the surrounding area, it also shows you the locations of objectives and enemies."
 msgstr "El mapa circular en la esquina inferior izquierda de la pantalla se llama minimapa. No solo muestra los alrededores, sino que también indica la ubicación de los objetivos y de los enemigos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Maps
-#. y4:msg_speaker_id=2
 msgctxt "120_Maps"
 msgid "Additionally, you can view the Map within the Pause Menu by pressing the <Action:Button_Options@Adventure> button. There, you can see an overall view of Kamurocho that includes rooftops and underground areas. It also displays information on facilities, such as shops and restaurants."
 msgstr "Además, puede ver el Mapa dentro del Menú de Pausa presionando <Action:Button_Options@Adventure>. Ahí podrás tener una vista general de Kamurocho, incluídas las azoteas y zonas subterráneas. También muestra información sobre los establecimientos, como tiendas y restaurantes."
@@ -106,13 +68,6 @@ msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nR
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Directionally Challenged Man
-#. y4:msg_speaker_id=0
 msgctxt "144_Directionally Challenged Man"
 msgid "So if this is Tenkaichi Street, then Theater Square is over there... But it's not... Ugh, stupid maps! Guess it's time for another \"adventure\"!"
 msgstr "Así que esta es la calle Tenkaichi, y allá está el teatro. Eso significa que... ¡No sé dónde estoy! ¡Esto va a ser toda una odisea!"

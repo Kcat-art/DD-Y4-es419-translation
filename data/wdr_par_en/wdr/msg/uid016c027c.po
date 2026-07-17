@@ -24,864 +24,351 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
 #. y4:runtime_play_command=y4.play_msg 016C027C <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "26700"
 msgid "Attendant"
 msgstr "Asistente"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "26704"
 msgid "M_stand_tlk_shoukai"
 msgstr "M_stand_tlk_shoukai"
 
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "26708"
 msgid "松岡里緒奈：源氏名"
 msgstr "松岡里緒奈：源氏名"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "26712"
 msgid "F_cab_stand_tlk_ojigi_01"
 msgstr "F_cab_stand_tlk_ojigi_01"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "26716"
 msgid "F_cab_sitsofa_tlk_suprise"
 msgstr "F_cab_sitsofa_tlk_suprise"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "26720"
 msgid "P_sitsofaR_tlk_yes"
 msgstr "P_sitsofaR_tlk_yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "26724"
 msgid "F_cab_sitsofa_tlk_ojigiA"
 msgstr "F_cab_sitsofa_tlk_ojigiA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "26728"
 msgid "F_cab_sitsofa_tlk_he_yes"
 msgstr "F_cab_sitsofa_tlk_he_yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
+#. y4:msg_role=name
+#. y4:msg_name_id=8
 msgctxt "26732"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "26736"
 msgid "P_sitsofaL_tlk_yes"
 msgstr "P_sitsofaL_tlk_yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "26740"
 msgid "F_cab_sitsofa_tlk_he_smile"
 msgstr "F_cab_sitsofa_tlk_he_smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "26744"
 msgid "P_sitsofaL_tlk_no"
 msgstr "P_sitsofaL_tlk_no"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "26748"
 msgid "F_cab_sitsofa_tlk_he_happy"
 msgstr "F_cab_sitsofa_tlk_he_happy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "26752"
 msgid "F_cab_sitsofa_tlk_he_surp"
 msgstr "F_cab_sitsofa_tlk_he_surp"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "26756"
 msgid "F_cab_sitsofa_tlk_he_no"
 msgstr "F_cab_sitsofa_tlk_he_no"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
 msgctxt "26760"
 msgid "P_sitsofaL_tlk_smile"
 msgstr "P_sitsofaL_tlk_smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
+#. y4:msg_role=name
+#. y4:msg_name_id=16
 msgctxt "26764"
 msgid "Himeka"
 msgstr "Himeka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=17
+#. y4:msg_role=name
+#. y4:msg_name_id=17
 msgctxt "26768"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=18
 msgctxt "26772"
 msgid "P_sitsofaR_tlk_kamae"
 msgstr "P_sitsofaR_tlk_kamae"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=19
 msgctxt "26776"
 msgid "F_cab_sitsofa_tlk_happy"
 msgstr "F_cab_sitsofa_tlk_happy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=20
 msgctxt "26780"
 msgid "P_sitsofaR_tlk_smile"
 msgstr "P_sitsofaR_tlk_smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=21
 msgctxt "26784"
 msgid "F_cab_sitsofa_talk_smileA"
 msgstr "F_cab_sitsofa_talk_smileA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=22
 msgctxt "26788"
 msgid "F_cab_sitsofa_tlk_yes"
 msgstr "F_cab_sitsofa_tlk_yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=23
 msgctxt "26792"
 msgid "P_sitsofaR_tlk_no"
 msgstr "P_sitsofaR_tlk_no"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=24
 msgctxt "26796"
 msgid "P_sitsofaR_tlk_quest"
 msgstr "P_sitsofaR_tlk_quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=25
 msgctxt "26800"
 msgid "F_cab_sitsofa_tlk_kamaeAtoB"
 msgstr "F_cab_sitsofa_tlk_kamaeAtoB"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=26
 msgctxt "26804"
 msgid "P_sitsofaR_tlk_ase"
 msgstr "P_sitsofaR_tlk_ase"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=27
 msgctxt "26808"
 msgid "P_sitsofaR_tlk_think"
 msgstr "P_sitsofaR_tlk_think"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=28
+#. y4:msg_role=name
+#. y4:msg_name_id=28
 msgctxt "26812"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Attendant
-#. y4:msg_speaker_id=0
 msgctxt "936_Attendant"
 msgid "Sorry to keep you waiting."
 msgstr "Lamento hacerle esperar."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Attendant
-#. y4:msg_speaker_id=0
 msgctxt "960_Attendant"
 msgid "This is %s-san."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "972_松岡里緒奈：源氏名"
 msgid "Hello!"
 msgstr "¡Hola!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Attendant
-#. y4:msg_speaker_id=0
 msgctxt "1020_Attendant"
 msgid "Sorry to keep you waiting."
 msgstr "Lamento hacerle esperar."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Attendant
-#. y4:msg_speaker_id=0
 msgctxt "1044_Attendant"
 msgid "This is %s-san."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1056_松岡里緒奈：源氏名"
 msgid "Hello!"
 msgstr "¡Hola!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Attendant
-#. y4:msg_speaker_id=0
 msgctxt "1104_Attendant"
 msgid "Sorry to keep you waiting."
 msgstr "Lamento hacerle esperar."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Attendant
-#. y4:msg_speaker_id=0
 msgctxt "1128_Attendant"
 msgid "This is %s-san."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1140_松岡里緒奈：源氏名"
 msgid "Hello!"
 msgstr "¡Hola!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1176_松岡里緒奈：源氏名"
 msgid "Hello."
 msgstr "Hola."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=2
-#. y4:msg_location=T3.P2
 msgctxt "1188_Attendant"
 msgid ">"
 msgstr ">"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=3
-#. y4:msg_location=T3.P3
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1200_Attendant"
 msgid "I'm %s. Hope this seat isn't taken."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1224_松岡里緒奈：源氏名"
 msgid "Hello."
 msgstr "Hola."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=2
-#. y4:msg_location=T3.P2
 msgctxt "1236_Attendant"
 msgid ">"
 msgstr ">"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=3
-#. y4:msg_location=T3.P3
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1248_Attendant"
 msgid "I'm %s. Hope this seat isn't taken."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1272_松岡里緒奈：源氏名"
 msgid "Hello."
 msgstr "Hola."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=2
-#. y4:msg_location=T3.P2
 msgctxt "1284_Attendant"
 msgid ">"
 msgstr ">"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=3
-#. y4:msg_location=T3.P3
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1296_Attendant"
 msgid "I'm %s. Hope this seat isn't taken."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1320_松岡里緒奈：源氏名"
 msgid "Hello."
 msgstr "Hola."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=2
-#. y4:msg_location=T6.P2
 msgctxt "1332_松岡里緒奈：源氏名"
 msgid "I'm %s."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1380_松岡里緒奈：源氏名"
 msgid "Hello."
 msgstr "Hola."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=2
-#. y4:msg_location=T6.P2
 msgctxt "1392_松岡里緒奈：源氏名"
 msgid "I'm %s."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1440_松岡里緒奈：源氏名"
 msgid "Hello."
 msgstr "Hola."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=2
-#. y4:msg_location=T6.P2
 msgctxt "1452_松岡里緒奈：源氏名"
 msgid "I'm %s."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1488_松岡里緒奈：源氏名"
 msgid "Oh, I got a request."
 msgstr "Oh, me han solicitado."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=1
-#. y4:msg_location=T9.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1500_松岡里緒奈：源氏名"
 msgid "Enjoy your stay, okay?"
 msgstr "Disfruta de tu estancia, ¿sí?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=2
-#. y4:msg_location=T9.P2
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1512_松岡里緒奈：源氏名"
 msgid "Bye for now."
 msgstr "Hasta luego."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1524_松岡里緒奈：源氏名"
 msgid "Riona does not appear for Kiryu's 1st or 3rd. Notify a programmer if this message is displayed."
 msgstr "Riona does not appear for Kiryu's 1st or 3rd. Notify a programmer if this message is displayed."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1536_松岡里緒奈：源氏名"
 msgid "Riona does not appear for Kiryu's 1st or 3rd. Notify a programmer if this message is displayed."
 msgstr "Riona does not appear for Kiryu's 1st or 3rd. Notify a programmer if this message is displayed."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1548_松岡里緒奈：源氏名"
 msgid "Riona does not appear for Kiryu's 1st or 3rd. Notify a programmer if this message is displayed."
 msgstr "Riona does not appear for Kiryu's 1st or 3rd. Notify a programmer if this message is displayed."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1560_松岡里緒奈：源氏名"
 msgid "Riona does not appear for Kiryu's 1st or 3rd. Notify a programmer if this message is displayed."
 msgstr "Riona does not appear for Kiryu's 1st or 3rd. Notify a programmer if this message is displayed."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1572_松岡里緒奈：源氏名"
 msgid "Riona does not appear for Kiryu's 1st or 3rd. Notify a programmer if this message is displayed."
 msgstr "Riona does not appear for Kiryu's 1st or 3rd. Notify a programmer if this message is displayed."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1584_松岡里緒奈：源氏名"
 msgid "Riona does not appear for Kiryu's 1st or 3rd. Notify a programmer if this message is displayed."
 msgstr "Riona does not appear for Kiryu's 1st or 3rd. Notify a programmer if this message is displayed."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=0
-#. y4:msg_location=T16.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1596_松岡里緒奈：源氏名"
 msgid "Hi! Nice to meet you!"
 msgstr "¡Hola! ¡Encantada de conocerte!"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=1
-#. y4:msg_location=T16.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
 msgctxt "1608_Kiryu"
 msgid "I'm Kazuma Kiryu. Nice to meet you."
 msgstr "Soy Kazuma Kiryu. Encantado de conocerte."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=2
-#. y4:msg_location=T16.P2
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1620_松岡里緒奈：源氏名"
 msgid "You look pretty laid-back."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=3
-#. y4:msg_location=T16.P3
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1632_松岡里緒奈：源氏名"
 msgid "You'll have to be a little more energetic if you want to drink with me!"
 msgstr "¡Tendrás que tener un poco más de energía si quieres beber conmigo!"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=4
-#. y4:msg_location=T16.P4
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
 msgctxt "1644_Kiryu"
 msgid "Hey, you're not drunk already, are you?"
 msgstr "Oye, aún no estás borracho, ¿verdad?"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=5
-#. y4:msg_location=T16.P5
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. I'm a beer man, myself. -> T16.P6 | 2. Whiskey. No question. -> T16.P13 | 3. You might be surprised, but I like champagne. -> T16.P20
 msgctxt "1656_松岡里緒奈：源氏名"
 msgid "Not yet! What kind of alcohol do you like? I'll drink whatever you order!"
 msgstr "Todavía no. ¿Qué tipo de alcohol te gusta? ¡Beberé lo sea que pidas!"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=47
-#. y4:msg_phrase=0
-#. y4:msg_location=T47.P0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T16.P6
-#. y4:msg_branch_segment=T16.P6..P12
-#. y4:msg_branch_target_text=I'm a beer man, myself.
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 17 00 00 00 00 00 00 00 00
 msgctxt "1668_Kiryu"
 msgid "I'm a beer man, myself."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=7
-#. y4:msg_location=T16.P7
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=I'm a beer man, myself.
 msgctxt "1680_松岡里緒奈：源氏名"
 msgid "Beer, huh? There's nothing like a cold one after a hard day's work! Of course, in my case, drinking is my work."
 msgstr "Cerveza, ¿eh? No hay nada como una cerveza fría después de un duro día de trabajo. Claro que, en mi caso, beber es mi trabajo."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=8
-#. y4:msg_location=T16.P8
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=I'm a beer man, myself.
 msgctxt "1692_松岡里緒奈：源氏名"
 msgid "Are you on your way home from work?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=9
-#. y4:msg_location=T16.P9
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=I'm a beer man, myself.
 msgctxt "1704_Kiryu"
 msgid "In a way."
 msgstr "En cierto modo."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=10
-#. y4:msg_location=T16.P10
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=I'm a beer man, myself.
 msgctxt "1716_松岡里緒奈：源氏名"
 msgid "You work in an outfit like that? I'm guessing you're not an average businessman."
 msgstr "¿Usted trabaja vestido de esa manera? Supongo que no es un hombre de negocios promedio."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=11
-#. y4:msg_location=T16.P11
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=I'm a beer man, myself.
 msgctxt "1728_Kiryu"
 msgid "Well, that depends on your point of view."
 msgstr "Bueno, eso depende de tu punto de vista."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=12
-#. y4:msg_location=T16.P12
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=I'm a beer man, myself.
 msgctxt "1740_松岡里緒奈：源氏名"
 msgid "Oh come on! What do you do? I have to know!"
 msgstr "¡Vamos! ¿A qué se dedica? ¡Tengo que saberlo!"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=48
-#. y4:msg_phrase=0
-#. y4:msg_location=T48.P0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T16.P13
-#. y4:msg_branch_segment=T16.P13..P19
-#. y4:msg_branch_target_text=Whiskey. No question.
-#. y4:msg_branch_raw=01 11 00 0d 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "1752_Kiryu"
 msgid "Whiskey. No question."
 msgstr "Whiskey. Sin duda."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=14
-#. y4:msg_location=T16.P14
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Whiskey. No question.
 msgctxt "1764_松岡里緒奈：源氏名"
 msgid "Whiskey, huh? Hmm. That would be fine, I guess..."
 msgstr "Whisky, ¿eh? Hmm. Eso estaría bien, supongo..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=15
-#. y4:msg_location=T16.P15
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Whiskey. No question.
 msgctxt "1776_Kiryu"
 msgid "Is there a problem?"
 msgstr "¿Hay algún problema?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=16
-#. y4:msg_location=T16.P16
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Whiskey. No question.
 msgctxt "1788_松岡里緒奈：源氏名"
 msgid "Well, I like whiskey. But when I drink it, I turn into a pretty annoying person."
 msgstr "Bueno, me gusta el whisky. Pero cuando lo bebo, me vuelvo una persona bastante molesta."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=17
-#. y4:msg_location=T16.P17
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Whiskey. No question.
 msgctxt "1800_松岡里緒奈：源氏名"
 msgid "I butt into conversations and only talk about myself. The club asked me not to drink whiskey if I can help it."
 msgstr "Me entrometo en las conversaciones y sólo hablo de mí misma. El club me pidió que no bebiera whisky si podia evitarlo."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=18
-#. y4:msg_location=T16.P18
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Whiskey. No question.
 msgctxt "1812_松岡里緒奈：源氏名"
 msgid "But I'll be happy to drink it if you want me to!"
 msgstr "¡Pero estaré encantada de beberlo si quieres!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=19
-#. y4:msg_location=T16.P19
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Whiskey. No question.
 msgctxt "1824_Kiryu"
 msgid "No, that's okay."
 msgstr "No, no pasa nada."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=49
-#. y4:msg_phrase=0
-#. y4:msg_location=T49.P0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T16.P20
-#. y4:msg_branch_segment=T16.P20..P27
-#. y4:msg_branch_target_text=You might be surprised, but I like champagne.
-#. y4:msg_branch_raw=01 11 00 14 00 00 00 2d 00 00 00 00 00 00 00 00
 msgctxt "1836_Kiryu"
 msgid "You might be surprised, but I like champagne."
 msgstr "Puede que te sorprendas, pero a mí me gusta el champán."
@@ -890,221 +377,65 @@ msgctxt "1848_松岡里緒奈：源氏名"
 msgid "Really? That is kind of a surprise. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=22
-#. y4:msg_location=T16.P22
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=You might be surprised, but I like champagne.
 msgctxt "1860_松岡里緒奈：源氏名"
 msgid "Does that mean you're rich?"
 msgstr "¿Eso significa que usted es rico?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=23
-#. y4:msg_location=T16.P23
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=You might be surprised, but I like champagne.
 msgctxt "1872_Kiryu"
 msgid "Do I look rich to you?"
 msgstr "¿Te parezco rico?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=24
-#. y4:msg_location=T16.P24
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=You might be surprised, but I like champagne.
 msgctxt "1884_松岡里緒奈：源氏名"
 msgid "Hmm... Well, you look like you might have money, but then again maybe not."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=25
-#. y4:msg_location=T16.P25
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=You might be surprised, but I like champagne.
 msgctxt "1896_松岡里緒奈：源氏名"
 msgid "But champagne sounds great! Excuse me! One bottle of <Color:7>Gold Champagne<Color:Default> for Kiryu-san!"
 msgstr "¡Pero champán suena genial! ¡Disculpe! ¡Una botella de <Color:7>Champán Dorado<Color:Default> para Kiryu-san!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=26
-#. y4:msg_location=T16.P26
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=You might be surprised, but I like champagne.
 msgctxt "1908_Kiryu"
 msgid "Hey, I didn't order that."
 msgstr "Oye, yo no ordene eso."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=27
-#. y4:msg_location=T16.P27
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=You might be surprised, but I like champagne.
 msgctxt "1920_松岡里緒奈：源氏名"
 msgid "You think I've grown up?"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1932_松岡里緒奈：源氏名"
 msgid "What do you think my special talent is?"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=1
-#. y4:msg_location=T17.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
 msgctxt "1944_Kiryu"
 msgid "I don't know. What?"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=2
-#. y4:msg_location=T17.P2
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1956_松岡里緒奈：源氏名"
 msgid "Drinking! I can drink anybody under the table!"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=3
-#. y4:msg_location=T17.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
 msgctxt "1968_Kiryu"
 msgid "You seem pretty confident."
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=4
-#. y4:msg_location=T17.P4
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. You mean you want me to request you? -> T17.P5 | 2. I prefer to take my time when I drink. -> T17.P13 | 3. You sure you don't need a handicap? -> T17.P21
 msgctxt "1980_松岡里緒奈：源氏名"
 msgid "Of course I am! Want to try drinking with me one-on-one next time?"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=50
-#. y4:msg_phrase=0
-#. y4:msg_location=T50.P0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T17.P5
-#. y4:msg_branch_segment=T17.P5..P12
-#. y4:msg_branch_target_text=You mean you want me to request you?
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 24 00 00 00 00 00 00 00 00
 msgctxt "1992_Kiryu"
 msgid "You mean you want me to request you?"
 msgstr "¿Me estás pidiendo que te solicite?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=27
-#. y4:msg_location=T16.P27
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=You might be surprised, but I like champagne.
 msgctxt "2004_松岡里緒奈：源氏名"
 msgid "You think I've grown up?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=7
-#. y4:msg_location=T17.P7
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=You mean you want me to request you?
 msgctxt "2016_松岡里緒奈：源氏名"
 msgid "I just want a chance to talk more with you."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=8
-#. y4:msg_location=T17.P8
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=You mean you want me to request you?
 msgctxt "2028_Kiryu"
 msgid "Heh. That so?"
 msgstr "Je, je, ¿en serio?"
@@ -1113,32 +444,10 @@ msgctxt "2040_松岡里緒奈：源氏名"
 msgid "I like men with muscular arms like you. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=10
-#. y4:msg_location=T17.P10
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=You mean you want me to request you?
 msgctxt "2052_松岡里緒奈：源氏名"
 msgid "So I hope you'll come and see me again."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=11
-#. y4:msg_location=T17.P11
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=You mean you want me to request you?
 msgctxt "2064_Kiryu"
 msgid "I wouldn't mind that, but you'll have to have your drinking contests with somebody else."
 msgstr ""
@@ -1147,184 +456,50 @@ msgctxt "2076_松岡里緒奈：源氏名"
 msgid "Haha! All right, then. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=13
-#. y4:msg_location=T17.P13
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=I prefer to take my time when I drink.
 msgctxt "2088_Kiryu"
 msgid "I prefer to take my time when I drink. It's a waste to just chug it down."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=14
-#. y4:msg_location=T17.P14
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=I prefer to take my time when I drink.
 msgctxt "2100_松岡里緒奈：源氏名"
 msgid "Oh, sure. You're just scared that I'll beat you."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=15
-#. y4:msg_location=T17.P15
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=I prefer to take my time when I drink.
 msgctxt "2112_Kiryu"
 msgid "Hardly."
 msgstr "Para nada."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=16
-#. y4:msg_location=T17.P16
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=I prefer to take my time when I drink.
 msgctxt "2124_松岡里緒奈：源氏名"
 msgid "Hmph. You're not much fun."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=17
-#. y4:msg_location=T17.P17
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=I prefer to take my time when I drink.
 msgctxt "2136_Kiryu"
 msgid "No?"
 msgstr "¿No?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=18
-#. y4:msg_location=T17.P18
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=I prefer to take my time when I drink.
 msgctxt "2148_松岡里緒奈：源氏名"
 msgid "This isn't your first time at a hostess club, is it? Are you nervous?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=19
-#. y4:msg_location=T17.P19
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=I prefer to take my time when I drink.
 msgctxt "2160_Kiryu"
 msgid "Not at all. Actually, I'm pretty relaxed. I just want to sit back and enjoy my time here."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=20
-#. y4:msg_location=T17.P20
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=I prefer to take my time when I drink.
 msgctxt "2172_松岡里緒奈：源氏名"
 msgid "All right. I'll do my best to help you relax if you come and see me again."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=52
-#. y4:msg_phrase=0
-#. y4:msg_location=T52.P0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T17.P21
-#. y4:msg_branch_segment=T17.P21..P28
-#. y4:msg_branch_target_text=You sure you don't need a handicap?
-#. y4:msg_branch_raw=01 11 00 15 00 00 00 23 00 00 00 00 00 00 00 00
 msgctxt "2184_Kiryu"
 msgid "You sure you don't need a handicap?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=22
-#. y4:msg_location=T17.P22
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=You sure you don't need a handicap?
 msgctxt "2196_松岡里緒奈：源氏名"
 msgid "Oh, come on. You don't think I need special treatment because I'm a woman, do you?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=23
-#. y4:msg_location=T17.P23
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=You sure you don't need a handicap?
 msgctxt "2208_松岡里緒奈：源氏名"
 msgid "You're the one who'll need a handicap!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=24
-#. y4:msg_location=T17.P24
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=You sure you don't need a handicap?
 msgctxt "2220_Kiryu"
 msgid "Okay. What do I get if you lose?"
 msgstr ""
@@ -1333,69 +508,22 @@ msgctxt "2232_松岡里緒奈：源氏名"
 msgid "Well... I could become your girlfriend. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=26
-#. y4:msg_location=T17.P26
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=You sure you don't need a handicap?
 msgctxt "2244_Kiryu"
 msgid "All right, then, let's get started."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=27
-#. y4:msg_location=T17.P27
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=You sure you don't need a handicap?
 msgctxt "2256_松岡里緒奈：源氏名"
 msgid "Hey! I was kidding! Stop looking at me like that!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=17
-#. y4:msg_phrase=28
-#. y4:msg_location=T17.P28
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=You sure you don't need a handicap?
 msgctxt "2268_Kiryu"
 msgid "Hehehe."
 msgstr "Je, je, je."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=0
-#. y4:msg_location=T18.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2280_松岡里緒奈：源氏名"
 msgid "Kiryu-san! Are you enjoying your drink?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=1
-#. y4:msg_location=T18.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
 msgctxt "2292_Kiryu"
 msgid "Sure. This club has a good selection."
 msgstr ""
@@ -1404,13 +532,6 @@ msgctxt "2304_松岡里緒奈：源氏名"
 msgid "I know! I'm glad I decided to work here. <Color:7>♥<Color:Default>"
 msgstr "¡Lo sé! Me alegro de haber decidido trabajar aquí. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=3
-#. y4:msg_location=T18.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
 msgctxt "2316_Kiryu"
 msgid "Aren't most girls here for the money? You won't have time to snag any customers if you just drink."
 msgstr "¿La mayoría de las chicas no están aquí por el dinero? No tendrás tiempo de enganchar a ningún cliente si sólo bebes."
@@ -1419,68 +540,26 @@ msgctxt "2328_松岡里緒奈：源氏名"
 msgid "I'm happy as long as I make enough to get by. And as long as I can drink the good stuff! <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=5
-#. y4:msg_location=T18.P5
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
 msgctxt "2340_Kiryu"
 msgid "Hehe. I see."
 msgstr "Jeje. Ya veo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=19
-#. y4:msg_phrase=0
-#. y4:msg_location=T19.P0
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=16
 msgctxt "2352_Himeka"
 msgid "The dialogue will end after one round if you've entered a club more than once. Please report when this message is displayed."
 msgstr "La conversación terminará después de una ronda cuando entre al club más de una vez. Por favor reporte si este mensaje es mostrado."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=20
-#. y4:msg_phrase=0
-#. y4:msg_location=T20.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2364_松岡里緒奈：源氏名"
 msgid "Hey, Kiryu-san. Why didn't you request me today?"
 msgstr "Hola, Kiryu-san. ¿Por qué no me solicito hoy?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=20
-#. y4:msg_phrase=1
-#. y4:msg_location=T20.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
 msgctxt "2376_Kiryu"
 msgid "I thought this would be a nice change. You'd drink the same thing every day, right?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=20
-#. y4:msg_phrase=2
-#. y4:msg_location=T20.P2
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2388_松岡里緒奈：源氏名"
 msgid "So you're tired of me?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=20
-#. y4:msg_phrase=3
-#. y4:msg_location=T20.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=8
 msgctxt "2400_Kiryu"
 msgid "No, no. This was just a one time thing. I'll definitely request you next time."
 msgstr "No, no. Esto fue sólo una vez. Definitivamente te solicitare la próxima vez."
@@ -1489,136 +568,50 @@ msgctxt "2412_松岡里緒奈：源氏名"
 msgid "Really!? Okay then. That's a promise. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=21
-#. y4:msg_phrase=0
-#. y4:msg_location=T21.P0
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=16
 msgctxt "2424_Himeka"
 msgid "The dialogue will end after one round if you've entered a club more than once. Please notify a programmer if this message is displayed."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=16
-#. y4:msg_phrase=0
-#. y4:msg_location=T16.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2580_松岡里緒奈：源氏名"
 msgid "Hi! Nice to meet you!"
 msgstr "¡Hola! ¡Encantada de conocerle!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=34
-#. y4:msg_phrase=1
-#. y4:msg_location=T34.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=17
 msgctxt "2592_Tanimura"
 msgid "Hi. I'm Tanimura."
 msgstr "Hola. Me llamo Tanimura."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=34
-#. y4:msg_phrase=2
-#. y4:msg_location=T34.P2
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2604_松岡里緒奈：源氏名"
 msgid "There's nothing like a nice drink after work!"
 msgstr "¡No hay nada como una buena bebida después del trabajo!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=34
-#. y4:msg_phrase=3
-#. y4:msg_location=T34.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=17
 msgctxt "2616_Tanimura"
 msgid "Aren't you at work right now?"
 msgstr "¿Pero no estás trabajando ahora?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=34
-#. y4:msg_phrase=4
-#. y4:msg_location=T34.P4
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2628_松岡里緒奈：源氏名"
 msgid "I was thinking about you, silly."
 msgstr "Lo decía por usted, bobito."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=34
-#. y4:msg_phrase=5
-#. y4:msg_location=T34.P5
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2640_松岡里緒奈：源氏名"
 msgid "Come on then. Drink up!"
 msgstr "Vamos. ¡Beba!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=34
-#. y4:msg_phrase=6
-#. y4:msg_location=T34.P6
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=17
 msgctxt "2652_Tanimura"
 msgid "You don't waste any time, do you?"
 msgstr "No pierdes el tiempo, ¿verdad?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=35
-#. y4:msg_phrase=0
-#. y4:msg_location=T35.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2664_松岡里緒奈：源氏名"
 msgid "Do you like any sports?"
 msgstr "¿Le gusta algún deporte?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=35
-#. y4:msg_phrase=1
-#. y4:msg_location=T35.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=17
 msgctxt "2676_Tanimura"
 msgid "Not really... But you could say I like martial arts."
 msgstr "No, la verdad que no... Pero se podría decir que me gustan las artes marciales."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=35
-#. y4:msg_phrase=2
-#. y4:msg_location=T35.P2
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2688_松岡里緒奈：源氏名"
 msgid "Oh? Do you do any martial arts?"
 msgstr "¿Ah, sí? ¿Práctica algún tipo de arte marcial?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=35
-#. y4:msg_phrase=3
-#. y4:msg_location=T35.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=17
 msgctxt "2700_Tanimura"
 msgid "Jujitsu, mostly. I also had to do judo and kendo as part of my training."
 msgstr "Sí, sobre todo, jujutsu. También tuve que hacer un poco de judo y kendo como parte de mi entrenamiento."
@@ -1627,13 +620,6 @@ msgctxt "2712_松岡里緒奈：源氏名"
 msgid "Training? Interesting! Tell me more! <Color:7>♥<Color:Default>"
 msgstr "Oh, ¿entrenamiento? Qué interesante, ¡cuénteme más! <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=35
-#. y4:msg_phrase=5
-#. y4:msg_location=T35.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=17
 msgctxt "2724_Tanimura"
 msgid "But I came here to get away from work..."
 msgstr "Pero vine aquí para alejarme del trabajo..."
@@ -1642,35 +628,14 @@ msgctxt "2736_松岡里緒奈：源氏名"
 msgid "Welcome! You must be tired! I'm sure you've been working hard! <Color:7>♥<Color:Default>"
 msgstr "¡Bienvenido! ¡Debes estar cansado! ¡Seguro que has trabajado mucho! <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=36
-#. y4:msg_phrase=1
-#. y4:msg_location=T36.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=17
 msgctxt "2748_Tanimura"
 msgid "You're full of energy, as usual."
 msgstr "Estás llena de energía, como siempre."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=36
-#. y4:msg_phrase=2
-#. y4:msg_location=T36.P2
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2760_松岡里緒奈：源氏名"
 msgid "What kind of alcohol do you like?"
 msgstr "¿Qué tipo de bebida alcohólica le gusta?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=36
-#. y4:msg_phrase=3
-#. y4:msg_location=T36.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=17
 msgctxt "2772_Tanimura"
 msgid "I'm not picky. Sometimes I'll drink beer, sometimes I'll drink lao chu."
 msgstr "No soy quisquilloso. A veces bebo cerveza y a veces bebo lao chu."
@@ -1679,236 +644,110 @@ msgctxt "2784_松岡里緒奈：源氏名"
 msgid "Lao chu!? You must have a high tolerance, then. <Color:7>♥<Color:Default>"
 msgstr "¿¡Lao chu!? Debes tener una alta tolerancia, entonces. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=36
-#. y4:msg_phrase=5
-#. y4:msg_location=T36.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=17
 msgctxt "2796_Tanimura"
 msgid "Heh. Not really."
 msgstr "Je. No realmente."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=37
-#. y4:msg_phrase=0
-#. y4:msg_location=T37.P0
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=16
 msgctxt "2808_Himeka"
 msgid "The dialogue will end after one round if you've entered a club more than once. Please notify programmer if this message is displayed."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=38
-#. y4:msg_phrase=0
-#. y4:msg_location=T38.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2820_松岡里緒奈：源氏名"
 msgid "Tanimura cannot request Riona. Notify a programmer if this message is displayed."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=38
-#. y4:msg_phrase=0
-#. y4:msg_location=T38.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2832_松岡里緒奈：源氏名"
 msgid "Tanimura cannot request Riona. Notify a programmer if this message is displayed."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=40
-#. y4:msg_phrase=0
-#. y4:msg_location=T40.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2844_松岡里緒奈：源氏名"
 msgid "Riona does not appear for Tanimura's 2nd. Notify programmer if this message is displayed."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=40
-#. y4:msg_phrase=0
-#. y4:msg_location=T40.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2856_松岡里緒奈：源氏名"
 msgid "Riona does not appear for Tanimura's 2nd. Notify programmer if this message is displayed."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=40
-#. y4:msg_phrase=0
-#. y4:msg_location=T40.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2868_松岡里緒奈：源氏名"
 msgid "Riona does not appear for Tanimura's 2nd. Notify programmer if this message is displayed."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=40
-#. y4:msg_phrase=0
-#. y4:msg_location=T40.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2880_松岡里緒奈：源氏名"
 msgid "Riona does not appear for Tanimura's 2nd. Notify programmer if this message is displayed."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=38
-#. y4:msg_phrase=0
-#. y4:msg_location=T38.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2892_松岡里緒奈：源氏名"
 msgid "Tanimura cannot request Riona. Notify a programmer if this message is displayed."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=38
-#. y4:msg_phrase=0
-#. y4:msg_location=T38.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2904_松岡里緒奈：源氏名"
 msgid "Tanimura cannot request Riona. Notify a programmer if this message is displayed."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=46
-#. y4:msg_phrase=0
-#. y4:msg_location=T46.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "2916_松岡里緒奈：源氏名"
 msgid "Cheers!"
 msgstr "¡Salud!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=46
-#. y4:msg_phrase=1
-#. y4:msg_location=T46.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=28
 msgctxt "2928_Player"
 msgid "Cheers."
 msgstr "Salud."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=47
-#. y4:msg_phrase=0
-#. y4:msg_location=T47.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T16.P6
-#. y4:msg_branch_segment=T16.P6..P12
-#. y4:msg_branch_target_text=I'm a beer man, myself.
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 17 00 00 00 00 00 00 00 00
 msgctxt "2940_Attendant"
 msgid "I'm a beer man, myself."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=48
-#. y4:msg_phrase=0
-#. y4:msg_location=T48.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T16.P13
-#. y4:msg_branch_segment=T16.P13..P19
-#. y4:msg_branch_target_text=Whiskey. No question.
-#. y4:msg_branch_raw=01 11 00 0d 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "2952_Attendant"
 msgid "Whiskey. No question."
 msgstr "Whiskey. Sin duda."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=49
-#. y4:msg_phrase=0
-#. y4:msg_location=T49.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T16.P20
-#. y4:msg_branch_segment=T16.P20..P27
-#. y4:msg_branch_target_text=You might be surprised, but I like champagne.
-#. y4:msg_branch_raw=01 11 00 14 00 00 00 2d 00 00 00 00 00 00 00 00
 msgctxt "2964_Attendant"
 msgid "You might be surprised, but I like champagne."
 msgstr "Puede que te sorprendas, pero a mí me gusta el champán."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=50
-#. y4:msg_phrase=0
-#. y4:msg_location=T50.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T17.P5
-#. y4:msg_branch_segment=T17.P5..P12
-#. y4:msg_branch_target_text=You mean you want me to request you?
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 24 00 00 00 00 00 00 00 00
 msgctxt "2976_Attendant"
 msgid "You mean you want me to request you?"
 msgstr "¿Me estás pidiendo que te solicite?"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=51
-#. y4:msg_phrase=0
-#. y4:msg_location=T51.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T17.P13
-#. y4:msg_branch_segment=T17.P13..P20
-#. y4:msg_branch_target_text=I prefer to take my time when I drink. It's a waste to just chug it down.
-#. y4:msg_branch_raw=01 11 00 0d 00 00 00 26 00 00 00 00 00 00 00 00
 msgctxt "2988_Attendant"
 msgid "I prefer to take my time when I drink."
 msgstr "Prefiero tomarme mi tiempo cuando bebo."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=52
-#. y4:msg_phrase=0
-#. y4:msg_location=T52.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T17.P21
-#. y4:msg_branch_segment=T17.P21..P28
-#. y4:msg_branch_target_text=You sure you don't need a handicap?
-#. y4:msg_branch_raw=01 11 00 15 00 00 00 23 00 00 00 00 00 00 00 00
 msgctxt "3000_Attendant"
 msgid "You sure you don't need a handicap?"
 msgstr ""

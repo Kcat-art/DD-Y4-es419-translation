@@ -18,71 +18,40 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
 msgctxt "152"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2280"
 msgid "Self-proclaimed Treasure Hunter"
 msgstr "Autoproclamado cazador de Tesoros"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2284"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2288"
 msgid "Another Perspective"
 msgstr "Modo primera persona"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Self-proclaimed Treasure Hunter
-#. y4:msg_speaker_id=0
 msgctxt "56_Self-proclaimed Treasure Hunter"
 msgid "Ooh? You out here treasure hunting, too? Heheheh."
 msgstr "¿Oh? ¿También estás buscando tesoros? Je, je, je, je, je."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Self-proclaimed Treasure Hunter
-#. y4:msg_speaker_id=0
 msgctxt "68_Self-proclaimed Treasure Hunter"
 msgid "You can't just look at treasure like you're better than it. That just isn't right. You've got to just... focus on it. Be the treasure."
 msgstr "Sabes, no puedes simplemente mirar el tesoro como si fueras superior a él. Tienes que... ponerte en su lugar. Ser el tesoro."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Self-proclaimed Treasure Hunter
-#. y4:msg_speaker_id=0
 msgctxt "80_Self-proclaimed Treasure Hunter"
 msgid "When you become the treasure, you can hear it talking to you. Whispering sweet nothings that only another treasure can hear."
 msgstr "Cuando te conviertas en el tesoro, podrás ver su brillo. Te llamará, te dirá dónde está."
@@ -93,13 +62,6 @@ msgid "During your adventure, you can enter first-person mode\\r\nwith <Action:B
 msgstr "Durante tu aventura, puedes entrar en el modo primera persona\\r\ncon <Action:Button_R3@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Another Perspective
-#. y4:msg_speaker_id=2
 msgctxt "104_Self-proclaimed Treasure Hunter"
 msgid "Once you enter this mode, you'll step into the shoes of the main character, and you might even discover something new that you didn't see before!  Whenever you get to a spot that piques your interest, enter first-person mode and take a look around."
 msgstr "Una vez que actives este modo, podrás ver el mundo a través de los ojos de los protagonistas. Gracias a ello, podrías descubrir detalles que antes pasaban desapercibidos. Si algún lugar llama tu atención, no dudes en usar el modo primera persona para explorar y buscar objetos."
@@ -111,13 +73,6 @@ msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nR
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Self-proclaimed Treasure Hunter
-#. y4:msg_speaker_id=0
 msgctxt "128_Self-proclaimed Treasure Hunter"
 msgid "You got that? Focus and look around! Heheheh."
 msgstr "¿Lo tienes? ¡Concéntrate y mira a tu alrededor! Je, je, je, je, je."

@@ -24,309 +24,144 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
 #. y4:runtime_play_command=y4.play_msg 016C01FB <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "15120"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "15124"
 msgid "P_sitsofaR_tlk_comment"
 msgstr "P_sitsofaR_tlk_comment"
 
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "15128"
 msgid "峰村七海：源氏名"
 msgstr "峰村七海：源氏名"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "15132"
 msgid "F_cab_sitsofa_tlk_thinkA"
 msgstr "F_cab_sitsofa_tlk_thinkA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "15136"
 msgid "P_sitsofaR_tlk_yes"
 msgstr "P_sitsofaR_tlk_yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "15140"
 msgid "F_cab_sitsofa_tlk_yes"
 msgstr "F_cab_sitsofa_tlk_yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "15144"
 msgid "P_sitsofaR_tlk_smile"
 msgstr "P_sitsofaR_tlk_smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "15148"
 msgid "F_cab_sitsofa_sp1_sync_yop"
 msgstr "F_cab_sitsofa_sp1_sync_yop"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "15152"
 msgid "F_cab_sitsofa_tlk_happy"
 msgstr "F_cab_sitsofa_tlk_happy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "15156"
 msgid "F_cab_sitsofa_tlk_suprise"
 msgstr "F_cab_sitsofa_tlk_suprise"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "15160"
 msgid "P_sitsofaR_tlk_no"
 msgstr "P_sitsofaR_tlk_no"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "15164"
 msgid "F_cab_sitsofa_tlk_noA"
 msgstr "F_cab_sitsofa_tlk_noA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "15168"
 msgid "F_cab_sitsofa_talk_smileA"
 msgstr "F_cab_sitsofa_talk_smileA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "15172"
 msgid "F_cab_sitsofa_tlk_gakkariA"
 msgstr "F_cab_sitsofa_tlk_gakkariA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "15176"
 msgid "F_cab_sitsofa_tlk_angry"
 msgstr "F_cab_sitsofa_tlk_angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
 msgctxt "15180"
 msgid "F_cab_sitsofa_sp2_sync_hiza"
 msgstr "F_cab_sitsofa_sp2_sync_hiza"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "392_Tanimura"
 msgid "Ever heard of 777 Town?"
 msgstr "¿Alguna vez has oído hablar de 777 Town?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "404_峰村七海：源氏名"
 msgid "777 Town? No, what's that?"
 msgstr "¿777 Town? ¿Y eso qué es?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "416_Tanimura"
 msgid "It's a game for your computer or cell phone. It lets you play pachinko and slots anytime, anywhere you want."
 msgstr "Es un juego para el teléfono y la computadora. Te permite jugar al pachinko y a las tragamonedas en cualquier momento y lugar donde sea que estés."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "428_峰村七海：源氏名"
 msgid "Wow, they have that now? Sounds interesting."
 msgstr "Oh, ¿Ya existe algo así? Parece interesante."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "440_Tanimura"
 msgid "Huh. I was expecting more of a negative reaction to the mention of pachinko."
 msgstr "Mmm. Esperaba que me dieras una reacción negativa al mencionar el pachinko."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "452_峰村七海：源氏名"
 msgid "Being able to take risks is a crucial skill for anyone looking to start up a company. I could learn something from that game."
 msgstr "Poder asumir riesgos es una habilidad importante para cualquiera que busque fundar una empresa. Quizá pueda aprender algo de ese juego."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "464_Tanimura"
 msgid "True. In that case, I'll teach you all I know. If you have questions, you know who to ask."
 msgstr "Sí, eso es cierto. En ese caso, te enseñaré todo lo que sé. Si tienes alguna pregunta, solo tienes que decírmelo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "476_Tanimura"
 msgid "Ever heard of Amoebatar?"
 msgstr "¿Has oído hablar de Amoebatar?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "488_峰村七海：源氏名"
 msgid "Yep. I even have friends who I came to know through it."
 msgstr "Sí. De hecho conocí a algunos de mis amigos por él."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "500_Tanimura"
 msgid "That so? You play games on it too, then?"
 msgstr "¿Ah, sí? Entonces, ¿también juegas videojuegos ahí?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "512_峰村七海：源氏名"
 msgid "Well, when work gets crazy and I can't stay on the phone for hours, I chat instead. Chatting's great because you can talk at your own pace."
 msgstr "Bueno, cuando el trabajo se pone pesado no puedo estar con el teléfono mucho tiempo. Pero suelo chatear y tomarme el tiempo para contestar sin ningún apuro."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "524_Tanimura"
 msgid "Huh, I guess there's more to this Amoebatar thing than I thought."
 msgstr "Oh, parece que Amoebatar ofrece más cosas de lo que pensaba."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "536_Tanimura"
 msgid "Hear about the ghost in the underground mall?"
 msgstr "¿Escuchaste sobre el fantasma que hay en el centro comercial subterráneo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "548_峰村七海：源氏名"
 msgid "What? A ghost!?"
 msgstr "¡¿Eh?! ¡¿Un fantasma?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "560_Tanimura"
 msgid "Yeah. Way back when they were first building that place, a construction worker died in an accident."
 msgstr "Sí. Dicen que durante las obras de construcción del centro comercial, uno de los trabajadores murió en un accidente."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "572_Tanimura"
 msgid "Now, night after night, his ghost appears to wander the empty mall."
 msgstr "Ahora, cuando cae la noche, su fantasma deambula por el centro comercial vacío."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "584_峰村七海：源氏名"
 msgid "Hey now, don't scare me, please? I have to walk around there alone at night sometimes..."
 msgstr "Oiga, le pido por favor que no me asuste, ¿sí? Algunas veces tengo que caminar sola por ahí de noche..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "596_Tanimura"
 msgid "Hear about the footbaths at Yunosono Hot Springs? You don't take off your clothes, so men and women can go in together."
 msgstr "¿Has oído hablar de los baños de pies de las Aguas termales Yunosono? No hace falta que te quites la ropa, así que hombres y mujeres pueden entrar juntos."
@@ -336,497 +171,182 @@ msgid "Really? I've been so busy lately I only have time for showers.\\r\n"
 "I'd love to just sit back and have a relaxing soak."
 msgstr "Oh, ¿de verdad? Estuve muy ocupada últimamente que solo tengo tiempo para duchas cortas. Me encantaría sentarme y tomarme un baño relajante."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=2
-#. y4:msg_location=T3.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "620_Tanimura"
 msgid "All the more reason to visit the hot springs. Everyone needs a nice hot bath once in a while."
 msgstr "Con más razón deberías ir a las aguas termales. Todo el mundo necesita un buen baño caliente de vez en cuando."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=3
-#. y4:msg_location=T3.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "632_峰村七海：源氏名"
 msgid "Definitely. I'll drop by after work next time I can."
 msgstr "Está bien, definitivamente me pasaré la próxima vez que termine mi turno en el trabajo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "644_Tanimura"
 msgid "Golf is getting pretty popular. A lot of couples have been going on golf dates lately."
 msgstr "El golf se ha vuelto muy popular últimamente. Y al parecer las parejas van a tener citas a los campos de golf."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=1
-#. y4:msg_location=T4.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "656_峰村七海：源氏名"
 msgid "I've been seriously thinking about taking it up. We should go together sometime."
 msgstr "Estuve pensando seriamente en pasarme a jugar. Deberíamos ir juntos algún día."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=2
-#. y4:msg_location=T4.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "668_Tanimura"
 msgid "Sounds like a plan. But what made you want to take up golf?"
 msgstr "Me parece bien. Pero, ¿qué te hace querer ir a jugar golf?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=3
-#. y4:msg_location=T4.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "680_峰村七海：源氏名"
 msgid "Golf can be used as a tool for cementing business relations. I might not make it big if I can't play."
 msgstr "El golf podría ser una herramienta para construir relaciones comerciales. Puede que no tenga éxito si no sé jugar."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=4
-#. y4:msg_location=T4.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "692_Tanimura"
 msgid "You've really thought this through."
 msgstr "Parece que has pensado mucho en eso."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "704_Tanimura"
 msgid "Ever try the liver at Kanrai? Liver contains arachidonic acid, which reverses aging in the brain."
 msgstr "¿Has probado alguna vez el hígado de Kanrai? Dicen que contiene ácido araquidónico, que revierte el envejecimiento cerebral."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=1
-#. y4:msg_location=T5.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "716_峰村七海：源氏名"
 msgid "Wow, really? I don't think I've ever had any."
 msgstr "Vaya, ¿de verdad? No, creo que nunca lo probé."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=2
-#. y4:msg_location=T5.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "728_Tanimura"
 msgid "It improves your learning faculties too. You hit the books regularly, right? Why not try it?"
 msgstr "También se dice que mejora las facultades de aprendizaje. Sueles estudiar mucho, ¿no? ¿Por qué no lo pruebas?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=3
-#. y4:msg_location=T5.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "740_峰村七海：源氏名"
 msgid "I better put this info to good use and give it a try."
 msgstr "Será mejor que le dé buen uso a esa información y lo pruebe."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "752_Tanimura"
 msgid "They say pole dancing's great for losing weight."
 msgstr "Dicen que el pole dance es bueno para bajar de peso."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=1
-#. y4:msg_location=T6.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "764_峰村七海：源氏名"
 msgid "Um, you mean that dance you do while stripping?"
 msgstr "Mmm, ¿se refiere a ese baile donde alguien baila mientras se desnuda?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=2
-#. y4:msg_location=T6.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "776_Tanimura"
 msgid "No, no. It's more of an aerobics thing, except a tad more intense."
 msgstr "No, no. Es algo más aeróbico, solo que un poco más intenso."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=3
-#. y4:msg_location=T6.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "788_Tanimura"
 msgid "It uses your muscles way more than normal aerobics and slims your entire body down. Even Hollywood stars are doing it."
 msgstr "Hace trabajar tus músculos mucho más que hacer ejercicio aeróbico normal, te hace adelgazar todo el cuerpo. Incluso las estrellas de Hollywood lo hacen."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=4
-#. y4:msg_location=T6.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "800_峰村七海：源氏名"
 msgid "I had no idea. I'll think about giving it a go."
 msgstr "No tenía idea. Quizá le dé una oportunidad."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "812_Tanimura"
 msgid "Sweet sake is all the rage now. Women order it all the time when eating at Sushi Gin."
 msgstr "El sake dulce ahora está de moda. Las mujeres lo suelen ordenar todo el tiempo en el Sushi Gin."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=1
-#. y4:msg_location=T7.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "824_峰村七海：源氏名"
 msgid "There's such a thing as sweet sake? Sounds like something made especially for women."
 msgstr "¿Existía el sake dulce? Parece algo hecho especialmente para mujeres."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=2
-#. y4:msg_location=T7.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "836_Tanimura"
 msgid "It's not that strong a drink either, so it's great for girls with low tolerance who want to try sake."
 msgstr "No es tan fuerte, así que es bueno para las chicas que no lo toleran, pero quieren probar el sake."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=3
-#. y4:msg_location=T7.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "848_峰村七海：源氏名"
 msgid "Sounds great. I just might give it a try."
 msgstr "Suena bien. Podría probarlo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "896_Tanimura"
 msgid "So about 777 Town..."
 msgstr "Acerca del 777 Town..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=1
-#. y4:msg_location=T11.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "908_峰村七海：源氏名"
 msgid "Oh, sorry. My little brother's down on his luck with money right now. I don't think it's the best time for me to play pachinko..."
 msgstr "Ay, disculpe. Mi hermanito tiene mala suerte con el dinero. No creo que sea un buen momento para que yo juegue al pachinko..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=2
-#. y4:msg_location=T11.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "920_Tanimura"
 msgid "I see. Well, that can't be helped. Give it a try once things with your brother settle down. You can play it anytime, after all."
 msgstr "Entiendo. No hay nada que hacerle. Podrías intentarlo cuando las cosas con tu hermano se calmen un poco. Después de todo puedes ir a jugarlo cuando quieras."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=3
-#. y4:msg_location=T11.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "932_峰村七海：源氏名"
 msgid "Yeah, true."
 msgstr "Sí..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "944_Tanimura"
 msgid "So about Amoebatar..."
 msgstr "Acerca del Amoebatar..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=1
-#. y4:msg_location=T12.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "956_峰村七海：源氏名"
 msgid "Did you make an account?"
 msgstr "¿Ya se ha creado una cuenta?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=2
-#. y4:msg_location=T12.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "968_Tanimura"
 msgid "Oh, uh, not yet."
 msgstr "Eh, no, todavía no."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=3
-#. y4:msg_location=T12.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "980_峰村七海：源氏名"
 msgid "You better get on it! Times are changing, you don't wanna get left behind."
 msgstr "¡Será mejor que lo haga! Los tiempos cambian, no querrá quedarse atrás."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "992_Tanimura"
 msgid "So about that ghost in the underground mall..."
 msgstr "Acerca del fantasma del centro comercial..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=1
-#. y4:msg_location=T13.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1004_峰村七海：源氏名"
 msgid "Hey! Didn't I tell you not to bring that up?"
 msgstr "¡Oiga! ¿No le dije que no me hable sobre eso?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=2
-#. y4:msg_location=T13.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1016_Tanimura"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1028_Tanimura"
 msgid "Visit Yunosono Hot Springs yet?"
 msgstr "¿Todavía no has ido a las Aguas termales Yunosono?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=1
-#. y4:msg_location=T14.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1040_峰村七海：源氏名"
 msgid "I did! I thought about trying the footbaths too, but I was good after a sit in the sauna."
 msgstr "¡Sí fui! Pensé en probar el baño de pies también, pero ya me sentía relajada después de salir del sauna."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=2
-#. y4:msg_location=T14.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1052_Tanimura"
 msgid "Got it."
 msgstr "Entiendo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1064_Tanimura"
 msgid "How's your golfing? Did you start yet?"
 msgstr "¿Qué tal el golf? ¿Ya fuiste a jugar?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=1
-#. y4:msg_location=T15.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1076_峰村七海：源氏名"
 msgid "Yep. I even bought a complete set of golf clubs."
 msgstr "Sí. Incluso me compré un set completo de palos de golf."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=2
-#. y4:msg_location=T15.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1088_Tanimura"
 msgid "Wow, you're really into it. Make sure to do those new clubs justice."
 msgstr "Vaya, parece que te has enganchado. Asegúrate de aprovechar esos nuevos palos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=3
-#. y4:msg_location=T15.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1100_峰村七海：源氏名"
 msgid "Of course. I'll go every week on my off day."
 msgstr "Por supuesto. Iré cada semana en mis días libres."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=16
-#. y4:msg_phrase=0
-#. y4:msg_location=T16.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1112_Tanimura"
 msgid "Try any liver yet?"
 msgstr "¿Ya has probado el hígado?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=16
-#. y4:msg_phrase=1
-#. y4:msg_location=T16.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1124_峰村七海：源氏名"
 msgid "Yep. It was surprisingly good! You obviously can't knock something until you've tried it."
 msgstr "Sí. ¡Me sorprendió lo bueno que estaba! No puedes juzgar algo hasta que lo pruebes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=16
-#. y4:msg_phrase=2
-#. y4:msg_location=T16.P2
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1136_峰村七海：源氏名"
 msgid "I'm ordering it every time I'm out for yakiniku."
 msgstr "Lo pido cada que salgo a comer yakiniku."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=16
-#. y4:msg_phrase=3
-#. y4:msg_location=T16.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1148_Tanimura"
 msgid "Sounds like you're hooked. Good thing I told you about it."
 msgstr "Parece que te encanto. Me alegra habértelo contado."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1160_Tanimura"
 msgid "About that pole dancing workout..."
 msgstr "Sobre hacer ejercicio con pole dance..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=1
-#. y4:msg_location=T17.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1172_峰村七海：源氏名"
 msgid "I actually toured a dance studio the other day."
 msgstr "De hecho, el otro día visité un estudio de baile."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=2
-#. y4:msg_location=T17.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1184_Tanimura"
 msgid "How was it?"
 msgstr "¿Y qué tal?"
@@ -835,46 +355,18 @@ msgctxt "1196_峰村七海：源氏名"
 msgid "The dancing was really sexy and alluring. Just watching inspired me so much, I signed up straight away. <Color:7>♥<Color:Default>"
 msgstr "La danza era muy seductora y sexy. Con solo mirarles me inspiraron mucho, me terminé inscribiendo al instante. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=4
-#. y4:msg_location=T17.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1208_Tanimura"
 msgid "Heh. Show me a few moves someday, okay?"
 msgstr "Je, je. Muéstrame algunos movimientos cuando puedas, ¿está bien?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=0
-#. y4:msg_location=T18.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1220_Tanimura"
 msgid "Did you give that sake a try? You know, the sweet kind."
 msgstr "¿Has probado el sake que te mencione? ¿El que era dulce?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=1
-#. y4:msg_location=T18.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1232_峰村七海：源氏名"
 msgid "I did! I never knew such sake existed."
 msgstr "¡Sí, sí! Nunca supe que existía un sake dulce."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=2
-#. y4:msg_location=T18.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1244_Tanimura"
 msgid "It's been around for a few years actually. Someone told me about it a while back."
 msgstr "Ya lleva varios años vendiéndose. Alguien me lo contó hace un tiempo atrás."
@@ -884,13 +376,6 @@ msgid "I'll make sure to let my friends know too. Thanks for\\r\n"
 "telling me! <Color:7>♥<Color:Default>"
 msgstr "Tengo que mostrárselo a mis amigos también. ¡Le agradezco que me haya contado sobre él! <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=4
-#. y4:msg_location=T18.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1268_Tanimura"
 msgid "You're very welcome."
 msgstr "No hay de qué."

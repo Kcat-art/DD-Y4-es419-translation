@@ -24,20 +24,14 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01020AC3 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "356"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "68_Saejima"
 msgid "(Better stick with Kido. Not like I got any other leads.)"
 msgstr "(Mejor me quedo con Kido. Tampoco es que tuviera otra pista.)"

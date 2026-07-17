@@ -24,20 +24,14 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_HILLS_02.bin
 #. y4:runtime_play_command=y4.play_msg 010207E4 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "260"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "84_Kiryu"
 msgid "(Damn, the emergency exit's locked. I need to find the key somewhere.)"
 msgstr "(Parece que puedo avanzar por esta salida de emergencia, pero está cerrada con llave...)."

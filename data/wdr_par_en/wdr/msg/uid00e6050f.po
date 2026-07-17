@@ -24,52 +24,32 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E6050F <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1480"
 msgid "Agent"
 msgstr "Agente"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1484"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1488"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "1492"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Agent
-#. y4:msg_speaker_id=0
 msgctxt "100_Agent"
 msgid "Kazuma Kiryu-san, yes?"
 msgstr "Kazuma Kiryu-san, ¿verdad?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "112_Kiryu"
 msgid "Who's asking?"
 msgstr "¿Y tú quién eres?"
@@ -79,35 +59,14 @@ msgid "My name is of no importance. I take it you read the email?\\r\n"
 "Please, step inside."
 msgstr "Mi nombre no tiene importancia. Asumo que leyó usted el email\\r Adelante, por favor."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "136_Kiryu"
 msgid "(Guess I'm going in...)"
 msgstr "(Allá que voy...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Agent
-#. y4:msg_speaker_id=0
 msgctxt "160_Agent"
 msgid "Kazuma Kiryu-san, yes?"
 msgstr "Kazuma Kiryu-san, ¿verdad?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "172_Kiryu"
 msgid "Who's asking?"
 msgstr "¿Y tú quién eres?"
@@ -117,13 +76,6 @@ msgid "My name is of no importance. I take it you read the email?\\r\n"
 "Please, step inside."
 msgstr "Mi nombre no tiene importancia. Asumo que leyó usted el email\\r Adelante, por favor."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "196_Kiryu"
 msgid "(Guess I'm going in...)"
 msgstr "(Allá que voy...)"

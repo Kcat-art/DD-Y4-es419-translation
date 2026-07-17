@@ -24,86 +24,60 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_TAMASHIRO.bin
 #. y4:runtime_play_command=y4.play_msg 0102059B <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "6404"
 msgid "Saito"
 msgstr "Saito"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "6408"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "6412"
 msgid "Yasuko"
 msgstr "Yasuko"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "6416"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "6420"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "6424"
 msgid "Hamazaki"
 msgstr "Hamazaki"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "6428"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "6432"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "6436"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "6440"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "6444"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "6448"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
@@ -113,24 +87,10 @@ msgid "So that's the bitch who went running to the police, begging\\r\n"
 "to see Saejima."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Yasuko
-#. y4:msg_speaker_id=2
 msgctxt "68_Yasuko"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=4
 msgctxt "80_Kiryu"
 msgid "Who are these guys, Hamazaki?"
 msgstr ""
@@ -140,46 +100,18 @@ msgid "Guards. From that shithole \"penitentiary\" I was telling you\\r\n"
 "about. These pricks are the cruelest goons in the business."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Saito
-#. y4:msg_speaker_id=0
 msgctxt "104_Saito"
 msgid "Heh. Rich, coming from an escaped convict."
 msgstr "Jaja, qué irónico viniendo de un convicto fugado."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=5
 msgctxt "116_Hamazaki"
 msgid "Look, I'll go back with you. Whatever I gotta do."
 msgstr "Mira, regresaré contigo. Lo que sea necesario, compadre."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=5
 msgctxt "128_Hamazaki"
 msgid "Just... leave these two out of it. They don't got a damn thing to do with this."
 msgstr "¡Jálele, no los incluyas en este relajo, amigo! ¡No tienen ni mero rollo en todo este pedo, güey!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Saito
-#. y4:msg_speaker_id=0
 msgctxt "140_Saito"
 msgid "No can do."
 msgstr "No puedo hacerlo, no puedo."
@@ -190,24 +122,10 @@ msgid "Don't worry, Hamazaki. We're not gonna kill you. But you're\\r\n"
 "back in the slammer. Might have to beat you 'til you change."
 msgstr "No te preocupís, Hamazaki. No te vamos a matar. Pero vas a necesitar un ajuste de actitud bien serio cuando te llevemos de vuelta a la jaula. Capaz que te tengamos que dar unos cuantos golpes pa' que cambies."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Saito
-#. y4:msg_speaker_id=0
 msgctxt "164_Saito"
 msgid "Either way... the bitch isn't going anywhere."
 msgstr "En cualquier caso... la tipa no se va a escapar."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=5
 msgctxt "176_Hamazaki"
 msgid "Why!? This is between you and me!"
 msgstr "¡Órale, güey! ¡Esto solo es cosa entre y tú!"
@@ -217,68 +135,26 @@ msgid "Sorry, but warden's orders. He told me to bring him Taiga\\r\n"
 "Saejima's sister, and that's exactly what I'm gonna do."
 msgstr "Lo siento, pero son órdenes del director. Me dijo que trajera a la hermana de Taiga Saejima, y eso es justo lo que voy a hacer."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Yasuko
-#. y4:msg_speaker_id=2
 msgctxt "200_Yasuko"
 msgid "Me? But why would..."
 msgstr "A mí? ¿Pero por qué yo...?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=5
 msgctxt "212_Hamazaki"
 msgid "This is a load of bull!"
 msgstr "¡Esto es una burrada gigantesca, compadre! ¡Una verdadera locura, caray!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=4
 msgctxt "224_Kiryu"
 msgid "Hamazaki."
 msgstr "Hamazaki..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=5
 msgctxt "236_Hamazaki"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=4
 msgctxt "248_Kiryu"
 msgid "Take care of Yasuko-san."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=5
 msgctxt "260_Hamazaki"
 msgid "What? What're you saying, Kiryu?"
 msgstr ""
@@ -289,57 +165,22 @@ msgid "I'll handle the guards. You stay behind me and keep her\\r\n"
 msgstr "Voy a encargarme de los guardias. \\r\n"
 "Quédate detrás de mí y manténla a salvo, ¿entendido?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=5
 msgctxt "284_Hamazaki"
 msgid "...Yeah."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=4
 msgctxt "296_Kiryu"
 msgid "You hear that? If you want to get to Yasuko, you're going to have to go through me."
 msgstr "¿Escuchaste eso? Si quieres llegar a Yasuko, tendrás que pasar por encima de mí."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Saito
-#. y4:msg_speaker_id=0
 msgctxt "308_Saito"
 msgid "And who are you, tough guy?"
 msgstr "¿Y tú quién eres, chorito?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=4
 msgctxt "320_Kiryu"
 msgid "Someone who's spent almost a quarter of his life in prison."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=4
 msgctxt "332_Kiryu"
 msgid "And I can tell... you're no ordinary guards."
 msgstr "Y puedo decir... que no eres de los guardias ordinarios."
@@ -349,35 +190,14 @@ msgid "Hmph. Step aside, pal. Or who knows? We might just\\r\n"
 "\"accidentally\" beat you to death."
 msgstr "Hmph. Hazte a un lado, amigo. O quién sabe, podríamos \"accidentalmente\" darte una paliza hasta la muerte."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=4
 msgctxt "356_Kiryu"
 msgid "I think you'll find that's not as easy as you expect."
 msgstr "Creo que te darás cuenta de que no es tan fácil como esperas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Saito
-#. y4:msg_speaker_id=0
 msgctxt "368_Saito"
 msgid "Heh, your funeral."
 msgstr "Jeje, será en tu funeral."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Saito
-#. y4:msg_speaker_id=0
 msgctxt "380_Saito"
 msgid "No more fucking around! Slaughter him!"
 msgstr "¡No se contengan! ¡Mátenlo!"

@@ -24,671 +24,320 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_ROOF01.bin
 #. y4:runtime_play_command=y4.play_msg 00EE05AC <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
+
+
 msgctxt "548"
 msgid "You got a <Color:8>Small Bomb<Color:Default>."
 msgstr "Obtuviste una <Color:8>Bomba Pequeña<Color:Default>."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
 msgctxt "704"
 msgid "You got a <Color:8>Superalloy Pickaxe<Color:Default>."
 msgstr "Obtuviste un <Color:8>Pico Superalineado<Color:Default>."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
 msgctxt "776"
 msgid "You got a K Works Catalog 1."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=3
-#. y4:msg_phrase=2
-#. y4:msg_location=T3.P2
 msgctxt "920"
 msgid "You got a K Works Catalog 3."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=4
-#. y4:msg_phrase=2
-#. y4:msg_location=T4.P2
 msgctxt "1064"
 msgid "You got a K Works Catalog 2."
 msgstr ""
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "10236"
 msgid "Kamiyama"
 msgstr "Kamiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "10240"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "440_Kamiyama"
 msgid "Oh, hello. What can I do for you today?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "452_Saejima"
 msgid "Can you make me a small bomb from this high-grade explosive gunpowder and this battery?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "464_Kamiyama"
 msgid "A bomb? You're not particular about the case or cables I use, right?"
 msgstr " ¿Una bomba? ¿No eres exigente con el estuche o los cables que uso, ¿verdad?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "476_Kamiyama"
 msgid "I'll see what I can do."
 msgstr "Veré que puedo hacer."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "536_Kamiyama"
 msgid "I finished! It's not the prettiest thing in the world, but what it lacks in beauty, it makes up for with power."
 msgstr "¡Terminé! No es la cosa mas bonita en el mundo, pero lo que le falta de belleza, lo compensa en poder."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "572_Kamiyama"
 msgid "No need to pay me! You've done a lot to help me, after all."
 msgstr "¡No hace falta que me pagues! Ya hiciste mucho por mi."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "584_Saejima"
 msgid "Thanks a lot. This'll be real helpful."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "596_Kamiyama"
 msgid "Oh, hello. What can I do for you today?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "608_Saejima"
 msgid "Can you make me a pickaxe out of this Super Alloy and Chunk of Wood (Ash)?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "620_Kamiyama"
 msgid "This alloy is of such incredible high quality! Wow."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "632_Kamiyama"
 msgid "I'll see what I can do."
 msgstr "Veré que puedo hacer."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "692_Kamiyama"
 msgid "I finished! This pickaxe will be able to break through anything."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "728_Kamiyama"
 msgid "No need to pay me! Getting to work with such a fine alloy is a rare treat."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "740_Saejima"
 msgid "Thanks a lot. This'll be real helpful."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "752_Kamiyama"
 msgid "Oh, hello, Saejima-san. I've started my own modding business."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "764_Kamiyama"
 msgid "In commemoration of my shop's opening, I'd like to give you a small gift. Please, take this."
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Mod Gear or Accessories -> T2.P6 | 2. View Designs -> T2.P9 | 3. Buy Equipment/Designs -> T2.P10 | 4. Never Mind -> T2.P11
 msgctxt "800_Kamiyama"
 msgid "So, what will it be today? My specialty is weapons modifications."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=Never Mind
 msgctxt "884_Kamiyama"
 msgid "All right, then. Maybe next time."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "896_Kamiyama"
 msgid "Uh, hi there. I run a weapons modding shop here. I look forward to doing business with you."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "908_Kamiyama"
 msgid "In commemoration of my shop's opening, I'd like to give you a small gift. Please, take this."
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=3
-#. y4:msg_phrase=4
-#. y4:msg_location=T3.P4
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Mod Gear or Accessories -> T3.P6 | 2. View Designs -> T3.P9 | 3. Buy Equipment/Designs -> T3.P10 | 4. Never Mind -> T3.P11
 msgctxt "944_Kamiyama"
 msgid "So, what can I do for you today? My specialty is weapons modifications."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=Never Mind
 msgctxt "1028_Kamiyama"
 msgid "All right, then. Maybe next time."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "1040_Kamiyama"
 msgid "Uh, hi there. I run a weapons modding shop here. I look forward to doing business with you."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
 msgctxt "1052_Kamiyama"
 msgid "In commemoration of my shop's opening, I'd like to give you a small gift. Please, take this."
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=3
-#. y4:msg_phrase=4
-#. y4:msg_location=T3.P4
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Mod Gear or Accessories -> T3.P6 | 2. View Designs -> T3.P9 | 3. Buy Equipment/Designs -> T3.P10 | 4. Never Mind -> T3.P11
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=2
 msgctxt "1088_Kamiyama"
 msgid "So, what can I do for you today? My specialty is weapons modifications."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=Never Mind
 msgctxt "1172_Kamiyama"
 msgid "All right, then. Maybe next time."
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Kamiyama
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=3
-#. y4:msg_decision_choices=1. Mod Gear or Accessories -> T5.P2 | 2. View Designs -> T5.P5 | 3. Buy Equipment/Designs -> T5.P6 | 4. Never Mind -> T5.P7
 msgctxt "1184_Kamiyama"
 msgid "Hey, there. I can help you mod or repair weapons. What can I do for you today?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=Never Mind
 msgctxt "1268_Kamiyama"
 msgid "All right, then. Maybe next time."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P6
-#. y4:msg_branch_segment=T2.P6..P8
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 17 00 00 00 00 00 00 00 00
 msgctxt "1280_Kamiyama"
 msgid "Mod Gear or Accessories"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P9
-#. y4:msg_branch_segment=T2.P9..P9
-#. y4:msg_branch_raw=01 11 00 09 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "1292_Kamiyama"
 msgid "View Designs"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P10
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 15 00 00 00 00 00 00 00 00
 msgctxt "1304_Kamiyama"
 msgid "Buy Equipment/Designs"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=4
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P11
-#. y4:msg_branch_segment=T2.P11..P11
-#. y4:msg_branch_target_text=All right, then. Maybe next time.
-#. y4:msg_branch_raw=01 11 00 0b 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "1316_Kamiyama"
 msgid "Never Mind"
 msgstr "No importa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P6
-#. y4:msg_branch_segment=T2.P6..P8
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 17 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T3.P6
 msgctxt "1328_Kamiyama"
 msgid "Mod Gear or Accessories"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P9
-#. y4:msg_branch_segment=T2.P9..P9
-#. y4:msg_branch_raw=01 11 00 09 00 00 00 0c 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T3.P9
 msgctxt "1340_Kamiyama"
 msgid "View Designs"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P10
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 15 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T3.P10
 msgctxt "1352_Kamiyama"
 msgid "Buy Equipment/Designs"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=4
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P11
-#. y4:msg_branch_segment=T2.P11..P11
-#. y4:msg_branch_target_text=All right, then. Maybe next time.
-#. y4:msg_branch_raw=01 11 00 0b 00 00 00 0a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T3.P11
 msgctxt "1364_Kamiyama"
 msgid "Never Mind"
 msgstr "No importa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P6
-#. y4:msg_branch_segment=T2.P6..P8
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 17 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P6
 msgctxt "1376_Kamiyama"
 msgid "Mod Gear or Accessories"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P9
-#. y4:msg_branch_segment=T2.P9..P9
-#. y4:msg_branch_raw=01 11 00 09 00 00 00 0c 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P9
 msgctxt "1388_Kamiyama"
 msgid "View Designs"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P10
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 15 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P10
 msgctxt "1400_Kamiyama"
 msgid "Buy Equipment/Designs"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=4
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P11
-#. y4:msg_branch_segment=T2.P11..P11
-#. y4:msg_branch_target_text=All right, then. Maybe next time.
-#. y4:msg_branch_raw=01 11 00 0b 00 00 00 0a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P11
 msgctxt "1412_Kamiyama"
 msgid "Never Mind"
 msgstr "No importa"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P6
-#. y4:msg_branch_segment=T2.P6..P8
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 17 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T5.P2
 msgctxt "1424_Kamiyama"
 msgid "Mod Gear or Accessories"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P9
-#. y4:msg_branch_segment=T2.P9..P9
-#. y4:msg_branch_raw=01 11 00 09 00 00 00 0c 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T5.P5
 msgctxt "1436_Kamiyama"
 msgid "View Designs"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P10
-#. y4:msg_branch_segment=T2.P10..P10
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 15 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T5.P6
 msgctxt "1448_Kamiyama"
 msgid "Buy Equipment/Designs"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=4
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P11
-#. y4:msg_branch_segment=T2.P11..P11
-#. y4:msg_branch_target_text=All right, then. Maybe next time.
-#. y4:msg_branch_raw=01 11 00 0b 00 00 00 0a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T5.P7
 msgctxt "1460_Kamiyama"
 msgid "Never Mind"
 msgstr "No importa"

@@ -18,63 +18,35 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
 msgctxt "128"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2060"
 msgid "Amateur Skygazer"
 msgstr "Hombre que mira el cielo"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "2064"
 msgid "Rooftops"
 msgstr "Azoteas"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Amateur Skygazer
-#. y4:msg_speaker_id=0
 msgctxt "56_Amateur Skygazer"
 msgid "Rooftops must exist so you can get a better look at the sky. I mean, you get your run-of-the-mill weirdos up there, too, but they almost add to the wonder of rooftop skygazing."
 msgstr "Creo que las azoteas existen para mirar el cielo. Puede que estén encima de personas raras o de tiendas cuestionables, pero eso hace que el cielo resalte aún más."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Rooftops
-#. y4:msg_speaker_id=1
 msgctxt "68_Amateur Skygazer"
 msgid "You can get to the rooftop areas from various places in Kamurocho. The rooftops are divided into the Southwest and Southeast areas. These areas can be used as alternate routes to typical street routes. Rooftop entrances and exits are marked on your map."
 msgstr "Puedes acceder a las azoteas desde varios puntos de Kamurocho. Las azoteas se dividen en dos zonas, suroeste y sureste. Estas zonas pueden usarse como rutas alternativas a las calles habituales. Las entradas y salidas a las azoteas están marcadas en tu mapa."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Rooftops
-#. y4:msg_speaker_id=1
 msgctxt "80_Amateur Skygazer"
 msgid "However, most building managers deem it too dangerous when it's raining and will close off rooftop entrances in wet weather."
 msgstr "Tenga en cuenta que la mayoría de los administradores cerrarán los accesos a las azoteas durante la temporada de lluvias, debido al peligro que estos lugares pueden representar en esas condiciones."
@@ -86,13 +58,6 @@ msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nR
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Amateur Skygazer
-#. y4:msg_speaker_id=0
 msgctxt "104_Amateur Skygazer"
 msgid "You should learn all the rooftop routes! Not only do you get a killer view of the sky and the city, but you can get to all sorts of unexpected places from way up high!"
 msgstr "¡Tienes que aprenderte todas las rutas de las azoteas! ¡Seguro que te llevan a lugares muy inesperados!"

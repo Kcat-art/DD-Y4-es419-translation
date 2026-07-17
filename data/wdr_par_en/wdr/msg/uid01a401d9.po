@@ -24,29 +24,18 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01A401D9 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
+
+
 msgctxt "96"
 msgid "You gained 2,000 EXP."
 msgstr "Has conseguido 2.000 EXP."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "504"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "72_Akiyama"
 msgid "(Wait. I was planning on blowing him off. How'd I wind up with a contract? Oh, well...)"
 msgstr "(Espera... Yo iba a escabullirme. ¿Cómo terminé con un contrato? Bueno, qué más da...)"

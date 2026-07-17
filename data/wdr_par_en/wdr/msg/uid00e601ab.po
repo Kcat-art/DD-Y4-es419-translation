@@ -24,59 +24,36 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E601AB <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2292"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "2296"
 msgid "Tadokoro's Underling"
 msgstr "Súbdito de Tadakoro"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "2300"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2304"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "2308"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "92_Saejima"
 msgid "Hey, I'm lookin' for a guy named Tadokoro. He here?"
 msgstr "Oigan, Busco a Tadokoro. ¿Está aquí?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Tadokoro's Underling
-#. y4:msg_speaker_id=1
 msgctxt "104_Tadokoro's Underling"
 msgid "What business do you have with the boss?"
 msgstr "¿Qué asunto tienes con el jefe?"
@@ -87,13 +64,6 @@ msgid "It's none of yours, I can tell ya that. Now quit\\r\n"
 msgstr "No es de tu incumbencia, ya te lo digo. Ahora deja\\r\n"
 "de hacerte el listo y respóndeme."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Tadokoro's Underling
-#. y4:msg_speaker_id=1
 msgctxt "128_Tadokoro's Underling"
 msgid "Take a good look at who you're talking to, gramps."
 msgstr "Deberías tener cuidado hablándome así, viejito."
@@ -104,35 +74,14 @@ msgid "Did I stutter? I ain't here to talk to chump change.\\r\n"
 msgstr "¿Acaso tartamudeé? No vine para hablar con un recadero.\\r\n"
 "Mejor sal de camino si no quieres salir lastimado."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Tadokoro's Underling
-#. y4:msg_speaker_id=1
 msgctxt "152_Tadokoro's Underling"
 msgid "Who are you calling a chump?"
 msgstr "¿A quién llamas recadero?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Tadokoro's Underling
-#. y4:msg_speaker_id=1
 msgctxt "164_Tadokoro's Underling"
 msgid "Don't you dare screw with us, asswipe!"
 msgstr "¡Cómo te atreves a jodernos, cara de culo!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Tadokoro's Underling
-#. y4:msg_speaker_id=1
 msgctxt "176_Tadokoro's Underling"
 msgid "You won't be calling us shit after we kick your teeth in!"
 msgstr "¡Dejarás de llamarnos así después de que te rompamos los dientes!"

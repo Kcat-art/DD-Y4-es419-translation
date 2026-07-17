@@ -24,75 +24,34 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_ROULETTE.bin
 #. y4:runtime_play_command=y4.play_msg 01A60001 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "848"
 msgid "Dealer"
 msgstr "Crupier"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "104_Dealer"
 msgid "Welcome to the roulette table."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "116_Dealer"
 msgid "Let's begin the game."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "128_Dealer"
 msgid "Welcome to the roulette table. Would you like to play one-on-one against the house?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "140_Dealer"
 msgid "Let's begin the game."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "152_Dealer"
 msgid "We look forward to seeing you again."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Dealer
-#. y4:msg_speaker_id=0
 msgctxt "164_Dealer"
 msgid "You seem to be short on chips. Please come visit us again soon."
 msgstr "Parece que te faltan fichas. Vuelva a visitarnos pronto."

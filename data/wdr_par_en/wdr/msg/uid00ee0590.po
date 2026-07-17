@@ -18,47 +18,30 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
 msgctxt "128"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1912"
 msgid "Health-conscious Woman"
 msgstr "Mujer interesada en salud"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1916"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "1920"
 msgid "Recovering Health"
 msgstr "Recuperando salud"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Health-conscious Woman
-#. y4:msg_speaker_id=0
 msgctxt "56_Health-conscious Woman"
 msgid "I love when guys eat a lot and have excessive amounts of health. Is that something you're into?"
 msgstr "Estoy segura que los hombres que comen mucho tienen salud de sobra. ¿Acaso eres de esos?"
@@ -69,13 +52,6 @@ msgid "There are five ways to recover health that you have lost in battle.\\r\n�
 msgstr "Existen cinco formas de recuperar salud después de una pelea.\\r\n　　1. Comer/beber en un restaurante o bar.\\r\n　　2. Relajarte en lugares como las aguas termales.\\r\n　　3. Comer alimentos.\\r\n　　4. Usar un objeto de recuperación, como un Staminan X.\\r\n　　5. Descansar en un escondite."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Recovering Health
-#. y4:msg_speaker_id=2
 msgctxt "80_Health-conscious Woman"
 msgid "If your health is low, you may want to heal before entering another potentially dangerous situation."
 msgstr "Si tu salud es baja, tal vez quieras curarte antes de entrar en otra situación potencialmente peligrosa."
@@ -87,13 +63,6 @@ msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nR
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Health-conscious Woman
-#. y4:msg_speaker_id=0
 msgctxt "104_Health-conscious Woman"
 msgid "Huh? Am I trying to hit on you? Oh, no, no, no! I'm just thinking aloud."
 msgstr "Ah, no es como si esté tratando de ligar contigo o algo así. No pienses cosas raras."

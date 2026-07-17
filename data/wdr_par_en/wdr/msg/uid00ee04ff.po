@@ -17,66 +17,41 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00EE04FF <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
 msgctxt "128"
 msgid "You got a <Color:8>Locker Key Radar<Color:Default>."
 msgstr "Obtuviste un <Color:8>Radar de llaves de casilleros<Color:Default>."
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
 msgctxt "176"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2724"
 msgid "Overburdened Man"
 msgstr "Hombre que quiere un casillero"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2728"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2732"
 msgid "Coin Lockers 1"
 msgstr "Casilleros 1"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2736"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Overburdened Man
-#. y4:msg_speaker_id=0
 msgctxt "56_Overburdened Man"
 msgid "Dammit, seriously!? I swear, there are never any open lockers in this stupid place! Maybe once or twice a year if you're lucky! Do I need to get up earlier or something?"
 msgstr "Maldición, ¿es en serio? ¡Pareciera que estos estúpidos casilleros solo se abrieran una vez al año! Esto es el colmo, en serio..."
@@ -87,13 +62,6 @@ msgid "These coin lockers were once rented out by those who needed them, but all
 msgstr "Estos casilleros de moneda alguna vez fueron alquilados por quienes los necesitaban, pero ahora todas sus llaves se han perdido.\\r\n\\r\nLas llaves están esparcidas por todo Kamurocho, tiradas en las calles y ocultas detrás de objetos. Aquel que encuentre las llaves tendrá derecho a obtener lo que haya dentro del casillero."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Coin Lockers 1
-#. y4:msg_speaker_id=2
 msgctxt "80_Overburdened Man"
 msgid "Find keys by entering first-person mode with <Action:Button_R3@Adventure>. Once you have the key, go back to the lockers to find what's inside."
 msgstr "Encuentra las llaves entrando en el modo en primera persona con <Action:Button_R3@Adventure>. Una vez que hayas obtenido una llave, regresa a los casilleros y mira qué hay dentro."
@@ -105,25 +73,11 @@ msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nR
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Overburdened Man
-#. y4:msg_speaker_id=0
 msgctxt "104_Overburdened Man"
 msgid "Oh, hey, I found this lying around on the ground. Maybe you can do something with it."
 msgstr "Oh, toma, encontré esto tirado en el suelo. De seguro le darás mejor uso que yo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Overburdened Man
-#. y4:msg_speaker_id=0
 msgctxt "152_Overburdened Man"
 msgid "You know, whenever I see a guy with a big green afro walk through this area, the next day, all the lockers are in use. There's something going on here, I know it..."
 msgstr "Ahora que lo pienso, cada vez que veo a ese tipo del afro verde dando vueltas por aquí, al día siguiente todos los casilleros están en uso. Algo está pasando aquí, estoy seguro..."

@@ -24,126 +24,106 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_BANTAM.bin
 #. y4:runtime_play_command=y4.play_msg 01EE00C1 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "22676"
 msgid "Rio"
 msgstr "Rio"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "22680"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "22684"
 msgid "Erena"
 msgstr "Erena"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "22688"
 msgid "Himeka"
 msgstr "Himeka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "22692"
 msgid "Maya"
 msgstr "Maya"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "22696"
 msgid "Chihiro"
 msgstr "Chihiro"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "22700"
 msgid "Noa"
 msgstr "Noa"
 
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "22704"
 msgid "峰村七海：源氏名"
 msgstr "峰村七海：源氏名"
 
+#. y4:msg_role=name
+#. y4:msg_name_id=8
 msgctxt "22708"
 msgid "松岡里緒奈：源氏名"
 msgstr "松岡里緒奈：源氏名"
 
+#. y4:msg_role=name
+#. y4:msg_name_id=9
 msgctxt "22712"
 msgid "望月京子：源氏名"
 msgstr "望月京子：源氏名"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "22716"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "22720"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
+#. y4:msg_role=name
+#. y4:msg_name_id=12
 msgctxt "22724"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "22728"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
+#. y4:msg_role=name
+#. y4:msg_name_id=14
 msgctxt "22732"
 msgid "Shizuka"
 msgstr "Shizuka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
+#. y4:msg_role=name
+#. y4:msg_name_id=15
 msgctxt "22736"
 msgid "Bartender"
 msgstr "Camarero"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
 msgctxt "22740"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=17
+#. y4:msg_role=name
+#. y4:msg_name_id=17
 msgctxt "22744"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=18
 msgctxt "22748"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
@@ -188,15 +168,6 @@ msgctxt "672_Rio"
 msgid "Sorry if you waited long. <Color:7>♥<Color:Default> Let's go have some fun! ♪"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
 msgctxt "684_Player"
 msgid "Thanks for coming."
 msgstr "Gracias por venir."
@@ -209,15 +180,6 @@ msgctxt "708_Rio"
 msgid "Sorry if you waited long. <Color:7>♥<Color:Default> You're so spontaneous, %s-san. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
 msgctxt "720_Player"
 msgid "You sure your club won't mind?"
 msgstr "¿Segura de que a tu club no le importará?"
@@ -230,28 +192,10 @@ msgctxt "744_Rio"
 msgid "Besides, I was totally ready for a break. <Color:7>♥<Color:Default>"
 msgstr "Además, estaba totalmente lista para un descanso. <Color:7>⑮<Color:Default>"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=14
 msgctxt "756_Rio"
 msgid "Thank you for waiting!<Color:7>"
 msgstr "¡Gracias por esperar!<Color:7>"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
 msgctxt "768_Player"
 msgid "Thanks for coming."
 msgstr "Gracias por venir."
@@ -264,15 +208,6 @@ msgctxt "792_Rio"
 msgid "Thanks for waiting! <Color:7>♥<Color:Default> I was so surprised when you asked me out all of the sudden, %s-san!"
 msgstr "¡Gracias por esperar! <Color:7>♥<Color:Default> ¡Estaba tan sorprendida cuando me solicitaste de forma tan repentina, %s-san!"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
 msgctxt "804_Player"
 msgid "Thanks for coming."
 msgstr "Gracias por venir."
@@ -289,15 +224,6 @@ msgctxt "840_Rio"
 msgid "Hehe. <Color:7>♥<Color:Default> You're so spontaneous, Akiyama-san. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
 msgctxt "852_Player"
 msgid "Thanks for coming."
 msgstr "Gracias por venir."
@@ -310,15 +236,6 @@ msgctxt "876_Rio"
 msgid "Sorry if you waited long. <Color:7>♥<Color:Default> You're so spontaneous, %s-san!"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=21
-#. y4:msg_location=T1.P21
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
 msgctxt "888_Player"
 msgid "You sure it's okay for you to be here?"
 msgstr "¿Estás segura de qué estás bien aquí?"
@@ -327,13 +244,6 @@ msgctxt "900_Erena"
 msgid "Hehe. <Color:7>♥<Color:Default> I just got off work, so it's totally fine."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=23
-#. y4:msg_location=T1.P23
 msgctxt "912_Rio"
 msgid "C'mon, let's go!"
 msgstr "¡Vamos!"
@@ -342,15 +252,6 @@ msgctxt "924_Rio"
 msgid "Sorry to keep you waiting. <Color:7>♥<Color:Default>"
 msgstr "Lamento hacerle esperar. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
 msgctxt "936_Player"
 msgid "Thanks for coming."
 msgstr "Gracias por venir."
@@ -359,13 +260,6 @@ msgctxt "948_Chihiro"
 msgid "Hehe. <Color:7>♥<Color:Default> Well, when you're asking me out, %s-san, I can't say no! <Color:7>♥<Color:Default>"
 msgstr "Je, je. <Color:7>♥<Color:Default> Bueno, si me pide salir, %s-san. ¡No puedo decirle que no! <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=27
-#. y4:msg_location=T1.P27
 msgctxt "960_Rio"
 msgid "Let's go have some fun!"
 msgstr "¡Vayamos a divertirnos!"
@@ -374,15 +268,6 @@ msgctxt "972_Rio"
 msgid "Sorry if you waited long. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
 msgctxt "984_Player"
 msgid "Thanks for coming."
 msgstr "Gracias por venir."
@@ -391,13 +276,6 @@ msgctxt "996_松岡里緒奈：源氏名"
 msgid "Hehehe. <Color:7>♥<Color:Default> Well, when you're asking me out, %s-san, I can't say no!"
 msgstr "Je, je, je. <Color:7>♥<Color:Default> Bueno, si me pide salir, %s-san. ¡No puedo decirle que no!"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=31
-#. y4:msg_location=T1.P31
 msgctxt "1008_Rio"
 msgid "Okay, let's go!"
 msgstr "Bien, vamos!"
@@ -406,15 +284,6 @@ msgctxt "1020_Rio"
 msgid "Thanks for waiting! <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
 msgctxt "1032_Player"
 msgid "Thanks for coming."
 msgstr "Gracias por venir."
@@ -423,13 +292,6 @@ msgctxt "1044_望月京子：源氏名"
 msgid "Ahaha! <Color:7>♥<Color:Default> Well, when you're asking me out, %s-san, I can't say no!"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=35
-#. y4:msg_location=T1.P35
 msgctxt "1056_Rio"
 msgid "Let's get things started!"
 msgstr ""
@@ -438,15 +300,6 @@ msgctxt "1068_Rio"
 msgid "Hope you didn't wait too long. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
 msgctxt "1080_Player"
 msgid "Thanks for coming."
 msgstr "Gracias por venir."
@@ -455,247 +308,80 @@ msgctxt "1092_峰村七海：源氏名"
 msgid "Hehe. <Color:7>♥<Color:Default> Well, when you're asking me out, %s-san, I can't say no!"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=39
-#. y4:msg_location=T1.P39
 msgctxt "1104_Rio"
 msgid "Now then, let's get started."
 msgstr "Bueno, comencemos."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=40
-#. y4:msg_location=T1.P40
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Count-Up -> T1.P41 | 2. '01 Game 301 -> T1.P42 | 3. '01 Game 501 -> T1.P43 | 4. '01 Game 701 -> T1.P44 | 5. '01 Game 901 -> T1.P45 | 6. Standard Cricket -> T1.P46 | 7. Random Cricket -> T1.P47 | 8. Hidden Cricket -> …
 msgctxt "1116_Player"
 msgid "(What game should I play?)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=41
-#. y4:msg_location=T1.P41
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Count-Up
 msgctxt "1128_Rio"
 msgid "Okay, let's play Count-Up."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=42
-#. y4:msg_location=T1.P42
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice='01 Game 301
 msgctxt "1140_Rio"
 msgid "Okay, let's play '01 Game 301."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=43
-#. y4:msg_location=T1.P43
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice='01 Game 501
 msgctxt "1152_Rio"
 msgid "Okay, let's play '01 Game 501."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=44
-#. y4:msg_location=T1.P44
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice='01 Game 701
 msgctxt "1164_Rio"
 msgid "Okay, let's play '01 Game 701."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=45
-#. y4:msg_location=T1.P45
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
-#. y4:msg_choice_index=5
-#. y4:msg_branch_choice='01 Game 901
 msgctxt "1176_Rio"
 msgid "Okay, let's play '01 Game 901."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=46
-#. y4:msg_location=T1.P46
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
-#. y4:msg_choice_index=6
-#. y4:msg_branch_choice=Standard Cricket
 msgctxt "1188_Rio"
 msgid "Okay, let's play Standard Cricket."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=47
-#. y4:msg_location=T1.P47
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
-#. y4:msg_choice_index=7
-#. y4:msg_branch_choice=Random Cricket
 msgctxt "1200_Rio"
 msgid "Okay, let's play Random Cricket."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=48
-#. y4:msg_location=T1.P48
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
-#. y4:msg_choice_index=8
-#. y4:msg_branch_choice=Hidden Cricket
 msgctxt "1212_Rio"
 msgid "Okay, let's play Hidden Cricket."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=50
-#. y4:msg_location=T1.P50
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=12
-#. y4:msg_choice_index=8
-#. y4:msg_branch_choice=Hidden Cricket
 msgctxt "1236_Rio"
 msgid "(I feel a little dizzy from all that booze. Might be hard to play darts like this.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=51
-#. y4:msg_location=T1.P51
-#. y4:msg_speaker=Bartender
-#. y4:msg_speaker_id=15
-#. y4:msg_choice_index=8
-#. y4:msg_branch_choice=Hidden Cricket
 msgctxt "1248_Bartender"
 msgid "Enjoy your game."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=0
 msgctxt "1344_Rio"
 msgid "Hey, this is Araki."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=17
 msgctxt "1356_Kiryu"
 msgid "I'm over at Bantam right now. Want to swing by and play a game of darts?"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=2
-#. y4:msg_phrase=8
-#. y4:msg_location=T2.P8
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=0
 msgctxt "1368_Rio"
 msgid "Sure! I'll be there in a minute."
 msgstr ""
 
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=1
 msgctxt "1476_Rio"
 msgid "Sorry to keep you waiting! <Color:255,200,200,255>♥<Color:Default> Okay, let's get this party started!"
 msgstr "Siento haberte hecho esperar. <Color:255,200,200,255>♥<Color:Default> ¡Bien, que empiece la fiesta!"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=2
-#. y4:msg_phrase=22
-#. y4:msg_location=T2.P22
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=2
 msgctxt "1536_Erena"
 msgid "This is Erena."
 msgstr "Esta es Erena."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=17
 msgctxt "1548_Kiryu"
 msgid "I'm over at Bantam right now. Want to swing by and play a game of darts?"
 msgstr ""
@@ -704,32 +390,17 @@ msgctxt "1560_Erena"
 msgid "Darts? Aw, what the heck, I'll come hang out with you. <Color:255,200,200,255>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=2
 msgctxt "1668_Erena"
 msgid "I'm finally here! <Color:255,200,200,255>♥<Color:Default> Let's get started!"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=3
-#. y4:msg_section_label=Conversación 3
-#. y4:msg_talk=2
-#. y4:msg_phrase=38
-#. y4:msg_location=T2.P38
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=3
 msgctxt "1728_Himeka"
 msgid "This is Himeka."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=17
 msgctxt "1740_Kiryu"
 msgid "I'm over at Bantam right now. Want to swing by and play a game of darts?"
 msgstr ""
@@ -738,71 +409,29 @@ msgctxt "1752_Himeka"
 msgid "Darts? Aw, what the heck, I'll come hang out with you. <Color:255,200,200,255>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=3
 msgctxt "1860_Himeka"
 msgid "I'm finally here! <Color:255,200,200,255>♥<Color:Default> Let's get started!"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=2
-#. y4:msg_phrase=54
-#. y4:msg_location=T2.P54
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=4
 msgctxt "1920_Maya"
 msgid "This is Maya."
 msgstr "Ella es Maya."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=2
-#. y4:msg_phrase=55
-#. y4:msg_location=T2.P55
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=17
 msgctxt "1932_Kiryu"
 msgid "Hey. You still here?"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=2
-#. y4:msg_phrase=56
-#. y4:msg_location=T2.P56
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=4
 msgctxt "1944_Maya"
 msgid "Yeah... We're not quite ready yet."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=4
-#. y4:msg_section_label=Conversación 4
-#. y4:msg_talk=2
-#. y4:msg_phrase=57
-#. y4:msg_location=T2.P57
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=4
 msgctxt "1956_Maya"
 msgid "So, what's up?"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=17
 msgctxt "1968_Kiryu"
 msgid "I'm over at Bantam right now. Want to swing by and play a game of darts?"
 msgstr ""
@@ -811,353 +440,213 @@ msgctxt "1980_Maya"
 msgid "Okay, I'll be right over. Don't worry, I'm worth the wait. <Color:255,200,200,255>♥<Color:Default>"
 msgstr ""
 
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=4
 msgctxt "2088_Maya"
 msgid "I'm finally here! <Color:255,200,200,255>♥<Color:Default> Now let's have some fun!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=2
-#. y4:msg_phrase=72
-#. y4:msg_location=T2.P72
-#. y4:msg_speaker=Bartender
-#. y4:msg_speaker_id=15
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Play Count-Up
 msgctxt "2136_Rio"
 msgid "All right, that will be 400 yen for two players."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P41
-#. y4:msg_branch_segment=T1.P41..P41
-#. y4:msg_branch_target_text=Okay, let's play Count-Up.
-#. y4:msg_branch_raw=01 11 00 29 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "2160_Rio"
 msgid "Count-Up"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P42
-#. y4:msg_branch_segment=T1.P42..P42
-#. y4:msg_branch_target_text=Okay, let's play '01 Game 301.
-#. y4:msg_branch_raw=01 11 00 2a 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "2172_Rio"
 msgid "'01 Game 301"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P43
-#. y4:msg_branch_segment=T1.P43..P43
-#. y4:msg_branch_target_text=Okay, let's play '01 Game 501.
-#. y4:msg_branch_raw=01 11 00 2b 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "2184_Rio"
 msgid "'01 Game 501"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=4
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P44
-#. y4:msg_branch_segment=T1.P44..P44
-#. y4:msg_branch_target_text=Okay, let's play '01 Game 701.
-#. y4:msg_branch_raw=01 11 00 2c 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "2196_Rio"
 msgid "'01 Game 701"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=5
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P45
-#. y4:msg_branch_segment=T1.P45..P45
-#. y4:msg_branch_target_text=Okay, let's play '01 Game 901.
-#. y4:msg_branch_raw=01 11 00 2d 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "2208_Rio"
 msgid "'01 Game 901"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=6
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P46
-#. y4:msg_branch_segment=T1.P46..P46
-#. y4:msg_branch_target_text=Okay, let's play Standard Cricket.
-#. y4:msg_branch_raw=01 11 00 2e 00 00 00 10 00 00 00 00 00 00 00 00
 msgctxt "2220_Rio"
 msgid "Standard Cricket"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=7
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P47
-#. y4:msg_branch_segment=T1.P47..P47
-#. y4:msg_branch_target_text=Okay, let's play Random Cricket.
-#. y4:msg_branch_raw=01 11 00 2f 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "2232_Rio"
 msgid "Random Cricket"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=8
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P48
-#. y4:msg_branch_segment=T1.P48..P52
-#. y4:msg_branch_target_text=Okay, let's play Hidden Cricket.
-#. y4:msg_branch_raw=01 11 00 30 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "2244_Rio"
 msgid "Hidden Cricket"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P69
-#. y4:msg_branch_segment=T2.P69..P69
-#. y4:msg_branch_raw=01 11 00 45 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "2256_Rio"
 msgid "Play '01 Game"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P70
-#. y4:msg_branch_segment=T2.P70..P70
-#. y4:msg_branch_raw=01 11 00 46 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "2268_Rio"
 msgid "Play Cricket"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P71
-#. y4:msg_branch_segment=T2.P71..P73
-#. y4:msg_branch_target_text=All right, that will be 400 yen for two players.
-#. y4:msg_branch_raw=01 11 00 47 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "2280_Rio"
 msgid "Play Count-Up"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P69
-#. y4:msg_branch_segment=T2.P69..P69
-#. y4:msg_branch_raw=01 11 00 45 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "2292_Rio"
 msgid "Play '01 Game"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P70
-#. y4:msg_branch_segment=T2.P70..P70
-#. y4:msg_branch_raw=01 11 00 46 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "2304_Rio"
 msgid "Play Cricket"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P71
-#. y4:msg_branch_segment=T2.P71..P73
-#. y4:msg_branch_target_text=All right, that will be 400 yen for two players.
-#. y4:msg_branch_raw=01 11 00 47 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "2316_Rio"
 msgid "Play Count-Up"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P69
-#. y4:msg_branch_segment=T2.P69..P69
-#. y4:msg_branch_raw=01 11 00 45 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "2328_Rio"
 msgid "Play '01 Game"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P70
-#. y4:msg_branch_segment=T2.P70..P70
-#. y4:msg_branch_raw=01 11 00 46 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "2340_Rio"
 msgid "Play Cricket"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P71
-#. y4:msg_branch_segment=T2.P71..P73
-#. y4:msg_branch_target_text=All right, that will be 400 yen for two players.
-#. y4:msg_branch_raw=01 11 00 47 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "2352_Rio"
 msgid "Play Count-Up"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P69
-#. y4:msg_branch_segment=T2.P69..P69
-#. y4:msg_branch_raw=01 11 00 45 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "2364_Rio"
 msgid "Play '01 Game"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P70
-#. y4:msg_branch_segment=T2.P70..P70
-#. y4:msg_branch_raw=01 11 00 46 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "2376_Rio"
 msgid "Play Cricket"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P71
-#. y4:msg_branch_segment=T2.P71..P73
-#. y4:msg_branch_target_text=All right, that will be 400 yen for two players.
-#. y4:msg_branch_raw=01 11 00 47 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "2388_Rio"
 msgid "Play Count-Up"
 msgstr ""

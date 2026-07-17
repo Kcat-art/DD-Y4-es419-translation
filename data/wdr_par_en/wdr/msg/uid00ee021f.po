@@ -24,141 +24,65 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00EE021F <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2276"
 msgid "Employee"
 msgstr "Empleada"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2280"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2284"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2288"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
 msgctxt "72_Employee"
 msgid "Good to see you, Akiyama-san."
 msgstr "Bienvenido, Akiyama-san."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=2
 msgctxt "84_Akiyama"
 msgid "Hey there. I'm here looking for a nice new dress for this girl here. Think you could help me pick something out for her?"
 msgstr "Ah, hola. Vine a comprarle ropa a esta mujer.\n"
 "¿Podrías ayudarme a elegir algo que le quede bien?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
 msgctxt "96_Employee"
 msgid "Of course, sir. Let's see... What do you think of these?"
 msgstr "¿En serio? Veamos... ¿qué te parece este conjunto?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=2
 msgctxt "120_Akiyama"
 msgid "(No, I've got to buy it here.)"
 msgstr "(No, tenemos que comprar aquí sí o sí)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
 msgctxt "132_Employee"
 msgid "Thank you very much. That dress is absolutely perfect for you, if you don't mind me saying!"
 msgstr "Gracias. Creo que es un vestido que le queda muy bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
 msgctxt "144_Employee"
 msgid "Thank you very much. That dress is absolutely perfect for you, if you don't mind me saying!"
 msgstr "Gracias. Creo que es un vestido que le queda muy bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=2
 msgctxt "156_Akiyama"
 msgid "You can send the bill over to my secretary Hana-chan. Sorry for the trouble."
 msgstr "Perdón, pero... ¿podrías cobrarle a Hana-chan de mi parte?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
 msgctxt "168_Employee"
 msgid "It's no trouble at all, sir! We'll do just that. Please come again soon."
 msgstr "Entendido. Espero verlos de nuevo pronto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
 msgctxt "180_Employee"
 msgid "Welcome."
 msgstr "Bienvenido."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=0
 msgctxt "204_Employee"
 msgid "Thank you very much."
 msgstr "Muchas gracias."

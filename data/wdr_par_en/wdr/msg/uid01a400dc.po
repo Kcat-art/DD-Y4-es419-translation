@@ -16,126 +16,73 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 01A400DC <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1924"
 msgid "Shady Man A"
 msgstr "Hombre Sospechoso A"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1928"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1932"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "1936"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "1940"
 msgid "Police Officer"
 msgstr "Policía"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "1944"
 msgid "Talk_Phone_yes"
 msgstr "Talk_Phone_yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "1948"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "1952"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Shady Man A
-#. y4:msg_speaker_id=0
 msgctxt "56_Shady Man A"
 msgid "Who the fuck are you, anyway!?"
 msgstr "¡¿Que demonios eres?!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "68_Akiyama"
 msgid "Just your everyday moneylender."
 msgstr "Sólo soy un simple prestamista."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Police Officer
-#. y4:msg_speaker_id=4
 msgctxt "116_Police Officer"
 msgid "Kamurocho Police Department."
 msgstr "Departamento de Policia de Kamurocho."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "128_Akiyama"
 msgid "Hello, officer?"
 msgstr "Aló, ¿Policía?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Police Officer
-#. y4:msg_speaker_id=4
 msgctxt "140_Police Officer"
 msgid "Yes, can I help you?"
 msgstr "¿Sí? ¿Puedo ayudarle?"
@@ -151,13 +98,6 @@ msgid "Huh? Wait, what do you m－"
 msgstr "¿Eh? Espera, ¿Qué q-"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "224_Akiyama"
 msgid "All right... I'm done here."
 msgstr "Bien, ya cumplí mi misión aquí."

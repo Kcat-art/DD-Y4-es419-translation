@@ -24,52 +24,32 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01090178 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1500"
 msgid "Elderly Homeless Man"
 msgstr "Anciano Vagabundo"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1504"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1508"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "1512"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Elderly Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "80_Elderly Homeless Man"
 msgid "Oh, thank goodness! Just the man I've been looking for."
 msgstr "¡Gracias a Dios! Justo el tipo que estaba buscando."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "104_Saejima"
 msgid "Hell of a scratch ya got there. What happened?"
 msgstr "Eso sí que es un buen rasguño… ¿qué demonios te pasó?"
@@ -79,13 +59,6 @@ msgid "Some wacked-out hoodlums are going completely berserk.\\r\n"
 "They're too much for us to handle. Come on!"
 msgstr "Unos vándalos lunáticos se están volviendo completamente salvajes. Son demasiado para nosotros. ¡Vamos!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "128_Saejima"
 msgid "Alright."
 msgstr "Está bien."

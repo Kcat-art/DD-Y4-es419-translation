@@ -24,38 +24,20 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_POKER.bin
 #. y4:runtime_play_command=y4.play_msg 01260000 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
 msgctxt "88"
 msgid "Welcome to the poker table."
 msgstr "Bienvenido a la mesa de póker."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
 msgctxt "100"
 msgid "Let's begin the game."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
 msgctxt "112"
 msgid "We look forward to seeing you again soon."
 msgstr "Esperamos volver a verte pronto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
 msgctxt "124"
 msgid "You seem to be short on chips. Please come visit us again soon."
 msgstr "Parece que te faltan fichas. Vuelva a visitarnos pronto."

@@ -24,221 +24,110 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_JIMU02.bin
 #. y4:runtime_play_command=y4.play_msg 00E60170 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "5304"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "5308"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "5312"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "5316"
 msgid "Chihiro"
 msgstr "Chihiro"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "5320"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "5324"
 msgid "Kinugawa"
 msgstr "Kinugawa"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "5328"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "5332"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "5336"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "5340"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "5344"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "5348"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "5352"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "5356"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "80_Tanimura"
 msgid "What the hell are you doing!?"
 msgstr "¡¿Qué demonios estás haciendo?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=3
 msgctxt "92_Chihiro"
 msgid "Tanimura-san!"
 msgstr "¡Tanimura-san!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Kinugawa
-#. y4:msg_speaker_id=5
 msgctxt "104_Kinugawa"
 msgid "Who the hell are you!?"
 msgstr "¿Quién carajos eres?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "116_Tanimura"
 msgid "I'm a police officer! Let her go! I'm placing you under arrest for assault!"
 msgstr "¡Soy oficial de policía! ¡Déjala ir! ¡Estás bajo arresto por agresión!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Kinugawa
-#. y4:msg_speaker_id=5
 msgctxt "128_Kinugawa"
 msgid "Just a minute! I think there's been some kind of misunderstanding!"
 msgstr "¡Espera un momento! ¡Creo que esto es un malentendido!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "140_Tanimura"
 msgid "Oh really?"
 msgstr "¿Oh, en serio?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Kinugawa
-#. y4:msg_speaker_id=5
 msgctxt "152_Kinugawa"
 msgid "This is all totally consensual! It happens all the time in show business! I scratch her back, she scratches mine."
 msgstr "¡Todo es totalmente consensuado! ¡Esto pasa siempre en el mundo del espectáculo! Hoy por mí, mañana por ella."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "164_Tanimura"
 msgid "Bullshit!"
 msgstr "¡Y una mierda!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Kinugawa
-#. y4:msg_speaker_id=5
 msgctxt "176_Kinugawa"
 msgid "Why don't we ask what she thinks? What about it, Chihiro? Do you want to make your pro acting debut or not?"
 msgstr "¿Por qué no le preguntamos a ella lo que piensa? Dinos Chihiro. ¿Quieres tener tu debut como actriz profesional o no?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=3
 msgctxt "188_Chihiro"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Kinugawa
-#. y4:msg_speaker_id=5
 msgctxt "200_Kinugawa"
 msgid "I can make your dream come true, you know."
 msgstr "Puedo hacer que tu sueño se haga realidad, ¿sabes?"
@@ -247,79 +136,30 @@ msgctxt "212_Chihiro"
 msgid "Not like this! I work hard every day so I can be an actress－a real actress!"
 msgstr "¡No de esta manera! Trabajo duro cada día para ser actriz - ¡una actriz de verdad!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=3
 msgctxt "224_Chihiro"
 msgid "I want to make my pro acting debut based on my talent, not on favors!"
 msgstr "Quiero tener mi debut como actriz profesional, por quien soy, por mi talento. ¡No haciéndole favores!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "236_Tanimura"
 msgid "You heard her."
 msgstr "Ya la has oído."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Kinugawa
-#. y4:msg_speaker_id=5
 msgctxt "248_Kinugawa"
 msgid "Shit... Why'd you stick your nose in where it don't belong!? I almost had her!"
 msgstr "Mierda... ¡¿Por qué tuviste que meter tus narices donde no te llaman?! ¡Ya casi la tenía!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Kinugawa
-#. y4:msg_speaker_id=5
 msgctxt "260_Kinugawa"
 msgid "Come on, guys! Let's get this asshole!"
 msgstr "¡Vamos, chicos! ¡A por este imbécil!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "284_Tanimura"
 msgid "You never had any intention of getting her an acting job, did you? You just use that as bait to trick aspiring actresses like Chihiro."
 msgstr "Nunca tuviste la intención en darle el trabajo como actriz, ¿no es así? Solo usas eso como pretexto para engañar a actrices aspirantes como Chihiro."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "296_Tanimura"
 msgid "This probably isn't even a real talent agency."
 msgstr "Esto seguramente ni siquiera sea una agencia de talentos real."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Kinugawa
-#. y4:msg_speaker_id=5
 msgctxt "308_Kinugawa"
 msgid "Shut up! I don't care if you're a cop! You're not walking out of here in one piece!"
 msgstr "¡Cállate! ¡No me importa si eres policía! ¡No saldrás de aquí entero!"

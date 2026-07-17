@@ -24,56 +24,34 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_MONITOR.bin
 #. y4:runtime_play_command=y4.play_msg 010203FC <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1008"
 msgid "?"
 msgstr "¿?"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1012"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "1016"
 msgid "The Florist"
 msgstr "El florista"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=?
-#. y4:msg_speaker_id=0
 msgctxt "68_?"
 msgid "Ah, there you are."
 msgstr "Finalmente has llegado."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "92_Saejima"
 msgid "Who in the goddamn...?"
 msgstr "¿Pero qué es todo esto...?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=The Florist
-#. y4:msg_speaker_id=2
 msgctxt "104_The Florist"
 msgid "I've been waiting for you, Taiga Saejima."
 msgstr "...Te estaba esperando, Taiga Saejima."

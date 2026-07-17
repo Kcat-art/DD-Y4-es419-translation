@@ -24,113 +24,64 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_OKI_PRISON01.bin
 #. y4:runtime_play_command=y4.play_msg 010206FA <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1996"
 msgid "Prison Guards"
 msgstr "Guardia de la Cárcel"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2000"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2004"
 msgid "Prison Guard"
 msgstr "Guardia de Prisión"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2008"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "2012"
 msgid "Hamazaki"
 msgstr "Hamazaki"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "2016"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "2020"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "2024"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Prison Guard
-#. y4:msg_speaker_id=2
 msgctxt "68_Prison Guard"
 msgid "Hey, I need backup over here! I found the prisoners!"
 msgstr "¡Hey, venid a ayudarme! ¡He encontrado a los prisioneros!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Prison Guards
-#. y4:msg_speaker_id=0
 msgctxt "80_Prison Guards"
 msgid "We can't let them get away!"
 msgstr "¡Atrápenlos!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=4
 msgctxt "152_Hamazaki"
 msgid "Holy hell, that's a lot of guys."
 msgstr "Maldición, hay demasiados."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=4
 msgctxt "164_Hamazaki"
 msgid "We're almost to the yard, though. Can't let them stop us now."
 msgstr "El patio se encuentra justo enfrente. ¡No podemos darnos por vencidos!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=7
 msgctxt "176_Saejima"
 msgid "Gotcha. Let's rock these fools!"
 msgstr "Entendido. ¡Vamos!"

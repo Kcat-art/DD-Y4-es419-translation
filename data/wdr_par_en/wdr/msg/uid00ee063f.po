@@ -24,184 +24,84 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00EE063F <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2648"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2652"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2656"
 msgid "キャバ育名前"
 msgstr "キャバ育名前"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2660"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "2664"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "2668"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "68_Akiyama"
 msgid "Hmm? What're you doing here?"
 msgstr "¿Mmm? ¿Qué haces acá?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=繧ｭ繝｣繝占ご蜷榊燕
-#. y4:msg_speaker_id=2
 msgctxt "80_キャバ育名前"
 msgid "Oh... Akiyama-san."
 msgstr "Ah... Akiyama-san."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "92_Akiyama"
 msgid "Hey there. How's the hostess life treating you?  Getting used to it yet?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=繧ｭ繝｣繝占ご蜷榊燕
-#. y4:msg_speaker_id=2
 msgctxt "104_キャバ育名前"
 msgid "Yes! My apartment is amazing. I could spend a whole day there and not feel bored!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "116_Akiyama"
 msgid "I'm glad to hear that, but don't forget to call home now and then."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=繧ｭ繝｣繝占ご蜷榊燕
-#. y4:msg_speaker_id=2
 msgctxt "128_キャバ育名前"
 msgid "What!? No! I don't wanna have anything to do with my father anymore! I don't even wanna hear his voice!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "140_Akiyama"
 msgid "Aren't your parents paying for your tuition? If you really wanted to cut ties with them, you'd have to quit school."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=繧ｭ繝｣繝占ご蜷榊燕
-#. y4:msg_speaker_id=2
 msgctxt "152_キャバ育名前"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "164_Akiyama"
 msgid "Okay, off to work now! There are lots of folks back at the club who want to see you."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=繧ｭ繝｣繝占ご蜷榊燕
-#. y4:msg_speaker_id=2
 msgctxt "176_キャバ育名前"
 msgid "All right."
 msgstr "Está bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=繧ｭ繝｣繝占ご蜷榊燕
-#. y4:msg_speaker_id=2
 msgctxt "188_キャバ育名前"
 msgid "I wanna prove that I can make it on my own! I'm gonna do this!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "200_Akiyama"
 msgid "(Sounds like a tough situation. Nothing I can really do to help it, though.)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "212_Akiyama"
 msgid "(Hopefully working at the club will help her figure things out.)"
 msgstr ""

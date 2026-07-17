@@ -24,29 +24,18 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01A40132 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
+
+
 msgctxt "80"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "496"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "56_Akiyama"
 msgid "(I think I'll give Hayashida-san a discount and let the counterfeit portion of his payment slide... Okay, back to the office.)"
 msgstr "(Creo que dejaré pasar los billetes falsos en el pago de\\r\n"

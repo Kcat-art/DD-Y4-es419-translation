@@ -24,45 +24,26 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_OKAMA.bin
 #. y4:runtime_play_command=y4.play_msg 010202B6 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "732"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "736"
 msgid "2d_cf_image_adv07"
 msgstr "2d_cf_image_adv07"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "740"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "56_Akiyama"
 msgid "(Lighters with the bar's name on it. They probably hand them out to customers in the hopes that other people will see it. Viral marketing, or whatever.)"
 msgstr "(Encendedores con el nombre del bar. Tal vez lo regalen a clientes como publicidad. Marketing, o lo que sea)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "80_Akiyama"
 msgid "(...These are just like the one Lily-chan had.)"
 msgstr "(Son como el que tenía Lily-chan)."

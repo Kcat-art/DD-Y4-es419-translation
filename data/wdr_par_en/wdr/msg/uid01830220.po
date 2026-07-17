@@ -24,137 +24,80 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_JIMU01.bin
 #. y4:runtime_play_command=y4.play_msg 01830220 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "6460"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "6464"
 msgid "?"
 msgstr "¿?"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "6468"
 msgid "Akiyama?"
 msgstr "¿Akiyama?"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "6472"
 msgid "\"Akiyama\""
 msgstr "\"Akiyama\""
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "6476"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "6480"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "6484"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "6488"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "6492"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "6496"
 msgid "P_tan_sitsofa_tlk_kamae_ed"
 msgstr "P_tan_sitsofa_tlk_kamae_ed"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "6500"
 msgid "P_tan_stand"
 msgstr "P_tan_stand"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "6504"
 msgid "P_aki_sitsofa_tlk_kamae_ed"
 msgstr "P_aki_sitsofa_tlk_kamae_ed"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "6508"
 msgid "P_aki_stand"
 msgstr "P_aki_stand"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "68_Akiyama"
 msgid "Pardon me! I'd like to borrow some money."
 msgstr "¡Disculpa! Me gustaría pedir prestado algo de dinero."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=?
-#. y4:msg_speaker_id=1
 msgctxt "80_?"
 msgid "Mnrf..."
 msgstr "Mnrf..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Akiyama?
-#. y4:msg_speaker_id=2
 msgctxt "92_Akiyama?"
 msgid "Huh? A customer?"
 msgstr "¿Eh? ¿Un cliente?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "104_Akiyama"
 msgid "Yes, well..."
 msgstr "Sí, este..."
@@ -165,35 +108,14 @@ msgid "My goodness! Forgive me. Welcome to Sky Finance. I'm\\r\n"
 msgstr "¡Por dios! Lo siento. Bienvenido a Sky Finance. Soy\\r\n"
 "Akiyama, el CEO."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "128_Akiyama"
 msgid "Akiyama-san. I see..."
 msgstr "Akiyama-san. Ya veo..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker="Akiyama"
-#. y4:msg_speaker_id=3
 msgctxt "200_\"Akiyama\""
 msgid "Oh, and your name is?"
 msgstr "Oh, ¿y cuál es su nombre?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "212_Akiyama"
 msgid "Uh, it's Suzuki."
 msgstr "Ah, Me llamo Suzuki."
@@ -218,57 +140,22 @@ msgstr "Así es. Veo que estás familiarizado con nuestro trabajo. Dichas condic
 "dependiendo del tamaño del préstamo. ¿Cuánto dinero\\r\n"
 "necesitas?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "260_Akiyama"
 msgid "Let's see... About a hundred million or so."
 msgstr "Vamos a ver... Alrededor de cien millones más o menos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker="Akiyama"
-#. y4:msg_speaker_id=3
 msgctxt "272_\"Akiyama\""
 msgid "A hundred million!?"
 msgstr "¡¿Cien millones?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker="Akiyama"
-#. y4:msg_speaker_id=3
 msgctxt "284_\"Akiyama\""
 msgid "Do you have any idea what you're asking!?"
 msgstr "¡¿Tienes idea de cuanto dinero estás pidiendo?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "296_Akiyama"
 msgid "(Maybe it's just a coincidence, but it bugs me how much he sounds like me right now...)"
 msgstr "(Quizás solo es una coincidencia, pero me está molestando lo parecido que suena a mí...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "308_Akiyama"
 msgid "I really need it. Will you lend it to me?"
 msgstr "De verdad lo necesito. ¿Me los vas a prestar o no?"
@@ -279,46 +166,18 @@ msgid "If I'm going to lend you a hundred million, the terms will\\r\n"
 msgstr "Si te presto cien millones, las condiciones serán\\r\n"
 "considerables. ¿Estás preparado para eso?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "332_Akiyama"
 msgid "Yeah, sure."
 msgstr "Sí, por supuesto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker="Akiyama"
-#. y4:msg_speaker_id=3
 msgctxt "344_\"Akiyama\""
 msgid "Hmm..."
 msgstr "Mmm..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker="Akiyama"
-#. y4:msg_speaker_id=3
 msgctxt "380_\"Akiyama\""
 msgid "Sky Finance... Yes. Uh-huh."
 msgstr "Sky Finance... Sí. Ajá."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker="Akiyama"
-#. y4:msg_speaker_id=3
 msgctxt "392_\"Akiyama\""
 msgid "Why, that's perfect! Sure, I'll do it. Be right over!"
 msgstr "¡Es perfecto! Por supuesto que lo haré. ¡Ya voy para allá!"
@@ -335,13 +194,6 @@ msgid "All right. If you can pass the test I'm about to give you,\\r\n"
 msgstr "Pues bien. Si logras aprobar mi prueba que estoy a punto de darte,\\r\n"
 "te prestaré los cien millones de yenes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=32
-#. y4:msg_location=T0.P32
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "440_Akiyama"
 msgid "Really? Oh, thank goodness. So what kind of test is it?"
 msgstr "¿En serio? Oh, gracias a dios. Entonces, ¿Qué tipo de prueba es?"
@@ -354,24 +206,10 @@ msgstr "Me ayudarás a transportar algo específico. Es muy\\r\n"
 "valioso, y sin duda será objetivo de ladrones...\\r\n"
 "Las cosas podrían ponerse peliagudas. ¿Aceptas?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=34
-#. y4:msg_location=T0.P34
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "464_Akiyama"
 msgid "If it'll get me that hundred million, then I'm in."
 msgstr "Si eso me ayuda a conseguir ese millón, entonces cuenta conmigo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=35
-#. y4:msg_location=T0.P35
-#. y4:msg_speaker="Akiyama"
-#. y4:msg_speaker_id=3
 msgctxt "476_\"Akiyama\""
 msgid "All right, let's go!"
 msgstr "¡Muy bien, vamos!"

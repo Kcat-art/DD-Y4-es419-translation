@@ -24,20 +24,12 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_JIMU04.bin
 #. y4:runtime_play_command=y4.play_msg 01A401D8 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
+
+
 msgctxt "316"
 msgid "You got <Color:8>80,000 yen<Color:Default>."
 msgstr "Obtuviste <Color:8>80 000 yenes<Color:Default>."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
 msgctxt "400"
 msgid "You got <Color:8>40,000 yen<Color:Default>."
 msgstr "Obtuviste <Color:8>40 000 yenes<Color:Default>."
@@ -48,165 +40,92 @@ msgid "You knew going in that it was a scam, and you still strung\\r\n"
 msgstr "¿Sabías que era una estafa y aun así me hiciste perder el\\r\n"
 "tiempo? ¡Maldito infeliz!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=58
-#. y4:msg_location=T2.P58
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Does your company profit from this?
 msgctxt "1156"
 msgid "C'mon, everybody. Let's teach this guy a lesson!"
 msgstr "¡A por él, chicos! ¡Acabemos con este desgraciado!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=68
-#. y4:msg_location=T2.P68
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Does your company profit from this?
 msgctxt "1276"
 msgid "You can't just leave like that. Not after hearing me out this far!"
 msgstr "No dejaré que te vayas. ¡No después de todo lo que te he contado!"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "21004"
 msgid "Saki"
 msgstr "Saki"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "21008"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "21012"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "21016"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "21020"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "21024"
 msgid "Forex Company President"
 msgstr "Director general de la compañía de forex"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "21028"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "21032"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "21036"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "21040"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "21044"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "21048"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "21052"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "21056"
 msgid "P_aki_stand"
 msgstr "P_aki_stand"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "21060"
 msgid "Stand2Idle"
 msgstr "Stand2Idle"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
 msgctxt "21064"
 msgid "M_nml_stand"
 msgstr "M_nml_stand"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
 msgctxt "21068"
 msgid "Idle"
 msgstr "Idle"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=17
 msgctxt "21072"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Saki
-#. y4:msg_speaker_id=0
 msgctxt "268_Saki"
 msgid "I'm so sorry. Won't you please forgive me?"
 msgstr "¡L-lo siento muchísimoooo! ¡Por favor, perdóneme la vida!"
@@ -242,13 +161,6 @@ msgid "Yes, sir! I'm so very sorry! We'll go back to making loans\\r\n"
 msgstr "¡S-sí, señor! ¡Lo siento mucho! ¡Volveremos a hacer\\r\n"
 "préstamos legales, lo juro por lo que más quiera!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Saki
-#. y4:msg_speaker_id=0
 msgctxt "364_Saki"
 msgid "I'm so sorry. Won't you please forgive me?"
 msgstr "¡L-lo siento muchísimoooo! ¡Por favor, perdóneme la vida!"
@@ -295,15 +207,6 @@ msgid "I'm Saki, the company president, and I'll be conducting your\\r\n"
 msgstr "Soy Saki, el director general de la compañía. Yo mismo me\\r\n"
 "encargaré de darle toda la información que necesite."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "496_Akiyama"
 msgid "Wow, an audience with the president himself?"
 msgstr "¡Vaya, una audiencia con el mismísimo director!"
@@ -314,41 +217,14 @@ msgid "Indeed! I'm very excited about the products we have to\\r\n"
 msgstr "¡En efecto! ¡Va a quedar maravillado con lo que tenemos\\r\n"
 "para ofrecerle! Pero antes, ¿cuál es su nombre?"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "520_Akiyama"
 msgid "It's Akiyama."
 msgstr "Soy Akiyama."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Saki
-#. y4:msg_speaker_id=0
 msgctxt "532_Saki"
 msgid "Thank you, Akiyama-sama."
 msgstr "Es un placer, Akiyama-sama."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "544_Akiyama"
 msgid "Now, Saki-san... what exactly is this forex thing, anyway?"
 msgstr "Oh, gran presidente. Me gustaría aprender más acerca del FX."
@@ -394,28 +270,10 @@ msgid "Now, with your average forex trade, any loss becomes the\\r\n"
 msgstr "Verá, en una operación de forex regular, el inversor asume\\r\n"
 "el riesgo de cualquier pérdida que pueda sufrir."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=14
-#. y4:msg_location=T2.P14
-#. y4:msg_speaker=Saki
-#. y4:msg_speaker_id=0
 msgctxt "628_Saki"
 msgid "But we're different! We have absolute faith in our forex investing system, so if one of our trades should fail, you can rest assured we'll cover it!"
 msgstr "¡Pero nosotros somos diferentes! Confiamos plenamente en nuestro sistema de inversión, por lo que si alguna operación sale mal, le aseguro que le cubriremos."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=15
-#. y4:msg_location=T2.P15
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "640_Akiyama"
 msgid "So the investor gets nothing but profits?"
 msgstr "¿Entonces el inversor siempre obtiene ganancias?"
@@ -459,15 +317,6 @@ msgid "We'll add that two hundred thousand to your investment,\\r\n"
 msgstr "Añadiremos esos doscientos mil yenes a su inversión,\\r\n"
 "así que puede esperar incluso más ganancias."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=22
-#. y4:msg_location=T2.P22
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "724_Akiyama"
 msgid "A million yen? Right here, right now?"
 msgstr "¿Un millón? ¿Ahora mismo? ¿En serio?"
@@ -486,19 +335,13 @@ msgstr "Por eso mismo, tenemos préstamos con una tasa de interés\\r\n"
 "bajísima, para que se inicie en el mundo del forex sin tener\\r\n"
 "que sacrificar dinero de sus ahorros."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=25
-#. y4:msg_location=T2.P25
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "760_Akiyama"
 msgid "Ah, I see. Forex and loans both. Who knew?"
 msgstr "Ya veo. Forex y préstamos, curiosa combinación."
 
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=0
 msgctxt "772_Saki"
 msgid "That concludes my presentation on our company's forex\\r\n"
 "products. Do you have any questions?"
@@ -561,17 +404,9 @@ msgid "Ah, so you spread the profits thin and wide. That's one way\\r\n"
 msgstr "Ah, entonces obtienen ganancias gracias a la cantidad de\\r\n"
 "personas, y benefician a otros con ello. Qué curioso..."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=2
-#. y4:msg_phrase=35
-#. y4:msg_location=T2.P35
-#. y4:msg_speaker=Saki
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Can I get my investment back, no matter what? -> T2.P36 | 2. Is profit absolutely guaranteed? -> T2.P43 | 3. All right, let's do this! -> T2.P77
 msgctxt "880_Saki"
 msgid "Did, uh, you have any other questions?"
 msgstr "E-eh, ¿T-tiene alguna otra pregunta?"
@@ -604,32 +439,10 @@ msgstr "¿Conoce la protección fiduciaria?\\r\n"
 "¿No separan el dinero de los inversores del dinero de la empresa,\\r\n"
 "y lo depositan de forma segura en un banco de confianza?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=40
-#. y4:msg_location=T2.P40
-#. y4:msg_speaker=Saki
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Does your company profit from this?
 msgctxt "940_Saki"
 msgid "Yes, of course... at, uh, Touto Bank..."
 msgstr "S-sí, claro... en el, eh... Banco Touto..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=41
-#. y4:msg_location=T2.P41
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Does your company profit from this?
 msgctxt "952_Akiyama"
 msgid "Touto Bank!? Are you sure you don't mean Touto Trust?"
 msgstr "¡¿Banco Touto?! ¿No querrá decir Fiduciario Touto?"
@@ -640,17 +453,6 @@ msgid "Oh, yes－that's the one! My mistake! Your investment is\\r\n"
 msgstr "¡Uy, sí! ¡Ese era! ¡Perdón por la confusión! ¡Tu inversión se\\r\n"
 "depositará en el Fiduciario Touto, donde estará a buen recaudo!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=43
-#. y4:msg_location=T2.P43
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Does your company profit from this?
 msgctxt "976_Akiyama"
 msgid "So is profit absolutely guaranteed?"
 msgstr "¿Me está diciendo que ganaré dinero sí o sí?"
@@ -667,21 +469,13 @@ msgid "In theory, as long as you have a contract with us, you'll\\r\n"
 msgstr "¡En teoría, mientras tenga un contrato con nosotros,\\r\n"
 "tendrá ganancias aseguradas el cien por ciento de la veces!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=46
-#. y4:msg_location=T2.P46
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Does your company profit from this?
 msgctxt "1012_Akiyama"
 msgid "100 percent, huh...?"
 msgstr "¿Cien por ciento, eh...?"
 
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=2
 msgctxt "1024_Saki"
 msgid "So what do you think? Have I convinced you of our program's\\r\n"
 "many benefits yet?"
@@ -710,32 +504,10 @@ msgid "I doubt you've ever traded forex in your life. If you're\\r\n"
 msgstr "Si vas a estafar a la gente, al menos aprende a hacerlo\\r\n"
 "bien. No tienes ni idea de cómo funciona el FX."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=51
-#. y4:msg_location=T2.P51
-#. y4:msg_speaker=Saki
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Does your company profit from this?
 msgctxt "1072_Saki"
 msgid "Huh? Hey..."
 msgstr "¿Eh? Pero..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=56
-#. y4:msg_location=T2.P56
-#. y4:msg_speaker=Saki
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Does your company profit from this?
 msgctxt "1132_Saki"
 msgid "Hold it right there, pal!"
 msgstr "¡Detente ahí mismo!"
@@ -745,32 +517,10 @@ msgid "I can't say I'm entirely convinced. I'm going to have to\\r\n"
 "pass..."
 msgstr "No estoy del todo convencido. Creo que voy a pasar..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=51
-#. y4:msg_location=T2.P51
-#. y4:msg_speaker=Saki
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Does your company profit from this?
 msgctxt "1192_Saki"
 msgid "Huh? Hey..."
 msgstr "¿Eh? Pero..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=67
-#. y4:msg_location=T2.P67
-#. y4:msg_speaker=Saki
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Does your company profit from this?
 msgctxt "1264_Saki"
 msgid "Wait just a moment, please, sir..."
 msgstr "Espere un momento, por favor..."
@@ -781,17 +531,6 @@ msgid "Our entire staff will use any means necessary to convince\\r\n"
 msgstr "¡Usaremos todos los medios a nuestro alcance para\\r\n"
 "que firme el contrato... incluyendo nuestros puños!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=77
-#. y4:msg_location=T2.P77
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Sign me up!
 msgctxt "1384_Akiyama"
 msgid "Who knows? This might be my chance. Where do I sign?"
 msgstr "Esto parece haber sido obra del destino. ¿Dónde firmo?"
@@ -802,168 +541,94 @@ msgid "Thank you very much! Now, you're interested in the one\\r\n"
 msgstr "¡Muchísimas gracias! ¿Le parecer bien empezar con el\\r\n"
 "préstamo de un millón de yenes?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=79
-#. y4:msg_location=T2.P79
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=Sign me up!
 msgctxt "1408_Saki"
 msgid "Allow me to prepare the necessary paperwork..."
 msgstr "Deme un segundo, voy a preparar los papeles..."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P32
-#. y4:msg_branch_segment=T2.P32..P76
-#. y4:msg_branch_target_text=It sounds like I'd make out like a fat rat, but does your\ncompany profit from this?
-#. y4:msg_branch_raw=01 11 00 20 00 00 00 23 00 00 00 00 00 00 00 00
 msgctxt "1432_Saki"
 msgid "Does your company profit from this?"
 msgstr "¿Su empresa obtiene beneficios de esto?"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P27
-#. y4:msg_branch_segment=T2.P27..P31
-#. y4:msg_branch_target_text=Let me see if I've got this straight. You've got a surefire\nprofit-making system, plus plenty of money available for\nlending.
-#. y4:msg_branch_raw=01 11 00 1b 00 00 00 1e 00 00 00 00 00 00 00 00
 msgctxt "1444_Saki"
 msgid "Why should I put up any money?"
 msgstr "¿Por qué necesitan que invierta dinero?"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P77
-#. y4:msg_branch_segment=T2.P77..P80
-#. y4:msg_branch_target_text=Who knows? This might be my chance. Where do I sign?
-#. y4:msg_branch_raw=01 11 00 4d 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "1456_Saki"
 msgid "Sign me up!"
 msgstr "¡Cuente conmigo!"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P36
-#. y4:msg_branch_segment=T2.P36..P42
-#. y4:msg_branch_target_text=If something should happen, will I get back the money I\noriginally invested?
-#. y4:msg_branch_raw=01 11 00 24 00 00 00 2d 00 00 00 00 00 00 00 00
 msgctxt "1468_Saki"
 msgid "Can I get my investment back, no matter what?"
 msgstr "¿Puedo recuperar mi inversión, pase lo que pase?"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P43
-#. y4:msg_branch_segment=T2.P43..P76
-#. y4:msg_branch_target_text=So is profit absolutely guaranteed?
-#. y4:msg_branch_raw=01 11 00 2b 00 00 00 20 00 00 00 00 00 00 00 00
 msgctxt "1480_Saki"
 msgid "Is profit absolutely guaranteed?"
 msgstr "¿Siempre obtendré ganancias?"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P77
-#. y4:msg_branch_segment=T2.P77..P80
-#. y4:msg_branch_target_text=Who knows? This might be my chance. Where do I sign?
-#. y4:msg_branch_raw=01 11 00 4d 00 00 00 19 00 00 00 00 00 00 00 00
 msgctxt "1492_Saki"
 msgid "All right, let's do this!"
 msgstr "¡De acuerdo, hagámoslo!"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0113
-#. y4:msg_branch_target=T2.P48
-#. y4:msg_branch_segment=T2.P48..P59
-#. y4:msg_branch_target_text=It's nothing but a scam. You lure people in with your\nabsurd, pie-in-the-sky BS, sign them on for a loan, and\nsend them on their way.
-#. y4:msg_branch_raw=01 13 00 30 01 00 00 18 00 03 00 00 00 00 00 00
 msgctxt "1504_Saki"
 msgid "It's nothing but a scam."
 msgstr "Esto es una burda estafa."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P60
-#. y4:msg_branch_segment=T2.P60..P76
-#. y4:msg_branch_target_text=I can't say I'm entirely convinced. I'm going to have to\npass...
-#. y4:msg_branch_raw=01 11 00 3c 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "1516_Saki"
 msgid "I think I'll pass."
 msgstr "No, gracias. No me convence."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P77
-#. y4:msg_branch_segment=T2.P77..P80
-#. y4:msg_branch_target_text=Who knows? This might be my chance. Where do I sign?
-#. y4:msg_branch_raw=01 11 00 4d 00 00 00 19 00 00 00 00 00 00 00 00
 msgctxt "1528_Saki"
 msgid "You bet! Where do I sign?"
 msgstr "¡Cuenta conmigo! ¿Dónde hay que firmar?"

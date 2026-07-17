@@ -24,814 +24,316 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
 #. y4:runtime_play_command=y4.play_msg 016C003B <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
 msgctxt "504"
 msgid "Controls"
 msgstr "Controles"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "16124"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "16128"
 msgid "F_cab_sitsofa_hot_muneA"
 msgstr "F_cab_sitsofa_hot_muneA"
 
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "16132"
 msgid "峰村七海：源氏名"
 msgstr "峰村七海：源氏名"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "16136"
 msgid "F_cab_sitsofa_talk_smileA"
 msgstr "F_cab_sitsofa_talk_smileA"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "16140"
 msgid "F_cab_sitsofa_tlk_happy"
 msgstr "F_cab_sitsofa_tlk_happy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "16144"
 msgid "F_cab_sitsofa_tlk_angry"
 msgstr "F_cab_sitsofa_tlk_angry"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
 msgctxt "516_Tanimura"
 msgid "Use <Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control where you look. This is your chance to feast your eyes on her beauty."
 msgstr "Usa <Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> para mover tu mirada. Esta es tu oportunidad para deleitar tus ojos con su belleza."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
 msgctxt "528_Tanimura"
 msgid "Press <Action:Button_Cross@Cabaret> when you want to focus intently on one of her features. Holding down <Action:Button_Cross@Cabaret> allows you to focus your gaze."
 msgstr "Presiona <Action:Button_Cross@Cabaret> en el lugar donde deseas dirigir tu \"poderosa\" mirada. Si mantienes presionado <Action:Button_Cross@Cabaret>, la mirada se enfocará más y será aún más intensa."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
 msgctxt "540_Tanimura"
 msgid "Note that her response will change depending on where you look."
 msgstr "Ten en cuenta que su reacción cambiará dependiendo a donde mires."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "564_Tanimura"
 msgid "(She's been staring at me this whole time. I guess this means she's got the hots for me?)"
 msgstr "(Ella ha estado mirándome todo este tiempo. Tal vez eso significa que está loca por mí.)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "576_Tanimura"
 msgid "(Her lips are beautiful. What about her teeth?)"
 msgstr "(Sus labios son hermosos. ¿Qué tal sus dientes?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "588_Tanimura"
 msgid "(Do I check her hands?)"
 msgstr "(¿Le miro las manos?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "600_Tanimura"
 msgid "(Pretty sure I take the legs into account.)"
 msgstr "(Definitivamente, debo tener en cuenta sus piernas.)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "612_Tanimura"
 msgid "(Hair...?)"
 msgstr "(¿Su cabello...?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "624_Tanimura"
 msgid "(The chest, I suppose?)"
 msgstr "(¿Tal vez, sus pechos?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "636_Tanimura"
 msgid "(Hmm... I kind of like the whole package.)"
 msgstr "(Mmm... Me gusta el paquete completo.)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "648_Tanimura"
 msgid "I look at her eyes first. If she smiles when our eyes meet, I start to think she might like me."
 msgstr "La voy a mirar primero a los ojos. Si ella sonríe cuando nuestras miradas se crucen, comenzaré a pensar que tal vez le gusto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=1
-#. y4:msg_location=T8.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "660_峰村七海：源氏名"
 msgid "That's definitely not the case when it comes to hostesses."
 msgstr "Aunque, ese no es el caso cuando se trata de una hostess."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=2
-#. y4:msg_location=T8.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "672_Tanimura"
 msgid "Hey..."
 msgstr "Oye..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=8
-#. y4:msg_phrase=3
-#. y4:msg_location=T8.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "684_峰村七海：源氏名"
 msgid "But looking someone in the eyes when you first meet them is important."
 msgstr "Pero mirar a alguien a los ojos cuando las ves por primera vez es importante."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "696_Tanimura"
 msgid "I look at her mouth. I like girls with good teeth. They should be white and even."
 msgstr "Voy a mirar su boca. Me gustan las chicas con buenos dientes. Deben ser blancos y derechos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=1
-#. y4:msg_location=T9.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "708_峰村七海：源氏名"
 msgid "I see. Men like you are the reason girls with bad teeth get them fixed."
 msgstr "Oh, ya veo. Los hombres como usted son la razón por la que las chicas con mala dentadura se terminan arreglando los dientes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=2
-#. y4:msg_location=T9.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "720_Tanimura"
 msgid "You can also tell if a girl smokes if her teeth are yellow."
 msgstr "También se puede saber si una chica fuma por el color amarillento de sus dientes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=3
-#. y4:msg_location=T9.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "732_峰村七海：源氏名"
 msgid "That's a detective for you. You check even the smallest details. Impressive."
 msgstr "Oh, como es de esperarse de un detective. No se le escapa ni el más mínimo detalle. Me impresiona."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "744_Tanimura"
 msgid "I check her hands."
 msgstr "Miro sus manos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=1
-#. y4:msg_location=T10.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "756_峰村七海：源氏名"
 msgid "Her hands? Why?"
 msgstr "¿Sus manos? ¿Por qué?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=10
-#. y4:msg_phrase=2
-#. y4:msg_location=T10.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "768_Tanimura"
 msgid "You can tell a lot about a girl from her hands. If they're muscular, she probably plays sports. If they're chapped, she probably does dishes."
 msgstr "Puedes saber mucho sobre una chica con sus manos. Si son fuertes, es probable que haga deportes. Si están agrietados, es probable que lave platos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=9
-#. y4:msg_phrase=3
-#. y4:msg_location=T9.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "780_峰村七海：源氏名"
 msgid "That's a detective for you. You check even the smallest details. Impressive."
 msgstr "Oh, como es de esperarse de un detective. No se le escapa ni el más mínimo detalle. Me impresiona."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "792_Tanimura"
 msgid "I'm not attracted to girls with thick legs."
 msgstr "No me atraen las chicas con piernas gordas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=1
-#. y4:msg_location=T11.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "804_峰村七海：源氏名"
 msgid "I understand. Girls like that probably wear long dresses to try and hide them."
 msgstr "Entiendo. Es probable que las chicas que los tienen, lleven vestidos largos para ocultar sus piernas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=2
-#. y4:msg_location=T11.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "816_Tanimura"
 msgid "And if they don't shave their legs, it's even worse."
 msgstr "Además, si no se depilan las piernas es incluso peor."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=11
-#. y4:msg_phrase=3
-#. y4:msg_location=T11.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "828_峰村七海：源氏名"
 msgid "Hahaha. I don't think you'll come across that problem at a hostess club."
 msgstr "Ja, ja, ja. No creo que se encuentre con ese problema en un club de hostess."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "840_Tanimura"
 msgid "I look at her hair. Some hairstyles can be really attractive."
 msgstr "Miro su cabello. Algunos peinados pueden llegar a ser muy atractivos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=1
-#. y4:msg_location=T12.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "852_峰村七海：源氏名"
 msgid "Oh, I see. There are certainly lots of styles. From a simple ponytail to an elegant straight look."
 msgstr "Ah, ya veo. Tiene razón, hay muchos estilos. Desde una simple cola de caballo y trenzas a un cabello largo y lizo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=2
-#. y4:msg_location=T12.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "864_Tanimura"
 msgid "Do you choose your hairstyle to suit your customers' tastes over your own?"
 msgstr "¿Eliges el estilo de tu peinado para satisfacer a tus clientes?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=3
-#. y4:msg_location=T12.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "876_峰村七海：源氏名"
 msgid "Yes, but not always. After all, it's a girl's personality and talent for conversation that gets men to request her, not just her looks."
 msgstr "Sí, pero no siempre. Al fin y al cabo, es la personalidad y el talento de la hostess lo que hace que ellos la soliciten, no solo su aspecto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=12
-#. y4:msg_phrase=4
-#. y4:msg_location=T12.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "888_Tanimura"
 msgid "I see. It's pretty complicated, huh?"
 msgstr "Ya veo. Es bastante complicado, ¿eh?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=0
-#. y4:msg_location=T13.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "900_Tanimura"
 msgid "I pay attention to a woman's chest. That's most important to me when I'm looking up a girl at the information booth."
 msgstr "Le presto especial atención a los pechos de una mujer. Eso es lo más importante que busco en una chica cuando voy al puesto de información."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=1
-#. y4:msg_location=T13.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "912_峰村七海：源氏名"
 msgid "I see... I think maybe you have the wrong idea about what goes on at hostess clubs."
 msgstr "Ah, entiendo... Creo que quizá se hizo una idea equivocada de cómo funciona un club de hostess."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=2
-#. y4:msg_location=T13.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "924_Tanimura"
 msgid "I just like looking at them. It's not like I'd try to go further than that."
 msgstr "Solo me gusta ver. No es como si quisiera intentar llegar más lejos que eso."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=3
-#. y4:msg_location=T13.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "936_峰村七海：源氏名"
 msgid "Well of course you won't! But that's not the point. Don't you think it's rude to stare at a girl's chest? I just hate that."
 msgstr "¡Y por supuesto que tampoco lo hará! Pero ese no es el punto. ¿No le parece grosero mirarle los pechos a una mujer? Yo odio eso."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=13
-#. y4:msg_phrase=4
-#. y4:msg_location=T13.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "948_Tanimura"
 msgid "Hey, you're the one who brought it up."
 msgstr "Oye, fuiste tu quien sacó el tema."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=0
-#. y4:msg_location=T14.P0
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "960_峰村七海：源氏名"
 msgid "What are you looking at?"
 msgstr "¿Qué está mirando?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=1
-#. y4:msg_location=T14.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "972_峰村七海：源氏名"
 msgid "Glancing away suddenly like that was pretty suspicious."
 msgstr "Desviar la mirada hacia otro lado lo hace aún más sospechoso."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=2
-#. y4:msg_location=T14.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "984_Tanimura"
 msgid "What're you talking about? I'm not the kind of guy who just stares at a girl's body."
 msgstr "¿De qué estás hablando? No soy el tipo de hombre que se queda mirando el cuerpo de una chica."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=3
-#. y4:msg_location=T14.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "996_峰村七海：源氏名"
 msgid "Really? You certainly weren't saying much..."
 msgstr "Ah, ¿de verdad? No lo parece..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=4
-#. y4:msg_location=T14.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1008_Tanimura"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=15
-#. y4:msg_phrase=0
-#. y4:msg_location=T15.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1020_Tanimura"
 msgid "(I wonder if she has good eyesight...)"
 msgstr "(Me pregunto si tiene buena vista...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=16
-#. y4:msg_phrase=0
-#. y4:msg_location=T16.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1032_Tanimura"
 msgid "(Can she speak any foreign languages?)"
 msgstr "(¿Podrá ella hablar otros idiomas?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=17
-#. y4:msg_phrase=0
-#. y4:msg_location=T17.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1044_Tanimura"
 msgid "(She has slender fingers. Maybe she'd be good at playing a musical instrument...)"
 msgstr "(Ella tiene dedos delgados. Tal vez sería buena tocando algún instrumento musical...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=18
-#. y4:msg_phrase=0
-#. y4:msg_location=T18.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1056_Tanimura"
 msgid "(Jogging is probably the healthiest choice...)"
 msgstr "(Trotar puede que sea la opción más saludable...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=19
-#. y4:msg_phrase=0
-#. y4:msg_location=T19.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1068_Tanimura"
 msgid "(I've always thought that she can be pretty stubborn...)"
 msgstr "(Siempre he pensado que ella puede llegar a ser muy testaruda...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=20
-#. y4:msg_phrase=0
-#. y4:msg_location=T20.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1080_Tanimura"
 msgid "(They're pretty big, but...)"
 msgstr "(Son muy grandes, pero...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=21
-#. y4:msg_phrase=0
-#. y4:msg_location=T21.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1092_Tanimura"
 msgid "(What should she try and improve?)"
 msgstr "(¿Qué es lo que ella debería mejorar?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=0
-#. y4:msg_location=T22.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1104_Tanimura"
 msgid "Do you have good eyesight?"
 msgstr "¿Tienes buena vista?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=1
-#. y4:msg_location=T22.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1116_峰村七海：源氏名"
 msgid "Actually, I usually wear glasses, but I change to contacts when I work at the club."
 msgstr "De hecho, suelo llevar gafas, pero cuando vengo al club me pongo lentes de contacto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=2
-#. y4:msg_location=T22.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1128_Tanimura"
 msgid "Ah. There are some training exercises you could try that may help your vision. Or there's also the option of laser eye surgery."
 msgstr "Oh. Bueno, hay algunos ejercicios que podrías probar que pueden ayudarte con eso. También existe la opción de una cirugía con láser."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=3
-#. y4:msg_location=T22.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1140_峰村七海：源氏名"
 msgid "I'm kinda scared of that... I'll just try and eat well and get plenty of rest, hopefully my eyesight won't get any worse."
 msgstr "Eso me da un poco de miedo... Solo intentaré comer bien y descansar lo suficiente, con eso espero que mi vista no empeore tanto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=22
-#. y4:msg_phrase=4
-#. y4:msg_location=T22.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1152_Tanimura"
 msgid "I see..."
 msgstr "Entiendo..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=0
-#. y4:msg_location=T23.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1164_Tanimura"
 msgid "Can you speak any foreign languages? If you're going to manage your own company, it could be useful to know another language."
 msgstr "¿Puedes hablar otros idiomas? Si vas a administrar tu propia empresa, podría ser útil saber otros idiomas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=1
-#. y4:msg_location=T23.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1176_峰村七海：源氏名"
 msgid "I'm pretty good at English, actually. I sometimes go abroad for my work."
 msgstr "Claro, de hecho se me da muy bien el inglés. A veces viajo al extranjero por trabajo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=2
-#. y4:msg_location=T23.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1188_Tanimura"
 msgid "What about Chinese? China is increasing in importance in a lot of different areas. You can't go wrong learning Chinese."
 msgstr "¿Y qué tal el chino? China está aumentando su importancia a nivel laboral. No viene mal aprender chino."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=3
-#. y4:msg_location=T23.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1200_Tanimura"
 msgid "I could even teach you."
 msgstr "Incluso podría hasta enseñarte."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=23
-#. y4:msg_phrase=4
-#. y4:msg_location=T23.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1212_峰村七海：源氏名"
 msgid "Really!? Seems maybe I misjudged you. You obviously gave this a lot of thought."
 msgstr "Oh, ¡¿de verdad?! Parece que lo he juzgado mal. Se ve que realmente pensó mucho al respecto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=0
-#. y4:msg_location=T24.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1224_Tanimura"
 msgid "You look like you're good with your hands. How about learning a musical instrument?"
 msgstr "Parece que eres buena con las manos. ¿Qué tal si aprendes a tocar un instrumento?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=1
-#. y4:msg_location=T24.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1236_峰村七海：源氏名"
 msgid "An instrument? I hadn't considered that."
 msgstr "¿Un instrumento? Mm, nunca lo había pensado."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=2
-#. y4:msg_location=T24.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1248_Tanimura"
 msgid "I think you'd look good with a violin."
 msgstr "Creo que te verías genial con un violín."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=24
-#. y4:msg_phrase=3
-#. y4:msg_location=T24.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1260_峰村七海：源氏名"
 msgid "A violin, huh? That sounds interesting. I'll look into it."
 msgstr "¿Un violín, eh? Parece interesante. Lo investigaré."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=0
-#. y4:msg_location=T25.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1272_Tanimura"
 msgid "What about taking up jogging? It doesn't cost any money and it's good for your health."
 msgstr "¿Qué tal salir a trotar? No cuesta dinero y es bueno para la salud."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=1
-#. y4:msg_location=T25.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1284_峰村七海：源氏名"
 msgid "Jogging might not be a bad idea, but I'm not really concerned about my figure."
 msgstr "Trotar puede que no sea mala idea, pero no me preocupa tanto mi figura."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=2
-#. y4:msg_location=T25.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1296_Tanimura"
 msgid "Well, you spend most of the day sitting down, right? Plus you drink alcohol every day. It's just a matter of time before you start gaining weight."
 msgstr "Bueno, te la pasas casi todo el día sentada, ¿cierto? Además, también sueles beber mucho alcohol. Es cuestión de tiempo que empieces a ganar peso."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=25
-#. y4:msg_phrase=3
-#. y4:msg_location=T25.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1308_峰村七海：源氏名"
 msgid "I suppose you're right... Okay then. I'll start running and see how it goes."
 msgstr "Supongo que tiene razón... Está bien, empezaré a salir a trotar y ver como me va."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=0
-#. y4:msg_location=T26.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1320_Tanimura"
 msgid "If you really want to start your own company, I think you need to be a bit more flexible. Maybe you could take a seminar or something."
 msgstr "Si de verdad quieres fundar tu propia empresa, creo que tienes que ser más flexible. Quizá podrías tomar un seminario."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=1
-#. y4:msg_location=T26.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1332_峰村七海：源氏名"
 msgid "A seminar? What kind?"
 msgstr "¿Un seminario? ¿De qué tipo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=2
-#. y4:msg_location=T26.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1344_Tanimura"
 msgid "Maybe something for folks starting their own businesses, or about the best way to treat your employees. There's a lot you could learn."
 msgstr "Uno donde se reúna gente a discutir la mejor forma de empezar tu propio negocio, o la mejor manera de tratar a los empleados. Hay mucho que podrías aprender."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=26
-#. y4:msg_phrase=3
-#. y4:msg_location=T26.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1356_Tanimura"
 msgid "If you want to make it, you'll need every advantage you can get."
 msgstr "Si quieres cumplir tu sueño necesitarás de toda la ayuda que puedas conseguir."
@@ -840,24 +342,10 @@ msgctxt "1368_峰村七海：源氏名"
 msgid "Hm, yeah. Thanks for giving so much thought to my future. <Color:7>♥<Color:Default>"
 msgstr "Oh, bueno. Le agradezco por preocuparse tanto por mi futuro. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=0
-#. y4:msg_location=T27.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1380_Tanimura"
 msgid "You could go to a beauty spa to work on your chest. You know, make yourself look a little more feminine?"
 msgstr "Podrías ir a un salón de belleza para que le den un retoque a tu pecho. Ya me entiendes, para que luzcas más... ¿Femenina?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=1
-#. y4:msg_location=T27.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1392_峰村七海：源氏名"
 msgid "That's not really what I meant... I was hoping for a different kind of self-improvement. Something that gives you a sense of achievement."
 msgstr "No me refería a ese tipo de mejora... Me refería a algo diferente. Algo que dé una sensación de superación."
@@ -867,68 +355,26 @@ msgid "Well, you could try some bust enhancing exercises.\\r\n"
 "I might be able to think of one, hm..."
 msgstr "Mmm, bueno. Podrías intentar ejercicios para agrandar tus pechos. Quizá yo podría recomendarte alguno, mmm..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=27
-#. y4:msg_phrase=3
-#. y4:msg_location=T27.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1416_峰村七海：源氏名"
 msgid "Is my chest all you can think about!?"
 msgstr "¡¿En lo único que puede pensar es en mi cuerpo?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=0
-#. y4:msg_location=T28.P0
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1428_峰村七海：源氏名"
 msgid "Hey, what are you looking at?"
 msgstr "Oiga, ¿qué está mirando?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=1
-#. y4:msg_location=T28.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1440_峰村七海：源氏名"
 msgid "I really wanted your help, but I guess I'm just boring you."
 msgstr "De verdad esperaba que me ayudara, pero supongo que solo le estoy aburriendo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=2
-#. y4:msg_location=T28.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1452_Tanimura"
 msgid "No, that's not true. Um, what were we talking about again?"
 msgstr "No, no. Para nada. ¿De qué estábamos hablando?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=28
-#. y4:msg_phrase=3
-#. y4:msg_location=T28.P3
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "1464_峰村七海：源氏名"
 msgid "Never mind! I don't need your help!"
 msgstr "¡Nada, no importa! ¡No necesitó su ayuda!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=14
-#. y4:msg_phrase=4
-#. y4:msg_location=T14.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "1476_Tanimura"
 msgid "......"
 msgstr "......"

@@ -24,48 +24,38 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KARAOKE.bin
 #. y4:runtime_play_command=y4.play_msg 01630085 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "6336"
 msgid "Karaoke Rules"
 msgstr "Reglas del Karaoke"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "6340"
 msgid "Employee"
 msgstr "Empleado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "6344"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "6348"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "6352"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Karaoke Rules
-#. y4:msg_speaker_id=0
 msgctxt "284_Karaoke Rules"
 msgid "Karaoke is a rhythm game in which you press buttons shown on-screen in time with a song. Simply press the indicated button when the cursor reaches it. Make sure to press the correct buttons at the right time to get the most points."
 msgstr "El karaoke es un juego de ritmo en el que presionas los botones que aparecen en pantalla al ritmo de una canción. Simplemente presiona el botón indicado cuando el cursor lo alcance. Asegúrate de presionar los botones correctos en el momento adecuado para obtener la mayor cantidad de puntos."
@@ -99,48 +89,18 @@ msgid "<Color:14>You can choose to switch between English and Japanese lyrics\\r
 msgstr "<Color:14>Puedes cambiar entre letras en inglés y japonés\\r\n"
 "en el Menú de Opciones.<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
 msgctxt "344_Employee"
 msgid "I'm afraid your time is up. Please bring your microphones and payment slip to the reception desk when you leave."
 msgstr "Me temo que su tiempo ha terminado. Por favor, devuelva los micrófonos y entregue el comprobante de pago en la recepción al salir."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
 msgctxt "356_Employee"
 msgid "I'm afraid your time is up. Please bring your microphones and payment slip to the reception desk when you leave."
 msgstr "Me temo que su tiempo ha terminado. Por favor, devuelva los micrófonos y entregue el comprobante de pago en la recepción al salir."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
 msgctxt "368_Employee"
 msgid "I'm afraid your time is up. Please bring your microphones and payment slip to the reception desk when you leave."
 msgstr "Me temo que su tiempo ha terminado. Por favor, devuelva los micrófonos y entregue el comprobante de pago en la recepción al salir."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
 msgctxt "380_Employee"
 msgid "I'm afraid your time is up. Would you like to extend your time for only 500 yen?"
 msgstr "Me temo que su tiempo ha terminado. ¿Desea extender su sesión por sólo 500 yenes?"
@@ -151,60 +111,18 @@ msgid "(Not if I don't have the dough...)\\r\n"
 msgstr "(No como si tuviera el dinero...)\\r\n"
 "　No, gracias."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=3
-#. y4:msg_location=T4.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Why not?
 msgctxt "416_Player"
 msgid "Yeah, sounds good."
 msgstr "Sí, suena bien."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=4
-#. y4:msg_location=T4.P4
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Why not?
 msgctxt "428_Karaoke Rules"
 msgid "An extension? Yes, sir. Thank you very much. Enjoy your time."
 msgstr "¿Una extensión? Sí, señor. Muchas gracias. Disfrute su tiempo."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=5
-#. y4:msg_location=T4.P5
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=No thanks.
 msgctxt "440_Employee"
 msgid "Understood. Please bring your microphones and payment slip to the reception desk when you leave."
 msgstr "Entendido. Por favor, entregue los micrófonos y el comprobante de pago en recepción al salir."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
 msgctxt "452_Employee"
 msgid "I'm afraid your time is up. Would you like to extend your time for only 500 yen?"
 msgstr "Me temo que su tiempo ha terminado. ¿Desea extender su sesión por sólo 500 yenes?"
@@ -215,60 +133,18 @@ msgid "(Not if I don't have the dough...)\\r\n"
 msgstr "(No como si tuviera el dinero...)\\r\n"
 "　No, gracias."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=3
-#. y4:msg_location=T4.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Why not?
 msgctxt "488_Akiyama"
 msgid "Yeah, sounds good."
 msgstr "Sí, suena bien."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=4
-#. y4:msg_location=T4.P4
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Why not?
 msgctxt "500_Karaoke Rules"
 msgid "An extension? Yes, sir. Thank you very much. Enjoy your time."
 msgstr "¿Una extensión? Sí, señor. Muchas gracias. Disfrute su tiempo."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=5
-#. y4:msg_location=T4.P5
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=No thanks.
 msgctxt "512_Employee"
 msgid "Understood. Please bring your microphones and payment slip to the reception desk when you leave."
 msgstr "Entendido. Por favor, entregue los micrófonos y el comprobante de pago en recepción al salir."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
 msgctxt "524_Employee"
 msgid "I'm afraid your time is up. Would you like to extend your time for only 500 yen?"
 msgstr "Me temo que su tiempo ha terminado. ¿Desea extender su sesión por sólo 500 yenes?"
@@ -279,149 +155,74 @@ msgid "(Not if I don't have the dough...)\\r\n"
 msgstr "(No como si tuviera el dinero...)\\r\n"
 "　No, gracias."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=3
-#. y4:msg_location=T4.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Why not?
 msgctxt "560_Tanimura"
 msgid "Yeah, sounds good."
 msgstr "Sí, suena bien."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=4
-#. y4:msg_location=T4.P4
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Why not?
 msgctxt "572_Karaoke Rules"
 msgid "An extension? Yes, sir. Thank you very much. Enjoy your time."
 msgstr "¿Una extensión? Sí, señor. Muchas gracias. Disfrute su tiempo."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=5
-#. y4:msg_location=T4.P5
-#. y4:msg_speaker=Employee
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=No thanks.
 msgctxt "584_Employee"
 msgid "Understood. Please bring your microphones and payment slip to the reception desk when you leave."
 msgstr "Entendido. Por favor, entregue los micrófonos y el comprobante de pago en recepción al salir."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T4.P3
-#. y4:msg_branch_segment=T4.P3..P4
-#. y4:msg_branch_target_text=Yeah, sounds good.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "596_Karaoke Rules"
 msgid "Why not?"
 msgstr "¿Por qué no?"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T4.P5
-#. y4:msg_branch_segment=T4.P5..P5
-#. y4:msg_branch_target_text=Understood. Please bring your microphones and payment slip to the reception desk when you leave.
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "608_Karaoke Rules"
 msgid "No thanks."
 msgstr "No, gracias."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P3
-#. y4:msg_branch_segment=T4.P3..P4
-#. y4:msg_branch_target_text=Yeah, sounds good.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 08 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T5.P3
 msgctxt "620_Karaoke Rules"
 msgid "Why not?"
 msgstr "¿Por qué no?"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P5
-#. y4:msg_branch_segment=T4.P5..P5
-#. y4:msg_branch_target_text=Understood. Please bring your microphones and payment slip to the reception desk when you leave.
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 0a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T5.P5
 msgctxt "632_Karaoke Rules"
 msgid "No thanks."
 msgstr "No, gracias."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P3
-#. y4:msg_branch_segment=T4.P3..P4
-#. y4:msg_branch_target_text=Yeah, sounds good.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 08 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T6.P3
 msgctxt "644_Karaoke Rules"
 msgid "Why not?"
 msgstr "¿Por qué no?"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P5
-#. y4:msg_branch_segment=T4.P5..P5
-#. y4:msg_branch_target_text=Understood. Please bring your microphones and payment slip to the reception desk when you leave.
-#. y4:msg_branch_raw=01 11 00 05 00 00 00 0a 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T6.P5
 msgctxt "656_Karaoke Rules"
 msgid "No thanks."
 msgstr "No, gracias."

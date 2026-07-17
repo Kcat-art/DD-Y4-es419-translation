@@ -24,62 +24,40 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_ROOF02.bin
 #. y4:runtime_play_command=y4.play_msg 00E604D6 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "6092"
 msgid "Katsuura"
 msgstr "Katsuura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "6096"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "6100"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "6104"
 msgid "M_nml_sitgrd_tlk_utsubuse_lp"
 msgstr "M_nml_sitgrd_tlk_utsubuse_lp"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "6108"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "6112"
 msgid "Talk_Hirou_st"
 msgstr "Talk_Hirou_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "6116"
 msgid "SetM_nml_sitgrd_down_02"
 msgstr "SetM_nml_sitgrd_down_02"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Katsuura
-#. y4:msg_speaker_id=0
 msgctxt "80_Katsuura"
 msgid "Get back... I'm warning you!"
 msgstr "¡Atrás...! ¡Te lo advierto!"
@@ -96,35 +74,14 @@ msgid "Kaga, that bastard... Made it seem like he was under my\\r\n"
 msgstr "Kaga, ese bastardo... Fingía trabajar para mí, pero en realidad\\r\n"
 "me estaba investigando a mis espaldas..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "224_Tanimura"
 msgid "What?"
 msgstr "¿Qué?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Katsuura
-#. y4:msg_speaker_id=0
 msgctxt "236_Katsuura"
 msgid "In my world, there's no worse threat than someone who can't be bought."
 msgstr "No hay nada que me asuste más que alguien que no se deja comprar."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "248_Tanimura"
 msgid "And you killed him just for that?"
 msgstr "¿Y por eso lo mataste?"
@@ -136,24 +93,10 @@ msgid "He got killed because he was stupid. Instead of saving his\\r\n"
 msgstr "Murió por estúpido. En vez de salvarse el pellejo, se entregó\\r\n"
 "a mí, todo por proteger a esa mujer y a su hijo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "272_Tanimura"
 msgid "Kaga had a child?"
 msgstr "¿Kaga tenía un hijo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Katsuura
-#. y4:msg_speaker_id=0
 msgctxt "284_Katsuura"
 msgid "Yeah... with that Thai woman he fell in love with."
 msgstr "Sí... con esa tailandesa de la que se enamoró."
@@ -172,46 +115,18 @@ msgstr "Pero la muy puta huyó a Tailandia después de parir aquí.\\r\n"
 "Así que planeé usar a su hijo como carnada para atraerla\\r\n"
 "de vuelta a Japón..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Katsuura
-#. y4:msg_speaker_id=0
 msgctxt "320_Katsuura"
 msgid "Then I found out Kaga hid the baby somewhere."
 msgstr "Ahí me enteré que Kaga había escondido al bebé en algún lado."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "332_Tanimura"
 msgid "He \"hid\" the baby?"
 msgstr "¿'Escondió' al bebé?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Katsuura
-#. y4:msg_speaker_id=0
 msgctxt "344_Katsuura"
 msgid "He probably placed the baby in someone else's care. I never heard about the brat after that."
 msgstr "Seguramente dejó al bebé al cuidado de alguien más. Después de eso, nunca más supe del mocoso."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "356_Tanimura"
 msgid "So his child grew up without knowing him... or where they came from."
 msgstr "Así que su hijo creció sin conocerlo... ni siquiera sabiendo de dónde venía."
@@ -230,13 +145,6 @@ msgstr "Fue uno de los pocos hombres que de verdad me hizo temer...\\r\n"
 "Tengo que reconocerlo. De hecho... eres igualito a él...\\r\n"
 "¿O será solo coincidencia?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=32
-#. y4:msg_location=T0.P32
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "440_Tanimura"
 msgid "......"
 msgstr "......"

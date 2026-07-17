@@ -24,71 +24,36 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_FINANCE.bin
 #. y4:runtime_play_command=y4.play_msg 01830306 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1740"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1744"
 msgid "Remembering Hana-chan"
 msgstr "Recordando a Hana-chan"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "104_Player"
 msgid "(It's definitely lonely without Hana-chan in the office...)"
 msgstr "(Se siente muy vacío el ambiente sin Hana-chan en la oficina...)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "116_Player"
 msgid "(If Hana-chan were here, I'm sure a whole lot more would've happened...)"
 msgstr "(Si Hana-chan estuviera aquí, seguro habrían pasado muchas más cosas...)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "128_Player"
 msgid "(Guess I'll take a seat in the chair and reminisce about Hana-chan.)"
 msgstr "(...Tal vez debería sentarme y recordar a Hana-chan)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Remembering Hana-chan
-#. y4:msg_speaker_id=1
 msgctxt "140_Remembering Hana-chan"
 msgid "When Akiyama sits in his chair, he can return to the time he shared with Hana-chan."
 msgstr "Cuando Akiyama se sienta en su silla, puede volver a esos momentos que compartió con Hana-chan."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Remembering Hana-chan
-#. y4:msg_speaker_id=1
 msgctxt "152_Remembering Hana-chan"
 msgid "By doing so, you can progress and complete Substories that involve Hana-chan. To return to the main game, sit down in his chair again."
 msgstr "Al hacerlo, podrás avanzar y completar las Subhistorias relacionadas con Hana-chan. Para volver al juego principal, siéntate de nuevo en la silla."

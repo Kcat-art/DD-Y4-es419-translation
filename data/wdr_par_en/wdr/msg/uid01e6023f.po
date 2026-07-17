@@ -24,29 +24,18 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01E6023F <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
+
+
 msgctxt "80"
 msgid "You gained 10,000 EXP."
 msgstr "Has obtenido 10000 de EXP."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "476"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "56_Saejima"
 msgid "(S'pose that's the last I'll see of Tadashi. The ol' hideout sure won't feel the same without him... Grow up strong, kid.)"
 msgstr "(Supongo que esa será la última vez que vea a Tadashi.\n"

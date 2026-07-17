@@ -24,115 +24,57 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E600C9 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1168"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1172"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1176"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Hang Back -> T1.P1 | 2. Hurry Inside -> T1.P3
 msgctxt "128_Tanimura"
 msgid "(Here it is... Purple Moon. Am I ready to do this?)"
 msgstr "(Aqui está... Purple Moon. ¿Estoy listo?)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Hang Back
 msgctxt "140_Tanimura"
 msgid "(Maybe I should wait and see what happens. Give myself a little mental prep.)"
 msgstr "(Tal vez debería esperar y ver qué pasa. Y darme un poco de \\r tiempo para prepararme.)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Hang Back
 msgctxt "152_Tanimura"
 msgid "(But I can't just hang around forever. If I don't get in there, Fay might lose her life.)"
 msgstr "(Pero no me puedo quedar de brazos cruzados para siempre. \\r Si no entro ahí, Fay puede perder la vida.)"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Hurry Inside
 msgctxt "164_Tanimura"
 msgid "(All right, I'm going in. Isawa's strapped, so I need to be careful how I approach him.)"
 msgstr "(Muy bien, allá voy. Isawa está armado, así que debo tener \\r cuidado al acercarme.)"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P1
-#. y4:msg_branch_segment=T1.P1..P2
-#. y4:msg_branch_target_text=(Maybe I should wait and see what happens. Give myself a little mental prep.)
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "188_Tanimura"
 msgid "Hang Back"
 msgstr "Esperar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P3
-#. y4:msg_branch_segment=T1.P3..P4
-#. y4:msg_branch_target_text=(All right, I'm going in. Isawa's strapped, so I need to be careful how I approach him.)
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "200_Tanimura"
 msgid "Hurry Inside"
 msgstr "Correr Adentro"

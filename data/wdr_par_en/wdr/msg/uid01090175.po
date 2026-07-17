@@ -24,152 +24,84 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_JIMU03.bin
 #. y4:runtime_play_command=y4.play_msg 01090175 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "9712"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "9716"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "9720"
 msgid "Iguchi"
 msgstr "Iguchi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "9724"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "9728"
 msgid "M_ykz_stand"
 msgstr "M_ykz_stand"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "9732"
 msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "9736"
 msgid "kaiwabgm_sadness"
 msgstr "kaiwabgm_sadness"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "9740"
 msgid "Yamashita"
 msgstr "Yamashita"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "9744"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "9748"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "9752"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
+#. y4:msg_role=name
+#. y4:msg_name_id=11
 msgctxt "9756"
 msgid "Morimoto"
 msgstr "Morimoto"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "68_Saejima"
 msgid "Cut out the homeless harassment, ya hear me?"
 msgstr "Basta ya de molestar a los sintecho, ¿sí?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "80_Iguchi"
 msgid "Not on your life. I'll never forgive trash like him."
 msgstr "Ni lo sueñes. Nunca perdonaré la basura como él."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "92_Saejima"
 msgid "So I've heard. Several times. Now tell us why."
 msgstr "Ya te escuché. Y varias veces. Ahora cuéntanos por qué."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "104_Iguchi"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "116_Iguchi"
 msgid "My dreams, my family... Homeless people took both from me."
 msgstr "Mis sueños, mi familia... fueron arrebatados por sintechos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "128_Saejima"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
@@ -179,13 +111,6 @@ msgid "Three years or so ago, I owned a little pub. It was small,\\r\n"
 "but it was mine. It was everything I'd always dreamed of."
 msgstr "Hace como tres años tenía un pequeño pub. No era grande, pero era mío. Era todo con lo que había soñado."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "212_Iguchi"
 msgid "It wasn't in a great location, and I didn't see much profit, but I'd just started getting regulars. I was happy."
 msgstr "No estaba muy bien localizado, y no ganaba mucho, pero había empezado a tener clientes habituales. Estaba feliz."
@@ -194,13 +119,6 @@ msgctxt "224_Yamashita"
 msgid "I still don't see what that has to do with－"
 msgstr "Sigo sin ver qué tiene que ver esto con -"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "236_Iguchi"
 msgid "Then you bums started camping out in the park next door!"
 msgstr "¡Entonces ustedes, vagos, empezaron a acampar en el parque de al lado!"
@@ -225,112 +143,42 @@ msgid "In the blink of an eye, the only thing left was the debt\\r\n"
 "I'd taken on to open the place. My dream was dead."
 msgstr "En un abrir y cerrar de ojos, lo único que me quedó fue la deuda del prestamo para abrir el local. Mi sueño había muerto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "296_Iguchi"
 msgid "I went looking for a job to pay off my loans, but in this recession, you can't even find work that'll put food on the table."
 msgstr "Salí a buscar trabajo para pagar mis deudas, pero con esta recesión es imposible encontrar un trabajo que te dé de comer."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "308_Iguchi"
 msgid "My wife eventually got fed up, took the kids, and left me."
 msgstr "Mi mujer se acabó cansando, tomó a los niños, y me abandonó."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "320_Saejima"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "332_Iguchi"
 msgid "Still, I worked my fingers to the bone to pay off what I owed. But every time I see these guys, it hits me."
 msgstr "Aun así, trabajé muy duro para pagar lo que debía. Pero cada vez que veo a estos chicos, me vuelvo a acordar."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "344_Iguchi"
 msgid "I'd be living the good life if it weren't for them!"
 msgstr "¡Qué estaría viviendo una buena vida si no fuera por ellos!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "356_Iguchi"
 msgid "I'll never forget it: the sight of those dirty hobos cheerfully squatting in the ruins of my pub!"
 msgstr "No lo olvidaré jamás: ¡la visión de estos sucios indigentes sentados alegremente en las ruinas de mi pub!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "368_Saejima"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "380_Iguchi"
 msgid "That's why I rounded up a group of like-minded citizens to get revenge."
 msgstr "Por eso reuní a un grupo de ciudadanos con ideas afines para vengarnos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Yamashita
-#. y4:msg_speaker_id=7
 msgctxt "392_Yamashita"
 msgid "So that's what happened. I see..."
 msgstr "Así que era eso. Ya veo..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "404_Saejima"
 msgid "......"
 msgstr "......"
@@ -340,13 +188,6 @@ msgid "I get it. You lost your family, and your dream got shattered.\\r\n"
 "That's gotta hurt like a motherfucker."
 msgstr "Lo entiendo. Perdiste tanto a tu familia como tu sueño. Eso debe ser peor que una patada en los huevos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=31
-#. y4:msg_location=T0.P31
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "428_Iguchi"
 msgid "Well, yes..."
 msgstr "Bueno, sí..."
@@ -356,79 +197,30 @@ msgid "But that don't change the fact that you're blamin' everyone\\r\n"
 "but yourself, and pickin' on people who can't fight back."
 msgstr "Pero eso no cambia el hecho que estés culpando a todos menos a ti mismo, y metiéndote con gente que no se puede defender."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "452_Iguchi"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=34
-#. y4:msg_location=T0.P34
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "464_Saejima"
 msgid "Revenge is a hell of a drug. Trust me. I know."
 msgstr "La venganza mata el alma y la envenena. Créeme. Lo sé."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=35
-#. y4:msg_location=T0.P35
-#. y4:msg_speaker=Yamashita
-#. y4:msg_speaker_id=7
 msgctxt "476_Yamashita"
 msgid "Hmm?"
 msgstr "¿Mmm?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=36
-#. y4:msg_location=T0.P36
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "488_Saejima"
 msgid "But it ain't too late to walk back from this ledge. If ya had the fightin' spirit to pay off your debts, you can do damn near anything."
 msgstr "Pero no es tarde para alejarte de ese precicipio. Si tienes las agallas para pagar tus deudas, eres capaz de casi todo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=37
-#. y4:msg_location=T0.P37
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "500_Iguchi"
 msgid "Huh..."
 msgstr "Huh..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=38
-#. y4:msg_location=T0.P38
-#. y4:msg_speaker=Yamashita
-#. y4:msg_speaker_id=7
 msgctxt "512_Yamashita"
 msgid "Iguchi-san, I must apologize."
 msgstr "Iguchi-san, debo disculparme."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=40
-#. y4:msg_location=T0.P40
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "536_Saejima"
 msgid "No, ya don't. You don't gotta apologize for nothin'."
 msgstr "No, no tienes que disculparte por nada."
@@ -444,57 +236,22 @@ msgid "As someone who knows what it's like to lose it all,\\r\n"
 msgstr "Después de yo haberlo perdido todo, me parte el alma \\r \n"
 "ver que el ciclo continúa."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=43
-#. y4:msg_location=T0.P43
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "572_Saejima"
 msgid "Hrm..."
 msgstr "Hrm..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=44
-#. y4:msg_location=T0.P44
-#. y4:msg_speaker=Yamashita
-#. y4:msg_speaker_id=7
 msgctxt "584_Yamashita"
 msgid "So please allow me to apologize. I truly am sorry."
 msgstr "Asi que por favor acepta mis disculpas. Lo siento de verdad."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=46
-#. y4:msg_location=T0.P46
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "608_Iguchi"
 msgid "Hmph. He's right. There's no point in you apologizing to me."
 msgstr "Hmph. Él tiene razón. No tiene sentido que te disculpes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=47
-#. y4:msg_location=T0.P47
-#. y4:msg_speaker=Iguchi
-#. y4:msg_speaker_id=2
 msgctxt "620_Iguchi"
 msgid "Just like there's no point in me taking my anger and frustration out on you guys."
 msgstr "Como tampoco tiene sentido que yo descargue mi rabia y frustración en ustedes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=48
-#. y4:msg_location=T0.P48
-#. y4:msg_speaker=Morimoto
-#. y4:msg_speaker_id=11
 msgctxt "632_Morimoto"
 msgid "Iguchi-san..."
 msgstr "Iguchi-san..."

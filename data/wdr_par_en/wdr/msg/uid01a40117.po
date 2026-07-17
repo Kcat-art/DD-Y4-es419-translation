@@ -24,94 +24,56 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_SUSHI.bin
 #. y4:runtime_play_command=y4.play_msg 01A40117 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3052"
 msgid "Owner"
 msgstr "Propietario"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "3056"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "3060"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "3064"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "3068"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "3072"
 msgid "2d_cf_pict_nigaoe_hana"
 msgstr "2d_cf_pict_nigaoe_hana"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "3076"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "3080"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "3084"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "3088"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Owner
-#. y4:msg_speaker_id=0
 msgctxt "112_Owner"
 msgid "Well, if it isn't Akiyama-san!"
 msgstr "¡Pero si es Akiyama-san!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=2
 msgctxt "124_Akiyama"
 msgid "Hey there, Chef. How's your back?"
 msgstr "Buenas, chef. ¿Cómo está tu espalda?"
@@ -128,13 +90,6 @@ msgid "Sorry to hear that... Listen, can I ask you to contact me if\\r\n"
 msgstr "Siento oír eso... Escucha, ¿Podrías contactarme si ves\\r\n"
 "alguien con estas pintas?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Owner
-#. y4:msg_speaker_id=0
 msgctxt "160_Owner"
 msgid "The hell's this? Your daughter draw it?"
 msgstr "¿Qué demonios es esto...? ¿Tu hija lo dibujó?"
@@ -145,24 +100,10 @@ msgid "Like I've got kids...? Look, I know it's terrible, but\\r\n"
 msgstr "Soy soltero. Oye, se que es terrible... Pero, aparentemente,\\r\n"
 "captura la esencia del tipo que busco."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Owner
-#. y4:msg_speaker_id=0
 msgctxt "184_Owner"
 msgid "You don't say...? Well, okay. I'll show it to my staff."
 msgstr "¿Tu crees...? Bueno. Entonces se lo mostraré a mi personal."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=2
 msgctxt "196_Akiyama"
 msgid "Thanks. I'll have to bring Hana-chan by one of these days."
 msgstr "Gracias. En estos días vendré a comer con Hana-chan."
@@ -174,13 +115,6 @@ msgstr "¡Claro! Pero llámame el día anterior, ¿Vale? ¡Debo hacer\\r\n"
 "las compras antes de que llegue ella! ¡Esa muchacha si que come!\\r\n"
 "¡Wa, ja, ja!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=9
-#. y4:msg_location=T2.P9
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=2
 msgctxt "220_Akiyama"
 msgid "(Now for the Poppo in Nakamichi Alley. It's pretty desolate over that way... No telling what sort of shady characters might drop in.)"
 msgstr "(Ahora visitare el Poppo del Callejón de Nakamichi. Es un lugar bastante desolado... Y puede que aparezca algún tipo sospechoso.)"

@@ -16,395 +16,239 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 012602AE <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=43
-#. y4:msg_location=T0.P43
 msgctxt "588"
 msgid "You got <Color:255,255,200,255>Kamurocho Underground Locker Key B-3<Color:Default>."
 msgstr "Conseguiste <Color:255,255,200,255>Llave de casillero subterráneo de Kamurocho B-3<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "12124"
 msgid "Surly Homeless Man"
 msgstr "Vagabundo malhumorado"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "12128"
 msgid "Korobu_DownL_StandupL"
 msgstr "Korobu_DownL_StandupL"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "12132"
 msgid "Friendly Homeless Man"
 msgstr "Vagabundo Amistoso"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "12136"
 msgid "Korobu_DownL_StandupF"
 msgstr "Korobu_DownL_StandupF"
 
 #. y4:line_status=todo
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "12140"
 msgid "Cat-loving Homeless Man"
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "12144"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "12148"
 msgid "Striped Kitten"
 msgstr "Gato con rayas"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "12152"
 msgid "White Kitten"
 msgstr "Gato blanco"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
+#. y4:msg_role=name
+#. y4:msg_name_id=8
 msgctxt "12156"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "12160"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "12164"
 msgid "Talk_Syagamu_st"
 msgstr "Talk_Syagamu_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "12168"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "12172"
 msgid "Talk_Syagamu_ed"
 msgstr "Talk_Syagamu_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "12176"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "12180"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
 msgctxt "12184"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
 msgctxt "12188"
 msgid "Nml_TurnL180"
 msgstr "Nml_TurnL180"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=17
 msgctxt "12192"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=18
 msgctxt "12196"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=19
 msgctxt "12200"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=20
 msgctxt "12204"
 msgid "A_cat_stand_tlk_nobi"
 msgstr "A_cat_stand_tlk_nobi"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=21
 msgctxt "12208"
 msgid "Talk_Request"
 msgstr "Talk_Request"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=22
 msgctxt "12212"
 msgid "Name the orange cat!"
 msgstr "¡Ponle nombre al gato naranja!"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=24
 msgctxt "12220"
 msgid "Name the white cat!"
 msgstr "¡Ponle nombre al gato blanco!"
 
 #. y4:line_status=translated
+#. y4:msg_role=name
+#. y4:msg_name_id=25
 msgctxt "12224"
 msgid "置換_捨て猫Ａ"
 msgstr "置換_捨て猫Ａ"
 
 #. y4:line_status=translated
+#. y4:msg_role=name
+#. y4:msg_name_id=26
 msgctxt "12228"
 msgid "置換_捨て猫Ｂ"
 msgstr "置換_捨て猫Ｂ"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=27
 msgctxt "12232"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=28
 msgctxt "12236"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=29
 msgctxt "12240"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=30
 msgctxt "12244"
 msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=31
 msgctxt "12248"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=32
 msgctxt "12252"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Surly Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "72_Surly Homeless Man"
 msgid "That hurt, dammit!"
 msgstr "¡Eso dolió, maldita sea!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Friendly Homeless Man
-#. y4:msg_speaker_id=2
 msgctxt "84_Friendly Homeless Man"
 msgid "Ouch... You could've gone a little easier on us, you know."
 msgstr "Ouch... Podrías haber sido un poco más gentil con nosotros, sabes."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "120_Cat-loving Homeless Man"
 msgid "Hey, pal!"
 msgstr "¡Oye, amigo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "132_Cat-loving Homeless Man"
 msgid "What are you guys doing here?"
 msgstr "¿Qué hacen ustedes aquí?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Surly Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "144_Surly Homeless Man"
 msgid "Bah!"
 msgstr "¡Bah!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Friendly Homeless Man
-#. y4:msg_speaker_id=2
 msgctxt "156_Friendly Homeless Man"
 msgid "What a hypocrite! You're after the treasure too, aren't you?"
 msgstr "¡Qué hipócrita! También has venido por el tesoro, ¿no?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "168_Cat-loving Homeless Man"
 msgid "What treasure? Is this about those notes?"
 msgstr "¿Cuál tesoro? ¿Hablas de las notas?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "180_Cat-loving Homeless Man"
 msgid "Are you two seriously trying to mug our friend here?"
 msgstr "¿De verdad están tratando de robar a nuestro amigo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Striped Kitten
-#. y4:msg_speaker_id=6
 msgctxt "204_Striped Kitten"
 msgid "Ffft!"
 msgstr "¡Ffft!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Striped Kitten
-#. y4:msg_speaker_id=6
 msgctxt "216_White Kitten"
 msgid "Ffft!"
 msgstr "¡Ffft!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Surly Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "228_Surly Homeless Man"
 msgid "Shit!"
 msgstr "¡Mierda!"
@@ -415,37 +259,16 @@ msgid "Well, it kinda does belong to the cats ya saved.\\r\nI can see why you'd 
 msgstr "Bueno, de cierto modo le pertenece a los gatos que salvaron.\\r\nPuedo entender el porqué están interesados."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "252_Saejima"
 msgid "How 'bout we open it right now, together?"
 msgstr "¿Qué tal si lo abrimos ahora, juntos?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Friendly Homeless Man
-#. y4:msg_speaker_id=2
 msgctxt "264_Friendly Homeless Man"
 msgid "Now, there's a fine idea!"
 msgstr "¡Qué buena idea!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "276_Cat-loving Homeless Man"
 msgid "Are you sure about this, pal?"
 msgstr "¿Estás seguro de esto, amigo?"
@@ -456,109 +279,46 @@ msgid "They won't be satisfied till they see what's inside.\\r\nGimme a sec."
 msgstr "No van a estar satisfechos hasta que vean lo que hay dentro.\\r\nDenme un segundo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "324_Saejima"
 msgid "What is this? A stuffed toy?"
 msgstr "¿Qué es esto? ¿Un peluche?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Surly Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "336_Surly Homeless Man"
 msgid "A what? That's impossible!"
 msgstr "¿Un qué? ¡Imposible!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Friendly Homeless Man
-#. y4:msg_speaker_id=2
 msgctxt "348_Friendly Homeless Man"
 msgid "Is that the best lie you could come up with? You're bullshitting us, trying to keep the real treasure for yourself. Admit it!"
 msgstr "¿Esa es la mejor mentira que te pudiste inventar? No estás tomando por tontos, tratando de quedarte con el tesoro real para ti. ¡Admítelo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "360_Saejima"
 msgid "I ain't lyin'. See for yourself."
 msgstr "No estoy mintiendo. Míralo por ti mismo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Friendly Homeless Man
-#. y4:msg_speaker_id=2
 msgctxt "384_Friendly Homeless Man"
 msgid "All right, lemme see... Huh. It really is a stuffed toy."
 msgstr "Vale, vamos a ver... eh. De verdad solo es un peluche."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Surly Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "396_Surly Homeless Man"
 msgid "Still, you must be keeping something from us!"
 msgstr "¡Aun así, seguro que estás ocultándonos algo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "408_Saejima"
 msgid "Not a thing. Besides, I ain't had the chance to hide anything."
 msgstr "Para nada. Además, no tuve oportunidad de esconderles nada."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=29
-#. y4:msg_location=T0.P29
-#. y4:msg_speaker=Surly Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "420_Surly Homeless Man"
 msgid "What a monumental waste of time."
 msgstr "Qué tremenda perdida de tiempo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=30
-#. y4:msg_location=T0.P30
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "432_Saejima"
 msgid "Ya don't want it?"
 msgstr "¿No lo quieres?"
@@ -569,169 +329,71 @@ msgid "That junk's worth squat. If I knew that was the \"treasure,\"\\r\nI would
 msgstr "Esa basura no vale nada. Si hubiera sabido que eso era el \"tesoro,\"\\r\nmejor me hubiera quedado bebiendo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=32
-#. y4:msg_location=T0.P32
-#. y4:msg_speaker=Friendly Homeless Man
-#. y4:msg_speaker_id=2
 msgctxt "456_Friendly Homeless Man"
 msgid "Too bad. We really thought we were onto something big."
 msgstr "Qué mal. De verdad pensamos que era algo grande."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "468_Cat-loving Homeless Man"
 msgid "I wonder if this plush was meant for the cats?"
 msgstr "¿Me pregunto si este peluche era para los gatos?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=34
-#. y4:msg_location=T0.P34
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "480_Saejima"
 msgid "Who knows? Maybe."
 msgstr "¿Quién sabe? Tal vez."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=35
-#. y4:msg_location=T0.P35
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "492_Cat-loving Homeless Man"
 msgid "Why would anybody go to such trouble to hide a toy... Huh?"
 msgstr "¿Por qué alguien se esforzaría tanto por esconder un peluche... eh?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=36
-#. y4:msg_location=T0.P36
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "504_Saejima"
 msgid "What?"
 msgstr "¿Qué?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=37
-#. y4:msg_location=T0.P37
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "516_Cat-loving Homeless Man"
 msgid "I thought I saw the plush twinkle."
 msgstr "Creo que vi al peluche brillar."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=38
-#. y4:msg_location=T0.P38
-#. y4:msg_speaker=Striped Kitten
-#. y4:msg_speaker_id=6
 msgctxt "528_Striped Kitten"
 msgid "Mrowr."
 msgstr "Miauh."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=39
-#. y4:msg_location=T0.P39
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "540_Cat-loving Homeless Man"
 msgid "You want us to take a look?"
 msgstr "¿Quieren que le echemos un vistazo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=40
-#. y4:msg_location=T0.P40
-#. y4:msg_speaker=Striped Kitten
-#. y4:msg_speaker_id=6
 msgctxt "552_Striped Kitten"
 msgid "Prowrl..."
 msgstr "Ñaau..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=41
-#. y4:msg_location=T0.P41
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "564_Cat-loving Homeless Man"
 msgid "Let's see here... Oh, what's this?"
 msgstr "Veamos qué hay aquí... Oh, ¿qué es esto?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=42
-#. y4:msg_location=T0.P42
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "576_Cat-loving Homeless Man"
 msgid "Hey! Isn't this a key for one of the lockers in the underground mall?"
 msgstr "¡Oye! ¿Acaso esta llave no es para una de esas taquillas en el centro comercial subterráneo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=45
-#. y4:msg_location=T0.P45
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "612_Saejima"
 msgid "Looks that way."
 msgstr "Así parece."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=46
-#. y4:msg_location=T0.P46
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "624_Cat-loving Homeless Man"
 msgid "Ah, so that's where the real treasure is. Great news, huh, pal?"
 msgstr "Ah, así que ahí es donde está el verdadero tesoro. Grandes noticias, ¿eh, amigo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=30
-#. y4:msg_location=T0.P30
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "636_Saejima"
 msgid "Ya don't want it?"
 msgstr "¿No lo quieres?"
@@ -742,181 +404,76 @@ msgid "Just having these handsome boys around is all I need!\\r\nIsn't that righ
 msgstr "Lo único que necesito es a estos hermosos gatitos cerca\\r\n¿No es así?"
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=49
-#. y4:msg_location=T0.P49
-#. y4:msg_speaker=Striped Kitten
-#. y4:msg_speaker_id=6
 msgctxt "660_Striped Kitten"
 msgid "Meow!"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=50
-#. y4:msg_location=T0.P50
-#. y4:msg_speaker=White Kitten
-#. y4:msg_speaker_id=7
 msgctxt "672_White Kitten"
 msgid "Mrowr!"
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=51
-#. y4:msg_location=T0.P51
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "684_Saejima"
 msgid "Alright."
 msgstr "Está bien."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=52
-#. y4:msg_location=T0.P52
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "696_Cat-loving Homeless Man"
 msgid "Oh, but I do have a favor to ask you."
 msgstr "Oh, pero tengo un favor que pedirte."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=53
-#. y4:msg_location=T0.P53
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "708_Cat-loving Homeless Man"
 msgid "Would you mind naming them for me?"
 msgstr "¿Te importaría ponerles nombre?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=54
-#. y4:msg_location=T0.P54
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "720_Saejima"
 msgid "Name 'em?"
 msgstr "¿Ponerles nombre?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=55
-#. y4:msg_location=T0.P55
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "732_Cat-loving Homeless Man"
 msgid "You're the reason they're still alive. I'm sure they'd be honored."
 msgstr "Eres la razón por la cual siguen vivos. Estoy seguro de que estarían honrados si lo hicieras."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=56
-#. y4:msg_location=T0.P56
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "744_Cat-loving Homeless Man"
 msgid "C'mon, please?"
 msgstr "¿Vamos, Por favor?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=57
-#. y4:msg_location=T0.P57
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "756_Saejima"
 msgid "(What're some good cat names?)"
 msgstr "(¿Cuáles son buenos nombre para gatos?)"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=60
-#. y4:msg_location=T0.P60
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "792_Cat-loving Homeless Man"
 msgid "%s and %s, huh? Nice! I like them."
 msgstr "¿%s y %s, eh? ¡Genial! Me gustan."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=61
-#. y4:msg_location=T0.P61
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "804_Saejima"
 msgid "Take care of 'em, now."
 msgstr "Ahora, cuídalos bien."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=62
-#. y4:msg_location=T0.P62
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "816_Cat-loving Homeless Man"
 msgid "Certainly! If you ever wanna see them, just come by the theater underground! They'd love that."
 msgstr "¡Por supuesto! ¡Si alguna vez quieres verlos, solo pásate por el Subterráneo del teatro! Les va a encantar verte."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=63
-#. y4:msg_location=T0.P63
-#. y4:msg_speaker=Cat-loving Homeless Man
-#. y4:msg_speaker_id=4
 msgctxt "828_Cat-loving Homeless Man"
 msgid "Wouldn't you?"
 msgstr "¿Lo harás?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=64
-#. y4:msg_location=T0.P64
-#. y4:msg_speaker=鄂ｮ謠媽謐ｨ縺ｦ迪ｫ�ｼ｡
-#. y4:msg_speaker_id=25
 msgctxt "840_置換_捨て猫Ａ"
 msgid "Prrr..."
 msgstr "Prrr..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=65
-#. y4:msg_location=T0.P65
-#. y4:msg_speaker=鄂ｮ謠媽謐ｨ縺ｦ迪ｫ�ｼ｢
-#. y4:msg_speaker_id=26
 msgctxt "852_置換_捨て猫Ｂ"
 msgid "Mew!"
 msgstr "¡Miau!"
@@ -927,73 +484,31 @@ msgid "I'm gonna make a little house for these fine lads.\\r\nPromise you'll com
 msgstr "Les haré una casita a estos muchachos.\\r\n¡Prométeme que los vendrás a ver!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "924_Saejima"
 msgid "Say, I bet I can use that key here."
 msgstr "Apuesto a que puedo usar esa llave aquí."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Surly Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "936_Surly Homeless Man"
 msgid "Why don't I take that off your hands?"
 msgstr "¿Debería quitarte eso de las manos?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "948_Saejima"
 msgid "You were tailin' me all this time?"
 msgstr "¿Me seguiste todo este tiempo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Friendly Homeless Man
-#. y4:msg_speaker_id=2
 msgctxt "960_Friendly Homeless Man"
 msgid "Now, now. You don't have to put it like that."
 msgstr "Bueno, bueno. No tienes que decirlo así."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=8
 msgctxt "972_Saejima"
 msgid "You, too?"
 msgstr "¿Tú, también?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Friendly Homeless Man
-#. y4:msg_speaker_id=2
 msgctxt "984_Friendly Homeless Man"
 msgid "We did rescue those cats, after all. It's only natural to expect a little good karma."
 msgstr "Rescatamos a esos gatos, después de todo. Es obvio recibir algo de buen karma."

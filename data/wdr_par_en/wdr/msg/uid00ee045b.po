@@ -24,199 +24,112 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_URANAI.bin
 #. y4:runtime_play_command=y4.play_msg 00EE045B <group>
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Pay
+
+
 msgctxt "588"
 msgid "You paid <Color:8>50,000 yen<Color:Default>."
 msgstr "Pagaste <Color:8>50,000 yenes<Color:Default>."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "29512"
 msgid "Naomi"
 msgstr "Naomi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "29516"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "29520"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "29524"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "29528"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "29532"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "29536"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "29540"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "29544"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "29548"
 msgid "F_nml_sitchr_tlk_kamae"
 msgstr "F_nml_sitchr_tlk_kamae"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "29552"
 msgid "P_tan_sitsofa_tlk_kamae"
 msgstr "P_tan_sitsofa_tlk_kamae"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "29556"
 msgid "P_tan_sitsofa"
 msgstr "P_tan_sitsofa"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "29560"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "29564"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "29568"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
 msgctxt "29572"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
+#. y4:msg_role=name
+#. y4:msg_name_id=16
 msgctxt "29576"
 msgid "Saki-chan"
 msgstr "Saki-chan"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=17
 msgctxt "29580"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=18
 msgctxt "29584"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=19
+#. y4:msg_role=name
+#. y4:msg_name_id=19
 msgctxt "29588"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "192_Naomi"
 msgid "Welcome, welcome. What can Naomi's amazing psychic powers do for you today?"
 msgstr "Pasa, pasa. ¿Qué pueden hacer hoy por ti los increíbles poderes psíquicos de Naomi?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "204_Tanimura"
 msgid "I'm looking for a Filipina woman who's gone missing. Her name's Nadine."
 msgstr "Estoy buscando a una mujer filipina que desapareció. Se llama Nadine."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "216_Naomi"
 msgid "Nadine, you say? Was she your sweetheart? You must let go of what is gone. Accepting the inevitable is simply a part of life, young man."
 msgstr "¿Nadine, dices? ¿Era tu novia? Debes dejar ir lo que se fue. Aceptar lo inevitable es simplemente parte de la vida, muchacho."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "228_Tanimura"
 msgid "Are you going to help me or not? My friend Zhao-san over in Little Asia said you have the power to see the unseen."
 msgstr "No me desvíes del tema. Me enteré de ti por Zhao-san, en Pequeña Asia. Dicen que eres muy acertada, ¿verdad? ...con tu \"videncia\"."
@@ -227,206 +140,74 @@ msgid "Heh, yes, but my services do not come cheap,\\r\n"
 msgstr "...Je, je, mis servicios de videncia tienen un alto precio,\\r\n"
 "Detective Tanimura."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "252_Tanimura"
 msgid "You know who I am?"
 msgstr "¿Sabes quién soy?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "264_Naomi"
 msgid "What sort of psychic would I be if I didn't at least know that? Naomi sees all, knows all."
 msgstr "¿Qué clase de vidente sería si ni siquiera supiera eso? Naomi lo ve todo, lo sabe todo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "276_Tanimura"
 msgid "Right... Okay, then, do you know where Nadine is?"
 msgstr "Entiendo... Entonces, ¿sabes dónde está Nadine?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "288_Naomi"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "300_Tanimura"
 msgid "What're you doing?"
 msgstr "¿Qué estás haciendo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "312_Naomi"
 msgid "Silence. The Great and Powerful Naomi must concentrate."
 msgstr "Silencio. La Grandiosa y Poderosa Naomi debe concentrarse."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "324_Naomi"
 msgid "Yes, yes... I see a name... Saki-chan... You should go ask Saki-chan."
 msgstr "Sí, sí... Veo un nombre... Saki-chan... Deberías preguntarle a Saki-chan."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "336_Tanimura"
 msgid "Saki-chan?"
 msgstr "¿Saki-chan?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "348_Naomi"
 msgid "She will give you the information you seek."
 msgstr "Ella te dará la información que buscas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "360_Tanimura"
 msgid "You're not giving me the runaround, are you?"
 msgstr "No me estarás engañando, ¿verdad?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "372_Naomi"
 msgid "Hmph, if you do not trust my powers, you can take your business elsewhere."
 msgstr "Hum, si no confías en mis poderes, puedes irte a otro lado."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "384_Tanimura"
 msgid "Fine. Then just tell me where I can find this Saki-chan."
 msgstr "...Está bien. Entonces, ¿dónde encuentro a esa tal Saki-chan?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "396_Naomi"
 msgid "Near Pink Street. She'll be wearing a purple scarf."
 msgstr "Cerca de la Calle Pink. La reconocerás por su bufanda morada."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "408_Tanimura"
 msgid "Thanks. If this goes well, you'll have yourself a new customer."
 msgstr "Gracias. Si esto sale bien, tendrás un nuevo cliente."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "420_Naomi"
 msgid "Hmph. Come again."
 msgstr "Hum, vuelve cuando quieras."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "456_Naomi"
 msgid "You wish to know about the information Yabe left behind? It will cost you 50,000 yen."
 msgstr "¿Te interesa la información que dejó Yabe? Te costará 50,000 yenes."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "468_Naomi"
 msgid "I knew you would return."
 msgstr "Sabía que volverías."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "480_Tanimura"
 msgid "I'm trying to find the evidence Yabe, that sex industry writer, left behind."
 msgstr "Estoy buscando la evidencia que dejó Yabe, aquel escritor de la industria sexual."
@@ -437,1034 +218,357 @@ msgid "Hrmmm... That's no ordinary information you seek.\\r\n"
 msgstr "Mmm... La información que buscas no es cualquier cosa.\\r\n"
 "Te va a costar."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "504_Tanimura"
 msgid "How much?"
 msgstr "¿Cuánto?"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "516_Naomi"
 msgid "50,000 yen, and not a yen less."
 msgstr "50,000 yenes, Ni un yen menos."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Pay -> T1.P11 | 2. Don't Pay -> T1.P8
 msgctxt "528_Naomi"
 msgid "Greedy, aren't we?"
 msgstr "Vaya, sí que eres codiciosa..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Don't Pay
 msgctxt "540_Tanimura"
 msgid "Cut me some slack. I don't have that much."
 msgstr "Tenga un poco de consideración. No tengo tanto dinero."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Don't Pay
 msgctxt "552_Naomi"
 msgid "Hmph, The Great Naomi has no use for penniless fools. Now, off you go!"
 msgstr "¡Hum! La Grandiosa Naomi no pierde su tiempo con gente sin dinero. ¡Ahora, vete!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Don't Pay
 msgctxt "564_Tanimura"
 msgid "(Guess I'll have to pay the fifty thou...)"
 msgstr "(No veo otra alternativa que pagar los cincuenta mil...)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Pay
 msgctxt "576_Tanimura"
 msgid "Man... I hope she gets this right."
 msgstr "Uf... Más vale que aciertes, ¿eh?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Pay
 msgctxt "600_Naomi"
 msgid "Heh, Naomi will not disappoint."
 msgstr "Je, Naomi no te va a decepcionar."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Pay
 msgctxt "612_Naomi"
 msgid "Yes, yes... I see a place... A bar frequented by the one they call Yabe..."
 msgstr "Sí, sí... Lo veo.. Veo un local... Un bar, frecuentado por aquel al que llaman Yabe..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Pay
 msgctxt "624_Tanimura"
 msgid "Are you telling me you actually see that in your ball of glass there?"
 msgstr "¿De verdad puedes saber todo eso con solo mirar la bola de cristal?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=16
-#. y4:msg_location=T1.P16
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Pay
 msgctxt "636_Naomi"
 msgid "Silence. Do you doubt the Great and Powerful Naomi?"
 msgstr "Silencio. ¿Acaso dudas de la Grandiosa y Poderosa Naomi?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=17
-#. y4:msg_location=T1.P17
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Pay
 msgctxt "648_Tanimura"
 msgid "No, it's not that. It's just kind of weird. Anyway, what's the bar's name?"
 msgstr "No, no es eso. Es que se me hace raro... ¿Y cómo se llama el lugar?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=18
-#. y4:msg_location=T1.P18
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Pay
 msgctxt "660_Naomi"
 msgid "...Cuez Bar."
 msgstr "...Bar Cuez."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=19
-#. y4:msg_location=T1.P19
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Pay
 msgctxt "672_Tanimura"
 msgid "The pool bar in the underground mall?"
 msgstr "¿El bar de billar que está en el centro comercial subterráneo?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=20
-#. y4:msg_location=T1.P20
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Pay
 msgctxt "684_Naomi"
 msgid "Correct."
 msgstr "Correcto."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=21
-#. y4:msg_location=T1.P21
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Pay
 msgctxt "696_Tanimura"
 msgid "Thanks. I'll be back if this lead's a good one."
 msgstr "Gracias. Si todo sale bien, volveré."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "708_Naomi"
 msgid "I knew you would return."
 msgstr "Sabía que volverías."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "720_Tanimura"
 msgid "Hello, Ms. Information Dealer."
 msgstr "Buenas, Sra. Informante."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "732_Naomi"
 msgid "I assume you heard that from Saki. Blessed with the gift of gab, she is. Or should I say cursed?"
 msgstr "Supongo que eso lo escuchaste de Saki. Tiene el don de la palabra... o quizás debería decir la maldición."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "780_Naomi"
 msgid "It was a detective by the name of Yusuke Kaga who was inquiring into your father and Bridge."
 msgstr "El detective que investigaba a tu padre y a Bridge se llamaba Yusuke Kaga."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "792_Tanimura"
 msgid "Kaga! So, that's what he meant by \"K\"..."
 msgstr "¡Kaga! Ahora entiendo a qué se refería con \"K\"..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=8
-#. y4:msg_location=T2.P8
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "804_Naomi"
 msgid "Most likely."
 msgstr "Es probable."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=9
-#. y4:msg_location=T2.P9
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "816_Tanimura"
 msgid "Yusuke Kaga... Well, that's one mystery solved."
 msgstr "Yusuke Kaga... Bueno, un misterio resuelto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=10
-#. y4:msg_location=T2.P10
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "828_Tanimura"
 msgid "Only thing is, the name \"K\" suddenly stops appearing in my father's memo book one day."
 msgstr "Lo único es que, después de cierto día, el nombre de K dejó de aparecer de repente del cuaderno de notas de mi padre."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "840_Naomi"
 msgid "Kaga was fired for mistakes made on the job."
 msgstr "Kaga fue despedido de su puesto de detective por cometer errores en el trabajo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=12
-#. y4:msg_location=T2.P12
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "852_Tanimura"
 msgid "Fired?"
 msgstr "¿Despedido?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=13
-#. y4:msg_location=T2.P13
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "864_Naomi"
 msgid "After that, he opened a coffee shop. Foreign prostitutes were among his regular customers."
 msgstr "Después de eso, abrió una cafetería. Prostitutas extranjeras eran algunas de sus clientas habituales."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=14
-#. y4:msg_location=T2.P14
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "876_Tanimura"
 msgid "Really?"
 msgstr "¿De verdad?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=15
-#. y4:msg_location=T2.P15
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "888_Naomi"
 msgid "He had looked after them while he was still a detective. Even after he was fired, they would still come to him seeking advice."
 msgstr "Las había cuidado mientras aún era detective. Incluso después de ser despedido, seguían viniendo a él en busca de consejo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=16
-#. y4:msg_location=T2.P16
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "900_Tanimura"
 msgid "Does he still work at this shop?"
 msgstr "¿Todavía trabaja en esa cafetería?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=17
-#. y4:msg_location=T2.P17
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "912_Naomi"
 msgid "He died... twenty-six years ago."
 msgstr "Falleció.. hace veintiséis años."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=18
-#. y4:msg_location=T2.P18
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "924_Tanimura"
 msgid "The cause of death?"
 msgstr "¿Causa de la muerte?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=19
-#. y4:msg_location=T2.P19
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "936_Naomi"
 msgid "It was reported as accidental, but all the facts pointed toward murder."
 msgstr "Se reportó como un accidente, pero todos los indicios apuntaban a un asesinato."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=20
-#. y4:msg_location=T2.P20
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "948_Tanimura"
 msgid "So basically, he was eliminated because he got too close to those foreign prostitutes."
 msgstr "Así que, básicamente, lo eliminaron porque se acercó demasiado a esas prostitutas extranjeras."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=21
-#. y4:msg_location=T2.P21
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "960_Naomi"
 msgid "That matter is too cloudy for Naomi to see."
 msgstr "Ese asunto es demasiado confuso para que Naomi lo vea."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=22
-#. y4:msg_location=T2.P22
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "972_Tanimura"
 msgid "I don't believe a detective my father respected so much would make careless mistakes."
 msgstr "No me creo que un detective al que mi padre respetaba tanto cometiera errores tan descuidados."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=23
-#. y4:msg_location=T2.P23
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "984_Naomi"
 msgid "He shot and killed an innocent bystander by accident during one of his cases."
 msgstr "Durante uno de sus casos, por accidente, disparó y mató a un transeúnte inocente."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=24
-#. y4:msg_location=T2.P24
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "996_Tanimura"
 msgid "I seriously doubt that's true."
 msgstr "La verdad, dudo mucho que eso sea cierto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=25
-#. y4:msg_location=T2.P25
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1008_Naomi"
 msgid "But why?"
 msgstr "Pero, ¿por qué?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=26
-#. y4:msg_location=T2.P26
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1020_Tanimura"
 msgid "Because crack detectives like him know how to use a gun. I doubt he'd miss his mark like that."
 msgstr "Porque detectives de su calibre saben cómo usar un arma. Dudo mucho que fallara de esa manera."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=27
-#. y4:msg_location=T2.P27
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1032_Naomi"
 msgid "Heh... You seem to be a fine detective yourself."
 msgstr "Je... Tú mismo pareces un detective de su calibre."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=28
-#. y4:msg_location=T2.P28
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1044_Naomi"
 msgid "Your father said that Kaga had been set up."
 msgstr "Tu padre dijo que a Kaga le tendieron una trampa."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=29
-#. y4:msg_location=T2.P29
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1056_Tanimura"
 msgid "By Bridge?"
 msgstr "¿Por quien?, ¿Bridge?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=30
-#. y4:msg_location=T2.P30
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1068_Naomi"
 msgid "That I cannot see, but during an investigation on illegal immigration, the trail led Kaga to a certain government official."
 msgstr "Eso no lo puedo ver, pero durante una investigación sobre inmigración ilegal, la pista llevó a Kaga hasta cierto funcionario del gobierno."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=31
-#. y4:msg_location=T2.P31
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1080_Tanimura"
 msgid "A government official?"
 msgstr "¿Un funcionario del gobierno?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1092_Naomi"
 msgid "A few of the undocumented workers arrested by Kaga had been issued suspicious-looking visas."
 msgstr "A algunos de los trabajadores indocumentados detenidos por Kaga se les habían emitido visas de aspecto sospechoso."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1104_Naomi"
 msgid "Many of them had been bought under the table."
 msgstr "Muchas de ellas fueron compradas a escondidas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1116_Tanimura"
 msgid "Someone was selling visas?"
 msgstr "¿Alguien estaba vendiendo visas?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=35
-#. y4:msg_location=T2.P35
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1128_Naomi"
 msgid "Foreigners need a work visa or student visa in order to work in Japan."
 msgstr "Los extranjeros necesitan una visa de trabajo o de estudiante para trabajar en Japón."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1140_Naomi"
 msgid "But the screening for such visas is very strict. Many foreigners end up buying them from corrupt officials for 400,000 or 500,000 yen."
 msgstr "Pero el control para emitir esas visas es muy estricto. Muchos extranjeros terminan comprándolas a funcionarios corruptos por 400,000 o 500,000 yenes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=37
-#. y4:msg_location=T2.P37
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1152_Naomi"
 msgid "Naomi has even heard of some who pay a million."
 msgstr "Naomi incluso escuchó de algunos que pagan un millón."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=38
-#. y4:msg_location=T2.P38
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1164_Tanimura"
 msgid "Why would anyone pay so much to come to Japan?"
 msgstr "¿Por qué alguien pagaría tanto para venir a Japón?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=39
-#. y4:msg_location=T2.P39
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1176_Naomi"
 msgid "Back then, we had a labor shortage. Employers never seemed to have enough workers."
 msgstr "En esos tiempos, había escasez de mano de obra. A los empleadores siempre les faltaban trabajadores."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=40
-#. y4:msg_location=T2.P40
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1188_Naomi"
 msgid "But most of all, migrant workers saw Japan as the promised land, where jobs grew on trees."
 msgstr "Pero, sobre todo, los trabajadores inmigrantes veían a Japón como la tierra prometida, donde los empleos estaban por doquier."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=41
-#. y4:msg_location=T2.P41
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1200_Tanimura"
 msgid "So Kaga suspected that government official of receiving money for issuing illegal visas?"
 msgstr "Osea que, ¿Kaga sospechaba que ese funcionario estaba recibiendo dinero a cambio de emitir visas ilegales?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=42
-#. y4:msg_location=T2.P42
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1212_Naomi"
 msgid "Exactly."
 msgstr "Exacto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=43
-#. y4:msg_location=T2.P43
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1224_Tanimura"
 msgid "So who was this official?"
 msgstr "Así que, ¿quién era este funcionario?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=44
-#. y4:msg_location=T2.P44
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1236_Naomi"
 msgid "Naomi does not know for certain."
 msgstr "Naomi no puede asegurarlo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=45
-#. y4:msg_location=T2.P45
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1248_Naomi"
 msgid "However, it may very well be Bridge."
 msgstr "Sin embargo, es muy probable que sea Bridge."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=46
-#. y4:msg_location=T2.P46
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1260_Tanimura"
 msgid "Yeah."
 msgstr "Sí."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=50
-#. y4:msg_location=T2.P50
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1308_Tanimura"
 msgid "Tanimura."
 msgstr "Tanimura."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=51
-#. y4:msg_location=T2.P51
-#. y4:msg_speaker=Saki-chan
-#. y4:msg_speaker_id=16
 msgctxt "1320_Saki-chan"
 msgid "It's me! I've got some info on that group!"
 msgstr "¡Soy yo! ¡Me hice con información sobre ese grupo!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=52
-#. y4:msg_location=T2.P52
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1332_Tanimura"
 msgid "You do!?"
 msgstr "¡¿De verdad?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=53
-#. y4:msg_location=T2.P53
-#. y4:msg_speaker=Saki-chan
-#. y4:msg_speaker_id=16
 msgctxt "1344_Saki-chan"
 msgid "Let's meet somewhere away from prying eyes. How about the rooftop garden on top of Volcano?"
 msgstr "Reunámonos en un lugar apartado de miradas curiosas. ¿Qué tal el jardín en la azotea de Volcano?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=54
-#. y4:msg_location=T2.P54
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1356_Tanimura"
 msgid "I'll be there."
 msgstr "Allí estaré."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=57
-#. y4:msg_location=T2.P57
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1392_Naomi"
 msgid "I take it that was Saki-chan."
 msgstr "Supongo que esa era Saki-chan."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=46
-#. y4:msg_location=T2.P46
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1404_Tanimura"
 msgid "Yeah."
 msgstr "Sí."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=59
-#. y4:msg_location=T2.P59
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1416_Naomi"
 msgid "She was quite close to Kaga before he died."
 msgstr "Ella era bastante cercana a Kaga antes de que él muriera."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=60
-#. y4:msg_location=T2.P60
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1428_Tanimura"
 msgid "No kidding?"
 msgstr "¿En serio?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=61
-#. y4:msg_location=T2.P61
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1440_Naomi"
 msgid "You should talk to Saki-chan if you wish to learn more about Kaga."
 msgstr "Deberías hablar con Saki-chan si deseas saber más sobre Kaga."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=62
-#. y4:msg_location=T2.P62
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1452_Tanimura"
 msgid "Thank you."
 msgstr "Gracias."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1488_Naomi"
 msgid "I knew you would return."
 msgstr "Sabía que volverías."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=2
-#. y4:msg_location=T3.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1500_Tanimura"
 msgid "Oh, Saki-chan's here, too, huh? Well, you might as well just tell me about Katsuura."
 msgstr "Oh, ¿Saki-chan también está aquí, eh? Bien, pues, háblame sobre de Katsuura."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=3
-#. y4:msg_location=T3.P3
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1512_Naomi"
 msgid "The Asian Women's Friendship Association was merely a front for Katsuura."
 msgstr "La Asociación de Amistad de Mujeres Asiáticas no era más que una tapadera para Katsuura."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=4
-#. y4:msg_location=T3.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1524_Tanimura"
 msgid "What do you mean?"
 msgstr "¿A qué te refieres?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=5
-#. y4:msg_location=T3.P5
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1536_Naomi"
 msgid "He was using it to connect with various Asian political figures and then profit handsomely from Japanese overseas development assistance."
 msgstr "Katsuura usaba la asociación para establecer contactos con varias personalidades políticas asiáticas y después beneficiarse enormemente de la AOD (Asistencia Oficial para el Desarrollo) de Japón."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=6
-#. y4:msg_location=T3.P6
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1548_Tanimura"
 msgid "But aren't associations like that nonprofit?"
 msgstr "¿Pero no se supone que esas asociaciones son sin fines de lucro?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=7
-#. y4:msg_location=T3.P7
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1560_Naomi"
 msgid "He contracts out all work to companies run by relatives. There are fourteen of these companies in all, both big and small."
 msgstr "Las empresas que realmente reciben los contratos están dirigidas por los familiares de Katsuura. En total, son catorce, tanto grandes como pequeñas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=8
-#. y4:msg_location=T3.P8
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1572_Tanimura"
 msgid "Hm... Doesn't anybody notice that it's at least a little bit suspicious?"
 msgstr "Ya veo... Pero, ¿por qué no se ha levantado sospecha sobre eso?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=9
-#. y4:msg_location=T3.P9
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1584_Naomi"
 msgid "A little hush money to police and politicians works wonders."
 msgstr "Un pequeño soborno a la policía y a los políticos obra milagros."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=10
-#. y4:msg_location=T3.P10
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1596_Tanimura"
 msgid "But that would take an awful lot of cash."
 msgstr "Pero eso requeriría dineral."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=11
-#. y4:msg_location=T3.P11
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1608_Naomi"
 msgid "That is where the foreign prostitutes come in. Katsuura is extorting money from them like there is no tomorrow."
 msgstr "Ahí es donde entran las prostitutas extranjeras. Katsuura les está extorsionando dinero como si no hubiera un mañana."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=12
-#. y4:msg_location=T3.P12
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1620_Tanimura"
 msgid "You have proof of this?"
 msgstr "¿Tienes pruebas de eso?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=13
-#. y4:msg_location=T3.P13
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1632_Naomi"
 msgid "Finding proof is your job, Detective. But if Katsuura were the sex industry kingpin known as Bridge, it would all start to make sense."
 msgstr "Encontrar pruebas es tu trabajo, Detective. Pero si Katsuura resultara ser el pez gordo de la industria sexual, conocido como Bridge, todo cobraría sentido."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=14
-#. y4:msg_location=T3.P14
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1644_Tanimura"
 msgid "So he's hiding behind a banner of compassion, while secretly exploiting immigrant women."
 msgstr "De modo que, se refugia tras una apariencia de compasión, mientras explota de forma encubierta a mujeres inmigrantes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=15
-#. y4:msg_location=T3.P15
-#. y4:msg_speaker=Saki-chan
-#. y4:msg_speaker_id=16
 msgctxt "1656_Saki-chan"
 msgid "The problem is, how do we get close to Katsuura?"
 msgstr "El problema es, ¿cómo nos acercamos a Katsuura?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=16
-#. y4:msg_location=T3.P16
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1668_Tanimura"
 msgid "I have an idea."
 msgstr "Tengo una idea."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=17
-#. y4:msg_location=T3.P17
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1680_Naomi"
 msgid "Do tell."
 msgstr "Dímela"
@@ -1473,322 +577,126 @@ msgctxt "1692_Tanimura"
 msgid "I'll simply call the Association and tell them I'm coming to see Katsuura. Then－"
 msgstr "Voy a contactar a la asociación y decirles que quiero reunirme con Katsuura. Y entonces－"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=19
-#. y4:msg_location=T3.P19
-#. y4:msg_speaker=Saki-chan
-#. y4:msg_speaker_id=16
 msgctxt "1704_Saki-chan"
 msgid "You'll wait for a hitman to show up and try to stop you? Aren't you putting yourself at an unnecessary risk?"
 msgstr "¿Vas a esperar a que aparezca un asesino e intente detenerte? ¿No te estás arriesgando innecesariamente?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=20
-#. y4:msg_location=T3.P20
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1716_Tanimura"
 msgid "What choice do I have? I need some way to pick up his trail."
 msgstr "¿Qué otra opción tengo? Necesito alguna forma de seguir su rastro."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=21
-#. y4:msg_location=T3.P21
-#. y4:msg_speaker=Saki-chan
-#. y4:msg_speaker_id=16
 msgctxt "1728_Saki-chan"
 msgid "Will you lure the hitman out around here?"
 msgstr "¿Piensa atraer al sicario a estos alrededores?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=22
-#. y4:msg_location=T3.P22
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1740_Tanimura"
 msgid "Too crowded. Their kind only strike when there are few people around. I'll head over to Pink Alley after I call."
 msgstr "Demasiado concurrido. Ellos solo atacan cuando hay poca gente. Iré al Callejón Pink después de la llamada."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=23
-#. y4:msg_location=T3.P23
-#. y4:msg_speaker=Saki-chan
-#. y4:msg_speaker_id=16
 msgctxt "1752_Saki-chan"
 msgid "That's where the attack will take place?"
 msgstr "Si atacan, será ahí mismo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=24
-#. y4:msg_location=T3.P24
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "1764_Tanimura"
 msgid "Yup. Can I count on you for backup?"
 msgstr "Así es. ¿Puedo contar con tu ayuda?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=25
-#. y4:msg_location=T3.P25
-#. y4:msg_speaker=Saki-chan
-#. y4:msg_speaker_id=16
 msgctxt "1776_Saki-chan"
 msgid "Leave it to me!"
 msgstr "¡Yo me encargo!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1800_Naomi"
 msgid "Welcome. What can Naomi's amazing psychic powers do for you today? Wait, you're only here on a whim, aren't you? I can tell just by gazing upon you."
 msgstr "Bienvenido. ¿En qué puedo ayudarle con mi videncia? ...Aunque, puedo notar que vino sin un propósito definido."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=1
-#. y4:msg_location=T4.P1
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1812_Naomi"
 msgid "The Great Naomi does not provide her services to such foolhardy customers. My readings are not cheap, you see."
 msgstr "La Grandiosa Naomi no ofrece sus servicios a clientes tan temerarios. Mis lecturas tienen un alto costo, ¿sabe?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=2
-#. y4:msg_location=T4.P2
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1824_Naomi"
 msgid "Try talking to the sad sack next to me. It might actually be worth your while."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=1
-#. y4:msg_location=T5.P1
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1848_Naomi"
 msgid "Tell me, have you ever heard of Shellac? It's a small bar in the Champion District."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=2
-#. y4:msg_location=T5.P2
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1860_Naomi"
 msgid "A regular there by the name of Aoki has his finger on the pulse of the town. He seems to know what will happen before it actually does."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=3
-#. y4:msg_location=T5.P3
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1872_Naomi"
 msgid "Just between you and me, even I consult him from time to time. Why not go pay him a visit? Remember, it's Shellac in the Champion District."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=4
-#. y4:msg_location=T5.P4
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1884_Naomi"
 msgid "Are you trying to complete all of the substories? The sad sack on the left will give you a wonderful gift each time you complete one."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=5
-#. y4:msg_location=T5.P5
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1896_Naomi"
 msgid "You will be notified by mail each time you complete something. Excited yet?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=6
-#. y4:msg_location=T5.P6
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1908_Naomi"
 msgid "Until about a year ago, I told fortunes on the street under the name X Tiger. Unfortunately, I had only a few customers, as many thought I was \"creepy.\""
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=7
-#. y4:msg_location=T5.P7
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1920_Naomi"
 msgid "I was trying too hard, what with pretending to be the silent mysterious type, specializing in crystal ball scrying and tarot cards."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=8
-#. y4:msg_location=T5.P8
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1932_Naomi"
 msgid "I cannot go into the details, but since money is no longer an issue, I set up shop here and opened up last summer."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=9
-#. y4:msg_location=T5.P9
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1944_Naomi"
 msgid "The mood is much more mysterious here. The best things about this place are its cool summers and warm winters. I still don't get many customers, though."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=10
-#. y4:msg_location=T5.P10
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1956_Naomi"
 msgid "The sad sack next to me is my manservant. No, really, I kid you not."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=11
-#. y4:msg_location=T5.P11
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1968_Naomi"
 msgid "Apparently, he simply cannot get enough of me, but rest assured, he does take part in affairs that don't involve standing next to me and staring creepily."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1980_Player"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=13
-#. y4:msg_location=T5.P13
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "1992_Naomi"
 msgid "Perhaps I should start acting more like a psychic..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=14
-#. y4:msg_location=T5.P14
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "2004_Naomi"
 msgid "You see, people are always asking me things like, \"What should I do?\" Honestly, most of the time I just want to say, \"Just figure it out yourself.\""
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=15
-#. y4:msg_location=T5.P15
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "2016_Naomi"
 msgid "But, being a psychic and all, I have to give some sort of answer. So, I tell them to slow down and reexamine themselves. Understand what that means?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=16
-#. y4:msg_location=T5.P16
-#. y4:msg_speaker=Naomi
-#. y4:msg_speaker_id=0
 msgctxt "2028_Naomi"
 msgid "Oh, I'll just tell you. What I mean is, check the Pause Menu sometimes. If you still don't know what I'm talking about, press the <Action:Button_Options@Adventure> button."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P11
-#. y4:msg_branch_segment=T1.P11..P21
-#. y4:msg_branch_target_text=Man... I hope she gets this right.
-#. y4:msg_branch_raw=01 11 00 0b 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "2040_Naomi"
 msgid "Pay"
 msgstr "Pagar"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P8
-#. y4:msg_branch_segment=T1.P8..P10
-#. y4:msg_branch_target_text=Cut me some slack. I don't have that much.
-#. y4:msg_branch_raw=01 11 00 08 00 00 00 09 00 00 00 00 00 00 00 00
 msgctxt "2052_Naomi"
 msgid "Don't Pay"
 msgstr "No Pagar"

@@ -24,74 +24,36 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_BJ.bin
 #. y4:runtime_play_command=y4.play_msg 01D70001 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
 msgctxt "232"
 msgid "I'll draw a card."
 msgstr "Sacaré una carta."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
 msgctxt "244"
 msgid "I'll stay with this hand."
 msgstr "Me quedaré con esta mano."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
 msgctxt "256"
 msgid "You can double your bet, but you must draw one more card."
 msgstr "Puedes doblar tu apuesta, pero debes pedir una carta más."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
 msgctxt "268"
 msgid "Split your hand in two. The second hand will mirror your current bet."
 msgstr "Divida la mano en dos. La segunda mano reflejará su apuesta actual."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
 msgctxt "280"
 msgid "Folding at this point will return half of your current bet."
 msgstr "Retirarse en este momento le devolverá la mitad de su apuesta actual."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
 msgctxt "292"
 msgid "Set half the bet amount as insurance against the dealer getting a blackjack."
 msgstr "Establezca la mitad de la cantidad de apuesta como seguro contra el crupier si obtiene un blackjack."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
 msgctxt "304"
 msgid "Refer to the bet limit to see how many chips you can bet."
 msgstr "Consulte el límite de apuesta para ver cuántas fichas puede apostar."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
 msgctxt "316"
 msgid "Play by betting the same amount as in the last game."
 msgstr "Juega apostando la misma cantidad que en la última partida."

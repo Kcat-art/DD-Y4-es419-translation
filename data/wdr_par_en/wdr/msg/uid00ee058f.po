@@ -18,83 +18,45 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
 msgctxt "168"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2236"
 msgid "Runaway Girl"
 msgstr "Chica fugitiva"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2240"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2244"
 msgid "Coin Lockers 2"
 msgstr "Casilleros 2"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Runaway Girl
-#. y4:msg_speaker_id=0
 msgctxt "84_Runaway Girl"
 msgid "I'm tired of carryin' around my stuff... I came out here to Kamurocho after fightin' with my dad, so I was thinkin' I could store my stuff here and march out..."
 msgstr "Estoy cansada de cargar con mis cosas... Vine desde muy lejos luego de pelearme con mi padre, y pensaba dejar mis cosas en algún lado para recorrer la ciudad..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Runaway Girl
-#. y4:msg_speaker_id=0
 msgctxt "96_Runaway Girl"
 msgid "But even when I asked the guy who owns this block of lockers if I could use one, he just told me, \"Not happening.\" Guess they weren't lyin' when they said this city is cold as ice."
 msgstr "Pero no pude, incluso hablé con el encargado de los casillero y me respondió con un frío \"No se puede\". Supongo que la gente no mentía cuando decía que la ciudad era muy fría con otros..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Coin Lockers 2
-#. y4:msg_speaker_id=2
 msgctxt "108_Runaway Girl"
 msgid "You can also find coin lockers in the Kamurocho Underground Mall. Just like the lockers on Nakamichi Street, these have also lost their intended purpose. The keys are scattered around town, often underground or on rooftops."
 msgstr "También hay casilleros en el Centro Comercial Subterráneo de Kamurocho, que al igual que los que están al norte de la calle Nakamichi han perdido su función. Las llaves de estos casilleros están repartidas por toda la ciudad en especial en el subterráneo y las azoteas."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Coin Lockers 2
-#. y4:msg_speaker_id=2
 msgctxt "120_Runaway Girl"
 msgid "The locker block owner will be grateful to get these lost keys back and will reward the contents of the locker to whoever finds the key."
 msgstr "El propietario de los casilleros está desesperado por encontrar las llaves. Si lo ayudas encontrando las llaves, podrás quedarte con cualquier cosa que haya en los casilleros."
@@ -106,13 +68,6 @@ msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nR
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Runaway Girl
-#. y4:msg_speaker_id=0
 msgctxt "144_Runaway Girl"
 msgid "That guy with the green 'fro was usin' these here lockers earlier. Maybe he's like one of them vee-eye-pees?"
 msgstr "Ahora que lo pienso, vi a un tipo con afro verde usando los casilleros, ¿acaso será un VIP?"

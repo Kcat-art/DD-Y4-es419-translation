@@ -24,68 +24,40 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_BILLIARDS.bin
 #. y4:runtime_play_command=y4.play_msg 00E603CF <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
+
+
 msgctxt "176"
 msgid "You got an <Color:8>Eye of the Dragon<Color:Default>."
 msgstr "Has obtenido el <Color:8>ojo de Dragón<Color:Default>."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3296"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "3300"
 msgid "Mitsuko"
 msgstr "Mitsuko"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "3304"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "3308"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "3312"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "68_Tanimura"
 msgid "He was planning on celebrating your birthday with you."
 msgstr "El estaba planeando celebrar tu cumpleaños contigo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Mitsuko
-#. y4:msg_speaker_id=1
 msgctxt "80_Mitsuko"
 msgid "I begged him not to get involved with that horrible woman..."
 msgstr "Le rogué que no se involucrara con esa horrible mujer..."
@@ -94,13 +66,6 @@ msgctxt "92_Tanimura"
 msgid "I guess he was going to use the info to write an exposé on the syndicate."
 msgstr "Supongo que iba a usar la información para escribir una denuncia sobre el sindicato."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Mitsuko
-#. y4:msg_speaker_id=1
 msgctxt "104_Mitsuko"
 msgid "What exactly did he find out?"
 msgstr "¿Qué fue exactamente lo que descubrió?"
@@ -109,68 +74,26 @@ msgctxt "116_Tanimura"
 msgid "Details of the syndicate's activities－recruiting Asian women, counterfeiting passports, arranging fake marriages with Japanese men, operating brothels..."
 msgstr "Detalles de las actividades del sindicato - reclutamiento de mujeres asiáticas, falsificación de pasaportes, arreglo de matrimonios falsos con hombres japoneses, operación de burdeles..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Mitsuko
-#. y4:msg_speaker_id=1
 msgctxt "128_Mitsuko"
 msgid "Is that enough to take down the syndicate for good?"
 msgstr "¿Es eso suficiente para acabar con el sindicato para siempre?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "140_Tanimura"
 msgid "I'm not 100 percent sure this would qualify as conclusive evidence, but it could play a big role in exposing their operations, which could eventually lead to bringing them down."
 msgstr "No estoy 100% seguro de que esto califique como evidencia concluyente, pero podría jugar un papel importante en exponer sus operaciones, lo que eventualmente podría llevar a su caída."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Mitsuko
-#. y4:msg_speaker_id=1
 msgctxt "152_Mitsuko"
 msgid "Good."
 msgstr "Perfecto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Mitsuko
-#. y4:msg_speaker_id=1
 msgctxt "164_Mitsuko"
 msgid "Tanimura-san, would you take this for me?"
 msgstr "Tanimura-san, ¿podrías llevarte esto por mí?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Mitsuko
-#. y4:msg_speaker_id=1
 msgctxt "200_Mitsuko"
 msgid "Yabe always wore it as sort of a lucky charm. It hurts too much to keep it now..."
 msgstr "Yabe siempre lo llevaba como una especie de amuleto de la suerte. Me duele demasiado tenerlo ahora..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "212_Tanimura"
 msgid "Okay. Then I'll hold onto it for you."
 msgstr "Está bien. Entonces lo guardaré para ti."
@@ -181,13 +104,6 @@ msgid "And I promise to use this information to get Bridge.\\r\n"
 msgstr "Y te prometo que usaré esta información para atrapar a Bridge.\\r \n"
 "Yabe-san no habrá muerto en vano."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Mitsuko
-#. y4:msg_speaker_id=1
 msgctxt "236_Mitsuko"
 msgid "Thank you..."
 msgstr "Gracias..."

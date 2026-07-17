@@ -17,105 +17,60 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "5004"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "5008"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "5012"
 msgid "Frightened Woman"
 msgstr "Mujer Asustada"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "5016"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "5020"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "5024"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "5028"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "68_Tanimura"
 msgid "I don't see anyone suspicious. Has somebody been following you?"
 msgstr "No veo a nadie sospechoso. ¿Alguien te ha estado siguiendo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Frightened Woman
-#. y4:msg_speaker_id=2
 msgctxt "80_Frightened Woman"
 msgid "Yeah, I feel like somebody's watching me on the way to and from work. I'm sure it's a stalker!"
 msgstr "Sí, siento que alguien me está observando en el camino hacia y\\r\ndesde el trabajo. ¡Estoy segura de que es un acosador!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "92_Tanimura"
 msgid "That's not good... Have you notified the police already?"
 msgstr "Eso no es bueno... ¿Ya has avisado a la policía?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Frightened Woman
-#. y4:msg_speaker_id=2
 msgctxt "104_Frightened Woman"
 msgid "Yes. They put this area on their patrol route, and that did help for a while. But now I can't help but feel like there's a set of eyes on me again..."
 msgstr "Sí. Pusieron esta área en su ruta de patrullaje, y eso ayudó por un tiempo.\\r\nPero ahora no puedo evitar sentir que hay un par de ojos sobre mí de nuevo..."
@@ -126,49 +81,21 @@ msgid "What's more, it isn't from the street this time around.\\r\nI feel like s
 msgstr "Es más, esta vez no es de la calle.\\r\nSiento que alguien me está mirando desde arriba."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "128_Tanimura"
 msgid "What do you mean?"
 msgstr "¿A qué te refieres?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Frightened Woman
-#. y4:msg_speaker_id=2
 msgctxt "140_Frightened Woman"
 msgid "Well, whenever I leave my workplace, I see this mysterious silhouette on the top of that building over there."
 msgstr "Bueno, cada vez que salgo de mi lugar de trabajo, veo esta silueta\\r\nmisteriosa en la parte superior de ese edificio de allí."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Frightened Woman
-#. y4:msg_speaker_id=2
 msgctxt "176_Frightened Woman"
 msgid "And I feel like that shadow is following me from rooftop to rooftop all the way home. At this rate, I can't even leave my own home!"
 msgstr "Y siento que esa sombra me sigue de tejado en tejado todo el camino a casa.\\r\n¡A este ritmo, ni siquiera puedo salir de mi propia casa!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Frightened Woman
-#. y4:msg_speaker_id=2
 msgctxt "188_Frightened Woman"
 msgid "I know it's a lot to ask, but... Do you think you could go inspect the roof of that building while I'm at work?"
 msgstr "Sé que es mucho pedir, pero... ¿Crees que podrías ir a inspeccionar el techo\\r\nde ese edificio mientras estoy en el trabajo?"
@@ -179,85 +106,36 @@ msgid "The roof, huh? That's not exactly a normal patrol route.\\r\nAnd unfortun
 msgstr "El techo, ¿eh? Esa no es exactamente una ruta de patrulla normal.\\r\nY, por desgracia, estamos bastante limitados a lo que podemos\\r\ninvestigar, a menos que haya una orden judicial o algún tipo de prueba."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Frightened Woman
-#. y4:msg_speaker_id=2
 msgctxt "212_Frightened Woman"
 msgid "They said the same thing at the police station... Look, I moved out here from the country not too long ago, and I'm not well adjusted to city life. It's terrifying here."
 msgstr "Dijeron lo mismo en la comisaría... Mira, me mudé aquí desde el campo no hace\\r\nmucho tiempo y no estoy bien adaptada a la vida de la ciudad. Es aterrador aquí."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Frightened Woman
-#. y4:msg_speaker_id=2
 msgctxt "224_Frightened Woman"
 msgid "I'll... I'll even pay you if I have to! Just, please, take a look at the roof of that pachinko parlor building and I'll be out of your hair for good!"
 msgstr "Yo... ¡Incluso te pagaré si tengo que hacerlo! ¡Simplemente, por favor, echa un vistazo\\r\nal tejado de ese edificio de pachinko y te dejaré de hostigar para siempre!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "236_Tanimura"
 msgid "All right. If it worries you that much, then I'll go see what's up."
 msgstr "Muy bien. Si te preocupa tanto, entonces iré a ver qué pasa."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Frightened Woman
-#. y4:msg_speaker_id=2
 msgctxt "248_Frightened Woman"
 msgid "Oh, thank you! Thank you so much! Here, take down my number so you can call me if something comes up. Would that be an issue?"
 msgstr "¡Gracias! ¡Muchas gracias! Toma, anota mi número para que puedas llamarme si surge algo. ¿Sería eso un problema?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "260_Tanimura"
 msgid "Not at all. Hopefully it's nothing."
 msgstr "No en absoluto. Esperemos que no sea nada."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "320_Tanimura"
 msgid "(So, the roof of the pachinko parlor building on Theater Alley and West Taihei Boulevard...)"
 msgstr "(Entonces, el techo del edificio del salón de pachinko está en el Callejón del Teatro\\r\ny el Bulevar Taihei Oeste...)"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "332_Tanimura"
 msgid "(I remember there being rooftop access from the multi-tenant buildings on both Theater Avenue and Tenkaichi Street.)"
 msgstr "(Recuerdo que había acceso a la azotea desde los edificios de varios inquilinos tanto en Avenida del Teatro como en Calle Tenkaichi)."

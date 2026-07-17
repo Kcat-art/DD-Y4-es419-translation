@@ -24,49 +24,28 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00090111 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "552"
 msgid "Curious Man"
 msgstr "Hombre curioso"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "556"
 msgid "Indifferent Man"
 msgstr "Hombre indiferente"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Curious Man
-#. y4:msg_speaker_id=0
 msgctxt "84_Curious Man"
 msgid "Isn't he the one who's always causing trouble?"
 msgstr "¿No es él el que siempre está causando problemas?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Curious Man
-#. y4:msg_speaker_id=0
 msgctxt "96_Curious Man"
 msgid "He went into the alley with Natsuki... Wonder what that's about."
 msgstr "Se metió en el callejón con Natsuki... Me pregunto de qué."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Indifferent Man
-#. y4:msg_speaker_id=1
 msgctxt "108_Indifferent Man"
 msgid "How should I know?"
 msgstr "¿Cómo puedo saberlo?"

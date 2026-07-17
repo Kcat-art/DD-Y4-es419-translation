@@ -16,123 +16,58 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 0002057E <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3296"
 msgid "Hamazaki"
 msgstr "Hamazaki"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "3300"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "3304"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "3308"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Not quite yet. -> T0.P1 | 2. Yeah, let's do it. -> T0.P3
 msgctxt "116_Hamazaki"
 msgid "It's go time, Kiryu-san. You ready?"
 msgstr "Es hora de irse, Kiryu-san. ¿Estás listo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Not quite yet.
 msgctxt "128_Kiryu"
 msgid "Not quite yet. Just need to do a few things first."
 msgstr "Aún no. Necesito hacer un par de cosas primero."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Not quite yet.
 msgctxt "140_Hamazaki"
 msgid "All right, but make it snappy."
 msgstr "Está bien, pero que sea rápido."
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P7
-#. y4:msg_branch_target_text=Yeah, let's do it.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "152_Kiryu"
 msgid "Yeah, let's do it."
 msgstr "Sí, hagámoslo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=0
 msgctxt "212_Hamazaki"
 msgid "Guess I'm gonna head down to the station now. Turn myself in."
 msgstr "Supongo que ahora iré a la comisaría. Me entregaré."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "224_Kiryu"
 msgid "Already?"
 msgstr "¿Ya?"
@@ -144,25 +79,11 @@ msgid "Sooner the better, I figure. Anyway... I'll be seeing you,\\r\nKiryu-san.
 msgstr "Cuanto antes mejor, eso creo... Nos vemos,\\r\nKiryu-san"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "248_Kiryu"
 msgid "Hold on. Do you even know where the police station is?"
 msgstr "Espera. ¿Sabes dónde queda la comisaría?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=0
 msgctxt "260_Hamazaki"
 msgid "I'm an adult, I got eyes. I'll find it."
 msgstr "Soy un adulto, y tengo ojos. Lo encontraré."
@@ -174,49 +95,28 @@ msgid "I'm coming with you, Hamazaki. We might have had our\\r\ndifferences, but
 msgstr "Voy contigo, Hamazaki. Tenemos nuestras\\r\ndiferencias, pero al menos mereces una buena despedida después\\r\nde lo que hemos pasado juntos..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=0
 msgctxt "284_Hamazaki"
 msgid "Heh. Suit yourself."
 msgstr "Heh. Como quieras."
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P2
-#. y4:msg_branch_target_text=Not quite yet. Just need to do a few things first.
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "308_Hamazaki"
 msgid "Not quite yet."
 msgstr "Todavía no."
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P3
-#. y4:msg_branch_segment=T0.P3..P7
-#. y4:msg_branch_target_text=Yeah, let's do it.
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 12 00 00 00 00 00 00 00 00
 msgctxt "320_Hamazaki"
 msgid "Yeah, let's do it."
 msgstr "Sí, hagámoslo."

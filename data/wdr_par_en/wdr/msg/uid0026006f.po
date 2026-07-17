@@ -16,163 +16,97 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 0026006F <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3172"
 msgid "Eyewitness"
 msgstr "Testigo"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "3176"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "3180"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "3184"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "3188"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "3192"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "3196"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "3200"
 msgid "Talk_Info_L"
 msgstr "Talk_Info_L"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "3204"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "3208"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "3212"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "3216"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "3220"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "3224"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Eyewitness
-#. y4:msg_speaker_id=0
 msgctxt "84_Eyewitness"
 msgid "Well, that can't be good... Better pretend I didn't see it."
 msgstr "Esto no es bueno... Mejor hago como que no vi nada..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "96_Kiryu"
 msgid "Hey, mind if I ask you a few questions?"
 msgstr "Disculpe, ¿le importaría si le hago algunas preguntas?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Eyewitness
-#. y4:msg_speaker_id=0
 msgctxt "108_Eyewitness"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Eyewitness
-#. y4:msg_speaker_id=0
 msgctxt "120_Eyewitness"
 msgid "(Aw man, what's a yakuza doing talking to me? Is he gonna beat me into a pulp? Steal my wallet? Or worse!?)"
 msgstr "(¡¿Un yakuza...?! ¡Mierda, de verdad existen...! ¿me va a dar una paliza? ¿Me robará la billetera? ¡¿O algo peor aún?!)"
@@ -183,49 +117,21 @@ msgid "Did you see a lady pass through here? She would have been a\\r\nforeigner
 msgstr "¿Vio pasar a una mujer asiática por aquí? Probablemente iba\\r\ncon mucha prisa."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Eyewitness
-#. y4:msg_speaker_id=0
 msgctxt "144_Eyewitness"
 msgid "Oh, er... yeah, actually, I did."
 msgstr "Oh, este... sí, de hecho, sí la vi..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "156_Kiryu"
 msgid "Really? Where'd she go?"
 msgstr "¿De verdad? ¿En qué dirección fue?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Eyewitness
-#. y4:msg_speaker_id=0
 msgctxt "168_Eyewitness"
 msgid "Down into the underground area, but..."
 msgstr "Bajó al subterráneo, pero..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "180_Kiryu"
 msgid "But what?"
 msgstr "¿Qué?"
@@ -236,61 +142,26 @@ msgid "There were some pretty mean-looking dudes that ran down\\r\nthere after h
 msgstr "Había unos sujetos de aspecto amenazante que corrieron\\r\ntras ella."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "204_Kiryu"
 msgid "She had guys chasing her, huh?"
 msgstr "Así que la estaban persiguiendo unos tipos, ¿eh?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Eyewitness
-#. y4:msg_speaker_id=0
 msgctxt "216_Eyewitness"
 msgid "(Yeah, your buddies! Ugh, why'd I say yes when he asked me if I saw her? Does this make me an accessory to the crime or something?)"
 msgstr "(Sí... ¡Este tipo claramente es uno de ellos! Maldita sea, me metí en un lío... ¿Esto me convertirá en cómplice del crimen o algo?)"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "228_Kiryu"
 msgid "Thanks. I appreciate it."
 msgstr "Gracias. Te lo agradezco."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Eyewitness
-#. y4:msg_speaker_id=0
 msgctxt "240_Eyewitness"
 msgid "Yeah... No problem, haha..."
 msgstr "Sí... No hay problema, ja, ja..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "252_Kiryu"
 msgid "(Sounds like I need to get underground, ASAP!)"
 msgstr "(¡Será mejor que me apresure al subterráneo!)"

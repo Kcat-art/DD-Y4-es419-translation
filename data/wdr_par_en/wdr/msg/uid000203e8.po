@@ -16,59 +16,37 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 000203E8 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2704"
 msgid "Nakano"
 msgstr "Nakano"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2708"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2712"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2716"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Nakano
-#. y4:msg_speaker_id=0
 msgctxt "72_Nakano"
 msgid "Still looking for the Florist?"
 msgstr "¿Sigues buscando al Florista?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Nakano
-#. y4:msg_speaker_id=0
 msgctxt "84_Nakano"
 msgid "I heard his hideout's through the bathroom at West Park."
 msgstr "Escuché que al fondo del Parque Oeste\\r\npuedes llegar al Florista."
@@ -79,13 +57,6 @@ msgid "You're searching for the city's biggest info dealer－\\r\nthe Florist, r
 msgstr "¿Estás buscando al legendario informante?\\r\n¿El Florista de Sai, verdad?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "108_Saejima"
 msgid "If that's his name."
 msgstr "¿Ese es su nombre?"
@@ -96,13 +67,6 @@ msgid "That's what his clients call him, anyway. It's because\\r\nthe info he se
 msgstr "Bueno, es más como un apodo.\\r\nLa historia es que entregaba información a sus clientes junto con flores."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "132_Saejima"
 msgid "Sounds real romantic. So how's a guy meet this Florist?"
 msgstr "Entonces, ¿cómo puedo encontrarme con ese tal florista?\\r\n¿Dónde está?"
@@ -118,37 +82,16 @@ msgid "Seems like every time a major crisis hits the city,\\r\nhe uproots his he
 msgstr "Se dice que ha estado cambiando de lugar\\r\npara evitar problemas."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "168_Saejima"
 msgid "Any idea where he's planted himself now?"
 msgstr "Entonces, ¿no sabes dónde está ahora?\\r\n¿No hay ninguna pista de su paradero?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Nakano
-#. y4:msg_speaker_id=0
 msgctxt "180_Nakano"
 msgid "Don't know for sure, but there is a rumor going around."
 msgstr "Bueno, se me ocurre un lugar."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "192_Saejima"
 msgid "I'm listenin'."
 msgstr "¿Cuál?"
@@ -159,37 +102,16 @@ msgid "I heard you can get to his hideout through the back\\r\nof the public res
 msgstr "En los baños del Parque Oeste. Escuché que por\\r\nallí puedes llegar al Florista."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "216_Saejima"
 msgid "Ya mean the john at the north end of town?"
 msgstr "¿El Parque Oeste... al norte de Kamurocho, verdad?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Nakano
-#. y4:msg_speaker_id=0
 msgctxt "228_Nakano"
 msgid "That's the one. I'd start there at West Park if I were you."
 msgstr "Ese mismo. Si fuera tú, empezaría por allí."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "240_Saejima"
 msgid "Alright, thanks."
 msgstr "Muy bien, gracias."

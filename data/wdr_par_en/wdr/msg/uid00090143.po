@@ -24,82 +24,40 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00090143 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1328"
 msgid "Older Businessman"
 msgstr "Empresario veterano"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1332"
 msgid "Younger Businessman"
 msgstr "Empresario joven"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Older Businessman
-#. y4:msg_speaker_id=0
 msgctxt "84_Older Businessman"
 msgid "The Champion District... Boy, this place never changes."
 msgstr "El Distrito Champion... Este sitio nunca cambia."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Younger Businessman
-#. y4:msg_speaker_id=1
 msgctxt "96_Younger Businessman"
 msgid "Sir? Is everything okay?"
 msgstr "¿Señor, está todo bien?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Older Businessman
-#. y4:msg_speaker_id=0
 msgctxt "108_Older Businessman"
 msgid "Oh, it's more than okay. Change of plans, though. We're gonna be drinking here tonight."
 msgstr "Ah, sí, no pasa nada. Por cierto cambio de planes, está noche beberemos aquí."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Younger Businessman
-#. y4:msg_speaker_id=1
 msgctxt "120_Younger Businessman"
 msgid "Um, okay. But I should warn you, I don't know the first thing about the bars around here. Those okama joints sort of intimidate me."
 msgstr "Um, bueno. Pero le advierto, no conozco ni uno de los bares de por aquí. Esos lugares de okamas me dan cosa."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Older Businessman
-#. y4:msg_speaker_id=0
 msgctxt "132_Older Businessman"
 msgid "Hahaha, I feel that! But lots of actors, celebrities, and writers got their start right here in the Champion District."
 msgstr "¡Ja, ja, ja, te entiendo! Pero muchos actores, celebridades y hasta guionistas empezaron justo aquí en el Distrito Champion."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Older Businessman
-#. y4:msg_speaker_id=0
 msgctxt "144_Older Businessman"
 msgid "This'll be a new experience for you. I'll even show you one of my favorite spots from way back."
 msgstr "Será una nueva experiencia para ti, hasta te enseñaré un lugar al que iba mucho cuando era joven."

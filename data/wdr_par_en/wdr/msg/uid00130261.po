@@ -24,78 +24,40 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00130261 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "904"
 msgid "Kamurocho Guard Member"
 msgstr ""
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "908"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "912"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Kamurocho Guard Member
-#. y4:msg_speaker_id=0
 msgctxt "56_Kamurocho Guard Member"
 msgid "Argh..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "68_Tanimura"
 msgid "Hey! Hang in there! Who did this to you?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Kamurocho Guard Member
-#. y4:msg_speaker_id=0
 msgctxt "80_Kamurocho Guard Member"
 msgid "Tanimura-san... I'm glad you're here. Someone just jumped me from behind. I didn't get a good look at him."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "92_Tanimura"
 msgid "This is bad! Your other volunteers are in danger!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Kamurocho Guard Member
-#. y4:msg_speaker_id=0
 msgctxt "104_Kamurocho Guard Member"
 msgid "I'll be okay. Please, go help the others."
 msgstr ""

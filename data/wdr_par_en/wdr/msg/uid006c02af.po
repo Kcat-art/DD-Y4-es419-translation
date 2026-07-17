@@ -24,45 +24,26 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_GOLF.bin
 #. y4:runtime_play_command=y4.play_msg 006C02AF <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "5172"
 msgid "Himeka"
 msgstr "Himeka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "5176"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "5180"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=0
 msgctxt "168_Himeka"
 msgid "Wow! We won!"
 msgstr "¡Guau! ¡Ganamos!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=0
 msgctxt "180_Himeka"
 msgid "Tanimura-san, it's so cool that you're so good at golf!"
 msgstr "¡Tanimura-san, es genial que sea tan bueno en el golf!"
@@ -71,24 +52,10 @@ msgctxt "192_Himeka"
 msgid "Ask me out again, okay? We'll win it all next time! <Color:255,200,200,255>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=0
 msgctxt "252_Himeka"
 msgid "Yay! We won a prize!"
 msgstr "¡Viva! ¡Ganamos un premio!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=0
 msgctxt "264_Himeka"
 msgid "Next time, we've definitely gotta win the whole thing!"
 msgstr ""
@@ -101,24 +68,10 @@ msgctxt "336_Himeka"
 msgid "That was fun! ♪ Call me again soon, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡Eso fue divertido! ♪ Vuelva a llamarme pronto, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=0
 msgctxt "396_Himeka"
 msgid "Geez... You're way too good at this, Tanimura-san!"
 msgstr "Uf... ¡Usted es muy bueno en esto, Tanimura-san!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=0
 msgctxt "408_Himeka"
 msgid "I'm gonna beat you next time!"
 msgstr "¡La próxima vez te voy a ganar!"
@@ -127,24 +80,10 @@ msgctxt "420_Himeka"
 msgid "Ask me out again sometime, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "Invíteme a salir de nuevo algún día, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=0
 msgctxt "480_Himeka"
 msgid "Wow, a tie... That was a really good game!"
 msgstr "Vaya, un empate... ¡Ese fue un muy buen juego!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=1
-#. y4:msg_location=T4.P1
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=0
 msgctxt "492_Himeka"
 msgid "I'll beat you next time!"
 msgstr ""
@@ -153,13 +92,6 @@ msgctxt "504_Himeka"
 msgid "Ask me out again sometime, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "Invíteme a salir de nuevo algún día, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=0
 msgctxt "564_Himeka"
 msgid "I won! Guess I'm not that bad at golf, huh?"
 msgstr ""

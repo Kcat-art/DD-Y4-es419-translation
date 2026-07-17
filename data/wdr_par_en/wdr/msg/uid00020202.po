@@ -16,110 +16,56 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00020202 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1680"
 msgid "Woman"
 msgstr "Mujer"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1684"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "1688"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=0
 msgctxt "68_Woman"
 msgid "I just saw some men who looked like yakuza over in Theater Square!"
 msgstr "¡Acabo de ver a unos hombres que parecían yakuzas en la Plaza del Teatro!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=0
 msgctxt "80_Woman"
 msgid "They were humongous! Nobody in their right mind would go anywhere near those brutes."
 msgstr "¡Eran enormes! Nadie en su sano juicio se acercaría a esos tipos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=2
 msgctxt "92_Akiyama"
 msgid "Sorry to bother you, miss, but have you seen anyone who looks like yakuza around here lately? It would've been a group of them."
 msgstr "Disculpe, lamento molestarla, pero ¿ha visto yakuzas por aquí? Varios de ellos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=0
 msgctxt "104_Woman"
 msgid "Yakuza? As a matter of fact, I just saw some men like that over in Theater Square!"
 msgstr "¿Yakuzas? ¡Acabo de ver a algunos hombres así en la Plaza del Teatro!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=0
 msgctxt "116_Woman"
 msgid "They were humongous! Nobody in their right mind would go anywhere near those brutes."
 msgstr "¡Eran enormes! Nadie en su sano juicio se acercaría a esos tipos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=2
 msgctxt "128_Akiyama"
 msgid "Huh. Guess I'm not in my right mind, then. Anyway, thanks."
 msgstr "Supongo que no estoy en mi sano juicio. De todos modos, gracias."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=0
 msgctxt "140_Woman"
 msgid "Please be careful!"
 msgstr "¡Por favor, tenga cuidado!"

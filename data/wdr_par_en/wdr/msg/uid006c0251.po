@@ -24,172 +24,84 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 006C0251 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=19
-#. y4:msg_location=T1.P19
+
+
 msgctxt "524"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=19
-#. y4:msg_location=T1.P19
 msgctxt "1016"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "13248"
 msgid "松岡里緒奈：源氏名"
 msgstr "松岡里緒奈：源氏名"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "13252"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "13256"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "13260"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "13264"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "13268"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "13272"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "116_松岡里緒奈：源氏名"
 msgid "I'm not going down without a fight!"
 msgstr "¡No caeré sin dar pelea!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
 msgctxt "128_松岡里緒奈：源氏名"
 msgid "C'mon, let's go in."
 msgstr "Vamos, entremos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "140_Player"
 msgid "All right."
 msgstr "Está bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "164_松岡里緒奈：源氏名"
 msgid "I'm not going down without a fight!"
 msgstr "¡No caeré sin dar pelea!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
 msgctxt "176_松岡里緒奈：源氏名"
 msgid "C'mon, let's go in."
 msgstr "Vamos, entremos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "188_Player"
 msgid "Hold on a sec. I just realized that I'm short on cash."
 msgstr "Espera un segundo. Me acabo de dar cuenta de que estoy corto de efectivo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "200_松岡里緒奈：源氏名"
 msgid "Huh? You serious?"
 msgstr "¿Eh? ¿Hablas en serio?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "212_Player"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "224_松岡里緒奈：源氏名"
 msgid "Ugh! That's no fun... See you later, %s-san."
 msgstr "¡Ugh! Eso no es divertido... Nos vemos luego, %s-san."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "236_Player"
 msgid "(I should've made sure I had enough money...)"
 msgstr "(Debí de asegurarme de haber tenido dinero suficiente...)."
@@ -198,229 +110,86 @@ msgctxt "344_松岡里緒奈：源氏名"
 msgid "Aw, you beat me. I didn't know you were so good at pool. <Color:7>♥<Color:Default>"
 msgstr "Ay, me ganaste. No sabía que eras buenisimo en el billar. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "356_Player"
 msgid "I got a couple of good shots in."
 msgstr "Metí un par de buenos tiros."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "368_松岡里緒奈：源氏名"
 msgid "I had a lot of fun, and I love moving my body, too!"
 msgstr "¡Me divertí mucho y también me encanta mover mi cuerpo!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "380_松岡里緒奈：源氏名"
 msgid "Okay, let's head off to the club!"
 msgstr "Está bien, ¡vamos al club!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "404_松岡里緒奈：源氏名"
 msgid "Aw, a tie... I really wanted to win, too."
 msgstr "Aww, un empate... Yo también tenía muchas ganas de ganar."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "416_Player"
 msgid "That's too bad."
 msgstr "Eso es... una pena."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "428_松岡里緒奈：源氏名"
 msgid "Well, I had a lot of fun, and I love moving my body, too!"
 msgstr "Bueno,¡Me divertí mucho y también me encanta mover mi cuerpo!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "440_松岡里緒奈：源氏名"
 msgid "Okay, let's head off to the club!"
 msgstr "Está bien, ¡vamos al club!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "464_松岡里緒奈：源氏名"
 msgid "Hehe. Looks like I beat you, %s-san."
 msgstr "Jeje. Parece que te gané, %s-San."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "476_Player"
 msgid "You sure did."
 msgstr "Claro que sí."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "488_松岡里緒奈：源氏名"
 msgid "Well, I had a lot of fun, and I love moving my body, too!"
 msgstr "Bueno,¡Me divertí mucho y también me encanta mover mi cuerpo!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "500_松岡里緒奈：源氏名"
 msgid "Okay, let's head off to the club!"
 msgstr "Está bien, ¡vamos al club!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "608_松岡里緒奈：源氏名"
 msgid "I'm not going down without a fight!"
 msgstr "¡No caeré sin dar pelea!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
 msgctxt "620_松岡里緒奈：源氏名"
 msgid "C'mon, let's go in."
 msgstr "Vamos, entremos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "632_Player"
 msgid "All right."
 msgstr "Está bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "656_松岡里緒奈：源氏名"
 msgid "I'm not going down without a fight!"
 msgstr "¡No caeré sin dar pelea!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
 msgctxt "668_松岡里緒奈：源氏名"
 msgid "C'mon, let's go in."
 msgstr "Vamos, entremos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "680_Player"
 msgid "Hold on a sec. I just realized that I'm short on cash."
 msgstr "Espera un segundo. Me acabo de dar cuenta de que estoy corto de efectivo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "692_松岡里緒奈：源氏名"
 msgid "Huh? You serious?"
 msgstr "¿Eh? ¿Hablas en serio?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "704_Player"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "716_松岡里緒奈：源氏名"
 msgid "Ugh! That's no fun... See you later, %s-san."
 msgstr "¡Ugh! Eso no es divertido... Nos vemos luego, %s-san."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "728_Player"
 msgid "(I should've made sure I had enough money...)"
 msgstr "(Debí de asegurarme de haber tenido dinero suficiente...)."
@@ -429,123 +198,46 @@ msgctxt "836_松岡里緒奈：源氏名"
 msgid "Aw, you beat me. I didn't know you were so good at pool. <Color:7>♥<Color:Default>"
 msgstr "Ay, me ganaste. No sabía que eras buenisimo en el billar. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "848_Player"
 msgid "I got a couple of good shots in."
 msgstr "Metí un par de buenos tiros."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=6
-#. y4:msg_location=T3.P6
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "860_松岡里緒奈：源氏名"
 msgid "That was a lot of fun. Want to head over to the club now?"
 msgstr "Fue muy divertido. ¿Quieres ir al club ahora?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=7
-#. y4:msg_location=T3.P7
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "872_Player"
 msgid "Sure. Sounds good."
 msgstr "Claro. Suena bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "896_松岡里緒奈：源氏名"
 msgid "Aw, a tie... I really wanted to win, too."
 msgstr "Aww, un empate... Yo también tenía muchas ganas de ganar."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "908_Player"
 msgid "That's too bad."
 msgstr "Eso es... una pena."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=6
-#. y4:msg_location=T3.P6
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "920_松岡里緒奈：源氏名"
 msgid "That was a lot of fun. Want to head over to the club now?"
 msgstr "Fue muy divertido. ¿Quieres ir al club ahora?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=7
-#. y4:msg_location=T3.P7
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "932_Player"
 msgid "Sure. Sounds good."
 msgstr "Claro. Suena bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "956_松岡里緒奈：源氏名"
 msgid "Hehe. Looks like I beat you, %s-san."
 msgstr "Jeje. Parece que te gané, %s-San."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "968_Player"
 msgid "You sure did."
 msgstr "Claro que sí."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=6
-#. y4:msg_location=T3.P6
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "980_松岡里緒奈：源氏名"
 msgid "That was a lot of fun. Want to head over to the club now?"
 msgstr "Fue muy divertido. ¿Quieres ir al club ahora?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=7
-#. y4:msg_location=T3.P7
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "992_Player"
 msgid "Sure. Sounds good."
 msgstr "Claro. Suena bien."

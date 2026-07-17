@@ -24,106 +24,68 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00830224 <group>
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=32
-#. y4:msg_location=T1.P32
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
+
+
 msgctxt "512"
 msgid "You exchanged the <Color:8>Stomach Medicine<Color:Default> for the <Color:8>Stylish Ballpoint Pen<Color:Default>."
 msgstr "Intercambiaste <Color:8>Medicina Estomacal<Color:Default> por el <Color:8>Bolígrafo Elegante<Color:Default>."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "6904"
 msgid "Writhing Man"
 msgstr ""
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "6908"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "6912"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "6916"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "6920"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "6924"
 msgid "Idle"
 msgstr "Idle"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "6928"
 msgid "Composed Man"
 msgstr "Hombre calmado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "6932"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "6936"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "6940"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
+#. y4:msg_role=name
+#. y4:msg_name_id=10
 msgctxt "6944"
 msgid "Yoshio Iketeru"
 msgstr "Yoshio Iketeru"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "6948"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "6952"
 msgid "0"
 msgstr "0"
@@ -133,15 +95,6 @@ msgid "Oh, no, no, no, no! I can't hold it. My poor designer suit.\\r\n"
 "The cleaning bills alone!"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "152_Akiyama"
 msgid "Hey there. Everything all right?"
 msgstr ""
@@ -152,54 +105,18 @@ msgid "Urgh. Ooh. I know there's a one-in-a-million chance of this,\\r\n"
 "please say yes..."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "188_Writhing Man"
 msgid "No, I don't. I'm sorry."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Writhing Man
-#. y4:msg_speaker_id=0
 msgctxt "200_Writhing Man"
 msgid "Oh, I... Okay..."
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "212_Writhing Man"
 msgid "Oh, you know what? I do!"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Writhing Man
-#. y4:msg_speaker_id=0
 msgctxt "224_Writhing Man"
 msgid "Are you serious!? Oh, thank goodness! Please, can I have it?"
 msgstr ""
@@ -209,22 +126,14 @@ msgid "I feel bad saying it, but I'm afraid I can't let you have it\\r\n"
 "for free. Sorry."
 msgstr ""
 
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=0
 msgctxt "248_Writhing Man"
 msgid "I'll pay! Oh, I'll pay! Before it's too late... Please!\\r\n"
 "Quickly! Help, help, help!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Never Mind
 msgctxt "260_Akiyama"
 msgid "I really am sorry."
 msgstr "De verdad que lo siento."
@@ -234,32 +143,10 @@ msgid "Oh, god. I told you I'd pay, didn't I? I'm at the end of my\\r\n"
 "rope here!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Never Mind
 msgctxt "284_Akiyama"
 msgid "(I feel bad for the guy, but there might be a better trade out there with my name on it.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "296_Akiyama"
 msgid "All right, fine. Take this, then."
 msgstr ""
@@ -273,17 +160,6 @@ msgid "Sorry you had to see me like that. It wasn't pretty. I mean,\\r\n"
 "talk about catching a man at his worst! Heheheh."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=22
-#. y4:msg_location=T1.P22
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "392_Akiyama"
 msgid "No problem..."
 msgstr ""
@@ -298,17 +174,6 @@ msgid "It's a little on the small side. I pray you won't take\\r\n"
 "offense."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=25
-#. y4:msg_location=T1.P25
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "428_Akiyama"
 msgid "Er, do you have anything besides money? Anything will do."
 msgstr ""
@@ -329,17 +194,6 @@ msgid "Oh, I know. Would this do the trick? This is a ballpoint pen\\r\n"
 "helped design."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=29
-#. y4:msg_location=T1.P29
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "476_Akiyama"
 msgid "A pen...?"
 msgstr ""
@@ -349,81 +203,34 @@ msgid "Geez, don't get so excited... This is all I have. Well,\\r\n"
 "this, and money."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=31
-#. y4:msg_location=T1.P31
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "500_Akiyama"
 msgid "Hmm. All right, I'll take it. Thanks."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=34
-#. y4:msg_location=T1.P34
-#. y4:msg_speaker=Yoshio Iketeru
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "536_Yoshio Iketeru"
 msgid "Can you be any less enthusiastic?"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=35
-#. y4:msg_location=T1.P35
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "548_Akiyama"
 msgid "Oh, no, this is great. See you around."
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P14
-#. y4:msg_branch_segment=T1.P14..P38
-#. y4:msg_branch_target_text=All right, fine. Take this, then.
-#. y4:msg_branch_raw=01 11 00 0e 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "596_Writhing Man"
 msgid "Give It to Him"
 msgstr "Dársela"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P11
-#. y4:msg_branch_segment=T1.P11..P13
-#. y4:msg_branch_target_text=I really am sorry.
-#. y4:msg_branch_raw=01 11 00 0b 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "608_Writhing Man"
 msgid "Never Mind"
 msgstr "No importa"

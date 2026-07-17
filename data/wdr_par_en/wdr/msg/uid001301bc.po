@@ -24,47 +24,26 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 001301BC <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
+
+
 msgctxt "124"
 msgid "You got <Color:8>18,000 yen<Color:Default>."
 msgstr "Obtuviste <Color:8>18 000 yenes<Color:Default>."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1368"
 msgid "Owner"
 msgstr "Propietario"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1372"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Owner
-#. y4:msg_speaker_id=0
 msgctxt "88_Owner"
 msgid "Thank you very much!"
 msgstr "¡Muchísimas gracias!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Owner
-#. y4:msg_speaker_id=0
 msgctxt "100_Owner"
 msgid "Thank you very much!"
 msgstr "¡Muchísimas gracias!"

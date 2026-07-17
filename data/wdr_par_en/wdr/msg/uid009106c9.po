@@ -24,116 +24,74 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 009106C9 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=34
-#. y4:msg_location=T0.P34
+
+
 msgctxt "480"
 msgid "You got an <Color:8>Eye of the Dragon<Color:Default>."
 msgstr "Has obtenido el <Color:8>ojo de Dragón<Color:Default>."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "15340"
 msgid "Reign"
 msgstr "Reinado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "15344"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "15348"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "15352"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "15356"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "15360"
 msgid "Akaishi"
 msgstr "Akaishi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "15364"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "15368"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "15372"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "15376"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "15380"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "15384"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "15388"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "15392"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "15396"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
@@ -142,35 +100,14 @@ msgctxt "72_Reign"
 msgid "How could this be!? You're impossibly strong. What kind of training did you－"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "84_Kiryu"
 msgid "Nothing I'd really call training. Although life itself can be a training of sorts."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "96_Reign"
 msgid "Your logic baffles me. It's inconceivable!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "108_Kiryu"
 msgid "Look, Reign. In one way or another, life experiences make everyone grow stronger."
 msgstr ""
@@ -179,640 +116,234 @@ msgctxt "120_Kiryu"
 msgid "A group like you're trying to organize, where you claim to have been chosen to rule－it denies the human potential within us all."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "132_Kiryu"
 msgid "Sure, it might start out all right, but soon enough the power will corrupt you and you'll drift away from your ideals."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "144_Reign"
 msgid "I disagree. You only get away with saying that because you're Japanese and because you're strong."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "156_Reign"
 msgid "But there's no denying that you've beat me. I have no choice now but to leave."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "168_Reign"
 msgid "I'm going to disband the Slumdogs."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "180_Reign"
 msgid "However, my ambition will never waver. Someday, I'll form my ideal group right here in Kamurocho."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "192_Reign"
 msgid "Until then..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "252_Akaishi"
 msgid "Hmm... A new syndicate wanting to rule Kamurocho?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "264_Kiryu"
 msgid "Yeah. Seems like that's what Reign was going for."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "276_Akaishi"
 msgid "On some level, I can't help but share his opinion."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "288_Kiryu"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "300_Akaishi"
 msgid "I mean, it's not like I completely agree with him or anything."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "312_Akaishi"
 msgid "But like him, I formed the Kamurocho Guard after realizing my own powerlessness and the need to bring people together in a group."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "324_Akaishi"
 msgid "We may have different ways of seeing things, but he's right that you won't get anywhere in this city alone."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "336_Akaishi"
 msgid "In that sense, there's no denying there's truth in what he said."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "348_Kiryu"
 msgid "I see..."
 msgstr "Ya veo..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "360_Akaishi"
 msgid "And to be honest, Kiryu-san, I was waiting to see what would happen if you two fought."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "372_Kiryu"
 msgid "Why's that?"
 msgstr "¿Por qué?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "384_Akaishi"
 msgid "It seems that most people end up seeing things differently after fighting you."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "396_Akaishi"
 msgid "I was hoping that Reign might have a better opinion of Japanese people after meeting you."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "408_Akaishi"
 msgid "Perhaps he just learned not to underestimate us? I suppose that's a valuable lesson as well."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=29
-#. y4:msg_location=T0.P29
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "420_Akaishi"
 msgid "Hopefully, we'll be able to work together with them in the future to keep trouble out of Kamurocho."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=30
-#. y4:msg_location=T0.P30
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "432_Akaishi"
 msgid "Reign may not have thought that way before, but I get the sense that he's seen the light. I'll try and get in touch with him sometime."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=31
-#. y4:msg_location=T0.P31
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "444_Kiryu"
 msgid "...I see."
 msgstr "...Ya veo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=32
-#. y4:msg_location=T0.P32
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "456_Akaishi"
 msgid "Just be careful of the other Slumdogs that don't share Reign's ideals. They may still be causing trouble somewhere in town."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "468_Akaishi"
 msgid "This is my thanks to you."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=36
-#. y4:msg_location=T0.P36
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=5
 msgctxt "504_Akaishi"
 msgid "We appreciate all your help."
 msgstr "Estamos realmente agradecidos con tu ayuda."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "564_Kiryu"
 msgid "So, you're Reign?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "576_Reign"
 msgid "Yeah, that's right. And you're the Fourth Chairman of the Tojo Clan and former champion of the Underground Coliseum."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "588_Reign"
 msgid "And now, you provide assistance to the Kamurocho Guard, becoming the central figure uniting all these gangs on your trail."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "600_Kiryu"
 msgid "So what's your story?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "612_Reign"
 msgid "You could say I'm an organizer of Kamurocho's disenfranchised expatriates."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "624_Reign"
 msgid "I'll mention this just so there are no misunderstandings. I'm not a member of any foreign mafia."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "636_Kiryu"
 msgid "But you do seem to know a lot. Where'd you get all that information?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "648_Reign"
 msgid "I heard about you being the champion from other fighters while I was competing at the Coliseum."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "660_Reign"
 msgid "Of course, when I was there, you had already long since become the stuff of legend."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "672_Kiryu"
 msgid "And someone as well-informed as you just happens to be not only a foreigner, but a gang leader? What are you after, anyway?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "684_Reign"
 msgid "To most foreigners, this town is just a short stop in their lives. Earn as much as they can, have some fun... Who knows what tomorrow may bring?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "696_Reign"
 msgid "I'm gathering them together so we can build a new place we can call our own."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "708_Reign"
 msgid "Even small time crooks can become a powerful force if they stick together. That's what organized crime is all about."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "720_Reign"
 msgid "Imagine that. Forming a group consisting of nothing but foreigners. Just think of the possibilities."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "732_Kiryu"
 msgid "You'd become the dominant syndicate."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "744_Reign"
 msgid "Indeed. You can see why yakuza are frightened of what would happen if we banded together. They've posed an obstacle to us in the past."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=16
-#. y4:msg_location=T1.P16
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "756_Reign"
 msgid "That's why I've considered admitting young Japanese as well as foreigners, with strong physical and intellectual capabilities."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=17
-#. y4:msg_location=T1.P17
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "768_Reign"
 msgid "If I were to do so, we'd become quite powerful in the next few years, don't you think?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "780_Kiryu"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=19
-#. y4:msg_location=T1.P19
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "792_Reign"
 msgid "And then you came along."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=20
-#. y4:msg_location=T1.P20
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "804_Reign"
 msgid "If I defeat you, young Japanese fighters will be falling over themselves to join my group. That's quite an incentive."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=21
-#. y4:msg_location=T1.P21
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "816_Kiryu"
 msgid "All right, I get the picture. It's all the more reason I can't let you defeat me!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=22
-#. y4:msg_location=T1.P22
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "828_Reign"
 msgid "What an odd choice of words..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=23
-#. y4:msg_location=T1.P23
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "840_Kiryu"
 msgid "People like you rub me the wrong way. Who chose you to speak for all foreigners? And I don't like people looking down on Japan's youth either."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=24
-#. y4:msg_location=T1.P24
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "852_Reign"
 msgid "I must say, I'm disappointed. It seems you don't understand what I'm trying to achieve. I had hoped you would."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=25
-#. y4:msg_location=T1.P25
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "864_Reign"
 msgid "You've ruled the underworld, dominated the Coliseum, and saved the Tojo Clan with your own hands."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=26
-#. y4:msg_location=T1.P26
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "876_Reign"
 msgid "Yakuza, gangs, the people of Kamurocho... What kind of a leader are you trying to be to them, anyway?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=27
-#. y4:msg_location=T1.P27
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "888_Kiryu"
 msgid "The whole idea of being a leader is flawed from the start. People should be free to live on their own and helped out only when necessary."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=28
-#. y4:msg_location=T1.P28
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "900_Reign"
 msgid "Hmph. What a waste of time. We have nothing else to discuss. It's time for you to set the stage for my reign."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=29
-#. y4:msg_location=T1.P29
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "912_Reign"
 msgid "You may be a famous champion, but I'm no slouch myself. I should tell you that in one hundred matches, I've never once suffered defeat."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=30
-#. y4:msg_location=T1.P30
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "924_Kiryu"
 msgid "I see... And here I thought giving out free information was your only talent."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=31
-#. y4:msg_location=T1.P31
-#. y4:msg_speaker=Reign
-#. y4:msg_speaker_id=0
 msgctxt "936_Reign"
 msgid "So, you've got quick wit to match your strength, huh? Better brace yourself!"
 msgstr ""

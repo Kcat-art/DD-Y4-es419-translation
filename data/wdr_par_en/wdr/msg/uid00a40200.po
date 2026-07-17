@@ -24,48 +24,34 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00A40200 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2580"
 msgid "Host"
 msgstr "Host"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "2584"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "2588"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "2592"
 msgid "Female Voice"
 msgstr "Voz femenina"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "2596"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Host
-#. y4:msg_speaker_id=0
 msgctxt "100_Host"
 msgid "Oh man, what do I do? They're in serious danger..."
 msgstr "Oh dios, ¿qué hago? Necesitan ayuda..."
@@ -76,13 +62,6 @@ msgid "I'd call the police, but I don't want those maniacs\\r\n"
 msgstr "Llamaría a la policía, pero no quiero que el siguiente\\r\n"
 "al que esos locos persigan..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "124_Saejima"
 msgid "Hey, did ya see a girl in a black jacket come this way?"
 msgstr "Oye, ¿Has visto a una chica con una chaqueta negra pasar por aquí?"
@@ -93,35 +72,14 @@ msgid "What? Oh, er... This mob of crazed fanboys grabbed her.\\r\n"
 msgstr "¿Qué? Oh, eh... Una horda de fans locos la atrapó.\\r\n"
 "Y se la llevaron dentro de ese estacionamiento."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "148_Saejima"
 msgid "Goddammit..."
 msgstr "Maldita sea..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Host
-#. y4:msg_speaker_id=0
 msgctxt "160_Host"
 msgid "Then this big-shot businesswoman went in there alone."
 msgstr "Ahí es cuando apareció una empresaria y entró ahí ella sola."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "172_Saejima"
 msgid "Pant suit?"
 msgstr "¿Iba de traje?"
@@ -132,46 +90,18 @@ msgid "Yeah, a real CEO-looking type. She ran in after them.\\r\n"
 msgstr "Sí, se notaba que era CEO de algo. Corrió tras ellos.\\r\n"
 "Ahí fue cuando empezaron los gritos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Female Voice
-#. y4:msg_speaker_id=3
 msgctxt "196_Female Voice"
 msgid "Stop!"
 msgstr "¡Espera!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Host
-#. y4:msg_speaker_id=0
 msgctxt "208_Host"
 msgid "Oh man, oh man, oh man... This is bad!"
 msgstr "Oh dios, oh dios, oh dios... ¡Esto es terrible!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Host
-#. y4:msg_speaker_id=0
 msgctxt "220_Host"
 msgid "Someone's gotta do something. Please, hurry and help them!"
 msgstr "Alguien tiene que hacer algo. ¡Por favor, date prisa y ayúdalas!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Host
-#. y4:msg_speaker_id=0
 msgctxt "244_Host"
 msgid "What are you doing? Get in there and save her!"
 msgstr "¿Qué haces? ¡Ve y ayúdalas!"

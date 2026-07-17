@@ -16,130 +16,73 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00020221 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "380"
 msgid "Remember, this place was built for the worst of the worst."
 msgstr "Recuerden, este lugar fue construido para lo peor de lo peor."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "8724"
 msgid "Inmate"
 msgstr "Presionero"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "8728"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "8732"
 msgid "Hamazaki"
 msgstr "Hamazaki"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "8736"
 msgid "P_sitgrd_tlk_jibeta_yes"
 msgstr "P_sitgrd_tlk_jibeta_yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "8740"
 msgid "P_sitgrd_tlk_agura_no"
 msgstr "P_sitgrd_tlk_agura_no"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "8744"
 msgid "P_sitgrd_tlk_agura_yes"
 msgstr "P_sitgrd_tlk_agura_yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "8748"
 msgid "P_sitgrd_tlk_jibeta_no"
 msgstr "P_sitgrd_tlk_jibeta_no"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Inmate
-#. y4:msg_speaker_id=0
 msgctxt "68_Inmate"
 msgid "You okay? That asshole whooped you good."
 msgstr "¿Y bien?, ¿cómo estás? ¿Se te calmó el dolor?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "80_Saejima"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "92_Saejima"
 msgid "Who's askin'?"
 msgstr "¿Quién pregunta?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "104_Hamazaki"
 msgid "Name's Hamazaki. Tojo Clan, same as you. I was one of the big boys till I wound up here last year. Had my own family and everything."
 msgstr "Me llamo Hamazaki.\\r\nHasta hace aproximadamente un año, estaba en\\r\nel mismo clan que tú. El clan Tojo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "116_Saejima"
 msgid "That so."
 msgstr "Ya veo."
@@ -150,337 +93,141 @@ msgid "Didn't think I'd meet a living legend in this hellhole.\\r\n18 kills in o
 msgstr "Pero vaya sorpresa.\\r\nNunca pensé que me encontraría con el legendario\\r\n\"Asesino de Dieciocho\" en un lugar como este."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "140_Saejima"
 msgid "What's your game?"
 msgstr "¿Cuál es tu juego?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "152_Hamazaki"
 msgid "Not sure what you mean."
 msgstr "No estoy seguro de lo que quieres decir."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "164_Saejima"
 msgid "The guards ain't gonna be too thrilled about this. Outside of the one ya just paid off, I mean."
 msgstr "Si haces algo así, los otros guardias no se quedarán callados."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "176_Saejima"
 msgid "And this place has got more'n its share of psychos. Can't imagine they'd be happy knowin' ya came by to see me."
 msgstr "Parece que hay mucho psicópata en esta prisión."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "188_Hamazaki"
 msgid "Heh. You don't know a goddamn thing about where you are, do you? This is no ordinary prison, friend."
 msgstr "Je, parece que aún no sabes nada...\nEste lugar es bastante diferente de una prisión normal en varios aspectos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "200_Saejima"
 msgid "How's that?"
 msgstr "¿A qué te refieres?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "212_Hamazaki"
 msgid "Lemme ask you a question. You know what this place is called?"
 msgstr "¿Conoces el nombre de esta prisión?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "224_Saejima"
 msgid "Yeah, Okinawa Penitentiary No. 2."
 msgstr "Sí, es la Prisión Nº 2 de Okinawa,\\r\nsi mal no recuerdo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "236_Hamazaki"
 msgid "Good. The thing about that is, though... no penitentiary by that name officially exists. Not in Okinawa, not in Japan, not anywhere."
 msgstr "Sí, la Prisión Nº 2 de Okinawa.\\r\nPero sabes, no importa dónde busques,\\r\nno existe una prisión con ese nombre en este país."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "248_Saejima"
 msgid "Yeah, sure. Like I'm fallin' for that."
 msgstr "Ja, sí claro. ¿Tienes algún otro chiste?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "260_Hamazaki"
 msgid "It's the truth. You look on the map, and all you'll see is some nameless correctional facility. Nothing out of the ordinary."
 msgstr "Es la verdad. En realidad, este lugar oficialmente\\r\nes un centro de rehabilitación."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "272_Hamazaki"
 msgid "When in fact it's a privately funded high-security prison built under government contract."
 msgstr "Es como un lugar similar a una prisión privada\\r\nque el gobierno ha contratado a una entidad privada."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "284_Saejima"
 msgid "And nobody raises an eyebrow or nothin'?"
 msgstr "¿Contratado, dices?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "296_Hamazaki"
 msgid "Why would they? On paper, this place is just like any other correctional facility. An easy, humanitarian way of dealing with the rising prison population."
 msgstr "Sí, dicen que se debe al aumento de delincuentes,\\r\nasí que contratan instalaciones de rehabilitación\\r\nal sector privado, pero su función real es diferente."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "308_Hamazaki"
 msgid "But the truth lurking under the surface is damn sinister. The only reason it exists is to make yakuza like us disappear, no questions asked."
 msgstr "Este es un lugar que parece la \"tumba de la yakuza\",\\r\ndonde solo reúnen a criminales violentos provenientes de la yakuza."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "320_Saejima"
 msgid "Whaddya mean, disappear?"
 msgstr "¿Tumba?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "332_Hamazaki"
 msgid "Pretty sure you can guess. That corrections officer who was laying into you's buried a few guys just the last month or so. Takes 'em in here and beats them to death."
 msgstr "¿Recuerdas el guardia que te golpeó hace un momento?\\r\nMató a varios reclusos solo el mes pasado."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "344_Saejima"
 msgid "In this room, huh?"
 msgstr "¿En esta celda?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "356_Hamazaki"
 msgid "Yup. Not a pretty sight once he's done, I'll tell you that."
 msgstr "Sí, exacto. Encuentran a reclusos que causan problemas,\\r\nlos traen aquí y los golpean hasta que dejan de respirar..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "368_Hamazaki"
 msgid "Worst part is, they don't even own up to it. Official cause of death always ends up \"illness\" or some other random bullshit."
 msgstr "Al día siguiente, los cuerpos son procesados como \"muerte por enfermedad\"."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "392_Hamazaki"
 msgid "You die in here, not a damn soul's gonna bother asking why."
 msgstr "En otras palabras, aquí, no importa quién muera,\\r\nnadie se quejará..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=29
-#. y4:msg_location=T0.P29
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "404_Saejima"
 msgid "That's goddamn insane."
 msgstr "Eso es una maldita locura."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=30
-#. y4:msg_location=T0.P30
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "416_Hamazaki"
 msgid "But it's the truth. Good news is, it goes both ways. Most of the guards in here are more than corrupt enough to take a bribe or two."
 msgstr "Pero es la realidad...\\r\nPero debido a que es así en este lugar,\\r\nhay guardias que se dejan corromper con sobornos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=31
-#. y4:msg_location=T0.P31
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "428_Hamazaki"
 msgid "Makes life a little easier for me, at least."
 msgstr "Me hace la vida un poco más fácil, al menos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=32
-#. y4:msg_location=T0.P32
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "440_Saejima"
 msgid "...So what's all this got to do with me?"
 msgstr "... Entonces, ¿qué es lo que buscas?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "452_Inmate"
 msgid "You dropped a mil to get to me. Well, here I am."
 msgstr "Habiendo sobornado al guardia con un millón,\\r\ndebe haber alguna razón o motivo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=34
-#. y4:msg_location=T0.P34
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "464_Saejima"
 msgid "Spit it out already!"
 msgstr "¡Dilo ya!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=35
-#. y4:msg_location=T0.P35
-#. y4:msg_speaker=Hamazaki
-#. y4:msg_speaker_id=2
 msgctxt "476_Hamazaki"
 msgid "...I need your help with something."
 msgstr "... Necesito que me ayudes con algo."

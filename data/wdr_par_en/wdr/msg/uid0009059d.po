@@ -24,27 +24,20 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 0009059D <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "476"
 msgid "Troubled Superior"
 msgstr "Superior en problemas"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "480"
 msgid "Subordinate"
 msgstr "Subordinado"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Troubled Superior
-#. y4:msg_speaker_id=0
 msgctxt "84_Troubled Superior"
 msgid "Ugh, why are there so many people here? What's going on!?"
 msgstr "Puf, ¿por qué hay tanta gente aquí? ¿¡Qué está pasando!?"

@@ -16,25 +16,20 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 000905A5 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "668"
 msgid "Troubled Superior"
 msgstr "Superior en problemas"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "672"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "676"
 msgid "Subordinate"
 msgstr "Subordinado"
@@ -51,13 +46,6 @@ msgid "The patriarch of a family, by the looks of it. You don't\\r\noften see gu
 msgstr "El patriarca de la família, por lo que parece. No sueles\\r\nver a tipos como ese en público."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Troubled Superior
-#. y4:msg_speaker_id=0
 msgctxt "108_Troubled Superior"
 msgid "I suppose those are the men who really control this town..."
 msgstr "Supongo que esos son los hombres que realmente controlan esta ciudad..."

@@ -24,64 +24,30 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00090445 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "984"
 msgid "Man on Phone"
 msgstr "Hombre al Teléfono"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Man on Phone
-#. y4:msg_speaker_id=0
 msgctxt "84_Man on Phone"
 msgid "Oh my god!"
 msgstr "¡Oh, dios mío!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Man on Phone
-#. y4:msg_speaker_id=0
 msgctxt "96_Man on Phone"
 msgid "I just saw these gang-looking types dressed all in blue at a construction site in Nakamichi Alley. They had a woman surrounded!"
 msgstr "Acabo de ver a estos tipos que parecen pandilleros vestidos todos de azul en una obra de construcción en el callejón Nakamichi. ¡Tenían a una mujer rodeada!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Man on Phone
-#. y4:msg_speaker_id=0
 msgctxt "108_Man on Phone"
 msgid "Huh? Go help her!? What do you think this is, a video game!? I'm no vigilante justice!"
 msgstr "¿Cómo? ¡Ni hablar! ¡Eso de ayudar solo pasa en los videojuego! Mejor no meterse donde no te llaman."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Man on Phone
-#. y4:msg_speaker_id=0
 msgctxt "120_Man on Phone"
 msgid "Most people know better than to get nosy in Kamurocho."
 msgstr "Si te metes en cosas turbias en Kamurocho, no importa cuántas vidas tengas, no serán suficientes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Man on Phone
-#. y4:msg_speaker_id=0
 msgctxt "132_Man on Phone"
 msgid "Anyway, something's going down over there, so you make sure you stay away from Nakamichi Alley."
 msgstr "Sea como sea, algo está pasando por ahí, así que mantente alejado del Callejón Nakamichi."

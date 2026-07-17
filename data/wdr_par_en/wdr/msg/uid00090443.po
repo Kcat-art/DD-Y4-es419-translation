@@ -16,356 +16,175 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00090443 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
 msgctxt "5256"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "5260"
 msgid "Shady Man"
 msgstr "Hombre sospechoso"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "5264"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "5268"
 msgid "Shiraki"
 msgstr "Shiraki"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "5272"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "5276"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "5280"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "5284"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "5288"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "5292"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "5296"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Shady Man
-#. y4:msg_speaker_id=1
 msgctxt "92_Shady Man"
 msgid "Kiryu-san? Is that really you?"
 msgstr "¿Kiryu-san? ¿De verdad eres tú?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "128_Kiryu"
 msgid "That's right. And you are?"
 msgstr "Así es. ¿Y tú eres?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Shiraki
-#. y4:msg_speaker_id=3
 msgctxt "140_Shiraki"
 msgid "It's me, Shiraki! Five or so years ago we really had it out in the Champion District, remember?"
 msgstr "¡Soy yo, Shiraki! Hace unos cinco años nos dimos con todo en el Distrito Champion, ¿te acuerdas?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "152_Kiryu"
 msgid "Hold on... Shiraki from White Edge?"
 msgstr "Un momento... ¿Shiraki de White Edge?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Shiraki
-#. y4:msg_speaker_id=3
 msgctxt "164_Shiraki"
 msgid "You got it! Long time, no see!"
 msgstr "¡Exacto! ¡Cuánto tiempo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "176_Kiryu"
 msgid "Sure has been a while."
 msgstr "Pues sí, la verdad."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "188_Kiryu"
 msgid "Damn, you really look like a changed man. You're not running with the color gangs anymore?"
 msgstr "Pues vaya, sí que pareces otro. ¿Ya no andas con las bandas de colores?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Shiraki
-#. y4:msg_speaker_id=3
 msgctxt "200_Shiraki"
 msgid "Oh yeah, I left that game a long time ago! Well, actually, White Edge dissolved right after our little run-in."
 msgstr "Oh sí, dejé ese rollo hace tiempo. Bueno, en realidad, White Edge se disolvió justo después de nuestro encontronazo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "212_Kiryu"
 msgid "That so?"
 msgstr "Ya veo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Shiraki
-#. y4:msg_speaker_id=3
 msgctxt "224_Shiraki"
 msgid "Yeah, you know... Everybody makes mistakes when they're young, I guess. But I'm too old to be stirring up trouble like that now."
 msgstr "Sí, ya sabes... Todos cometemos errores cuando somos jóvenes, supongo. Pero ya estoy demasiado viejo para andar causando problemas."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "236_Kiryu"
 msgid "So, what're you up to these days?"
 msgstr "¿Y a qué te dedicas ahora?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Shiraki
-#. y4:msg_speaker_id=3
 msgctxt "248_Shiraki"
 msgid "Ah, you're not gonna believe this. I started my own company, called Platinum! We sell used cars."
 msgstr "Pues no te lo vas a creer. ¡Monté mi propia empresa, Platinum! Vendemos automóviles de segunda mano."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "260_Kiryu"
 msgid "A car dealership? Sounds like a decent enough line of work."
 msgstr "¿Un concesionario de automóviles? Suena como un trabajo bastante decente."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Shiraki
-#. y4:msg_speaker_id=3
 msgctxt "272_Shiraki"
 msgid "Heheh, yeah. I can do all right for myself when I put my mind to it."
 msgstr "Je, je, sí. Cuando me lo propongo, puedo arreglármelas bastante bien."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Shiraki
-#. y4:msg_speaker_id=3
 msgctxt "284_Shiraki"
 msgid "And thanks to my change in careers, I make more money now than almost any other guy I know my age."
 msgstr "Gracias a mi cambio de profesión, ahora gano más dinero que casi cualquier otro tipo de mi edad."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Shiraki
-#. y4:msg_speaker_id=3
 msgctxt "296_Shiraki"
 msgid "There are some things we deal in that I can't exactly announce to the world, though..."
 msgstr "Aunque hay ciertas cosas con las que tratamos que no puedo contar abiertamente..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Shiraki
-#. y4:msg_speaker_id=3
 msgctxt "308_Shiraki"
 msgid "So I guess my company is kind of like what you'd call a front, too."
 msgstr "Así que supongo que mi empresa es, en cierto modo, una tapadera también."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "320_Kiryu"
 msgid "Still, it sounds like you're doing all right, all in all."
 msgstr "Aún así, suena como si te fuera bastante bien, en general."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Shiraki
-#. y4:msg_speaker_id=3
 msgctxt "332_Shiraki"
 msgid "Yeah, and it wouldn't have happened without you."
 msgstr "Sí, pero no hubiera cambiado de no ser por ti."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Shiraki
-#. y4:msg_speaker_id=3
 msgctxt "344_Shiraki"
 msgid "Oh, that's right. Let me give you my business card. Just give me a call if you ever need a good car!"
 msgstr "¡Ah, es cierto! Déjame darte mi tarjeta de presentación. ¡Llámame si alguna vez necesitas un buen coche!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Shiraki
-#. y4:msg_speaker_id=3
 msgctxt "356_Shiraki"
 msgid "I mean it! You name it and I'll find it for you."
 msgstr "¡Lo digo en serio! Tú dime lo que buscas y yo te lo encuentro."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Shiraki
-#. y4:msg_speaker_id=3
 msgctxt "368_Shiraki"
 msgid "Anyway, see you around."
 msgstr "Bueno, ya nos veremos."

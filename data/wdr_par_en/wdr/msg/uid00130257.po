@@ -16,333 +16,167 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00130257 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
 msgctxt "96"
 msgid "You got a <Color:8>High-Grade Platinum<Color:Default>."
 msgstr "Has obtenido <Color:8>platino de alta calidad<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "8580"
 msgid "Akaishi"
 msgstr "Akaishi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "8584"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "8588"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "8592"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "8596"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "8600"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "8604"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "8608"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "8612"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "8616"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "8620"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "8624"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "8628"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "84_Akaishi"
 msgid "Tanimura-san, I really appreciate all that you've done for me. This is a token of my heartfelt gratitude."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "120_Tanimura"
 msgid "Thanks, I really appreciate it."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "132_Tanimura"
 msgid "But you really blew me away back there, Akaishi-san."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "144_Akaishi"
 msgid "Haha, I guess when faced with cowards like them, I couldn't help but show my true colors."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "156_Akaishi"
 msgid "To tell you the truth, I used to be a two-bit yakuza here in Kamurocho, just like Kondo."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "168_Tanimura"
 msgid "You're kidding me!?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "180_Akaishi"
 msgid "It's true. I thought I was a badass, so I stirred up a lot of trouble back then."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "192_Akaishi"
 msgid "But I stood out so much that one day a bunch of yakuza jumped me in the street and beat me so badly they almost killed me."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "204_Akaishi"
 msgid "After I passed out in the street, a man came across me by chance."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "216_Akaishi"
 msgid "I'd never met him before, but he took me to the hospital. His name was Kashiwagi."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "228_Akaishi"
 msgid "He said I should go back to living an honest life. He even helped me find a job. Thanks to him, I got back on the straight and narrow."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "240_Tanimura"
 msgid "Wow... Guess there are some good people left in this world."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "252_Akaishi"
 msgid "He helped me in so many ways, that I could never truly repay his kindness."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "264_Akaishi"
 msgid "I ended up being very successful at my job and grew quite wealthy as a result."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=16
-#. y4:msg_location=T1.P16
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "276_Tanimura"
 msgid "And by quite wealthy you mean...?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=17
-#. y4:msg_location=T1.P17
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "288_Akaishi"
 msgid "A millionaire several times over."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=18
-#. y4:msg_location=T1.P18
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "300_Tanimura"
 msgid "Wow... Must be nice."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=19
-#. y4:msg_location=T1.P19
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "312_Akaishi"
 msgid "Yes, but I owed it all to Kashiwagi-san. I wanted to repay him however I could. Unfortunately..."
 msgstr ""
@@ -353,193 +187,81 @@ msgid "Wait a second... Kashiwagi? Isn't he－"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=21
-#. y4:msg_location=T1.P21
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "336_Akaishi"
 msgid "Sadly, he passed away last year."
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=22
-#. y4:msg_location=T1.P22
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "348_Tanimura"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=23
-#. y4:msg_location=T1.P23
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "360_Akaishi"
 msgid "When I heard of his death, I knew I had to do something. So, I decided I would repay my debt to him by serving the city he worked to protect."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=24
-#. y4:msg_location=T1.P24
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "372_Akaishi"
 msgid "That's when I established the Kamurocho Guard, to help some of those who have lost their way in this city."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=25
-#. y4:msg_location=T1.P25
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "384_Tanimura"
 msgid "So you put up all the funding for the group?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=26
-#. y4:msg_location=T1.P26
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "396_Akaishi"
 msgid "That's right. I had little use for the money myself."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=27
-#. y4:msg_location=T1.P27
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "408_Akaishi"
 msgid "Besides, if it's enough to ensure the safety of the city, I'd say it's a bargain."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=28
-#. y4:msg_location=T1.P28
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "420_Tanimura"
 msgid "Heh, you're a pretty decent guy, you know that?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=29
-#. y4:msg_location=T1.P29
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "432_Akaishi"
 msgid "We may always have to deal with interference from those who don't take kindly to our work."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=30
-#. y4:msg_location=T1.P30
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "444_Akaishi"
 msgid "Still, we won't ever fail to give our all in making Kamurocho a safer place."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=31
-#. y4:msg_location=T1.P31
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "456_Akaishi"
 msgid "I'm sure that it'll take some time for things to fall back into place for our group."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=32
-#. y4:msg_location=T1.P32
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "468_Akaishi"
 msgid "Until then, I hope we can still count on your support."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=33
-#. y4:msg_location=T1.P33
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "480_Tanimura"
 msgid "Mmhm, of course."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=34
-#. y4:msg_location=T1.P34
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "492_Akaishi"
 msgid "Thank you, Tanimura-san. Please come see me if there's anything I can do for you."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=35
-#. y4:msg_location=T1.P35
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "504_Tanimura"
 msgid "You bet. See you around."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=40
-#. y4:msg_location=T1.P40
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "564_Tanimura"
 msgid "Looks like things have settled down for the Kamurocho Guard. I can always help them out if they run into trouble. They do pay me and all."
 msgstr ""

@@ -24,45 +24,26 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_GOLF.bin
 #. y4:runtime_play_command=y4.play_msg 006C02B2 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "5296"
 msgid "Maya"
 msgstr "Maya"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "5300"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "5304"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=0
 msgctxt "168_Maya"
 msgid "Wow! We won!"
 msgstr "¡Guau! ¡Ganamos!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=0
 msgctxt "180_Maya"
 msgid "Kiryu-san, it's so cool that you're so good at golf!"
 msgstr ""
@@ -71,24 +52,10 @@ msgctxt "192_Maya"
 msgid "Ask me out again, okay? Next time, let's win it all! <Color:255,200,200,255>♥<Color:Default>"
 msgstr "Invíteme a salir de nuevo, ¿sí? ¡La próxima vez lo ganaremos todo! <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=0
 msgctxt "252_Maya"
 msgid "Yay! We won a prize!"
 msgstr "¡Viva! ¡Ganamos un premio!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=0
 msgctxt "264_Maya"
 msgid "Next time, we've definitely gotta win it all!"
 msgstr "¡La próxima vez, definitivamente lo ganaremos todo!"
@@ -101,24 +68,10 @@ msgctxt "336_Maya"
 msgid "That was fun! ♪ Call me again soon, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡Eso fue divertido! ♪ Vuelva a llamarme pronto, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=0
 msgctxt "396_Maya"
 msgid "Geez... You're way too good at this, Kiryu-san!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=0
 msgctxt "408_Maya"
 msgid "I'm gonna beat you next time, just you wait!"
 msgstr "Voy a vencerte la próxima vez, ¡solo espera!"
@@ -127,24 +80,10 @@ msgctxt "420_Maya"
 msgid "Ask me out again sometime, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "Invíteme a salir de nuevo algún día, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=0
 msgctxt "480_Maya"
 msgid "Wow, a tie... That was a really good game!"
 msgstr "Vaya, un empate... ¡Ese fue un muy buen juego!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=1
-#. y4:msg_location=T4.P1
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=0
 msgctxt "492_Maya"
 msgid "I'll beat you next time, though, so you'd better be ready for me!"
 msgstr "Sin embargo, te venceré la próxima vez, ¡así que será mejor que estés listo para mí!"
@@ -153,13 +92,6 @@ msgctxt "504_Maya"
 msgid "Ask me out again sometime, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "Invíteme a salir de nuevo algún día, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Maya
-#. y4:msg_speaker_id=0
 msgctxt "564_Maya"
 msgid "I won! Hehe, I'm pretty good, don't you think?"
 msgstr "¡Gané! Je, je. Soy muy buena en esto, ¿no le parece?"

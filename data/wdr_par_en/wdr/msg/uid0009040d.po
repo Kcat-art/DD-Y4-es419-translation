@@ -16,163 +16,106 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 0009040D <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "8388"
 msgid "Groaning Man"
 msgstr "Hombre Adolorido"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "8392"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "8396"
 msgid "Talk_Syagamu_st"
 msgstr "Talk_Syagamu_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "8400"
 msgid "Talk_Syagamu_ed"
 msgstr "Talk_Syagamu_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "8404"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "8408"
 msgid "M_nml_stand"
 msgstr "M_nml_stand"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "8412"
 msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "8416"
 msgid "Cured Man"
 msgstr "Hombre Recuperado"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "8420"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "8424"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "8428"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "8432"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
+#. y4:msg_role=name
+#. y4:msg_name_id=12
 msgctxt "8436"
 msgid "Ajikawa"
 msgstr "Ajikawa"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "8440"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "8444"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
 msgctxt "8448"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
 msgctxt "8452"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Groaning Man
-#. y4:msg_speaker_id=0
 msgctxt "84_Groaning Man"
 msgid "Oooh!"
 msgstr "¡Uuuh!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "96_Akiyama"
 msgid "What's the matter? You're sweating like crazy."
 msgstr "¿Eh...? ¿Qué te ha pasado? Estás sudando muchísimo."
@@ -188,25 +131,11 @@ msgid "Yikes! Don't move. I'll go buy some for you. Just hang in\\r\nthere, okay
 msgstr "Uf, espera. No te muevas, iré a comprarte un poco.\\r\nSolo aguanta un momento."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "204_Akiyama"
 msgid "Well? Feeling better?"
 msgstr "¿Y bien? ¿Te sientes mejor?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Cured Man
-#. y4:msg_speaker_id=7
 msgctxt "216_Cured Man"
 msgid "I think I'm over the worst of it..."
 msgstr "Sí, creo que ya paso lo peor..."
@@ -217,25 +146,11 @@ msgid "I guess it wasn't such a good idea to hit twenty yakiniku\\r\nrestaurants
 msgstr "No fue buena idea ir a veinte restaurantes de yakiniku\\r\nen un mismo día."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "240_Akiyama"
 msgid "Really? Twenty of them? You must really love yakiniku."
 msgstr "¿Eh?... ¿Veinte restaurantes? Se ve que te encanta el yakiniku."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Cured Man
-#. y4:msg_speaker_id=7
 msgctxt "252_Cured Man"
 msgid "Oh, no, no. It's my job."
 msgstr "Ah, no, no. Lo hago por trabajo."
@@ -306,13 +221,6 @@ msgid "Well, when it comes to spending money on food, I'm not\\r\nexactly what y
 msgstr "Bueno, cuando se trata de gastar dinero en comida, no suelo\\r\nmoderarme mucho."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=28
-#. y4:msg_location=T1.P28
-#. y4:msg_speaker=Ajikawa
-#. y4:msg_speaker_id=12
 msgctxt "420_Ajikawa"
 msgid "Excellent! I've been searching for somebody like you!"
 msgstr "¡Perfecto! ¡Buscaba a alguien como tú!"
@@ -328,13 +236,6 @@ msgid "I don't see why not. There must've been some reason I\\r\nstopped to help
 msgstr "Claro, no veo por qué no. Quizás sea parte del destino, detenerme a ayudarte.\\r\nAsí que... sí, puedo enseñarte algunos lugares."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=31
-#. y4:msg_location=T1.P31
-#. y4:msg_speaker=Ajikawa
-#. y4:msg_speaker_id=12
 msgctxt "456_Ajikawa"
 msgid "Really!? Thank you so much!"
 msgstr "¡¿De verdad?! ¡Muchísimas gracias!"
@@ -350,13 +251,6 @@ msgid "And if you could tell me which of their dishes has the most\\r\nmouthwate
 msgstr "Ah, y también si pudieras decirme cuál de sus platos tiene el mejor\\r\nsabor, del tipo que te hacen agua la boca. Oh, y cuál es su plato de menudos\\r\nmás único y exclusivo, ¡eso sería excelente!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=34
-#. y4:msg_location=T1.P34
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "492_Akiyama"
 msgid "Some pretty specific requests you have there."
 msgstr "Esa es una petición bastante específica."
@@ -367,13 +261,6 @@ msgid "Many of our readers consider themselves foodies. They prefer\\r\nselectio
 msgstr "Muchos de nuestros lectores se consideran amantes de la gastronomía.\\r\nEllos prefieren probar cosas no solamente sabrosas, sino que también\\r\nalgo con el cual tener una buena conversación."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=36
-#. y4:msg_location=T1.P36
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "516_Akiyama"
 msgid "Sounds rough."
 msgstr "Suena complicado."
@@ -394,25 +281,11 @@ msgid "Oh, uh, sure. Hope you feel better... So mouthwatering\\r\ntexture and a 
 msgstr "Ah, sí, claro. Espero que te mejores...\\r\nEntonces, un sabor del tipo que te haga agua la boca, más un plato\\r\nde menudos único y exclusivo en mi restaurante favorito de yakiniku ¿no?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=40
-#. y4:msg_location=T1.P40
-#. y4:msg_speaker=Ajikawa
-#. y4:msg_speaker_id=12
 msgctxt "564_Ajikawa"
 msgid "That's right. Good luck, and thank you. Ow..."
 msgstr "Así es. Buena suerte, y graci—... ugh..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=45
-#. y4:msg_location=T1.P45
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "624_Akiyama"
 msgid "(My favorite yakiniku joint, huh? Definitely that one Hana-chan likes so much.)"
 msgstr "(¿Mi restaurante de yakiniku favorito, eh? Definitivamente, ese que le gusta mucho a Hana-chan.)"

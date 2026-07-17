@@ -24,74 +24,39 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_TE_0009.bin
 #. y4:runtime_play_command=y4.play_msg 00AE0003 <group>
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Normal gift -> T0.P255 | 2. Cabaret gift -> T0.P2
 msgctxt "100"
 msgid "Here you go."
 msgstr "Aquí tienes."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Cabaret gift
 msgctxt "148"
 msgid "There you go."
 msgstr "Aquí tienes."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Cabaret gift
 msgctxt "160"
 msgid "Didn't give you anything."
 msgstr "No te he dado nada."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P255
-#. y4:msg_branch_segment=T0.P255..P5
-#. y4:msg_branch_raw=01 11 00 ff 00 00 00 0b 00 00 00 00 00 00 00 00
 msgctxt "172"
 msgid "Normal gift"
 msgstr "Regalo normal"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P2
-#. y4:msg_branch_segment=T0.P2..P254
-#. y4:msg_branch_target_text=There you go.
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "184"
 msgid "Cabaret gift"
 msgstr "Regalo de cabaret"

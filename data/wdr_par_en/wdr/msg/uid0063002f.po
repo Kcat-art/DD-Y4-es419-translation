@@ -24,27 +24,20 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KARAOKE.bin
 #. y4:runtime_play_command=y4.play_msg 0063002F <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1952"
 msgid "Himeka"
 msgstr "Himeka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1956"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=0
 msgctxt "120_Himeka"
 msgid "Hehe. Y'know, I love karaoke."
 msgstr "Je, je. Me encanta el karaoke, sabes."
@@ -58,35 +51,14 @@ msgctxt "144_Himeka"
 msgid "Hehe! That was so much fun. <Color:7>♥<Color:Default> I never woulda guessed that you had such fire in ya. <Color:7>♥<Color:Default>"
 msgstr "¡Je, je! Eso estuvo divertido. <Color:7>♥<Color:Default> Nunca hubiera pensado que tuvieras tanto fuego en tu corazón. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "156_Tanimura"
 msgid "Haha..."
 msgstr "Ja, ja..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Himeka
-#. y4:msg_speaker_id=0
 msgctxt "168_Himeka"
 msgid "You made it real hard to sing... Can't you at least <Italic>pretend</Italic> to be gettin' into the song?"
 msgstr "Hiciste que se me hiciera difícil cantar... ¿Podrías pretender por lo menos llevar el ritmo de la canción?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "180_Tanimura"
 msgid "Sorry..."
 msgstr "Lo siento..."
@@ -95,13 +67,6 @@ msgctxt "192_Himeka"
 msgid "That felt gooood! <Color:7>♥<Color:Default> I think that was my best performance yet! <Color:7>♥<Color:Default> It's probably 'cause you made me feel like a star. <Color:7>♥<Color:Default>"
 msgstr "¡Eso estuvo de maravilla! <Color:7>♥<Color:Default> ¡Creo que esa fue mi mejor interpretación! <Color:7>♥<Color:Default> Es como si me hubieras hecho sentir como una estrella. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=1
-#. y4:msg_location=T4.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "204_Tanimura"
 msgid "Haha, it was all you."
 msgstr "Ja, ja, ja fuiste tú."

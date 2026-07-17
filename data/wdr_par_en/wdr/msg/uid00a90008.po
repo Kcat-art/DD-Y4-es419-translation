@@ -24,82 +24,40 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KARAOKE.bin
 #. y4:runtime_play_command=y4.play_msg 00A90008 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1248"
 msgid "Haruka"
 msgstr "Haruka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1252"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=0
 msgctxt "120_Haruka"
 msgid "I love going to karaoke with you, Uncle Kaz! Now, what should I sing today?"
 msgstr "¡Me encanta ir al karaoke contigo, Tío Kaz! Ahora, ¿qué debería cantar hoy?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=0
 msgctxt "132_Haruka"
 msgid "How about \"I Wanna Change Myself\"? It's kind of an old song, but I love it because the lyrics are so positive."
 msgstr "¿Qué tal \"I Wanna Change Myself\"? Es una canción un poco antigua, pero me encanta porque la letra es muy positiva."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=0
 msgctxt "144_Haruka"
 msgid "I wonder how I did?"
 msgstr "Me pregunto cómo me habrá ido."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=0
 msgctxt "156_Haruka"
 msgid "You made it so hard to sing..."
 msgstr "Hiciste que cantar fuera tan difícil..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "168_Kiryu"
 msgid "Sorry... I meant well though."
 msgstr "Perdóname... No era mi intencion."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Haruka
-#. y4:msg_speaker_id=0
 msgctxt "180_Haruka"
 msgid "That was amazing! Thanks, Uncle Kaz."
 msgstr "¡Eso fue increíble! Gracias, Tío Kaz."

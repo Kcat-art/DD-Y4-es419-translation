@@ -16,127 +16,69 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 0009015C <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1568"
 msgid "Office Clerk"
 msgstr "Oficinista"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1572"
 msgid "Receptionist"
 msgstr "Recepcionista"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1576"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "1580"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "1584"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Office Clerk
-#. y4:msg_speaker_id=0
 msgctxt "84_Office Clerk"
 msgid "Do you remember what was here before they built the Millennium Tower?"
 msgstr "¿Recuerdas qué había aquí antes de que construyeran la Torre Millennium?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Receptionist
-#. y4:msg_speaker_id=1
 msgctxt "96_Receptionist"
 msgid "Um... Nope! What was it?"
 msgstr "Em... ¡Ni idea! ¿Qué era?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Office Clerk
-#. y4:msg_speaker_id=0
 msgctxt "108_Office Clerk"
 msgid "Just an empty lot. It's funny how things change over time."
 msgstr "Solo un terreno vacío. Es curioso cómo las cosas cambian con el tiempo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Receptionist
-#. y4:msg_speaker_id=1
 msgctxt "120_Receptionist"
 msgid "I know, right? Like, there used to be a building where that parking lot is now."
 msgstr "¡Tal cual! Antes, ahí mismo donde está ese estacionamiento, había un edificio."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Office Clerk
-#. y4:msg_speaker_id=0
 msgctxt "132_Office Clerk"
 msgid "Huh... Really? Guess I forgot all about that."
 msgstr "¿Eh...? ¿En serio? Se me había olvidado por completo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Receptionist
-#. y4:msg_speaker_id=1
 msgctxt "144_Receptionist"
 msgid "Seriously, it's like this entire city gets rebuilt from the ground up every few years or so... Speaking of, let's go check out that new store that just opened!"
 msgstr "En serio, es como si toda esta ciudad se reconstruyera desde cero cada pocos años... Hablando de eso, ¡Vamos a ver esa nueva tienda que acaban de abrir!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=4
 msgctxt "156_Saejima"
 msgid "(S'pose I shouldn't be surprised nothin' looks like how I remember it back in '85.)"
 msgstr "(Supongo que no debería sorprenderme que todo haya cambiado tanto desde el 85)."

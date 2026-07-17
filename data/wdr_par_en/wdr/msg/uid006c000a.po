@@ -47,6 +47,8 @@ msgid "Excuse me!"
 msgstr "¡Disculpe!"
 
 #. y4:line_status=translated
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "215216"
 msgid "Tanimura"
 msgstr "Tanimura"
@@ -57,6 +59,8 @@ msgid "P_sitsofaR_tlk_yes"
 msgstr "P_sitsofaR_tlk_yes"
 
 #. y4:line_status=translated
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "215224"
 msgid "Chihiro"
 msgstr "Chihiro"
@@ -212,6 +216,8 @@ msgid "F_cab_stand_tlk_byeA"
 msgstr "F_cab_stand_tlk_byeA"
 
 #. y4:line_status=translated
+#. y4:msg_role=name
+#. y4:msg_name_id=33
 msgctxt "215348"
 msgid "Player"
 msgstr "Player"
@@ -227,6 +233,8 @@ msgid "M_shp_sitgrd_sync_order"
 msgstr "M_shp_sitgrd_sync_order"
 
 #. y4:line_status=translated
+#. y4:msg_role=name
+#. y4:msg_name_id=36
 msgctxt "215360"
 msgid "Waiter"
 msgstr "Camarero"
@@ -409,6 +417,9 @@ msgid "I couldn't make enough working normal part-time jobs, so I thought I'd tr
 msgstr "No conseguía lo suficiente en trabajos normales de tiempo parcial, así que pensé en darle una oportunidad a esto."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=0
 msgctxt "4248_Chihiro"
 msgid "I'm going to work as hard as I can to make my dream come true!"
 msgstr "¡Voy a trabajar tan duro como pueda para hacer realidad mi sueño!"
@@ -544,6 +555,9 @@ msgid "The actors' motions, facial expressions, and voices are fascinating."
 msgstr "Los movimientos, las expresiones faciales y las voces de los actores son fascinantes."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=1
 msgctxt "4572_Tanimura"
 msgid "Huh..."
 msgstr "Mmm..."
@@ -724,6 +738,9 @@ msgid "Maybe. I'm still not sure I understand, though."
 msgstr "Tal vez. Todavía no estoy segura de si lo entiendo."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=2
 msgctxt "5016_Chihiro"
 msgid "I know! It could help if you tell me what your ideal woman is."
 msgstr "Ah, ¡ya sé! Podría ayudarme si me dice cuál es su mujer ideal."
@@ -904,6 +921,9 @@ msgid "You're probably right. What were you like when you were twenty?"
 msgstr "Probablemente tengas razón. ¿Cómo era usted a sus veinte?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=3
 msgctxt "5448_Tanimura"
 msgid "When I was twenty?"
 msgstr "¿Cuándo yo tenía veinte?"
@@ -1084,6 +1104,9 @@ msgid "Your body is just my taste, in fact. <Color:7>♥<Color:Default>"
 msgstr "De hecho, tu cuerpo es tal cual y como a mí me gustan. <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=4
 msgctxt "5880_Tanimura"
 msgid "I see."
 msgstr "Ya veo."
@@ -1214,6 +1237,9 @@ msgid "I went to a college party once and passed out after two drinks."
 msgstr "Una vez fui a una fiesta de la universidad y me desmayé con apenas dos tragos."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=5
 msgctxt "6192_Chihiro"
 msgid "What do you think of a girl who can't drink?"
 msgstr "¿Qué opina sobre las chicas que no pueden beber?"
@@ -1384,6 +1410,9 @@ msgid "Oh? You're not an otaku, are you?"
 msgstr "¿Eh? No serás una otaku, ¿cierto?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=6
 msgctxt "6600_Chihiro"
 msgid "Me? No, I wouldn't say that. I just like anime. Why? Do you not like otakus?"
 msgstr "¿Yo? No, no me considero una. Solo me gusta el anime. ¿Por qué? ¿No le gustan las otakus?"
@@ -1554,6 +1583,9 @@ msgid "When I do go out, my friends are shocked by how much I eat."
 msgstr "Y cuando salgo con mis amigos, ellos se sorprenden con lo mucho que llego a comer."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=7
 msgctxt "7008_Chihiro"
 msgid "What do you think of girls who eat a lot?"
 msgstr "¿Qué opina sobre las chicas que comen demasiado?"
@@ -1704,6 +1736,9 @@ msgid "Strange? How?"
 msgstr "¿Extraño? ¿De qué manera?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=8
 msgctxt "7368_Chihiro"
 msgid "He's listless and doesn't have much of an appetite. I'm worried about him."
 msgstr "Está como apático, se lo ve decaído y parece no tener mucho apetito. Estoy preocupada por él."
@@ -1854,6 +1889,9 @@ msgid "You can move your eyebrows independently?"
 msgstr "¿Puedes mover tus cejas de forma independiente?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=9
 msgctxt "7728_Chihiro"
 msgid "What do you think?"
 msgstr "¿Qué le parece?"
@@ -2029,6 +2067,9 @@ msgid "Meaning you didn't get the part."
 msgstr "Eso quiere decir que no te dieron el papel."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=10
 msgctxt "8148_Chihiro"
 msgid "Yeah..."
 msgstr "Así es..."
@@ -2219,6 +2260,9 @@ msgid "He listened to my problems, gave me advice, and now he's helping me get s
 msgstr "Él escucha mis problemas, me da consejos y ahora me está ayudando a iniciarme como actriz."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=11
 msgctxt "8604_Chihiro"
 msgid "He would never do that kind of thing!"
 msgstr "¡Él nunca haría algo así!"
@@ -2374,6 +2418,9 @@ msgid "Yeah."
 msgstr "Sí."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=12
 msgctxt "8976_Chihiro"
 msgid "Do you know any good ways to get rid of stress?"
 msgstr "¿Conoce algún método para aliviar el estrés?"
@@ -2544,6 +2591,9 @@ msgid "I know! They broke up, of course. It was pretty rough on my friend."
 msgstr "¡Lo es! Después de eso terminaron rompiendo, obviamente. Fue algo muy duro para mi amiga."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=13
 msgctxt "9384_Chihiro"
 msgid "So I wanted to know. How can men just cheat like that?"
 msgstr "Así que, quería saber. ¿Cómo es que, los hombres pueden ser así de infieles?"
@@ -2689,6 +2739,9 @@ msgid "Maybe, but I want to experience it at least once! But I can't even find a
 msgstr "Puede que sí, ¡pero quisiera experimentarlo al menos una vez! Pero ni siquiera soy capaz de conseguir un novio."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=14
 msgctxt "9732_Chihiro"
 msgid "I guess I'm still a child in some ways."
 msgstr "Supongo que, de cierta manera, todavía soy una niña."
@@ -2854,6 +2907,9 @@ msgid "It was from some famous store, and she'd been saving it."
 msgstr "Era de una tienda famosa y ella lo había estado guardando."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=15
 msgctxt "10128_Chihiro"
 msgid "She got really mad when she found out I ate it. It was such an overreaction."
 msgstr "Y entonces, ella se enojó muchísimo cuando descubrió que me lo comí. Reacciono de una forma totalmente exagerada."
@@ -3014,6 +3070,9 @@ msgid "Is he doing better now?"
 msgstr "¿Está mejor ahora?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=16
 msgctxt "10512_Chihiro"
 msgid "Yeah. I just had to massage his tummy. Now he's better than ever!"
 msgstr "Sí. Solo tuve que darle masajes en su pancita. ¡Ahora está mejor que nunca!"
@@ -3169,6 +3228,9 @@ msgid "Ah, okay."
 msgstr "Oh, qué bien."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=17
 msgctxt "10884_Chihiro"
 msgid "Don't you like the railroad?"
 msgstr "¿No le gustan los ferrocarriles?"
@@ -3324,6 +3386,9 @@ msgid "Sure. Lots of times."
 msgstr "Claro. Muchas veces."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=18
 msgctxt "11256_Chihiro"
 msgid "Do you have any advice for someone who's never been abroad?"
 msgstr "¿Tiene algún consejo para alguien que nunca viajo al extranjero?"
@@ -3484,6 +3549,9 @@ msgid "An hour!? That is a problem!"
 msgstr "¡¿Una hora?! ¡Eso sí que es un problema!"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=19
 msgctxt "11640_Chihiro"
 msgid "I know... Is there anything I can do?"
 msgstr "Lo sé... ¿Habrá algo que pueda hacer?"
@@ -3649,6 +3717,9 @@ msgid "So they were looking for amateurs. It was perfect for me!"
 msgstr "Así que buscaban a novatos. ¡Es perfecto para mí!"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=20
 msgctxt "12036_Tanimura"
 msgid "Hmm..."
 msgstr "Mmm..."
@@ -3769,6 +3840,9 @@ msgid "A lot more customers have been requesting me lately, too."
 msgstr "Muchos clientes comenzaron a solicitarme más seguido últimamente también."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=21
 msgctxt "12324_Chihiro"
 msgid "It's all thanks to your advice. I really appreciate it. ♪"
 msgstr "Todo es gracias a sus consejos. Se lo agradezco mucho. ♪"
@@ -3899,6 +3973,9 @@ msgid "Tanimura-san..."
 msgstr "Tanimura-san..."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=22
 msgctxt "12636_Chihiro"
 msgid "If you keep talking like that, I'm gonna get all choked up."
 msgstr "Si sigue hablando así, me voy a emocionar."
@@ -4034,6 +4111,9 @@ msgid "Oh?"
 msgstr "Oh..."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=23
 msgctxt "12960_Chihiro"
 msgid "I'm gonna have a blast!"
 msgstr "¡Voy a pasármelo increíble!"
@@ -4199,6 +4279,9 @@ msgid "What? Are you serious?"
 msgstr "¿Eh? ¿A mí? ¿Lo estás diciendo en serio?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=24
 msgctxt "13356_Chihiro"
 msgid "Yes! Very serious! Can I please chase you like the other boys I liked?"
 msgstr "¡Sí! ¡Muy en serio! Así que, ¿Podría perseguirle como lo hacía con esos chicos que me gustaban?"
@@ -4329,6 +4412,9 @@ msgid "Huh? Meet me?"
 msgstr "¿Eh? ¿Conocerme?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=25
 msgctxt "13668_Chihiro"
 msgid "What do you think?"
 msgstr "Sí, ¿qué opina?"
@@ -4499,6 +4585,9 @@ msgid "You want to call me?"
 msgstr "¿Quieres llamarme?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=26
 msgctxt "14076_Chihiro"
 msgid "Please! Help a lonely girl out!"
 msgstr "¡Por favor! ¡Ayude a una chica solitaria!"
@@ -4659,6 +4748,9 @@ msgid "But I bought that cake to eat for breakfast. It gives me energy to start 
 msgstr "Además, compré ese pastel para el desayuno. Me da energía para empezar el día."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=27
 msgctxt "14460_Chihiro"
 msgid "Is that so strange?"
 msgstr "¿Tan raro es?"
@@ -4804,6 +4896,9 @@ msgid "My clothes have been fitting a little tight around the tummy. I've decide
 msgstr "Mi ropa comenzó a apretarme un poco la panza. ¡Por eso decidí cuidarme un poco más con lo que como y hacer ejercicio!"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=28
 msgctxt "14808_Chihiro"
 msgid "I plan to lose five kilos! And I'll need your support!"
 msgstr "¡Planeo bajar cinco kilos! ¡Y necesitaré de su apoyo!"
@@ -4974,6 +5069,9 @@ msgid "Well, for one thing, Prince Genji is a total playboy!"
 msgstr "Para empezar, ¡el príncipe Genji es todo un playboy!"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=29
 msgctxt "15216_Chihiro"
 msgid "He courts tons of beautiful women. That whole time period is so romantic!"
 msgstr "Él corteja a un montón de hermosas mujeres. ¡En todo ese periodo de tiempo se ve tan romántico!"
@@ -5119,6 +5217,9 @@ msgid "But what?"
 msgstr "¿Qué?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=30
 msgctxt "15564_Chihiro"
 msgid "When I think about auditioning, I start to worry about getting scammed again."
 msgstr "Cuando pienso en ir a una audición, comienzo a preocuparme por si me vuelven a estafar."
@@ -5854,6 +5955,9 @@ msgid "I haven't been able to go out much lately. So I was just wondering what w
 msgstr "No pude salir mucho estos días. Así que me preguntaba si había alguna novedad."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=31
 msgctxt "17664_F_cab_sitsofa_sp2_sync_hiza"
 msgid "Something interesting? Well..."
 msgstr "¿Algo interesante? Bueno..."
@@ -5924,6 +6028,9 @@ msgid "I just love it! <Color:7>♥<Color:Default>"
 msgstr "¡Me encanta! <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=32
 msgctxt "17964_Chihiro"
 msgid "I'm a little thirsty. Can I order some <Color:7>Orange Juice<Color:Default>?"
 msgstr "Tengo un poco de sed. ¿Puedo ordenar un<Color:7>jugo de naranja<Color:Default>?"
@@ -5949,6 +6056,9 @@ msgid "Really? But I'm thirsty..."
 msgstr "Oh, ¿en serio? Pero estoy sedienta..."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=33
 msgctxt "18036_Chihiro"
 msgid "I'm getting hungry! Can I order a little snack?"
 msgstr "¡Cuanta hambre tengo! ¿Puedo pedir algún snack?"
@@ -6034,531 +6144,1167 @@ msgid "Yeah. You might still get a chance to pet him someday."
 msgstr "Sí. Quizá usted todavía tenga la oportunidad de acariciarlo un día de estos."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P15
 msgctxt "18264_Tanimura"
 msgid "What sort of actress do you want to be?"
 msgstr "¿Qué tipo de actriz quieres ser?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P23
 msgctxt "18276_Tanimura"
 msgid "You're both a college student and a hostess?"
 msgstr "¿Eres estudiante y también hostess?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P30
 msgctxt "18288_Tanimura"
 msgid "How much money are you trying to make?"
 msgstr "¿Cuánto dinero estás tratando de conseguir?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P5
 msgctxt "18300_Tanimura"
 msgid "Can you try a little bit for me?"
 msgstr "¿Puedes actuar un poco para mí?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P15
 msgctxt "18312_Tanimura"
 msgid "That's an unusual hobby."
 msgstr "Es un pasatiempo inusual."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P24
 msgctxt "18324_Tanimura"
 msgid "Why didn't you join the normal theater club?"
 msgstr "¿Por qué no te uniste a un club de teatro normal?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P10
 msgctxt "18336_Tanimura"
 msgid "A pure and innocent woman."
 msgstr "Una mujer pura e inocente."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P17
 msgctxt "18348_Tanimura"
 msgid "A strong-willed woman."
 msgstr "Una mujer de carácter fuerte."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T2.P30
 msgctxt "18360_Tanimura"
 msgid "A ditzy woman."
 msgstr "Una mujer atolondrada."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P7
 msgctxt "18372_Tanimura"
 msgid "All I thought about was girls."
 msgstr "En lo único que pensaba era en las chicas."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P15
 msgctxt "18384_Tanimura"
 msgid "I wasn't interested in love yet."
 msgstr "No estaba interesado en el amor."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=3
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T3.P23
 msgctxt "18396_Tanimura"
 msgid "All I thought about was horses."
 msgstr "Lo único en que pensaba era en caballos."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P11
 msgctxt "18408_Tanimura"
 msgid "Want to touch me?"
 msgstr "¿Quieres tocar?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P18
 msgctxt "18420_Tanimura"
 msgid "It's nothing, really."
 msgstr "No es para tanto la verdad."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=4
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T4.P25
 msgctxt "18432_Tanimura"
 msgid "It's even more impressive when I'm naked."
 msgstr "Es incluso más impresionante cuando estoy desnudo."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=5
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P6
 msgctxt "18444_Tanimura"
 msgid "It can't be helped."
 msgstr "No se puede evitar."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=5
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P13
 msgctxt "18456_Tanimura"
 msgid "It's cute."
 msgstr "Es tierno."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=5
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T5.P21
 msgctxt "18468_Tanimura"
 msgid "You should train yourself to drink."
 msgstr "Deberías entrenar para beber más."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=6
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T6.P10
 msgctxt "18480_Tanimura"
 msgid "I don't think I'd get along with one."
 msgstr "No creo que pueda llevarme bien con una."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=6
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T6.P17
 msgctxt "18492_Tanimura"
 msgid "I like anime too."
 msgstr "A mí también me gusta el anime."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=6
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T6.P24
 msgctxt "18504_Tanimura"
 msgid "Why aren't you an otaku?"
 msgstr "¿Por qué no te haría eso una otaku?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=7
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T7.P13
 msgctxt "18516_Tanimura"
 msgid "A girl should have a good appetite."
 msgstr "Una chica debe tener buen apetito."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=7
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T7.P21
 msgctxt "18528_Tanimura"
 msgid "It's fine as long as you don't get fat."
 msgstr "Mientras no engordes no pasa nada."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=7
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T7.P27
 msgctxt "18540_Tanimura"
 msgid "Your health is what's important."
 msgstr "Lo importante es tu salud."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=8
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T8.P9
 msgctxt "18552_Tanimura"
 msgid "Maybe he's lonely."
 msgstr "Tal vez se sienta solo."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=8
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T8.P15
 msgctxt "18564_Tanimura"
 msgid "Maybe he wants to go outside."
 msgstr "Tal vez quiera salir afuera."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=8
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T8.P22
 msgctxt "18576_Tanimura"
 msgid "I'm sure he'll get better eventually."
 msgstr "Seguro que pronto se pone mejor."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=9
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T9.P10
 msgctxt "18588_Tanimura"
 msgid "That takes coordination."
 msgstr "Eso requiere coordinación."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=9
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T9.P17
 msgctxt "18600_Tanimura"
 msgid "That's your special talent?"
 msgstr "¿Ese es tu talento especial?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=9
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T9.P24
 msgctxt "18612_Tanimura"
 msgid "I'd give it a four out of ten."
 msgstr "Mmm, te doy un cuatro sobre diez."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=10
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T10.P13
 msgctxt "18624_Tanimura"
 msgid "Well, at least it was a good experience."
 msgstr "Bueno, al menos fue una buena experiencia."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=10
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T10.P21
 msgctxt "18636_Tanimura"
 msgid "Is that all? That's nothing to get upset about."
 msgstr "¿Solo eso? Eso no es nada como para desanimarse."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=10
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T10.P29
 msgctxt "18648_Tanimura"
 msgid "You need to think bigger!"
 msgstr "¡Necesitas pensar en grande!"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=11
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T11.P13
 msgctxt "18660_Tanimura"
 msgid "I'm just worried about you."
 msgstr "Solo estoy preocupado por ti."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=11
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T11.P19
 msgctxt "18672_Tanimura"
 msgid "I'm sorry. Being a cop makes me suspicious."
 msgstr "Lo siento. Ser policía me hace ser desconfiado."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=11
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T11.P26
 msgctxt "18684_Tanimura"
 msgid "I'm telling you, he's taking advantage of you."
 msgstr "Te lo aseguro, él se está aprovechando de ti."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=12
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T12.P10
 msgctxt "18696_Tanimura"
 msgid "Horse racing is good."
 msgstr "Las carreras de caballos son un buen método."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=12
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T12.P18
 msgctxt "18708_Tanimura"
 msgid "There's nothing better than karaoke."
 msgstr "No hay nada mejor que el karaoke."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=12
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T12.P25
 msgctxt "18720_Tanimura"
 msgid "How about a massage?"
 msgstr "¿Qué tal un masaje?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=13
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T13.P8
 msgctxt "18732_Tanimura"
 msgid "Not all men are like that."
 msgstr "No todos los hombres son así."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=13
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T13.P15
 msgctxt "18744_Tanimura"
 msgid "That's just the way men are."
 msgstr "Así somos los hombres."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=13
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T13.P23
 msgctxt "18756_Tanimura"
 msgid "The woman bears some responsibility, too."
 msgstr "La mujer también carga con algo de la responsabilidad."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=14
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T14.P7
 msgctxt "18768_Tanimura"
 msgid "You've been watching too many soap operas."
 msgstr "Has estado viendo muchas telenovelas."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=14
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T14.P13
 msgctxt "18780_Tanimura"
 msgid "You'll get your chance soon enough."
 msgstr "Tendrás tu oportunidad pronto."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=14
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T14.P24
 msgctxt "18792_Tanimura"
 msgid "You are still a child."
 msgstr "Todavía eres una niña."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=15
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T15.P8
 msgctxt "18804_Tanimura"
 msgid "You were in the wrong."
 msgstr "Estuviste mal."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=15
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T15.P14
 msgctxt "18816_Tanimura"
 msgid "That's pretty childish."
 msgstr "Qué infantil."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=15
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T15.P23
 msgctxt "18828_Tanimura"
 msgid "I wish I had a brother or sister to fight with."
 msgstr "Ojalá tuviera una hermana o un hermano con quien discutir."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=16
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T16.P7
 msgctxt "18840_Tanimura"
 msgid "That's a relief."
 msgstr "Qué alivio."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=16
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T16.P16
 msgctxt "18852_Tanimura"
 msgid "You'll have to be more careful from now on."
 msgstr "Tendrás que tener más cuidado ahora."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=16
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T16.P22
 msgctxt "18864_Tanimura"
 msgid "You should read more about rabbits."
 msgstr "Deberías leer más sobre los conejos."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=17
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T17.P9
 msgctxt "18876_Tanimura"
 msgid "I like the railroad a lot."
 msgstr "Sí, me gustan los ferrocarriles."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=17
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T17.P14
 msgctxt "18888_Tanimura"
 msgid "I've never really thought about it."
 msgstr "Nunca pensé mucho en ello."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=17
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T17.P21
 msgctxt "18900_Tanimura"
 msgid "You're a rail buff but you like trains?"
 msgstr "Eres fanática de la ferroviaria, ¿pero te gustan los trenes?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=18
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T18.P8
 msgctxt "18912_Tanimura"
 msgid "Watch out for counterfeit brand names."
 msgstr "Debes tener cuidado con las cosas de marca falsas."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=18
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T18.P14
 msgctxt "18924_Tanimura"
 msgid "Be careful what you eat."
 msgstr "Ten cuidado con lo que comes."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=18
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T18.P21
 msgctxt "18936_Tanimura"
 msgid "Making mistakes is what makes traveling fun."
 msgstr "Cometer errores hace que viajar sea divertido."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=19
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T19.P10
 msgctxt "18948_Tanimura"
 msgid "You're taking it too seriously."
 msgstr "Te lo tomas muy en serio."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=19
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T19.P18
 msgctxt "18960_Tanimura"
 msgid "You'll be like that forever."
 msgstr "Serás así para siempre."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=19
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T19.P24
 msgctxt "18972_Tanimura"
 msgid "If you're indecisive, why don't you ask me?"
 msgstr "Si estás indecisa, ¿por qué no me preguntas a mí?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=20
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T20.P10
 msgctxt "18984_Tanimura"
 msgid "I know this is your big chance, but..."
 msgstr "Sé que esta es tu gran oportunidad, pero..."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=20
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T20.P18
 msgctxt "18996_Tanimura"
 msgid "Okay. I won't say anything else."
 msgstr "Bueno, ya no dire nada más."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=20
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T20.P23
 msgctxt "19008_Tanimura"
 msgid "Don't mess up at that interview."
 msgstr "No arruines esa entrevista."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=21
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T21.P5
 msgctxt "19020_Tanimura"
 msgid "I didn't do anything."
 msgstr "Yo no hice nada."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=21
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T21.P11
 msgctxt "19032_Tanimura"
 msgid "It's too bad, though."
 msgstr "De todas maneras, es una pena."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=21
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T21.P18
 msgctxt "19044_Tanimura"
 msgid "Your appearance hasn't changed, though."
 msgstr "Aun así, tu apariencia no cambio."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=22
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T22.P5
 msgctxt "19056_Tanimura"
 msgid "Call me any time you feel lonely."
 msgstr "Llámame cada vez que te sientas sola."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=22
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T22.P13
 msgctxt "19068_Tanimura"
 msgid "Don't stop until you reach the top."
 msgstr "No te detengas hasta llegar a lo más alto."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=22
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T22.P19
 msgctxt "19080_Tanimura"
 msgid "Do you really think you'll get famous, though?"
 msgstr "¿De verdad crees que te volverás famosa?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=23
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T23.P6
 msgctxt "19092_Tanimura"
 msgid "You don't need to go to a mixer."
 msgstr "No hace falta que vayas a las fiestas universitarias."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=23
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T23.P11
 msgctxt "19104_Tanimura"
 msgid "Why don't you go out with me instead?"
 msgstr "¿Por qué mejor no sales conmigo?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=23
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T23.P21
 msgctxt "19116_Tanimura"
 msgid "Have a good time."
 msgstr "Diviértete."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=24
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T24.P10
 msgctxt "19128_Tanimura"
 msgid "I'm usually the one doing the chasing."
 msgstr "Por lo general soy yo quien hace eso."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=24
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T24.P16
 msgctxt "19140_Tanimura"
 msgid "There are better men than me out there."
 msgstr "Hay muchos hombres mejores que yo por ahí."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=24
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T24.P22
 msgctxt "19152_Tanimura"
 msgid "I'll run as fast as I can, you know."
 msgstr "Voy a correr lo más rápido que pueda."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=25
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T25.P5
 msgctxt "19164_Tanimura"
 msgid "Is she cute?"
 msgstr "¿Es linda?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=25
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T25.P14
 msgctxt "19176_Tanimura"
 msgid "What if she falls for me?"
 msgstr "¿Y si se enamora de mí?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=25
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T25.P22
 msgctxt "19188_Tanimura"
 msgid "It's a little early for that, isn't it?"
 msgstr "Es un poco pronto para eso, ¿no?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=26
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T26.P9
 msgctxt "19200_Tanimura"
 msgid "I don't mind."
 msgstr "No me molesta."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=26
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T26.P17
 msgctxt "19212_Tanimura"
 msgid "Wouldn't it be better to talk in person?"
 msgstr "¿No sería mejor conversar en persona?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=26
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T26.P25
 msgctxt "19224_Tanimura"
 msgid "It depends on when it is."
 msgstr "Depende cuando."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=27
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T27.P8
 msgctxt "19236_Tanimura"
 msgid "Yeah, that's pretty strange."
 msgstr "Sí, lo es."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=27
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T27.P16
 msgctxt "19248_Tanimura"
 msgid "Everybody has their preferences."
 msgstr "Todo el mundo tiene sus preferencias."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=27
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T27.P23
 msgctxt "19260_Tanimura"
 msgid "You should have rice for breakfast."
 msgstr "Deberías comer arroz para desayunar."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=28
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T28.P5
 msgctxt "19272_Tanimura"
 msgid "Don't overdo it."
 msgstr "No te excedas."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=28
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T28.P15
 msgctxt "19284_Tanimura"
 msgid "I'll be glad to help."
 msgstr "Me encantaría ayudarte."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=28
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T28.P25
 msgctxt "19296_Tanimura"
 msgid "Most diets fail right away, you know."
 msgstr "La mayoría de la gente falla al primer día de hacer dieta."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=29
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T29.P6
 msgctxt "19308_Tanimura"
 msgid "I think you've got it wrong."
 msgstr "Creo que te equivocas."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=29
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T29.P14
 msgctxt "19320_Tanimura"
 msgid "He's an idol to a lot of men."
 msgstr "Él es un referente para muchos hombres."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=29
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T29.P22
 msgctxt "19332_Tanimura"
 msgid "I bet I could beat him in a fight."
 msgstr "Apuesto a que podría ganarle en una pelea."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=30
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T30.P5
 msgctxt "19344_Tanimura"
 msgid "It wasn't your fault."
 msgstr "No fue tu culpa."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=30
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T30.P12
 msgctxt "19356_Tanimura"
 msgid "That experience was just part of your journey."
 msgstr "Esa experiencia solo fue parte de tu camino."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=30
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T30.P18
 msgctxt "19368_Tanimura"
 msgid "You're pretty high maintenance, aren't you?"
 msgstr "Eres muy exigente, ¿no?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=31
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T108.P3
 msgctxt "19380_Tanimura"
 msgid "Nothing"
 msgstr "Nada"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=31
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T108.P5
 msgctxt "19392_Tanimura"
 msgid "777 Town"
 msgstr "777 Town"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=31
+#. y4:msg_choice_index=3
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T108.P6
 msgctxt "19404_Tanimura"
 msgid "Amoebatar"
 msgstr "Amoebatar"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=31
+#. y4:msg_choice_index=4
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T108.P7
 msgctxt "19416_Tanimura"
 msgid "The Ghost in the Underground Mall"
 msgstr "El fantasma del centro comercial subterráneo"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=31
+#. y4:msg_choice_index=5
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T108.P8
 msgctxt "19428_Tanimura"
 msgid "The Footbaths at Yunosono Hot Springs"
 msgstr "Baños de pies en las Aguas termales Yunosono"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=31
+#. y4:msg_choice_index=6
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T108.P9
 msgctxt "19440_Tanimura"
 msgid "Popular Golf Dates Among Women"
 msgstr "Citas en los campos de golf"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=31
+#. y4:msg_choice_index=7
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T108.P10
 msgctxt "19452_Tanimura"
 msgid "Eating Liver to Reverse Brain Aging"
 msgstr "Comer hígado revierte el envejecimiento cerebral"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=31
+#. y4:msg_choice_index=8
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T108.P11
 msgctxt "19464_Tanimura"
 msgid "The Pole Dancing Workout"
 msgstr "Bajar de peso con el pole dance"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=31
+#. y4:msg_choice_index=9
+#. y4:msg_branch_opcode=0x0112
+#. y4:msg_branch_target=T108.P12
 msgctxt "19476_Tanimura"
 msgid "Popular Sweet Sake Among Women"
 msgstr "Sake dulce popular entre las mujeres"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=32
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T114.P1
 msgctxt "19488_Tanimura"
 msgid "Sure, go ahead."
 msgstr "Claro, adelante."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=32
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T114.P5
 msgctxt "19500_Tanimura"
 msgid "Sorry."
 msgstr "Lo siento."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=33
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T115.P2
 msgctxt "19512_Tanimura"
 msgid "Sure."
 msgstr "Claro."
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=33
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T115.P5
 msgctxt "19524_Tanimura"
 msgid "Nope."
 msgstr "No."

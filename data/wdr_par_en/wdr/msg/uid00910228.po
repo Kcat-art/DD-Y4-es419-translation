@@ -21,250 +21,121 @@ msgid "）"
 msgstr "）"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "4508"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "4512"
 msgid "Panicked Homeless Man"
 msgstr "Indigente con pánico"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "4516"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "4520"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "4524"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "4528"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "4532"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "68_Saejima"
 msgid "(Hm? A homeless guy... Maybe I could ask him about the info dealer.)"
 msgstr "(¿Mm? Un indigente. Tal vez pueda preguntarle sobre el informante...)."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "80_Saejima"
 msgid "Excuse me. Was wonderin' if I could ask ya something."
 msgstr "Disculpa. Hay algo que me gustaría preguntarte..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=1
 msgctxt "92_Panicked Homeless Man"
 msgid "Hey!"
 msgstr "¡Oye!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=1
 msgctxt "104_Panicked Homeless Man"
 msgid "You! Come over here!"
 msgstr "¡Tú! ¡Ven aquí un momento!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "116_Saejima"
 msgid "What happened?"
 msgstr "¿Por qué?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=1
 msgctxt "128_Panicked Homeless Man"
 msgid "We'll talk later! Just follow me!"
 msgstr "¡Date prisa!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "224_Saejima"
 msgid "Hold yer horses, old man. Where the hell're ya headed in such a hurry?"
 msgstr "Oye, espera un momento. ¿A dónde tan apurado?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=1
 msgctxt "236_Panicked Homeless Man"
 msgid "It's the Master! He's gonna die if we don't do something!"
 msgstr "El maestro... El maestro está a punto de morir."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "248_Saejima"
 msgid "The Master?"
 msgstr "¿El maestro?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=1
 msgctxt "260_Panicked Homeless Man"
 msgid "Yeah. He's a famous old man around these parts. Been digging a hole down in the sewers for ages now."
 msgstr "Es el apodo de un anciano famoso por aquí.\\r\nHa estado cavando un agujero en las alcantarillas por años."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=1
 msgctxt "272_Panicked Homeless Man"
 msgid "But enough chitchat! We gotta hurry!"
 msgstr "¡Pero ya basta de cháchara! ¡Ven por aquí!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "308_Saejima"
 msgid "A manhole? You sure about this?"
 msgstr "¿Las alcantarillas? ¿Estás seguro?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=1
 msgctxt "320_Panicked Homeless Man"
 msgid "It's the fastest way! Just follow me!"
 msgstr "¡Este es el atajo más rápido!\\r\n¡Vamos, sígueme!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "332_Saejima"
 msgid "Easier said than done, old man. How am I supposed to get through a manhole?"
 msgstr "Más fácil decirlo que hacerlo... ¿Cómo abrimos esto?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=1
 msgctxt "344_Panicked Homeless Man"
 msgid "I got a special tool for opening manhole covers. But you're bigger than a buffalo, so you probably don't even need it."
 msgstr "Tengo una herramienta para abrir la tapa de la alcantarilla.\\r\nY bueno, con tu fuerza, podrías abrirlo sin herramientas."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=1
 msgctxt "356_Panicked Homeless Man"
 msgid "Anyways, we oughta hurry! Come on!"
 msgstr "¡Como sea, date prisa! ¡Vamos!"

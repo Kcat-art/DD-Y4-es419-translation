@@ -17,174 +17,105 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3228"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "3232"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "3236"
 msgid "Tatekawa"
 msgstr "Tatekawa"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "3240"
 msgid "Yoshioka"
 msgstr "Yoshioka"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "3244"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "3248"
 msgid "Kusuno"
 msgstr "Kusuno"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "3252"
 msgid "Talk_SmileBig_st"
 msgstr "Talk_SmileBig_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "3256"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "3260"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "3264"
 msgid "Talk_SmileBig_ed"
 msgstr "Talk_SmileBig_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "3268"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "3272"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "3276"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "3280"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "56_Saejima"
 msgid "I need to get down that manhole. You're in my way."
 msgstr "Quítense. Necesito bajar por esa alcantarilla."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Tatekawa
-#. y4:msg_speaker_id=2
 msgctxt "68_Tatekawa"
 msgid "Yo, this is our turf. We don't have to do shit for you."
 msgstr "¿Eh? Este es nuestro territorio, ¿sabes?\\r\n¿Por qué tendríamos que quitarnos?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Yoshioka
-#. y4:msg_speaker_id=3
 msgctxt "80_Yoshioka"
 msgid "Hahaha, I get it! I bet pops here lives down there."
 msgstr "Ja, ja, ja, ¿acaso vives ahí abajo, anciano?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Kusuno
-#. y4:msg_speaker_id=5
 msgctxt "92_Kusuno"
 msgid "Hehehe, like a sewer rat? That's freaking hilarious!"
 msgstr "Je, je, je, ¿como una rata humana? ¡Es divertidísimo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "104_Saejima"
 msgid "......"
 msgstr "......"
@@ -195,61 +126,26 @@ msgid "We'll let you through, but you'll have to pay the toll\\r\nto get into th
 msgstr "Podemos quitarnos si quieres, pero tendrás que pagar una pequeña tarifa."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "128_Saejima"
 msgid "And if I don't?"
 msgstr "¿Y si no pago?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Kusuno
-#. y4:msg_speaker_id=5
 msgctxt "140_Kusuno"
 msgid "Hahaha, then we'll beat you to a bloody pulp!"
 msgstr "¡Ja, ja, ja! ¡Entonces terminarás lleno de sangre!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Yoshioka
-#. y4:msg_speaker_id=3
 msgctxt "152_Yoshioka"
 msgid "That's right. So I suggest you just pay up, pops."
 msgstr "Sí, sí. Así que por tu bien, será mejor que pagues."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=0
 msgctxt "164_Saejima"
 msgid "What a joke."
 msgstr "Qué absurdo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Tatekawa
-#. y4:msg_speaker_id=2
 msgctxt "176_Tatekawa"
 msgid "Ex-fucking-scuse me? You just screwed with the wrong crew!"
 msgstr "¡¿Qué dijiste?! ¡¿Te estás burlando, anciano?!"
@@ -260,13 +156,6 @@ msgid "Shut your trap and let's go. I wanna see ya try and beat me\\r\nto a bloo
 msgstr "Cállate ya. Quiero ver como intentas dejarme lleno de sangre."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Kusuno
-#. y4:msg_speaker_id=5
 msgctxt "200_Kusuno"
 msgid "You asked for it, old man!"
 msgstr "¡Tú lo pediste, abuelo!"

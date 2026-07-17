@@ -24,87 +24,52 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CONV_P_02.bin
 #. y4:runtime_play_command=y4.play_msg 00A40118 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2044"
 msgid "Poppo Manager"
 msgstr "Gerente de Poppo"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2048"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2052"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2056"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "2060"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "2064"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "2068"
 msgid "2d_cf_pict_nigaoe_hana"
 msgstr "2d_cf_pict_nigaoe_hana"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "2072"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "2076"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Poppo Manager
-#. y4:msg_speaker_id=0
 msgctxt "56_Poppo Manager"
 msgid "Hello, Akiyama-san."
 msgstr "Hola, Akiyama-san."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=2
 msgctxt "68_Akiyama"
 msgid "Yo. How's business?"
 msgstr "Oye. ¿Cómo va el negocio?"
@@ -120,13 +85,6 @@ msgid "Sounds rough. Listen, can you do me a favor and let me know\\r\n"
 "if you see this guy?"
 msgstr "Suena difícil. Escucha, ¿Puedes llamarme si ves a este tipo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Poppo Manager
-#. y4:msg_speaker_id=0
 msgctxt "104_Poppo Manager"
 msgid "...This some kinda  Rorschach test?"
 msgstr "... ¿Que es esto? ¿Una prueba de Rorschach?"
@@ -137,24 +95,10 @@ msgid "A what now? No, supposedly, the resemblance is uncanny.\\r\n"
 msgstr "¿Y eso? No. Pero, supuestamente tiene un extraño parecido.\\r\n"
 "Así que, si lo ves..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Poppo Manager
-#. y4:msg_speaker_id=0
 msgctxt "128_Poppo Manager"
 msgid "You got it."
 msgstr "Está bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=2
 msgctxt "152_Akiyama"
 msgid "(Now to stop by Volcano... Lots of people there.)"
 msgstr "(Ahora pasare por Volcano... Allí anda mucha gente)"

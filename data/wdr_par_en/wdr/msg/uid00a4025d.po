@@ -24,183 +24,94 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00A4025D <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
+
+
 msgctxt "160"
 msgid "Scored one lead!"
 msgstr "¡Obtuviste un número de teléfono!"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "4320"
 msgid "Yakuza"
 msgstr "Yakuza"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "4324"
 msgid "Sexy Gal"
 msgstr "Mujer sensual"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "4328"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "4332"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "4336"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "4340"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "4344"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "4348"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "4352"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "4356"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "4360"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "4364"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Yakuza
-#. y4:msg_speaker_id=0
 msgctxt "88_Yakuza"
 msgid "You're good..."
 msgstr "Eres bueno..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Sexy Gal
-#. y4:msg_speaker_id=1
 msgctxt "100_Sexy Gal"
 msgid "Sorry about that, mister. Chi-kun has a really short fuse."
 msgstr "Perdone por eso, caballero. Chi-kun se irrita con facilidad."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Sexy Gal
-#. y4:msg_speaker_id=1
 msgctxt "112_Sexy Gal"
 msgid "Now, what do you say to the nice man, Chi-kun?"
 msgstr "¿Algo qué decir, Chi-kun?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Yakuza
-#. y4:msg_speaker_id=0
 msgctxt "124_Yakuza"
 msgid "Sorry! My bad!"
 msgstr "¡Lo siento, perdóneme!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Sexy Gal
-#. y4:msg_speaker_id=1
 msgctxt "136_Sexy Gal"
 msgid "Can I make it up to you? I'll hear you out on that hostess thing."
 msgstr "¿Cómo puedo compensarlo? Estoy dispuesta a escuchar sobre el trabajo de hostess."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=3
 msgctxt "148_Akiyama"
 msgid "Sure thing! I'll get in touch with you later, then."
 msgstr "¡Con gusto! Me pondré en contacto con usted."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=3
 msgctxt "220_Akiyama"
 msgid "Hello there. I'm a scout for a hostess club."
 msgstr "Mucho gusto, trabajo como cazatalentos en un club de hostess."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Sexy Gal
-#. y4:msg_speaker_id=1
 msgctxt "232_Sexy Gal"
 msgid "Hehe. Little old to be a scout, don't you think?"
 msgstr "Je, je. ¿Un poco viejo para ser cazatalentos, no cree?"
@@ -212,13 +123,6 @@ msgid "Hahaha! You got me there. Believe it or not, I'm actually\\r\n"
 msgstr "¡Ja, ja, ja! Eso me ofende. Aunque no lo crea, tengo treinta\\r\n"
 "y dos años... ¿Está disponible para nuestro club?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Sexy Gal
-#. y4:msg_speaker_id=1
 msgctxt "256_Yakuza"
 msgid "Uh-huh, at a club in Roppongi."
 msgstr " De hecho, trabajo en un club en Roppongi."
@@ -229,46 +133,18 @@ msgid "No wonder! I knew there was something about you. Ever give\\r\n"
 msgstr "¡No me sorprende! Usted es muy atractiva. ¿Alguna vez pensó\\r\n"
 "en cambiar de club?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=Sexy Gal
-#. y4:msg_speaker_id=1
 msgctxt "280_Yakuza"
 msgid "Well, actually..."
 msgstr "Bueno, ahora que lo dice..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Yakuza
-#. y4:msg_speaker_id=0
 msgctxt "292_Yakuza"
 msgid "Hey, you!"
 msgstr "¡Oye, tú!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Yakuza
-#. y4:msg_speaker_id=0
 msgctxt "304_Yakuza"
 msgid "Whaddya doin' talkin' to my girl?"
 msgstr "Oye, ¿cómo te atreves a hablar con mi chica?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=8
-#. y4:msg_location=T2.P8
-#. y4:msg_speaker=Sexy Gal
-#. y4:msg_speaker_id=1
 msgctxt "316_Yakuza"
 msgid "Hi, Chi-kun. I've been waiting forever!"
 msgstr "Oh, hola, Chi-kun. ¡Por fin viniste!"

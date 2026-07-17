@@ -17,865 +17,424 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00910101 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=57
-#. y4:msg_location=T0.P57
 msgctxt "800"
 msgid "You got a <Color:8>Woodcarving Set<Color:Default>."
 msgstr "Has obtenido un <Color:8>set de tallado en madera<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "18740"
 msgid "Punk-like Man"
 msgstr "Hombre con aspecto de matón"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "18744"
 msgid "M_ykz_damage_tlk_no"
 msgstr "M_ykz_damage_tlk_no"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "18748"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "18752"
 msgid "Old Man"
 msgstr "Abuelo"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "18756"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "18760"
 msgid "Relieved Homeless Man"
 msgstr "Indigente aliviado"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "18764"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "18768"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "18772"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
+#. y4:msg_role=name
+#. y4:msg_name_id=9
 msgctxt "18776"
 msgid "Master"
 msgstr "Maestro"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "18780"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "18784"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "18788"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
+#. y4:msg_role=name
+#. y4:msg_name_id=13
 msgctxt "18792"
 msgid "Ken-chan"
 msgstr "Ken-chan"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "18796"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
 msgctxt "18800"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
 msgctxt "18804"
 msgid "Talk_Request"
 msgstr "Talk_Request"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=17
 msgctxt "18808"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=18
 msgctxt "18812"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=19
 msgctxt "18816"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=20
 msgctxt "18820"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=21
 msgctxt "18824"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=22
+#. y4:msg_role=name
+#. y4:msg_name_id=22
 msgctxt "18828"
 msgid "Master's Helper - Saejima"
 msgstr "Ayudante del Sennin - Saejima"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=23
 msgctxt "18832"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=24
+#. y4:msg_role=name
+#. y4:msg_name_id=24
 msgctxt "18836"
 msgid "Panicked Homeless Man"
 msgstr "Indigente con pánico"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=25
 msgctxt "18840"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=26
 msgctxt "18844"
 msgid "Talk_Cry"
 msgstr "Talk_Cry"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Punk-like Man
-#. y4:msg_speaker_id=0
 msgctxt "116_Punk-like Man"
 msgid "Who the hell is this guy? Some sorta monster or somethin'!?"
 msgstr "Oye, ¿quién demonios es este tipo? ¡¿Es un monstruo?!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Punk-like Man
-#. y4:msg_speaker_id=0
 msgctxt "128_Punk-like Man"
 msgid "Dammit! This ain't the last you heard of us, old man!"
 msgstr "¡Maldita sea! ¡Recuérdame, hijo de puta!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "176_Saejima"
 msgid "Street punks and their cowardly lines never change."
 msgstr "Matones siendo cobardes, eso nunca cambia."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Old Man
-#. y4:msg_speaker_id=3
 msgctxt "188_Old Man"
 msgid "You saved my life. Thank you."
 msgstr "Me salvaste la vida. Gracias."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "200_Saejima"
 msgid "Thank this guy, not me. He's the one that was doin' all the worryin'."
 msgstr "No, si quieres agradecerle a alguien, agradécele a él.\\r\nFue el que más se preocupó por ti."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Relieved Homeless Man
-#. y4:msg_speaker_id=5
 msgctxt "224_Relieved Homeless Man"
 msgid "Master, you okay!? Did they hurt you?"
 msgstr "¡¿Maestro, está bien?! ¿Está herido?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Old Man
-#. y4:msg_speaker_id=3
 msgctxt "236_Old Man"
 msgid "Oh, it's you. Yeah, I'm all right."
 msgstr "Ah, tú. No te preocupes, estoy bien."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Relieved Homeless Man
-#. y4:msg_speaker_id=5
 msgctxt "248_Relieved Homeless Man"
 msgid "Thank goodness! I was scared outta my mind!"
 msgstr "¡Gracias a Dios! ¡Estaba bastante preocupado!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Relieved Homeless Man
-#. y4:msg_speaker_id=5
 msgctxt "260_Relieved Homeless Man"
 msgid "I owe you, sir! You really are something! By the way, what was your name again?"
 msgstr "¡Muchas gracias! ¡Eres realmente fuerte!\\r\nPor cierto, ¿cómo te llamas?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "272_Saejima"
 msgid "Saejima. You?"
 msgstr "Saejima. ¿Y ustedes?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Relieved Homeless Man
-#. y4:msg_speaker_id=5
 msgctxt "284_Relieved Homeless Man"
 msgid "People call me Ken-chan. And this here's the Master."
 msgstr "La gente me llama Ken-chan. Y este de aquí es el maestro."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "296_Master"
 msgid "I didn't come up with that nickname, but call me whatever you want."
 msgstr "Es un apodo que me puse yo solo...\\r\nllámame como quieras."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "308_Saejima"
 msgid "So why were them punks after ya anyways?"
 msgstr "Entonces, ¿por qué te molestan esos matones?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "320_Master"
 msgid "Been down here lookin' for a certain somethin'. Somethin' important."
 msgstr "He estado aquí buscando algo. Algo importante."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "332_Master"
 msgid "But then those hoodlums showed up, spoutin' nonsense about buried treasure and the like."
 msgstr "Pero según ellos es un tesoro o algo así."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "344_Saejima"
 msgid "Somethin' important?"
 msgstr "¿Algo importante?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "356_Master"
 msgid "Yep. Ain't even sure what it is exactly. My father only told me about it on his deathbed."
 msgstr "Ni siquiera yo sé que es.\\r\nSolo lo oí cuando mi padre exhaló su último aliento."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "368_Master"
 msgid "Said he buried somethin' important beneath the streets of Kamurocho."
 msgstr "Dijo que enterró algo importante bajo las calles de Kamurocho."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "380_Saejima"
 msgid "I see..."
 msgstr "Ya veo..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "392_Master"
 msgid "He told me the general location, but we got more sewers an' newfangled underground malls croppin' up every day. Makes things harder to find."
 msgstr "Me dijo la ubicación aproximada, pero en las profundidades\\r\nde Kamurocho, hay lugares como alcantarillas y calles subterráneas,\\r\ny varias cosas nuevas se han desarrollado.\n"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "404_Saejima"
 msgid "So ya mean he buried whatever it is before all this was built?"
 msgstr "¿Así que fue enterrado antes de que se construyera todo eso?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "416_Master"
 msgid "Exactly. I reckon durin' the war."
 msgstr "Sí, así es. Probablemente durante la guerra."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "428_Saejima"
 msgid "Wow, that's a long time ago. So how many years ya been diggin'?"
 msgstr "Eso suena a muchísimo tiempo...\\r\n¿Y has estado cavando durante cuántos años?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "440_Master"
 msgid "Well, heard from my father 'bout it when I was 50, so I reckon maybe 25 years. Give or take a few."
 msgstr "Mmm... escuché la historia de mi padre cuando tenía unos 50 años,\\r\nasí que unos 25 años más o menos.\n"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "452_Saejima"
 msgid "25 years..."
 msgstr "25 años..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=29
-#. y4:msg_location=T0.P29
-#. y4:msg_speaker=Ken-chan
-#. y4:msg_speaker_id=13
 msgctxt "464_Ken-chan"
 msgid "Master, this guy's pretty strong. How about asking him to help you dig?"
 msgstr "Maestro. Este tipo parece muy fuerte,\\r\n¿qué tal si le pedimos que nos ayude a cavar?\n"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=30
-#. y4:msg_location=T0.P30
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "476_Master"
 msgid "And why would I do that?"
 msgstr "¿Qué dices?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=31
-#. y4:msg_location=T0.P31
-#. y4:msg_speaker=Ken-chan
-#. y4:msg_speaker_id=13
 msgctxt "488_Ken-chan"
 msgid "You've been saying your back hurts, right? And you're not getting any younger."
 msgstr "Hace poco dijiste que te dolía la espalda, ¿verdad?\\r\nSi no cavamos rápido, ¡terminarás muerto antes de descubrir el secreto!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=32
-#. y4:msg_location=T0.P32
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "500_Master"
 msgid "Oh, shut yer trap! I still got it in me!"
 msgstr "¡Cállate! ¡Todavía estoy lleno de energía!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Ken-chan
-#. y4:msg_speaker_id=13
 msgctxt "512_Ken-chan"
 msgid "You don't have to be so hardheaded! Saejima-san, will you help the Master dig?"
 msgstr "Vamos, no tienes que ser tan terco.\\r\nOye, Saejima-san, ¿qué tal si nos ayudas con la excavación?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=34
-#. y4:msg_location=T0.P34
-#. y4:msg_speaker=Ken-chan
-#. y4:msg_speaker_id=13
 msgctxt "524_Ken-chan"
 msgid "Please!"
 msgstr "¡Por favor!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=35
-#. y4:msg_location=T0.P35
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "536_Saejima"
 msgid "Ya really been digging this hole for 25 years?"
 msgstr "¿De verdad has estado cavando durante 25 años?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=36
-#. y4:msg_location=T0.P36
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "548_Master"
 msgid "Pretty much."
 msgstr "Bueno, algo así."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=37
-#. y4:msg_location=T0.P37
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "560_Saejima"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=38
-#. y4:msg_location=T0.P38
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "572_Saejima"
 msgid "I see. Well, I'll help whenever I got the time."
 msgstr "Está bien.\\r\nCuando tenga tiempo, te ayudaré."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=39
-#. y4:msg_location=T0.P39
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "584_Master"
 msgid "Seriously, kid? You ain't even involved. Might not be anything in it for ya either."
 msgstr "¿En serio lo harás?\\r\n¿Aunque no tenga nada que ver contigo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=40
-#. y4:msg_location=T0.P40
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "596_Saejima"
 msgid "Consider it karma. Plus, haven't had a good workout since comin' to Kamurocho. Don't worry about it."
 msgstr "Desde que llegué a Kamurocho he dejado de hacer ejercicio.\\r\nSupongo que ya va siendo hora de hacer un poco."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=41
-#. y4:msg_location=T0.P41
-#. y4:msg_speaker=Ken-chan
-#. y4:msg_speaker_id=13
 msgctxt "608_Ken-chan"
 msgid "Perfect! You just might find what you're looking for before you pass on, Master!"
 msgstr "¡Qué bien! ¡Quizás encuentres algo importante antes de descansar en paz, maestro!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=42
-#. y4:msg_location=T0.P42
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "620_Master"
 msgid "Will you quit talkin' about me dyin' already!? Geez!"
 msgstr "¡Llevas hablando como si estuviera en mi lecho de muerte!\\r\n¡Por Dios!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=43
-#. y4:msg_location=T0.P43
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "632_Master"
 msgid "Saejima, was it? I may talk a lot, but I can't stop the years from pilin' on."
 msgstr "Saejima, ¿verdad? Incluso si eres terco,\\r\nno puedes evitar el paso del tiempo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=44
-#. y4:msg_location=T0.P44
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "644_Master"
 msgid "Honestly, this old man'd be really happy if ya lent a hand, even if it's only for a little."
 msgstr "Si puedes ayudarme aunque sea un poco,\\r\nrealmente te lo agradecería."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=45
-#. y4:msg_location=T0.P45
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "656_Saejima"
 msgid "Got it. I'll come by and help when I can."
 msgstr "Entendido. Cuando tenga tiempo, vendré a ayudar."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=46
-#. y4:msg_location=T0.P46
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "668_Master"
 msgid "Thank you, son. I'm in your debt."
 msgstr "Muchas gracias por tu amabilidad, hijo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=47
-#. y4:msg_location=T0.P47
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "680_Master"
 msgid "Ain't much of a reward, I guess, but do ya know about <Color:7>Revelations<Color:Default>?"
 msgstr "Supongo que no es mucho, pero,\\r\n¿has oído algo de las <Color:7>Revelaciones<Color:Default>?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=48
-#. y4:msg_location=T0.P48
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "692_Saejima"
 msgid "Revelations?"
 msgstr "¿Revelaciones?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=49
-#. y4:msg_location=T0.P49
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "704_Master"
 msgid "Yep. Revelations allow you to learn new techniques by observing various events around town."
 msgstr "Sí, exacto. Es cuando estás por la ciudad y ves algo que te llena de nuevas ideas e inspiración."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=50
-#. y4:msg_location=T0.P50
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "716_Master"
 msgid "Might just be able to discover somethin' new if ya capture those decisive moments in material form."
 msgstr "Capturar ese momento decisivo\\r\npuede llevar a descubrimientos inesperados."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=51
-#. y4:msg_location=T0.P51
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "728_Saejima"
 msgid "But I don't have a camera. Never been much good with machines anyway."
 msgstr "Pero no tengo ninguna cámara.\\r\nDe igual forma, no soy tan bueno con la tecnología."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=52
-#. y4:msg_location=T0.P52
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "740_Master"
 msgid "Same here. Couldn't afford it either. That's why I use these babies."
 msgstr "Estamos igual. No podía tener algo tan caro.\\r\nEs por eso que uso esto."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=53
-#. y4:msg_location=T0.P53
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "752_Saejima"
 msgid "A hammer and chisel?"
 msgstr "¿Un martillo y un cincel?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=54
-#. y4:msg_location=T0.P54
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "764_Master"
 msgid "I'll give ya some good carvin' wood too. Use that there hammer and chisel to carve the events you see."
 msgstr "También te daré un poco de madera.\\r\nAsí podrás tallar los eventos que ocurran con el martillo y el cincel."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=55
-#. y4:msg_location=T0.P55
-#. y4:msg_speaker=Master
-#. y4:msg_speaker_id=9
 msgctxt "776_Master"
 msgid "Ask Ken-chan about what's goin' on above ground. He may have some good information."
 msgstr "Pregúntale a Ken-chan si sabe donde podría estar ocurriendo algo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=56
-#. y4:msg_location=T0.P56
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "788_Saejima"
 msgid "I think I get it. I'll give it a try."
 msgstr "Está bien. Lo intentaré."
@@ -887,447 +446,161 @@ msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nR
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=65
-#. y4:msg_location=T0.P65
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "896_Saejima"
 msgid "(Well, looks like I've settled things here. Time to investigate that legendary info dealer. Wonder if any of the homeless might know something...)"
 msgstr "(Bueno, parece que todo se resolvió. Hora de investigar sobre ese informante legendario. Tal vez un indigente sepa algo)."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=24
 msgctxt "944_Panicked Homeless Man"
 msgid "Over there!"
 msgstr "¡Mira, por ahí!"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Punk-like Man
-#. y4:msg_speaker_id=0
 msgctxt "968_Punk-like Man"
 msgid "Enough bull, old man. It's time you told us the truth."
 msgstr "Ya es hora abuelo. Dí la verdad."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Punk-like Man
-#. y4:msg_speaker_id=0
 msgctxt "980_Punk-like Man"
 msgid "We don't like to get rough with frail geezers, so do us a favor and start talking."
 msgstr "Tampoco queremos ser violentos con los mayores.\\r\nAsí que, por favor, conversemos un poco."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Old Man
-#. y4:msg_speaker_id=3
 msgctxt "992_Old Man"
 msgid "I can't let you go any further! All these years o' hard work woulda been for nothing!"
 msgstr "¡No te dejaré pasar de aquí! ¡No dejaré que mis años de esfuerzo se echen a perder!"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Punk-like Man
-#. y4:msg_speaker_id=0
 msgctxt "1004_Punk-like Man"
 msgid "We know you're hiding tons of buried treasure back there! That's why you been digging like this since the stone age!"
 msgstr "Sabemos que hay un montón de tesoros ahí, ¿verdad?\\r\nPor eso has estado cavando tan duro todos estos años, ¿no?"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Old Man
-#. y4:msg_speaker_id=3
 msgctxt "1016_Old Man"
 msgid "There ain't no buried treasure! Now get the hell outta here!"
 msgstr "¡No hay ningún tesoro!\\r\n¡Largo de aquí!"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Punk-like Man
-#. y4:msg_speaker_id=0
 msgctxt "1028_Punk-like Man"
 msgid "It's no fair if you hog all that money to yourself. Share the loot why don't you, grandpa?"
 msgstr "No es justo que te lo guardes todo para ti, viejo.\\r\nCompartámoslo todos juntos."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Punk-like Man
-#. y4:msg_speaker_id=0
 msgctxt "1040_Punk-like Man"
 msgid "Come on, this is taking too long. If you're not gonna move, then we'll just have to move you!"
 msgstr "Oye, esto ya se está tardando demasiado.\\r\nQuitemos al viejo de en medio y hagámosle entrar en razón."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=24
 msgctxt "1052_Panicked Homeless Man"
 msgid "Oh no! They're gonna kill the Master!"
 msgstr "¡Ay no! ¡Van a matar al maestro!"
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=24
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Help Him -> T1.P20 | 2. Don't Help -> T1.P14
 msgctxt "1064_Panicked Homeless Man"
 msgid "You look like a pretty strong guy. Please get rid of those hooligans and save the Master!"
 msgstr "Pareces ser un hombre fuerte. ¡Por favor! ¡Deshazte de esa gente y ayuda al maestro!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Don't Help
 msgctxt "1076_Saejima"
 msgid "Sorry, can't get involved. Fight yer own battles with yer own friends."
 msgstr "Lo siento, no quiero problemas. \\r\n¿Por qué no reúnes a tu gente y pelean?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=24
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Don't Help
 msgctxt "1088_Panicked Homeless Man"
 msgid "But nobody really likes the Master. He's not exactly the social type..."
 msgstr "¡Pero el maestro no está muy bien considerado por todos!\\r\nNo se le da muy bien socializar..."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=16
-#. y4:msg_location=T1.P16
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=24
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Don't Help
 msgctxt "1100_Panicked Homeless Man"
 msgid "But he's still a good guy! You gotta help him out!"
 msgstr "¡Pero no es mala persona!\\r\n¡Así que quiero ayudarle de alguna manera!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=17
-#. y4:msg_location=T1.P17
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=24
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Don't Help
 msgctxt "1112_Panicked Homeless Man"
 msgid "Please! You're my only hope!"
 msgstr "¡Por favor! ¡Eres mi única esperanza!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=18
-#. y4:msg_location=T1.P18
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Don't Help
 msgctxt "1124_Saejima"
 msgid "...Oh, for crying out loud."
 msgstr "... Por el amor de Dios."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=19
-#. y4:msg_location=T1.P19
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Don't Help
 msgctxt "1136_Saejima"
 msgid "Fine. When ya put it like that, guess I can't just sit back and watch the old man die."
 msgstr "Está bien, está bien. Supongo que no puedo dejar que muera."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=20
-#. y4:msg_location=T1.P20
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Help Him
 msgctxt "1148_Saejima"
 msgid "I'll talk to 'em."
 msgstr "Hablaré con ellos."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=21
-#. y4:msg_location=T1.P21
-#. y4:msg_speaker=Panicked Homeless Man
-#. y4:msg_speaker_id=24
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Help Him
 msgctxt "1160_Panicked Homeless Man"
 msgid "Really!? Thank you, kind sir!"
 msgstr "¡¿En serio?! ¡Muchas gracias, señor!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=22
-#. y4:msg_location=T1.P22
-#. y4:msg_speaker=Punk-like Man
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Help Him
 msgctxt "1172_Punk-like Man"
 msgid "Listen, gramps, tell us what we wanna know or it ain't the retirement home you're headed for. Got it?"
 msgstr "Abuelo, si no me respondes en un minuto,\\r\nte romperé la cara, y es en serio, ¿vale?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=23
-#. y4:msg_location=T1.P23
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Help Him
 msgctxt "1184_Saejima"
 msgid "Wait right there."
 msgstr "Un momento."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=25
-#. y4:msg_location=T1.P25
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Help Him
 msgctxt "1208_Saejima"
 msgid "You kids havin' fun pickin' on senior citizens? Ain't ya supposed to care for the elderly?"
 msgstr "¿Disfrutan metiéndose así con los viejos?\\r\n¿No deberían mostrar un poco de respeto?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=26
-#. y4:msg_location=T1.P26
-#. y4:msg_speaker=Punk-like Man
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Help Him
 msgctxt "1220_Punk-like Man"
 msgid "Who the fuck are you, huh? One of this guy's homeless friends?"
 msgstr "¿Qué pasa contigo? ¿Estás con este viejo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=27
-#. y4:msg_location=T1.P27
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Help Him
 msgctxt "1232_Saejima"
 msgid "Don't matter. Just let this whole thing go and get lost."
 msgstr "Eso no importa. Deberían irse a casa."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=28
-#. y4:msg_location=T1.P28
-#. y4:msg_speaker=Punk-like Man
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Help Him
 msgctxt "1244_Punk-like Man"
 msgid "So you're after the loot too! You think we don't know what's up?"
 msgstr "Vas tras el tesoro también, ¿verdad?\\r\n¡Eres un ingenuo si piensas que te lo quedarás con esas bonitas palabras!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=29
-#. y4:msg_location=T1.P29
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Help Him
 msgctxt "1256_Saejima"
 msgid "Gimme a break already. Kids these days dunno when to listen."
 msgstr "Para nada... Los niños de hoy en día no escuchan."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=30
-#. y4:msg_location=T1.P30
-#. y4:msg_speaker=Punk-like Man
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Help Him
 msgctxt "1268_Punk-like Man"
 msgid "Enough talk! We're gonna float both your geriatric corpses down the fuckin' sewer!"
 msgstr "¡Ya basta de hablar! ¡Te mostraremos como enviamos tu cuerpo flotando por la alcantarilla!"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P20
-#. y4:msg_branch_segment=T1.P20..P31
-#. y4:msg_branch_target_text=I'll talk to 'em.
-#. y4:msg_branch_raw=01 11 00 14 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "1292_Punk-like Man"
 msgid "Help Him"
 msgstr "Ayudarle"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P14
-#. y4:msg_branch_segment=T1.P14..P19
-#. y4:msg_branch_target_text=Sorry, can't get involved. Fight yer own battles with yer own friends.
-#. y4:msg_branch_raw=01 11 00 0e 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "1304_Punk-like Man"
 msgid "Don't Help"
 msgstr "No ayudarle"

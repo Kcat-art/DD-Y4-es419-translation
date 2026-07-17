@@ -16,130 +16,66 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00090151 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1720"
 msgid "Ex-Tojo Yakuza"
 msgstr "Ex-miembro del clan Tojo"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1724"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1728"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "1732"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Ex-Tojo Yakuza
-#. y4:msg_speaker_id=0
 msgctxt "84_Ex-Tojo Yakuza"
 msgid "Watch out, Saejima-san. Hamazaki's taking you for the ride of the century."
 msgstr "Saejima-san...\\r\nEstás siendo engañado."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "96_Saejima"
 msgid "Whaddya mean?"
 msgstr "¿A qué te refieres?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Ex-Tojo Yakuza
-#. y4:msg_speaker_id=0
 msgctxt "108_Ex-Tojo Yakuza"
 msgid "I used to be in the Tojo, just like you... and lemme tell you, nothing good's gonna come from trusting that dirty two-timer."
 msgstr "Yo también estaba en el clan Tojo... Hamazaki, ese tipo...\\r\nNo es digno de confianza."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Ex-Tojo Yakuza
-#. y4:msg_speaker_id=0
 msgctxt "120_Ex-Tojo Yakuza"
 msgid "Did you know he and the Snake Flower Triad tried taking over the Tojo? Needless to say, more than a few guys in here would love nothing more than to stick a knife in his belly."
 msgstr "Escuché que se alió con la mafia china para\\r\nintentar tomar el control del clan.\\r\nHay muchos que le guardan rencor..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "132_Saejima"
 msgid "Ya got beef with Hamazaki, take it up with him. Don't got nothin' to do with me."
 msgstr "Si tienes problemas con Hamazaki,\\r\n¿por qué no se lo dices directamente a él?\\r\nNo me molestes con tonterías."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Ex-Tojo Yakuza
-#. y4:msg_speaker_id=0
 msgctxt "144_Ex-Tojo Yakuza"
 msgid "Not sure that's true. Lemme guess, he said he's gonna help you break out? Sorry, pal, but he's gonna sell you out first chance he gets. You'll see."
 msgstr "Estoy diciendo que serás usado y desechado.\\r\nTe pidió que lo ayudaras a escapar de la prisión, ¿verdad?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "156_Saejima"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Ex-Tojo Yakuza
-#. y4:msg_speaker_id=0
 msgctxt "168_Ex-Tojo Yakuza"
 msgid "Look, I'm just trying to warn you. Back out now before shit really hits the fan."
 msgstr "Solo te estoy avisando.\\r\nSi vas a reconsiderarlo, es mejor que lo hagas ahora."

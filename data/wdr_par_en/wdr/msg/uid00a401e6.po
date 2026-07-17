@@ -24,103 +24,52 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00A401E6 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1552"
 msgid "Mother"
 msgstr "Madre"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1556"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1560"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "1564"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "1568"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Mother
-#. y4:msg_speaker_id=0
 msgctxt "84_Mother"
 msgid "Oh, my. Where could that girl have gotten to?"
 msgstr "Dios mío. ¿Dónde podría haber ido mi hija?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "96_Kiryu"
 msgid "Excuse me. Your daughter wouldn't happen to be a young girl dressed in navy blue, would she?"
 msgstr "Disculpe. ¿No estará buscando a una niña vestida de azul marino, verdad?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Mother
-#. y4:msg_speaker_id=0
 msgctxt "108_Mother"
 msgid "Yes, that's her! Have you seen her?"
 msgstr "¡Sí, así es! ¿La ha visto?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "120_Kiryu"
 msgid "Yeah, she's in front of the Millennium Tower. A friend of mine is watching over her there."
 msgstr "Sí, está frente a la Torre Millenium. Un amigo mío está cuidando de ella."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Mother
-#. y4:msg_speaker_id=0
 msgctxt "132_Mother"
 msgid "Oh, thank you! Thank you so much! I'll head over there right away!"
 msgstr "¡Gracias! ¡Muchísimas gracias! ¡Iré allí de inmediato!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "156_Kiryu"
 msgid "(Glad that's all sorted out.)"
 msgstr "(Bien está lo que bien acaba)."

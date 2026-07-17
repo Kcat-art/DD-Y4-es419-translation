@@ -16,175 +16,107 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00260382 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "7296"
 msgid "Smith"
 msgstr "Herrero"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "7300"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "7304"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "7308"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "7312"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "7316"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "7320"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "7324"
 msgid "Talk_Udekumi_Yes"
 msgstr "Talk_Udekumi_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "7328"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "7332"
 msgid "Talk_Request"
 msgstr "Talk_Request"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "7336"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "7340"
 msgid "Talk_Kosite_No"
 msgstr "Talk_Kosite_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "7344"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "7348"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "7352"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
 msgctxt "7356"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
 msgctxt "7360"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=17
 msgctxt "7364"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Smith
-#. y4:msg_speaker_id=0
 msgctxt "132_Smith"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "144_Tanimura"
 msgid "...Well?"
 msgstr "... ¿Y bien?"
@@ -195,15 +127,6 @@ msgid "Yes! This is it! This is exactly what I was talking about!\\r\nWhat's the
 msgstr "¡Sí! ¡Esto es! ¡Esto es exactamente de lo que estaba hablando!\\r\n¿Cómo era que se llamaba este juego?"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "168_Tanimura"
 msgid "It's called shogi."
 msgstr "Se llama shogi."
@@ -214,43 +137,16 @@ msgid "That's right! Shogi! The tension in here's so thick,\\r\nyou could cut it
 msgstr "¡Así es! ¡Shogi! La tensión aquí es tan tensa,\\r\n¡que podrías cortarla con un cuchillo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Smith
-#. y4:msg_speaker_id=0
 msgctxt "192_Smith"
 msgid "This's some good shit, m'dude!"
 msgstr "¡Esta es la mierda que buscaba, amigo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "204_Tanimura"
 msgid "(Well, he sounds satisfied.)"
 msgstr "(Bueno, parece satisfecho)."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "216_Tanimura"
 msgid "I'm happy for you. So is it cool if I leave now?"
 msgstr "Me alegro por ti. Entonces, ¿está bien si me voy ahora?"
@@ -261,43 +157,16 @@ msgid "Well, if you wouldn't mind kickin' it with me for a little\\r\nlonger, th
 msgstr "Bueno, si no te importara pasarla conmigo por un rato\\r\nmás, hay un lugar más al que quiero ir. Pero eso es todo."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "240_Tanimura"
 msgid "...Might as well see this through. Fine, where to?"
 msgstr "... Bien, debería haber visto venir esa. Bien, ¿a dónde?"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Smith
-#. y4:msg_speaker_id=0
 msgctxt "252_Smith"
 msgid "I want to go somewhere where only men are allowed..."
 msgstr "Quiero ir a un lugar donde solo se permitan hombres..."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "264_Tanimura"
 msgid "Uh... I'm not quite sure I get it."
 msgstr "Este... No estoy muy seguro de entenderlo."
@@ -313,15 +182,6 @@ msgid "It's a place where it's men only, and everybody is naked.\\r\nThey rub sh
 msgstr "Es un lugar donde solo hay hombres y todos están desnudos.\\r\nSe codean y se comunican entre sí.\\r\nAlgo así."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "300_Tanimura"
 msgid "...Drawing a total blank here."
 msgstr "... No se me enciende ni una bombilla a decir verdad."
@@ -332,17 +192,9 @@ msgid "Oh, come on! You know what I mean! A men's only place\\r\nwhere everybody
 msgstr "¡Vamos! ¡Sabes a lo que me refiero! Un lugar solo para hombres\\r\n¡Donde todo el mundo está desnudo! ¡Japón es conocido por esta mierda!"
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. A massage parlor. -> T0.P17 | 2. A hot spring. -> T0.P32 | 3. A gentleman's club. -> T0.P22 | 4. A video store. -> T0.P27
 msgctxt "324_Tanimura"
 msgid "Well, you could be talking about a..."
 msgstr "Bueno, podrías estar hablando de..."
@@ -353,81 +205,26 @@ msgid "Let's go to Love in Heart. Maybe that's the kind of place\\r\nyou're look
 msgstr "Vamos a Love in Heart. Tal vez ese sea el tipo de lugar\\r\nque estás buscando."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Smith
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=A massage parlor.
 msgctxt "348_Smith"
 msgid "You sure you're not just pulling something out of your ass?"
 msgstr "¿Estás seguro de que no te estás sacando algo del culo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=A massage parlor.
 msgctxt "360_Tanimura"
 msgid "You worry too much. Just follow me."
 msgstr "Te preocupas demasiado. Solo sígueme."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Smith
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=A massage parlor.
 msgctxt "372_Smith"
 msgid "Oh... Okay. I guess I'll give it a try."
 msgstr "Oh... Bien. Supongo que lo intentaré."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=A gentleman's club.
 msgctxt "396_Tanimura"
 msgid "I know this place called Asia. We should go there."
 msgstr "Conozco este lugar llamado Asia. Deberíamos ir allí."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Smith
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_choice=A gentleman's club.
 msgctxt "408_Smith"
 msgid "What's it all about?"
 msgstr "¿De qué se trata?"
@@ -443,33 +240,11 @@ msgid "Right, that sense of masculine solidarity! Sounds like you\\r\nhit the na
 msgstr "¡Cierto, ese sentido de solidaridad masculina! Parece que\\r\nhas dado en el clavo. ¡Vamos a ello!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=A video store.
 msgctxt "456_Tanimura"
 msgid "Let's go to Beam."
 msgstr "Vayamos al Beam."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Smith
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=4
-#. y4:msg_branch_choice=A video store.
 msgctxt "468_Smith"
 msgid "\"Beam\"? Sounds a little suspect to me..."
 msgstr "¿Beam? Suena un poco sospechoso..."
@@ -485,137 +260,65 @@ msgid "Hmm, you sound like you know what you're talking about.\\r\nOkay, then I 
 msgstr "Hmm, parece que sabes de lo que estás hablando.\\r\nEstá bien, entonces espero con ansias verlo. ¡Vamos a probarlo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=32
-#. y4:msg_location=T0.P32
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=A hot spring.
 msgctxt "516_Tanimura"
 msgid "Then let's go to Yunosono Hot Springs."
 msgstr "Luego vayamos a las aguas termales de Yunosono."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Smith
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=A hot spring.
 msgctxt "528_Smith"
 msgid "Yunosono Hot Springs?"
 msgstr "¿Aguas termales de Yunosono?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=34
-#. y4:msg_location=T0.P34
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=A hot spring.
 msgctxt "540_Tanimura"
 msgid "Yeah, a hot spring is the place to be if you wanna get naked and communicate with other men."
 msgstr "Sí, una fuente termal es el lugar ideal si quieres desnudarte y comunicarte con otros hombres."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=35
-#. y4:msg_location=T0.P35
-#. y4:msg_speaker=Smith
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=A hot spring.
 msgctxt "552_Smith"
 msgid "Sounds good to me! Then let's get crackin'!"
 msgstr "¡A mí me parece bien! ¡Entonces vamos a ponernos manos a la obra!"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P17
-#. y4:msg_branch_segment=T0.P17..P21
-#. y4:msg_branch_target_text=Let's go to Love in Heart. Maybe that's the kind of place\nyou're looking for.
-#. y4:msg_branch_raw=01 11 00 11 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "576_Smith"
 msgid "A massage parlor."
 msgstr "Un salón de masajes."
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P32
-#. y4:msg_branch_segment=T0.P32..P36
-#. y4:msg_branch_target_text=Then let's go to Yunosono Hot Springs.
-#. y4:msg_branch_raw=01 11 00 20 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "588_Smith"
 msgid "A hot spring."
 msgstr "Una fuente termal."
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P22
-#. y4:msg_branch_segment=T0.P22..P26
-#. y4:msg_branch_target_text=I know this place called Asia. We should go there.
-#. y4:msg_branch_raw=01 11 00 16 00 00 00 13 00 00 00 00 00 00 00 00
 msgctxt "600_Smith"
 msgid "A gentleman's club."
 msgstr "Un club de caballeros."
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=4
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P27
-#. y4:msg_branch_segment=T0.P27..P31
-#. y4:msg_branch_target_text=Let's go to Beam.
-#. y4:msg_branch_raw=01 11 00 1b 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "612_Smith"
 msgid "A video store."
 msgstr "Un videoclub."

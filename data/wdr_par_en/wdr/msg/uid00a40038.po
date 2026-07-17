@@ -16,115 +16,69 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00A40038 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "4420"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "4424"
 msgid "Desperate Man"
 msgstr "Hombre desesperado"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "4428"
 msgid "Talk_Request"
 msgstr "Talk_Request"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "4432"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "4436"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "4440"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "4444"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "4448"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "328_Akiyama"
 msgid "Sorry to keep you waiting. Uh..."
 msgstr "Lamento haberle hecho esperar. Eh..."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=1
-#. y4:msg_location=T6.P1
-#. y4:msg_speaker=Desperate Man
-#. y4:msg_speaker_id=1
 msgctxt "340_Desperate Man"
 msgid "Please! I need money right now!"
 msgstr "¡Por favor! ¡Necesito dinero!"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=0
 msgctxt "352_Desperate Man"
 msgid "Can you help me!? I need money... Oh, won't you please give\\r\nme a loan!?"
 msgstr "¡¿Podría ayudarme?! Necesito dinero... ¡¿Me daría un préstamo?!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=3
-#. y4:msg_location=T6.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Have Him Wait
 msgctxt "364_Akiyama"
 msgid "Sorry, I was just on my way out. Would you mind waiting a while?"
 msgstr "Disculpe, justo iba saliendo. ¿Le importaría esperarme un rato?"
@@ -135,33 +89,11 @@ msgid "That's what you said the last time! Are you gonna make me\\r\nwait foreve
 msgstr "¡Eso dijo la última vez! ¡¿Me hará esperar por siempre?!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=5
-#. y4:msg_location=T6.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Have Him Wait
 msgctxt "388_Akiyama"
 msgid "Look, I'll be right back. I really am sorry."
 msgstr "Escuche, volveré en un rato. Lo siento."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=6
-#. y4:msg_location=T6.P6
-#. y4:msg_speaker=Desperate Man
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Have Him Wait
 msgctxt "400_Desperate Man"
 msgid "Ah..."
 msgstr "Ah..."
@@ -172,114 +104,44 @@ msgid "Now, just calm down. Let's head up to my office and I'll\\r\nhear what yo
 msgstr "Cálmese, vamos a mi oficina y escucharé lo que\\r\ntenga que decir."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=8
-#. y4:msg_location=T6.P8
-#. y4:msg_speaker=Desperate Man
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Hear Him Out
 msgctxt "424_Desperate Man"
 msgid "Oh... Okay."
 msgstr "Ah, bueno..."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
-#. y4:msg_speaker=Desperate Man
-#. y4:msg_speaker_id=1
 msgctxt "448_Desperate Man"
 msgid "Er... Is this Sky Finance?"
 msgstr "Disculpe..., ¿aquí queda Sky Finance?"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=7
-#. y4:msg_phrase=1
-#. y4:msg_location=T7.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "460_Akiyama"
 msgid "Whoops! Yeah, it is. Are, uh... you a customer?"
 msgstr "¡Ah! Sí, aquí es. Supongo que necesita de nuestros\nservicios, ¿no?"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=1
 msgctxt "472_Desperate Man"
 msgid "Can you help me!? I need money... Oh, won't you please give\\r\nme a loan!?"
 msgstr "¡¿Podría ayudarme?! Necesito dinero... ¡¿Me daría un préstamo?!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=3
-#. y4:msg_location=T6.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Have Him Wait
 msgctxt "484_Akiyama"
 msgid "Sorry, I was just on my way out. Would you mind waiting a while?"
 msgstr "Disculpe, pero necesito ir a un lugar. ¿Me puede esperar\nun momento?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=7
-#. y4:msg_phrase=4
-#. y4:msg_location=T7.P4
-#. y4:msg_speaker=Desperate Man
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Have Him Wait
 msgctxt "496_Desperate Man"
 msgid "Huh? But I need money right now!"
 msgstr "¿Eh? ¡No puedo esperar, lo necesito de manera urgente!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=5
-#. y4:msg_location=T6.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Have Him Wait
 msgctxt "508_Akiyama"
 msgid "Look, I'll be right back. I really am sorry."
 msgstr "Mire, siento no poder ayudarlo ahora, pero no me tardaré."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=6
-#. y4:msg_location=T6.P6
-#. y4:msg_speaker=Desperate Man
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Have Him Wait
 msgctxt "520_Desperate Man"
 msgid "Ah..."
 msgstr "Ah..."
@@ -290,89 +152,50 @@ msgid "Now, just calm down. Let's head up to my office and I'll\\r\nhear what yo
 msgstr "Ey, ey, más despacio, velocista. Está bien, acompáñeme\na mi oficina, y allí hablemos con más calma, ¿sí?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=7
-#. y4:msg_phrase=11
-#. y4:msg_location=T7.P11
-#. y4:msg_speaker=Desperate Man
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Hear Him Out
 msgctxt "580_Desperate Man"
 msgid "Oh, thank goodness."
 msgstr "¡Oh, muchas gracias!"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T6.P7
-#. y4:msg_branch_segment=T6.P7..P9
-#. y4:msg_branch_target_text=Now, just calm down. Let's head up to my office and I'll\nhear what you have to say.
-#. y4:msg_branch_raw=01 11 00 07 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "604_Akiyama"
 msgid "Hear Him Out"
 msgstr "Escucharlo"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T6.P3
-#. y4:msg_branch_segment=T6.P3..P6
-#. y4:msg_branch_target_text=Sorry, I was just on my way out. Would you mind waiting a while?
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 0d 00 00 00 00 00 00 00 00
 msgctxt "616_Akiyama"
 msgid "Have Him Wait"
 msgstr "Hacerlo esperar"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T6.P7
-#. y4:msg_branch_segment=T6.P7..P9
-#. y4:msg_branch_target_text=Now, just calm down. Let's head up to my office and I'll\nhear what you have to say.
-#. y4:msg_branch_raw=01 11 00 07 00 00 00 0c 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T7.P10
 msgctxt "628_Akiyama"
 msgid "Hear Him Out"
 msgstr "Escucharlo"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T6.P3
-#. y4:msg_branch_segment=T6.P3..P6
-#. y4:msg_branch_target_text=Sorry, I was just on my way out. Would you mind waiting a while?
-#. y4:msg_branch_raw=01 11 00 03 00 00 00 0d 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T7.P3
 msgctxt "640_Akiyama"
 msgid "Have Him Wait"
 msgstr "Hacerlo esperar"

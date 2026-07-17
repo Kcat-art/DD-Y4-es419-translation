@@ -17,281 +17,137 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "5596"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "5600"
 msgid "Zhao"
 msgstr "Zhao"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "5604"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "5608"
 msgid "Mei Hua"
 msgstr "Mei Hua"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "5612"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "5616"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "5620"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "5624"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "84_Tanimura"
 msgid "What are you guys doing?"
 msgstr "¿Qué andan haciendo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "96_Tanimura"
 msgid "Is... something wrong?"
 msgstr "¿Pasa algo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=1
 msgctxt "108_Zhao"
 msgid "We've got some graffiti artists on our hands."
 msgstr "Tenemos algunos artistas de graffiti en nuestras manos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "120_Tanimura"
 msgid "That's been happening for a while now, hasn't it? Around Little Asia."
 msgstr "Eso ha estado sucediendo desde hace un tiempo, ¿no? Alrededor de la Pequeña Asia."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=1
 msgctxt "132_Zhao"
 msgid "No... This time it's different."
 msgstr "No... Esta vez es diferente."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "144_Tanimura"
 msgid "What do you mean?"
 msgstr "¿A qué te refieres?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=3
 msgctxt "156_Mei Hua"
 msgid "It's written in Chinese, Korean, and even Thai."
 msgstr "Está escrito en chino, coreano e incluso tailandés."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "168_Tanimura"
 msgid "Is that such a surprise? Japanese is like a foreign language in this part of town."
 msgstr "¿Es una sorpresa? El japonés es como un idioma extranjero en esta parte de la ciudad."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=1
 msgctxt "180_Zhao"
 msgid "I can't argue with that, but..."
 msgstr "No puedo discutir contra eso, pero..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=1
 msgctxt "192_Zhao"
 msgid "I'm concerned about the people who wrote it."
 msgstr "Me preocupan las personas que lo escribieron."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "204_Tanimura"
 msgid "Do you know who they are?"
 msgstr "¿Saben quiénes son?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Zhao
-#. y4:msg_speaker_id=1
 msgctxt "216_Zhao"
 msgid "Yeah. It's probably some of our kids."
 msgstr "Sí. Probablemente sean algunos de nuestros niños."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "228_Tanimura"
 msgid "How do you know?"
 msgstr "¿Cómo puede saberlo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=3
 msgctxt "240_Mei Hua"
 msgid "Because they wrote stuff like, \"I hate Japan for sending my dad away.\""
 msgstr "Porque escribieron cosas como: \"Odio a Japón por haber deportado a mi padre\"."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=3
 msgctxt "252_Mei Hua"
 msgid "And, \"The Japanese don't think of us as people.\" Really sad things like that."
 msgstr "Y también: \"Los japoneses no piensan en nosotros como personas\". Cosas realmente tristes como esa."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "264_Tanimura"
 msgid "You really think the Asian Gateway kids would do that?"
 msgstr "¿De verdad crees que los chicos de (Nombre sujeto a cambio) harían eso?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=16
-#. y4:msg_location=T1.P16
-#. y4:msg_speaker=Mei Hua
-#. y4:msg_speaker_id=3
 msgctxt "276_Mei Hua"
 msgid "I really don't know... But since the kids in the Asian Gateway are left without parents, I'm not sure who else it could be."
 msgstr "Realmente no sé... Pero dado que los niños en la Red Asia los dejan sin sus padres, no estoy seguro de quién más podría ser."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=17
-#. y4:msg_location=T1.P17
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "288_Tanimura"
 msgid "That's true..."
 msgstr "Eso es verdad..."
@@ -302,13 +158,6 @@ msgid "All right. I'm gonna try and find who's doing it\\r\nand have a little ta
 msgstr "Muy bien. Voy a tratar de encontrar quién lo está haciendo\\r\ny tener una pequeña charla con ellos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=19
-#. y4:msg_location=T1.P19
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "312_Tanimura"
 msgid "For starters, where's all this graffiti?"
 msgstr "Para empezar, ¿dónde estan los graffitis?"
@@ -334,25 +183,11 @@ msgid "Good thinking. Don't take them to the Asian Gateway, then.\\r\nBring them
 msgstr "Bien pensado. Entonces, no los lleves a la Red Asia.\\r\nLlévalos al Parque Oeste. Allí te estaré esperando."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=24
-#. y4:msg_location=T1.P24
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "372_Tanimura"
 msgid "Got it."
 msgstr "Entiendo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=25
-#. y4:msg_location=T1.P25
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=0
 msgctxt "384_Tanimura"
 msgid "See you later, then."
 msgstr "Nos vemos luego."

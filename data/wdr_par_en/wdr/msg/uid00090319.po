@@ -16,210 +16,125 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00090319 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "14192"
 msgid "Hana"
 msgstr "Hana"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "14196"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "14200"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "14204"
 msgid "P_aki_sitsofa"
 msgstr "P_aki_sitsofa"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "14208"
 msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "14212"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "14216"
 msgid "Middle-aged Woman"
 msgstr "Mujer de mediana edad"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "14220"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "14224"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "14228"
 msgid "F_nml_stand"
 msgstr "F_nml_stand"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "14232"
 msgid "F_nml_sitsofa_tlk_kamae_ed"
 msgstr "F_nml_sitsofa_tlk_kamae_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "14236"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "14240"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
+#. y4:msg_role=name
+#. y4:msg_name_id=13
 msgctxt "14244"
 msgid "Manager"
 msgstr "Gerente"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "14248"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
 msgctxt "14252"
 msgid "P_aki_stand"
 msgstr "P_aki_stand"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
 msgctxt "14256"
 msgid "P_aki_sitsofa_tlk_kamae_ed"
 msgstr "P_aki_sitsofa_tlk_kamae_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "96_Hana"
 msgid "Chief, where have you been?"
 msgstr "Jefe, ¿dónde andaba?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "120_Hana"
 msgid "We have a new customer."
 msgstr "Tenemos un nuevo cliente."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "132_Akiyama"
 msgid "Sorry about that."
 msgstr "Perdón, perdón."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "204_Akiyama"
 msgid "Apologies for the wait."
 msgstr "Disculpe por hacerle esperar."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Middle-aged Woman
-#. y4:msg_speaker_id=6
 msgctxt "216_Middle-aged Woman"
 msgid "No problem at all."
 msgstr "No se preocupe."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "228_Akiyama"
 msgid "Now, what can I do for you today?"
 msgstr "Bueno, ¿en qué puedo ayudarle?"
@@ -245,13 +160,6 @@ msgid "Lately, however, various factors have tied up his cash flow,\\r\nand the 
 msgstr "Sin embargo, últimamente han pasado muchas cosas, el dinero\\r\ncomenzó a escasear y ahora estamos en medio de una crisis financiera."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=17
-#. y4:msg_location=T1.P17
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "288_Akiyama"
 msgid "Did the banks stop financing him?"
 msgstr "¿Los bancos le negaron la financiación?"
@@ -262,13 +170,6 @@ msgid "It pains me to say this, but past clients who'd been\\r\novercharged bega
 msgstr "Es una historia vergonzosa, pero recibimos una demanda\\r\ncolectiva por sobrepago de dinero de unos antiguos clientes,\\r\ny gracias a eso terminamos perdiendo la confianza de los bancos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=19
-#. y4:msg_location=T1.P19
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "312_Akiyama"
 msgid "Then, why are you here and not your husband?"
 msgstr "Entonces, ¿por qué estás aquí tú y no tu marido?"
@@ -279,13 +180,6 @@ msgid "My husband is a prideful man. He would never dream of\\r\nborrowing money
 msgstr "Mi marido es un hombre muy orgulloso. Ni en sus sueños pediría\\r\ndinero prestado a otras empresas de préstamo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=21
-#. y4:msg_location=T1.P21
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "336_Akiyama"
 msgid "I see."
 msgstr "Ya veo."
@@ -306,37 +200,16 @@ msgid "For him to borrow from another moneylender would be as\\r\nthough he'd be
 msgstr "Para él pedir un préstamo a otro prestamista sería como\\r\nconvertirse en el padre que rechazó, él nunca podría\\r\naceptar eso."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=25
-#. y4:msg_location=T1.P25
-#. y4:msg_speaker=Middle-aged Woman
-#. y4:msg_speaker_id=6
 msgctxt "384_Middle-aged Woman"
 msgid "He has no idea I'm here."
 msgstr "Por eso vine sin decirle nada."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=26
-#. y4:msg_location=T1.P26
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "396_Akiyama"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=27
-#. y4:msg_location=T1.P27
-#. y4:msg_speaker=Middle-aged Woman
-#. y4:msg_speaker_id=6
 msgctxt "408_Middle-aged Woman"
 msgid "I beg you. Please lend me the fifty million yen."
 msgstr "Se lo ruego. Por favor, présteme los cincuenta millones de yenes."
@@ -347,13 +220,6 @@ msgid "All right. But seeing as you've come here, I assume you\\r\nalready know 
 msgstr "Está bien. Pero viendo que ha venido hasta aquí, supongo que\\r\nya conoce cómo funciona esto."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=29
-#. y4:msg_location=T1.P29
-#. y4:msg_speaker=Middle-aged Woman
-#. y4:msg_speaker_id=6
 msgctxt "432_Middle-aged Woman"
 msgid "I do. I have to pass a test, is that correct?"
 msgstr "Sí. Tengo que pasar una prueba, ¿verdad?"
@@ -369,13 +235,6 @@ msgid "As a way of testing your resolve, I'll give you thirty\\r\nminutes to fin
 msgstr "Para comprobar tu determinación, te daré treinta\\r\nminutos para encontrar trabajo en algún lugar de Kamurocho."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=32
-#. y4:msg_location=T1.P32
-#. y4:msg_speaker=Middle-aged Woman
-#. y4:msg_speaker_id=6
 msgctxt "468_Middle-aged Woman"
 msgid "Thirty minutes?"
 msgstr "¿Solo treinta minutos?"
@@ -386,61 +245,26 @@ msgid "Yes. If you succeed, I'll lend you fifty million yen,\\r\ncompletely inte
 msgstr "Sí. Si lo consigues, te prestaré los cincuenta millones,\\r\ncompletamente sin intereses."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=34
-#. y4:msg_location=T1.P34
-#. y4:msg_speaker=Middle-aged Woman
-#. y4:msg_speaker_id=6
 msgctxt "492_Middle-aged Woman"
 msgid "...I understand. Thank you."
 msgstr "...Entiendo. Muchas gracias."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=37
-#. y4:msg_location=T1.P37
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "528_Akiyama"
 msgid "Oh, and if I may ask your name, as well...?"
 msgstr "Ah, disculpe. ¿Podría decirme su nombre?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=39
-#. y4:msg_location=T1.P39
-#. y4:msg_speaker=Middle-aged Woman
-#. y4:msg_speaker_id=6
 msgctxt "552_Middle-aged Woman"
 msgid "Setsuko Arima."
 msgstr "Me llamo Setsuko Arima."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=26
-#. y4:msg_location=T1.P26
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "564_Akiyama"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=43
-#. y4:msg_location=T1.P43
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "600_Akiyama"
 msgid "Guess she's married to that Arima fellow over at Tenjin Loans."
 msgstr "Parece ser la esposa de ese tal Arima, de Préstamos Tenjin."
@@ -451,25 +275,11 @@ msgid "You mean you didn't know? She's a familiar face around\\r\nhere."
 msgstr "¿Eh, Akiyama-san no lo sabías? Ella es un rostro conocido de\\r\nKamurocho."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=45
-#. y4:msg_location=T1.P45
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "624_Akiyama"
 msgid "Is she really? I'm not much interested in older women, so..."
 msgstr "¿De verdad? Bueno, es que no estoy interesado en mujeres mayores..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=26
-#. y4:msg_location=T1.P26
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "636_Hana"
 msgid "......"
 msgstr "......"
@@ -480,25 +290,11 @@ msgid "Anyway, according to what she said, Tenjin Loans isn't doing\\r\nso great
 msgstr "En fin, según lo que ella dijo, parece que a Préstamos Tenjin no\\r\nle va muy bien últimamente. ¿Puedes investigarlo por mí, Hana-chan?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=48
-#. y4:msg_location=T1.P48
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "660_Hana"
 msgid "I'm on it, Chief."
 msgstr "Claro, jefe."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=50
-#. y4:msg_location=T1.P50
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "684_Akiyama"
 msgid "Well?"
 msgstr "¿Y bien?"
@@ -509,13 +305,6 @@ msgid "Everything looks okay at first glance, but with all the\\r\noverpayment r
 msgstr "Parece que no hay ningún problema a primera vista, pero\\r\nestá en una situación crítica. Préstamos Tenjin tiene muchos\\r\nsobrepagos y préstamos sin pagar."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=52
-#. y4:msg_location=T1.P52
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "708_Akiyama"
 msgid "Figures..."
 msgstr "Pensándolo bien..."
@@ -561,97 +350,41 @@ msgid "With no more loans on the horizon, Tenjin Loans wouldn't be\\r\naround mu
 msgstr "Y como no es posible de que consigan otro préstamo,\\r\nPréstamos Tenjin no durará mucho tiempo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=61
-#. y4:msg_location=T1.P61
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "816_Hana"
 msgid "Exactly."
 msgstr "Exacto."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=65
-#. y4:msg_location=T1.P65
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "864_Akiyama"
 msgid "Hello?"
 msgstr "¿Aló?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=66
-#. y4:msg_location=T1.P66
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=13
 msgctxt "876_Manager"
 msgid "Hi, Akiyama-san. Do you have a moment?"
 msgstr "Buenas, Akiyama-san. ¿Tiene un momento?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=67
-#. y4:msg_location=T1.P67
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "888_Akiyama"
 msgid "Sure. What's up?"
 msgstr "Claro, dime."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=68
-#. y4:msg_location=T1.P68
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=13
 msgctxt "900_Manager"
 msgid "Well, the lady from Tenjin Loans is here asking for a job."
 msgstr "Verá, es que la propietaria de Préstamos Tenjin ha venido,\\r\ny me está pidiendo que le de trabajo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=69
-#. y4:msg_location=T1.P69
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "912_Akiyama"
 msgid "What, at the club?"
 msgstr "¿Qué? ¿En el club?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=70
-#. y4:msg_location=T1.P70
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=13
 msgctxt "924_Manager"
 msgid "Uh-huh."
 msgstr "Ajá."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=71
-#. y4:msg_location=T1.P71
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "936_Akiyama"
 msgid "And?"
 msgstr "¿Y? ¿Qué más?"
@@ -667,13 +400,6 @@ msgid "She's not backing down. She says she'll clean the\\r\nrestrooms, wash dis
 msgstr "No se rinde. Dice que limpiará los baños\\r\no lavará los platos, lo que sea."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=26
-#. y4:msg_location=T1.P26
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "972_Akiyama"
 msgid "......"
 msgstr "......"
@@ -684,13 +410,6 @@ msgid "I told her there's got to be plenty of other jobs out there.\\r\nDifferen
 msgstr "Le dije que no era necesario que trabajase en un club cabaret,\\r\nque de seguro conseguiría trabajo en otro lugar..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=76
-#. y4:msg_location=T1.P76
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=13
 msgctxt "996_Manager"
 msgid "But apparently, all the likely places turned her away."
 msgstr "Pero al parecer la han rechazado de todos los lugares posibles."
@@ -701,85 +420,36 @@ msgid "I suppose not many places in town would hire the wife of\\r\nthe presiden
 msgstr "Bueno, supongo que en Kamurocho nadie quiere contratar\\r\na la propietaria de Préstamos Tenjin."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=78
-#. y4:msg_location=T1.P78
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "1020_Akiyama"
 msgid "Does she know I'm the one who runs that place?"
 msgstr "¿Ella sabe que yo soy el dueño del lugar?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=79
-#. y4:msg_location=T1.P79
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=13
 msgctxt "1032_Manager"
 msgid "I don't think so, no... Why? What's going on?"
 msgstr "No, creo que no... ¿Por qué? ¿Pasó algo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=80
-#. y4:msg_location=T1.P80
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "1044_Akiyama"
 msgid "Nothing. Just stall her for a minute, okay?"
 msgstr "No, nada. Solo mantenla allí unos minutos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=81
-#. y4:msg_location=T1.P81
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "1056_Akiyama"
 msgid "I'm on my way."
 msgstr "Voy en camino."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=82
-#. y4:msg_location=T1.P82
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=13
 msgctxt "1068_Manager"
 msgid "Very well."
 msgstr "Entendido."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=85
-#. y4:msg_location=T1.P85
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "1104_Akiyama"
 msgid "Hana-chan, I'll be right back."
 msgstr "Hana-chan, vuelvo en un rato."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=86
-#. y4:msg_location=T1.P86
-#. y4:msg_speaker=Hana
-#. y4:msg_speaker_id=0
 msgctxt "1116_Hana"
 msgid "Okay, later, Chief."
 msgstr "Vaya con cuidado, jefe."

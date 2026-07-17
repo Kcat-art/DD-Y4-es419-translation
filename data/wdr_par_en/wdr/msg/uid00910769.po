@@ -24,49 +24,28 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_PARKING.bin
 #. y4:runtime_play_command=y4.play_msg 00910769 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "720"
 msgid "Young Person"
 msgstr "Joven"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "724"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Young Person
-#. y4:msg_speaker_id=0
 msgctxt "84_Young Person"
 msgid "The guy parked over there looks like that assassin... I heard that he was on the phone with his client."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Young Person
-#. y4:msg_speaker_id=0
 msgctxt "96_Young Person"
 msgid "It's freaky to think that a real killer is just sitting right over there..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "108_Saejima"
 msgid "(He couldn't be that skilled of an assassin if these young kids were able to point him out... But I may be able to get a <Color:7>Revelation<Color:Default> from him.)"
 msgstr ""

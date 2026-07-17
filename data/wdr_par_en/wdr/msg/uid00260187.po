@@ -16,260 +16,145 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00260187 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
 msgctxt "348"
 msgid "You gained 100 EXP."
 msgstr "Has conseguido 100 EXP."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=7
-#. y4:msg_location=T5.P7
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Okay, I'll go get 'em.
 msgctxt "684"
 msgid "You got an <Color:8>Artist's Likeness<Color:Default>."
 msgstr "Has obtenido una <Color:8>imagen del artista<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "10656"
 msgid "Street Artist"
 msgstr "Artista callejero"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "10660"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "10664"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "10668"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "10672"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "10676"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "10680"
 msgid "The Scelerophobic Sketcher"
 msgstr "El Sketcher Escelerofóbico"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "10684"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "10688"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "10692"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "10696"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "10700"
 msgid "Talk_Request"
 msgstr "Talk_Request"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "10704"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "10708"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "10712"
 msgid "Talk_Get"
 msgstr "Talk_Get"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
 msgctxt "10716"
 msgid "2d_cf_pict_nigaoe_ekaki"
 msgstr "2d_cf_pict_nigaoe_ekaki"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
 msgctxt "10720"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Street Artist
-#. y4:msg_speaker_id=0
 msgctxt "192_Street Artist"
 msgid "Seriously!? You got it wrong three times! Three! I'm sure the real culprits are long gone by now!"
 msgstr "¡¿En serio?! ¡Te equivocaste tres veces! ¡Tres! ¡Estoy seguro de que los verdaderos\\r\nculpables ya se han ido!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "204_Tanimura"
 msgid "Yeah... looks like it. My bad."
 msgstr "Sí... eso parece. Culpa mía."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Street Artist
-#. y4:msg_speaker_id=0
 msgctxt "216_Street Artist"
 msgid "Sorry my ass! I'm still being hunted down here! And who knows when these men might come for my life!? I'll never be able to walk the streets again!"
 msgstr "¡Lo siento mi culo! ¡Todavía me están persiguiendo aquí abajo! ¿Y quién sabe cuándo estos hombres vendrán por mi vida? ¡Nunca podré volver a caminar por las calles!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Street Artist
-#. y4:msg_speaker_id=0
 msgctxt "228_Street Artist"
 msgid "I'll have to eke out a living underground, spending my days in utter isolation while drawing whatever I see fit... For I am now the Scelerophobic Sketcher of Kamurocho!"
 msgstr "Tendré que ganarme la vida a duras penas en la clandestinidad, pasando mis días en absoluto aislamiento mientras dibujo lo que mejor me parezca... ¡Porque ahora soy el dibujante scelerofóbico de Kamurocho!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=The Scelerophobic Sketcher
-#. y4:msg_speaker_id=6
 msgctxt "240_The Scelerophobic Sketcher"
 msgid "Farewell!"
 msgstr "¡Adiós!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "288_Tanimura"
 msgid "(There he goes... I guess I let him down.)"
 msgstr "(Ahí va... Supongo que lo he defraudado)."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Street Artist
-#. y4:msg_speaker_id=0
 msgctxt "360_Street Artist"
 msgid "I'm shocked. Speechless. Is this really happening right now?"
 msgstr "Estoy conmocionado. Sin palabras. ¿Realmente está pasando esto ahora?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "372_Tanimura"
 msgid "Sorry. Tell me about this guy one more time?"
 msgstr "Perdona. ¿Me puedes hablar de este tipo una vez más?"
@@ -285,13 +170,6 @@ msgid "You might not be good at telling people's faces\\r\napart, but just remem
 msgstr "Puede que no seas bueno distinguiendo las caras de la gente\\r\npero recuerda que lleva una chaqueta negra."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "408_Tanimura"
 msgid "Got it. The guy in the picture, with a black jacket."
 msgstr "Entiendo. El tipo de la foto, con una chaqueta negra."
@@ -302,13 +180,6 @@ msgid "That's right. Are you sure you've got it this time?\\r\nRepeat it once mo
 msgstr "Así es. ¿Estás seguro de que lo tienes esta vez?\\r\nRepítelo una vez más."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "432_Tanimura"
 msgid "Guy in the picture... black jacket..."
 msgstr "El tipo de la foto... Chaqueta negra..."
@@ -319,13 +190,6 @@ msgid "Okay. They've probably noticed that the fuzz are\\r\nhot on their trail, 
 msgstr "De acuerdo. Probablemente se han dado cuenta de que la policía les\\r\nsigue la pista, ¡así que esta puede ser tu última oportunidad!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=12
-#. y4:msg_location=T2.P12
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "504_Tanimura"
 msgid "(This guy watches too many crime dramas...)"
 msgstr "(Este tipo ve demasiados dramas criminales...)"
@@ -346,25 +210,11 @@ msgid "Are you shitting me? You're a police officer, yet you\\r\ncan't even tell
 msgstr "¿Me estás jodiendo? Eres un oficial de policía, y aún así...\\r\n¿Ni siquiera puedes distinguir las caras de la gente?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=3
-#. y4:msg_location=T3.P3
-#. y4:msg_speaker=Street Artist
-#. y4:msg_speaker_id=0
 msgctxt "552_Street Artist"
 msgid "You... did use the picture, right? The guy looks just like what I drew, and he's wearing a black jacket."
 msgstr "Tú... usaste el dibujo, ¿verdad? El tipo se parece a lo que dibujé, y lleva una chaqueta negra."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=4
-#. y4:msg_location=T3.P4
-#. y4:msg_speaker=Street Artist
-#. y4:msg_speaker_id=0
 msgctxt "564_Street Artist"
 msgid "Look, you may not want to look at anybody who ain't as pretty as you, but that <Italic>is</Italic> your job, you know. You could at least try..."
 msgstr "Mira, puede que no quieras mirar a nadie que no sea tan guapo como tú, pero ese\\r <Italic>es</Italic> tu trabajo, ya sabes. Al menos podrías intentar..."
@@ -375,82 +225,34 @@ msgid "All right, all right, I get it... Guy in the picture, black\\r\njacket. I
 msgstr "Está bien, está bien, lo entiendo... Chico en la foto, chaqueta\\r\nnegra. Estoy en ello."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Street Artist
-#. y4:msg_speaker_id=0
 msgctxt "588_Street Artist"
 msgid "Hurry up and arrest those scandalous... scoundrels!"
 msgstr "Date prisa y arresta a esos escandalosos... ¡Sinvergüenzas!"
 
 #. y4:line_status=translated
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=0
 msgctxt "600_Street Artist"
 msgid "Hey, Officer Pretty Boy! You gonna go arrest the robbers\\r\nin Theater Square or what!?"
 msgstr "¡Oye, Oficial Niño Bonito! ¡¿Vas a ir a arrestar a los ladrones\\r\nen la Plaza del Teatro o qué?!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=1
-#. y4:msg_location=T5.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Okay, I'll go get 'em.
 msgctxt "612_Tanimura"
 msgid "(I kinda have been slacking lately... This might be a good chance to earn some points back at HQ.)"
 msgstr "(He estado un poco flojo últimamente... Esta podría ser una buena oportunidad\\r\npara ganar algunos puntos de nuevo para el Cuartel General)."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=2
-#. y4:msg_location=T5.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Okay, I'll go get 'em.
 msgctxt "624_Tanimura"
 msgid "Fine, I'll go get 'em. But you have to show me where they are."
 msgstr "Bien, iré a buscarlos. Pero tienes que mostrarme dónde están."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=3
-#. y4:msg_location=T5.P3
-#. y4:msg_speaker=Street Artist
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Okay, I'll go get 'em.
 msgctxt "636_Street Artist"
 msgid "What!? You want <Italic>me</Italic> to go, too? No way! What if I get killed!?"
 msgstr "¡¿Qué?! ¿Quieres que <Italic>yo</Italic> también vaya? ¡Imposible! ¡¿Y si me matan?!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=4
-#. y4:msg_location=T5.P4
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Okay, I'll go get 'em.
 msgctxt "648_Tanimura"
 msgid "But you're the only one who knows the perp's face."
 msgstr "Pero tú eres el único que conoce la cara del delincuente."
@@ -461,117 +263,48 @@ msgid "Yeah, and I drew a picture of it, so why don't you use that\\r\ninstead o
 msgstr "Sí, y le hice un dibujo, ¿por qué no lo usas\\r \nen vez de arrastrarme a la muerte? ¡Se parece a este,\\r \nlleva una chaqueta negra, y está en la Plaza del Teatro!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=9
-#. y4:msg_location=T5.P9
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Okay, I'll go get 'em.
 msgctxt "708_Tanimura"
 msgid "Fair enough. I'll go see for myself, then."
 msgstr "Bastante bien. Iré a verlo por mí mismo, entonces."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=10
-#. y4:msg_location=T5.P10
-#. y4:msg_speaker=Street Artist
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Okay, I'll go get 'em.
 msgctxt "720_Street Artist"
 msgid "Thank you so much! You're one hell of an officer, you know that!? And a handsome one, to boot!"
 msgstr "¡Muchas gracias! Eres un gran oficial, ¿lo sabes? ¡Y uno guapo, para empezar!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=11
-#. y4:msg_location=T5.P11
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Okay, I'll go get 'em.
 msgctxt "732_Tanimura"
 msgid "Heh... Kiss-ass."
 msgstr "Je... Besaculos."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=13
-#. y4:msg_location=T5.P13
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=You worry too much.
 msgctxt "756_Tanimura"
 msgid "If you're that worried, then why don't you go to a station and report it?"
 msgstr "Si estás tan preocupado, ¿por qué no vas a una estación y lo denuncias?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=14
-#. y4:msg_location=T5.P14
-#. y4:msg_speaker=Street Artist
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=You worry too much.
 msgctxt "768_Street Artist"
 msgid "I can't! They'd kill me! I won't move a muscle until all of those madmen are behind bars."
 msgstr "¡No puedo! ¡Me matarían! No moveré un músculo hasta que todos esos locos\\r\nestén tras las rejas."
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T5.P1
-#. y4:msg_branch_segment=T5.P1..P12
-#. y4:msg_branch_target_text=(I kinda have been slacking lately... This might be a good chance to earn some points back at HQ.)
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 16 00 00 00 00 00 00 00 00
 msgctxt "828_Street Artist"
 msgid "Okay, I'll go get 'em."
 msgstr "Está bien, iré a buscarlos."
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T5.P13
-#. y4:msg_branch_segment=T5.P13..P18
-#. y4:msg_branch_target_text=If you're that worried, then why don't you go to a station and report it?
-#. y4:msg_branch_raw=01 11 00 0d 00 00 00 13 00 00 00 00 00 00 00 00
 msgctxt "840_Street Artist"
 msgid "You worry too much."
 msgstr "Te preocupas demasiado."

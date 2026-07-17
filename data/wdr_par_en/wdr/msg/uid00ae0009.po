@@ -24,61 +24,35 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_TE_0009.bin
 #. y4:runtime_play_command=y4.play_msg 00AE0009 <group>
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
+
+
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Drink -> T0.P1 | 2. Food -> T0.P2
 msgctxt "100"
 msgid "Welcome."
 msgstr "Bienvenido."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Food
 msgctxt "136"
 msgid "Thank you very much."
 msgstr "Muchas gracias."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P1
-#. y4:msg_branch_segment=T0.P1..P1
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "148"
 msgid "Drink"
 msgstr "Bebida"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P2
-#. y4:msg_branch_segment=T0.P2..P3
-#. y4:msg_branch_target_text=Thank you very much.
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 04 00 00 00 00 00 00 00 00
 msgctxt "160"
 msgid "Food"
 msgstr "Comida"

@@ -18,6 +18,8 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2484"
 msgid "Tanimura"
 msgstr "Tanimura"
@@ -29,6 +31,8 @@ msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2492"
 msgid "Player"
 msgstr "Player"
@@ -46,6 +50,9 @@ msgstr "¿Vas a salir con Haruka-chan? Que se diviertan."
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=0
 msgctxt "152_Tanimura"
 msgid "%s-san... I wouldn't mind patrolling a bit if you're tired."
 msgstr "%s-san... No me importaría vigilar un poco si estás cansado."
@@ -112,12 +119,24 @@ msgstr "Déjamelo todo a mí."
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P3
 msgctxt "320_Tanimura"
 msgid "Cancel"
 msgstr "Cancelar"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T1.P9
 msgctxt "332_Tanimura"
 msgid "Switch to Tanimura"
 msgstr "Cambiar a Tanimura"

@@ -16,281 +16,143 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 0026017C <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3688"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "3692"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
 #. y4:line_status=translated
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "3696"
 msgid "望月京子：源氏名"
 msgstr "望月京子：源氏名"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "3700"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "3704"
 msgid "Run_Start_R180"
 msgstr "Run_Start_R180"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "3708"
 msgid "Talk_Request"
 msgstr "Talk_Request"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "3712"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "3716"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "3720"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "3724"
 msgid "F_sxy_stand_sync_dakitukiA_st"
 msgstr "F_sxy_stand_sync_dakitukiA_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "3728"
 msgid "P_stand_sync_dakitukiA_st"
 msgstr "P_stand_sync_dakitukiA_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "56_Kiryu"
 msgid "Here you go."
 msgstr "Aquí tienes."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "68_望月京子：源氏名"
 msgid "Thank you! Sorry, I gotta rush. I'll thank you properly later!"
 msgstr "¡Gracias! Lo siento, pero tengo prisa. ¡Te lo agradeceré como se debe más tarde!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "80_Kiryu"
 msgid "Sure. Go ahead."
 msgstr "Claro. Adelante."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "164_Kiryu"
 msgid "Too bad. You almost got the grand prize."
 msgstr "Qué lástima. Estuviste a punto de llevarte el gran premio."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "176_望月京子：源氏名"
 msgid "Second place is still good. Thanks for being there for me."
 msgstr "El segundo puesto no está nada mal. Gracias por apoyarme."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "188_Kiryu"
 msgid "You'll get your big break soon. Don't give up."
 msgstr "Tu momento de gloria llegará pronto. No te des por vencido."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "200_望月京子：源氏名"
 msgid "I won't..."
 msgstr "No lo haré..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "212_望月京子：源氏名"
 msgid "By the way, I still need to thank you for getting my guitar back."
 msgstr "Por cierto, todavía tengo que agradecerte por recuperar mi guitarra."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "224_Kiryu"
 msgid "Don't worry about it."
 msgstr "No hay de que."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "236_望月京子：源氏名"
 msgid "No, if it wasn't for your support, I could've given up already."
 msgstr "No, si no fuera por tu apoyo, ya me habría rendido."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "248_望月京子：源氏名"
 msgid "I might've quit music altogether, started doing who knows what..."
 msgstr "Podría haber dejado la música por completo, empezar a hacer quién sabe qué..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "260_Kiryu"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "272_望月京子：源氏名"
 msgid "But as soon as I stepped on that stage, I just knew music was my life!"
 msgstr "Pero tan pronto como subí al escenario, ¡supe que la música era lo mío!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "284_望月京子：源氏名"
 msgid "I can't give up on it, it's my passion!"
 msgstr "¡No puedo dejarlo, es mi verdadera pasión!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=2
 msgctxt "296_望月京子：源氏名"
 msgid "You helped me realize that. I really want to thank you for all you've done for me. That's not a problem, is it?"
 msgstr "Gracias a ti me di cuenta de eso. Quiero agradecerte de corazón por todo lo que has hecho por mí. No te molesta, ¿verdad?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "308_Kiryu"
 msgid "No..."
 msgstr "No..."

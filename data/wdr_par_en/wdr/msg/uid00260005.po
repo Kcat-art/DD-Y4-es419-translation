@@ -16,194 +16,113 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00260005 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3484"
 msgid "Maria"
 msgstr "María"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "3488"
 msgid "F_sxy_stand_tlk_surp"
 msgstr "F_sxy_stand_tlk_surp"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "3492"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "3496"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "3500"
 msgid "Maria's Bodyguard"
 msgstr "Guardaespaldas de María"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "3504"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "3508"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "3512"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "3516"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "3520"
 msgid "Talk_Kosite_No"
 msgstr "Talk_Kosite_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "3524"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "3528"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "3532"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "3536"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "3540"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Maria
-#. y4:msg_speaker_id=0
 msgctxt "72_Maria"
 msgid "But... You're just a boy!"
 msgstr "Pero... ¡Eres solo un niño!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "84_Tanimura"
 msgid "You about ready to give it up now?"
 msgstr "¿Te puedes rendir ahora?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "108_Tanimura"
 msgid "(That's Maria... Gosh, it's almost like she wants people to notice her.)"
 msgstr "(Esa es María... Por dios, es casi como si quisiera\\r\nque la gente se fijara en ella)."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "120_Tanimura"
 msgid "Are you Maria-san?"
 msgstr "¿Eres María-san?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Maria
-#. y4:msg_speaker_id=0
 msgctxt "132_Maria"
 msgid "Hmmmm? Who's this little boy?"
 msgstr "¿Hmmmm? ¿Quién es este niño?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Maria's Bodyguard
-#. y4:msg_speaker_id=4
 msgctxt "144_Maria's Bodyguard"
 msgid "Freeze, motherfucker!"
 msgstr "¡Quédate quieto, hijo de puta!"
@@ -214,13 +133,6 @@ msgid "Oh, you can let him be! He's actually kinda cute... Hehe.\\r\nSo, can I h
 msgstr "¡Oh, puedes dejarlo en paz! De hecho, es un poco lindo... Jeje.\\r\nEntonces, ¿puedo ayudarte con algo? No pareces\\r\ncomo un tipo tan malo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "168_Tanimura"
 msgid "I need you to pay your tab at the Dragon Palace."
 msgstr "Necesito que pagues la cuenta en el Palacio del Dragón."
@@ -241,25 +153,11 @@ msgid "I suppose. You certainly are a brave boy. So I guess\\r\nthere's no more 
 msgstr "Supongo. Ciertamente eres un chico valiente.\\r\n¿Así que supongo, no hay más espacio para negociar?"
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "216_Tanimura"
 msgid "I guess not."
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Maria
-#. y4:msg_speaker_id=0
 msgctxt "228_Maria"
 msgid "In that case... I have no choice. Gentlemen! I want him out of my sight."
 msgstr "En ese caso... No tengo otra opción.\\r\n¡Señores! Lo quiero fuera de mi vista."

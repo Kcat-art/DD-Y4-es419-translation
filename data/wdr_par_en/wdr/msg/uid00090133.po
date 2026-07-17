@@ -24,103 +24,52 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00090133 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1316"
 msgid "Energetic Superior"
 msgstr "Jefe energético"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1320"
 msgid "Tired Subordinate"
 msgstr "Empleado cansado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1324"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "1328"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "1332"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Energetic Superior
-#. y4:msg_speaker_id=0
 msgctxt "84_Energetic Superior"
 msgid "Let's try Elise next! C'mon, hurry up!"
 msgstr "¡Ahora vamos al Elise! ¡Anda, Apurate!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Tired Subordinate
-#. y4:msg_speaker_id=1
 msgctxt "96_Tired Subordinate"
 msgid "Please, sir, not another club. You really can't get enough of those hostesses, can you?"
 msgstr "Por favor, señor, no otro club. Realmente no te cansas de esas hostess, ¿verdad?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Energetic Superior
-#. y4:msg_speaker_id=0
 msgctxt "108_Energetic Superior"
 msgid "Elise's the best! Their girls are all top-notch."
 msgstr "¡Elise es la mejor! Sus chicas son todas de primera categoría."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Energetic Superior
-#. y4:msg_speaker_id=0
 msgctxt "120_Energetic Superior"
 msgid "Plus, they'll wear whatever you like. And I hear they'll even wear sexy costumes for you!"
 msgstr "Además, se pondrán lo que tú quieras. ¡Y he oído que hasta se pondrán disfraces sexys para ti!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Tired Subordinate
-#. y4:msg_speaker_id=1
 msgctxt "132_Tired Subordinate"
 msgid "You mean like cosplay? Now that actually doesn't sound half-bad."
 msgstr "¿Te refieres al cosplay? La verdad es que no suena nada mal."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Energetic Superior
-#. y4:msg_speaker_id=0
 msgctxt "144_Energetic Superior"
 msgid "That's the spirit. You're always so tired and depressed! Let's go blow off some steam with a couple of cuties!"
 msgstr "Ese es el espíritu. ¡Siempre estás tan cansado y deprimido! ¡Vamos a desahogarnos con un par de bellezas!"

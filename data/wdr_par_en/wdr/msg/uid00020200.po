@@ -16,86 +16,46 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00020200 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1348"
 msgid "Businesswoman"
 msgstr "Empesaria"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1352"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "1356"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Businesswoman
-#. y4:msg_speaker_id=0
 msgctxt "68_Businesswoman"
 msgid "I saw a bunch of rough-looking men heading over to Theater Square Earlier. I'm pretty sure they were yakuza."
 msgstr "Vi varios tipos yendo a la Plaza del Teatro. Estoy bastante segura de que eran yakuzas."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=2
 msgctxt "92_Akiyama"
 msgid "Excuse me, miss? You didn't happen to see some shady-looking guys roll through here a while ago, did you? I'm talking yakuza types."
 msgstr "Disculpe, señorita. ¿No vio a algunos tipos sospechosos pasar por aquí? Probablemente yakuzas."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Businesswoman
-#. y4:msg_speaker_id=0
 msgctxt "104_Businesswoman"
 msgid "Oh, I did! I'm pretty sure they were headed towards Theater Square."
 msgstr "¡Ah, sí! Estoy segura de que se fueron a la Plaza del Teatro."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=2
 msgctxt "116_Akiyama"
 msgid "Really? Thanks!"
 msgstr "¿En serio? ¡Gracias!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Businesswoman
-#. y4:msg_speaker_id=0
 msgctxt "128_Businesswoman"
 msgid "Of course. Good luck..."
 msgstr "Claro. Buena suerte..."

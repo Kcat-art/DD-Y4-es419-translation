@@ -24,112 +24,66 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00830223 <group>
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
+
+
 msgctxt "564"
 msgid "You exchanged the <Color:8>Stomach Medicine<Color:Default> for the <Color:8>Concert Tickets<Color:Default>."
 msgstr "Intercambiaste <Color:8>Medicina estomacal<Color:Default> por <Color:8>Entradas de concierto<Color:Default>."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "1056"
 msgid "You exchanged the <Color:8>Stomach Medicine<Color:Default> for the <Color:8>Concert Tickets<Color:Default>."
 msgstr "Intercambiaste <Color:8>Medicina estomacal<Color:Default> por <Color:8>Entradas de concierto<Color:Default>."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "13332"
 msgid "Nervous Man"
 msgstr "Hombre retorciéndose"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "13336"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "13340"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "13344"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "13348"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "13352"
 msgid "Idle"
 msgstr "Idle"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "13356"
 msgid "Relieved Man"
 msgstr "Hombre aliviado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "13360"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "13364"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "13368"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "13372"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "13376"
 msgid "0"
 msgstr "0"
@@ -140,15 +94,6 @@ msgid "I'm not gonna make it! Man, this day is the worst! I\\r\n"
 msgstr "¡No puedo más! ¡Mis edad ya me está pasando factura!\\r\n"
 "Debí haberme quedado en casa..."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "168_Akiyama"
 msgid "Excuse me, is something wrong?"
 msgstr "Oye, ¿todo bien?"
@@ -161,41 +106,14 @@ msgstr "¡Ay! Hablar de ello solo lo empeora. No quiero\\r\n"
 "hacerme muchas ilusiones pero, ¿tendrías por\\r\n"
 "casualidad algo para el estómago...?"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "204_Nervous Man"
 msgid "Sorry, I don't."
 msgstr "Lo siento, no tengo nada."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Nervous Man
-#. y4:msg_speaker_id=0
 msgctxt "216_Nervous Man"
 msgid "Well, I figured as much. That's life..."
 msgstr "Bueno, ya me lo esperaba. Así es la vida..."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "228_Nervous Man"
 msgid "As a matter of fact, I do!"
 msgstr "¡Da la casualidad de que sí tengo algo!"
@@ -216,43 +134,14 @@ msgid "I'll pay! Oh, I'll pay! Before it's too late... No! Ugh...\\r\n"
 msgstr "¡Pagaré! ¡Pagaré lo que sea! Démelo antes de que\\r\n"
 "sea muy tarde... ¡Nooo...! Ugh... Ay, no..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Never Mind
 msgctxt "276_Akiyama"
 msgid "I really am sorry."
 msgstr "De verdad que lo siento."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Nervous Man
-#. y4:msg_speaker_id=0
 msgctxt "288_Nervous Man"
 msgid "Ack! Have a heart, will ya...!?"
 msgstr "¡No seas cruel, vamos...!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=14
-#. y4:msg_location=T2.P14
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "300_Nervous Man"
 msgid "Yikes! Here, try this."
 msgstr "¡Va, va! Toma, bebe esto."
@@ -261,32 +150,10 @@ msgctxt "372_Relieved Man"
 msgid "Ah, it's good to be alive! ♥"
 msgstr "¡Ah, que bueno es estar vivo! ♥"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=21
-#. y4:msg_location=T2.P21
-#. y4:msg_speaker=Relieved Man
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "384_Relieved Man"
 msgid "Sorry, I was a little distracted there. You have my thanks."
 msgstr "Lo siento, me distraje un momento. Le agradezco mucho."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=22
-#. y4:msg_location=T2.P22
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "396_Akiyama"
 msgid "Don't mention it..."
 msgstr "Ni lo menciones..."
@@ -297,17 +164,6 @@ msgid "Whoops! I nearly neglected to give you a token of my\\r\n"
 msgstr "¡Uy! Casi me olvido de darle algo en agradecimiento.\\r\n"
 "Eso no estaría bien, ¿verdad? Je, je."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=24
-#. y4:msg_location=T2.P24
-#. y4:msg_speaker=Relieved Man
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "420_Relieved Man"
 msgid "It's not much, but I hope you'll accept it."
 msgstr "No es mucho, pero espero que le sirva."
@@ -318,32 +174,10 @@ msgid "Oh, um, while I appreciate the sentiment, could you maybe\\r\n"
 msgstr "Oh, aprecio mucho la intención, pero ¿sería posible que me\\r\n"
 "dieras otra cosa que no sea dinero?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=26
-#. y4:msg_location=T2.P26
-#. y4:msg_speaker=Relieved Man
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "444_Relieved Man"
 msgid "Hmm? Something other than money? You're a rarity, my friend!"
 msgstr "¿Mmm? ¿Algo que no sea dinero? ¡Así que no eres alguien codicioso!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=27
-#. y4:msg_location=T2.P27
-#. y4:msg_speaker=Relieved Man
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "456_Relieved Man"
 msgid "Let's see. Something that's not money..."
 msgstr "Veamos. Algo diferente al dinero..."
@@ -354,17 +188,6 @@ msgid "I'm sorry to say, these are about the extent of what I can\\r\n"
 msgstr "Lamento decir que esto es todo lo que puedo ofrecerle\\r\n"
 "ahora mismo..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=29
-#. y4:msg_location=T2.P29
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "480_Akiyama"
 msgid "What are they?"
 msgstr "¿Qué son?"
@@ -387,47 +210,14 @@ msgid "Yes, absolutely! That's perfect. I'll gladly take those off\\r\n"
 msgstr "¡Sí, por supuesto! Muchas gracias. Me vienen\\r\n"
 "de maravilla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Relieved Man
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "528_Relieved Man"
 msgid "Ah, a classical buff, are you!? Will wonders never cease?"
 msgstr "¡Vaya, un amante de la música clásica! ¡Qué genial!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "540_Akiyama"
 msgid "Indeed. Now, if you'll excuse me."
 msgstr "Así es. Ahora, si me disculpa."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=35
-#. y4:msg_location=T2.P35
-#. y4:msg_speaker=Relieved Man
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "552_Relieved Man"
 msgid "Of course. Enjoy the concert!"
 msgstr "Por supuesto. ¡Disfrute del concierto!"
@@ -438,15 +228,6 @@ msgid "I'm not gonna make it! Man, this day is the worst! I\\r\n"
 msgstr "¡No puedo más! ¡Mis edad ya me está pasando factura!\\r\n"
 "Debí haberme quedado en casa..."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "648_Akiyama"
 msgid "Excuse me, is something wrong?"
 msgstr "Oye, ¿todo bien?"
@@ -459,41 +240,14 @@ msgstr "¡Ay! Hablar de ello solo lo empeora. No quiero\\r\n"
 "hacerme muchas ilusiones pero, ¿tendrías por\\r\n"
 "casualidad algo para el estómago...?"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "684_Nervous Man"
 msgid "Sorry, I don't."
 msgstr "Lo siento, no tengo nada."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=6
-#. y4:msg_location=T2.P6
-#. y4:msg_speaker=Nervous Man
-#. y4:msg_speaker_id=0
 msgctxt "696_Nervous Man"
 msgid "Well, I figured as much. That's life..."
 msgstr "Bueno, ya me lo esperaba. Así es la vida..."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "708_Nervous Man"
 msgid "As a matter of fact, I do!"
 msgstr "¡Da la casualidad de que sí tengo algo!"
@@ -508,68 +262,27 @@ msgid "Er, I don't mean to be a jerk here, but I really can't give\\r\n"
 msgstr "Mire, no quiero ser un cretino, pero no puedo dárselo\\r\n"
 "gratis. Lo siento."
 
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=0
 msgctxt "744_Nervous Man"
 msgid "I'll pay! Oh, I'll pay! Before it's too late... No! Ugh...\\r\n"
 "Uh-oh..."
 msgstr "¡Pagaré! ¡Pagaré lo que sea! Démelo antes de que\\r\n"
 "sea muy tarde... ¡Nooo...! Ugh... Ay, no..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Never Mind
 msgctxt "756_Akiyama"
 msgid "I really am sorry."
 msgstr "De verdad que lo siento."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=12
-#. y4:msg_location=T2.P12
-#. y4:msg_speaker=Nervous Man
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Never Mind
 msgctxt "768_Nervous Man"
 msgid "Ack! How cruel!"
 msgstr "¡Ay! ¡Qué crueldad!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=13
-#. y4:msg_location=T2.P13
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Never Mind
 msgctxt "780_Akiyama"
 msgid "(I can't say I don't feel bad for the guy, but there might be a better trade out there with my name on it.)"
 msgstr "(Aunque me da algo de lástima, puede que haya un trato mejor para mí ahí fuera)."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=14
-#. y4:msg_location=T2.P14
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "792_Nervous Man"
 msgid "Yikes! Here, try this."
 msgstr "¡Va, va! Toma, bebe esto."
@@ -578,32 +291,10 @@ msgctxt "864_Relieved Man"
 msgid "Ah, it's good to be alive! ♥"
 msgstr "¡Ah, que bueno es estar vivo! ♥"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=21
-#. y4:msg_location=T2.P21
-#. y4:msg_speaker=Relieved Man
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "876_Relieved Man"
 msgid "Sorry, I was a little distracted there. You have my thanks."
 msgstr "Lo siento, me distraje un momento. Le agradezco mucho."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=22
-#. y4:msg_location=T2.P22
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "888_Akiyama"
 msgid "Don't mention it..."
 msgstr "Ni lo menciones..."
@@ -614,17 +305,6 @@ msgid "Whoops! I nearly neglected to give you a token of my\\r\n"
 msgstr "¡Uy! Casi me olvido de darle algo en agradecimiento.\\r\n"
 "Eso no estaría bien, ¿verdad? Je, je."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=24
-#. y4:msg_location=T2.P24
-#. y4:msg_speaker=Relieved Man
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "912_Relieved Man"
 msgid "It's not much, but I hope you'll accept it."
 msgstr "No es mucho, pero espero que le sirva."
@@ -635,32 +315,10 @@ msgid "Oh, um, while I appreciate the sentiment, could you maybe\\r\n"
 msgstr "Oh, aprecio mucho la intención, pero ¿sería posible que me\\r\n"
 "dieras otra cosa que no sea dinero?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=26
-#. y4:msg_location=T2.P26
-#. y4:msg_speaker=Relieved Man
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "936_Relieved Man"
 msgid "Hmm? Something other than money? You're a rarity, my friend!"
 msgstr "¿Mmm? ¿Algo que no sea dinero? ¡Así que no eres alguien codicioso!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=27
-#. y4:msg_location=T2.P27
-#. y4:msg_speaker=Relieved Man
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "948_Relieved Man"
 msgid "Let's see. Something that's not money..."
 msgstr "Veamos. Algo diferente al dinero..."
@@ -671,17 +329,6 @@ msgid "I'm sorry to say, these are about the extent of what I can\\r\n"
 msgstr "Lamento decir que esto es todo lo que puedo ofrecerle\\r\n"
 "ahora mismo..."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=29
-#. y4:msg_location=T2.P29
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "972_Akiyama"
 msgid "What are they?"
 msgstr "¿Qué son?"
@@ -704,81 +351,34 @@ msgid "Yes, absolutely! That's perfect. I'll gladly take those off\\r\n"
 msgstr "¡Sí, por supuesto! Muchas gracias. Me vienen\\r\n"
 "de maravilla."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Relieved Man
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "1020_Relieved Man"
 msgid "Ah, a classical buff, are you!? Will wonders never cease?"
 msgstr "¡Vaya, un amante de la música clásica! ¡Qué genial!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "1032_Akiyama"
 msgid "Indeed. Now, if you'll excuse me."
 msgstr "Así es. Ahora, si me disculpa."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=35
-#. y4:msg_location=T2.P35
-#. y4:msg_speaker=Relieved Man
-#. y4:msg_speaker_id=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Give It to Him
 msgctxt "1044_Relieved Man"
 msgid "Of course. Enjoy the concert!"
 msgstr "Por supuesto. ¡Disfrute del concierto!"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P14
-#. y4:msg_branch_segment=T2.P14..P40
-#. y4:msg_branch_target_text=Yikes! Here, try this.
-#. y4:msg_branch_raw=01 11 00 0e 00 00 00 0e 00 00 00 00 00 00 00 00
 msgctxt "1116_Nervous Man"
 msgid "Give It to Him"
 msgstr "Dársela"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P11
-#. y4:msg_branch_segment=T2.P11..P13
-#. y4:msg_branch_target_text=I really am sorry.
-#. y4:msg_branch_raw=01 11 00 0b 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "1128_Nervous Man"
 msgid "Never Mind"
 msgstr "Olvídalo"

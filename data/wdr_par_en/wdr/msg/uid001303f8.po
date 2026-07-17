@@ -16,585 +16,274 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 001303F8 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=42
-#. y4:msg_location=T0.P42
 msgctxt "560"
 msgid "You got the <Color:8>Seal of the Dragon<Color:Default>."
 msgstr "Obtuviste un <Color:8>Sello de dragón<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "9268"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "9272"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=todo
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "9276"
 msgid "Purple Killers Boss"
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "9280"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "9284"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "9288"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "9292"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "9296"
 msgid "Akaishi"
 msgstr "Akaishi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "9300"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "9304"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "9308"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "9312"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "9316"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "56_Kiryu"
 msgid "Haven't you had about enough? Who sent you?"
 msgstr "¿No has tenido suficiente? ¿Quien te ha enviado?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=2
 msgctxt "68_Purple Killers Boss"
 msgid "You do love the straightforward approach, don't you? Perhaps that is the best way to avoid the gutter."
 msgstr "Te gusta el acercamiento directo, ¿verdad? Quizá es la mejor manera de evitar la ruina."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "80_Kiryu"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=2
 msgctxt "92_Purple Killers Boss"
 msgid "I have no right to call myself a killer after letting my prey escape. Even if he is the Legendary Yakuza."
 msgstr "No tengo derecho ninguno de llamarme a mí mismo asesino después de dejar que mi presa escape. Incluso si es el Yakuza legendario."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=2
 msgctxt "104_Purple Killers Boss"
 msgid "It seems the time has come to lower the curtain on the Purple Killers. I may as well tell you everything."
 msgstr "Parecce que ha llegado el momento de bajar el telón de los Purple Killers. Bien podría contártelo todo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=2
 msgctxt "116_Purple Killers Boss"
 msgid "The ones who hired me, they're... Well, they're totally unknown to me."
 msgstr "Los que me contrataron, ellos... Bueno, son desconocidos para mí."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "128_Kiryu"
 msgid "What? You dragged me all the way out here to tell me you don't know!?"
 msgstr "¿Qué? ¿¡Me arrastras hasta aquí para decirme que no lo sabes!?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=2
 msgctxt "140_Purple Killers Boss"
 msgid "I'm only half joking... You really are so fun to toy with."
 msgstr "Solo estoy bromeando a medias... Realmente es muy divertido jugar contigo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "152_Kiryu"
 msgid "You...!"
 msgstr "¡Tú!..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=2
 msgctxt "164_Purple Killers Boss"
 msgid "I was hired by the Dark Clan of Yakuza Extermination. Just the Dark Clan, for short."
 msgstr "Fui contratado por el Clan Oscuro de Exterminación Yakuza. Clan Oscuro, para abreviar."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "176_Kiryu"
 msgid "There's a group trying to wipe out yakuza?"
 msgstr "¿Hay un grupo intentando acabar con la yakuza?"
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=2
 msgctxt "188_Purple Killers Boss"
 msgid "So it would seem."
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=2
 msgctxt "200_Purple Killers Boss"
 msgid "The gangs of Kamurocho are all fighting over who gets to take you down, so I was told to take advantage of the chaos and do the deed myself."
 msgstr "Las bandas de Kamurocho están luchando por ver quien es la que acaba contigo, así que me dijeron que aprovechara el caos y lo hiciera yo mismo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=2
 msgctxt "212_Purple Killers Boss"
 msgid "That's all I know. It's almost the same as knowing nothing at all. That's why I said I was only half joking."
 msgstr "Eso es todo lo que sé. Es casi lo mismo que no saber nada. Es porque eso que dije que solo estaba bromeando a medias."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "224_Kiryu"
 msgid "It's not much to go on."
 msgstr "No es mucho con lo que seguir."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=2
 msgctxt "236_Purple Killers Boss"
 msgid "Oh well, I'm sure there's no need for you to run around looking for them. They'll come for you soon enough."
 msgstr "Oh bueno, estoy seguro que no tendrás que buscarlos corriendo. Muy pronto vendrán a por tí."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "248_Kiryu"
 msgid "What do you mean?"
 msgstr "¿A qué te refieres?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=2
 msgctxt "260_Purple Killers Boss"
 msgid "The Dark Clan said that if we failed, they would execute you themselves. Along with me, of course."
 msgstr "El Clan Oscuro dijo que si fallamos, te ejecutarán ellos mismo. Junto conmigo, por supuesto."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=2
 msgctxt "272_Purple Killers Boss"
 msgid "It's about time for me to make my exit. I'm about to be hunted down, after all. I trust you have no objections?"
 msgstr "Es hora de que me vaya. Estoy a punto de ser cazado, después de todo. ¿Confío en que no tienes ninguna objeción?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "284_Kiryu"
 msgid "What are you planning to do now?"
 msgstr "¿Que piensas hacer ahora?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=2
 msgctxt "296_Purple Killers Boss"
 msgid "I'm not sure it'll be of any avail, but I'll try to flee and stay alive. I do hate to give up the ghost so easily."
 msgstr "No estoy seguro si servirá de algo, pero trataré de huir y sobrevivir. Odiaría morir tan fácilmente."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "308_Kiryu"
 msgid "...I see."
 msgstr "...Ya veo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Purple Killers Boss
-#. y4:msg_speaker_id=2
 msgctxt "320_Purple Killers Boss"
 msgid "Farewell."
 msgstr "Qué te vaya bien."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "380_Akaishi"
 msgid "Hmm. So they were a group of hired killers. Looks like they did have a connection to the recent gang incidents."
 msgstr "Hmm. Así que eran un grupo de sicarios. Parece que tenían una conexión con los recientes incidentes con bandas."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "392_Kiryu"
 msgid "Yeah."
 msgstr "Sí."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=29
-#. y4:msg_location=T0.P29
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "404_Akaishi"
 msgid "And this Dark Clan of Yakuza Extermination... Their name certainly lets us know what they're after."
 msgstr "Y este Clan Oscuro de Exterminación Yakuza... Su nombre sin duda nos dice que es lo que quieren."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=30
-#. y4:msg_location=T0.P30
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "416_Kiryu"
 msgid "Right. I have a feeling that they might have something to do with the previous gang wars."
 msgstr "Correcto. Tengo la sensación de que pueden tener algo que ver con las anteriores guerras de bandas."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=31
-#. y4:msg_location=T0.P31
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "428_Akaishi"
 msgid "Huh? What makes you think that?"
 msgstr "¿Eh? ¿Qué te hace pensar eso?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=32
-#. y4:msg_location=T0.P32
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "440_Kiryu"
 msgid "That guy from the Kanto Gangsters, RA. It was something he said."
 msgstr "Ese tipo de los Kanto Gangsters, RA. Era algo que dijo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "452_Akaishi"
 msgid "Oh, you mean how some mysterious figure promised them money if they defeated you?"
 msgstr "Oh, ¿te refieres a como una misteriosa figura les prometió dinero si te derrotaban?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=34
-#. y4:msg_location=T0.P34
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "464_Kiryu"
 msgid "That's right. Now that I think about it, that was what set this chain of events in motion."
 msgstr "Eso es. Ahora que lo pienso, eso fue lo que empezó esta sucesión de eventos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=35
-#. y4:msg_location=T0.P35
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "476_Akaishi"
 msgid "I see..."
 msgstr "Ya veo..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=36
-#. y4:msg_location=T0.P36
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "488_Kiryu"
 msgid "Anyway, I'm sure they're not going to hold back now. If I'm in Kamurocho, they're bound to come after me."
 msgstr "De todas formas, estoy seguro que no se van a contener ahora. Si estoy en Kamurocho, seguro que van a ir a por mí."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=37
-#. y4:msg_location=T0.P37
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "500_Akaishi"
 msgid "I see. In that case, we'll see what we can turn up on this Dark Clan. Oh, and this is for your help."
 msgstr "Ya veo. En ese caso, veré que puedo hacer para encontrar a este Clan Oscuro. Oh, y esto es por tu ayuda."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=38
-#. y4:msg_location=T0.P38
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "512_Kiryu"
 msgid "That's all right. This whole gang thing isn't just about Kamurocho anymore. Now it's my battle against those outlaws who want to see me dead."
 msgstr "Esos es. Todo este tema de las bandas ya no trata solo de Kamurocho. Ahora es mi batalla contra estos forajidos que me quieren ver muerto."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=39
-#. y4:msg_location=T0.P39
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "524_Akaishi"
 msgid "Regardless of the enemy, you've succeeded in preserving the safety of our city. I'd like to reward you for that."
 msgstr "Independientemente del enemigo, has conseguido preservar la seguridad de nuestra ciudad. Me gustaría recompensarte por eso."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=40
-#. y4:msg_location=T0.P40
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "536_Akaishi"
 msgid "And I think you might be right. It seems likely that the Dark Clan is pulling the strings behind the gang wars."
 msgstr "Y creo que tienes razón. Parece que el Clan Oscuro era quien movía los hilos detrás de las guerras de bandas."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=41
-#. y4:msg_location=T0.P41
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "548_Akaishi"
 msgid "We appreciate your help in keeping the peace."
 msgstr "Apreciamos tu ayuda para mantener la paz."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=44
-#. y4:msg_location=T0.P44
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "584_Akaishi"
 msgid "It looks like the remaining members of the Purple Killers are on the run from the Dark Clan. Make sure to keep your guard up."
 msgstr "Parece que los miembros restantes de los Asesinos Púrpuras están huyendo del Clan Oscuro. Asegúrate de tener la guardia alta."

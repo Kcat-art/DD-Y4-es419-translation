@@ -24,161 +24,78 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00130252 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2880"
 msgid "Officer"
 msgstr "Oficial"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2884"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2888"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2892"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "2896"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "2900"
 msgid "Shady Man"
 msgstr "Hombre sospechoso"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "2904"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Officer
-#. y4:msg_speaker_id=0
 msgctxt "56_Officer"
 msgid "Dammit! Where did he go!?"
 msgstr "¡Mierda! ¡¿A dónde se fue?!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "68_Tanimura"
 msgid "Yo. Where's this wanted criminal you were talking about on the radio?"
 msgstr "Oye. ¿Dónde está el criminal del que hablaban por la radio?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Officer
-#. y4:msg_speaker_id=0
 msgctxt "80_Officer"
 msgid "Hey, Tanimura-san. Well, you see, we kind of lost him..."
 msgstr "Hola, Tanimura-san. Bueno, verás, lo hemos perdido..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "92_Tanimura"
 msgid "That's too bad... Well, guess I'll look around for him."
 msgstr "Qué lástima... Bueno, miraré alrededor por si lo veo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Shady Man
-#. y4:msg_speaker_id=5
 msgctxt "176_Shady Man"
 msgid "*pant* *pant* These cops don't give up..."
 msgstr "*jadeo* *jadeo* Estos policías no se rinden..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "188_Tanimura"
 msgid "(Hm? Is that the wanted criminal that's on the run?)"
 msgstr "(¿Mm? ¿No será ese el criminal que escapo?)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "200_Tanimura"
 msgid "Hey, you there. Can I talk to you?"
 msgstr "Oye, tú. ¿Puedo hablar contigo un segundo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Shady Man
-#. y4:msg_speaker_id=5
 msgctxt "212_Shady Man"
 msgid "Damn! A cop! You'll never take me in!"
 msgstr "¡Maldición! ¡Un policía! ¡Nunca me atraparás!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=2
 msgctxt "224_Tanimura"
 msgid "If you come along with me, we can avoid any unnecessary violence."
 msgstr "Si vienes conmigo, evitaremos cualquier violencia innecesaria."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Shady Man
-#. y4:msg_speaker_id=5
 msgctxt "236_Shady Man"
 msgid "I can't afford to get caught! Sorry, pal, but you're going to have to die!"
 msgstr "¡No voy a permitirlo! ¡Lo siento amigo, pero vas a tener que\n"

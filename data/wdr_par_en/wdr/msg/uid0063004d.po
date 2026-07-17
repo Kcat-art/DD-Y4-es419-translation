@@ -24,27 +24,20 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KARAOKE.bin
 #. y4:runtime_play_command=y4.play_msg 0063004D <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1260"
 msgid "Rio"
 msgstr "Rio"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1264"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=0
 msgctxt "120_Rio"
 msgid "Hehe, let's sing our hearts out!"
 msgstr ""
@@ -53,35 +46,14 @@ msgctxt "132_Rio"
 msgid "Hm... What do I feel like singing today? Maybe \"Raindrops.\" <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=0
 msgctxt "144_Rio"
 msgid "Hehe... You really know how to set the mood!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Rio
-#. y4:msg_speaker_id=0
 msgctxt "156_Rio"
 msgid "That was rough..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "168_Akiyama"
 msgid "Sorry..."
 msgstr "Lo siento..."

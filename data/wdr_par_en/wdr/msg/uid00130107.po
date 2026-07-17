@@ -24,150 +24,72 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00130107 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2432"
 msgid "Drunk"
 msgstr "Borracho"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2436"
 msgid "M_ykz_sitgrd_tlk_kamae_ed"
 msgstr "M_ykz_sitgrd_tlk_kamae_ed"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "2440"
 msgid "M_ykz_stand"
 msgstr "M_ykz_stand"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2444"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "2448"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "2452"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "2456"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Drunk
-#. y4:msg_speaker_id=0
 msgctxt "100_Drunk"
 msgid "Oof!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Drunk
-#. y4:msg_speaker_id=0
 msgctxt "112_Drunk"
 msgid "Hey, pal! Izza just grabbin' some shuteye! Whatsa big idea wakin' me up!?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=4
 msgctxt "124_Tanimura"
 msgid "Seems like you've gone past your limit, sir. I don't need you causing trouble here, so why don't you go take a rest at the station?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Drunk
-#. y4:msg_speaker_id=0
 msgctxt "136_Drunk"
 msgid "Whazzat!? I wouldn't be drinkin' in Kamurocho if I was afraida the cops, dumbass!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=4
 msgctxt "160_Tanimura"
 msgid "(Looks like all the ruckus tired him out.)"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=4
 msgctxt "172_Tanimura"
 msgid "Hey, sir. Wake up. You're liable to catch a cold sleeping out here."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Drunk
-#. y4:msg_speaker_id=0
 msgctxt "184_Drunk"
 msgid "Lemme alone..."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=4
 msgctxt "196_Tanimura"
 msgid "People are going to trip over you. Come on, get up."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Drunk
-#. y4:msg_speaker_id=0
 msgctxt "208_Drunk"
 msgid "Ugh! Jus' get away from me! Cantcha see I'm tryna sleep here!?"
 msgstr ""

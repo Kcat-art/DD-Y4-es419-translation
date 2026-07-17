@@ -24,13 +24,16 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KARAOKE.bin
 #. y4:runtime_play_command=y4.play_msg 0063004F <group>
 
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "4820"
 msgid "松岡里緒奈：源氏名"
 msgstr "松岡里緒奈：源氏名"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "4824"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -48,32 +51,13 @@ msgid "Hehe! Not bad, right? I love how you were totally getting\\r\n"
 "into it. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Sure. -> T2.P2 | 2. Not me. -> T2.P4
 msgctxt "292_松岡里緒奈：源氏名"
 msgid "You should sing something, too."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Sure.
 msgctxt "304_Kiryu"
 msgid "Sure, why not."
 msgstr ""
@@ -82,54 +66,18 @@ msgctxt "316_松岡里緒奈：源氏名"
 msgid "Ooh, I really like your Adam's apple! <Color:7>♥<Color:Default> I wonder what your singing voice sounds like. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Not me.
 msgctxt "328_Kiryu"
 msgid "No, I'm good."
 msgstr "No, estoy bien."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Not me.
 msgctxt "340_松岡里緒奈：源氏名"
 msgid "Oh... Okay. I wish I could have heard you sing though."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "352_松岡里緒奈：源氏名"
 msgid "That was hard to sing... You totally bummed me out."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "364_Kiryu"
 msgid "Sorry."
 msgstr "Lo siento."
@@ -138,32 +86,13 @@ msgctxt "376_松岡里緒奈：源氏名"
 msgid "That was awesome! You really know how to cheer a girl on! <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Sure. -> T2.P2 | 2. Not me. -> T2.P4
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=1
 msgctxt "388_松岡里緒奈：源氏名"
 msgid "You should sing something, too."
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Sure.
 msgctxt "400_Kiryu"
 msgid "Sure, why not."
 msgstr ""
@@ -172,76 +101,26 @@ msgctxt "412_松岡里緒奈：源氏名"
 msgid "Ooh, I really like your Adam's apple! <Color:7>♥<Color:Default> I wonder what your singing voice sounds like. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Not me.
 msgctxt "424_Kiryu"
 msgid "No, I'm good."
 msgstr "No, estoy bien."
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Not me.
 msgctxt "436_松岡里緒奈：源氏名"
 msgid "Oh... Okay. I wish I could have heard you sing though."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "448_松岡里緒奈：源氏名"
 msgid "Wow, I'm impressed!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=1
-#. y4:msg_location=T5.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "460_Kiryu"
 msgid "Heh, oh yeah?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
-#. y4:msg_speaker=譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "472_松岡里緒奈：源氏名"
 msgid "Oh, are you done? I haven't picked a song yet. Hmm... What should I sing?"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=1
-#. y4:msg_location=T6.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "484_Kiryu"
 msgid "Oh..."
 msgstr "Oh..."
@@ -250,81 +129,46 @@ msgctxt "496_松岡里緒奈：源氏名"
 msgid "You've got a really hot voice! I could listen to you forever. <Color:7>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=7
-#. y4:msg_phrase=1
-#. y4:msg_location=T7.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "508_Kiryu"
 msgid "Oh yeah? Thanks."
 msgstr "¿Ah, sí? Gracias."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P2
-#. y4:msg_branch_segment=T2.P2..P3
-#. y4:msg_branch_target_text=Sure, why not.
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "520_松岡里緒奈：源氏名"
 msgid "Sure."
 msgstr "Claro."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P4
-#. y4:msg_branch_segment=T2.P4..P5
-#. y4:msg_branch_target_text=No, I'm good.
-#. y4:msg_branch_raw=01 11 00 04 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "532_松岡里緒奈：源氏名"
 msgid "Not me."
 msgstr "Yo no."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P2
-#. y4:msg_branch_segment=T2.P2..P3
-#. y4:msg_branch_target_text=Sure, why not.
-#. y4:msg_branch_raw=01 11 00 02 00 00 00 05 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P2
 msgctxt "544_松岡里緒奈：源氏名"
 msgid "Sure."
 msgstr "Claro."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P4
-#. y4:msg_branch_segment=T2.P4..P5
-#. y4:msg_branch_target_text=No, I'm good.
-#. y4:msg_branch_raw=01 11 00 04 00 00 00 07 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P4
 msgctxt "556_松岡里緒奈：源氏名"
 msgid "Not me."
 msgstr "Yo no."

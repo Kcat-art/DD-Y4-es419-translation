@@ -24,74 +24,40 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 0009012C <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1012"
 msgid "Elderly Homeless Man"
 msgstr "Anciano Vagabundo"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1016"
 msgid "Young Homeless Man"
 msgstr "Joven Vagabundo"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1020"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "1024"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Elderly Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "84_Elderly Homeless Man"
 msgid "That Shibata... He's a sly one all right. I bet he's pulling all the strings behind this one."
 msgstr "Ese Shibata... Es un astuto, sin duda. Apuesto a que está manejando todos los hilos detrás de esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Young Homeless Man
-#. y4:msg_speaker_id=1
 msgctxt "96_Young Homeless Man"
 msgid "Winter's finally over, peace's returned to this city... and now this? I've had enough of all the terrorist attacks and warring."
 msgstr "Ya pasó el invierno, por fin había paz en esta ciudad... ¿y ahora esto? Ya estoy harto de tantos ataques terroristas y guerras."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Elderly Homeless Man
-#. y4:msg_speaker_id=0
 msgctxt "108_Elderly Homeless Man"
 msgid "True... Wish we could live in peace, without having to deal with the twisted ambitions of men like him."
 msgstr "Cierto... Ojalá pudiéramos vivir en paz, sin tener que preocuparnos por las ambiciones enfermizas de gente como él."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Young Homeless Man
-#. y4:msg_speaker_id=1
 msgctxt "120_Young Homeless Man"
 msgid "If we can't live in West Park anymore, where the hell are we supposed to go?"
 msgstr "Si ya no podemos vivir en Parque Oeste, ¿a dónde diablos vamos a ir?"

@@ -16,110 +16,56 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00020C79 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1680"
 msgid "Tabuse"
 msgstr "Tabuse"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "1684"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "1688"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Tabuse
-#. y4:msg_speaker_id=0
 msgctxt "72_Tabuse"
 msgid "First day in here, and you end up in the biggest fight I've seen in years. You really showed those guys what's what."
 msgstr "Apenas llegaste a prisión\\r\ny ya has causado un buen revuelo, ¿eh?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=2
 msgctxt "84_Saejima"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Tabuse
-#. y4:msg_speaker_id=0
 msgctxt "96_Tabuse"
 msgid "Guess you got what was coming to you for all that, though. In case you couldn't tell, this isn't your run-of-the-mill prison."
 msgstr "Bueno, está bien.\\r\nComo puedes ver, esta prisión es bastante única."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Tabuse
-#. y4:msg_speaker_id=0
 msgctxt "108_Tabuse"
 msgid "But hey, it's not all bad behind bars. The real trick is appreciating the small stuff whenever you can."
 msgstr "A diferencia de una prisión normal\\r\naquí mucha gente tiene pertenencias personales."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Tabuse
-#. y4:msg_speaker_id=0
 msgctxt "120_Tabuse"
 msgid "Like... see that guy smoking over there?"
 msgstr "Como por ejemplo ese tipo, está fumando un cigarrillo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Tabuse
-#. y4:msg_speaker_id=0
 msgctxt "132_Tabuse"
 msgid "How do you think he got that cig? As long as the guards don't have it out for you, this place can be kinda cozy."
 msgstr "Cómo conseguirlo, es algo que debes descubrir por ti mismo.\\r\nMientras no llames la atención de los guardias,\\r\neste lugar puede ser bastante cómodo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Tabuse
-#. y4:msg_speaker_id=0
 msgctxt "144_Tabuse"
 msgid "Point is, keep your nose clean if you wanna survive. You might even get some special treatment along the way."
 msgstr "Bueno, supongo que lo harás bien."

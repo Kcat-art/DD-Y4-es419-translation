@@ -24,62 +24,44 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
 #. y4:runtime_play_command=y4.play_msg 0009031B <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "6808"
 msgid "Setsuko"
 msgstr "Setsuko"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "6812"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "6816"
 msgid "Arima"
 msgstr "Arima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "6820"
 msgid "Shiobara"
 msgstr "Shiobara"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "6824"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "6828"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "6832"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Setsuko
-#. y4:msg_speaker_id=0
 msgctxt "68_Setsuko"
 msgid "Honey..."
 msgstr "Cariño..."
@@ -98,13 +80,6 @@ msgstr "Las altas tasas de interés que estuvieron cobrando ahora\\r\n"
 "les juega en contra. Los reembolsos y los préstamos incumplidos\\r\n"
 "pusieron tu negocio en una situación muy precaria."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Arima
-#. y4:msg_speaker_id=2
 msgctxt "104_Arima"
 msgid "......"
 msgstr "......"
@@ -139,13 +114,6 @@ msgstr "Se quedaría solamente con una banda de deudores incobrables\\r\n"
 "que han utilizado todos los fondos de Préstamos Tenjin.\\r\n"
 "La quiebra de su negocio es inevitable."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=3
 msgctxt "164_Shiobara"
 msgid "...!"
 msgstr "¡...!"
@@ -162,24 +130,10 @@ msgid "Unless you reel in some new loans, Tenjin will go down in\\r\n"
 msgstr "A menos que puedas conseguir un nuevo préstamo,\\r\n"
 "tu empresa desaparecerá, y arrastrará a Shiobara con ella."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Arima
-#. y4:msg_speaker_id=2
 msgctxt "200_Arima"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "212_Akiyama"
 msgid "Setsuko-san knew all this."
 msgstr "Setsuko-san lo sabía todo."
@@ -192,24 +146,10 @@ msgstr "Ella dejó de lado su vergüenza y orgullo, e incluso\\r\n"
 "se ofreció a limpiar los baños del club con tal\\r\n"
 "de poder pasar mi prueba."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "236_Akiyama"
 msgid "She was genuinely trying to make a new start with you."
 msgstr "Ella realmente está intentando volver a empezar contigo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Arima
-#. y4:msg_speaker_id=2
 msgctxt "248_Arima"
 msgid "Setsuko..."
 msgstr "Setsuko..."
@@ -220,91 +160,35 @@ msgid "Setsuko-san, you've passed the test. I'll lend you fifty\\r\n"
 msgstr "Setsuko-san, has pasado la prueba. Como acordamos,\\r\n"
 "te haré el préstamo de cincuenta millones de yenes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
-#. y4:msg_speaker=Setsuko
-#. y4:msg_speaker_id=0
 msgctxt "272_Setsuko"
 msgid "...Thank you so very much."
 msgstr "...Muchisimas gracias."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Arima
-#. y4:msg_speaker_id=2
 msgctxt "284_Arima"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=3
 msgctxt "344_Shiobara"
 msgid "You really helped me out, Akiyama-san. I appreciate it."
 msgstr "Akiyama-san, me ayudaste en esa situación. Te lo agradezco."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "356_Akiyama"
 msgid "I wasn't exactly trying to."
 msgstr "No era mi intención hacerlo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=3
 msgctxt "368_Shiobara"
 msgid "It's just like you said."
 msgstr "Como era de esperar, fue tal y como dijiste."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "380_Akiyama"
 msgid "What?"
 msgstr "¿Qué?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=3
 msgctxt "392_Shiobara"
 msgid "Show people you're serious, and they'll be happy to work with you."
 msgstr "Demuéstrales a las personas que vas en serio, y ellos estarán\n"
 "felices de trabajar contigo."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Arima
-#. y4:msg_speaker_id=2
 msgctxt "404_Akiyama"
 msgid "......"
 msgstr "......"
@@ -321,24 +205,10 @@ msgid "I think Arima-san really understood his wife's\\r\n"
 msgstr "Además, estoy seguro que Arima-san pudo\\r\n"
 "apreciar la determinación de su esposa."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Arima
-#. y4:msg_speaker_id=2
 msgctxt "440_Akiyama"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Shiobara
-#. y4:msg_speaker_id=3
 msgctxt "452_Shiobara"
 msgid "My eyes have been opened."
 msgstr "Abrí los ojos."

@@ -24,69 +24,44 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_FISHING.bin
 #. y4:runtime_play_command=y4.play_msg 00A40127 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2400"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2404"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2408"
 msgid "Shady Man A"
 msgstr "Hombre Sospechoso A"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2412"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "2416"
 msgid "2d_cf_pict_nigaoe_hana"
 msgstr "2d_cf_pict_nigaoe_hana"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "2420"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "2424"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "2428"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=0
 msgctxt "84_Akiyama"
 msgid "(Not ones for subtlety are they...?)"
 msgstr "(La discreción no es su fuerte, ¿No?)"
@@ -96,13 +71,6 @@ msgid "Funny thing about counterfeiting...\\r\n"
 "It always leaves a paper trail."
 msgstr "Parece que encontré la maquina de imprimir billetes falsos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Shady Man A
-#. y4:msg_speaker_id=2
 msgctxt "120_Shady Man A"
 msgid "Where the hell'd you come from?"
 msgstr "¿De dónde demonios saliste?"
@@ -113,13 +81,6 @@ msgid "This fellow sent me here. Said this is where the magic\\r\n"
 msgstr "Este tipo me envió. Quiero hacer un tour por\\r\n"
 "la casa de papel."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Shady Man A
-#. y4:msg_speaker_id=2
 msgctxt "144_Shady Man A"
 msgid "That son of a bitch sold us out!"
 msgstr "¡Ese hijo de puta nos vendió!"
@@ -135,13 +96,6 @@ msgid "Heh. Actually, I happen to have a bone to pick with you\\r\n"
 msgstr "Je. De hecho, tengo una espina clavada por su culpa.\\r\n"
 "Así que, por favor perdónenme si les rompo la cara."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Shady Man A
-#. y4:msg_speaker_id=2
 msgctxt "180_Shady Man A"
 msgid "Bastard...! You're asking for it!"
 msgstr "¡Bastardo...! ¡Tú te lo buscaste!"

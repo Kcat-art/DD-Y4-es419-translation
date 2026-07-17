@@ -24,27 +24,18 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAWARA_UN.bin
 #. y4:runtime_play_command=y4.play_msg 00020620 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "300"
 msgid "Drenched Man"
 msgstr "Hombre Empapado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "304"
 msgid "Talk_Info_L"
 msgstr "Talk_Info_L"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Drenched Man
-#. y4:msg_speaker_id=0
 msgctxt "56_Drenched Man"
 msgid "I dunno why, but that lady was running like her life depended on it. Went right across this here bridge and hurried inside."
 msgstr "No sé qué le pasaba, pero esa mujer corría como si le fuera la vida en ello. Cruzó este puente y entró corriendo."

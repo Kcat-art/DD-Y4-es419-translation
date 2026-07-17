@@ -18,208 +18,110 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=9
-#. y4:msg_location=T2.P9
 msgctxt "404"
 msgid "You gained 500 EXP."
 msgstr "Obtuviste 500 de experiencia."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=8
-#. y4:msg_location=T5.P8
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Exchange
 msgctxt "560"
 msgid "You got <Color:8>High-grade Platinum<Color:Default>."
 msgstr "Obtuviste <Color:8>Platino de alta calidad<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=10
-#. y4:msg_location=T5.P10
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Exchange
 msgctxt "584"
 msgid "You got the <Color:8>Eye of the Dragon<Color:Default>."
 msgstr "Obtuviste un <Color:8>Ojo de dragón<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=12
-#. y4:msg_location=T5.P12
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Exchange
 msgctxt "608"
 msgid "You got a <Color:8>Super High-voltage Battery<Color:Default>."
 msgstr "Obtuviste una <Color:8>Batería de súper alto voltaje<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=15
-#. y4:msg_location=T6.P15
 msgctxt "824"
 msgid "You got a <Color:8>Staminan Spark<Color:Default>."
 msgstr "Obtuviste un <Color:8>Staminan Spark<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=17
-#. y4:msg_location=T6.P17
 msgctxt "848"
 msgid "You got a <Color:8>Toughness Infinity<Color:Default>."
 msgstr "Obtuviste un <Color:8>Toughness Infinity<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=19
-#. y4:msg_location=T6.P19
 msgctxt "872"
 msgid "You got a <Color:8>Cold Pack<Color:Default>."
 msgstr "Obtuviste una <Color:8>Bolsa helada<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=21
-#. y4:msg_location=T6.P21
 msgctxt "896"
 msgid "You got a <Color:8>Seal of the Dragon<Color:Default>."
 msgstr "Obtuviste un <Color:8>Sello de dragón<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=23
-#. y4:msg_location=T6.P23
 msgctxt "920"
 msgid "You got a <Color:8>Chunk of Wood (Sacred)<Color:Default>."
 msgstr "Obtuviste un <Color:8>Trozo de madera (Sagrado)<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "10052"
 msgid "Akaishi"
 msgstr "Akaishi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "10056"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "10060"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "10064"
 msgid "Avoiding Fights"
 msgstr "Evitar peleas"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "10068"
 msgid "Volunteer"
 msgstr "Voluntario"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "10072"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "10076"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "296_Akaishi"
 msgid "This town's brimming with danger. Thugs won't bother pulling their victims into an alley to beat them senseless, they'll do it right out on the street."
 msgstr "Esta ciudad está repleta de peligros. Los criminales ya ni se molestan en llevar a sus víctimas a un callejón, ahora la extorsión pública es el pan de cada día en Kamurocho."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "308_Akaishi"
 msgid "It's our duty to stop these evildoers from acting as they please, but we must ask you to stay vigilant. Keep your guard up!"
 msgstr "Es nuestro deber detener a estos malhechores de actuar como quieran, y también pedirle a los ciudadanos que estén alerta. ¡No bajes la guardia!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=2
-#. y4:msg_location=T2.P2
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "320_Akaishi"
 msgid "For example, try not to draw attention to yourself. Don't run, don't hurry, walk calmly and quietly!"
 msgstr "Por ejemplo, una forma de cuidarte es no llamar la atención. No corras, no te apresures, ¡camina con calma y en silencio!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=3
-#. y4:msg_location=T2.P3
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "332_Akaishi"
 msgid "You'd be surprised just how well this works! There are plenty of criminals out there that only go after people who seem to be in a hurry."
 msgstr "De hecho, haciendo eso puedes evitar a varios malhechores. Hay muchos criminales que solo atacan a quienes parecen tener prisa."
@@ -230,13 +132,6 @@ msgid "Hold <Action:Button_L1@Adventure> and move to walk slowly. Those who migh
 msgstr "Mantén <Action:Button_L1@Adventure> presionado y muévete para caminar lentamente. Al hacerlo, será más difícil que te detecten personas que quieran iniciar una pelea.\\r\n\\r\nCuando tu salud esté baja o necesites llegar destino sin interrupciones, caminar será la forma perfecta para evitar esos encuentros no deseados."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=5
-#. y4:msg_location=T2.P5
-#. y4:msg_speaker=Avoiding Fights
-#. y4:msg_speaker_id=3
 msgctxt "356_Akaishi"
 msgid "You may also be able to avoid drawing the attention of enemies by walking behind them."
 msgstr "Además, puedes evitar llamar la atención de los enemigos si caminas detrás de ellos."
@@ -248,25 +143,11 @@ msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nR
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "380_Akaishi"
 msgid "Remember: walk down the street, walk away with your wallet! Run down the street, run headfirst into disaster!"
 msgstr "¡Recuerda! ¡Si caminas despacito, sin alborotar, ningún maleante te va a notar!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Volunteer
-#. y4:msg_speaker_id=4
 msgctxt "416_Volunteer"
 msgid "We do what we do to make Kamurocho safer."
 msgstr "Estamos trabajando para hacer a Kamurocho un lugar más seguro."
@@ -277,363 +158,168 @@ msgid "This town is full of violent people－always be on guard."
 msgstr "Esta ciudad está llena de gente violenta. Por favor, ten mucho cuidado."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Volunteer
-#. y4:msg_speaker_id=4
 msgctxt "440_Volunteer"
 msgid "We do what we do to make Kamurocho safer."
 msgstr "Estamos trabajando para hacer a Kamurocho un lugar más seguro."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=1
-#. y4:msg_location=T4.P1
-#. y4:msg_speaker=Volunteer
-#. y4:msg_speaker_id=4
 msgctxt "452_Volunteer"
 msgid "I'm not sure if you realize it, but the outfit you're wearing might make some of the less tasteful people around town think you're one of them. Be careful out there!"
 msgstr "No estoy seguro de que te des cuenta, pero con esa ropa, cualquiera podría confundirte con un delincuente. ¡Ten cuidado ahí fuera!"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "464_Akaishi"
 msgid "Thank you for all your help, Kiryu-san."
 msgstr "Gracias por tu ayuda, Kiryu-san."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=1
-#. y4:msg_location=T5.P1
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "476_Akaishi"
 msgid "If you defeat the remnants of those gangs and collect all five of their emblems, you can exchange them for rewards."
 msgstr "Derrota a los remanentes de esas bandas y reúne sus cinco emblemas para intercambiarlos por recompensas."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=2
-#. y4:msg_location=T5.P2
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "488_Akaishi"
 msgid "I'll be waiting for you right here. Thanks again for all that you do."
 msgstr "Te esperaré justo aquí. Gracias de nuevo por todo lo que haces."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=3
-#. y4:msg_location=T5.P3
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "500_Akaishi"
 msgid "I heard there's a gang looking for you, Kiryu-san, and it doesn't sound like they want to invite you for tea. Be careful out there."
 msgstr "He oído que hay una banda buscándote, Kiryu-san, y no creo que sea para invitarte un té. Ten cuidado."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=4
-#. y4:msg_location=T5.P4
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "512_Akaishi"
 msgid "Looks like you have all five emblems. Thanks for helping out."
 msgstr "Parece que tienes los cinco emblemas. Gracias por ayudar."
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=5
-#. y4:msg_location=T5.P5
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Exchange -> T5.P7 | 2. Come Back Later -> T5.P6
 msgctxt "524_Akaishi"
 msgid "Would you like to exchange them?"
 msgstr "¿Le gustaría intercambiarlos por una recompensa?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=6
-#. y4:msg_location=T5.P6
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Come Back Later
 msgctxt "536_Akaishi"
 msgid "Okay. Let me know if you change your mind."
 msgstr "Bueno. Me avisas si cambias de opinión."
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=5
-#. y4:msg_phrase=7
-#. y4:msg_location=T5.P7
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. High-grade Platinum -> T5.P8 | 2. Eye of the Dragon -> T5.P10 | 3. Super High-voltage Battery -> T5.P12 | 4. Never Mind -> T5.P6
 msgctxt "548_Akaishi"
 msgid "Great. What do you want to exchange them for?"
 msgstr "Genial. ¿Por qué quieres intercambiarlos?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=5
-#. y4:msg_phrase=14
-#. y4:msg_location=T5.P14
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Exchange
 msgctxt "632_Akaishi"
 msgid "We appreciate all your help."
 msgstr "Estamos realmente agradecidos con tu ayuda."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=1
-#. y4:msg_location=T6.P1
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "656_Akaishi"
 msgid "Thanks for your hard work, Tanimura-san."
 msgstr "Gracias por tu arduo trabajo, Tanimura-san."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=2
-#. y4:msg_location=T6.P2
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "668_Akaishi"
 msgid "So far, you've resolved %s incidents. Every five you manage to take care of, I'll have to give you something to thank you."
 msgstr "Hasta ahora, has resuelto %s incidentes. Por cada cinco resueltos te daré una recompensa como agradecimiento."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=3
-#. y4:msg_location=T6.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=6
 msgctxt "680_Tanimura"
 msgid "All right."
 msgstr "Ah, entiendo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=4
-#. y4:msg_location=T6.P4
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "692_Akaishi"
 msgid "Thank you again for your continued cooperation!"
 msgstr "¡Gracias de nuevo por su continua cooperación!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=1
-#. y4:msg_location=T6.P1
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "704_Akaishi"
 msgid "Thanks for your hard work, Tanimura-san."
 msgstr "Gracias por tu arduo trabajo, Tanimura-san."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=6
-#. y4:msg_location=T6.P6
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "716_Akaishi"
 msgid "We would like to offer you this reward as a token of our appreciation for all of the incidents you've resolved. Thank you very much."
 msgstr "Nos gustaría ofrecerle esta recompensa como muestra de nuestro agradecimiento por haber resuelto todos esos incidentes. Muchas gracias."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=25
-#. y4:msg_location=T6.P25
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=6
 msgctxt "944_Tanimura"
 msgid "Thanks."
 msgstr "Gracias."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=26
-#. y4:msg_location=T6.P26
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=0
 msgctxt "956_Akaishi"
 msgid "No, thank you for all your help."
 msgstr "Esperamos seguir contando con su apoyo."
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T5.P7
-#. y4:msg_branch_segment=T5.P7..P14
-#. y4:msg_branch_target_text=Great. What do you want to exchange them for?
-#. y4:msg_branch_raw=01 11 00 07 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "968_Akaishi"
 msgid "Exchange"
 msgstr "Intercambiar"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T5.P6
-#. y4:msg_branch_segment=T5.P6..P6
-#. y4:msg_branch_target_text=Okay. Let me know if you change your mind.
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 0f 00 00 00 00 00 00 00 00
 msgctxt "980_Akaishi"
 msgid "Come Back Later"
 msgstr "Volver más tarde"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=9
-#. y4:msg_phrase=0
-#. y4:msg_location=T9.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T5.P8
-#. y4:msg_branch_segment=T5.P8..P9
-#. y4:msg_branch_target_text=You got <Color:8>High-grade Platinum<Color:Default>.
-#. y4:msg_branch_raw=01 11 00 08 00 00 00 13 00 00 00 00 00 00 00 00
 msgctxt "992_Akaishi"
 msgid "High-grade Platinum"
 msgstr "Platino de alta calidad"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=10
-#. y4:msg_phrase=0
-#. y4:msg_location=T10.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T5.P10
-#. y4:msg_branch_segment=T5.P10..P11
-#. y4:msg_branch_target_text=You got the <Color:8>Eye of the Dragon<Color:Default>.
-#. y4:msg_branch_raw=01 11 00 0a 00 00 00 11 00 00 00 00 00 00 00 00
 msgctxt "1004_Akaishi"
 msgid "Eye of the Dragon"
 msgstr "Ojo de dragón"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=11
-#. y4:msg_phrase=0
-#. y4:msg_location=T11.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=3
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T5.P12
-#. y4:msg_branch_segment=T5.P12..P14
-#. y4:msg_branch_target_text=You got a <Color:8>Super High-voltage Battery<Color:Default>.
-#. y4:msg_branch_raw=01 11 00 0c 00 00 00 1a 00 00 00 00 00 00 00 00
 msgctxt "1016_Akaishi"
 msgid "Super High-voltage Battery"
 msgstr "Batería de súper alto voltaje"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=12
-#. y4:msg_phrase=0
-#. y4:msg_location=T12.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=4
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T5.P6
-#. y4:msg_branch_segment=T5.P6..P7
-#. y4:msg_branch_target_text=Okay. Let me know if you change your mind.
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "1028_Akaishi"
 msgid "Never Mind"
 msgstr "Olvídalo"

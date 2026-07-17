@@ -17,337 +17,217 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00260414 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=23
-#. y4:msg_location=T2.P23
 msgctxt "540"
 msgid "You handed over <Color:8>Large Curry Take-home Packs<Color:Default>."
 msgstr "Entregaste <Color:8>Packs de Curry Grande para Llevar<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=71
-#. y4:msg_location=T2.P71
 msgctxt "1116"
 msgid "You got a <Color:8>Staminan Spark<Color:Default>."
 msgstr "Obtuviste un <Color:8>Staminan Spark<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=84
-#. y4:msg_location=T2.P84
 msgctxt "1272"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "29052"
 msgid "Delivery Boy"
 msgstr "Repartidor"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "29056"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "29060"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "29064"
 msgid "Foreman"
 msgstr "Supervisor"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "29068"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "29072"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
+#. y4:msg_role=name
+#. y4:msg_name_id=6
 msgctxt "29076"
 msgid "Manager"
 msgstr "Gerente"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "29080"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "29084"
 msgid "Talk_Cry"
 msgstr "Talk_Cry"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "29088"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
+#. y4:msg_role=name
+#. y4:msg_name_id=10
 msgctxt "29092"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "29096"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "29100"
 msgid "Talk_Request"
 msgstr "Talk_Request"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
+#. y4:msg_role=name
+#. y4:msg_name_id=13
 msgctxt "29104"
 msgid "Construction Workers"
 msgstr "Trabajadores de la Construcción"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "29108"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
+#. y4:msg_role=name
+#. y4:msg_name_id=15
 msgctxt "29112"
 msgid "Assistant Foreman"
 msgstr "Asistente del Supervisor"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
 msgctxt "29116"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=17
 msgctxt "29120"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=18
 msgctxt "29124"
 msgid "P_sitgrd_tlk_agura_kamae"
 msgstr "P_sitgrd_tlk_agura_kamae"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=19
 msgctxt "29128"
 msgid "M_ykz_sitgrd_tlk_agura_lp"
 msgstr "M_ykz_sitgrd_tlk_agura_lp"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=20
 msgctxt "29132"
 msgid "P_sitgrd_tlk_agura_yes"
 msgstr "P_sitgrd_tlk_agura_yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=21
 msgctxt "29136"
 msgid "P_sitgrd_tlk_agura_ibukasimu"
 msgstr "P_sitgrd_tlk_agura_ibukasimu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=22
 msgctxt "29140"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=23
+#. y4:msg_role=name
+#. y4:msg_name_id=23
 msgctxt "29144"
 msgid "Tomoya"
 msgstr "Tomoya"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=24
 msgctxt "29148"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=25
 msgctxt "29152"
 msgid "M_ykz_sitgrd_tlk_agura_ed"
 msgstr "M_ykz_sitgrd_tlk_agura_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=26
 msgctxt "29156"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=27
 msgctxt "29160"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=28
 msgctxt "29164"
 msgid "Nml_TurnR180"
 msgstr "Nml_TurnR180"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=29
 msgctxt "29168"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=30
 msgctxt "29172"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=31
 msgctxt "29176"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=32
 msgctxt "29180"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=33
 msgctxt "29184"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=34
 msgctxt "29188"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "264_Delivery Boy"
 msgid "Oh, dude! You're back! But what happened to the curry!?"
 msgstr "¡Oh, amigo! ¡Estás de vuelta! ¿¡Pero qué pasó con el curry!?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=4
-#. y4:msg_location=T2.P4
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "312_Delivery Boy"
 msgid "You don't have it yet? This is, like, so my fault and everything, but could you hurry it up a little!?"
 msgstr "¿No lo tienes aún? Esto es, como, totalmente mi culpa y todo eso, ¿¡pero podrías apurarte un poco!?"
@@ -363,49 +243,21 @@ msgid "Yikes! Man, if only I hadn't hurt my leg,\\r\nI'd go myself!"
 msgstr "¡Vaya! Amigo, si tan solo no me hubiera lastimado la pierna,\\r\n¡iría yo mismo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "348_Delivery Boy"
 msgid "Oh, sweet! You brought enough sauce for everybody!"
 msgstr "¡Oh, genial! ¡Trajiste suficiente salsa para todos!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=8
-#. y4:msg_location=T2.P8
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=6
 msgctxt "360_Manager"
 msgid "All right! The curry's finally here!"
 msgstr "¡Muy bien! ¡El curry finalmente está aquí!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=9
-#. y4:msg_location=T2.P9
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "372_Delivery Boy"
 msgid "But... it's cold! Listen, I feel bad about this and everything, but cold curry?"
 msgstr "\"¡Pero... está frío! Escucha, me siento mal por todo esto y lo que sea, pero ¿curry frío?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=10
-#. y4:msg_location=T2.P10
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "384_Delivery Boy"
 msgid "Can't you find a stove or something? Curry's just gotta be served hot..."
 msgstr "¿No puedes encontrar una hornalla o algo así? El curry debe servirse caliente..."
@@ -421,61 +273,26 @@ msgid "Yikes! Man, if only I hadn't hurt my leg,\\r\nI'd go myself!"
 msgstr "¡Vaya! Amigo, si tan solo no me hubiera lastimado la pierna,\\r\n¡iría yo mismo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=14
-#. y4:msg_location=T2.P14
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "432_Kiryu"
 msgid "(There ought to be a stove I can use at New Serena. Guess I can run over and heat it up.)"
 msgstr "(Debería haber una hornalla que pueda usar en New Serena. Supongo que puedo correr y calentarla.)"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=15
-#. y4:msg_location=T2.P15
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "444_Delivery Boy"
 msgid "Oh, wow! You already have some!"
 msgstr "¡Oh, genial! ¡Ya tienes algo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=16
-#. y4:msg_location=T2.P16
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "456_Delivery Boy"
 msgid "But, aw, man! That's not gonna be enough! Look at all these people!"
 msgstr "Pero, ¡oh, hombre! ¡Eso no va a ser suficiente! ¡Mira a toda esta gente!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=17
-#. y4:msg_location=T2.P17
-#. y4:msg_speaker=Manager
-#. y4:msg_speaker_id=6
 msgctxt "468_Manager"
 msgid "You shouldn't underestimate our appetite. We're hungry as hell! We could finish that off in no time at all."
 msgstr "No deberías subestimar nuestro apetito. ¡Estamos hambrientos como el demonio! Podríamos terminar eso en un abrir y cerrar de ojos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=18
-#. y4:msg_location=T2.P18
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "480_Delivery Boy"
 msgid "I really feel bad about this man, but could you bring a whole bunch of curry?"
 msgstr "Realmente me siento mal por esto, amigo, pero ¿podrías traer un montón de curry?"
@@ -491,1168 +308,428 @@ msgid "Yikes! Man, if only I hadn't hurt my leg,\\r\nI'd go myself!"
 msgstr "¡Vaya! Amigo, si tan solo no me hubiera lastimado la pierna,\\r\n¡iría yo mismo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=21
-#. y4:msg_location=T2.P21
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "516_Kiryu"
 msgid "(I got this curry from Matsuya. Guess I better go back there again.)"
 msgstr "(este curry lo conseguí en Matsuya. Supongo que deberia volver allí otra vez.)"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=7
-#. y4:msg_location=T2.P7
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "564_Delivery Boy"
 msgid "Oh, sweet! You brought enough sauce for everybody!"
 msgstr "¡Oh, genial! ¡Trajiste suficiente salsa para todos!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=26
-#. y4:msg_location=T2.P26
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "576_Delivery Boy"
 msgid "Nice and hot, too! Man, you're one heck of a guy, you know that? You really took care of business!"
 msgstr "¡Y caliente también! Hombre, ¡eres un gran tipo, ¿sabes eso? ¡Realmente te ocupaste del asunto!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=27
-#. y4:msg_location=T2.P27
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
 msgctxt "588_Foreman"
 msgid "Yes! Curry! Finally, it's here!"
 msgstr "¡Sí! ¡Curry! ¡Finalmente, está aquí!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=28
-#. y4:msg_location=T2.P28
-#. y4:msg_speaker=Construction Workers
-#. y4:msg_speaker_id=13
 msgctxt "600_Construction Workers"
 msgid "Curry! Curry! We love curry!"
 msgstr "¡Curry! ¡Curry! ¡Nos encanta el curry!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=29
-#. y4:msg_location=T2.P29
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "612_Delivery Boy"
 msgid "Hahaha!"
 msgstr "¡Ja, ja, ja!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=30
-#. y4:msg_location=T2.P30
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "624_Kiryu"
 msgid "Heh."
 msgstr "Je."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=31
-#. y4:msg_location=T2.P31
-#. y4:msg_speaker=Assistant Foreman
-#. y4:msg_speaker_id=15
 msgctxt "636_Assistant Foreman"
 msgid "Boss, isn't it a little too early to celebrate?"
 msgstr "Jefe, ¿no es un poco demasiado pronto para celebrar?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Construction Workers
-#. y4:msg_speaker_id=13
 msgctxt "648_Construction Workers"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
 msgctxt "660_Foreman"
 msgid "What's that supposed to mean?"
 msgstr "¿Qué se supone que significa eso?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=34
-#. y4:msg_location=T2.P34
-#. y4:msg_speaker=Assistant Foreman
-#. y4:msg_speaker_id=15
 msgctxt "672_Assistant Foreman"
 msgid "Sure, we finally got our curry. But the real question is... does it taste any good?"
 msgstr "Claro, finalmente tenemos nuestro curry. Pero la verdadera pregunta es... ¿sabra bien?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=35
-#. y4:msg_location=T2.P35
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
 msgctxt "684_Foreman"
 msgid "It's not over!"
 msgstr "¡Esto no ha terminado!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=36
-#. y4:msg_location=T2.P36
-#. y4:msg_speaker=Construction Workers
-#. y4:msg_speaker_id=13
 msgctxt "696_Construction Workers"
 msgid "Gah! Hungry!"
 msgstr "¡Gah! ¡Hambriento!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=37
-#. y4:msg_location=T2.P37
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "708_Delivery Boy"
 msgid "Crap!"
 msgstr "¡Mierda!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=38
-#. y4:msg_location=T2.P38
-#. y4:msg_speaker=Assistant Foreman
-#. y4:msg_speaker_id=15
 msgctxt "720_Assistant Foreman"
 msgid "The curry we ordered was supposed to be from a famous curry shop. But how does this curry stack up?"
 msgstr "El curry que pedimos se suponía que era de un famoso restaurante de curry. Pero, ¿cómo se compara este curry?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=39
-#. y4:msg_location=T2.P39
-#. y4:msg_speaker=Assistant Foreman
-#. y4:msg_speaker_id=15
 msgctxt "732_Assistant Foreman"
 msgid "Maybe we should taste it before we get too excited."
 msgstr "Quizás deberíamos probarlo antes de emocionarnos demasiado."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=40
-#. y4:msg_location=T2.P40
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
 msgctxt "744_Foreman"
 msgid "True enough. I don't know what I'd do without that sharp mind of yours."
 msgstr "Cierto. No sé qué haría sin esa mente aguda que tienes."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=41
-#. y4:msg_location=T2.P41
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
 msgctxt "756_Foreman"
 msgid "The assistant foreman's right. It all comes down to the taste. Don't think you're out of the woods yet, boy."
 msgstr "El asistente del capataz tiene razón. Todo se reduce al sabor. No creas que ya estás fuera de peligro, chico."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=42
-#. y4:msg_location=T2.P42
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "768_Delivery Boy"
 msgid "Okay..."
 msgstr "Bueno..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=52
-#. y4:msg_location=T2.P52
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "888_Delivery Boy"
 msgid "How was it?"
 msgstr "¿Y qué tal?"
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=7
-#. y4:msg_location=T4.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Refuse -> T4.P8 | 2. Help Him -> T4.P13
 msgctxt "900_Foreman"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=7
-#. y4:msg_location=T4.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Refuse -> T4.P8 | 2. Help Him -> T4.P13
 msgctxt "924_Assistant Foreman"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=7
-#. y4:msg_location=T4.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Refuse -> T4.P8 | 2. Help Him -> T4.P13
 msgctxt "936_Construction Workers"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=57
-#. y4:msg_location=T2.P57
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
 msgctxt "948_Foreman"
 msgid "It's... fantastic!"
 msgstr "¡Es... fantástico!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=58
-#. y4:msg_location=T2.P58
-#. y4:msg_speaker=Assistant Foreman
-#. y4:msg_speaker_id=15
 msgctxt "960_Assistant Foreman"
 msgid "Tastes great!"
 msgstr "¡Sabe genial!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=59
-#. y4:msg_location=T2.P59
-#. y4:msg_speaker=Construction Workers
-#. y4:msg_speaker_id=13
 msgctxt "972_Construction Workers"
 msgid "Yeah! It's delicious!"
 msgstr "¡Sí! ¡Es delicioso!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=60
-#. y4:msg_location=T2.P60
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "984_Delivery Boy"
 msgid "Yes! Dude, they like it!"
 msgstr "¡Sí! ¡Amigo, les gusta!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=61
-#. y4:msg_location=T2.P61
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "996_Kiryu"
 msgid "Heh. That's a relief."
 msgstr "Je. Eso es un alivio."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=62
-#. y4:msg_location=T2.P62
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1008_Delivery Boy"
 msgid "Man, you are, like, my idol! I don't think I could've done this without you!"
 msgstr "¡Hombre, eres como, mi ídolo! ¡No creo que pudiera haberlo hecho sin ti!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=63
-#. y4:msg_location=T2.P63
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "1020_Kiryu"
 msgid "I thought your leg was broken..."
 msgstr "Pensé que te habías roto la pierna..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=64
-#. y4:msg_location=T2.P64
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1032_Delivery Boy"
 msgid "It's a miracle! It feels better now that I'm so pumped up!"
 msgstr "¡Es un milagro! ¡Se siente mejor ahora que estoy tan emocionado!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=65
-#. y4:msg_location=T2.P65
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "1044_Kiryu"
 msgid "If you say so."
 msgstr "¿Están listos?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=66
-#. y4:msg_location=T2.P66
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1056_Delivery Boy"
 msgid "Dude, thank you so much! I should've totally asked before, but what's your name? I'm Tomoya."
 msgstr "¡Amigo, muchas gracias! Debería haberlo preguntado antes, pero, ¿cuál es tu nombre? Soy Tomoya."
 
 #. y4:line_status=translated
 #. y4:translated_by=Keiner
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=67
-#. y4:msg_location=T2.P67
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "1068_Kiryu"
 msgid "Kazuma Kiryu."
 msgstr "Kazuma Kiryu."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=68
-#. y4:msg_location=T2.P68
-#. y4:msg_speaker=Tomoya
-#. y4:msg_speaker_id=23
 msgctxt "1080_Tomoya"
 msgid "Kiryu? Got it! Man, even your name is badass!"
 msgstr "¿Kiryu? ¡Entendido! ¡Hombre, incluso tu nombre es genial!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=69
-#. y4:msg_location=T2.P69
-#. y4:msg_speaker=Tomoya
-#. y4:msg_speaker_id=23
 msgctxt "1092_Tomoya"
 msgid "I really wish there were some way I could thank you, but this is all I've got..."
 msgstr "Realmente desearía poder agradecerte de alguna manera, pero esto es todo lo que tengo..."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=73
-#. y4:msg_location=T2.P73
-#. y4:msg_speaker=Tomoya
-#. y4:msg_speaker_id=23
 msgctxt "1140_Tomoya"
 msgid "I know, it's kind of a lame reward, but it comes from the heart!"
 msgstr "Sé que es una recompensa un poco tonta, pero ¡viene del corazón!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=74
-#. y4:msg_location=T2.P74
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "1152_Kiryu"
 msgid "Good enough. Be careful not to crash your bike again."
 msgstr "Está bien. Ten cuidado de no volver a estrellar tu bicicleta."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=75
-#. y4:msg_location=T2.P75
-#. y4:msg_speaker=Tomoya
-#. y4:msg_speaker_id=23
 msgctxt "1164_Tomoya"
 msgid "I will! Take care, Kiryu-san!"
 msgstr "¡Lo haré! ¡Cuídate, Kiryu-san!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=76
-#. y4:msg_location=T2.P76
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
 msgctxt "1176_Foreman"
 msgid "All right! We had our break! Now, back to work!"
 msgstr "¡Está bien! ¡Tuvimos nuestro descanso! ¡Ahora, de vuelta al trabajo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=78
-#. y4:msg_location=T2.P78
-#. y4:msg_speaker=Construction Workers
-#. y4:msg_speaker_id=13
 msgctxt "1200_Construction Workers"
 msgid "Okay, boss!"
 msgstr "¡Está bien, jefe!"
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Refuse -> T3.P1 | 2. Help Him -> T3.P6
 msgctxt "1284_Delivery Boy"
 msgid "You're the only one I've got, man! Could you please go buy the food for me?"
 msgstr "¡Eres lo único que tengo, amigo! ¿Podrías ir a comprar la comida por mí?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Refuse
 msgctxt "1296_Kiryu"
 msgid "I don't have time for this. You'll have to deal with it yourself."
 msgstr "No tengo tiempo para esto. Tendrás que encargarte tú mismo."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=2
-#. y4:msg_location=T3.P2
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Refuse
 msgctxt "1308_Delivery Boy"
 msgid "What!? Dude, you mean it?"
 msgstr "¿¡Qué!? ¡Amigo, ¿de verdad lo dices?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=3
-#. y4:msg_location=T3.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Refuse
 msgctxt "1320_Kiryu"
 msgid "(This kid's gotta fix his own problems.)"
 msgstr "(Este chico tiene que resolver sus propios problemas.)"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=4
-#. y4:msg_location=T3.P4
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Refuse
 msgctxt "1332_Foreman"
 msgid "Looks like you need another plan, kid. What are you gonna do now?"
 msgstr "Parece que necesitas otro plan, chico. ¿Qué vas a hacer ahora?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=5
-#. y4:msg_location=T3.P5
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Refuse
 msgctxt "1344_Delivery Boy"
 msgid "Aw, man! Come on! You're the only one I've got! You can even do it later, whenever you have the chance! Please, man!"
 msgstr "¡Oh, hombre! ¡Vamos! ¡Eres lo único que tengo! ¡Incluso puedes hacerlo más tarde, cuando tengas la oportunidad! ¡Por favor, amigo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=6
-#. y4:msg_location=T3.P6
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1356_Kiryu"
 msgid "Guess I've gotta see this through. Fine, kid. I'll help you out."
 msgstr "Supongo que tengo que ver esto hasta el final. Está bien, chico. Te ayudaré."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=7
-#. y4:msg_location=T3.P7
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1368_Delivery Boy"
 msgid "Really!? Dude, you mean it?"
 msgstr "¿¿De verdad!? ¿¡Amigo, ¿lo dices en serio?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=8
-#. y4:msg_location=T3.P8
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1380_Kiryu"
 msgid "(This kid is starting to get on my nerves.)"
 msgstr "(Este chico está empezando a molestarme.)"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=9
-#. y4:msg_location=T3.P9
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1392_Kiryu"
 msgid "What kind of lunch was it supposed to be?"
 msgstr "¿Qué tipo de almuerzo se suponía que debía ser?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=10
-#. y4:msg_location=T3.P10
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1404_Delivery Boy"
 msgid "It was a curry lunch. Like I said, the rice is still okay, but the sauce is a mess."
 msgstr "Se suponía que era un almuerzo de curry. Como dije, el arroz sigue bien, pero la salsa está hecha un desastre."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=11
-#. y4:msg_location=T3.P11
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1416_Kiryu"
 msgid "Curry, huh? So I guess that's what I should go look for, then."
 msgstr "¿Curry, eh? Así que supongo que eso es lo que debería ir a buscar, entonces."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=12
-#. y4:msg_location=T3.P12
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1428_Foreman"
 msgid "Sorry, buddy. We really hate to put you out like this."
 msgstr "Lo siento, amigo. Realmente odiamos ponerte en una situación como esta."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=13
-#. y4:msg_location=T3.P13
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1440_Delivery Boy"
 msgid "Yeah, sorry about this, but could you make it quick?"
 msgstr "Sí, lo siento por esto, pero ¿podrías hacerlo rápido?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=14
-#. y4:msg_location=T3.P14
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1452_Kiryu"
 msgid "Yeah, yeah. Just wait here."
 msgstr "Sí, sí. Solo espera aquí."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=16
-#. y4:msg_location=T3.P16
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1476_Kiryu"
 msgid "(Hmm, curry. I'm pretty sure there's a restaurant or something around here that has it.)"
 msgstr "(Hmm, curry. Estoy bastante seguro de que hay un restaurante o algo por aquí que lo tenga.)"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1488_Delivery Boy"
 msgid "Owww!"
 msgstr "¡Awww!"
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=7
-#. y4:msg_location=T4.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Refuse -> T4.P8 | 2. Help Him -> T4.P13
 msgctxt "1500_Kiryu"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=2
-#. y4:msg_location=T4.P2
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1512_Delivery Boy"
 msgid "Sorry. Looks like I hurt my leg in that crash."
 msgstr "Lo siento. Parece que me lastimé la pierna en ese accidente."
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=7
-#. y4:msg_location=T4.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Refuse -> T4.P8 | 2. Help Him -> T4.P13
 msgctxt "1524_Kiryu"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=4
-#. y4:msg_location=T4.P4
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1536_Delivery Boy"
 msgid "Ouch... My leg must be broken! It hurts like hell when I put my weight on it!"
 msgstr "¡Ay! ¡Mi pierna debe estar rota! ¡Me duele mucho cuando pongo peso sobre ella!"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=5
-#. y4:msg_location=T4.P5
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "1548_Kiryu"
 msgid "If it was broken, you couldn't stand up."
 msgstr "Si estuviera rota, no podrías levantarte."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=6
-#. y4:msg_location=T4.P6
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1560_Delivery Boy"
 msgid "Anyways, I really feel bad asking and all, but would you go get the food for me?"
 msgstr "De todos modos, realmente me siento mal por pedir y todo, pero, ¿podrías ir a buscar la comida por mí?"
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=7
-#. y4:msg_location=T4.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Refuse -> T4.P8 | 2. Help Him -> T4.P13
 msgctxt "1572_Kiryu"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Refuse
 msgctxt "1584_Kiryu"
 msgid "I don't have time for this. You'll have to deal with it yourself."
 msgstr "No tengo tiempo para esto. Tendrás que encargarte tú mismo."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=2
-#. y4:msg_location=T3.P2
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Refuse
 msgctxt "1596_Delivery Boy"
 msgid "What!? Dude, you mean it?"
 msgstr "¿¡Qué!? ¡Amigo, ¿de verdad lo dices?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=3
-#. y4:msg_location=T3.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Refuse
 msgctxt "1608_Kiryu"
 msgid "(This kid's gotta fix his own problems.)"
 msgstr "(Este chico tiene que resolver sus propios problemas.)"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=4
-#. y4:msg_location=T3.P4
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Refuse
 msgctxt "1620_Foreman"
 msgid "Looks like you need another plan, kid. What are you gonna do now?"
 msgstr "Parece que necesitas otro plan, chico. ¿Qué vas a hacer ahora?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=5
-#. y4:msg_location=T3.P5
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Refuse
 msgctxt "1632_Delivery Boy"
 msgid "Aw, man! Come on! You're the only one I've got! You can even do it later, whenever you have the chance! Please, man!"
 msgstr "¡Oh, hombre! ¡Vamos! ¡Eres lo único que tengo! ¡Incluso puedes hacerlo más tarde, cuando tengas la oportunidad! ¡Por favor, amigo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=6
-#. y4:msg_location=T3.P6
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1644_Kiryu"
 msgid "Guess I've gotta see this through. Fine, kid. I'll help you out."
 msgstr "Supongo que tengo que ver esto hasta el final. Está bien, chico. Te ayudaré."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=7
-#. y4:msg_location=T3.P7
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1656_Delivery Boy"
 msgid "Really!? Dude, you mean it?"
 msgstr "¿¿De verdad!? ¿¡Amigo, ¿lo dices en serio?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=8
-#. y4:msg_location=T3.P8
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1668_Kiryu"
 msgid "(This kid is starting to get on my nerves.)"
 msgstr "(Este chico está empezando a molestarme.)"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=9
-#. y4:msg_location=T3.P9
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1680_Kiryu"
 msgid "What kind of lunch was it supposed to be?"
 msgstr "¿Qué tipo de almuerzo se suponía que debía ser?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=10
-#. y4:msg_location=T3.P10
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1692_Delivery Boy"
 msgid "It was a curry lunch. Like I said, the rice is still okay, but the sauce is a mess."
 msgstr "Se suponía que era un almuerzo de curry. Como dije, el arroz sigue bien, pero la salsa está hecha un desastre."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=11
-#. y4:msg_location=T3.P11
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1704_Kiryu"
 msgid "Curry, huh? So I guess that's what I should go look for, then."
 msgstr "¿Curry, eh? Así que supongo que eso es lo que debería ir a buscar, entonces."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=12
-#. y4:msg_location=T3.P12
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1716_Foreman"
 msgid "Sorry, buddy. We really hate to put you out like this."
 msgstr "Lo siento, amigo. Realmente odiamos ponerte en una situación como esta."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=13
-#. y4:msg_location=T3.P13
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1728_Delivery Boy"
 msgid "Yeah, sorry about this, but could you make it quick?"
 msgstr "Sí, lo siento por esto, pero ¿podrías hacerlo rápido?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=14
-#. y4:msg_location=T3.P14
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1740_Kiryu"
 msgid "Yeah, yeah. Just wait here."
 msgstr "Sí, sí. Solo espera aquí."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=16
-#. y4:msg_location=T3.P16
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Help Him
 msgctxt "1764_Kiryu"
 msgid "(Hmm, curry. I'm pretty sure there's a restaurant or something around here that has it.)"
 msgstr "(Hmm, curry. Estoy bastante seguro de que hay un restaurante o algo por aquí que lo tenga.)"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1776_Delivery Boy"
 msgid "No, wait! Sorry, but I really do need some help here."
 msgstr "No, espera. Lo siento, pero realmente necesito ayuda aquí."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=1
-#. y4:msg_location=T5.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "1788_Kiryu"
 msgid "What kind of help?"
 msgstr "¿Qué clase de ayuda?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=2
-#. y4:msg_location=T5.P2
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1800_Delivery Boy"
 msgid "You see, I was just about to deliver these guys their lunches. I work delivery part-time."
 msgstr "Verás, estaba a punto de entregarles a estos chicos sus almuerzos. Trabajo de repartidor a medio tiempo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=3
-#. y4:msg_location=T5.P3
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1812_Delivery Boy"
 msgid "Thing is, I crashed my bike. You know, totally wrecked the thing. Their lunches got wrecked, too. Now I don't know what I'm going to do."
 msgstr "El asunto es que choque mi bicicleta. Sabes, la destrocé completamente. Sus almuerzos también se arruinaron. Ahora no sé qué voy a hacer."
@@ -1663,317 +740,145 @@ msgid "First of all, quit dragging random people into this!\\r\nYou sure know ho
 msgstr "En primer lugar, ¡deja de meter a gente cualquiera en esto!\\r\nSí que sabes como causar una escena, chico."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=5
-#. y4:msg_location=T5.P5
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1836_Delivery Boy"
 msgid "But! Wait!"
 msgstr "¡Pero! ¡Espera!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=6
-#. y4:msg_location=T5.P6
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
 msgctxt "1848_Foreman"
 msgid "I'm sorry, buddy. Don't worry about this."
 msgstr "Lo siento, amigo. No te preocupes por esto."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=7
-#. y4:msg_location=T5.P7
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1860_Delivery Boy"
 msgid "No! Don't go! Help me out, here!"
 msgstr "¡No! ¡No te vayas! ¡Ayúdame!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=8
-#. y4:msg_location=T5.P8
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "1872_Kiryu"
 msgid "Man, how do I keep getting dragged into these things? Are you really sure the lunches are ruined?"
 msgstr "¿cómo sigo siendo arrastrado a estas cosas? ¿Estás seguro de que los almuerzos están arruinados?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=9
-#. y4:msg_location=T5.P9
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1884_Delivery Boy"
 msgid "I guess the rice is still pretty much edible, but the side dishes are a complete loss."
 msgstr "Supongo que el arroz sigue siendo bastante comestible, pero los acompañamientos están completamente perdidos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=11
-#. y4:msg_location=T5.P11
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1908_Delivery Boy"
 msgid "And nobody wants a lunch of just rice, right? Sure, it's simple and zen and all that, but you gotta have side dishes."
 msgstr "Y nadie quiere un almuerzo solo de arroz, ¿verdad? Claro, es simple y zen y todo eso, pero tienes que tener acompañamientos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=12
-#. y4:msg_location=T5.P12
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
 msgctxt "1920_Foreman"
 msgid "Obviously!"
 msgstr "¡Obviamente!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=13
-#. y4:msg_location=T5.P13
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "1932_Kiryu"
 msgid "Then why don't you go pick up some side dishes around here? It's gonna be expensive, but it's your responsibility after all."
 msgstr "Entonces, ¿por qué no vas a recoger algunos acompañamientos por aquí? Va a ser caro, pero es tu responsabilidad después de todo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=14
-#. y4:msg_location=T5.P14
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1944_Delivery Boy"
 msgid "Oh! Man! That is, like, the perfect idea! Why didn't I think of that!? You're a genius, man!"
 msgstr "¡Oh! ¡Hombre! ¡Esa es, como, la idea perfecta! ¿¡Por qué no pensé en eso!? ¡Eres un genio, amigo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=15
-#. y4:msg_location=T5.P15
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
 msgctxt "1956_Foreman"
 msgid "Good one, buddy."
 msgstr "Buena idea, amigo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=16
-#. y4:msg_location=T5.P16
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "1968_Kiryu"
 msgid "All right. Well, good luck, kid."
 msgstr "Está bien. Bueno, buena suerte, chico."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=17
-#. y4:msg_location=T5.P17
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1980_Delivery Boy"
 msgid "Thanks, man!"
 msgstr "¡Gracias amigo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=0
-#. y4:msg_location=T6.P0
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "1992_Delivery Boy"
 msgid "Just... Just calm down, okay?"
 msgstr "Solo... Solo cálmate, ¿de acuerdo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=1
-#. y4:msg_location=T6.P1
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
 msgctxt "2004_Foreman"
 msgid "It's normal to feel crabby when you're hungry, 'cause your brain speeds up the release of adrenaline as it tries to raise blood sugar."
 msgstr "Es normal sentirse malhumorado cuando tienes hambre, porque tu cerebro acelera la liberación de adrenalina mientras trata de elevar el azúcar en sangre."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=2
-#. y4:msg_location=T6.P2
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "2016_Delivery Boy"
 msgid "That's, um... very informative."
 msgstr "Eso es, um... muy informativo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=3
-#. y4:msg_location=T6.P3
-#. y4:msg_speaker=Foreman
-#. y4:msg_speaker_id=3
 msgctxt "2028_Foreman"
 msgid "In other words, there's a whole lot of adrenaline running through our systems right now, if you get what I'm saying..."
 msgstr "En otras palabras, hay un montón de adrenalina corriendo por nuestros sistemas en este momento, si entiendes lo que digo..."
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=7
-#. y4:msg_location=T4.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
-#. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Refuse -> T4.P8 | 2. Help Him -> T4.P13
 msgctxt "2040_Delivery Boy"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=5
-#. y4:msg_location=T6.P5
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "2052_Kiryu"
 msgid "Something wrong?"
 msgstr "¿Todo bien?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=7
-#. y4:msg_location=T6.P7
-#. y4:msg_speaker=Delivery Boy
-#. y4:msg_speaker_id=0
 msgctxt "2076_Delivery Boy"
 msgid "Huh? Oh, it's really nothing. Okay, it's actually something, but I'll take care of it... somehow."
 msgstr "¿Eh? Oh, en realidad no es nada. Okey, en realidad es algo, pero me ocuparé de ello... de alguna manera."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=6
-#. y4:msg_phrase=8
-#. y4:msg_location=T6.P8
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=10
 msgctxt "2088_Kiryu"
 msgid "If you're sure..."
 msgstr "Si estás seguro..."
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P1
-#. y4:msg_branch_segment=T3.P1..P5
-#. y4:msg_branch_target_text=I don't have time for this. You'll have to deal with it yourself.
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 06 00 00 00 00 00 00 00 00
 msgctxt "2112_Delivery Boy"
 msgid "Refuse"
 msgstr "Negarse"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T3.P6
-#. y4:msg_branch_segment=T3.P6..P16
-#. y4:msg_branch_target_text=Guess I've gotta see this through. Fine, kid. I'll help you out.
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 08 00 00 00 00 00 00 00 00
 msgctxt "2124_Delivery Boy"
 msgid "Help Him"
 msgstr "Ayudarle"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=7
-#. y4:msg_phrase=0
-#. y4:msg_location=T7.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P1
-#. y4:msg_branch_segment=T3.P1..P5
-#. y4:msg_branch_target_text=I don't have time for this. You'll have to deal with it yourself.
-#. y4:msg_branch_raw=01 11 00 01 00 00 00 06 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P8
 msgctxt "2136_Delivery Boy"
 msgid "Refuse"
 msgstr "Negarse"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=8
-#. y4:msg_phrase=0
-#. y4:msg_location=T8.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P6
-#. y4:msg_branch_segment=T3.P6..P16
-#. y4:msg_branch_target_text=Guess I've gotta see this through. Fine, kid. I'll help you out.
-#. y4:msg_branch_raw=01 11 00 06 00 00 00 08 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T4.P13
 msgctxt "2148_Delivery Boy"
 msgid "Help Him"
 msgstr "Ayudarle"

@@ -24,210 +24,102 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 006C02FB <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
+
+
 msgctxt "368"
 msgid "I'll see you later."
 msgstr "Nos vemos luego."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=20
-#. y4:msg_location=T1.P20
 msgctxt "524"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=20
-#. y4:msg_location=T1.P20
 msgctxt "1028"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "13856"
 msgid "峰村七海：源氏名"
 msgstr "峰村七海：源氏名"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "13860"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "13864"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "13868"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "13872"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "13876"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "13880"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "13884"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "13888"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "116_峰村七海：源氏名"
 msgid "It's nice to spend some time with you away from the club, going to places like this."
 msgstr "Es agradable pasar tiempo con usted fuera del club y venir a lugares como este."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "128_Player"
 msgid "It is. Let's go in."
 msgstr "Cierto. Entremos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "152_峰村七海：源氏名"
 msgid "It's nice to spend some time with you away from the club, going to places like this."
 msgstr "Es agradable pasar tiempo con usted fuera del club y venir a lugares como este."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "164_Tanimura"
 msgid "Hold on... Seems I didn't bring enough money."
 msgstr "Espera... Parece que no traje suficiente dinero."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "176_峰村七海：源氏名"
 msgid "I'm sorry, I must have misheard you. What did you say?"
 msgstr "Disculpe, creo que no lo escuche bien. ¿Qué dijo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "188_Tanimura"
 msgid "Um... I mean... Sorry."
 msgstr "Eh... Quiero decir... Perdón."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "200_峰村七海：源氏名"
 msgid "I don't believe it! You can't manage your own finances? How do you even survive as an adult?"
 msgstr "¡No me lo puedo creer! ¿Acaso no puede manejar su propio dinero? ¿Cómo es que logra sobrevivir siendo un adulto?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "212_峰村七海：源氏名"
 msgid "I'm going home. Goodbye."
 msgstr "Me voy a casa. Adiós."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "224_Player"
 msgid "(I should've checked my money earlier...)"
 msgstr "(Debí haber revisado mi dinero antes...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "332_峰村七海：源氏名"
 msgid "That was great! You're good at picking restaurants."
 msgstr "¡Estuvo delicioso! Es usted muy bueno eligiendo restaurantes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "344_Tanimura"
 msgid "Glad you liked it."
 msgstr "Me alegra que te haya gustado."
@@ -236,354 +128,130 @@ msgctxt "356_峰村七海：源氏名"
 msgid "Thanks for the meal! I hope we go out again sometime soon. <Color:7>♥<Color:Default>"
 msgstr "¡Gracias por la comida! Espero que volvamos a salir juntos pronto. <Color:7>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "392_峰村七海：源氏名"
 msgid "Thanks for the meal. It wasn't quite as good as I expected, but it was okay."
 msgstr "Gracias por la cena. No estuvo tan deliciosa como pensé, pero estuvo bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "404_Tanimura"
 msgid "I see..."
 msgstr "Ya veo..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "416_峰村七海：源氏名"
 msgid "I gotta get going. Bye."
 msgstr "Me tengo que ir. Chao."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "440_峰村七海：源氏名"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "452_Player"
 msgid "Is everything ok?"
 msgstr "¿Va todo bien?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "464_峰村七海：源氏名"
 msgid "Yeah... I just didn't care for some of the dishes."
 msgstr "Sí... es solo que no me interesa ninguno de los platos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "476_Tanimura"
 msgid "I see..."
 msgstr "Ya veo..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=17
-#. y4:msg_location=T1.P17
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "488_峰村七海：源氏名"
 msgid "I should be going. I'll see you at the club."
 msgstr "Me tengo que ir. Nos vemos en el club."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=18
-#. y4:msg_location=T1.P18
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "500_Player"
 msgid "(Guess she didn't enjoy all the food...)"
 msgstr "(Creo que no disfrutó de la comida...)."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "608_峰村七海：源氏名"
 msgid "It's nice to spend some time with you away from the club, going to places like this."
 msgstr "Es agradable pasar tiempo con usted fuera del club y venir a lugares como este."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "620_Player"
 msgid "It is. Let's go in."
 msgstr "Cierto. Entremos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "644_峰村七海：源氏名"
 msgid "It's nice to spend some time with you away from the club, going to places like this."
 msgstr "Es agradable pasar tiempo con usted fuera del club y venir a lugares como este."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "656_Tanimura"
 msgid "Hold on... Seems I didn't bring enough money."
 msgstr "Espera... Parece que no traje suficiente dinero."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "668_峰村七海：源氏名"
 msgid "I'm sorry, I must have misheard you. What did you say?"
 msgstr "Disculpe, creo que no lo escuche bien. ¿Qué dijo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "680_Tanimura"
 msgid "Um... I mean... Sorry."
 msgstr "Eh... Quiero decir... Perdón."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "692_峰村七海：源氏名"
 msgid "I don't believe it! You can't manage your own finances? How do you even survive as an adult?"
 msgstr "¡No me lo puedo creer! ¿Acaso no puede manejar su propio dinero? ¿Cómo es que logra sobrevivir siendo un adulto?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "704_峰村七海：源氏名"
 msgid "I'm going home. Goodbye."
 msgstr "Me voy a casa. Adiós."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "716_Player"
 msgid "(I should've checked my money earlier...)"
 msgstr "(Debí haber revisado mi dinero antes...)"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "824_峰村七海：源氏名"
 msgid "That was great! You're good at picking restaurants."
 msgstr "¡Estuvo delicioso! Es usted muy bueno eligiendo restaurantes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "836_Tanimura"
 msgid "Glad you liked it."
 msgstr "Me alegra que te haya gustado."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=6
-#. y4:msg_location=T3.P6
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "848_峰村七海：源氏名"
 msgid "Thanks for the meal! Shall we head to the club?"
 msgstr "¡Gracias por la comida! ¿Qué le parece si vamos al club?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=7
-#. y4:msg_location=T3.P7
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "860_Player"
 msgid "Sure."
 msgstr "Claro."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "884_峰村七海：源氏名"
 msgid "Thanks for the meal. It wasn't quite as good as I expected, but it was okay."
 msgstr "Gracias por la cena. No estuvo tan deliciosa como pensé, pero estuvo bien."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "896_Tanimura"
 msgid "I see..."
 msgstr "Ya veo..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=11
-#. y4:msg_location=T3.P11
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "908_峰村七海：源氏名"
 msgid "Well, wanna go to the club next?"
 msgstr "Bueno, ¿le gustaría ir al club?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=7
-#. y4:msg_location=T3.P7
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "920_Player"
 msgid "Sure."
 msgstr "Claro."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "944_峰村七海：源氏名"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "956_Player"
 msgid "Is everything ok?"
 msgstr "¿Va todo bien?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "968_峰村七海：源氏名"
 msgid "Yeah... I just didn't care for some of the dishes."
 msgstr "Sí... es solo que no me interesa ninguno de los platos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=3
 msgctxt "980_Tanimura"
 msgid "I see..."
 msgstr "Ya veo..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=18
-#. y4:msg_location=T3.P18
-#. y4:msg_speaker=蟲ｰ譚台ｸ�豬ｷ�ｼ壽ｺ先ｰ丞錐
-#. y4:msg_speaker_id=0
 msgctxt "992_峰村七海：源氏名"
 msgid "Let's just head to the club."
 msgstr "Vamos al club ahora."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=18
-#. y4:msg_location=T1.P18
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "1004_Player"
 msgid "(Guess she didn't enjoy all the food...)"
 msgstr "(Creo que no disfrutó de la comida...)."

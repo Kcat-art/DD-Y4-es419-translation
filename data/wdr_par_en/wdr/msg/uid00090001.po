@@ -16,26 +16,21 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00090001 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1404"
 msgid "Woman on the Phone"
 msgstr "Mujer hablando por teléfono"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1408"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1412"
 msgid "Talk_Think"
 msgstr "Talk_Think"
@@ -46,25 +41,11 @@ msgid "I wasn't sure at first from so far away, but it was\\r\ndefinitely Shinya
 msgstr "Al principio no estaba segura estando tan lejos, ¡pero\\r\ndefinitivamente era Shinya!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Woman on the Phone
-#. y4:msg_speaker_id=0
 msgctxt "96_Woman on the Phone"
 msgid "Yeah, the host from Stardust!"
 msgstr "¡Sí, el host del Stardust!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Woman on the Phone
-#. y4:msg_speaker_id=0
 msgctxt "108_Woman on the Phone"
 msgid "He was talking on the phone, and he just totally lost it! Man, was he mad!"
 msgstr "Estaba hablando por teléfono, ¡y de verdad estaba enojadísimo! ¡Amiga, estaba loco!"
@@ -80,13 +61,6 @@ msgid "Yeah, that's not how he's like at Stardust at all! It was a\\r\ntotal sho
 msgstr "¡Sí, él no es así en el Stardust! ¡Fue una\\r\nauténtica sorpresa!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "144_Kiryu"
 msgid "(<Color:7>Watami<Color:Default>, huh? I think that's over on <Color:7>Nakamichi Street<Color:Default>. Sounds like that host Shinya is over in that direction.)"
 msgstr "(<Color:7>Watami<Color:Default>, ¿eh? Creo que eso está por la <Color:7>Calle Nakamichi<Color:Default>. Parece que ese host Shinya está en esa dirección)."

@@ -24,27 +24,18 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_TE_0009.bin
 #. y4:runtime_play_command=y4.play_msg 002A0006 <group>
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
+
+
 msgctxt "80"
 msgid "That's it."
 msgstr "Ya está."
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "368"
 msgid "Hoge"
 msgstr "Hoge"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
 msgctxt "56_Hoge"
 msgid "Watch from the beginning"
 msgstr "Ver desde el principio"

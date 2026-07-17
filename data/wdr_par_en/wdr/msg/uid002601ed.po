@@ -24,223 +24,100 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_FISHING.bin
 #. y4:runtime_play_command=y4.play_msg 002601ED <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2328"
 msgid "Injured Man"
 msgstr "Hombre herido"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "2332"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "2336"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "2340"
 msgid "Talk_Hirou_st"
 msgstr "Talk_Hirou_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "2344"
 msgid "Talk_Hirou_ed"
 msgstr "Talk_Hirou_ed"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "2348"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "2352"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "2356"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Injured Man
-#. y4:msg_speaker_id=0
 msgctxt "84_Injured Man"
 msgid "Urgh..."
 msgstr "Urgh..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "96_Kiryu"
 msgid "Hey, you all right?"
 msgstr "Oye, ¿te encuentras bien?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Injured Man
-#. y4:msg_speaker_id=0
 msgctxt "108_Injured Man"
 msgid "Help..."
 msgstr "Ayuda..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "120_Kiryu"
 msgid "You're beat up pretty bad. What happened to you?"
 msgstr "Estás hecho polvo. ¿Qué te pasó?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Injured Man
-#. y4:msg_speaker_id=0
 msgctxt "132_Injured Man"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "144_Kiryu"
 msgid "What's the matter? Is it something you can't talk about?"
 msgstr "¿Qué pasa? ¿Es algo de lo que no puedes hablar?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Injured Man
-#. y4:msg_speaker_id=0
 msgctxt "156_Injured Man"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "168_Kiryu"
 msgid "All right, have it your way. I'll call an ambulance, and you can deal with the rest."
 msgstr "Está bien, como quieras. Llamaré a una ambulancia y tú te encargas del resto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "192_Kiryu"
 msgid "I should let the police know, too."
 msgstr "Creo que debería avisar a la policía también."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Injured Man
-#. y4:msg_speaker_id=0
 msgctxt "204_Injured Man"
 msgid "No!"
 msgstr "¡No!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "216_Kiryu"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Injured Man
-#. y4:msg_speaker_id=0
 msgctxt "228_Injured Man"
 msgid "No police!"
 msgstr "¡Nada de policía!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "240_Kiryu"
 msgid "I see... This smells like trouble."
 msgstr "Ya veo... Esto huele a problemas."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Injured Man
-#. y4:msg_speaker_id=0
 msgctxt "252_Injured Man"
 msgid "......"
 msgstr "......"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "264_Kiryu"
 msgid "(Guess I can bring him to Emoto Medical Clinic. Maybe Doc Emoto can help him there.)"
 msgstr "(Podría llevarlo a la Clínica Médica Emoto. Tal vez el Doctor Emoto pueda ayudarlo allí.)"

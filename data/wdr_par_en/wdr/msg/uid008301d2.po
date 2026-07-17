@@ -24,58 +24,42 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 008301D2 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1952"
 msgid "Rumor-loving Man"
 msgstr "Amante de los rumores"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1956"
 msgid "Scared Man"
 msgstr "Hombre Asustado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1960"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "1964"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "1968"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "1972"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "1976"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "1980"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -102,13 +86,6 @@ msgstr "Es un proyecto de construcción masivo, sabes. Se dice que\\r \n"
 "hasta hubo gente que murió en accidentes laborles. Imagino\\r \n"
 "que sus almas vuelven a rondar por el lugar de noche."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Scared Man
-#. y4:msg_speaker_id=1
 msgctxt "120_Scared Man"
 msgid "I said, quit it! I'll smack you, I'll do it!"
 msgstr "¡Dije que basta! ¡Te voy a dar, eh!"
@@ -125,13 +102,6 @@ msgid "I can't hear you! Can't hear you! Nope, no sir! Ghosts don't\\r\n"
 msgstr "¡No te oigo! ¡No te oigo! ¡No, señor! ¡Los fantasmas\\r \n"
 "no existen! ¡La la la!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=7
 msgctxt "156_Kiryu"
 msgid "(Ghosts at Kamurocho Hills? That's news to me...)"
 msgstr "(¿Fantasmas en Kamurocho Hills? Eso es una novedad...)"

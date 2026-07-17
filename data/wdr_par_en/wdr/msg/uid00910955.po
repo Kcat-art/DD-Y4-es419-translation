@@ -16,1113 +16,521 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00910955 <group>
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=41
-#. y4:msg_location=T0.P41
 msgctxt "564"
 msgid "You got <Color:8>200,000 yen<Color:Default>."
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "16224"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "16228"
 msgid "Rouge"
 msgstr "Rouge"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "16232"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "16236"
 msgid "M_ykzs_damage_tlk_no"
 msgstr "M_ykzs_damage_tlk_no"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "16240"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "16244"
 msgid "M_ykzs_damage_tlk_yes"
 msgstr "M_ykzs_damage_tlk_yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "16248"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "16252"
 msgid "Akaishi"
 msgstr "Akaishi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "16256"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "16260"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "16264"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "16268"
 msgid "Talk_Kosite_No"
 msgstr "Talk_Kosite_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "16272"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "16276"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "16280"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
 msgctxt "16284"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
 msgctxt "16288"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=17
 msgctxt "16292"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=18
 msgctxt "16296"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=19
 msgctxt "16300"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=20
 msgctxt "16304"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=21
+#. y4:msg_role=name
+#. y4:msg_name_id=21
 msgctxt "16308"
 msgid "Man"
 msgstr "Hombre"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=22
 msgctxt "16312"
 msgid "P_stand"
 msgstr "P_stand"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=23
 msgctxt "16316"
 msgid "P_sitchr_tlk_kamae_ed"
 msgstr "P_sitchr_tlk_kamae_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=24
 msgctxt "16320"
 msgid "M_ykzs_stand"
 msgstr "M_ykzs_stand"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=25
 msgctxt "16324"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=26
 msgctxt "16328"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=27
 msgctxt "16332"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "84_Kiryu"
 msgid "Your scheme's finished, for good. Give up and get the hell out of town."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "96_Rouge"
 msgid "What choice do I have now?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "108_Kiryu"
 msgid "But before you go, you're going to tell me a little more about the Dark Clan."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "120_Rouge"
 msgid "What do you want to know?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "132_Kiryu"
 msgid "Where's the strongest group in your alliance located?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "144_Rouge"
 msgid "What do you plan to do with that information?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "156_Kiryu"
 msgid "I want to know what's coming next."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "168_Rouge"
 msgid "Are you sure that's all?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "180_Kiryu"
 msgid "I've got enough people after me in Kamurocho already. I'm not interested in going head to head with any more groups, gangs, or syndicates."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "192_Rouge"
 msgid "Hahaha. In other words, discretion is the better part of valor? So that's also a part of being the Legendary Yakuza..."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "204_Rouge"
 msgid "However, if that's why you want to know, I'm afraid I can't give you an answer."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "216_Rouge"
 msgid "It would give you an unfair advantage the next time we make an attempt on your life."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "228_Rouge"
 msgid "Now then, if you'll excuse me."
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "300_Akaishi"
 msgid "Interesting..."
 msgstr "Interesante..."
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "312_Akaishi"
 msgid "So, you beat them this time, but they may come looking for you again?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "324_Akaishi"
 msgid "Is that really what you wanted, Kiryu-san?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "336_Kiryu"
 msgid "I don't think we'll need to deal with them again anytime soon."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=23
-#. y4:msg_location=T0.P23
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "348_Kiryu"
 msgid "I'll probably be back in Okinawa the next time they try to take me down, so I'm not going to worry about it."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "360_Akaishi"
 msgid "Hmm, interesting. So, it's not necessary to wipe them out completely? Is this some kind of \"live and let live\" philosophy of the underworld?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "372_Kiryu"
 msgid "Well, wading through all those gang conflicts, I got the sense that all groups are capable of making a change for the better."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "384_Kiryu"
 msgid "It's not impossible, you know. Even for a group that sets out to crush the yakuza, but ends up a lot like the yakuza themselves."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=27
-#. y4:msg_location=T0.P27
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "396_Kiryu"
 msgid "As long as they keep coming after me, I'll keep standing my ground."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=28
-#. y4:msg_location=T0.P28
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "408_Kiryu"
 msgid "There've been plenty of guys who picked a fight with me only to come out of it a better man."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=29
-#. y4:msg_location=T0.P29
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "420_Akaishi"
 msgid "I see what you mean. You know, you really do live up to the title of fourth chairman. You're a better man than I'll ever be."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=30
-#. y4:msg_location=T0.P30
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "432_Kiryu"
 msgid "Huh? You already knew about me?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=31
-#. y4:msg_location=T0.P31
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "444_Akaishi"
 msgid "Haha, doesn't everybody know about you? You're famous. Or infamous, depending on whom you ask."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=32
-#. y4:msg_location=T0.P32
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "456_Akaishi"
 msgid "Anyone in this town who hasn't heard of Kazuma Kiryu must have been living under a rock!"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=33
-#. y4:msg_location=T0.P33
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "468_Akaishi"
 msgid "Oh, I almost forgot to tell you! The gang violence seems to have died down."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=34
-#. y4:msg_location=T0.P34
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "480_Akaishi"
 msgid "Apparently, the mafia has been putting a lot of pressure on the gangs."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=35
-#. y4:msg_location=T0.P35
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "492_Kiryu"
 msgid "The mafia?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=36
-#. y4:msg_location=T0.P36
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "504_Akaishi"
 msgid "That's right. From the mafia's point of view, there's not much to gain from stirring up any more trouble."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=37
-#. y4:msg_location=T0.P37
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "516_Kiryu"
 msgid "Guess that's how it goes. Yakuza, mafia... No shortage of thugs out there."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=38
-#. y4:msg_location=T0.P38
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "528_Akaishi"
 msgid "So it would seem. Thanks for your hard work."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=39
-#. y4:msg_location=T0.P39
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "540_Akaishi"
 msgid "I'm sure there are a few stragglers out there who haven't had their fill of violence yet, so please don't let your guard down."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=40
-#. y4:msg_location=T0.P40
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "552_Akaishi"
 msgid "Also, this is our final gift to you."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=42
-#. y4:msg_location=T0.P42
-#. y4:msg_speaker=Akaishi
-#. y4:msg_speaker_id=7
 msgctxt "576_Akaishi"
 msgid "I'll be waiting in front of the theater, as always. If you get any proof of driving more gang members out of town, bring it to me."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "648_Kiryu"
 msgid "So I get to meet you at last. You're the boss of the Dark Clan?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Man
-#. y4:msg_speaker_id=21
 msgctxt "660_Man"
 msgid "Yes, at the moment. I'm known as Rouge."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "672_Kiryu"
 msgid "At the moment? What the hell does that mean?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "684_Rouge"
 msgid "When the Dark Clan of Yakuza Extermination takes on a job, the person executing the hit takes control."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "696_Rouge"
 msgid "This \"boss\" is given complete authority until the hit is executed, or he perishes. Those are the rules under which we operate."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "708_Rouge"
 msgid "So, in short, I'm the current Dark Clan leader for the matter at hand."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "720_Kiryu"
 msgid "I see. Just what kind of members belong to this little syndicate of yours?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=8
-#. y4:msg_location=T1.P8
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "732_Rouge"
 msgid "Well, you could say it's mostly those not too fond of the yakuza, but the majority are foreigners."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=9
-#. y4:msg_location=T1.P9
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "744_Kiryu"
 msgid "A foreign mafia?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=10
-#. y4:msg_location=T1.P10
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "756_Rouge"
 msgid "Not all of them. Some simply have reason to bear a grudge against yakuza. But many are mafia members from all across Asia."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=11
-#. y4:msg_location=T1.P11
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "768_Kiryu"
 msgid "I see. But then, why are you all trying to eliminate me? I'm no longer with the yakuza."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=12
-#. y4:msg_location=T1.P12
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "780_Rouge"
 msgid "Since either you or I must die to end this, I suppose we might as well talk."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=13
-#. y4:msg_location=T1.P13
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "792_Rouge"
 msgid "Your mere presence threatens to disrupt the delicate balance within the underworld. We've been well aware of that for some time."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=14
-#. y4:msg_location=T1.P14
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "804_Rouge"
 msgid "Controlling you to make the yakuza move as we see fit would be the optimal scenario."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=15
-#. y4:msg_location=T1.P15
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "816_Rouge"
 msgid "But as that doesn't seem to be possible, the decision was made to eliminate you."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=16
-#. y4:msg_location=T1.P16
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "828_Kiryu"
 msgid "Why did you just decide this now?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=17
-#. y4:msg_location=T1.P17
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "840_Rouge"
 msgid "The death of Lau Ka Long of the Snake Flower Triad was the main reason."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=18
-#. y4:msg_location=T1.P18
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "852_Rouge"
 msgid "Until then, we'd simply regarded you with caution. But Lau's death came as a huge shock to us."
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=19
-#. y4:msg_location=T1.P19
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "864_Kiryu"
 msgid "......"
 msgstr "......"
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=20
-#. y4:msg_location=T1.P20
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "876_Rouge"
 msgid "Of course, we're aware it wasn't you who killed him."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=21
-#. y4:msg_location=T1.P21
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "888_Rouge"
 msgid "However, his death changed the balance of power among the Asian mafia here in Kamurocho."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=22
-#. y4:msg_location=T1.P22
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "900_Rouge"
 msgid "Not only are you yakuza, you shattered the power balance in Kamurocho with one fell swoop."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=23
-#. y4:msg_location=T1.P23
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "912_Rouge"
 msgid "For those like us who try to control the city from the shadows, it was quite unsettling."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=24
-#. y4:msg_location=T1.P24
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "924_Rouge"
 msgid "You probably can't even imagine how threatened we felt at the prospect of you wiping out everything we struggled to accomplish."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=25
-#. y4:msg_location=T1.P25
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "936_Rouge"
 msgid "It is true you're not pulling the strings in the underworld anymore. You've settled down in Okinawa."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=26
-#. y4:msg_location=T1.P26
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "948_Rouge"
 msgid "But you're like a natural disaster that takes the city by storm every so often."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=27
-#. y4:msg_location=T1.P27
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "960_Kiryu"
 msgid "So why go to the trouble of getting involved in that mess with the gangs?"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=28
-#. y4:msg_location=T1.P28
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "972_Rouge"
 msgid "Just when we were trying to figure out what to do, a rather strange war broke out between the gangs vying for your head."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=29
-#. y4:msg_location=T1.P29
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "984_Rouge"
 msgid "Normally, we'd ignore such juvenile antics. However, we just couldn't bear to let a golden opportunity go to waste."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=30
-#. y4:msg_location=T1.P30
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "996_Kiryu"
 msgid "Okay, now that I know the why, let me ask you one more thing."
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=31
-#. y4:msg_location=T1.P31
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "1008_Rouge"
 msgid "Hmm?"
 msgstr "¿Mmm?"
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=32
-#. y4:msg_location=T1.P32
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1020_Kiryu"
 msgid "Aren't you guys just a bunch of criminals, too?"
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=33
-#. y4:msg_location=T1.P33
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "1032_Rouge"
 msgid "What do you mean by that?"
 msgstr "¿Qué quieres decir?"
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=34
-#. y4:msg_location=T1.P34
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1044_Kiryu"
 msgid "You can make a big deal about yakuza and call me a disaster or whatever, but in the end you're just the same."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=35
-#. y4:msg_location=T1.P35
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1056_Kiryu"
 msgid "The same goes with you targeting me. You can go on about your high and mighty cause, but it all comes down to a simple power struggle."
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=36
-#. y4:msg_location=T1.P36
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "1068_Kiryu"
 msgid "So cut the crap, and bring it on!"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=37
-#. y4:msg_location=T1.P37
-#. y4:msg_speaker=Rouge
-#. y4:msg_speaker_id=1
 msgctxt "1080_Rouge"
 msgid "Well, now that it's all out in the open, it's time for me to eliminate Kazuma Kiryu, the man who dares to challenge our mighty syndicate!"
 msgstr ""

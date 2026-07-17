@@ -24,44 +24,34 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_GESUI02.bin
 #. y4:runtime_play_command=y4.play_msg 0009016C <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1840"
 msgid "Conspiracy Theorist"
 msgstr "Teorista Conspiranoico"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1844"
 msgid "Displaced Worker"
 msgstr "Trabajador Desambientado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "1848"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "1852"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "1856"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
+#. y4:msg_role=name
+#. y4:msg_name_id=5
 msgctxt "1860"
 msgid "Saejima"
 msgstr "Saejima"
@@ -103,24 +93,10 @@ msgstr "Puedes quedarte con tus locas teorías de conspiración.\\r\n"
 "Siempre es un \"trabajo interno\" esto y un \"encubrimiento\" aquello.\\r\n"
 "No es de extrañar que no puedas mantener un trabajo estable."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
-#. y4:msg_speaker=Conspiracy Theorist
-#. y4:msg_speaker_id=0
 msgctxt "156_Conspiracy Theorist"
 msgid "Fine, don't believe me. But don't say I didn't warn you!"
 msgstr "Bien, no me creas. ¡Pero no digas que no te lo advertí!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=7
-#. y4:msg_location=T1.P7
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=5
 msgctxt "168_Saejima"
 msgid "(Folks are already blabbin' about my getaway all the way out here in Tokyo? Best keep a low profile.)"
 msgstr "(¿La gente ya está parloteando sobre mi escapada aquí en Tokio? Es mejor aguantar con un perfil bajo)."

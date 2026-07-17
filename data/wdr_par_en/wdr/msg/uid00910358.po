@@ -24,60 +24,32 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00910358 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "748"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "752"
 msgid "Businesswoman"
 msgstr "Mujer de negocios"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "84_Kiryu"
 msgid "What happened?"
 msgstr "¿Por qué?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Businesswoman
-#. y4:msg_speaker_id=1
 msgctxt "96_Businesswoman"
 msgid "The kid who works at that sushi shop just got dragged off by a bunch of dangerous looking guys."
 msgstr "Un puñado de tipos con pinta peligrosa se acban de \\r llevar a rastras al chico que trabaja en esa tienda de sushi."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Businesswoman
-#. y4:msg_speaker_id=1
 msgctxt "108_Businesswoman"
 msgid "They went off toward <Color:7>Nakamichi Street.<Color:Default> Hope that kid's okay..."
 msgstr "Se fueron hacia <Color:7>Nakamichi Street.<Color:Default> \\r Espero que el chico esté bien..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=0
 msgctxt "120_Kiryu"
 msgid "(Could that be Kotaro? I should check out <Color:7>Nakamichi Street.<Color:Default>)"
 msgstr "(¿Será Kotaro? Debería ir a <Color:7>Calle Nakamichi<Color:Default>.)"

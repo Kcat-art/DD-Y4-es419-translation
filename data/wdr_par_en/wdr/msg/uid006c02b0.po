@@ -24,34 +24,22 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_GOLF.bin
 #. y4:runtime_play_command=y4.play_msg 006C02B0 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "5340"
 msgid "Erena"
 msgstr "Erena"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "5344"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "5348"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=0
 msgctxt "168_Erena"
 msgid "Wow! We won!"
 msgstr "¡Guau! ¡Ganamos!"
@@ -64,24 +52,10 @@ msgctxt "192_Erena"
 msgid "Ask me out again, okay? Let's go for another win next time, yeah? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "Invítame a salir de nuevo, ¿de acuerdo? Vamos por otra victoria la próxima vez, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=0
 msgctxt "252_Erena"
 msgid "Yay! We got a prize!"
 msgstr "¡Yupi! ¡Ganamos un premio!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=0
 msgctxt "264_Erena"
 msgid "Next time, we've definitely gotta win!"
 msgstr "¡La próxima vez, tenemos que ganar sí o sí!"
@@ -94,24 +68,10 @@ msgctxt "336_Erena"
 msgid "That was fun! ♪ Call me again soon, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡Eso fue divertido! ♪ Vuelva a llamarme pronto, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=0
 msgctxt "396_Erena"
 msgid "Geez... You're way too good at this, Akiyama-san!"
 msgstr "¡Rayos... Eres demasiado bueno en esto, Akiyama-san!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=0
 msgctxt "408_Erena"
 msgid "I'm gonna beat you next time!"
 msgstr "¡La próxima vez te voy a ganar!"
@@ -120,24 +80,10 @@ msgctxt "420_Erena"
 msgid "Ask me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "Invítame otra vez, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=0
 msgctxt "480_Erena"
 msgid "Wow, a tie... That was a really good game!"
 msgstr "Vaya, un empate... ¡Ese fue un muy buen juego!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=1
-#. y4:msg_location=T4.P1
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=0
 msgctxt "492_Erena"
 msgid "But don't let it get to your head. I'm gonna kick your butt next time!"
 msgstr "Pero no te creas mucho. ¡La próxima vez te voy a ganar!"
@@ -146,13 +92,6 @@ msgctxt "504_Erena"
 msgid "Ask me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "Invítame otra vez, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Erena
-#. y4:msg_speaker_id=0
 msgctxt "564_Erena"
 msgid "I won! Hehe, I'm pretty good, huh? Go on, admit it!"
 msgstr "¡Gané! Je, je, soy bastante buena, ¿no? ¡Anda, admítelo!"

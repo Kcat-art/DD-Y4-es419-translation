@@ -7,12 +7,20 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=reviewed
-#. y4:reviewed_by=Keiner
 #. y4:last_translator=Keiner
 #. y4:last_reviewer=Keiner
+#. y4:reviewed_by=Keiner
+#. y4:runtime_kind=msg
+#. y4:runtime_uid=00090584
+#. y4:runtime_group_count=2
+#. y4:runtime_groups=0|1
+#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
+#. y4:runtime_play_command=y4.play_msg 00090584 <group>
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1232"
 msgid "Supervisor"
 msgstr "Supervisor"
@@ -24,6 +32,8 @@ msgstr "Talk_No"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "1240"
 msgid "Subordinate"
 msgstr "Subordinado"
@@ -77,4 +87,3 @@ msgstr "¿Verdad? Escuché que incluso hay policías corruptos\nque aceptan sobo
 msgctxt "132_Supervisor"
 msgid "Ugh! If I ever come across one of those pricks,\\r\nI'll punch his goddamn lights out!"
 msgstr "¡Agh! ¡Si me cruzo a alguno de esos desgraciados\nle rompo la cara!"
-

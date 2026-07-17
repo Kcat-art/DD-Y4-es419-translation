@@ -24,20 +24,14 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00090084 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "344"
 msgid "Kansai Man"
 msgstr "Hombre de Kansai"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Kansai Man
-#. y4:msg_speaker_id=0
 msgctxt "112_Kansai Man"
 msgid "Heard rumors of this gate for years... Can't believe my peepers it's actually standin' in front of me now!"
 msgstr "He escuchado rumores de esta puerta durante años... ¡No puedo creer que mis ojos la estén viendo ahora mismo frente a mí!"

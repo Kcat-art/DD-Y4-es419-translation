@@ -1,19 +1,38 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: y4-msg-translator\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es_419\n"
+"Language-Team: es-419\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"Project-Id-Version: unknown-project\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: unknown-project\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: es-419\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00090586.po\n"
+"X-Crowdin-File-ID: 59804\n"
+"PO-Revision-Date: 2026-04-26 00:21\n"
 
 #. y4:file_status=reviewed
-#. y4:reviewed_by=Keiner
 #. y4:last_translator=Keiner
 #. y4:last_reviewer=Keiner
+#. y4:reviewed_by=Keiner
+#. y4:runtime_kind=msg
+#. y4:runtime_uid=00090586
+#. y4:runtime_group_count=2
+#. y4:runtime_groups=0|1
+#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
+#. y4:runtime_play_command=y4.play_msg 00090586 <group>
 
 #. y4:line_status=reviewed
 #. y4:translated_by=Keiner
 #. y4:reviewed_by=Keiner
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1860"
 msgid "Rumor-loving High School Girl"
 msgstr "Estudiante de secundaria chismosa"
@@ -21,6 +40,8 @@ msgstr "Estudiante de secundaria chismosa"
 #. y4:line_status=reviewed
 #. y4:translated_by=Keiner
 #. y4:reviewed_by=Keiner
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1864"
 msgid "Chatty High School Girl"
 msgstr "Estudiante que habla mucho"
@@ -30,7 +51,8 @@ msgctxt "1868"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:line_status=todo
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "1872"
 msgid "Rumor Loving High School Girl"
 msgstr ""
@@ -58,7 +80,8 @@ msgstr "Sí, ¿qué tiene?"
 #. y4:translated_by=Keiner
 #. y4:reviewed_by=Keiner
 msgctxt "108_Rumor Loving High School Girl"
-msgid "Well, it's a place that lends you money. But I\\r\nheard the owner's a hardcore criminal!"
+msgid "Well, it's a place that lends you money. But I\\r\n"
+"heard the owner's a hardcore criminal!"
 msgstr "Bueno, acá te pueden dar un préstamo.\nPero escuché que el dueño es un gran mafioso."
 
 #. y4:line_status=reviewed
@@ -72,7 +95,8 @@ msgstr "¿En serio? ¿Qué hizo?"
 #. y4:translated_by=Keiner
 #. y4:reviewed_by=Keiner
 msgctxt "132_Rumor-loving High School Girl"
-msgid "They say he's a badass yakuza who, like, goes\\r\naround beating people up at random."
+msgid "They say he's a badass yakuza who, like, goes\\r\n"
+"around beating people up at random."
 msgstr "Dicen que es un yakuza que va por ahí golpeando gente."
 
 #. y4:line_status=reviewed
@@ -86,7 +110,8 @@ msgstr "¡No me digas! ¡¿En serio?! ¡Debe dar bastante miedo!"
 #. y4:translated_by=Keiner
 #. y4:reviewed_by=Keiner
 msgctxt "156_Rumor-loving High School Girl"
-msgid "Not only that, he's killed at least 10 or 20 people!\\r\nAnd I heard he's been arrested tons of times, too!"
+msgid "Not only that, he's killed at least 10 or 20 people!\\r\n"
+"And I heard he's been arrested tons of times, too!"
 msgstr "Y no solo eso, ¡dicen que ha matado unas 10 o 20 personas! Y también he escuchado que lo han arrestado muchas veces."
 
 #. y4:line_status=reviewed
@@ -100,7 +125,9 @@ msgstr "¡No puede ser! ¡¿Cómo es que no está en prisión?!"
 #. y4:translated_by=Keiner
 #. y4:reviewed_by=Keiner
 msgctxt "180_Rumor-loving High School Girl"
-msgid "Duh! 'Cause he's a moneylender! Every time he\\r\ngets arrested, he just gives the cops a boatload\\r\nof money and they let him go."
+msgid "Duh! 'Cause he's a moneylender! Every time he\\r\n"
+"gets arrested, he just gives the cops a boatload\\r\n"
+"of money and they let him go."
 msgstr "¡Pues obvio, si es un prestamista! Cada que lo arrestan solo tiene que sobornar a los polis para que lo dejen ir."
 
 #. y4:line_status=reviewed
@@ -109,4 +136,3 @@ msgstr "¡Pues obvio, si es un prestamista! Cada que lo arrestan solo tiene que 
 msgctxt "192_Chatty High School Girl"
 msgid "That's totally messed up!"
 msgstr "¡Qué desastre!"
-

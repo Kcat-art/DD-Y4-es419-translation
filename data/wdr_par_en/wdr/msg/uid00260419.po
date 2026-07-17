@@ -24,104 +24,48 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_ALPS.bin
 #. y4:runtime_play_command=y4.play_msg 00260419 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1080"
 msgid "Alps Staff"
 msgstr ""
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1084"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Alps Staff
-#. y4:msg_speaker_id=0
 msgctxt "56_Alps Staff"
 msgid "Welcome."
 msgstr "Bienvenido."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "68_Kiryu"
 msgid "I need to get some curry."
 msgstr "Necesito conseguir un poco de curry."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Alps Staff
-#. y4:msg_speaker_id=0
 msgctxt "80_Alps Staff"
 msgid "Certainly."
 msgstr "Ciertamente."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "92_Kiryu"
 msgid "Can I get it to go?"
 msgstr "Puedo pedirlo para llevar?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Alps Staff
-#. y4:msg_speaker_id=0
 msgctxt "104_Alps Staff"
 msgid "I'm sorry, sir. We don't currently offer a takeout menu."
 msgstr "Lo siento, señor. Actualmente no ofrecemos menú para llevar."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "116_Kiryu"
 msgid "You don't? All right, thanks anyway."
 msgstr "¿No? Está bien, gracias de todos modos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Alps Staff
-#. y4:msg_speaker_id=0
 msgctxt "128_Alps Staff"
 msgid "Sorry about that, sir."
 msgstr "Perdón por eso, señor."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "140_Kiryu"
 msgid "(Guess I can't get it here. I better go look someplace else.)"
 msgstr "(Supongo que no puedo conseguirlo aquí. Mejor voy a ver en otro lugar.)"

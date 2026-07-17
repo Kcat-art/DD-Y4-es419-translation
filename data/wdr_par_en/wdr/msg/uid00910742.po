@@ -24,692 +24,283 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00910742 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "5628"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "5632"
 msgid "Woman"
 msgstr "Mujer"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "5636"
 msgid "F_ol_stand"
 msgstr "F_ol_stand"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "5640"
 msgid "Idle"
 msgstr "Idle"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "5644"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "5648"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "5652"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "5656"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "5660"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
+#. y4:msg_role=name
+#. y4:msg_name_id=9
 msgctxt "5664"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "5668"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "5672"
 msgid "Talk_CryBig_st"
 msgstr "Talk_CryBig_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
+#. y4:msg_role=name
+#. y4:msg_name_id=12
 msgctxt "5676"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "5680"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "5684"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
 msgctxt "5688"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
 msgctxt "5692"
 msgid "Talk_Udekumi_Yes"
 msgstr "Talk_Udekumi_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=17
 msgctxt "5696"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=18
 msgctxt "5700"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
 msgctxt "232_Player"
 msgid "(I should come back when I'm alone.)"
 msgstr "(Debería volver cuando este solo.)"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=1
 msgctxt "244_Woman"
 msgid "*singing Filipino song*"
 msgstr ""
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=1
-#. y4:msg_location=T2.P1
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=1
 msgctxt "256_Woman"
 msgid "!?"
 msgstr "!?"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=15
-#. y4:msg_location=T2.P15
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "340_Woman"
 msgid "*speaking Tagalog*"
 msgstr "*Naghahanap ako ng tao*"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=9
-#. y4:msg_location=T2.P9
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=4
 msgctxt "352_Akiyama"
 msgid "(Shit... I have no idea what she's saying.)"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=10
-#. y4:msg_location=T2.P10
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=4
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Make Up Random Words -> T2.P11 | 2. Leave -> T2.P39
 msgctxt "364_Akiyama"
 msgid "(Hmm. What should I do?)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=11
-#. y4:msg_location=T2.P11
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "376_Akiyama"
 msgid "(I guess I'll just say something...)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=12
-#. y4:msg_location=T2.P12
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "388_Akiyama"
 msgid "*attempting to speak Tagalog* Hahaha!"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=13
-#. y4:msg_location=T2.P13
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "400_Woman"
 msgid "!!!"
 msgstr "!!!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=14
-#. y4:msg_location=T2.P14
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "412_Woman"
 msgid "*actually speaking Tagalog*"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=15
-#. y4:msg_location=T2.P15
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "424_Woman"
 msgid "*speaking Tagalog*"
 msgstr "*Naghahanap ako ng tao*"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=16
-#. y4:msg_location=T2.P16
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=4
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "436_Akiyama"
 msgid "(Uh-oh. I think I pissed her off.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=15
-#. y4:msg_location=T2.P15
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "472_Woman"
 msgid "*speaking Tagalog*"
 msgstr "*Naghahanap ako ng tao*"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=20
-#. y4:msg_location=T2.P20
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=9
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "484_Saejima"
 msgid "(She ain't speakin' Japanese!? Aw shit...)"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=2
-#. y4:msg_phrase=21
-#. y4:msg_location=T2.P21
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=9
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. Make Up Random Words -> T2.P22 | 2. Leave -> T2.P39
 msgctxt "496_Saejima"
 msgid "(What should I do?)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=22
-#. y4:msg_location=T2.P22
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=9
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "508_Saejima"
 msgid "(I'll just take my chances!)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=23
-#. y4:msg_location=T2.P23
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=9
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "520_Saejima"
 msgid "*attempting to speak Tagalog*"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=13
-#. y4:msg_location=T2.P13
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "532_Woman"
 msgid "!!!"
 msgstr "!!!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=14
-#. y4:msg_location=T2.P14
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "544_Woman"
 msgid "*actually speaking Tagalog*"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=15
-#. y4:msg_location=T2.P15
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "556_Woman"
 msgid "*speaking Tagalog*"
 msgstr "*Naghahanap ako ng tao*"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=27
-#. y4:msg_location=T2.P27
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=9
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "568_Saejima"
 msgid "(I made her cry! What did I do...)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=15
-#. y4:msg_location=T2.P15
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "604_Woman"
 msgid "*speaking Tagalog*"
 msgstr "*Naghahanap ako ng tao*"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=31
-#. y4:msg_location=T2.P31
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=12
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "616_Kiryu"
 msgid "(She's not Japanese, and doesn't seem to understand Japanese either...)"
 msgstr ""
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=2
-#. y4:msg_section_label=Conversación 2
-#. y4:msg_talk=2
-#. y4:msg_phrase=32
-#. y4:msg_location=T2.P32
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=12
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
-#. y4:msg_decision_choices=1. Make Up Random Words -> T2.P33 | 2. Leave -> T2.P39
 msgctxt "628_Kiryu"
 msgid "(I suppose I could, but...)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=33
-#. y4:msg_location=T2.P33
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=12
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "640_Kiryu"
 msgid "(She might understand if I just try talking.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=23
-#. y4:msg_location=T2.P23
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=9
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "652_Kiryu"
 msgid "*attempting to speak Tagalog*"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=13
-#. y4:msg_location=T2.P13
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "664_Woman"
 msgid "!!!"
 msgstr "!!!"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=14
-#. y4:msg_location=T2.P14
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "676_Woman"
 msgid "*actually speaking Tagalog*"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=15
-#. y4:msg_location=T2.P15
-#. y4:msg_speaker=Woman
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "688_Woman"
 msgid "*speaking Tagalog*"
 msgstr "*Naghahanap ako ng tao*"
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=38
-#. y4:msg_location=T2.P38
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=12
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Make Up Random Words
 msgctxt "700_Kiryu"
 msgid "(I don't know what I said, but she looks happy. I guess that's that.)"
 msgstr ""
 
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=39
-#. y4:msg_location=T2.P39
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Leave
 msgctxt "712_Player"
 msgid "(I'm just gonna leave...)"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P11
-#. y4:msg_branch_segment=T2.P11..P38
-#. y4:msg_branch_target_text=(I guess I'll just say something...)
-#. y4:msg_branch_raw=01 11 00 0b 00 00 00 14 00 00 00 00 00 00 00 00
 msgctxt "772_Player"
 msgid "Make Up Random Words"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P39
-#. y4:msg_branch_segment=T2.P39..P43
-#. y4:msg_branch_target_text=(I'm just gonna leave...)
-#. y4:msg_branch_raw=01 11 00 27 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "784_Player"
 msgid "Leave"
 msgstr "Irse"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P11
-#. y4:msg_branch_segment=T2.P11..P38
-#. y4:msg_branch_target_text=(I guess I'll just say something...)
-#. y4:msg_branch_raw=01 11 00 0b 00 00 00 14 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T2.P22
 msgctxt "796_Player"
 msgid "Make Up Random Words"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P39
-#. y4:msg_branch_segment=T2.P39..P43
-#. y4:msg_branch_target_text=(I'm just gonna leave...)
-#. y4:msg_branch_raw=01 11 00 27 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "808_Player"
 msgid "Leave"
 msgstr "Irse"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P11
-#. y4:msg_branch_segment=T2.P11..P38
-#. y4:msg_branch_target_text=(I guess I'll just say something...)
-#. y4:msg_branch_raw=01 11 00 0b 00 00 00 14 00 00 00 00 00 00 00 00
+#. y4:msg_branch_target=T2.P33
 msgctxt "820_Player"
 msgid "Make Up Random Words"
 msgstr ""
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=2
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T2.P39
-#. y4:msg_branch_segment=T2.P39..P43
-#. y4:msg_branch_target_text=(I'm just gonna leave...)
-#. y4:msg_branch_raw=01 11 00 27 00 00 00 05 00 00 00 00 00 00 00 00
 msgctxt "832_Player"
 msgid "Leave"
 msgstr "Irse"

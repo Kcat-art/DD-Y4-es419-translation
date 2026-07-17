@@ -16,25 +16,20 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 0002061D <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "484"
 msgid "Date"
 msgstr "Date"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "488"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "492"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
@@ -46,13 +41,6 @@ msgid "I'll hold down the fort while you're gone. Call me if\\r\nanything comes 
 msgstr "Me encargaré de mantener este lugar mientras tú no estás. Llámame si es que sucede algo."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "112_Kiryu"
 msgid "I will. Thanks, Date-san."
 msgstr "Lo haré. Gracias, Date-san."

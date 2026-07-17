@@ -24,67 +24,36 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CABA01.bin
 #. y4:runtime_play_command=y4.play_msg 006C020A <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "436"
 msgid "Helper Girl"
 msgstr ""
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "440"
 msgid "Kiryu"
 msgstr "Kiryu"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Helper Girl
-#. y4:msg_speaker_id=0
 msgctxt "56_Helper Girl"
 msgid "Hey..."
 msgstr "Oye..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=1
 msgctxt "68_Helper Girl"
 msgid "Yeah."
 msgstr "Sí."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Helper Girl
-#. y4:msg_speaker_id=0
 msgctxt "80_Helper Girl"
 msgid "Hahaha."
 msgstr "Ja, ja, ja."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
 msgctxt "92_Helper Girl"
 msgid "Hehe."
 msgstr "Je, je."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
 msgctxt "104_Helper Girl"
 msgid "Teehee."
 msgstr ""

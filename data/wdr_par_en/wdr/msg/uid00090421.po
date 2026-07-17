@@ -16,41 +16,21 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00090421 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
 msgctxt "176"
 msgid "You got a <Color:8>Popularity Bracelet<Color:Default>."
 msgstr "Has obtenido la <Color:8>pulsera de popularidad<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=18
-#. y4:msg_location=T0.P18
 msgctxt "272"
 msgid "It's the Tojo Terror, Kazuma Kiryu, and... there's something I need to tell you guys."
 msgstr "Habla el Terror del Tojo, Kazuma Kiryu, y... tengo algo importante que decirles."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
 msgctxt "284"
 msgid "I'm not really Kazuma Kiryu. I'm just a big phony."
 msgstr "La verdad es que no soy Kazuma Kiryu. Solo soy un gran farsante."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=20
-#. y4:msg_location=T0.P20
 msgctxt "296"
 msgid "Truth is, the real Kiryu walloped me good just now. Thought I was gonna die. Anyway, I've been thinking it's time for a change."
 msgstr "Justo ahora, el original me dio una golpiza. Honestamente, ¡Creí que moriría! Creo que es momento de un cambio."
@@ -61,84 +41,56 @@ msgid "From now on, I'll be posting as \"Fake Kiryu\"! Don't forget to stay subs
 msgstr "A partir de ahora, estaré publicando como el \"Falso Kiryu\". ¡No olviden suscribirse y estar atentos a más publicaciones!\\r\n                          -Falso Kiryu, Fan de Kiryu Hasta la Muerte"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=24
-#. y4:msg_location=T0.P24
 msgctxt "344"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "5164"
 msgid "\"Kiryu\""
 msgstr "Falso Kiryu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "5168"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "5172"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "5176"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "5180"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "5184"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "5188"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "5192"
 msgid "Talk_Mail_st"
 msgstr "Talk_Mail_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "5196"
 msgid "Talk_Mail_ed"
 msgstr "Talk_Mail_ed"
@@ -149,49 +101,21 @@ msgid "Hrgh... You think the Tojo Clan's gonna let you get away\\r\nwith this, b
 msgstr "Hngh... Maldito... ¿Crees que el Clan Tojo se va a quedar\\r\nde brazos cruzados después de esto?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "68_Kiryu"
 msgid "Hold on a second. Haven't we done this all before?"
 msgstr "...Oye, ¿No habías hecho esto antes?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker="Kiryu"
-#. y4:msg_speaker_id=0
 msgctxt "80_\"Kiryu\""
 msgid "...Huh?"
 msgstr "... ¿Eh?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker="Kiryu"
-#. y4:msg_speaker_id=0
 msgctxt "92_\"Kiryu\""
 msgid "Wait, you're not... No. The real Kazuma Kiryu!?"
 msgstr "¡Ah! ¡¿S-Será que eres es... el verdadero Kazuma Kiryu?!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "104_Kiryu"
 msgid "If you're gonna impersonate someone, you should at least be able to recognize when they're right in front of you."
 msgstr "Si tu intención es imitar a alguien, al menos deberías ser capaz de reconocerlo cuando lo tienes enfrente."
@@ -212,73 +136,31 @@ msgid "You know about that, too!? Look, I didn't mean it! And\\r\nI'll confess o
 msgstr "¿También te enteraste de eso? ¡Mira, no fue mi intención!\\r\n¡Y voy a confesarlo todo en el blog ahora mismo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker="Kiryu"
-#. y4:msg_speaker_id=0
 msgctxt "152_\"Kiryu\""
 msgid "Just forgive me, please!"
 msgstr "¡L-Llévate esto también, pero por favor perdóname!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker="Kiryu"
-#. y4:msg_speaker_id=0
 msgctxt "212_\"Kiryu\""
 msgid "I'm sorry, man! I really mean it!"
 msgstr "¡D-De verdad, lo siento muchísimo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "224_Kiryu"
 msgid "Hey, hold it! What is this guy, a pro runner?"
 msgstr "¡Oye, aún no he terminado de hablar...! Tch, es rápido."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "236_Kiryu"
 msgid "(He did say he was gonna apologize. But is he really turning over a new leaf...?)"
 msgstr "(Dijo que se disculparía en el blog... pero, ¿de verdad habrá aprendido la lección?)"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "260_Kiryu"
 msgid "(Oh, he updated his blog already.)"
 msgstr "(Oh, ya actualizó su blog...)."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=2
 msgctxt "320_Kiryu"
 msgid "(This guy updates his blog even faster than he runs...)"
 msgstr "(Hum, no solo es rápido para huir, sino también para actualizar su blog)."

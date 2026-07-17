@@ -16,78 +16,41 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 00090155 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1016"
 msgid "Jailhouse Snitch"
 msgstr "Preso chismoso"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1020"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Jailhouse Snitch
-#. y4:msg_speaker_id=0
 msgctxt "84_Jailhouse Snitch"
 msgid "So, what're you in for?"
 msgstr "Eh... \\r\nOye... ¿Por qué estás aquí?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "96_Saejima"
 msgid "Who, me?"
 msgstr "... ¿Yo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Jailhouse Snitch
-#. y4:msg_speaker_id=0
 msgctxt "108_Jailhouse Snitch"
 msgid "You see anyone else around? Of course you! Must've done something big to end up in here. What was it? Arson? Assault? Grand theft auto?"
 msgstr "Si llegaste a esta prisión, debes\\r\nhaber hecho algo bastante grave, ¿no?\\r\nCuéntame, ¿qué hiciste?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "120_Saejima"
 msgid "I don't gotta tell ya a damn thing. Now back off 'fore I <Italic>make</Italic> you back off."
 msgstr "No te diré nada.\\r\nDeja de molestarme o <Italic>terminarás</Italic> herido."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Jailhouse Snitch
-#. y4:msg_speaker_id=0
 msgctxt "132_Jailhouse Snitch"
 msgid "Eep! Pretty sure I just pissed myself a little..."
 msgstr "Je, je, je...\\r\nD-da miedo, da miedo."

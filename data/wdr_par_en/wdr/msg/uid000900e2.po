@@ -16,34 +16,26 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 000900E2 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "6960"
 msgid "Affluent Old Man"
 msgstr "Señor Mayor Opulento"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "6964"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "6968"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "6972"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
@@ -54,29 +46,11 @@ msgid "Did you change your mind? I know it must be hard\\r\nto just walk away fr
 msgstr "¿Cambiaste de idea? Sé que debe ser duro rechazar\\r \ntres millones de yenes."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=2
-#. y4:msg_location=T0.P2
-#. y4:msg_speaker=Affluent Old Man
-#. y4:msg_speaker_id=0
 msgctxt "168_Affluent Old Man"
 msgid "Hello, young man. I notice you've been making some excellent plays."
 msgstr "Buenas, jóven. Veo que has estado jugando bastante bien."
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=3
-#. y4:msg_location=T0.P3
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "180_Tanimura"
 msgid "Uh... I guess. You need something, old-timer?"
 msgstr "Eh... supongo. ¿Necesita algo, anciano?"
@@ -87,15 +61,6 @@ msgid "Now, now... Don't disregard me as some addled old fogey.\\r\nI've been wa
 msgstr "Bueno... no me tomes por un viejo desorientado. Te he estado\\r\nobservando y reconozco un temerario cuando lo veo. No hay\\r \nnada como ganar el premio gordo, ¿eh?"
 
 #. y4:line_status=translated
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
 msgctxt "204_Tanimura"
 msgid "......"
 msgstr "......"
@@ -121,33 +86,14 @@ msgid "So let me give it to you straight: my game can earn you\\r\nthree million
 msgstr "Así que te lo voy a dejar claro: mi juego puede conseguirte\\r \ntres millones de yen en una partida. ¿Te pica la curiosidad?\\r\nTe repito que las pequeñas apuestas no te hacen rico."
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. Hear Him Out -> T0.P11 | 2. Ignore Him -> T0.P16
 msgctxt "264_Tanimura"
 msgid "(Three million yen for one game? Yeah, that's gotta be a scam. But, at the same time, I am kinda curious to see where this goes...)"
 msgstr "(¿Tres millones de yen en una partida? Es la estada del año. \\r Pero me pica la curiosidad ver a dónde lleva esto...)"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_choice=Hear Him Out
 msgctxt "276_Tanimura"
 msgid "So I can really make three million, huh?"
 msgstr "Así que tres millones, ¿eh?"
@@ -168,33 +114,14 @@ msgid "But if you're not interested, just say so.\\r\nNow what's it going to be?
 msgstr "Pero si no te interesa, dímelo.\\r \n¿Y bien? ¿Qué decides?"
 
 #. y4:line_status=translated
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
-#. y4:msg_decision_choices=1. I'm in. -> T0.P19 | 2. I'll pass. -> T0.P24
 msgctxt "324_Tanimura"
 msgid "(I'm still not convinced. What should I say to this guy?)"
 msgstr "(No me acaba de convencer. ¿Qué le digo?)"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Ignore Him
 msgctxt "336_Tanimura"
 msgid "Sorry, but I'm gonna have to pass on this one."
 msgstr "Lo siento, pero esta vez tengo que pasar."
@@ -210,17 +137,6 @@ msgid "Lucky for you, I've got some time on my hands right now.\\r\nI'll be enjo
 msgstr "Estás de suerte, tengo algo de tiempo.\\r\nMe quedaré disfrutando por aquí un rato, si llegaras\\r \na cambiar de idea, sabes dónde encontrarme."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=19
-#. y4:msg_location=T0.P19
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Ignore Him
 msgctxt "372_Tanimura"
 msgid "All right, I'm in."
 msgstr "De acuerdo, te ayudaré."
@@ -231,17 +147,6 @@ msgid "Excellent. Then come with me. The game takes place\\r\na little ways from
 msgstr "Excelente. Ven conmigo. Este juego tiene lugar un poco\\r \nalejado de este lugar. ¿Tienes tiempo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=21
-#. y4:msg_location=T0.P21
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Ignore Him
 msgctxt "396_Tanimura"
 msgid "As long as you spare the change."
 msgstr "Siempre y cuando usted tenga cambio."
@@ -252,105 +157,55 @@ msgid "Sorry, but I'm not interested.\\r\nWhy don't you ask somebody else?"
 msgstr "Lo siento, pero no me interesa.\\r \n¿Por qué no le preguntas a otro?"
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=25
-#. y4:msg_location=T0.P25
-#. y4:msg_speaker=Affluent Old Man
-#. y4:msg_speaker_id=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Ignore Him
 msgctxt "444_Affluent Old Man"
 msgid "I see... I may just do that. But you're wasting a good opportunity, you know."
 msgstr "Ya veo..., puede que lo haga. Pero estás malgastando una \\r gran oportunidad, que lo sepas."
 
 #. y4:line_status=translated
-#. y4:msg_type=branch_dialogue
-#. y4:msg_label=Respuesta de rama
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=0
-#. y4:msg_phrase=26
-#. y4:msg_location=T0.P26
-#. y4:msg_speaker=Tanimura
-#. y4:msg_speaker_id=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_choice=Ignore Him
 msgctxt "456_Tanimura"
 msgid "(As they say, discretion is the better part of valor.)"
 msgstr "(Como se suele decir, una retirada a tiempo es una victoria.)"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P11
-#. y4:msg_branch_segment=T0.P11..P15
-#. y4:msg_branch_target_text=So I can really make three million, huh?
-#. y4:msg_branch_raw=01 11 00 0b 00 00 00 0c 00 00 00 00 00 00 00 00
 msgctxt "468_Affluent Old Man"
 msgid "Hear Him Out"
 msgstr "Escucharlo"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P16
-#. y4:msg_branch_segment=T0.P16..P26
-#. y4:msg_branch_target_text=Sorry, but I'm gonna have to pass on this one.
-#. y4:msg_branch_raw=01 11 00 10 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "480_Affluent Old Man"
 msgid "Ignore Him"
 msgstr "Ignorarlo"
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P19
-#. y4:msg_branch_segment=T0.P19..P23
-#. y4:msg_branch_target_text=All right, I'm in.
-#. y4:msg_branch_raw=01 11 00 13 00 00 00 07 00 00 00 00 00 00 00 00
 msgctxt "492_Affluent Old Man"
 msgid "I'm in."
 msgstr "Estoy dentro."
 
 #. y4:line_status=translated
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=1
-#. y4:msg_section_label=Conversación 1
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=1
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T0.P24
-#. y4:msg_branch_segment=T0.P24..P26
-#. y4:msg_branch_target_text=Sorry, but I'm not interested.\nWhy don't you ask somebody else?
-#. y4:msg_branch_raw=01 11 00 18 00 00 00 0a 00 00 00 00 00 00 00 00
 msgctxt "504_Affluent Old Man"
 msgid "I'll pass."
 msgstr "Paso."

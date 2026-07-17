@@ -16,113 +16,74 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 0026008D <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
 msgctxt "224"
 msgid "You got <Color:255,255,200,255>300 casino chips<Color:Default>."
 msgstr "Has obtenido <Color:255,255,200,255>300 fichas de casino<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "3864"
 msgid "Difficult Patron"
 msgstr "Hombre problemático"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "3868"
 msgid "Casino Manager"
 msgstr "Gerente del casino"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "3872"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "3876"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "3880"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "3884"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "3888"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "3892"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "3896"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "3900"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "3904"
 msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Difficult Patron
-#. y4:msg_speaker_id=0
 msgctxt "56_Difficult Patron"
 msgid "Help! He's gonna kill me!"
 msgstr "¡A-ayuda! ¡Ese tipo me quiere matar!"
@@ -133,13 +94,6 @@ msgid "Thank you very much. For a moment there,\\r\nI wasn't sure what was going
 msgstr "Gracias a Dios que esto salió mejor de lo que esperaba.\nSe lo agradezco mucho."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=3
 msgctxt "140_Saejima"
 msgid "Sorry for the ruckus."
 msgstr "Perdón por el alboroto."
@@ -150,13 +104,6 @@ msgid "Not at all. You drove home an important point. We should\\r\nhave fewer t
 msgstr "No tiene por qué disculparse. Les dio una buena lección.\nCon esto, estoy seguro de que empezaremos a ver menos\nbuscapleitos por aquí."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=3
 msgctxt "164_Saejima"
 msgid "Yeah? Hope so."
 msgstr "Eso espero."
@@ -167,25 +114,11 @@ msgid "Now, about your payment. I'll be forwarding it\\r\nto Tadokoro-san, if th
 msgstr "Y hablando de su paga, primero se lo haré llegar a\nTadokoro-san. Espero que no haya algún problema con eso."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=3
 msgctxt "188_Saejima"
 msgid "Yeah, no prob. We got an agreement, me and him."
 msgstr "No, no lo hay. Tengo un trato con él."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Casino Manager
-#. y4:msg_speaker_id=1
 msgctxt "200_Casino Manager"
 msgid "Very well. That's what I'll do, then."
 msgstr "Muy bien. Entonces, así será."
@@ -196,13 +129,6 @@ msgid "And as a thank-you from me personally, I set aside\\r\nthese casino chips
 msgstr "Quisiera darle un extra como agradecimiento de mi parte.\nPor favor, acepte estas fichas de casino. Cortesía de la\ncasa."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=15
-#. y4:msg_location=T0.P15
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=3
 msgctxt "236_Saejima"
 msgid "Really? I appreciate that."
 msgstr "Oh, vaya. Pues muchas gracias."
@@ -213,13 +139,6 @@ msgid "Come again for a game or two whenever you'd like.\\r\nWe'll be looking fo
 msgstr "Puede pasar a jugar cuando quiera. Lo estaremos esperando\\r\ncon los brazos abiertos."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Casino Manager
-#. y4:msg_speaker_id=1
 msgctxt "260_Casino Manager"
 msgid "Thanks again for your hard work today."
 msgstr "Bueno, eso sería todo por hoy. Muchas gracias."

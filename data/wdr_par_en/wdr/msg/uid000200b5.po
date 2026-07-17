@@ -19,6 +19,8 @@ msgstr ""
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2620"
 msgid "Akiyama"
 msgstr "Akiyama"
@@ -30,6 +32,8 @@ msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2628"
 msgid "Player"
 msgstr "Player"
@@ -49,6 +53,9 @@ msgstr "¿Llevarás a Haruka-chan a pasear? Diviértanse."
 #. y4:line_status=reviewed
 #. y4:translated_by=Keiner
 #. y4:reviewed_by=Keiner
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
+#. y4:msg_decision_group=0
 msgctxt "124_Akiyama"
 msgid "Why don't you take a little breather, %s-san? Be glad to take care of any errands you need doing."
 msgstr "¿Por qué no te tomas un descanso, %s-san? Me encantaría ayudar con lo que necesites."
@@ -118,12 +125,24 @@ msgstr "Bien. Descansa mientras.. Volveré antes de que te des cuenta."
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
+#. y4:msg_choice_index=1
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P3
 msgctxt "292_Akiyama"
 msgid "Cancel"
 msgstr "Cancelar"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
+#. y4:msg_choice_index=2
+#. y4:msg_branch_opcode=0x0111
+#. y4:msg_branch_target=T0.P9
 msgctxt "304_Akiyama"
 msgid "Switch to Akiyama"
 msgstr "Cambiar a Akiyama"

@@ -16,50 +16,31 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 000203E7 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "824"
 msgid "Tachikawa"
 msgstr "Tachikawa"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "828"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "832"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Tachikawa
-#. y4:msg_speaker_id=0
 msgctxt "56_Tachikawa"
 msgid "I gather you're looking for the underworld's top informant?"
 msgstr "¿Supongo que estás buscando al mejor informante del inframundo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Saejima
-#. y4:msg_speaker_id=1
 msgctxt "68_Saejima"
 msgid "Sure am."
 msgstr "Sí."
@@ -75,13 +56,6 @@ msgid "But he does have a number of homeless folks on his payroll.\\r\nThey coll
 msgstr "Pero sí tiene varios vagabundos en su nómina.\\r\nRecopilan información y tal."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Tachikawa
-#. y4:msg_speaker_id=0
 msgctxt "104_Tachikawa"
 msgid "I've never met the guy, but I'd sure like to sometime."
 msgstr "Nunca lo he conocido, pero me gustaría hacerlo alguna vez."

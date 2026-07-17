@@ -24,34 +24,22 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_GOLF.bin
 #. y4:runtime_play_command=y4.play_msg 006C02B5 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "5084"
 msgid "Shizuka"
 msgstr "Shizuka"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "5088"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "5092"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=0
 msgctxt "168_Shizuka"
 msgid "Wow! We won!"
 msgstr "¡Guau! ¡Ganamos!"
@@ -64,24 +52,10 @@ msgctxt "192_Shizuka"
 msgid "Ask me out again sometime, okay? Let's win again next time! <Color:255,200,200,255>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=0
 msgctxt "252_Shizuka"
 msgid "Hooray! We won a prize!"
 msgstr "¡Hurra! ¡Ganamos un premio!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=0
 msgctxt "264_Shizuka"
 msgid "Next time, we've definitely gotta win!"
 msgstr "¡La próxima vez, tenemos que ganar sí o sí!"
@@ -94,90 +68,34 @@ msgctxt "336_Shizuka"
 msgid "That was fun! ♪ I hope you'll invite me out again sometime! <Color:255,200,200,255>♥<Color:Default>"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=0
 msgctxt "396_Shizuka"
 msgid "Goodness... You're much too good at this."
 msgstr "Dios mío... Usted es demasiado bueno en esto."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=0
 msgctxt "408_Shizuka"
 msgid "But I won't let you get the better of me next time! You'd better be ready for my victory!"
 msgstr "¡Pero no dejaré que me gane la próxima vez! ¡Será mejor que esté preparado para mi victoria!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=2
-#. y4:msg_location=T3.P2
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=0
 msgctxt "420_Shizuka"
 msgid "I hope you'll invite me out again, all right?"
 msgstr "Espero que me invites a salir de nuevo, ¿de acuerdo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=0
 msgctxt "480_Shizuka"
 msgid "Looks like we tied. That was a good game!"
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=1
-#. y4:msg_location=T4.P1
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=0
 msgctxt "492_Shizuka"
 msgid "I'll beat you next time, though!"
 msgstr "¡Lo venceré la próxima vez!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=2
-#. y4:msg_location=T3.P2
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=0
 msgctxt "504_Shizuka"
 msgid "I hope you'll invite me out again, all right?"
 msgstr "Espero que me invites a salir de nuevo, ¿de acuerdo?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=0
 msgctxt "564_Shizuka"
 msgid "I won! Hehe, I was really on a roll today."
 msgstr ""
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=2
-#. y4:msg_location=T3.P2
-#. y4:msg_speaker=Shizuka
-#. y4:msg_speaker_id=0
 msgctxt "576_Shizuka"
 msgid "I hope you'll invite me out again, all right?"
 msgstr "Espero que me invites a salir de nuevo, ¿de acuerdo?"

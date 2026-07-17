@@ -24,100 +24,55 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_SERENA.bin
 #. y4:runtime_play_command=y4.play_msg 00020D78 <group>
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
+
+
 msgctxt "164"
 msgid "Taking advantage of this option will allow you to create clear data carrying over your play data from Premium Adventure."
 msgstr "Usar esta opción te permitirá crear datos de juego completado traspasando tus datos de juego a la Aventura Prémium."
 
-#. y4:msg_type=decision
-#. y4:msg_label=Pregunta con opciones
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=6
-#. y4:msg_location=T1.P6
+#. y4:msg_role=decision
+#. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
-#. y4:msg_decision_choices=1. No -> T1.P7 | 2. Yes -> T1.P8
 msgctxt "200"
 msgid "Create clear data and return to the title screen?"
 msgstr "¿Crear datos de juego completado y volver a la pantalla de título?"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "2432"
 msgid "Date"
 msgstr "Date"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "2436"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "2440"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "2444"
 msgid "Creating Clear Data"
 msgstr "Crear Datos de Juego Completado"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
+#. y4:msg_role=name
+#. y4:msg_name_id=4
 msgctxt "2448"
 msgid "Create Game Clear Data"
 msgstr "Crear Datos de Juego Completado"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=0
 msgctxt "128_Date"
 msgid "Hey, %s. Been painting the town red out there?"
 msgstr "Oye, Kiryu. ¿Has estado poniendo la ciudad patas arriba?"
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Player
-#. y4:msg_speaker_id=2
 msgctxt "140_Player"
 msgid "Something like that."
 msgstr "Algo así."
 
-#. y4:msg_type=pre_context
-#. y4:msg_label=Contexto previo
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Date
-#. y4:msg_speaker_id=0
 msgctxt "152_Date"
 msgid "Glad to hear it. By the way, if you wanna replay the main story with the stats you've got now, I can set that up for you."
 msgstr "Me alegra oírlo. Por cierto, si quieres volver a jugar la historia principal con las estadísticas que tienes ahora, puedo hacerlo por ti."
@@ -144,34 +99,22 @@ msgstr "Además, al seleccionar \"Sí\" terminará la Aventura\\r\n"
 "te permitirá transferir todos los elementos de tu historia,\\r\n"
 "incluyendo el inventario, las subhistorias terminadas y mucho más."
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=2
-#. y4:msg_phrase=0
-#. y4:msg_location=T2.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=1
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P7
-#. y4:msg_branch_segment=T1.P7..P7
-#. y4:msg_branch_raw=01 11 00 07 00 00 00 02 00 00 00 00 00 00 00 00
 msgctxt "236_Date"
 msgid "No"
 msgstr "No"
 
-#. y4:msg_type=choice
-#. y4:msg_label=Opción del jugador
-#. y4:msg_section=0
-#. y4:msg_section_label=Conversación 0
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
+#. y4:msg_role=decision
+#. y4:msg_decision_role=choice
+#. y4:msg_decision_group=0
 #. y4:msg_choice_index=2
 #. y4:msg_branch_opcode=0x0111
 #. y4:msg_branch_target=T1.P8
-#. y4:msg_branch_segment=T1.P8..P8
-#. y4:msg_branch_raw=01 11 00 08 00 00 00 03 00 00 00 00 00 00 00 00
 msgctxt "248_Date"
 msgid "Yes"
 msgstr "Sí"

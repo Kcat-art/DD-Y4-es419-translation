@@ -24,27 +24,20 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 0009059F <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "408"
 msgid "Scared Businesswoman"
 msgstr "Mujer de negocios asustada"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "412"
 msgid "Confident Businesswoman"
 msgstr "Mujer de negocios confiada"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Scared Businesswoman
-#. y4:msg_speaker_id=0
 msgctxt "84_Scared Businesswoman"
 msgid "What's going on? I hope it's not dangerous..."
 msgstr "¿Qué está pasando? Ojalá que no sea nada grave..."

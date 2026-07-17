@@ -24,16 +24,16 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 000903BA <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "1396"
 msgid "Financially Troubled Man"
 msgstr "Hombre con problemas financieros"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "1400"
 msgid "Akiyama"
 msgstr "Akiyama"
@@ -62,24 +62,10 @@ msgid "But seeing that guy getting pulled into his office makes me\\r\n"
 msgstr "Pero ver a un tipo siendo arrastrado frente a mí me pareció\\r\n"
 "algo inquietante, como si se estuviese ocultando algo..."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=4
-#. y4:msg_location=T1.P4
-#. y4:msg_speaker=Financially Troubled Man
-#. y4:msg_speaker_id=0
 msgctxt "132_Financially Troubled Man"
 msgid "I hate to be a pain, but do you happen to know any other moneylenders in the area?"
 msgstr "Odio molestar, pero ¿podrías recomendarme otro prestamista de la zona?"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=5
-#. y4:msg_location=T1.P5
-#. y4:msg_speaker=Akiyama
-#. y4:msg_speaker_id=1
 msgctxt "144_Akiyama"
 msgid "This is definitely the place..."
 msgstr "Este definitivamente es el lugar..."

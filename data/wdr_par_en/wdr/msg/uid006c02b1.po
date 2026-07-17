@@ -24,45 +24,26 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_GOLF.bin
 #. y4:runtime_play_command=y4.play_msg 006C02B1 <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "5256"
 msgid "Chihiro"
 msgstr "Chihiro"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "5260"
 msgid "dummy"
 msgstr "dummy"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "5264"
 msgid "0"
 msgstr "0"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=0
-#. y4:msg_location=T0.P0
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=0
 msgctxt "168_Chihiro"
 msgid "Oh, wow! We won!"
 msgstr "Ah, ¡Vaya! ¡Ganamos!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=0
 msgctxt "180_Chihiro"
 msgid "Tanimura-san, it's so cool that you're so good at golf!"
 msgstr "¡Tanimura-san, es genial que sea tan bueno en el golf!"
@@ -71,24 +52,10 @@ msgctxt "192_Chihiro"
 msgid "Ask me out again, okay? Next time, let's win it all! <Color:255,200,200,255>♥<Color:Default>"
 msgstr "Invíteme a salir de nuevo, ¿sí? ¡La próxima vez lo ganaremos todo! <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=0
 msgctxt "252_Chihiro"
 msgid "Yay! We won a prize!"
 msgstr "¡Viva! ¡Ganamos un premio!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=0
 msgctxt "264_Chihiro"
 msgid "Next time, we've definitely gotta win it all!"
 msgstr "¡La próxima vez, definitivamente lo ganaremos todo!"
@@ -101,24 +68,10 @@ msgctxt "336_Chihiro"
 msgid "That was fun! ♪ Call me again soon, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡Eso fue divertido! ♪ Vuelva a llamarme pronto, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=0
-#. y4:msg_location=T3.P0
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=0
 msgctxt "396_Chihiro"
 msgid "Geez... You're way too good at this, Tanimura-san!"
 msgstr "Uf... ¡Usted es muy bueno en esto, Tanimura-san!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=3
-#. y4:msg_phrase=1
-#. y4:msg_location=T3.P1
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=0
 msgctxt "408_Chihiro"
 msgid "I'm not going to lose next time!"
 msgstr "¡La próxima vez no perderé!"
@@ -127,24 +80,10 @@ msgctxt "420_Chihiro"
 msgid "Ask me out again sometime, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "Invíteme a salir de nuevo algún día, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=0
-#. y4:msg_location=T4.P0
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=0
 msgctxt "480_Chihiro"
 msgid "Wow, a tie... That was a really good game!"
 msgstr "Vaya, un empate... ¡Ese fue un muy buen juego!"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=4
-#. y4:msg_phrase=1
-#. y4:msg_location=T4.P1
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=0
 msgctxt "492_Chihiro"
 msgid "Next time, I'll beat you for sure!"
 msgstr "¡La próxima vez le ganaré, estoy segura!"
@@ -153,13 +92,6 @@ msgctxt "504_Chihiro"
 msgid "Ask me out again sometime, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "Invíteme a salir de nuevo algún día, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=5
-#. y4:msg_phrase=0
-#. y4:msg_location=T5.P0
-#. y4:msg_speaker=Chihiro
-#. y4:msg_speaker_id=0
 msgctxt "564_Chihiro"
 msgid "I won! Hehe, I'm pretty good, don't you think?"
 msgstr "¡Gané! Je, je. Soy muy buena en esto, ¿no le parece?"

@@ -16,166 +16,112 @@ msgstr ""
 #. y4:runtime_play_command=y4.play_msg 009104C8 <group>
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "4552"
 msgid "Man's Voice"
 msgstr "Voz de Hombre"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
+#. y4:msg_role=name
+#. y4:msg_name_id=1
 msgctxt "4556"
 msgid "Man in Yellow Gi"
 msgstr "Hombre de Gi Amarillo"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "4560"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
+#. y4:msg_role=name
+#. y4:msg_name_id=3
 msgctxt "4564"
 msgid "Kiryu"
 msgstr "Kiryu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "4568"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "4572"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "4576"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
+#. y4:msg_role=name
+#. y4:msg_name_id=7
 msgctxt "4580"
 msgid "Sodachi"
 msgstr "Sodachi"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "4584"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "4588"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=10
 msgctxt "4592"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=11
 msgctxt "4596"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=12
 msgctxt "4600"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=13
 msgctxt "4604"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=14
 msgctxt "4608"
 msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=15
 msgctxt "4612"
 msgid "M_gai_stand"
 msgstr "M_gai_stand"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=16
 msgctxt "4616"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=17
 msgctxt "4620"
 msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=18
+#. y4:msg_role=name
+#. y4:msg_name_id=18
 msgctxt "4624"
 msgid "Tag Partners"
 msgstr "Compañeros de Equipo"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=1
-#. y4:msg_location=T0.P1
-#. y4:msg_speaker=Man's Voice
-#. y4:msg_speaker_id=0
 msgctxt "68_Man's Voice"
 msgid "Hey... Aren't you Kiryu-san?"
 msgstr "¿Eh...? ¿E-espera un momento? ¿P-podría ser que usted... sea Kiryu-san?"
@@ -186,133 +132,56 @@ msgid "I knew it! It really is you! I've been a fan of yours ever since I saw yo
 msgstr "¡Lo sabía! ¡Es el verdadero Kiryu-san! ¡Desde que lo vi pelear en la arena, me volví su fan! ¡Aaah, qué emoción! ¡Kyah~ ♥!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=4
-#. y4:msg_location=T0.P4
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=3
 msgctxt "104_Kiryu"
 msgid "I don't mean to be rude, but do I know you?"
 msgstr "Perdón, pero... ¿tú quién eres?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=5
-#. y4:msg_location=T0.P5
-#. y4:msg_speaker=Man in Yellow Gi
-#. y4:msg_speaker_id=1
 msgctxt "116_Man in Yellow Gi"
 msgid "Oh! Sorry! My name is Sodachi! I run a dojo here in Kamurocho."
 msgstr "¡Ah! ¡Perdón por no haberme presentado antes! Mi nombre es Sodachi y dirijo un dojo en Kamurocho."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=6
-#. y4:msg_location=T0.P6
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=3
 msgctxt "128_Kiryu"
 msgid "I see. A dojo, huh?"
 msgstr "Oh, ¿un dojo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=7
-#. y4:msg_location=T0.P7
-#. y4:msg_speaker=Sodachi
-#. y4:msg_speaker_id=7
 msgctxt "140_Sodachi"
 msgid "Yes. It was almost on the verge of closing... But this guy named Saejima-san helped us side-step that danger and we're doing fine now!"
 msgstr "¡Sí! Estábamos a punto de cerrar... ¡Pero un hombre llamado Saejima-san nos ayudó a evitar ese peligro y, por ahora, todo está bien!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=8
-#. y4:msg_location=T0.P8
-#. y4:msg_speaker=Sodachi
-#. y4:msg_speaker_id=7
 msgctxt "152_Sodachi"
 msgid "Yes. But we're on the verge of closing... Hmph. If only Saejima-san were willing to help me out... *mumbles*"
 msgstr "Aún así, seguimos en una situación complicada... Mmm, ojalá Saejima-san pudiera echarme una mano... *murmura*"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=9
-#. y4:msg_location=T0.P9
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=3
 msgctxt "164_Kiryu"
 msgid "Hm? Saejima?"
 msgstr "¿Mm? ¿Saejima?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=10
-#. y4:msg_location=T0.P10
-#. y4:msg_speaker=Sodachi
-#. y4:msg_speaker_id=7
 msgctxt "176_Sodachi"
 msgid "Yeah. Wait, do you know him? Wow, what a small world."
 msgstr "Sí. Un momento, ¿lo conoces? ¡Qué pequeño es el mundo!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=11
-#. y4:msg_location=T0.P11
-#. y4:msg_speaker=Sodachi
-#. y4:msg_speaker_id=7
 msgctxt "188_Sodachi"
 msgid "Oh! By the way, if it's not too much of a bother, would you mind using one of my apprentices as a tag partner?"
 msgstr "¡Oh, sí! Kiryu-san, si no le molesta, ¿podría usar a uno de mis aprendices como su compañero de equipo?"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=12
-#. y4:msg_location=T0.P12
-#. y4:msg_speaker=Sodachi
-#. y4:msg_speaker_id=7
 msgctxt "200_Sodachi"
 msgid "I want my apprentices to gain fighting experience, and I'm sure they'll be more than happy to fight with a legend like you, Kiryu-san!"
 msgstr "¡Quiero que mis aprendices ganen experiencia peleando, y estoy seguro de que estarán encantados de pelear con una leyenda como tú, Kiryu-san!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=13
-#. y4:msg_location=T0.P13
-#. y4:msg_speaker=Kiryu
-#. y4:msg_speaker_id=3
 msgctxt "212_Kiryu"
 msgid "Are you sure? I was actually just looking for a partner to fight with. You'd be doing me a big favor."
 msgstr "¿De verdad? Precisamente estaba buscando un compañero para pelear. Me harías un gran favor."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=14
-#. y4:msg_location=T0.P14
-#. y4:msg_speaker=Sodachi
-#. y4:msg_speaker_id=7
 msgctxt "224_Sodachi"
 msgid "No problem at all! I'm happy to be of assistance! After all, you're my idol!"
 msgstr "¡No es nada! ¡Estoy feliz de poder ayudarte, especialmente a alguien a quien admiro tanto!"
@@ -323,37 +192,16 @@ msgid "But remember, the only apprentices that you can select are the\\r\n<Color
 msgstr "Pero recuerda, los únicos aprendices que puedes seleccionar\\r\nson los que <Color:7>entrenó Saejima-san y se hicieron campeones<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=16
-#. y4:msg_location=T0.P16
-#. y4:msg_speaker=Sodachi
-#. y4:msg_speaker_id=7
 msgctxt "248_Sodachi"
 msgid "All right, see you again soon!"
 msgstr "¡De acuerdo, hasta pronto!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=17
-#. y4:msg_location=T0.P17
-#. y4:msg_speaker=Sodachi
-#. y4:msg_speaker_id=7
 msgctxt "260_Sodachi"
 msgid "Peace out!"
 msgstr "¡Chau!"
 
 #. y4:line_status=translated
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=0
-#. y4:msg_phrase=22
-#. y4:msg_location=T0.P22
-#. y4:msg_speaker=Tag Partners
-#. y4:msg_speaker_id=18
 msgctxt "320_Tag Partners"
 msgid "Kiryu can now use Sodachi Dojo's apprentices as tag partners. Select apprentices that Saejima has trained into champions at the front desk, and fight in various tag matches with them."
 msgstr "Kiryu ahora puede contar con los aprendices del Dojo Sodachi como compañeros de equipo. Elige en la recepción a aquellos que Saejima entrenó y convirtió en campeones, y lucha junto a ellos en diversas peleas en pareja."

@@ -24,74 +24,40 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 0009012A <group>
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
+
+
+#. y4:msg_role=name
+#. y4:msg_name_id=0
 msgctxt "968"
 msgid "Yakuza In the Know"
 msgstr "Yakuza al Corriente"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "972"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
+#. y4:msg_role=name
+#. y4:msg_name_id=2
 msgctxt "976"
 msgid "Ignorant Punk"
 msgstr "Delincuente Ignorante"
 
-#. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "980"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=0
-#. y4:msg_location=T1.P0
-#. y4:msg_speaker=Yakuza In the Know
-#. y4:msg_speaker_id=0
 msgctxt "84_Yakuza In the Know"
 msgid "The Shibata Family's bad news. Word is the Ueno Seiwa Clan is gunnin' for 'em."
 msgstr "La familia Shibata es un problema. Dicen que el clan Ueno Seiwa está tras ellos."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=1
-#. y4:msg_location=T1.P1
-#. y4:msg_speaker=Ignorant Punk
-#. y4:msg_speaker_id=2
 msgctxt "96_Ignorant Punk"
 msgid "Yeah, but the Tojo Clan and the Ueno Seiwa Clan don't ever really fight that much."
 msgstr "Sí, pero el Clan Tojo y el Clan Ueno Seiwa en realidad no se enfrentan mucho."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=2
-#. y4:msg_location=T1.P2
-#. y4:msg_speaker=Yakuza In the Know
-#. y4:msg_speaker_id=0
 msgctxt "108_Yakuza In the Know"
 msgid "Maybe, but that Katsuragi's one bad mofo. He's tryin' to use that mess the Shibata Family created to wreck relations between the two clans."
 msgstr "Puede ser, pero ese Katsuragi un tipo muy malo Está intentando usar el desastre que causó la Familia Shibata para romper las relaciones entre los dos clanes."
 
-#. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
-#. y4:msg_talk=1
-#. y4:msg_phrase=3
-#. y4:msg_location=T1.P3
-#. y4:msg_speaker=Yakuza In the Know
-#. y4:msg_speaker_id=0
 msgctxt "120_Yakuza In the Know"
 msgid "If war breaks out, we'll hafta start crackin' skulls, too. I'd get ready if I were you."
 msgstr "Si estalla la guerra, tendremos que empezar a romper cráneos también. Yo me iría preparando si fuera tú."

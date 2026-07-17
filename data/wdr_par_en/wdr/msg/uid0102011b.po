@@ -1,46 +1,38 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid0102011b.po\n"
-"X-Crowdin-File-ID: 61932\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=0102011B
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 0102011B <group>
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Keiner
+#. y4:last_translator=Keiner
+#. y4:last_reviewer=Keiner
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "1544"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "1548"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "128_Akiyama"
 msgid "(Hm? That was Kido-chan from Kanemura Enterprises... What's got him in a hurry?)"
-msgstr "(¿Mm? Ese era Kido-chan de Kanemura Enterprises...\n"
-"¿Por qué tendra tanta prisa?)."
+msgstr "(¿Mm? Ese era Kido-chan de Kanemura Enterprises...\n¿Por qué tendra tanta prisa?)."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "140_Akiyama"
 msgid "(I should drop in and see what's up. Debt collection can wait.)"
-msgstr "(Parece que pasó algo. Tendré que pausar la recolecta)."
+msgstr "(Parece que pasó algo. Supongo que iré a ver)."
+

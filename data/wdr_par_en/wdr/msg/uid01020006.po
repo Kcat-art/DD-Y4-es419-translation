@@ -1,79 +1,82 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01020006.po\n"
-"X-Crowdin-File-ID: 62906\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=01020006
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 01020006 <group>
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Keiner
+#. y4:last_reviewer=Keiner
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "1708"
 msgid "Attendant"
 msgstr "Asistente"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "1712"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "1716"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "1720"
 msgid "M_nml_stand_tlk_kamae"
 msgstr "M_nml_stand_tlk_kamae"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "56_Attendant"
 msgid "I'm sorry, sir, but I can't let you go in right now."
 msgstr "Lo siento, señor, pero en estos momentos, no puede entrar."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "68_Akiyama"
 msgid "Huh? Why not?"
 msgstr "¿Eh? ¿Por qué?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "80_Attendant"
 msgid "Well, the truth is... we have a minor <Italic>situation</Italic> going on right now. I suggest you come back when things have calmed down."
 msgstr "Bueno, la verdad es que... tenemos un <Italic>incidente</Italic> ahora mismo. Le sugiero que vuelva cuando todo se haya calmado."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "92_Akiyama"
 msgid "What kind of situation are we talking here?"
 msgstr "¿De qué tipo de incidente estamos hablando?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "104_Attendant"
 msgid "Drunken belligerence, sir."
 msgstr "Una pelea de borrachos, señor."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "116_Attendant"
 msgid "A few of our customers have had a little too much, it seems."
 msgstr "Parece que algunos clientes han bebido mucho."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "128_Akiyama"
 msgid "That so? Think I'll need to see this for myself."
 msgstr "¿En serio? Creo que necesito revisar."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "140_Attendant"
 msgid "Sir? Sir, please wait!"
 msgstr "¿Señor? Señor, le ruego que espere por favor."
+

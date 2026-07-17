@@ -1,142 +1,162 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid0102029e.po\n"
-"X-Crowdin-File-ID: 61844\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=0102029E
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_ELNARD.bin
-#. y4:runtime_play_command=y4.play_msg 0102029E <group>
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Keiner
+#. y4:last_translator=Keiner
+#. y4:last_reviewer=Keiner
 
-
-
+#. y4:line_status=translated
 msgctxt "2776"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:line_status=translated
 msgctxt "2780"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "2784"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "2788"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=4
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "2792"
 msgid "Ihara"
 msgstr "Ihara"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "2796"
 msgid "M_nml_sitsofa_kamae"
 msgstr "M_nml_sitsofa_kamae"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "2800"
 msgid "F_sxy_sitsofa_kamae"
 msgstr "F_sxy_sitsofa_kamae"
 
+#. y4:line_status=translated
 msgctxt "2804"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:line_status=translated
 msgctxt "2808"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
+#. y4:line_status=translated
 msgctxt "2812"
 msgid "Talk_Cry"
 msgstr "Talk_Cry"
 
+#. y4:line_status=translated
 msgctxt "2816"
 msgid "Idle"
 msgstr "Idle"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=11
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "2820"
 msgid "Mishima"
 msgstr "Mishima"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "2824"
 msgid "SetM_nml_sitsofa_karamu"
 msgstr "SetM_nml_sitsofa_karamu"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "2828"
 msgid "SetF_nml_sitsofa_karamu"
 msgstr "SetF_nml_sitsofa_karamu"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=14
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "2832"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "2836"
 msgid "SetM_nml_sitsofa_listen_r"
 msgstr "SetM_nml_sitsofa_listen_r"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "2840"
 msgid "SetF_nml_sitsofa_karamu02"
 msgstr "SetF_nml_sitsofa_karamu02"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "2844"
 msgid "SetF_nml_sitsofa_nml_f_01"
 msgstr "SetF_nml_sitsofa_nml_f_01"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=18
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "2848"
 msgid "Attendant"
 msgstr "Asistente"
 
+#. y4:line_status=translated
 msgctxt "2852"
 msgid "M_nml_stand"
 msgstr "M_nml_stand"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "92_Ihara"
 msgid "How the shit do you still have a job, waiter!?"
-msgstr "¡¿Cómo mierda sigue teniendo trabajo,\\r\n"
-"camarero?!"
+msgstr "¡¿Cómo mierda sigue teniendo trabajo,\ncamarero?!"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "104_Ihara"
-msgid "Where's the hundred bottles of champagne we ordered!?\\r\n"
-"It's been ten minutes already!"
-msgstr "¡¿Dónde están las cien botellas de champán que ordenamos?!\\r\n"
-"¡Ya pasaron diez minutos!"
+msgid "Where's the hundred bottles of champagne we ordered!?\\r\nIt's been ten minutes already!"
+msgstr "¡¿Dónde están las cien botellas de champán que ordenamos?!\n¡Ya pasaron diez minutos!"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "116_Mishima"
 msgid "You idiots growin' the grapes in the back room or some shit!?"
 msgstr "¡¿Acaso están cultivando las putas uvas?!"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "128_Akiyama"
 msgid "So these are our boys, huh?"
 msgstr "Con que esos son, eh..."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "140_Attendant"
 msgid "Yes, sir. It's been going on like this for hours now. They've scared off all our other customers..."
 msgstr "Sí señor, llevan horas aquí. Ya espantaron a todos nuestros clientes."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "164_Attendant"
 msgid "Akiyama-san, wait! You can't just...!"
 msgstr "¡Akiyama-san, espere! ¡No puede...!"
+

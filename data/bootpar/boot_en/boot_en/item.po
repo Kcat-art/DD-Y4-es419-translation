@@ -1,13 +1,14 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: DD-Y4-es419 item database\n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es_419\n"
+"Language: es\n"
 
 #. y4:file_status=untranslated
 #. y4:last_translator=sasha
+#. y4:last_reviewer=Keiner
 
 #. y4:line_status=todo
 #. y4:item_index=0
@@ -27,7 +28,8 @@ msgctxt "82282"
 msgid "　"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:item_index=1
 #. y4:item_id=money_1000yen
 #. y4:item_icon=2d_yk_money
@@ -37,7 +39,8 @@ msgctxt "19333"
 msgid "Money (1,000 Yen)"
 msgstr "Dinero (1,000 Yenes)"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 #. y4:item_index=1
 #. y4:item_id=money_1000yen
 #. y4:item_icon=2d_yk_money
@@ -3558,12 +3561,12 @@ msgid "Yamazaki 25 Years"
 msgstr "Yamazaki de 25 años"
 
 #. y4:line_status=translated
+#. y4:translated_by=sasha
 #. y4:item_index=177
 #. y4:item_id=su_yamazaki25
 #. y4:item_icon=2d_yk_su_yamazaki25
 #. y4:item_field=description
 #. y4:item_pair_context=22243
-#. y4:translated_by=sasha
 msgctxt "95442"
 msgid "A single malt whisky aged in sherry barrels for a balanced flavor."
 msgstr "Un whisky de malta envejecido en barricas de jerez para conseguir un sabor equilibrado."
@@ -3579,12 +3582,12 @@ msgid "Yamazaki 12 Years"
 msgstr "Yamazaki de 12 años"
 
 #. y4:line_status=translated
+#. y4:translated_by=sasha
 #. y4:item_index=178
 #. y4:item_id=su_yamazaki12
 #. y4:item_icon=2d_yk_su_yamazaki12
 #. y4:item_field=description
 #. y4:item_pair_context=22261
-#. y4:translated_by=sasha
 msgctxt "95509"
 msgid "A Yamazaki whisky made with carefully selected, mature malts for a flavorful, smooth finish."
 msgstr "Whisky Yamazaki elaborado con maltas cuidadosamente seleccionadas y maduradas, ofrece un final suave y sabroso."
@@ -23018,3 +23021,4 @@ msgstr "Important Dummy 250"
 msgctxt "149662"
 msgid "Important Dummy 250"
 msgstr "Important Dummy 250"
+

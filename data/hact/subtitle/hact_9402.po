@@ -17,6 +17,12 @@ msgstr ""
 "X-Crowdin-File-ID: 57146\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:runtime_kind=hact
+#. y4:runtime_resource_id=9402
+#. y4:runtime_logical_indices=30|31
+#. y4:runtime_hact_names=TNK_08_A_N|TNK_08_B_N
+#. y4:runtime_play_command=y4.play_hact <logical_index>
+
 msgctxt "45	90"
 msgid "[You're lookin' fine as ever, babe!]"
 msgstr "[¡Sigues tan guapa como siempre, nena!]"
@@ -44,4 +50,3 @@ msgstr "[Muy bien, cariño...\\n¡Este es tu final!]"
 msgctxt "730	770"
 msgid "[You no-good son of a bitch!]"
 msgstr "[¡Maldito desgraciado!]"
-

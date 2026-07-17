@@ -9,6 +9,12 @@ msgstr ""
 #. y4:file_status=translated
 #. y4:last_translator=Keiner
 #. y4:last_reviewer=Keiner
+#. y4:runtime_kind=msg
+#. y4:runtime_uid=000205C8
+#. y4:runtime_group_count=4
+#. y4:runtime_groups=0|1|2|3
+#. y4:runtime_pac_names=pac_STID_ST_SERENA.bin
+#. y4:runtime_play_command=y4.play_msg 000205C8 <group>
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
@@ -327,4 +333,3 @@ msgstr "Pensándolo bien, espera."
 msgctxt "480_Date"
 msgid "I'm sure."
 msgstr "Estoy seguro."
-

@@ -9,6 +9,12 @@ msgstr ""
 #. y4:file_status=translated
 #. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
+#. y4:runtime_kind=msg
+#. y4:runtime_uid=01830173
+#. y4:runtime_group_count=6
+#. y4:runtime_groups=0|1|2|3|4|5
+#. y4:runtime_pac_names=pac_STID_ST_FISHING.bin
+#. y4:runtime_play_command=y4.play_msg 01830173 <group>
 
 #. y4:line_status=translated
 msgctxt "292"
@@ -226,4 +232,3 @@ msgstr "Hmmm. Les gustan las cosas como el <Color:8>Calamar en Vinagre <Color:De
 msgctxt "976_Kiryu"
 msgid "Heh. You sure know your stuff. A <Color:8>Giant Crab<Color:Default>, huh? I feel like I can fish one up."
 msgstr "Heh. Sí que sabes cosas. Un <Color:8>Cangrejo Gigante<Color:Default>, ¿eh? Creo que puedo pescar uno."
-

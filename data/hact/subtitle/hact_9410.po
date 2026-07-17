@@ -17,6 +17,12 @@ msgstr ""
 "X-Crowdin-File-ID: 57148\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:runtime_kind=hact
+#. y4:runtime_resource_id=9410
+#. y4:runtime_logical_indices=29
+#. y4:runtime_hact_names=TNK_01_A
+#. y4:runtime_play_command=y4.play_hact <logical_index>
+
 msgctxt "20	85"
 msgid "Stop!"
 msgstr "¡Espera!"
@@ -28,4 +34,3 @@ msgstr "¡Devuélvemelas!"
 msgctxt "288	355"
 msgid "Thief!"
 msgstr "¡Ladrón!"
-

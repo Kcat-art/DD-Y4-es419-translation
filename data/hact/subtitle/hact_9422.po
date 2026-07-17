@@ -17,6 +17,12 @@ msgstr ""
 "X-Crowdin-File-ID: 57156\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:runtime_kind=hact
+#. y4:runtime_resource_id=9422
+#. y4:runtime_logical_indices=24
+#. y4:runtime_hact_names=TNK_02_B_N
+#. y4:runtime_play_command=y4.play_hact <logical_index>
+
 msgctxt "109	190"
 msgid "Yes. I understand."
 msgstr "Sí, entendido."
@@ -36,4 +42,3 @@ msgstr "Y ahora..."
 msgctxt "1343	1435"
 msgid "On second thought...\\nI gotta postpone."
 msgstr "Pensándolo bien...\\nTengo que posponer el encargo."
-

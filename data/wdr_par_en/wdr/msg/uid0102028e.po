@@ -8,6 +8,12 @@ msgstr ""
 
 #. y4:file_status=translated
 #. y4:last_translator=MasterCry
+#. y4:runtime_kind=msg
+#. y4:runtime_uid=0102028E
+#. y4:runtime_group_count=6
+#. y4:runtime_groups=0|1|2|3|4|5
+#. y4:runtime_pac_names=pac_STID_ST_KOMAMACHI.bin
+#. y4:runtime_play_command=y4.play_msg 0102028E <group>
 
 #. y4:line_status=translated
 msgctxt "636"
@@ -30,4 +36,3 @@ msgstr "(Aquí solía estar la oficina del clan Hatsushiba... Está cerrada con 
 msgctxt "196_Player"
 msgid "(Looks like someone's office... It's locked.)"
 msgstr "(Se ve a alguien en la oficina... Está cerrada.)"
-

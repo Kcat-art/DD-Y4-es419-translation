@@ -1,91 +1,107 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid0026041b.po\n"
-"X-Crowdin-File-ID: 58952\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=0026041B
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_MATSUYA_2.bin
-#. y4:runtime_play_command=y4.play_msg 0026041B <group>
+#. y4:file_status=translated
+#. y4:last_translator=Keiner
+#. y4:last_reviewer=Keiner
 
-
-
+#. y4:line_status=translated
 msgctxt "188"
 msgid "You got <Color:8>Large Curry Take-home Packs<Color:Default>."
 msgstr "Has obtenido un <Color:8>pack de curry para llevar<Color:Default>."
 
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "2080"
 msgid "Matsuya Staff"
-msgstr "Personal de Matsuya"
+msgstr "Empleado de Matsuya"
 
+#. y4:line_status=translated
 msgctxt "2084"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "2088"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 msgctxt "2092"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "56_Matsuya Staff"
 msgid "Hello, sir."
-msgstr "Hola, señor."
+msgstr "Bienvenido, señor."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "68_Kiryu"
 msgid "I need to get some curry."
-msgstr "Necesito conseguir un poco de curry."
+msgstr "Quiero pedir un poco de curry."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "80_Matsuya Staff"
 msgid "All right, certainly. What kind would you like?"
-msgstr "Muy bien, sin duda. ¿De qué tipo le gustaría?"
+msgstr "Muy bien, por supuesto. ¿De qué tipo le gustaría?"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "92_Kiryu"
 msgid "Can I order it to go? And if you have them, some of those packs of just the sauce would be great."
-msgstr "¿Puedo pedirlo para llevar? Y si tienen, me gustaría unos de sos paquetes que solo llevan salsa. (este dudo mucho que este correcto)."
+msgstr "¿Puedo pedirlo para llevar? Y si tienen, me gustaría unos de esos paquetes de salsa."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "104_Matsuya Staff"
 msgid "How about our Original Curry take-home packs? They are easy to prepare and can be enjoyed in the comfort of your home."
-msgstr "¿Qué le parecen nuestros packs de curry original para llevar a casa? Son fáciles de preparar y se pueden disfrutar en la comodidad de su hogar."
+msgstr "¿Qué le parecen nuestros paquetes del curry original para llevar a casa? Son fáciles de preparar y se pueden disfrutar en la comodidad de su hogar."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "116_Kiryu"
 msgid "Sounds good. Can you get me a big box of them?"
-msgstr "Suena bien. ¿Puedes conseguirme una caja grande de esos?"
+msgstr "Suena bien. ¿Tienen de esos pero en tamaño grande?"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "128_Matsuya Staff"
 msgid "Certainly. Just a moment, please."
-msgstr "Ciertamente. Un momento, por favor."
+msgstr "Claro. Un momento, por favor."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "176_Matsuya Staff"
 msgid "Here you go, sir."
 msgstr "Aqui tiene, señor."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "212_Kiryu"
 msgid "Thanks."
 msgstr "Gracias."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "224_Matsuya Staff"
 msgid "Thank you for visiting Matsuya!"
 msgstr "¡Gracias por visitar Matsuya!"
+

@@ -1,108 +1,82 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01ee05b1.po\n"
-"X-Crowdin-File-ID: 60306\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=01EE05B1
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_CLUBSEGA_02.bin
-#. y4:runtime_play_command=y4.play_msg 01EE05B1 <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
 msgctxt "2200"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=translated
 msgctxt "2204"
 msgid "Boxcelios"
 msgstr "Boxcelios"
 
+#. y4:line_status=translated
 msgctxt "2208"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "128_Player"
 msgid "(Boxcelios? Looks like an arcade shooter...)"
 msgstr "(¿Boxcelios? Parece ser un shooter arcade...)"
 
+#. y4:line_status=translated
 msgctxt "140_Boxcelios"
 msgid "Boxcelios puts you in the seat of an invincible fighter and challenges you to destroy as many enemies as possible before time runs out. Move your ship with <Action:Button_LS_Up@Shooting><Action:Button_LS_Down@Shooting><Action:Button_LS_Left@Shooting><Action:Button_LS_Right@Shooting>, and fire your laser cannons with <Action:Button_Cross@Shooting>."
 msgstr "Boxcelios te pone al comando de un caza invencible y te desafía a derrotar tantos enemigos como sea posible antes que acabe el tiempo. Mueve tu nave con <Action:Button_LS_Up@Shooting><Action:Button_LS_Down@Shooting><Action:Button_LS_Left@Shooting><Action:Button_LS_Right@Shooting>, y dispara tus cañones láser con <Action:Button_Cross@Shooting>."
 
+#. y4:line_status=translated
 msgctxt "152_Boxcelios"
 msgid "Shoot and destroy either the glowing core or the majority of enemy ships to take them down."
 msgstr "Dispara y destruye el núcleo brillante o la mayoría de las naves enemigas para acabar con ellas."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "164_Boxcelios"
 msgid "Time stands still for two seconds after an enemy appears. Use this time to aim for the enemy's core for maximum efficiency."
-msgstr ""
+msgstr "El tiempo se para dos segundos cuando aparece un enemigo. Dispara en el núcleo del enemigo para su máxima eficiencia."
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
+#. y4:line_status=translated
 msgctxt "176_Player"
 msgid "(Only 100 yen for one game of Boxcelios. Do I feel like blasting aliens?)"
 msgstr "(Solo 100 yenes por una partida de Boxcelios. ¿Estoy listo para acabar con naves alienígenas?)"
 
+#. y4:line_status=translated
 msgctxt "200_Player"
 msgid "(All right, let's do this.)"
 msgstr "(Muy bien, empecemos.)"
 
+#. y4:line_status=translated
 msgctxt "224_Player"
 msgid "(I don't have enough money...)"
 msgstr "(No tengo suficiente dinero...)."
 
+#. y4:line_status=translated
 msgctxt "236_Player"
 msgid "(Maybe later.)"
 msgstr "(Tal vez más tarde)."
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P6
+#. y4:line_status=translated
 msgctxt "248_Player"
 msgid "Play"
 msgstr "Jugar"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T0.P1
+#. y4:line_status=translated
 msgctxt "260_Player"
 msgid "Read the Instructions"
 msgstr "Leer las instrucciones"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P10
+#. y4:line_status=translated
 msgctxt "272_Player"
 msgid "Don't Play"
 msgstr "No jugar"
+

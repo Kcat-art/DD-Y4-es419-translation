@@ -7,13 +7,8 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00EE005C
-#. y4:runtime_group_count=6
-#. y4:runtime_groups=0|1|2|3|4|5
-#. y4:runtime_pac_names=pac_STID_ST_RAMEN.bin
-#. y4:runtime_play_command=y4.play_msg 00EE005C <group>
 
 #. y4:line_status=translated
 msgctxt "772"
@@ -61,8 +56,6 @@ msgid "The owner of Kyushu No. 1 Star is now your ally."
 msgstr "El dueño del Kyushu Estrella N° 1 ahora es tu aliado."
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "18912"
 msgid "Owner of Kyushu No. 1 Star"
 msgstr "Dueño del Kyushu Estrella N° 1"
@@ -73,8 +66,6 @@ msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
 msgctxt "18920"
 msgid "Haruka"
 msgstr "Haruka"
@@ -86,8 +77,6 @@ msgid "Talk_Request"
 msgstr "Talk_Request"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=4
 msgctxt "18928"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -129,8 +118,6 @@ msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=12
 msgctxt "18960"
 msgid "Player"
 msgstr "Player"
@@ -250,10 +237,11 @@ msgctxt "1168_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "1228_Owner of Kyushu No. 1 Star"
 msgid "Hey, Kiryu-san. Welcome."
-msgstr ""
+msgstr "Kiryu-san. Bienvenido."
 
 #. y4:line_status=todo
 msgctxt "1240_Owner of Kyushu No. 1 Star"
@@ -424,3 +412,4 @@ msgstr ""
 msgctxt "1780_Player"
 msgid "(Ramen chock full of collagen... Bet the girls at the hostess club would want to know about this.)"
 msgstr ""
+

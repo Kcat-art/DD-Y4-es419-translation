@@ -8,16 +8,8 @@ msgstr ""
 
 #. y4:file_status=untranslated
 #. y4:last_translator=MasterCry
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=010205C4
-#. y4:runtime_group_count=3
-#. y4:runtime_groups=0|1|2
-#. y4:runtime_pac_names=pac_STID_ST_SERENA.bin
-#. y4:runtime_play_command=y4.play_msg 010205C4 <group>
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "20036"
 msgid "Akiyama"
 msgstr "Akiyama"
@@ -28,8 +20,6 @@ msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
 msgctxt "20044"
 msgid "Date"
 msgstr "Date"
@@ -40,8 +30,6 @@ msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=4
 msgctxt "20052"
 msgid "Tanimura"
 msgstr "Tanimura"
@@ -52,8 +40,6 @@ msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=6
 msgctxt "20060"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -69,8 +55,6 @@ msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=9
 msgctxt "20072"
 msgid "Saejima"
 msgstr "Saejima"
@@ -81,8 +65,6 @@ msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=11
 msgctxt "20080"
 msgid "Haruka"
 msgstr "Haruka"
@@ -451,40 +433,47 @@ msgctxt "628_Haruka"
 msgid "......"
 msgstr "......"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "640_Kiryu"
 msgid "All right, I understand. Thanks for being there in his final\\r\nmoments, Haruka."
-msgstr ""
-
-#. y4:line_status=todo
-msgctxt "652_Haruka"
-msgid "You don't have to thank me for that. And hey... Uncle Kaz?"
-msgstr ""
+msgstr "Bien, ya veo. Gracias por estar en su momento\\r\nfinal, Haruka."
 
 #. y4:line_status=translated
+#. y4:translated_by=MasterCry
+msgctxt "652_Haruka"
+msgid "You don't have to thank me for that. And hey... Uncle Kaz?"
+msgstr "No tienes que agradecerme por eso. Y... ¿Tío Kaz?"
+
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "664_Kiryu"
 msgid "Hm? What is it?"
-msgstr "¿Qué? ¿Qué es esto?"
+msgstr "¿Hmm? ¿Si?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "676_Haruka"
 msgid "Hamazaki-san died protecting you, didn't he?"
-msgstr ""
+msgstr "Hamazaki-san murió protegiéndote, ¿no es así?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "688_Kiryu"
 msgid "...Yeah, it seems like it. He sacrificed his life for us."
-msgstr ""
+msgstr "…Así es, si lo quieres ver así. Él sacrificó su vida por nosotros."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "700_Haruka"
 msgid "Then... I wish I could tell him how sorry I am. I was so\\r\nwrong about him."
-msgstr ""
+msgstr "Entonces... Quisiera poder decirle cuánto lo siento.\\r\nEstaba muy equivocada sobre él."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "712_Kiryu"
 msgid "It's okay, Haruka."
-msgstr ""
+msgstr "Está bien, Haruka."
 
 #. y4:line_status=todo
 msgctxt "724_Haruka"
@@ -635,3 +624,4 @@ msgstr "Me importa una mierda. Haz lo que quieras\\r\nMe da igual"
 msgctxt "1192_Saejima"
 msgid "...I ain't goin' nowhere. Just gonna go get some fresh air."
 msgstr "... No voy a ningún lado. Solo quiero ir a tomar aire fresco."
+

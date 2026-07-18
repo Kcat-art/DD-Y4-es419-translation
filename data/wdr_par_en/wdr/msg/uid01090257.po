@@ -1,67 +1,58 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01090257.po\n"
-"X-Crowdin-File-ID: 59676\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=01090257
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 01090257 <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
+#. y4:line_status=translated
 msgctxt "1236"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=translated
 msgctxt "1240"
 msgid "Noa"
 msgstr "Noa"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=translated
 msgctxt "1244"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "1248"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
+#. y4:line_status=translated
 msgctxt "1252"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "92_Noa"
 msgid "Akiyama-san! I'm in a huge mess... You've got to help me!"
-msgstr ""
+msgstr "¡Akiyama-san! Estoy en problemas... Ayúdame, por favor."
 
+#. y4:line_status=translated
 msgctxt "104_Akiyama"
 msgid "Noa, is that you? Slow down! What happened?"
 msgstr "Noa, ¿eres tú? ¡Tranquila! ¿Qué ha pasado?"
 
+#. y4:line_status=translated
 msgctxt "116_Noa"
 msgid "My stalkers, they－ It's terrible! Just get here as soon as you can! I'm in the underground mall!"
 msgstr "Mis acosadores, ellos... ¡Es terrible! ¡Venga aquí tan pronto como pueda! ¡Estoy en el centro comercial subterráneo!"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "128_Akiyama"
 msgid "The underground mall? Okay. I'm on my way."
-msgstr ""
+msgstr "¿En el centro comercial subterráneo? Bien. Estoy en camino."
+

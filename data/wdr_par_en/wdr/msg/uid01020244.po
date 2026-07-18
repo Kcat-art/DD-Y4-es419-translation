@@ -1,49 +1,39 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01020244.po\n"
-"X-Crowdin-File-ID: 59232\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=01020244
-#. y4:runtime_group_count=4
-#. y4:runtime_groups=0|1|2|3
-#. y4:runtime_pac_names=pac_STID_ST_GESUI02.bin
-#. y4:runtime_play_command=y4.play_msg 01020244 <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
+#. y4:line_status=translated
 msgctxt "752"
 msgid "P_sae_stand_tlk_hashigo"
 msgstr "P_sae_stand_tlk_hashigo"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=translated
 msgctxt "756"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "128_Player"
 msgid "(I don't got time to go back right now. I need to keep goin' and meet the info dealer.)"
-msgstr ""
+msgstr "(No tengo tiempo para volver ahora. Necesito seguir y reunirme con el informante.)"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "140_Player"
 msgid "(There's a manhole exit here... No need to lift up the heavy lid and get out of here.)"
-msgstr ""
+msgstr "(Una salida de alcantarilla... No hace falta levantar la pesada tapa para salir de aquí)."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "152_Player"
 msgid "(The manhole lid's in the way and I can't go any further...)"
-msgstr ""
+msgstr "(La tapa de la alcantarilla me impide el paso; no puedo ir por aquí)."
+

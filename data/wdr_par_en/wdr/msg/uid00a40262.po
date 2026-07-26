@@ -1,176 +1,193 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a40262.po\n"
-"X-Crowdin-File-ID: 60880\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00A40262
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 00A40262 <group>
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Keiner
+#. y4:last_translator=Keiner
+#. y4:last_reviewer=Keiner
 
-
-
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "320"
 msgid "Scored one lead!"
-msgstr "¡Obtuviste un número de teléfono!"
+msgstr "¡Obtén números de teléfono!"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "3664"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "3668"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "3672"
 msgid "Girl du Jour"
 msgstr "Chica casual"
 
+#. y4:line_status=translated
 msgctxt "3676"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:line_status=translated
 msgctxt "3680"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=translated
 msgctxt "3684"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 msgctxt "3688"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
+#. y4:line_status=translated
 msgctxt "3692"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 msgctxt "3696"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "3700"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "3704"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "3708"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "3712"
 msgid "Talk_Mail_st"
 msgstr "Talk_Mail_st"
 
+#. y4:line_status=translated
 msgctxt "3716"
 msgid "Talk_Mail_ed"
 msgstr "Talk_Mail_ed"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "128_Akiyama"
 msgid "Hi! I'm a scout for a hostess club. Do you have a second?"
 msgstr "¡Mucho gusto! Trabajo como cazatalentos en un club de hostess. ¿Puedo hablar con usted un segundo?"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "140_Girl du Jour"
 msgid "Huh? Why would you want to talk to me?"
 msgstr "¿Eh? ¿Por qué quiere hablar conmigo?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "152_Akiyama"
 msgid "You kind of looked like you needed money."
 msgstr "¡Porque parece que necesita dinero urgentemente!"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "164_Girl du Jour"
 msgid "You jerk! Mind your own business!"
 msgstr "¡Imbécil! ¡Ocúpate de tus propios asuntos!"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "176_Akiyama"
 msgid "Sorry! I was just kidding..."
 msgstr "¡Uy, perdona! ¡Estaba jugando!"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "188_Girl du Jour"
 msgid "Hmph! Leave me alone!"
 msgstr "¡Ugh! ¡Déjame en paz!"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "200_Akiyama"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "248_Akiyama"
-msgid "Because you're cute! Got to be cute if you want to be a\\r\n"
-"hostess."
-msgstr "¡Porque eres un encanto! Eres perfecta para\\r\n"
-"ser hostess."
+msgid "Because you're cute! Got to be cute if you want to be a\\r\nhostess."
+msgstr "¡Porque eres un encanto! Eres perfecta para\nser hostess."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "260_Girl du Jour"
 msgid "Oh, uh, I see..."
 msgstr "Oh, um, ya veo..."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "272_Akiyama"
-msgid "That's right! So what do you think? It's not easy work, but\\r\n"
-"it's good work if you give it your all."
-msgstr "¿Qué opina? No es un trabajo que se tome a la ligera,\\r\n"
-"¡pero es perfecto si se esfuerza al máximo!"
+msgid "That's right! So what do you think? It's not easy work, but\\r\nit's good work if you give it your all."
+msgstr "¿Qué opina? No es un trabajo que se tome a la ligera,\n¡pero es perfecto si se esfuerza al máximo!"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "284_Girl du Jour"
 msgid "Hmm... Could you maybe tell me more?"
 msgstr "Oh... ¿Le importaría contarme más al respecto?"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "296_Akiyama"
-msgid "Of course! Just leave me your cell number, and I'll be in\\r\n"
-"touch."
-msgstr "No hay problema! Solo deme su número de teléfono y\\r\n"
-"me pondré en contacto con usted."
+msgid "Of course! Just leave me your cell number, and I'll be in\\r\ntouch."
+msgstr "No hay problema! Solo deme su número de teléfono y\nme pondré en contacto con usted."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "308_Girl du Jour"
 msgid "Okay, sure. And thank you."
 msgstr "Me parece bien, yo encantada."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "332_Akiyama"
 msgid "Talk to you later!"
 msgstr "¡Muchas gracias!"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P2
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "380_Akiyama"
 msgid "You looked like you needed money."
 msgstr "Parece que necesita dinero urgentemente."
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P10
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "392_Akiyama"
 msgid "You're cute."
-msgstr " Porque eres un encanto."
+msgstr "Porque eres un encanto."
+

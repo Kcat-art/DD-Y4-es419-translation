@@ -1,80 +1,68 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00090578.po\n"
-"X-Crowdin-File-ID: 60190\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00090578
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 00090578 <group>
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Keiner
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "1268"
 msgid "Tanimura"
 msgstr "Tanimura"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "1272"
 msgid "Student"
 msgstr "Estudiante"
 
+#. y4:line_status=translated
 msgctxt "1276"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "1280"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=todo
 msgctxt "84_Tanimura"
-msgid "Hey, did you mention a Mr. Try and Hit Me? Who or\\r\n"
-"what is that?"
+msgid "Hey, did you mention a Mr. Try and Hit Me? Who or\\r\nwhat is that?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "96_Student"
 msgid "Yeah, I was just talking about him."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "108_Student"
-msgid "He first showed up in Kamurocho about four or\\r\n"
-"five years ago. He goes around offering prize\\r\n"
-"money to anyone who can land a punch on him."
+msgid "He first showed up in Kamurocho about four or\\r\nfive years ago. He goes around offering prize\\r\nmoney to anyone who can land a punch on him."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "120_Tanimura"
 msgid "Wow. Is he really that good?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "132_Student"
-msgid "I've never seen the guy lose. But I've heard\\r\n"
-"he's been beaten a few times, and it's always\\r\n"
-"by the same person."
+msgid "I've never seen the guy lose. But I've heard\\r\nhe's been beaten a few times, and it's always\\r\nby the same person."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "144_Tanimura"
 msgid "Hmm..."
 msgstr "Mmm..."
 
+#. y4:line_status=todo
 msgctxt "156_Tanimura"
 msgid "(I wonder if this Mr. Try and Hit Me is the Iida guy I'm looking for.)"
 msgstr ""
+

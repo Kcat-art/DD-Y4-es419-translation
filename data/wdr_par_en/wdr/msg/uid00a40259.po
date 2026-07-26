@@ -1,219 +1,268 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a40259.po\n"
-"X-Crowdin-File-ID: 59830\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00A40259
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 00A40259 <group>
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Keiner
+#. y4:last_translator=Keiner
+#. y4:last_reviewer=Keiner
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "7512"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "7516"
 msgid "Lame Scout"
 msgstr "Cazatalentos cansado"
 
+#. y4:line_status=translated
 msgctxt "7520"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "7524"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "7528"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "7532"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:line_status=translated
 msgctxt "7536"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "7540"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "7544"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:line_status=translated
 msgctxt "7548"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:line_status=translated
 msgctxt "7552"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:line_status=translated
 msgctxt "7556"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "84_Akiyama"
 msgid "(Hey, isn't that our scout?)"
-msgstr "(Hey, ¿ese de ahí no es nuestro querido cazatalentos?)."
+msgstr "(Eh, ¿ese de ahí no es nuestro querido cazatalentos?)."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "120_Akiyama"
 msgid "Working hard? Don't be slacking off, now."
-msgstr "¿Holgazaneando ahora? Hay trabajo por hacer, no te pongas a descansar."
+msgstr "¿Descansando en horas laborales? Hay trabajo por hacer, rápido."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "144_Lame Scout"
 msgid "Oh, hey there, boss."
-msgstr "Oh... ¡Hola, jefe!"
+msgstr "Ah... ¡Jefe!"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "156_Akiyama"
-msgid "Don't \"hey there, boss\" me. All these girls walking by...\\r\n"
-"You've got to talk to them."
-msgstr "¡Nada de “hola jefe”! Hay muchas mujeres pasando por\\r\n"
-"estas calles... Tu trabajo es hablar con ellas."
+msgid "Don't \"hey there, boss\" me. All these girls walking by...\\r\nYou've got to talk to them."
+msgstr "¡Nada de “jefe”! Hay mucho talento por descubrir pasando por estas calles... Tienes trabajo que hacer."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "180_Akiyama"
 msgid "Like that one!"
 msgstr "¡Mira, esa de allí!"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "192_Akiyama"
 msgid "...Aw, some other club got her."
-msgstr "... Vaya, parece que otro club se nos adelantó."
+msgstr "Parece que otro club se nos adelantó."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "204_Lame Scout"
 msgid "I'm just not cut out for this job."
 msgstr "¡Yo no sirvo para este trabajo!"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "216_Akiyama"
-msgid "What, quitting already? It's your choice to make, but you're\\r\n"
-"being a little hasty, don't you think?"
-msgstr "¿Ya estás pensando en renunciar? No te detendré, pero\\r\n"
-"parece que estás siendo algo apresurado, ¿no?"
+msgid "What, quitting already? It's your choice to make, but you're\\r\nbeing a little hasty, don't you think?"
+msgstr "¿Vas a renunciar? No te diré que no, pero parece que es una decisión impulsiva, ¿no?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "240_Lame Scout"
 msgid "It's just that nothing's going right."
 msgstr "La verdad es que nada me sale bien."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "252_Lame Scout"
-msgid "I call out to some girl and she either glares at me or\\r\n"
-"ignores me altogether. I'm starting to get a complex here."
-msgstr "Cada vez que le hablo a una mujer y ella me mira extraño\\r\n"
-"o de plano me ignora... Me pongo nervioso."
+msgid "I call out to some girl and she either glares at me or\\r\nignores me altogether. I'm starting to get a complex here."
+msgstr "Cada vez que le hablo a una mujer, me mira extraño\no de plano me ignora... Me pongo nervioso."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "264_Akiyama"
-msgid "It sounds like you talked to a lot of girls. How many leads\\r\n"
-"did you get today?"
-msgstr "Vaya, suena como si hubieras hablado con muchas mujeres.\\r\n"
-"¿Hubo suerte con algunas?"
+msgid "It sounds like you talked to a lot of girls. How many leads\\r\ndid you get today?"
+msgstr "Vaya, suena como si hubieras hablado con muchas mujeres.\n¿Hubo suerte con algunas?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "276_Lame Scout"
 msgid "Leads?"
 msgstr "¿“Suerte”?"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "288_Akiyama"
-msgid "C'mon, you know. How many phone numbers did you get? How\\r\n"
-"many girls?"
-msgstr "¡Sabes a qué me refiero! ¿Cuántas te pasaron su número de teléfono?\\r\n"
-"¿Fueron muchas chicas?"
+msgid "C'mon, you know. How many phone numbers did you get? How\\r\nmany girls?"
+msgstr "¡Sabes a qué me refiero! ¿Cuántas te pasaron su número de teléfono?\n¿Fueron muchas?"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "300_Lame Scout"
 msgid "One."
-msgstr "Solo fue una."
+msgstr "Solo una."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "312_Akiyama"
-msgid "You've got to be kidding! I'll be living off bread crusts\\r\n"
-"and water at this rate."
-msgstr "¡Tienes que estar de broma! A este ritmo, solo voy a tener\\r\n"
-"pan con agua para comer."
+msgid "You've got to be kidding! I'll be living off bread crusts\\r\nand water at this rate."
+msgstr "¡Tienes que estar de broma! A este ritmo tendré que comer pan con agua."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "324_Lame Scout"
-msgid "I'm not too happy about it myself, you know. I wish there\\r\n"
-"were an easier way to make money."
-msgstr "¡Yo tampoco me lo creo! Si tan solo hubiera una forma más fácil\\r\n"
-"de ganar dinero."
+msgid "I'm not too happy about it myself, you know. I wish there\\r\nwere an easier way to make money."
+msgstr "¡Yo tampoco me lo creo! Si tan solo hubiera una forma más fácil\nde ganar dinero."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "336_Akiyama"
-msgid "Well, I think I can understand how you feel... Just how are\\r\n"
-"you calling out to these girls anyway?"
-msgstr "Bueno, creo que sé cómo te sientes... ¿Puedes decirme cómo\\r\n"
-"le hablabas a las mujeres?"
+msgid "Well, I think I can understand how you feel... Just how are\\r\nyou calling out to these girls anyway?"
+msgstr "Bueno, creo que sé cómo te sientes... ¿Puedes decirme cómo te les acercabas a las mujeres?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "348_Lame Scout"
 msgid "How? Like, normally. \"Hey, wanna be a hostess?\" Like that."
 msgstr "¿Cómo? Pues, normal: “¡Hola! ¿Te gustaría ser hostess?”."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "360_Akiyama"
 msgid "Hmm. Then what? What if she says she's not interested?"
-msgstr "Hmm, ¿y qué les dices si no están interesadas?"
+msgstr "Mmm, ¿y qué les dices si no están interesadas?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "372_Lame Scout"
 msgid "I say, \"Aw, c'mon, why not? Give it a shot.\""
 msgstr "Les digo: “Vamos, ¿por qué no? ¡Inténtalo!”"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "384_Akiyama"
 msgid "...I don't blame them for giving you the stink eye."
-msgstr "... Creo que ya sé cual es el problema."
+msgstr "Creo que ya sé cual es el problema."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "396_Akiyama"
-msgid "Maybe it was fate I saw you here today. I'll give you some\\r\n"
-"basic lessons in scouting. Whether you learn anything is up\\r\n"
-"to you."
-msgstr "Parece que el destino nos llamó. Tendré que darte unas clases\\r\n"
-"de como ser un cazatalentos."
+msgid "Maybe it was fate I saw you here today. I'll give you some\\r\nbasic lessons in scouting. Whether you learn anything is up\\r\nto you."
+msgstr "Parece que el destino nos llamó. Tendré que darte unas clases\nde como ser un cazatalentos."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "408_Lame Scout"
 msgid "Huh? You mean you can scout, boss?"
 msgstr "¿Eh? ¿Usted sabe cómo ser un cazatalentos, jefe?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "420_Akiyama"
-msgid "What kind of idiot do you take me for? I tried my hand at\\r\n"
-"all kinds of hostess club jobs before I came to own one\\r\n"
-"myself."
+msgid "What kind of idiot do you take me for? I tried my hand at\\r\nall kinds of hostess club jobs before I came to own one\\r\nmyself."
 msgstr "¿Por quién me tomas? Trabajé en muchos clubs antes de ser dueño de uno."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "432_Lame Scout"
 msgid "Wow. You sure don't mess around."
-msgstr "¡Woah! ¡Usted sí que se lo toma en serio!"
+msgstr "¡Vaya! ¡Usted sí que se lo toma en serio!"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "444_Akiyama"
-msgid "Not when it comes to work, anyway; that's the trick to\\r\n"
-"getting rich. Now it's time for you to take that first step.\\r\n"
-"Come with me."
-msgstr "Solo si se trata de trabajar, ese es el secreto para hacerse rico.\\r\n"
-"Ahora, es tu turno de dar el primer paso. Ven conmigo."
+msgid "Not when it comes to work, anyway; that's the trick to\\r\ngetting rich. Now it's time for you to take that first step.\\r\nCome with me."
+msgstr "Solo si se trata de trabajar, ese es el secreto para hacerse rico.\nAhora, es tu turno de dar el primer paso. Ven conmigo."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "480_Lame Scout"
 msgid "Aw, do I have to?"
 msgstr "Agh, ¿esto es necesario?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "492_Akiyama"
 msgid "Yep. Now, get movin'!"
 msgstr "Claro que sí. ¡Andando!"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "504_Lame Scout"
 msgid "Seriously? What a drag..."
-msgstr "¿En serio? Qué remedio..."
+msgstr "¿En serio? Agh..."
+

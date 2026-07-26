@@ -1,82 +1,85 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a40260.po\n"
-"X-Crowdin-File-ID: 58402\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00A40260
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 00A40260 <group>
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Keiner
+#. y4:last_translator=Keiner
+#. y4:last_reviewer=Keiner
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "1392"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "1396"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "1400"
 msgid "Asian Woman"
 msgstr "Mujer asiática"
 
+#. y4:line_status=translated
 msgctxt "1404"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "1408"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "1412"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "84_Akiyama"
 msgid "Hi! I'm a scout for a hostess club."
-msgstr "Mucho gusto, trabajo como cazatalentos en un club de hostess.\\r\n"
-"¿Está interesada?"
+msgstr "Mucho gusto, trabajo como cazatalentos en un club de hostess.\n¿Está interesada?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "96_Asian Woman"
 msgid "?"
 msgstr "¿?"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "108_Akiyama"
-msgid "I'm a scout. For a hostess club. Any chance you'd be\\r\n"
-"interested in that kind of work?"
-msgstr "Soy cazatalentos en un club de hostess.\\r\n"
-"¿Le gustaría trabajar con nosotros?"
+msgid "I'm a scout. For a hostess club. Any chance you'd be\\r\ninterested in that kind of work?"
+msgstr "Soy cazatalentos en un club de hostess.\n¿Le gustaría trabajar con nosotros?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "120_Asian Woman"
 msgid "*speaking foreign language*"
 msgstr "对不起，我不会说日语"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Keiner
 msgctxt "132_Akiyama"
 msgid "(Oops. Shouldn't have assumed she speaks Japanese...)"
 msgstr "(Ay, creo que ella no habla japonés...)."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Keiner
+#. y4:reviewed_by=Keiner
 msgctxt "144_Akiyama"
 msgid "Sorry to bother you! Goodbye!"
-msgstr "¡Perdón por interrumpirla! ¡Cuidese!"
+msgstr "¡Perdón por interrumpirla! ¡Cuídese!"
+

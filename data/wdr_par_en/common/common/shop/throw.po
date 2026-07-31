@@ -1,43 +1,51 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/common/common/shop/throw.po\n"
-"X-Crowdin-File-ID: 75481\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=reviewed
+#. y4:reviewed_by=KeyBlueG
+#. y4:last_translator=KeyBlueG
+#. y4:last_reviewer=KeyBlueG
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=KeyBlueG
 msgctxt "8"
 msgid "Cancel"
 msgstr "Cancelar"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=KeyBlueG
 msgctxt "12"
 msgid "Don't discard the item."
 msgstr "No descartar el objeto."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=KeyBlueG
 msgctxt "16"
 msgid "Discard"
 msgstr "Descartar"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=KeyBlueG
 msgctxt "20"
 msgid "Discard the item."
 msgstr "Descartar el objeto."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=KeyBlueG
+#. y4:reviewed_by=KeyBlueG
 msgctxt "24"
 msgid "(I can't carry any more stuff... Better toss something.)"
-msgstr "(No puedo llevar más cosas... Mejor tiro algo)."
+msgstr "(No puedo llevar más cosas... Será mejor que tire algo)."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=KeyBlueG
+#. y4:reviewed_by=KeyBlueG
 msgctxt "28"
 msgid "Are you sure you want to discard this?"
-msgstr "¿Está seguro de que quieres descartar esto?"
+msgstr "¿Seguro que quieres descartar esto?"
 

@@ -9,15 +9,15 @@ Repositorio para la traducción de **Yakuza 4 Remastered** de [Dragones de Dojim
 <!-- PROGRESS_SECTION_START -->
 ## Progreso del proyecto
 
-**Progreso global:** 46,05%
+**Progreso global:** 46,09%
 
 **Traducción global:** 91806/104382 (87,95%)
-**Revisión global:** 4326/104382 (4,14%)
+**Revisión global:** 4403/104382 (4,22%)
 
 | Área | Traducción | Revisión |
 |---|---:|---:|
 | Diálogos | 63238/75753 (83,48%) | 1696/75753 (2,24%) |
-| Cinemáticas | 3162/3162 (100,00%) | 1191/3162 (37,67%) |
+| Cinemáticas | 3162/3162 (100,00%) | 1268/3162 (40,10%) |
 <!-- PROGRESS_SECTION_END -->
 
 # Paso 0: Obtener el token de acceso

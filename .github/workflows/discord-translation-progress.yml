@@ -2,13 +2,14 @@ name: Discord translation progress
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
     paths:
-      - "**/*.po"
-      - "scripts/discord_translation_report.py"
-      - "tools/progress/build_progress_assets.py"
-      - ".github/workflows/discord-translation-progress.yml"
+      - '**/*.po'
+      - 'texturas/traducidas/**/*.dds'
+      - 'texturas/progreso.json'
+      - 'scripts/discord_translation_report.py'
+      - 'tools/progress/build_progress_assets.py'
+      - '.github/workflows/discord-translation-progress.yml'
 
 permissions:
   contents: read
@@ -20,27 +21,17 @@ concurrency:
 jobs:
   discord-report:
     runs-on: ubuntu-latest
-
     if: github.actor != 'github-actions[bot]'
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
-
-      - name: Install dependencies
-        run: python -m pip install pillow
-
-      - name: Build progress assets
-        run: python tools/progress/build_progress_assets.py
-
-      - name: Send Discord translation report
+          python-version: '3.x'
+      - run: python -m pip install pillow
+      - run: python tools/progress/build_progress_assets.py
+      - name: Send Discord report
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_TRANSLATION_WEBHOOK }}
           BEFORE_SHA: ${{ github.event.before }}

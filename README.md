@@ -6,13 +6,14 @@ Repositorio para la traducción de **Yakuza 4 Remastered** de [Dragones de Dojim
 ![Progreso global](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Kcat-art/DD-Y4-es419-translation/main/assets/progress/global_badge.json)
 ![Traducción](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Kcat-art/DD-Y4-es419-translation/main/assets/progress/translation_badge.json)
 ![Revisión](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Kcat-art/DD-Y4-es419-translation/main/assets/progress/review_badge.json)
+![Texturas](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Kcat-art/DD-Y4-es419-translation/main/assets/progress/texture_badge.json)
 <!-- PROGRESS_SECTION_START -->
 ## Progreso del proyecto
 
-**Progreso global:** 46,14%
+**Progreso global:** 46,15%
 
 **Traducción global:** 91806/104382 (87,95%)
-**Revisión global:** 4527/104382 (4,34%)
+**Revisión global:** 4534/104382 (4,34%)
 
 | Área | Traducción | Revisión |
 |---|---:|---:|

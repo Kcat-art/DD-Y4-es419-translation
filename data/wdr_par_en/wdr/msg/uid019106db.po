@@ -1,125 +1,129 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid019106db.po\n"
-"X-Crowdin-File-ID: 62004\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=019106DB
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 019106DB <group>
+#. y4:file_status=untranslated
+#. y4:last_translator=Kcat0
 
-
-
+#. y4:line_status=translated
 msgctxt "2792"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=translated
 msgctxt "2796"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 msgctxt "2800"
 msgid "Talk_Phone_yes"
 msgstr "Talk_Phone_yes"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=3
+#. y4:line_status=translated
 msgctxt "2804"
 msgid "???"
 msgstr "???"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=4
+#. y4:line_status=todo
 msgctxt "2808"
 msgid "Purple Killers Boss"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "2812"
 msgid "Talk_Phone_no"
 msgstr "Talk_Phone_no"
 
+#. y4:line_status=translated
 msgctxt "2816"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
+#. y4:line_status=translated
 msgctxt "2820"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "92_Kiryu"
 msgid "Who are you?"
 msgstr "¿Quién eres?"
 
+#. y4:line_status=todo
 msgctxt "104_???"
 msgid "I'm with the Purple Killers."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "116_???"
 msgid "I hear you've been having some fun with my men."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "128_Kiryu"
 msgid "I take it you're the boss? Just what are you planning, anyway?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "140_Purple Killers Boss"
 msgid "Oh, I was just thinking about all the things I could do to you."
 msgstr "Oh, Estaba pensando en todas las cosas que podría hacerte."
 
+#. y4:line_status=todo
 msgctxt "152_Kiryu"
 msgid "Save your delusional fantasies for later. Let's settle this once and for all. My questions can wait till after I kick your ass."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "164_Purple Killers Boss"
 msgid "Well. You're rather bullheaded, aren't you?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "176_Purple Killers Boss"
 msgid "I've seen many who run in fear from a killer, but running towards one is something new."
 msgstr ""
 
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 msgctxt "188_Purple Killers Boss"
 msgid "You're not even going to bother asking how I got your phone number?"
-msgstr ""
+msgstr "mkomjknkn"
 
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 msgctxt "200_Purple Killers Boss"
 msgid "I'm rather excited about this."
-msgstr ""
+msgstr "fdsfds"
 
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 msgctxt "212_Purple Killers Boss"
 msgid "I'll tell you what. How about we meet at the bowling alley?"
-msgstr ""
+msgstr "fdfddf"
 
+#. y4:line_status=todo
 msgctxt "224_Kiryu"
 msgid "The bowling alley? Got it."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "236_Purple Killers Boss"
 msgid "Just watch yourself. My men have been ordered to kill you on sight."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "248_Purple Killers Boss"
 msgid "Careful you don't end up in a ditch on the way over here!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "260_Kiryu"
 msgid "Hmph. You wish."
 msgstr ""
+

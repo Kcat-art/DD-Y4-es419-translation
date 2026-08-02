@@ -1,11 +1,15 @@
 {
-  "version": 1,
+  "version": 2,
   "source_root": "texturas/original",
-  "total": 1649,
-  "completed": 2,
-  "translated": 2,
+  "duplicate_strategy": "sha256_exact_file",
+  "total": 0,
+  "physical_total": 0,
+  "duplicate_files": 0,
+  "duplicate_groups": 0,
+  "completed": 0,
+  "translated": 0,
   "no_translation_needed": 0,
-  "pending": 1647,
-  "progress_percent": 0.12,
+  "pending": 0,
+  "progress_percent": 0.00,
   "no_translation_needed_paths": []
 }

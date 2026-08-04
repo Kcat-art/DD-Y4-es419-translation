@@ -275,7 +275,7 @@ Proyecto de traducción realizado por **Dragones de Dojima**.
 
 ## Edición gráfica
 
-- Crazy56
+- [Crazy56](https://github.com/CrazyM56)
 
 ## Revisores
 

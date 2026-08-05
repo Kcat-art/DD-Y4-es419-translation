@@ -1,63 +1,54 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00130200.po\n"
-"X-Crowdin-File-ID: 59346\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00130200
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 00130200 <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
 msgctxt "680"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "684"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=translated
 msgctxt "688"
 msgid "Officer"
 msgstr "Oficial"
 
+#. y4:line_status=translated
 msgctxt "692"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "696"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "84_Tanimura"
 msgid "Someone's threatening suicide?"
-msgstr ""
+msgstr "¿Alguien está tratando de suicidarse?"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "96_Officer"
 msgid "That's right. There's a man on the roof that says he's going to jump."
-msgstr ""
+msgstr "Así es. Aquel hombre en la terraza dice que va a saltar."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "108_Tanimura"
 msgid "We can't have him disturbing the peace like this. Let's get him down from there."
-msgstr ""
+msgstr "No podemos dejar que perturbe la paz de esa manera. Bajémoslo de allí."
+

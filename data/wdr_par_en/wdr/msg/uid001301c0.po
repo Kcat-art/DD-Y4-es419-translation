@@ -6,14 +6,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=001301C0
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 001301C0 <group>
 
 #. y4:line_status=translated
 msgctxt "368"
@@ -21,8 +16,6 @@ msgid "You got <Color:8>5,000 yen<Color:Default>."
 msgstr "Obtuviste <Color:8>5 000 yenes<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "5152"
 msgid "Yakuza"
 msgstr "Yakuza"
@@ -33,8 +26,6 @@ msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
 msgctxt "5160"
 msgid "Owner"
 msgstr "Propietario"
@@ -45,8 +36,6 @@ msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=4
 msgctxt "5168"
 msgid "Tanimura"
 msgstr "Tanimura"
@@ -87,10 +76,11 @@ msgctxt "5196"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "128_Yakuza"
 msgid "Better pay that protection money now! You stiff me and I'll bust up your shop!"
-msgstr ""
+msgstr "¡Mejor que pagues la protección ahora! ¡Si no, te voy a destrozar la tienda!"
 
 #. y4:line_status=translated
 msgctxt "140_Owner"
@@ -98,9 +88,6 @@ msgid "Where do you expect me to get five million yen on such short notice!?"
 msgstr "¿¡Dónde esperas que consiga cinco millones de yenes con tan poca antelación!?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
 msgctxt "152_Tanimura"
 msgid "(Great, a shady brothel and a yakuza who looks like a complete moron...)"
 msgstr "(Genial, un sospechoso burdel y un yakuza que parece un completo idiota...)"
@@ -166,23 +153,12 @@ msgid "Uh, heheh... Maybe you're right about that. Here, take this."
 msgstr "Uh, jejeje... Quizá tenías razón sobre eso. Toma, ten esto."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P3
 msgctxt "440_Yakuza"
 msgid "Use Your Fists"
 msgstr "Usa tus puños"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P6
 msgctxt "452_Yakuza"
 msgid "Use Your Head"
 msgstr "Usa tu cabeza"
+

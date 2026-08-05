@@ -1,55 +1,42 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid001301cd.po\n"
-"X-Crowdin-File-ID: 58548\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=001301CD
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 001301CD <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
 msgctxt "576"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "580"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "584"
 msgid "Salesman-like Man"
-msgstr ""
+msgstr "\"Vendedor\""
 
+#. y4:line_status=translated
 msgctxt "84_Tanimura"
 msgid "What're you up to here?"
 msgstr "¿Qué haces aquí?"
 
+#. y4:line_status=translated
 msgctxt "96_Salesman-like Man"
 msgid "Crap, a cop!"
 msgstr "Mierda, ¡un policía!"
 
+#. y4:line_status=translated
 msgctxt "108_Salesman-like Man"
 msgid "I ain't up to nothing!"
 msgstr "¡No estoy haciendo nada!"
+

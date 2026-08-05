@@ -1,71 +1,57 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid000905b3.po\n"
-"X-Crowdin-File-ID: 61562\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=000905B3
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 000905B3 <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
 msgctxt "984"
 msgid "Chatty Businesswoman"
 msgstr "Mujer de negocios habladora"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=translated
 msgctxt "988"
 msgid "Reserved Businesswoman"
 msgstr "Mujer de negocios reservada"
 
+#. y4:line_status=translated
 msgctxt "992"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "996"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "84_Chatty Businesswoman"
 msgid "Doesn't it seem like there are more... thugs around town?"
 msgstr "¿No parece que hay más... matones por la ciudad?"
 
+#. y4:line_status=translated
 msgctxt "96_Reserved Businesswoman"
 msgid "Hm? I haven't noticed."
 msgstr "¿Mm? No me he dado cuenta."
 
+#. y4:line_status=translated
 msgctxt "108_Chatty Businesswoman"
-msgid "Well there totally are! People like that usually stick to\\r\n"
-"shadows, yet here they are roaming around in broad daylight!"
-msgstr "¡Pues definitivamente los hay! Gente así suele quedarse\\r\n"
-"en las sombras, ¡pero están aquí paseandose por la ciudad\\r\n"
-"a plena luz del día!"
+msgid "Well there totally are! People like that usually stick to\\r\nshadows, yet here they are roaming around in broad daylight!"
+msgstr "¡Pues definitivamente los hay! Gente así suele quedarse\\r\nen las sombras, ¡pero están aquí paseandose por la ciudad\\r\na plena luz del día!"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "120_Chatty Businesswoman"
-msgid "I wonder if something's going on. Kamurocho is usually so\\r\n"
-"safe and quiet, too!"
-msgstr ""
+msgid "I wonder if something's going on. Kamurocho is usually so\\r\nsafe and quiet, too!"
+msgstr "Me pregunto si estará pasando algo.\\r\n¡Kamurocho sabe ser seguro y tranquilo!"
 
+#. y4:line_status=translated
 msgctxt "132_Reserved Businesswoman"
 msgid "Is it, though...?"
 msgstr "¿Pero... lo es de verdad?"
+

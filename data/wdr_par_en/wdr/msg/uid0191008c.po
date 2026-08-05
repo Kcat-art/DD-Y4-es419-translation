@@ -1,95 +1,91 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid0191008c.po\n"
-"X-Crowdin-File-ID: 59412\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=0191008C
-#. y4:runtime_group_count=10
-#. y4:runtime_groups=0|1|2|3|4|5|6|7|8|9
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 0191008C <group>
+#. y4:file_status=untranslated
 
-
-
+#. y4:line_status=translated
 msgctxt "248"
 msgid "You got a <Color:8>Woodcarving of a Bear<Color:Default>."
 msgstr "Has obtenido una <Color:8>talla de un oso en madera<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "272"
 msgid "Nothing happened."
 msgstr "No pasó nada."
 
+#. y4:line_status=translated
 msgctxt "296"
 msgid "Nothing happened."
 msgstr "No pasó nada."
 
+#. y4:line_status=todo
+#. y4:translated_by=MasterCry
 msgctxt "332"
 msgid "You got a <Color:8>Smashing Sculpture<Color:Default>."
 msgstr ""
 
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
 msgctxt "2672"
 msgid "Saejima"
 msgstr "Saejima"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=translated
 msgctxt "2676"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "2680"
 msgid "TNK_08_B_START"
 msgstr "TNK_08_B_START"
 
+#. y4:line_status=translated
 msgctxt "2684"
 msgid "TNK_08_B_E_START"
 msgstr "TNK_08_B_E_START"
 
+#. y4:line_status=translated
 msgctxt "2688"
 msgid "TNK_08_B_N_START"
 msgstr "TNK_08_B_N_START"
 
+#. y4:line_status=translated
 msgctxt "2692"
 msgid "TNK_08_A_START"
 msgstr "TNK_08_A_START"
 
+#. y4:line_status=translated
 msgctxt "2696"
 msgid "TNK_08_A_E_START"
 msgstr "TNK_08_A_E_START"
 
+#. y4:line_status=translated
 msgctxt "2700"
 msgid "TNK_08_A_N_START"
 msgstr "TNK_08_A_N_START"
 
+#. y4:line_status=translated
 msgctxt "284_Saejima"
 msgid "(I should take a break and come back later...)"
 msgstr "(Debería tomarme un descanso y vuelvo más tarde...)"
 
+#. y4:line_status=translated
 msgctxt "308_Akiyama"
 msgid "(I should take a break and come back later...)"
 msgstr "(Debería tomarme un descanso y vuelvo más tarde...)"
 
+#. y4:line_status=todo
 msgctxt "356_Saejima"
 msgid "You learned the <Color:9>Essence of Smashing<Color:Default>."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "380_Saejima"
 msgid "You learned the <Color:9>Essence of Comebacks<Color:Default>."
 msgstr "Has aprendido la <Color:9>Esencia del Contraataque<Color:Default>."
+

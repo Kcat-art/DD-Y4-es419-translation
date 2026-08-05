@@ -1,87 +1,77 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid001301aa.po\n"
-"X-Crowdin-File-ID: 60640\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=001301AA
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 001301AA <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
 msgctxt "1424"
 msgid "Unruly Yakuza"
 msgstr "Yakuza indisciplinado"
 
+#. y4:line_status=translated
 msgctxt "1428"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=translated
 msgctxt "1432"
 msgid "Frightened Man"
 msgstr "Hombre asustado"
 
+#. y4:line_status=translated
 msgctxt "1436"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=4
+#. y4:line_status=translated
 msgctxt "1440"
 msgid "Shady Woman"
 msgstr "Mujer sospechosa"
 
+#. y4:line_status=translated
 msgctxt "1444"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=6
+#. y4:line_status=translated
 msgctxt "1448"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "1452"
 msgid "P_tan_stand_tlk_techo"
 msgstr "P_tan_stand_tlk_techo"
 
+#. y4:line_status=translated
 msgctxt "84_Unruly Yakuza"
 msgid "What the hell you thinking, putting your hands on my woman!?"
 msgstr "¿¡En qué demonios pensabas, poniendole las manos encima a mi chica!?"
 
+#. y4:line_status=translated
 msgctxt "96_Frightened Man"
 msgid "Hold on, she came on to me, man!"
 msgstr "Espera, ¡ella vino hacia mí!"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "108_Shady Woman"
 msgid "Like hell I did! You were trying to drag me off with you, weren't you!?"
-msgstr ""
+msgstr "¡Mentiroso! Estabas intentando arastrandome para ir contigo, ¿Es asi?"
 
+#. y4:line_status=translated
 msgctxt "120_Tanimura"
 msgid "Hold it, I'm a police officer. This is a scam, isn't it!? What makes you think you can do this to honest citizens?"
 msgstr "Un momento, soy agente de policía. Esto es una estafa, ¿¡verdad!? ¿Que te hace pensar que puedes hacerle esto a ciudadanos honestos?"
 
+#. y4:line_status=translated
 msgctxt "132_Unruly Yakuza"
 msgid "Huh!? Where the hell you come from? You must really want your ass kicked!"
 msgstr "¿¡Eh!? ¿Y tú de donde demonios sales? ¡Debes querer que te pateen el culo!"
+

@@ -6,14 +6,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=002602B8
-#. y4:runtime_group_count=6
-#. y4:runtime_groups=0|1|2|3|4|5
-#. y4:runtime_pac_names=pac_STID_ST_KOMAMACHI.bin
-#. y4:runtime_play_command=y4.play_msg 002602B8 <group>
 
 #. y4:line_status=translated
 msgctxt "260"
@@ -51,8 +46,6 @@ msgid "You gave them some <Color:8>Dog Food<Color:Default>."
 msgstr "Les diste un poco de <Color:8>Comida de Perro<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "14256"
 msgid "Saejima"
 msgstr "Saejima"
@@ -63,15 +56,11 @@ msgid "Talk_Syagamu_st"
 msgstr "Talk_Syagamu_st"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
 msgctxt "14264"
 msgid "Striped Kitten"
 msgstr "Gato con rayas"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=3
 msgctxt "14268"
 msgid "White Kitten"
 msgstr "Gato blanco"
@@ -86,12 +75,11 @@ msgctxt "14276"
 msgid "Talk_Syagamu_ed"
 msgstr "Talk_Syagamu_ed"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=6
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "14280"
 msgid "Cat-loving Homeless Man"
-msgstr ""
+msgstr "Vagabundo amante de los gatos"
 
 #. y4:line_status=translated
 msgctxt "14284"
@@ -99,8 +87,6 @@ msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=8
 msgctxt "14288"
 msgid "Friendly Homeless Man"
 msgstr "Vagabundo Amistoso"
@@ -121,8 +107,6 @@ msgid "M_nml_stand_tlk_kagamu_st"
 msgstr "M_nml_stand_tlk_tukamu_st"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=12
 msgctxt "14304"
 msgid "Surly Homeless Man"
 msgstr "Vagabundo malhumorado"
@@ -318,10 +302,11 @@ msgctxt "632_Saejima"
 msgid "I ain't sure what's going on here, but do ya want me to follow these directions?"
 msgstr "No estoy seguro de lo que pasa, ¿pero quieres que siga estas direcciones?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "644_Striped Kitten"
 msgid "Mrowr!"
-msgstr ""
+msgstr "¡Mraw!"
 
 #. y4:line_status=translated
 msgctxt "656_White Kitten"
@@ -374,9 +359,6 @@ msgid "(Guess the white one didn't like it much.)"
 msgstr "(Supongo que al blanco no le gustó mucho.)"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
 msgctxt "884_Saejima"
 msgid "(I'll bring 'em somethin' real nutritious, like... fuck, I dunno.)"
 msgstr "(Les traeré algo muy nutritivo, como... mierda, no lo sé.)"
@@ -412,9 +394,6 @@ msgid "(Nope. Dog food is for dogs and dogs alone.)"
 msgstr "(Nop. La comida de perros es para perros y perros solo.)"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=1
 msgctxt "1136_Saejima"
 msgid "(I'll bring 'em somethin' real nutritious, like... fuck, I dunno.)"
 msgstr "(Les traeré algo muy nutritivo, como... mierda, no lo sé.)"
@@ -430,45 +409,22 @@ msgid "Wait here. I'll buy somethin' to perk 'em up.\\r\nThey're hurt, so maybe 
 msgstr "Esperen aquí. Iré algo para energizarlos.\\r\nEstán heridos, ¿así que quizás les traigo un Staminan X?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P7
 msgctxt "1316_Saejima"
 msgid "Ya gotta offer lost cats some milk."
 msgstr "Tienen que ofrecerles leche a los gatos perdidos."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P14
 msgctxt "1328_Saejima"
 msgid "Prolly wouldn't say no to dog food."
 msgstr "A lo mejor les da igual la comida de perro."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P8
 msgctxt "1340_Saejima"
 msgid "Ya gotta offer lost cats some milk."
 msgstr "Tienen que ofrecerles leche a los gatos perdidos."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P15
 msgctxt "1352_Saejima"
 msgid "They're hurt, so maybe Staminan X?"
 msgstr "Están Heridos, ¿así que quizás un Staminan X?"
+

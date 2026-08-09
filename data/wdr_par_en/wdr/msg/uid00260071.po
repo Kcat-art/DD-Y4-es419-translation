@@ -6,14 +6,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00260071
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_SERENA.bin
-#. y4:runtime_play_command=y4.play_msg 00260071 <group>
 
 #. y4:line_status=translated
 msgctxt "524"
@@ -26,8 +21,6 @@ msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "10636"
 msgid "Foreign Woman"
 msgstr "Mujer Extranjera"
@@ -43,8 +36,6 @@ msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=3
 msgctxt "10648"
 msgid "Date"
 msgstr "Date"
@@ -56,8 +47,6 @@ msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=5
 msgctxt "10656"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -68,15 +57,11 @@ msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=7
 msgctxt "10664"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=8
 msgctxt "10668"
 msgid "Tanimura"
 msgstr "Tanimura"
@@ -92,8 +77,6 @@ msgid "Talk_No"
 msgstr "Talk_No"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=11
 msgctxt "10680"
 msgid "Akiyama"
 msgstr "Akiyama"
@@ -133,10 +116,11 @@ msgctxt "10708"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "10712"
 msgid "Please enter a name"
-msgstr ""
+msgstr "Por favor, ingrese un nombre."
 
 #. y4:line_status=translated
 msgctxt "10720"
@@ -337,3 +321,4 @@ msgstr "Por favor, quédense con esto a cambio. Sé que no es mucho, \\r\npero m
 msgctxt "548_Kiryu"
 msgid "Oh, it was nothing. We're just glad you're okay."
 msgstr "Oh, no fue nada. Nos alegra que estén bien."
+

@@ -1,265 +1,252 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e601ae.po\n"
-"X-Crowdin-File-ID: 59802\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00E601AE
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_JIMU04.bin
-#. y4:runtime_play_command=y4.play_msg 00E601AE <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
 msgctxt "8316"
 msgid "Tadokoro's Apprentice"
 msgstr "Aprendiz de Tadokoro"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=translated
 msgctxt "8320"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "8324"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=3
+#. y4:line_status=translated
 msgctxt "8328"
 msgid "Tadokoro"
 msgstr "Tadokoro"
 
+#. y4:line_status=translated
 msgctxt "8332"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "8336"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=translated
 msgctxt "8340"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "8344"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=8
+#. y4:line_status=translated
 msgctxt "8348"
 msgid "Tadashi"
 msgstr "Tadashi"
 
+#. y4:line_status=translated
 msgctxt "8352"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
+#. y4:line_status=translated
 msgctxt "8356"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
+#. y4:line_status=translated
 msgctxt "8360"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "8364"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 msgctxt "8368"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:line_status=translated
 msgctxt "56_Tadokoro's Apprentice"
 msgid "It hurts... It hurts!"
 msgstr "¡Duele... duele!"
 
+#. y4:line_status=translated
 msgctxt "68_Saejima"
 msgid "Told ya so. When're you chumps ever gonna listen?"
 msgstr "Se los dije. ¿Cuándo me escucharán?"
 
+#. y4:line_status=translated
 msgctxt "92_Saejima"
 msgid "So you must be Tadokoro."
 msgstr "Así que tú debes ser Tadokoro."
 
+#. y4:line_status=translated
 msgctxt "104_Tadokoro"
 msgid "Yes, I am. What can I help you with today?"
 msgstr "Sí, soy yo. ¿En qué te puedo ayudar hoy?"
 
+#. y4:line_status=translated
 msgctxt "116_Saejima"
 msgid "I'd like to have a chat with you about this here boy."
 msgstr "Me gustaría tener una charla sobre el problema de este chico."
 
+#. y4:line_status=translated
 msgctxt "128_Tadokoro"
-msgid "So this is what you call a chat? Did your parents raise you\\r\n"
-"to beat people bloody whenever you wanted to talk?"
-msgstr "¿Así que a esto le llamas charla? ¿Tus padres te enseñaron a\\r\n"
-"golpear a la gente hasta noquearlos cada vez que quieras charlar?"
+msgid "So this is what you call a chat? Did your parents raise you\\r\nto beat people bloody whenever you wanted to talk?"
+msgstr "¿Así que a esto le llamas charla? ¿Tus padres te enseñaron a\\r\ngolpear a la gente hasta noquearlos cada vez que quieras charlar?"
 
+#. y4:line_status=translated
 msgctxt "140_Saejima"
-msgid "Yeah, pretty much. They taught me that rude-ass sumbitches\\r\n"
-"deserve whatever they got comin' to 'em."
-msgstr "Pues sí. Me enseñaron a darles lo que se merecen\\r\n"
-"a los hijos de perra cómo tú."
+msgid "Yeah, pretty much. They taught me that rude-ass sumbitches\\r\ndeserve whatever they got comin' to 'em."
+msgstr "Pues sí. Me enseñaron a darles lo que se merecen\\r\na los hijos de perra cómo tú."
 
+#. y4:line_status=translated
 msgctxt "152_Tadokoro"
-msgid "I see. I would ask you to please refrain from such behavior\\r\n"
-"in the future."
-msgstr "Ya veo. Te pido amablemente que no vuelvas a tener tal comportamiento\\r\n"
-"en el futuro."
+msgid "I see. I would ask you to please refrain from such behavior\\r\nin the future."
+msgstr "Ya veo. Te pido amablemente que no vuelvas a tener tal comportamiento\\r\nen el futuro."
 
+#. y4:line_status=translated
 msgctxt "164_Saejima"
 msgid "That all depends on your attitude."
 msgstr "Eso depende de como te comportes tú."
 
+#. y4:line_status=translated
 msgctxt "176_Tadokoro"
 msgid "So what exactly is it that's brought you here today?"
 msgstr "Entonces, ¿Qué te trae por aquí hoy?"
 
+#. y4:line_status=translated
 msgctxt "188_Saejima"
 msgid "Ya know this kid, yeah?"
 msgstr "¿Conoces a este niño, verdad?"
 
+#. y4:line_status=translated
 msgctxt "200_Tadokoro"
-msgid "I didn't recognize him through all the grime,\\r\n"
-"but it's Tadashi, the boy so fond of his sister.\\r\n"
-"It's been six months. Have you raised the money?"
-msgstr "No lo reconocí con toda esa mugre en la cara,\\r\n"
-"pero sí, es Tadashi, el niño que tanto ama a su hermana.\\r\n"
-"Ya pasaron seis meses. ¿Tienes mi dinero?"
+msgid "I didn't recognize him through all the grime,\\r\nbut it's Tadashi, the boy so fond of his sister.\\r\nIt's been six months. Have you raised the money?"
+msgstr "No lo reconocí con toda esa mugre en la cara,\\r\npero sí, es Tadashi, el niño que tanto ama a su hermana.\\r\nYa pasaron seis meses. ¿Tienes mi dinero?"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "212_Tadashi"
 msgid "No, not yet."
-msgstr ""
+msgstr "No, todavia no."
 
+#. y4:line_status=translated
 msgctxt "224_Tadokoro"
 msgid "Then why are you here?"
 msgstr "¿Y entonces que haces aquí?"
 
+#. y4:line_status=translated
 msgctxt "236_Saejima"
 msgid "I'll be settlin' that debt. From now on, you deal with me."
 msgstr "Me haré cargo de esa deuda. De ahora en adelante, tratarás conmigo."
 
+#. y4:line_status=translated
 msgctxt "248_Tadokoro"
-msgid "With you? I don't believe he has any relatives\\r\n"
-"in the country, apart from his uncle's family.\\r\n"
-"What is your relationship to the boy?"
-msgstr "¿Contigo? Creo que no tiene más parientes\\r\n"
-"en el país, aparte de la familia de su tío.\\r\n"
-"¿Qué tipo de parentesco tienes con el niño?"
+msgid "With you? I don't believe he has any relatives\\r\nin the country, apart from his uncle's family.\\r\nWhat is your relationship to the boy?"
+msgstr "¿Contigo? Creo que no tiene más parientes\\r\nen el país, aparte de la familia de su tío.\\r\n¿Qué tipo de parentesco tienes con el niño?"
 
+#. y4:line_status=translated
 msgctxt "260_Saejima"
 msgid "We're perfect strangers. Is that gonna be a problem?"
 msgstr "No lo conozco de nada. ¿Algún problema con eso?"
 
+#. y4:line_status=translated
 msgctxt "272_Tadokoro"
-msgid "On the contrary, I'm impressed. There aren't many people\\r\n"
-"like you in this day and age."
-msgstr "Al contrario, me impresionas. No hay mucha gente como\\r\n"
-"tú en estos tiempos."
+msgid "On the contrary, I'm impressed. There aren't many people\\r\nlike you in this day and age."
+msgstr "Al contrario, me impresionas. No hay mucha gente como\\r\ntú en estos tiempos."
 
+#. y4:line_status=translated
 msgctxt "284_Saejima"
 msgid "Good. No problems, then."
 msgstr "Bien. Entonces, no hay problemas."
 
+#. y4:line_status=translated
 msgctxt "296_Tadokoro"
 msgid "No, no problems. However..."
 msgstr "No, no hay ningún problema. Sin embargo..."
 
+#. y4:line_status=translated
 msgctxt "308_Saejima"
 msgid "What now?"
 msgstr "¡¿Ahora que?!"
 
+#. y4:line_status=translated
 msgctxt "320_Tadokoro"
-msgid "My agreement with Tadashi stipulated that he\\r\n"
-"would get his sister back by either paying back\\r\n"
-"the five million or doing jobs I assigned him."
-msgstr "Mi acuerdo con Tadashi estipulaba que le\\r\n"
-"devolvería a su hermana solo si me pagaba los\\r\n"
-"cinco millones o haciendo los trabajos que le pedí."
+msgid "My agreement with Tadashi stipulated that he\\r\nwould get his sister back by either paying back\\r\nthe five million or doing jobs I assigned him."
+msgstr "Mi acuerdo con Tadashi estipulaba que le\\r\ndevolvería a su hermana solo si me pagaba los\\r\ncinco millones o haciendo los trabajos que le pedí."
 
+#. y4:line_status=translated
 msgctxt "332_Tadokoro"
-msgid "If you're going to be taking over his debt, though...\\r\n"
-"well, that's another story."
-msgstr "Si estás dispuesto a hacerte cargo de su deuda, en cambio...\\r\n"
-"bueno, eso es otra historia."
+msgid "If you're going to be taking over his debt, though...\\r\nwell, that's another story."
+msgstr "Si estás dispuesto a hacerte cargo de su deuda, en cambio...\\r\nbueno, eso es otra historia."
 
+#. y4:line_status=translated
 msgctxt "344_Saejima"
 msgid "Whaddya mean?"
 msgstr "¿A qué te refieres?"
 
+#. y4:line_status=translated
 msgctxt "356_Tadokoro"
-msgid "I won't simply take the five million from you in cash.\\r\n"
-"No, I'll have you work it off."
-msgstr "No aceptaré los cinco millones si vienen de ti.\\r\n"
-"Te haré trabajar."
+msgid "I won't simply take the five million from you in cash.\\r\nNo, I'll have you work it off."
+msgstr "No aceptaré los cinco millones si vienen de ti.\\r\nTe haré trabajar."
 
+#. y4:line_status=translated
 msgctxt "368_Saejima"
-msgid "Either way works for me. I do whatever gig ya throw at me,\\r\n"
-"and you give back Tadashi's sister. Is that the deal?"
-msgstr "Cualquiera de las dos me sirve. Haré cualquier cosa que me pidas,\\r\n"
-"y tú le devuelves a Akiko. ¿Tenemos un trato?"
+msgid "Either way works for me. I do whatever gig ya throw at me,\\r\nand you give back Tadashi's sister. Is that the deal?"
+msgstr "Cualquiera de las dos me sirve. Haré cualquier cosa que me pidas,\\r\ny tú le devuelves a Akiko. ¿Tenemos un trato?"
 
+#. y4:line_status=translated
 msgctxt "380_Tadokoro"
-msgid "Oh, but it won't be just one job. You'll continue taking\\r\n"
-"assignments until you've earned back every last yen."
-msgstr "Oh, pero no será solo un trabajo. Te seguiré dando\\r\n"
-"tareas hasta que hayas ganado devuelta hasta el último yen."
+msgid "Oh, but it won't be just one job. You'll continue taking\\r\nassignments until you've earned back every last yen."
+msgstr "Oh, pero no será solo un trabajo. Te seguiré dando\\r\ntareas hasta que hayas ganado devuelta hasta el último yen."
 
+#. y4:line_status=translated
 msgctxt "392_Saejima"
-msgid "And I'm tellin' you, that's fine by me. So quit\\r\n"
-"beatin' 'round the bush and start giving me jobs\\r\n"
-"I can make some money on."
-msgstr "Ya te lo dije, por mí está bien. Así que ya\\r\n"
-"basta de cháchara y empieza a darme trabajos\\r\n"
-"que me den dinero."
+msgid "And I'm tellin' you, that's fine by me. So quit\\r\nbeatin' 'round the bush and start giving me jobs\\r\nI can make some money on."
+msgstr "Ya te lo dije, por mí está bien. Así que ya\\r\nbasta de cháchara y empieza a darme trabajos\\r\nque me den dinero."
 
+#. y4:line_status=translated
 msgctxt "404_Tadokoro"
 msgid "Very well. I'll assign you my more... lucrative tasks."
 msgstr "Muy bien. Te daré mis trabajos más lucrativos..."
 
+#. y4:line_status=translated
 msgctxt "416_Saejima"
 msgid "You do that."
 msgstr "Hazlo."
 
+#. y4:line_status=translated
 msgctxt "428_Tadokoro"
-msgid "Well, thank you for stepping up to this. I'll contact you\\r\n"
-"once I have a job lined up－ Oh, I didn't catch your name."
-msgstr "Pues bueno, Gracias por ofrecerte. Te contactaré\\r\n"
-"en cuanto tenga un trabajo listo para ti－Oh, no me has dicho tu nombre."
+msgid "Well, thank you for stepping up to this. I'll contact you\\r\nonce I have a job lined up－ Oh, I didn't catch your name."
+msgstr "Pues bueno, Gracias por ofrecerte. Te contactaré\\r\nen cuanto tenga un trabajo listo para ti－Oh, no me has dicho tu nombre."
 
+#. y4:line_status=translated
 msgctxt "440_Saejima"
 msgid "Name's Suzuki."
 msgstr "Me llamo Suzuki."
 
+#. y4:line_status=translated
 msgctxt "452_Tadokoro"
-msgid "Suzuki-san, is it? All right, then. I look forward\\r\n"
-"to working with you, Suzuki-san."
-msgstr "Suzuki-san, ¿cierto? Pues bien, será un\\r\n"
-"placer trabajar contigo, Suzuki-san."
+msgid "Suzuki-san, is it? All right, then. I look forward\\r\nto working with you, Suzuki-san."
+msgstr "Suzuki-san, ¿cierto? Pues bien, será un\\r\nplacer trabajar contigo, Suzuki-san."
 
+#. y4:line_status=translated
 msgctxt "464_Saejima"
-msgid "The feeling ain't mutual, but I'll deliver. And in return,\\r\n"
-"ya better keep that promise you made to Tadashi."
-msgstr "No es mutuo, pero cumpliré. Será mejor,\\r\n"
-"tú cumplas también."
+msgid "The feeling ain't mutual, but I'll deliver. And in return,\\r\nya better keep that promise you made to Tadashi."
+msgstr "No es mutuo, pero cumpliré. Será mejor,\\r\ntú cumplas también."
+

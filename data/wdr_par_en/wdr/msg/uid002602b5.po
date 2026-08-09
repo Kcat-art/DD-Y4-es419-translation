@@ -6,21 +6,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=002602B5
-#. y4:runtime_group_count=5
-#. y4:runtime_groups=0|1|2|3|4
-#. y4:runtime_pac_names=pac_STID_ST_KOMAMACHI.bin
-#. y4:runtime_play_command=y4.play_msg 002602B5 <group>
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "23124"
 msgid "Cat-loving Homeless Man"
-msgstr ""
+msgstr "Vagabundo amante de los gatos"
 
 #. y4:line_status=translated
 msgctxt "23128"
@@ -28,8 +22,6 @@ msgid "M_ykz_sitgrd_tlk_kamae_ed"
 msgstr "M_ykz_sitgrd_tlk_kamae_ed"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
 msgctxt "23132"
 msgid "Saejima"
 msgstr "Saejima"
@@ -45,8 +37,6 @@ msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=5
 msgctxt "23144"
 msgid "Friendly Homeless Man"
 msgstr "Vagabundo Amistoso"
@@ -57,8 +47,6 @@ msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=7
 msgctxt "23152"
 msgid "Surly Homeless Man"
 msgstr "Vagabundo malhumorado"
@@ -125,8 +113,6 @@ msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=20
 msgctxt "23204"
 msgid "Striped Kitten"
 msgstr "Gato con rayas"
@@ -218,9 +204,6 @@ msgid "We've got to hurry or they'll be in really bad shape.\\r\nPlease try to t
 msgstr "Tenemos que darnos prisa o se pondrán muy mal.\\r\n¡Por favor hazte amigo de ellos!"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
 msgctxt "508_Saejima"
 msgid "Tamin' cats, huh?"
 msgstr "Hacerme amigo de los gatos, ¿eh?"
@@ -261,9 +244,6 @@ msgid "Hssst!"
 msgstr "¡Hsst!"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=1
 msgctxt "724_Saejima"
 msgid "(Little fella's really givin' me what for. Now what do I do?)"
 msgstr "(El pequeñín de verdad me las está poniendo difícil. ¿Qué hago ahora?)"
@@ -374,9 +354,6 @@ msgid "I hate to ask, but could you buy these kittens something\\r\nyou think th
 msgstr "Odio pedirlo, pero ¿podrías comprarle algo que les guste\\r\na estos gatitos?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=2
 msgctxt "1012_Saejima"
 msgid "(S'pose I can't back out now. I'll get 'em somethin' real nutritious, like... fuck, I dunno.)"
 msgstr "(Supongo que ya no me puedo echar para atrás. Les conseguiré algo muy nutritivo, algo como... mierda, no lo sé.)"
@@ -492,9 +469,6 @@ msgid "Yeah, please? If we don't act fast, they'll get weaker and weaker. You're
 msgstr "Te lo ruego. Si no lo haces pronto, estos pequeños se debilitarán más, ¡confiamos en ti!, ¡eres nuestra única esperanza!"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=3
 msgctxt "1504_Saejima"
 msgid "Ya want me to tame a buncha cats, huh?"
 msgstr "¿Hacerme amigo de estos gatos...?"
@@ -535,9 +509,6 @@ msgid "Ffft!"
 msgstr "¡Ffft!"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=4
 msgctxt "1720_Saejima"
 msgid "(Little fella's really givin' me what for. Now what do I do?)"
 msgstr "(El pequeñín de verdad me las está poniendo difícil. ¿Qué hago ahora?)"
@@ -648,9 +619,6 @@ msgid "I hate to ask, but could you buy these kittens something\\r\nyou think th
 msgstr "Odio pedirlo, pero ¿podrías comprarle algo que les guste\\r\na estos gatitos?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=5
 msgctxt "2008_Saejima"
 msgid "(S'pose I can't back out now. I'll get 'em somethin' real nutritious, like... fuck, I dunno.)"
 msgstr "(Supongo que ya no me puedo echar para atrás. Les conseguiré algo muy nutritivo, algo como... mierda, no lo sé.)"
@@ -671,177 +639,82 @@ msgid "Wait here. Doesn't matter what cats eat.\\r\nThey prolly wouldn't say no 
 msgstr "Esperen aquí. No importa lo que coman los gatos.\\r\nAsí que a lo mejor les da igual la comida de perro."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P3
 msgctxt "2260_Cat-loving Homeless Man"
 msgid "Ain't gonna happen."
 msgstr "No va a pasar."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P13
 msgctxt "2272_Cat-loving Homeless Man"
 msgid "Why the hell not?"
 msgstr "¿Por qué carajos no?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P33
 msgctxt "2284_Cat-loving Homeless Man"
 msgid "Meow Like a Kitten"
 msgstr "Maullar como un gatito"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P21
 msgctxt "2296_Cat-loving Homeless Man"
 msgid "Bark Like a Puppy"
 msgstr "Ladrar como un perrito"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P28
 msgctxt "2308_Cat-loving Homeless Man"
 msgid "Cry Like a Girl"
 msgstr "Llorar como una niñita"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P45
 msgctxt "2320_Cat-loving Homeless Man"
 msgid "Ya gotta offer lost cats some milk."
 msgstr "Tienen que ofrecerles leche a los gatos perdidos."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P52
 msgctxt "2332_Cat-loving Homeless Man"
 msgid "They're hurt, so maybe Staminan X?"
 msgstr "Están Heridos, ¿así que quizás un Staminan X?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=2
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P59
 msgctxt "2344_Cat-loving Homeless Man"
 msgid "Prolly wouldn't say no to dog food."
 msgstr "A lo mejor les da igual la comida de perro."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P21
 msgctxt "2356_Cat-loving Homeless Man"
 msgid "Ain't gonna happen."
 msgstr "No va a pasar."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P31
 msgctxt "2368_Cat-loving Homeless Man"
 msgid "Why the hell not?"
 msgstr "¿Por qué carajos no?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=4
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P51
 msgctxt "2380_Cat-loving Homeless Man"
 msgid "Meow Like a Kitten"
 msgstr "Maullar como un gatito"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=4
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P39
 msgctxt "2392_Cat-loving Homeless Man"
 msgid "Bark Like a Puppy"
 msgstr "Ladrar como un perrito"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=4
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P46
 msgctxt "2404_Cat-loving Homeless Man"
 msgid "Cry Like a Girl"
 msgstr "Llorar como una niñita"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=5
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P63
 msgctxt "2416_Cat-loving Homeless Man"
 msgid "Ya gotta offer lost cats some milk."
 msgstr "Tienen que ofrecerles leche a los gatos perdidos."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=5
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P70
 msgctxt "2428_Cat-loving Homeless Man"
 msgid "They're hurt, so maybe Staminan X?"
 msgstr "Están Heridos, ¿así que quizás un Staminan X?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=5
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P77
 msgctxt "2440_Cat-loving Homeless Man"
 msgid "Prolly wouldn't say no to dog food."
 msgstr "A lo mejor les da igual la comida de perro."
+

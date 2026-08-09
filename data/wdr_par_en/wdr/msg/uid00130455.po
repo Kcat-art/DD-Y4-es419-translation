@@ -1,41 +1,27 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00130455.po\n"
-"X-Crowdin-File-ID: 60130\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00130455
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_DOJO_IKUSEI.bin
-#. y4:runtime_play_command=y4.play_msg 00130455 <group>
+#. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "780"
 msgid "Tokita"
-msgstr ""
+msgstr "Tokita"
 
+#. y4:line_status=todo
 msgctxt "72_Tokita"
 msgid "Oh, hi! It's been a long time! Let me guess, you came back because you missed my good looks, right? Heheheh..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "96_Tokita"
 msgid "Oh, hi Sensei. It's good to see you. You have my permission to designate me as a partner if you need help in a tag match. Heheheh..."
 msgstr ""
+

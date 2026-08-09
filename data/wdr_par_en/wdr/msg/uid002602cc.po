@@ -6,18 +6,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=002602CC
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_SUSHI.bin
-#. y4:runtime_play_command=y4.play_msg 002602CC <group>
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "27348"
 msgid "Employee"
 msgstr "Empleado"
@@ -48,15 +41,11 @@ msgid "F_sxy_sitchr_tlk_kamae"
 msgstr "F_sxy_sitchr_tlk_kamae"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=6
 msgctxt "27372"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=7
 msgctxt "27376"
 msgid "Miki"
 msgstr "Miki"
@@ -102,8 +91,6 @@ msgid "0"
 msgstr "0"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=16
 msgctxt "27412"
 msgid "Master"
 msgstr "Maestro"
@@ -185,9 +172,6 @@ msgid "I'm listening."
 msgstr "Te escucho."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
 msgctxt "572_Akiyama"
 msgid "(How <Italic>do</Italic> you interact with a customer on a date...?)"
 msgstr "(¿Como <Italic>tener</Italic> una buena interacción con un cliente?...)"
@@ -223,9 +207,6 @@ msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=1
 msgctxt "656_Akiyama"
 msgid "I was just kidding. Actually..."
 msgstr "En verdad, solo estaba bromeando..."
@@ -261,9 +242,6 @@ msgid "And if I'm not careful, he might even stop asking for me at\\r\nthe club,
 msgstr "Además, si no tengo cuidado, incluso dejaría de solicitarme\\r\nen el club también..."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=2
 msgctxt "740_Akiyama"
 msgid "Oh, well, that was just a little joke. In fact, you've gotta..."
 msgstr "Ah, bueno, eso en realidad solo era un chiste.\nLo que de verdad, debes hacer es..."
@@ -299,9 +277,6 @@ msgid "And if I'm not careful, he might even stop asking for me at\\r\nthe club,
 msgstr "Además, si no tengo cuidado, incluso dejaría de solicitarme\\r\nen el club también..."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=3
 msgctxt "824_Akiyama"
 msgid "Oh, well, that was just a little joke. In fact, you've gotta..."
 msgstr "Ah, bueno, eso en realidad solo era un chiste.\nLo que de verdad, debes hacer es..."
@@ -337,9 +312,6 @@ msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=4
 msgctxt "908_Akiyama"
 msgid "I was just kidding. Actually..."
 msgstr "En verdad, solo estaba bromeando..."
@@ -440,9 +412,6 @@ msgid "Of course."
 msgstr "No se preocupe."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=5
 msgctxt "1196_Akiyama"
 msgid "(When it comes time to order...)"
 msgstr "(Cuando llega el momento de ordenar...)"
@@ -478,9 +447,6 @@ msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=6
 msgctxt "1280_Akiyama"
 msgid "I'm glad you caught that. Actually..."
 msgstr "Me alegro de que te hayas dado cuenta. En realidad es..."
@@ -571,9 +537,6 @@ msgid "Is there really? Tell me about it."
 msgstr "¿De verdad? Cuéntamelo."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=7
 msgctxt "1544_Akiyama"
 msgid "(The thing to remember when eating is...)"
 msgstr "(Lo que hay que recordar cuando estés comiendo es...)"
@@ -609,9 +572,6 @@ msgid "I mean, it doesn't exactly flow with what you said before\\r\nabout proje
 msgstr "Solo digo, que contradice la idea que mencionaste antes\\r\nsobre proyectar un ambiente exclusivo y privado..."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=8
 msgctxt "1628_Akiyama"
 msgid "You sure are sharp. I knew I could count on you to notice\\r\nthat. Well done. No, the real key here is..."
 msgstr "Estás muy atenta. Sabía que podías darte cuenta de eso.\\r\nBien hecho. La verdadera clave aquí es..."
@@ -717,9 +677,6 @@ msgid "Okay."
 msgstr "Está bien."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=9
 msgctxt "1988_Akiyama"
 msgid "(The trick about paying the bill is...)"
 msgstr "(El truco al momento de pagar es...)"
@@ -729,10 +686,11 @@ msgctxt "2000_Akiyama"
 msgid "When you've been asked out on a date, you should go Dutch.\\r\nEach of you pays his or her share."
 msgstr "Cuando te pidan salir, debes ir con tu propio dinero.\\r\nCada uno de ustedes deben pagar su parte."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "2012_Miki"
 msgid "Are you serious!?"
-msgstr ""
+msgstr "¡¿En serio?!"
 
 #. y4:line_status=translated
 msgctxt "2024_Akiyama"
@@ -765,9 +723,6 @@ msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=10
 msgctxt "2096_Akiyama"
 msgid "Instead..."
 msgstr "En vez de eso..."
@@ -838,199 +793,92 @@ msgid "This has all been so helpful. I'll give it all a try, then."
 msgstr "Esto fue de muchísima ayuda. Voy a intentarlo."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P9
 msgctxt "2276_Employee"
 msgid "Act exactly like you do at the club."
 msgstr "Actúa exactamente igual que en el club."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P23
 msgctxt "2288_Employee"
 msgid "Be more guarded."
 msgstr "Sé más reservada."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P37
 msgctxt "2300_Employee"
 msgid "Be more open."
 msgstr "Sé más abierta."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P16
 msgctxt "2312_Employee"
 msgid "Be more guarded."
 msgstr "Sé más reservada."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P37
 msgctxt "2324_Employee"
 msgid "Be more open."
 msgstr "Sé más abierta."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P37
 msgctxt "2336_Employee"
 msgid "Be more open."
 msgstr "Sé más abierta."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P30
 msgctxt "2348_Employee"
 msgid "Act exactly like you do at the club."
 msgstr "Actúa exactamente igual que en el club."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P37
 msgctxt "2360_Employee"
 msgid "Be more open."
 msgstr "Sé más abierta."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=4
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P37
 msgctxt "2372_Employee"
 msgid "Be more open."
 msgstr "Sé más abierta."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=5
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P61
 msgctxt "2384_Employee"
 msgid "Ask for your favorite dish."
 msgstr "Ordena tu plato favorito."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=5
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P68
 msgctxt "2396_Employee"
 msgid "Ask for his favorite dish."
 msgstr "Ordena el plato favorito del cliente."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P68
 msgctxt "2408_Employee"
 msgid "Ask for his favorite dish."
 msgstr "Ordena el plato favorito del cliente."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=7
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P90
 msgctxt "2420_Employee"
 msgid "Maintain your image as a hostess."
 msgstr "Mantén tu imagen como hostess."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=7
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P97
 msgctxt "2432_Employee"
 msgid "Create a domestic atmosphere."
 msgstr "Crea una atmosfera hogareña."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=8
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P97
 msgctxt "2444_Employee"
 msgid "Create a domestic atmosphere."
 msgstr "Crea una atmosfera hogareña."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=9
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P127
 msgctxt "2456_Employee"
 msgid "Go Dutch."
 msgstr "Repartir la cuenta."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=9
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P136
 msgctxt "2468_Employee"
 msgid "Take out your wallet like you're going to pay."
 msgstr "Saca tu cartera como si fueras a pagar."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=10
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P136
 msgctxt "2480_Employee"
 msgid "Take out your wallet like you're going to pay."
 msgstr "Saca tu cartera como si fueras a pagar."
+

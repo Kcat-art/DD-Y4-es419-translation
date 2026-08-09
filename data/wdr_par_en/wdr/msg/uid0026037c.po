@@ -7,13 +7,8 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=0026037C
-#. y4:runtime_group_count=5
-#. y4:runtime_groups=0|1|2|3|4
-#. y4:runtime_pac_names=pac_STID_ST_BILLIARDS.bin
-#. y4:runtime_play_command=y4.play_msg 0026037C <group>
 
 #. y4:line_status=translated
 msgctxt "1248"
@@ -36,8 +31,6 @@ msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "27424"
 msgid "Minamizawa"
 msgstr "Minamizawa"
@@ -54,8 +47,6 @@ msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=3
 msgctxt "27436"
 msgid "Ashibe"
 msgstr "Ashibe"
@@ -112,8 +103,6 @@ msgid "Talk_Request"
 msgstr "Talk_Request"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=14
 msgctxt "27480"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -334,41 +323,26 @@ msgid "Sorry, I don't have much I can tell you right now. Let me get back to you
 msgstr "Lo siento, no tengo mucho que decirte ahora mismo. volvere cuando tenga mas informacion."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
 msgctxt "2016_Minamizawa"
 msgid "Oh, Kiryu-san. Good to see you. Ready to tell me about the girls at Jewel and Shine?"
 msgstr "Oh, Kiryu-san. Me alegro de verte. ¿Listo para hablarme de las chicas del Jewel and Shine?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=1
 msgctxt "2028_Minamizawa"
 msgid "Oh, Kiryu-san. Good to see you. Ready to tell me about the girls at Jewel and Shine?"
 msgstr "Oh, Kiryu-san. Me alegro de verte. ¿Listo para hablarme de las chicas del Jewel and Shine?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=2
 msgctxt "2040_Minamizawa"
 msgid "Shizuka Saito from Shine, huh? There's really something unique about her... Oh, and I heard she's holding down a day job, too?"
 msgstr "Shizuka Saito de Shine, ¿eh? Hay algo realmente único en ella... Ah, y he oído que también tiene un trabajo de día?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=3
 msgctxt "2064_Minamizawa"
 msgid "No kidding? I knew something seemed special about her. Okay, let's see. I heard she's got some kind of trick that guys go crazy over..."
 msgstr "¿No es broma? Sabía que algo parecía especial en ella. Bien, veamos. Escuché que tiene algún tipo de truco por el que los chicos se vuelven locos..."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=4
 msgctxt "2088_Minamizawa"
 msgid "Hehe. I'd like to get a piece of that action. One more thing. Do you know what she usually likes to eat?"
 msgstr "Jeje. Me gustaría conseguir un poco de esa acción. Una cosa más. ¿Sabes lo que le suele gustar comer?"
@@ -379,9 +353,6 @@ msgid "Hey, that's cute! I'll have to order that next time I go."
 msgstr "¡Oye, qué lindo! Tendré que pedirlo la próxima vez que vaya."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=5
 msgctxt "2124_Minamizawa"
 msgid "Anyway, you've given me a lot of info, but are you sure it's reliable enough to print?"
 msgstr "En fin, me has dado mucha información, pero ¿estás seguro de que es lo suficientemente fiable como para imprimirla?"
@@ -407,25 +378,16 @@ msgid "I'll be here for a while, so come on back when you've got some info I can
 msgstr "Estaré aquí un tiempo, así que vuelve cuando tengas información que me pueda servir."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=6
 msgctxt "2208_Minamizawa"
 msgid "Maya Mori from Jewel, huh? I heard she's really well-known for her other work, but do you know what that is?"
 msgstr "Maya Mori del Jewel, ¿eh? He oído que es muy conocida por su otro trabajo, pero ¿sabes cuál es?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=7
 msgctxt "2232_Minamizawa"
 msgid "Hey, that sounds interesting. I'll have to check out some of her work. Say, does she have any problems she might like to talk about?"
 msgstr "Oye, eso suena interesante. Tendré que ver algunos de sus trabajos. Dime, ¿tiene algún problema del que le gustaría hablar?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=8
 msgctxt "2256_Minamizawa"
 msgid "Hmm, I bet we could get a good reaction by putting that in there... Let's see. Last question. Any food she's really into?"
 msgstr "Hmm, apuesto a que podríamos conseguir una buena reacción poniendo eso ahí... Veamos. Última pregunta. ¿Alguna comida que le guste mucho?"
@@ -436,9 +398,6 @@ msgid "Gotta be careful to get what they like, you know? So that's a sure bet, h
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=9
 msgctxt "2292_Minamizawa"
 msgid "Anyway, you've given me a lot of info, but are you sure it's reliable enough to print?"
 msgstr "En fin, me has dado mucha información, pero ¿estás seguro de que es lo suficientemente fiable como para imprimirla?"
@@ -469,33 +428,21 @@ msgid "Oh, you've got somewhere to go? I'll be here for a while, so come on back
 msgstr "¿Tienes algún sitio al que ir? Estaré aquí un rato, así que vuelve cuando tengas información que me pueda servir."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=10
 msgctxt "2400_Minamizawa"
 msgid "Oh, Kiryu-san. Ready to tell me about the girls at Shine and Jewel?"
 msgstr "Oh, Kiryu-san. ¿Listo para hablarme de las chicas del Shine y Jewel?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=11
 msgctxt "2412_Minamizawa"
 msgid "Shizuka Saito from Shine, huh? There's really something unique about her... Oh, and I heard she's holding down a day job, too?"
 msgstr "Shizuka Saito de Shine, ¿eh? Hay algo realmente único en ella... Ah, y he oído que también tiene un trabajo de día?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=12
 msgctxt "2436_Minamizawa"
 msgid "No kidding? I knew something seemed special about her. Okay, let's see. I heard she's got some kind of trick that guys go crazy over..."
 msgstr "¿No es broma? Sabía que algo parecía especial en ella. Bien, veamos. Escuché que tiene algún tipo de truco por el que los chicos se vuelven locos..."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=13
 msgctxt "2460_Minamizawa"
 msgid "Hehe. I'd like to get a piece of that action. One more thing. Do you know what she usually likes to eat?"
 msgstr "Jeje. Me gustaría conseguir un poco de esa acción. Una cosa más. ¿Sabes lo que le suele gustar comer?"
@@ -506,9 +453,6 @@ msgid "Hey, that's cute! I'll have to order that next time I go."
 msgstr "¡Oye, qué lindo! Tendré que pedirlo la próxima vez que vaya."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=14
 msgctxt "2496_Minamizawa"
 msgid "Anyway, you've given me a lot of info, but are you sure it's reliable enough to print?"
 msgstr "En fin, me has dado mucha información, pero ¿estás seguro de que es lo suficientemente fiable como para imprimirla?"
@@ -534,38 +478,27 @@ msgid "I'll be here for a while, so come on back when you've got some info I can
 msgstr "Estaré aquí un tiempo, así que vuelve cuando tengas información que me pueda servir."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=15
 msgctxt "2580_Minamizawa"
 msgid "Maya Mori from Jewel, huh? I heard she's really well-known for her other work, but do you know what that is?"
 msgstr "Maya Mori del Jewel, ¿eh? He oído que es muy conocida por su otro trabajo, pero ¿sabes cuál es?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=16
 msgctxt "2604_Minamizawa"
 msgid "Hey, that sounds interesting. I'll have to check out some of her work. Say, does she have any problems she might like to talk about?"
 msgstr "Oye, eso suena interesante. Tendré que ver algunos de sus trabajos. Dime, ¿tiene algún problema del que le gustaría hablar?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=17
 msgctxt "2628_Minamizawa"
 msgid "Hmm, I bet we could get a good reaction by putting that in there... Let's see. Last question. Any food she's really into?"
 msgstr "Hmm, apuesto a que podríamos conseguir una buena reacción poniendo eso ahí... Veamos. Última pregunta. ¿Alguna comida que le guste mucho?"
 
 #. y4:line_status=todo
+#. y4:translated_by=MasterCry
 msgctxt "2652_Minamizawa"
 msgid "Gotta be careful to get what they like, you know? So that's a sure bet, huh."
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=18
 msgctxt "2664_Minamizawa"
 msgid "Anyway, you've brought me a lot of info, but are you sure it's reliable enough to print?"
 msgstr "En fin, me has dado mucha información, pero ¿estás seguro de que es lo suficientemente fiable como para imprimirla?"
@@ -596,562 +529,258 @@ msgid "Oh, you've got somewhere to go? I'll be here for a while, so come on back
 msgstr "¿Tienes algún sitio al que ir? Estaré aquí un rato, así que vuelve cuando tengas información que me pueda servir."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P17
 msgctxt "2784_Minamizawa"
 msgid "Tell him about Maya Mori."
 msgstr "Háblarle de Maya Mori."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P31
 msgctxt "2796_Minamizawa"
 msgid "Maybe next time."
 msgstr "Quizá la próxima vez."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T2.P3
 msgctxt "2808_Minamizawa"
 msgid "Tell him about Shizuka Saito."
 msgstr "Háblarle de Shizuka Saito."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P31
 msgctxt "2820_Minamizawa"
 msgid "Maybe next time."
 msgstr "Quizá la próxima vez."
 
-#. y4:line_status=todo
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P5
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "2832_Minamizawa"
 msgid "She's a nursing caregiver."
-msgstr ""
+msgstr "Ella es cuidadora de enfermería."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P5
 msgctxt "2844_Minamizawa"
 msgid "She's a dental assistant."
 msgstr "Es asistente dental."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=2
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P4
 msgctxt "2856_Minamizawa"
 msgid "She's an embalmer."
 msgstr "Es una embalsamadora."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P6
 msgctxt "2868_Minamizawa"
 msgid "She offers to wash their backs."
 msgstr "Ella se ofrece a lavarles las espaldas."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P7
 msgctxt "2880_Minamizawa"
 msgid "She pretends to trip in front of them."
 msgstr "Ella finge tropezar frente a ellos."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=3
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P7
 msgctxt "2892_Minamizawa"
 msgid "She presses her boobs against their arm."
 msgstr "Ella presiona sus tetas contra su brazo."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=4
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P8
 msgctxt "2904_Minamizawa"
 msgid "Vegetable Sticks."
 msgstr "Palitos de verduras."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=4
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P9
 msgctxt "2916_Minamizawa"
 msgid "Chocolate."
 msgstr "Chocolate."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=4
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P9
 msgctxt "2928_Minamizawa"
 msgid "Pickled Vegetables."
 msgstr "Verduras en escabeche."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=5
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P14
 msgctxt "2940_Minamizawa"
 msgid "I'm not so sure..."
 msgstr "No estoy tan seguro..."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=5
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P255
 msgctxt "2952_Minamizawa"
 msgid "It's as good as gold."
 msgstr "Es tan bueno como el oro."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P19
 msgctxt "2964_Minamizawa"
 msgid "She's a novelist."
 msgstr "Es una novelista."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=6
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P18
 msgctxt "2976_Minamizawa"
 msgid "She's a model."
 msgstr "Es una modelo."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=6
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P19
 msgctxt "2988_Minamizawa"
 msgid "She's a racecar driver."
 msgstr "Es una piloto de carreras."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=7
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P21
 msgctxt "3000_Minamizawa"
 msgid "Religious zealots try to recruit her."
 msgstr "Los fanáticos religiosos intentaron reclutarla."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=7
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P21
 msgctxt "3012_Minamizawa"
 msgid "Yakuza are always hitting on her."
 msgstr "Los Yakuza siempre están coqueteando con ella."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=7
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P20
 msgctxt "3024_Minamizawa"
 msgid "She keeps getting questioned by the police."
 msgstr "Ella sigue siendo cuestionada por la policía."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=8
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P23
 msgctxt "3036_Minamizawa"
 msgid "Chicken Basket."
 msgstr "Canasta de Pollo."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=8
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P23
 msgctxt "3048_Minamizawa"
 msgid "Vegetable Sticks."
 msgstr "Palitos de verduras."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=8
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P22
 msgctxt "3060_Minamizawa"
 msgid "Chocolate."
 msgstr "Chocolate."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=9
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P28
 msgctxt "3072_Minamizawa"
 msgid "I'm not so sure..."
 msgstr "No estoy tan seguro..."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=9
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P255
 msgctxt "3084_Minamizawa"
 msgid "It's as good as gold."
 msgstr "Es tan bueno como el oro."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=10
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T3.P1
 msgctxt "3096_Minamizawa"
 msgid "Tell him about Shizuka Saito."
 msgstr "Háblarle de Shizuka Saito."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=10
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0112
-#. y4:msg_branch_target=T3.P15
 msgctxt "3108_Minamizawa"
 msgid "Tell him about Maya Mori."
 msgstr "Háblarle de Maya Mori."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=10
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P29
 msgctxt "3120_Minamizawa"
 msgid "Maybe next time."
 msgstr "Quizá la próxima vez."
 
 #. y4:line_status=todo
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=11
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P3
 msgctxt "3132_Minamizawa"
 msgid "She's a nursing caregiver."
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=11
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P3
 msgctxt "3144_Minamizawa"
 msgid "She's a dental assistant."
 msgstr "Es asistente dental."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=11
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P2
 msgctxt "3156_Minamizawa"
 msgid "She's an embalmer."
 msgstr "Es una embalsamadora."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=12
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P4
 msgctxt "3168_Minamizawa"
 msgid "She offers to wash their backs."
 msgstr "Ella se ofrece a lavarles las espaldas."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=12
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P5
 msgctxt "3180_Minamizawa"
 msgid "She pretends to trip in front of them."
 msgstr "Ella finge tropezar frente a ellos."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=12
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P5
 msgctxt "3192_Minamizawa"
 msgid "She presses her boobs against their arm."
 msgstr "Ella presiona sus tetas contra su brazo."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=13
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P6
 msgctxt "3204_Minamizawa"
 msgid "Vegetable Sticks."
 msgstr "Palitos de verduras."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=13
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P7
 msgctxt "3216_Minamizawa"
 msgid "Chocolate."
 msgstr "Chocolate."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=13
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P7
 msgctxt "3228_Minamizawa"
 msgid "Pickled Vegetables."
 msgstr "Verduras en escabeche."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=14
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P12
 msgctxt "3240_Minamizawa"
 msgid "I'm not so sure..."
 msgstr "No estoy tan seguro..."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=14
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P255
 msgctxt "3252_Minamizawa"
 msgid "It's as good as gold."
 msgstr "Es tan bueno como el oro."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=15
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P17
 msgctxt "3264_Minamizawa"
 msgid "She's a novelist."
 msgstr "Es una novelista."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=15
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P16
 msgctxt "3276_Minamizawa"
 msgid "She's a model."
 msgstr "Es una modelo."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=15
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P17
 msgctxt "3288_Minamizawa"
 msgid "She's a racecar driver."
 msgstr "Es una piloto de carreras."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=16
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P19
 msgctxt "3300_Minamizawa"
 msgid "Religious zealots try to recruit her."
 msgstr "Los fanáticos religiosos intentaron reclutarla."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=16
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P19
 msgctxt "3312_Minamizawa"
 msgid "Yakuza are always hitting on her."
 msgstr "Los Yakuza siempre están coqueteando con ella."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=16
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P18
 msgctxt "3324_Minamizawa"
 msgid "She keeps getting questioned by the police."
 msgstr "Ella sigue siendo cuestionada por la policía."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=17
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P21
 msgctxt "3336_Minamizawa"
 msgid "Chicken Basket."
 msgstr "Canasta de Pollo."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=17
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P21
 msgctxt "3348_Minamizawa"
 msgid "Vegetable Sticks."
 msgstr "Palitos de verduras."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=17
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P20
 msgctxt "3360_Minamizawa"
 msgid "Chocolate."
 msgstr "Chocolate."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=18
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P26
 msgctxt "3372_Minamizawa"
 msgid "I'm not so sure..."
 msgstr "No estoy tan seguro..."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=18
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P255
 msgctxt "3384_Minamizawa"
 msgid "It's as good as gold."
 msgstr "Es tan bueno como el oro."
+

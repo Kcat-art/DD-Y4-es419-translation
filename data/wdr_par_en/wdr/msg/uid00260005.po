@@ -6,18 +6,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00260005
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 00260005 <group>
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "3484"
 msgid "Maria"
 msgstr "María"
@@ -28,8 +21,6 @@ msgid "F_sxy_stand_tlk_surp"
 msgstr "F_sxy_stand_tlk_surp"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
 msgctxt "3492"
 msgid "Tanimura"
 msgstr "Tanimura"
@@ -40,8 +31,6 @@ msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=4
 msgctxt "3500"
 msgid "Maria's Bodyguard"
 msgstr "Guardaespaldas de María"
@@ -152,12 +141,14 @@ msgctxt "204_Maria"
 msgid "I suppose. You certainly are a brave boy. So I guess\\r\nthere's no more room for negotiating?"
 msgstr "Supongo. Ciertamente eres un chico valiente.\\r\n¿Así que supongo, no hay más espacio para negociar?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "216_Tanimura"
 msgid "I guess not."
-msgstr ""
+msgstr "Supongo que no."
 
 #. y4:line_status=translated
 msgctxt "228_Maria"
 msgid "In that case... I have no choice. Gentlemen! I want him out of my sight."
 msgstr "En ese caso... No tengo otra opción.\\r\n¡Señores! Lo quiero fuera de mi vista."
+

@@ -6,18 +6,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00910330
-#. y4:runtime_group_count=3
-#. y4:runtime_groups=0|1|2
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 00910330 <group>
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "15108"
 msgid "Street Punk"
 msgstr "Matones callejeros"
@@ -28,8 +21,6 @@ msgid "M_ykzs_damage_tlk_no"
 msgstr "M_ykzs_damage_tlk_no"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
 msgctxt "15116"
 msgid "Kotaro"
 msgstr "Kotaro"
@@ -40,8 +31,6 @@ msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=4
 msgctxt "15124"
 msgid "Other Street Punks"
 msgstr "Otros Matones Callejeros"
@@ -58,8 +47,6 @@ msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=7
 msgctxt "15136"
 msgid "Okonomiyaki Store Manager"
 msgstr "Gerente de la Tienda de Okonomiyaki"
@@ -100,8 +87,6 @@ msgid "M_yng_sitchr_tlk_no"
 msgstr "M_yng_sitchr_tlk_no"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=15
 msgctxt "15168"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -183,8 +168,6 @@ msgid "dummy"
 msgstr "dummy"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=31
 msgctxt "15232"
 msgid "Other Street Punk"
 msgstr "Otro Matón Callejero"
@@ -254,10 +237,11 @@ msgctxt "404_Kiryu"
 msgid "Look, why don't you try and explain to me what happened?"
 msgstr "Mira, ¿por qué no intentas explicarme qué ha pasado?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "416_Kotaro"
 msgid "Okay. Let's see..."
-msgstr ""
+msgstr "Ok. Ya veo..."
 
 #. y4:line_status=translated
 msgctxt "488_Street Punk"
@@ -395,17 +379,11 @@ msgid "That's the way I talk to anybody who acts like a dick, ya dick!"
 msgstr "¡Así es como le hablo a los estúpidos, estúpido!"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
 msgctxt "956_Kiryu"
 msgid "(That's Kotaro. Don't tell me he's getting into trouble at work again.)"
 msgstr "(Ese es Kotaro. No me digas que está metido en otro \\r problema laboral.)"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=1
 msgctxt "968_Kiryu"
 msgid "(I'm kind of worried about him. Maybe I should step in?)"
 msgstr "(Estoy algo preocupado. ¿Debería involucrarme?)"
@@ -466,45 +444,22 @@ msgid "I don't know what kind of disco reject you're supposed to be, but you're 
 msgstr "¡No sé de que tipo de discoteca sales, pero les voy\na dar a los dos una buena!"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P6
 msgctxt "1124_Street Punk"
 msgid "Break Things Up"
 msgstr "Ayudar a Calmar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P5
 msgctxt "1136_Street Punk"
 msgid "Don't Get Involved"
 msgstr "No Meterse"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P6
 msgctxt "1148_Street Punk"
 msgid "Break Things Up"
 msgstr "Ayudar a Calmar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P5
 msgctxt "1160_Street Punk"
 msgid "Don't Get Involved"
 msgstr "No Meterse"
+

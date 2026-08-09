@@ -1,107 +1,73 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid006c0034.po\n"
-"X-Crowdin-File-ID: 61952\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=006C0034
-#. y4:runtime_group_count=4
-#. y4:runtime_groups=0|1|2|3
-#. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
-#. y4:runtime_play_command=y4.play_msg 006C0034 <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
 msgctxt "1488"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
+#. y4:line_status=translated
 msgctxt "204_Player"
 msgid "(Should I give her a present?)"
 msgstr "(¿Debería darle un regalo...?)"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "228_Player"
 msgid "(Maybe she'd like this.)"
-msgstr ""
+msgstr "(Capaz esto le guste)"
 
+#. y4:line_status=translated
 msgctxt "240_Player"
 msgid "(On second thought, maybe not.)"
 msgstr "(Pensándolo bien... quizá no)."
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=1
+#. y4:line_status=translated
 msgctxt "252_Player"
 msgid "(This might be a good time to leave, but I've got enough money. Should I stay a bit longer?)"
 msgstr "(Este parece ser un buen momento para irme, pero todavía tengo dinero. ¿Debería quedarme otro rato?)"
 
+#. y4:line_status=translated
 msgctxt "264_Player"
 msgid "(I think I'll stay just a bit longer.)"
 msgstr "(Creo que me quedaré un poco más.)"
 
+#. y4:line_status=translated
 msgctxt "276_Player"
 msgid "(I think it's time to go.)"
 msgstr "(Creo que es hora de irse)."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "288_Player"
 msgid "(The girls were awful. What a disappointment.)"
-msgstr ""
+msgstr "(Las chicas fueron horribles. Qué decepción.)"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P1
+#. y4:line_status=translated
 msgctxt "300_Player"
 msgid "Yes"
 msgstr "Sí"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P3
+#. y4:line_status=translated
 msgctxt "312_Player"
 msgid "No"
 msgstr "No"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P1
+#. y4:line_status=translated
 msgctxt "324_Player"
 msgid "Yes"
 msgstr "Sí"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P2
+#. y4:line_status=translated
 msgctxt "336_Player"
 msgid "No"
 msgstr "No"
+

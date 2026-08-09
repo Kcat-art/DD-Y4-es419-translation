@@ -7,17 +7,10 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=001303D6
-#. y4:runtime_group_count=18
-#. y4:runtime_groups=0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17
-#. y4:runtime_pac_names=pac_STID_ST_DOJO_IKUSEI.bin
-#. y4:runtime_play_command=y4.play_msg 001303D6 <group>
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "54816"
 msgid "Ochiai"
 msgstr "Ochiai"
@@ -29,8 +22,6 @@ msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
 msgctxt "54824"
 msgid "Sodachi"
 msgstr "Sodachi"
@@ -56,8 +47,6 @@ msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=7
 msgctxt "54844"
 msgid "Saejima"
 msgstr "Saejima"
@@ -67,12 +56,11 @@ msgctxt "54848"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=9
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "54852"
 msgid "Ehama"
-msgstr ""
+msgstr "Ehama"
 
 #. y4:line_status=translated
 msgctxt "54856"
@@ -96,8 +84,6 @@ msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=14
 msgctxt "54872"
 msgid "Renovations"
 msgstr "Renovaciones"
@@ -348,9 +334,6 @@ msgid "Let's see... It would be around 1.5 million yen."
 msgstr "Veamos... Sería alededor de 1.5 millones de yenes."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
 msgctxt "968_Sodachi"
 msgid "Renovating will allow us to expand for higher level training facilities. Saejima-san! Come on! What do you say!?"
 msgstr "Una renovación nos ayudaría a expandirnos a unas instalaciones de entrenamiento de más nivel. ¡Saejima-san! ¡Vamos! ¿¡Qué dices!?"
@@ -1046,9 +1029,6 @@ msgid "(I'm glad he's back, but it looks like he's lost a lot o' motivation. Bet
 msgstr "(Me alegra que haya vuelto, pero parece que ha perdido mucha motivación. Será mejor conseguirle ese cinturón de campeón. Y rápido...)."
 
 #. y4:line_status=todo
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=1
 msgctxt "4292_Sodachi"
 msgid "Hey, Saejima-san! I was waiting for you! Shall we start our training now?"
 msgstr ""
@@ -1074,45 +1054,22 @@ msgid "Oh, that's too bad. But you are a pretty busy person. Come back when you 
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P47
 msgctxt "4364_Ochiai"
 msgid "Renovate for 1.5 million yen"
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P64
 msgctxt "4376_Ochiai"
 msgid "Not Now"
 msgstr "Ahora no"
 
 #. y4:line_status=todo
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T17.P1
 msgctxt "4388_Ochiai"
 msgid "Start Training"
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T17.P4
 msgctxt "4400_Ochiai"
 msgid "Not Now"
 msgstr "Ahora no"
+

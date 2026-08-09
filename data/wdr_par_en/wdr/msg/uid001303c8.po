@@ -6,18 +6,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=001303C8
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 001303C8 <group>
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "10140"
 msgid "Saejima"
 msgstr "Saejima"
@@ -27,12 +20,11 @@ msgctxt "10144"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "10148"
 msgid "Tokita"
-msgstr ""
+msgstr "Tokita"
 
 #. y4:line_status=translated
 msgctxt "10152"
@@ -45,19 +37,17 @@ msgctxt "10156"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=5
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "10160"
 msgid "Young Voice"
-msgstr ""
+msgstr "Voz joven"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=6
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "10164"
 msgid "Man in Purple Sportswear"
-msgstr ""
+msgstr "Hombre con ropa deportiva morada"
 
 #. y4:line_status=translated
 msgctxt "10168"
@@ -69,19 +59,17 @@ msgctxt "10172"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=9
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "10176"
 msgid "Man in White Sportswear"
-msgstr ""
+msgstr "Hombre con ropa deportiva blanca"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=10
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "10180"
 msgid "Man in Brown Sportswear"
-msgstr ""
+msgstr "Hombre con ropa deportiva marron"
 
 #. y4:line_status=translated
 msgctxt "10184"
@@ -204,9 +192,6 @@ msgid "......"
 msgstr "......"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
 msgctxt "368_Saejima"
 msgid "Tokita..."
 msgstr "Tokita..."
@@ -327,34 +312,17 @@ msgid "(Looks like I calmed 'im down a bit. With a dark past like that, I'm gonn
 msgstr "(Parece que le calmé un poco. Con un oscuro pasado como el suyo, tendré que tener mucho cuidado de lo que digo en el futuro.)"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P22
 msgctxt "704_Saejima"
 msgid "Did ya really run away?"
 msgstr "¿De verdad huíste?"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P27
 msgctxt "716_Saejima"
 msgid "Let's continue trainin'."
 msgstr "Continuemos entrenando."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=3
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P38
 msgctxt "728_Saejima"
 msgid "Don't worry about 'em."
 msgstr "No te preocupes por ellos."
+

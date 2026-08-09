@@ -7,20 +7,14 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00130416
-#. y4:runtime_group_count=4
-#. y4:runtime_groups=0|1|2|3
-#. y4:runtime_pac_names=pac_STID_ST_DOJO_IKUSEI.bin
-#. y4:runtime_play_command=y4.play_msg 00130416 <group>
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "6076"
 msgid "Ehama"
-msgstr ""
+msgstr "Ehama"
 
 #. y4:line_status=translated
 msgctxt "6080"
@@ -28,15 +22,11 @@ msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
 msgctxt "6084"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=3
 msgctxt "6088"
 msgid "Sodachi"
 msgstr "Sodachi"
@@ -62,12 +52,11 @@ msgctxt "6104"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=8
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "6108"
 msgid "Renovations"
-msgstr ""
+msgstr "Renovaciones"
 
 #. y4:line_status=translated
 msgctxt "6112"
@@ -105,9 +94,6 @@ msgid "Thanks to you, everything at home is going perfectly. Let me know if you 
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
 msgctxt "292_Ehama"
 msgid "By the way, I wanted to ask you about the renovation work we'd talked about before. What do you think? I can do it for 1.5 million yen."
 msgstr ""
@@ -167,24 +153,14 @@ msgctxt "484_Ehama"
 msgid "I'm sorry, it looks like you don't have enough money. I'd love to give you a bigger discount, but this is the best I can do."
 msgstr ""
 
-#. y4:line_status=todo
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P7
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "544_Ehama"
 msgid "Renovate for 1.5 million yen."
-msgstr ""
+msgstr "Renovar por 1.5 millones de yenes."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P20
 msgctxt "556_Ehama"
 msgid "Not right now."
 msgstr "Ahora no."
+

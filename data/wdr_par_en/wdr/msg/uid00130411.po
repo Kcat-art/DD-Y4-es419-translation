@@ -7,6 +7,7 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00130411
@@ -15,12 +16,13 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00130411 <group>
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "8368"
 msgid "Ehama"
-msgstr ""
+msgstr "Ehama"
 
 #. y4:line_status=translated
 msgctxt "8372"
@@ -271,3 +273,4 @@ msgstr ""
 msgctxt "608_Ehama"
 msgid "We can give it a try."
 msgstr ""
+

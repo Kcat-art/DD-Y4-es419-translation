@@ -7,17 +7,11 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=untranslated
-#. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00130426
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_DOJO_IKUSEI.bin
-#. y4:runtime_play_command=y4.play_msg 00130426 <group>
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
-#. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "11020"
 msgid "Sodachi"
 msgstr "Sodachi"
@@ -27,9 +21,8 @@ msgctxt "11024"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "11028"
 msgid "Saejima"
 msgstr "Saejima"
@@ -39,14 +32,15 @@ msgctxt "11032"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=4
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "11036"
 msgid "Tokita"
-msgstr ""
+msgstr "Tokita"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "11040"
 msgid "ReM_nml_korobu_fr"
 msgstr "ReM_nml_korobu_fr"
@@ -56,24 +50,26 @@ msgctxt "11044"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "11048"
 msgid "SetM_nml_sitground_obie"
 msgstr "SetM_nml_sitground_obie"
 
-#. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=8
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "11052"
 msgid "Student"
 msgstr "Estudiante"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "11056"
 msgid "M_ykz_sitgrd_tlk_kamae_ed"
 msgstr "M_ykz_sitgrd_tlk_kamae_ed"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "11060"
 msgid "M_ykz_stand"
 msgstr "M_ykz_stand"
@@ -119,9 +115,8 @@ msgctxt "11092"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
-#. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=19
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "11096"
 msgid "Watanabe"
 msgstr "Watanabe"
@@ -136,60 +131,82 @@ msgctxt "11104"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "68_Sodachi"
 msgid "Thanks to our four apprentices, we've been getting new students and the dojo has been thriving!"
-msgstr ""
+msgstr "¡Gracias a nuestros cuatro aprendices hemos podido atraer nuevos estudiantes y el dojo está prosperando!"
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "80_Saejima"
 msgid "You're right. Guess you won't be needin' me much anymore."
-msgstr ""
+msgstr "Claro que sí. Supongo que ya no necesitan mi ayuda por aquí."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "92_Sodachi"
 msgid "Whaaaat!? What are you saying!?"
-msgstr ""
+msgstr "¡¿Quéééééé?! ¡¿Qué estás diciendo?!"
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "104_Sodachi"
 msgid "If you leave, things will just go back to the way they were!"
-msgstr ""
+msgstr "¡Si dejas el dojo este lugar va a volver a ser como era!"
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "116_Sodachi"
 msgid "Plus... The dojo won't be the same without you."
-msgstr ""
+msgstr "Además, este lugar no podría ser el mismo sin ti."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "128_Sodachi"
 msgid "If possible, I want you to stay here forever."
-msgstr ""
+msgstr "Si es posible quisiera que estés aquí para siempre."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "140_Saejima"
 msgid "Thanks, but I can't stick around forever. I got my own life too."
-msgstr ""
+msgstr "Gracias pero no me puedo quedar. Tengo que ocuparme de mis cosas."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "152_Saejima"
 msgid "You gotta start thinkin' about how to run things without me."
-msgstr ""
+msgstr "Tendrás que aprender a como manejar todo sin mi ayuda."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "164_Sodachi"
 msgid "But I'll be in a world of trouble if you up and leave now. Could you just stay for a little longer? Please?"
-msgstr ""
+msgstr "Pero todo se llenará de problemas si te vas ahora. ¿No podrías quedarte un poco más? ¿Por favor?"
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "176_Sodachi"
 msgid "That will give me enough time to think about the future of things."
-msgstr ""
+msgstr "Así tendría el tiempo suficiente para poder pensar las cosas."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "188_Saejima"
 msgid "All right, all right."
-msgstr "De acuerdo, de acuerdo."
+msgstr "Bien, bien."
 
 #. y4:line_status=todo
 msgctxt "200_Saejima"
@@ -375,3 +392,4 @@ msgstr ""
 msgctxt "740_Watanabe"
 msgid "Yes, sir! Saejima-sensei!"
 msgstr ""
+

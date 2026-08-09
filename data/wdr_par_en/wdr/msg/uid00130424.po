@@ -7,17 +7,10 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00130424
-#. y4:runtime_group_count=18
-#. y4:runtime_groups=0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17
-#. y4:runtime_pac_names=pac_STID_ST_DOJO_IKUSEI.bin
-#. y4:runtime_play_command=y4.play_msg 00130424 <group>
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "52612"
 msgid "Sodachi"
 msgstr "Sodachi"
@@ -28,15 +21,11 @@ msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
 msgctxt "52620"
 msgid "Saejima"
 msgstr "Saejima"
 
 #. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=3
 msgctxt "52624"
 msgid "Tokita"
 msgstr ""
@@ -68,15 +57,11 @@ msgid "Talk_Cry"
 msgstr "Talk_Cry"
 
 #. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=9
 msgctxt "52648"
 msgid "Young Voice"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=10
 msgctxt "52652"
 msgid "Man in Brown Sportswear"
 msgstr ""
@@ -87,15 +72,11 @@ msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=12
 msgctxt "52660"
 msgid "Man in White Sportswear"
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=13
 msgctxt "52664"
 msgid "Man in Purple Sportswear"
 msgstr ""
@@ -461,15 +442,17 @@ msgctxt "1164_Saejima"
 msgid "......"
 msgstr "......"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "1236_Sodachi"
 msgid "The dojo's rank decreased! This is a nightmare... Ugh, my chest hurts... The stress is killing me! Saejima-san! Do something!"
-msgstr ""
+msgstr "¡El rango del Dojo ha caído! E-Esto es una terrible... Ahg, me duele el pecho... ¡El estrés me mata! Saejima-san! ¡Haz algo, por favor!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "1248_Saejima"
 msgid "(Will he pipe down already...)"
-msgstr ""
+msgstr "(Espero que cierre el pico...)"
 
 #. y4:line_status=todo
 msgctxt "1320_Tokita"
@@ -506,10 +489,11 @@ msgctxt "1500_Sodachi"
 msgid "You will be competing in Dragon's Gate.\tThis is a match for beginning fighters. The level of entry isn't high, so it's perfect for practice."
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "1512_Sodachi"
 msgid "This is the beginning of all history. Go Sodachi Dojo!"
-msgstr ""
+msgstr "Este es el comienzo de una gran historia. ¡Vamos Dojo de Sodachi!"
 
 #. y4:line_status=todo
 msgctxt "1524_Sodachi"
@@ -1047,9 +1031,6 @@ msgid "(I'm glad he's back, but it looks like he's lost a lot o' motivation. Bet
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
 msgctxt "4044_Sodachi"
 msgid "Hey, Saejima-san! I was waiting for you! Shall we start our training now?"
 msgstr ""
@@ -1075,23 +1056,12 @@ msgid "Oh, that's too bad. But you are a pretty busy person. Come back when you 
 msgstr ""
 
 #. y4:line_status=todo
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T17.P1
 msgctxt "4116_Sodachi"
 msgid "Start Training"
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T17.P4
 msgctxt "4128_Sodachi"
 msgid "Not Now"
 msgstr "Ahora no"
+

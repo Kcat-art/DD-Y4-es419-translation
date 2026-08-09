@@ -9,16 +9,8 @@ msgstr ""
 #. y4:file_status=untranslated
 #. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=001303CE
-#. y4:runtime_group_count=18
-#. y4:runtime_groups=0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17
-#. y4:runtime_pac_names=pac_STID_ST_DOJO_IKUSEI.bin
-#. y4:runtime_play_command=y4.play_msg 001303CE <group>
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "48544"
 msgid "Sodachi"
 msgstr "Sodachi"
@@ -29,8 +21,6 @@ msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
 msgctxt "48552"
 msgid "Saejima"
 msgstr "Saejima"
@@ -40,12 +30,11 @@ msgctxt "48556"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=4
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "48560"
 msgid "Ehama"
-msgstr ""
+msgstr "Ehama"
 
 #. y4:line_status=translated
 msgctxt "48564"
@@ -69,22 +58,16 @@ msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=9
 msgctxt "48580"
 msgid "Child's Voice"
 msgstr "Voz de un niño"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=10
 msgctxt "48584"
 msgid "Ehama's Wife"
 msgstr "Esposa de Ehama"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=11
 msgctxt "48588"
 msgid "Ehama's Son"
 msgstr "Hijo de Ehama"
@@ -200,10 +183,11 @@ msgctxt "384_Sodachi"
 msgid "Here's to the new champion, Ehama-san! Congratulations!"
 msgstr "¡Aquí está el nuevo campeón, Ehama-san! ¡Felicidades!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "396_Saejima"
 msgid "Good job."
-msgstr ""
+msgstr "Buen trabajo."
 
 #. y4:line_status=translated
 msgctxt "408_Sodachi"
@@ -327,15 +311,17 @@ msgctxt "816_Saejima"
 msgid "......"
 msgstr "......"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "888_Sodachi"
 msgid "The dojo's rank decreased! This is a nightmare... Ugh, my chest hurts... The stress is killing me! Saejima-san! Do something!"
-msgstr ""
+msgstr "¡El rango del Dojo ha caído! E-Esto es una terrible... Ahg, me duele el pecho... ¡El estrés me mata! Saejima-san! ¡Haz algo, por favor!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "900_Saejima"
 msgid "(Will he pipe down already...)"
-msgstr ""
+msgstr "(Espero que cierre el pico...)"
 
 #. y4:line_status=translated
 msgctxt "972_Ehama"
@@ -372,10 +358,11 @@ msgctxt "1200_Sodachi"
 msgid "You will be competing in Dragon's Gate. This is a match for beginning fighters. The level of entry isn't high, so it's perfect for practice."
 msgstr "Compitiendo en la Puerta del Dragón. Este es un combate para los combatientes principiantes. El nivel de entrada no es alto, así que es perfecto para practicar."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "1212_Sodachi"
 msgid "This is the beginning of all history. Go Sodachi Dojo!"
-msgstr ""
+msgstr "Este es el comienzo de una gran historia. ¡Vamos Dojo de Sodachi!"
 
 #. y4:line_status=translated
 msgctxt "1224_Sodachi"
@@ -531,3 +518,4 @@ msgstr "Es una lástima la derrota... Y parece que Ehama-san está desgarrado po
 msgctxt "1596_Sodachi"
 msgid "But gaining that experience is a big deal. Think of it as a positive outcome and let's keep up the hard training so we can win next time!"
 msgstr "Pero ganar esa experiencia es muy importante. ¡Piensa en ello como un resultado positivo y sigamos entrenando duro para que podamos ganar la siguiente ocasión!"
+

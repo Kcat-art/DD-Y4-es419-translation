@@ -1,127 +1,136 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid0102024b.po\n"
-"X-Crowdin-File-ID: 59604\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=0102024B
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_KAMUROSYO_02.bin
-#. y4:runtime_play_command=y4.play_msg 0102024B <group>
+#. y4:file_status=translated
+#. y4:last_reviewer=Kcat0
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "5636"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "5640"
 msgid "Idle"
 msgstr "Idle"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "5644"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=3
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "5648"
 msgid "Kido"
 msgstr "Kido"
 
+#. y4:line_status=translated
 msgctxt "5652"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "5656"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "128_Akiyama"
 msgid "Hey, how'd your little session with Sugiuchi go?"
 msgstr "Hey, qué tal."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "140_Kido"
 msgid "Ugh, don't get me started."
 msgstr "Buenas."
 
+#. y4:line_status=translated
 msgctxt "152_Kido"
 msgid "That guy really puts the dick in detective. What an asshole."
 msgstr "Ahh, ese tal Sugiuchi, el detective... de verdad tiene una personalidad de mierda, ¿no?"
 
+#. y4:line_status=translated
 msgctxt "164_Akiyama"
 msgid "No joke."
 msgstr "Sí... Bueno, tiene más de cuarenta y sigue estancado en ese puesto, ¿no?"
 
+#. y4:line_status=translated
 msgctxt "176_Akiyama"
 msgid "But hey, if I were over forty and still stuck as a beat cop, I'd probably have a chip on my shoulder, too."
 msgstr "Debe estar frustrado... Seguro que sí."
 
+#. y4:line_status=translated
 msgctxt "188_Kido"
 msgid "You think that's all it is?"
 msgstr "¿Tú crees que es solo eso?"
 
+#. y4:line_status=translated
 msgctxt "200_Akiyama"
 msgid "You think it's not?"
 msgstr "¿A qué te refieres?"
 
+#. y4:line_status=translated
 msgctxt "272_Kido"
 msgid "I dunno. It kinda feels like he's, like, obsessed with you and Arai-aniki or something."
 msgstr "Es que ese tal Sugiuchi... solo me hacía preguntas sobre usted y Arai-aniki."
 
+#. y4:line_status=translated
 msgctxt "284_Akiyama"
 msgid "How do you figure?"
 msgstr "¿Sobre Arai y yo?"
 
+#. y4:line_status=translated
 msgctxt "296_Kido"
 msgid "He kept grilling me about how you two met."
 msgstr "Sí. Que cómo se conocieron ustedes dos, por ejemplo."
 
+#. y4:line_status=translated
 msgctxt "308_Kido"
 msgid "Oh, and he wouldn't shut up about wanting to know what Kanemura's loan terms were."
 msgstr "Que cuáles fueron las condiciones para que usted le prestara dinero a nuestro jefe..."
 
+#. y4:line_status=translated
 msgctxt "320_Kido"
 msgid "Doesn't that seem kinda... weird to you?"
 msgstr "¿No le parece raro?"
 
+#. y4:line_status=translated
 msgctxt "332_Akiyama"
 msgid "I guess."
 msgstr "Sí, un poco."
 
+#. y4:line_status=translated
 msgctxt "344_Kido"
 msgid "Not that I can blame him for wondering. Why <Italic>are</Italic> you throwing your weight behind Arai-aniki?"
 msgstr "Pero igual, yo también tengo curiosidad. ¿Por qué se involucra tanto usted por Arai-aniki?"
 
+#. y4:line_status=translated
 msgctxt "356_Akiyama"
 msgid "That's my little secret."
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "368_Kido"
 msgid "C'mon, Akiyama-san! You can tell me."
 msgstr "Akiyama-san. Dígamelo, por favor."
 
+#. y4:line_status=translated
 msgctxt "380_Akiyama"
 msgid "Heh, maybe when you're older."
 msgstr "Será en otra ocasión."
 
+#. y4:line_status=translated
 msgctxt "392_Kido"
 msgid "Ugh, Akiyama-san..."
 msgstr "Akiyama-san..."
+

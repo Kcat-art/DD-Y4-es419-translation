@@ -1,86 +1,74 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01ee020a.po\n"
-"X-Crowdin-File-ID: 58940\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=01EE020A
-#. y4:runtime_group_count=5
-#. y4:runtime_groups=0|1|2|3|4
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 01EE020A <group>
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
-
-
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "188"
 msgid "Go to the rooftop?"
 msgstr "¿Ir a la azotea?"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "1408"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "1412"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "176_Akiyama"
 msgid "(This is where I'm supposed to meet up with Kido-chan. Guess I should start climbing.)"
 msgstr "(Aquí es donde se supone que me iba a reunir con Kido-chan. Debería empezar a subir)."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "200_Akiyama"
 msgid "(Maybe later.)"
 msgstr "(Tal vez más tarde)."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "212_Akiyama"
 msgid "(Okay, I better go see what Kido-chan wants.)"
-msgstr "(Muy bien, hora de ver lo que Kido-chan quiere)."
+msgstr "(Muy bien, a ver que es lo que Kido-chan quiere)."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "236_Player"
 msgid "(I'm not alone right now... Would be dangerous to take them to the rooftop with me.)"
 msgstr "(No estoy solo ahora... Sería peligroso que me acompañe a la azotea)."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "248_Player"
 msgid "(It's dangerous to go to the rooftops in the rain. I shouldn't do that right now.)"
 msgstr "(Es peligroso ir a los tejados cuando llueve. Mejor no)."
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P3
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "272_Akiyama"
 msgid "Yes"
 msgstr "Sí"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P2
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "284_Akiyama"
 msgid "No"
 msgstr "No"
+

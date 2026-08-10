@@ -1,39 +1,32 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid012a000f.po\n"
-"X-Crowdin-File-ID: 59420\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=012A000F
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_FINANCE.bin
-#. y4:runtime_play_command=y4.play_msg 012A000F <group>
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "84"
 msgid "You now have access to a hideout."
 msgstr "Ahora tienes acceso al refugio."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "96"
 msgid "Here you can save your game, move items to the item box, reminisce on past events, and view your play stats."
-msgstr "Aquí puedes guardar tu partida, mover objetos al baúl de objetos, volver a reproducir las cinemáticas y ver tus estadísticas."
+msgstr "Aquí puedes guardar tu partida, mover objetos al baúl, volver a reproducir las cinemáticas y ver tus estadísticas."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "108"
 msgid "Furthermore, your health will recover while at a hideout."
 msgstr "Además, tu salud se recuperará mientras estés en un refugio."
+

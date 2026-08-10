@@ -6,23 +6,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=translated
-#. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00A40074
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 00A40074 <group>
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "244"
 msgid "You handed over the <Color:8>Briefcase with 30 Million Yen<Color:Default>."
 msgstr "Has entregado el <Color:8>maletín con 30 millones de yenes<Color:Default>."
 
-#. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "4872"
 msgid "Akiyama"
 msgstr "Akiyama"
@@ -32,9 +28,8 @@ msgctxt "4876"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
-#. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "4880"
 msgid "Nishihama"
 msgstr "Nishihama"
@@ -70,142 +65,142 @@ msgctxt "4904"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "172_Akiyama"
 msgid "Ah, I see you've been waiting. Sorry I took so long."
 msgstr "Vaya, llegaste temprano. Disculpa por la demora."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "184_Nishihama"
 msgid "No trouble at all, so long as you brought the money."
 msgstr "No se preocupe. Solo espero que no haya olvidado el dinero."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "196_Nishihama"
 msgid "You did bring the money, right...?"
 msgstr "No se le olvidó... ¿verdad?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "208_Akiyama"
 msgid "Got it right here. Care to take a look?"
 msgstr "Para nada. ¿Quieres echarle un vistazo?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "220_Nishihama"
 msgid "Oh, no, that won't be necessary! I trust you, Akiyama-san."
 msgstr "Oh, no, no es necesario. Confío en usted, Akiyama-san."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "232_Akiyama"
 msgid "You sure? All right, here you go."
 msgstr "¿Estás seguro? Bueno, aquí tienes."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "268_Nishihama"
 msgid "Actually... there's one more favor I'd like to ask of you."
 msgstr "De hecho... me gustaría pedirle un último favor."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "280_Akiyama"
 msgid "Another one? What is it this time?"
 msgstr "¿Otro favor? ¿En qué puedo ayudarle ahora?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "292_Nishihama"
 msgid "Would you mind coming with me to give this to the\\r\nkidnapper? I'm too scared to go by myself."
-msgstr "¿Le importaría acompañarme para entregarle esto al secuestrador?\\r\nEstoy demasiado nervioso como para ir solo."
+msgstr "¿Le importaría acompañarme para entregarle esto al\nsecuestrador? Estoy demasiado nervioso como para ir solo."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "304_Akiyama"
 msgid "But you can't just show up with some random guy. What'll the\\r\nkidnapper do to your daughter if he sees me?"
-msgstr "Pero no puedes aparecer con cualquier persona. ¿Qué pensará\\r\nel secuestrador si me ve?"
+msgstr "Pero no puedes aparecer con cualquier persona. ¿Qué pensará\nel secuestrador si me ve?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "316_Nishihama"
 msgid "Huh? Well, uh... It's a risk, but... I just can't go by\\r\nmyself."
-msgstr "¿Eh? Es algo arriesgado, lo admito, pero...\\r\nno puedo ir solo."
+msgstr "¿Eh? Es algo arriesgado, lo admito, pero...\nno puedo ir solo."
 
-#. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "328_Nishihama"
 msgid "I'm begging you! Please come with me! I... I can't handle\\r\nthis much money alone!"
-msgstr "¡Le ruego que me acompañe! ¡No puedo manejar una suma\\r\ntan grande de dinero solo!"
+msgstr "¡Le ruego que me acompañe! ¡No puedo manejar una suma\ntan grande de dinero solo!"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "340_Akiyama"
 msgid "You know I can't do that. What if something happened to\\r\nyour daughter?"
-msgstr "Sabes que no puedo hacer eso... ¿Qué pasaría si le sucede algo\\r\na tu hija?"
+msgstr "Sabes que no puedo hacer eso... ¿Qué pasaría si le sucede algo\na tu hija?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "352_Nishihama"
 msgid "Please don't say that! Please, Akiyama-san, you just have to\\r\ncome with me! Please!"
-msgstr "¡No diga eso, por favor! Se lo suplico, Akiyama-san. Necesito que\\r\nme acompañe. ¡Por favor!"
+msgstr "¡No diga eso, por favor! Se lo suplico, Akiyama-san.\nNecesito que me acompañe. ¡Por favor!"
 
-#. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=1
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "364_Nishihama"
 msgid "Don't make me do this alone! I'm on my knees here!"
 msgstr "¡Por favor, no me deje hacerlo solo! ¡Estoy desesperado!"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "376_Akiyama"
 msgid "...All right. I'll come along."
-msgstr "Vale... Te acompañaré."
+msgstr "Bien... Te acompañaré."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "388_Nishihama"
 msgid "Thank you so much! It's right this way. Just follow me!"
 msgstr "¡Muchísimas gracias! Es por aquí. ¡Por favor, sígame!"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "412_Akiyama"
 msgid "What's going on...?"
 msgstr "¿Qué está pasando?..."
 
-#. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P17
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "448_Akiyama"
 msgid "Go With Him"
 msgstr "Ir con él"
 
-#. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P14
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "460_Akiyama"
 msgid "Refuse"
 msgstr "Negarse"
 
-#. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P17
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "472_Akiyama"
 msgid "Go With Him"
 msgstr "Ir con él"
 
-#. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P14
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "484_Akiyama"
 msgid "Refuse"
 msgstr "Negarse"
+

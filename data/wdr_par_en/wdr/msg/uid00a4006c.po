@@ -1,105 +1,111 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a4006c.po\n"
-"X-Crowdin-File-ID: 60706\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00A4006C
-#. y4:runtime_group_count=7
-#. y4:runtime_groups=0|1|2|3|4|5|6
-#. y4:runtime_pac_names=pac_STID_ST_FINANCE.bin
-#. y4:runtime_play_command=y4.play_msg 00A4006C <group>
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "248"
 msgid "You got the <Color:8>Briefcase with 30 Million Yen<Color:Default>."
 msgstr "Obtuviste un <Color:8>maletín con 30 millones de yenes<Color:Default>."
 
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "2880"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "2884"
 msgid "Hana"
 msgstr "Hana"
 
+#. y4:line_status=translated
 msgctxt "2888"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "2892"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:line_status=translated
 msgctxt "2896"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "2900"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "212_Akiyama"
 msgid "Hana-chan. Is the money all set?"
 msgstr "Hana-chan, ¿tienes el dinero listo?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "224_Hana"
 msgid "Yep. Thirty million yen. I put it in a briefcase for you."
 msgstr "Como usted ordenó. Treinta millones de yenes. Todo está en un maletín."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "236_Akiyama"
-msgid "Thanks. Appreciate you always being on top of things. It\\r\n"
-"helps a lot."
-msgstr "Te agradezco que siempre estés al tanto de todo.\\r\n"
-"Eres de gran ayuda."
+msgid "Thanks. Appreciate you always being on top of things. It\\r\nhelps a lot."
+msgstr "Te agradezco que siempre estés al tanto de todo.\nEres de gran ayuda."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "272_Akiyama"
-msgid "Apparently, the exchange point is the taxi stand near the\\r\n"
-"Kamurocho Hills construction site."
-msgstr "Al parecer, el punto de encuentro es la parada de taxis cerca del\\r\n"
-"sitio de obras de Kamurocho Hills."
+msgid "Apparently, the exchange point is the taxi stand near the\\r\nKamurocho Hills construction site."
+msgstr "Al parecer, el punto de encuentro es la parada de taxis cerca del\nsitio de obras de Kamurocho Hills."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "284_Hana"
-msgid "Well, it's your money, Chief. I'm not going to tell you how\\r\n"
-"to use it..."
-msgstr "Es su dinero, jefe. No tengo intención de decirle cómo\\r\n"
-"manejarlo..."
+msgid "Well, it's your money, Chief. I'm not going to tell you how\\r\nto use it..."
+msgstr "Es su dinero, jefe. No tengo intención de decirle cómo\nmanejarlo..."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "296_Akiyama"
 msgid "I'm sorry. I always make you go along with my crazy plans."
 msgstr "Perdona. Siempre te meto en mis locuras."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "308_Hana"
 msgid "Don't worry about it. I do this job because I want to."
-msgstr "No se preocupe. Hago esto por mi propia voluntad."
+msgstr "No se preocupe. Hago esto por voluntad propia."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "320_Hana"
-msgid "Just be careful, all right? You have a habit of getting\\r\n"
-"caught up in shady deals."
-msgstr "Solo tenga cuidado, ¿sí? Tiene la costumbre de\\r\n"
-"involucrarse en tratos sospechosos."
+msgid "Just be careful, all right? You have a habit of getting\\r\ncaught up in shady deals."
+msgstr "Solo tenga cuidado, ¿sí? Tiene la costumbre de\ninvolucrarse en tratos sospechosos."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "332_Akiyama"
-msgid "I know. I will. Now, if you'll excuse me, I've got a date\\r\n"
-"over at the lockers."
-msgstr "Lo sé. Lo sé. Ahora, si me disculpas, tengo que ir\\r\n"
-"a los casilleros."
+msgid "I know. I will. Now, if you'll excuse me, I've got a date\\r\nover at the lockers."
+msgstr "Lo sé. Lo sé. Ahora, si me disculpas, tengo que ir\\r\na los casilleros."
+

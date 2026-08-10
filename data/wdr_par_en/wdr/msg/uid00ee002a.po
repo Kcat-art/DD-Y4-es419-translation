@@ -7,13 +7,8 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00EE002A
-#. y4:runtime_group_count=4
-#. y4:runtime_groups=0|1|2|3
-#. y4:runtime_pac_names=pac_STID_ST_YAKU.bin
-#. y4:runtime_play_command=y4.play_msg 00EE002A <group>
 
 #. y4:line_status=translated
 msgctxt "404"
@@ -55,14 +50,13 @@ msgctxt "812"
 msgid "You got <Color:8>Haruka's Candy<Color:Default>."
 msgstr "Has obtenido el <Color:8>dulce de Haruka<Color:Default>."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "884"
 msgid "The Kotobuki Drugs employee is now your ally."
-msgstr ""
+msgstr "Ahora el Empleado de Drogas Kotobuki es tu aliado."
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "10128"
 msgid "Employee"
 msgstr "Empleado"
@@ -73,8 +67,6 @@ msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
 msgctxt "10136"
 msgid "Haruka"
 msgstr "Haruka"
@@ -86,8 +78,6 @@ msgid "Talk_Request"
 msgstr "Talk_Request"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=4
 msgctxt "10144"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -118,25 +108,28 @@ msgctxt "104_Employee"
 msgid "Hello. How are you feeling today?"
 msgstr "Hola. ¿Cómo te sientes hoy?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "128_Haruka"
 msgid "Uncle Kaz, I kinda want a <Color:8>Tauriner<Color:Default>..."
-msgstr ""
+msgstr "Tio kaz, Quiero un <Color:8>Tauriner<Color:Default>."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "140_Kiryu"
 msgid "(Haruka wants me to get her a <Color:8>Tauriner<Color:Default>...)"
-msgstr ""
+msgstr "(Haruka quiere que le compre un <Color:8>Tauriner<Color:Default>)."
 
 #. y4:line_status=translated
 msgctxt "164_Haruka"
 msgid "Aww, I wanted a <Color:8>Tauriner<Color:Default>..."
 msgstr "Ay, quería un <Color:8>Tauriner<Color:Default>..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "176_Employee"
 msgid "Thank you. I hope you'll buy something next time."
-msgstr ""
+msgstr "Muchas gracias. Vuelva pronto."
 
 #. y4:line_status=translated
 msgctxt "200_Haruka"
@@ -148,25 +141,29 @@ msgctxt "212_Kiryu"
 msgid "(Haruka sure is happy...)"
 msgstr "(Haruka parece feliz...)."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "236_Haruka"
 msgid "All this walking around is making me tired... I bet drinking a <Color:8>Toughness Z<Color:Default> will put some pep in my step!"
-msgstr ""
+msgstr "Toda esta caminata me hizo cansar muchisimo... ¡Seguro que si tomo un <Color:8>Toughness Z<Color:Default> estare al diez!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "248_Kiryu"
 msgid "(Haruka wants me to get her a <Color:8>Toughness Z<Color:Default>...)"
-msgstr ""
+msgstr "(Haruka quiere que le compre un <Color:8>Toughness Z<Color:Default>)."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "272_Haruka"
 msgid "Aww, I wanted a <Color:8>Toughness Z<Color:Default>..."
-msgstr ""
+msgstr "Ooh, Quiero un <Color:8>Toughness Z<Color:Default>"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "284_Employee"
 msgid "Thank you. I hope you'll buy something next time."
-msgstr ""
+msgstr "Muchas gracias. Vuelva pronto."
 
 #. y4:line_status=todo
 msgctxt "308_Haruka"
@@ -218,10 +215,11 @@ msgctxt "800_Haruka"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
 msgstr "¡Muchas gracias, tío Kaz! ¡Tengo un regalo para ti!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "860_Employee"
 msgid "Thank you for coming to our store so often."
-msgstr ""
+msgstr "Gracias por venir a la tienda muy a menudo."
 
 #. y4:line_status=todo
 msgctxt "872_Employee"
@@ -233,27 +231,32 @@ msgctxt "896_Employee"
 msgid "Hello. How are you feeling today?"
 msgstr "Hola. ¿Cómo te sientes hoy?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "920_Employee"
 msgid "Thank you. Take care now."
-msgstr ""
+msgstr "Muchas gracias. Tenga cuidado ahora."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "932_Employee"
 msgid "Thank you. I hope you'll buy something next time."
-msgstr ""
+msgstr "Muchas gracias. Vuelva pronto."
 
 #. y4:line_status=translated
 msgctxt "944_Employee"
 msgid "Hello. How are you feeling today?"
 msgstr "Hola. ¿Cómo te sientes hoy?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "968_Employee"
 msgid "Thank you. Take care now."
-msgstr ""
+msgstr "Muchas gracias. Tenga cuidado ahora."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "980_Employee"
 msgid "Thank you. I hope you'll buy something next time."
-msgstr ""
+msgstr "Muchas gracias. Vuelva pronto."
+

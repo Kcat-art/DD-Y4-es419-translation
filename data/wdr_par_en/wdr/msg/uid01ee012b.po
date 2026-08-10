@@ -7,13 +7,8 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=01EE012B
-#. y4:runtime_group_count=14
-#. y4:runtime_groups=0|1|2|3|4|5|6|7|8|9|10|11|12|13
-#. y4:runtime_pac_names=pac_STID_ST_YAKINIKU.bin
-#. y4:runtime_play_command=y4.play_msg 01EE012B <group>
 
 #. y4:line_status=translated
 msgctxt "1628"
@@ -121,8 +116,6 @@ msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
 msgstr "Después de usar el cupón, tu revista Kamuro Gourmet fue descartada."
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "88256"
 msgid "Employee"
 msgstr "Empleado"
@@ -138,8 +131,6 @@ msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=3
 msgctxt "88268"
 msgid "Haruka"
 msgstr "Haruka"
@@ -151,8 +142,6 @@ msgid "Talk_Request"
 msgstr "Talk_Request"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=5
 msgctxt "88276"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -193,92 +182,66 @@ msgid "P_sitchr_tlk_kamae"
 msgstr "P_sitchr_tlk_kamae"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=13
 msgctxt "88308"
 msgid "Player"
 msgstr "Player"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=14
 msgctxt "88312"
 msgid "Noa"
 msgstr "Noa"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=15
 msgctxt "88316"
 msgid "Akiyama"
 msgstr "Akiyama"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=16
 msgctxt "88320"
 msgid "Erena"
 msgstr "Erena"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=17
 msgctxt "88324"
 msgid "Chihiro"
 msgstr "Chihiro"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=18
 msgctxt "88328"
 msgid "Tanimura"
 msgstr "Tanimura"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=19
 msgctxt "88332"
 msgid "Maya"
 msgstr "Maya"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=20
 msgctxt "88336"
 msgid "Rio"
 msgstr "Rio"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=21
 msgctxt "88340"
 msgid "Himeka"
 msgstr "Himeka"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=22
 msgctxt "88344"
 msgid "Shizuka"
 msgstr "Shizuka"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=23
 msgctxt "88348"
 msgid "松岡里緒奈：源氏名"
 msgstr "松岡里緒奈：源氏名"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=24
 msgctxt "88352"
 msgid "望月京子：源氏名"
 msgstr "望月京子：源氏名"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=25
 msgctxt "88356"
 msgid "峰村七海：源氏名"
 msgstr "峰村七海：源氏名"
@@ -403,10 +366,11 @@ msgctxt "1400_Employee"
 msgid "Of course. Please pay at the register."
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "1448_Employee"
 msgid "Sorry. I've got to go take care of something."
-msgstr ""
+msgstr "Lo siento. Me tengo que ir a hacer algo."
 
 #. y4:line_status=todo
 msgctxt "1460_Employee"
@@ -479,9 +443,6 @@ msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
 msgctxt "2180_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
@@ -532,9 +493,6 @@ msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=1
 msgctxt "2516_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
@@ -585,9 +543,6 @@ msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=2
 msgctxt "2852_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
@@ -638,9 +593,6 @@ msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=3
 msgctxt "3188_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
@@ -691,9 +643,6 @@ msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=4
 msgctxt "3524_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
@@ -744,9 +693,6 @@ msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=5
 msgctxt "3860_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
@@ -797,9 +743,6 @@ msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=6
 msgctxt "4196_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
@@ -850,9 +793,6 @@ msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=7
 msgctxt "4532_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
@@ -903,9 +843,6 @@ msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=8
 msgctxt "4868_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
@@ -956,9 +893,6 @@ msgid "Welcome. Let me show you to your seats."
 msgstr "Bienvenido. Permítame mostrarle su asiento."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=9
 msgctxt "5204_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
@@ -1029,9 +963,6 @@ msgid "All right. Please come again soon."
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=10
 msgctxt "5660_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
@@ -1051,10 +982,11 @@ msgctxt "5744_Employee"
 msgid "What would you like to order?"
 msgstr "¿Qué le gustaría ordenar?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "5780_Employee"
 msgid "Sorry. I've got to go take care of something."
-msgstr ""
+msgstr "Lo siento. Me tengo que ir a hacer algo."
 
 #. y4:line_status=todo
 msgctxt "5792_Employee"
@@ -1252,9 +1184,6 @@ msgid "No problem. Please come by again soon."
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=11
 msgctxt "6680_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
@@ -1274,10 +1203,11 @@ msgctxt "6764_Employee"
 msgid "What would you like to order?"
 msgstr "¿Qué le gustaría ordenar?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "6800_Employee"
 msgid "Sorry. I've got to go take care of something."
-msgstr ""
+msgstr "Lo siento. Me tengo que ir a hacer algo."
 
 #. y4:line_status=todo
 msgctxt "6812_Employee"
@@ -1475,9 +1405,6 @@ msgid "No problem. Please come again."
 msgstr "No pasa nada. Por favor, vuelva otra vez."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=12
 msgctxt "7700_Employee"
 msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
 msgstr "Oh, ¿tiene una revista Kamuro Gourmet? ¿le gustaría usar el cupón?"
@@ -1502,10 +1429,11 @@ msgctxt "7808_Player"
 msgid "(Oof. I'm full.)"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "7844_Employee"
 msgid "Sorry. I've got to go take care of something."
-msgstr ""
+msgstr "Lo siento. Me tengo que ir a hacer algo."
 
 #. y4:line_status=todo
 msgctxt "7856_Employee"
@@ -1678,287 +1606,132 @@ msgid "(Eating liver makes your brain younger... Bet the girls at the club might
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P3
 msgctxt "8624_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P4
 msgctxt "8636_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P3
 msgctxt "8648_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P4
 msgctxt "8660_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P3
 msgctxt "8672_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P4
 msgctxt "8684_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P3
 msgctxt "8696_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P4
 msgctxt "8708_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=4
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T5.P3
 msgctxt "8720_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=4
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T5.P4
 msgctxt "8732_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=5
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T6.P3
 msgctxt "8744_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=5
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T6.P4
 msgctxt "8756_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=6
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T7.P3
 msgctxt "8768_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=6
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T7.P4
 msgctxt "8780_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=7
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T8.P3
 msgctxt "8792_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=7
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T8.P4
 msgctxt "8804_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=8
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T9.P3
 msgctxt "8816_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=8
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T9.P4
 msgctxt "8828_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=9
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T10.P3
 msgctxt "8840_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=9
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T10.P4
 msgctxt "8852_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=10
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T11.P13
 msgctxt "8864_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=10
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T11.P14
 msgctxt "8876_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=11
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T12.P13
 msgctxt "8888_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=11
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T12.P14
 msgctxt "8900_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=12
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T13.P13
 msgctxt "8912_Employee"
 msgid "Use"
 msgstr "Usar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=12
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T13.P14
 msgctxt "8924_Employee"
 msgid "Don't Use"
 msgstr "No usarlo"
+

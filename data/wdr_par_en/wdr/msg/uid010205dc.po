@@ -1,92 +1,98 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid010205dc.po\n"
-"X-Crowdin-File-ID: 61964\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=010205DC
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 010205DC <group>
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_reviewer=Kcat0
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "2000"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "2004"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "2008"
 msgid "Lily"
 msgstr "Lily"
 
+#. y4:line_status=translated
 msgctxt "2012"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "2016"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
+#. y4:line_status=translated
 msgctxt "2020"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "2024"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "72_Akiyama"
 msgid "That just leaves your hair, makeup, and nails."
 msgstr "Ahora solo falta el cabello, el maquillaje y las uñas."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "84_Akiyama"
 msgid "You mind going it alone from here? All that will probably take a while."
 msgstr "¿Te importaría ir por tu cuenta? Puede que tome tiempo."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "96_Akiyama"
 msgid "Just tell them Akiyama said to put it on Sky Finance's tab."
 msgstr "Diles que dije que lo pusieran a nombre de Sky Finance."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "108_Lily"
 msgid "Thank you."
 msgstr "Gracias."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "120_Akiyama"
 msgid "Meet me over at Elise once you're done. It's right across the street from the Millennium Tower. I'll be waiting for you."
 msgstr "Nos vemos en el Elise cuando hayas terminado. Está frente a la Torre Millenium. Te estaré esperando."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "132_Lily"
 msgid "Okay."
 msgstr "Está bien."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "192_Akiyama"
-msgid "That's it for the accessories. Next comes the dress.\\r\n"
-"Let's head over to <Color:7>Milestone<Color:Default> in the underground mall."
+msgid "That's it for the accessories. Next comes the dress.\\r\nLet's head over to <Color:7>Milestone<Color:Default> in the underground mall."
 msgstr "Con eso ya estarían los accesorios. Sigue el vestido. Vamos a <Color:7>Milestone<Color:Default> en el centro comercial del subterráneo."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "204_Lily"
 msgid "Okay..."
 msgstr "Bueno..."
+

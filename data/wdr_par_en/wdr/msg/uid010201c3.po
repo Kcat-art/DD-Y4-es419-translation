@@ -1,69 +1,66 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid010201c3.po\n"
-"X-Crowdin-File-ID: 61218\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=010201C3
-#. y4:runtime_group_count=3
-#. y4:runtime_groups=0|1|2
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 010201C3 <group>
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "1468"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "1472"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "1476"
 msgid "Lily"
 msgstr "Lily"
 
+#. y4:line_status=translated
 msgctxt "1480"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "88_Akiyama"
-msgid "That's it for the accessories. Next comes the dress.\\r\n"
-"Let's head over to <Color:7>Milestone<Color:Default> in the underground mall."
-msgstr "Con eso ya estarían los accesorios. Sigue el vestido. Vamos a <Color:7>Milestone<Color:Default> en el centro comercial del subterráneo."
+msgid "That's it for the accessories. Next comes the dress.\\r\nLet's head over to <Color:7>Milestone<Color:Default> in the underground mall."
+msgstr "Ya tenemos listos todos los accesorios. Sigue el vestido. Vamos a <Color:7>Milestone<Color:Default> en el centro comercial del subterráneo."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "100_Lily"
 msgid "Okay..."
 msgstr "Bueno..."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "124_Akiyama"
-msgid "That takes care of the dress. Next comes the accessories!\\r\n"
-"Let's pay a visit to <Color:7>Le Marche<Color:Default>, shall we?"
+msgid "That takes care of the dress. Next comes the accessories!\\r\nLet's pay a visit to <Color:7>Le Marche<Color:Default>, shall we?"
 msgstr "Ya estaría listo el vestido. Siguen los accesorios. Deberíamos ir a <Color:7>Le Marche<Color:Default>, ¿vamos?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "136_Lily"
 msgid "Okay."
 msgstr "Está bien."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "160_Akiyama"
 msgid "(No pressing business right now. Maybe I'll take a little stroll around the city before heading back to the office.)"
 msgstr "(No tengo nada que hacer de momento. Tal vez dé un pequeño paseo por la ciudad antes de volver a Sky Finance)."
+

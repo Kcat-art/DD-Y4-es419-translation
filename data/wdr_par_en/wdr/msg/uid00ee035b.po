@@ -7,13 +7,7 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=translated
-#. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00EE035B
-#. y4:runtime_group_count=15
-#. y4:runtime_groups=0|1|2|3|4|5|6|7|8|9|10|11|12|13|14
-#. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
-#. y4:runtime_play_command=y4.play_msg 00EE035B <group>
+#. y4:last_reviewer=Kcat0
 
 #. y4:line_status=translated
 msgctxt "584"
@@ -50,9 +44,8 @@ msgctxt "2156"
 msgid "You got <Color:8>100,000 yen<Color:Default> in training funds."
 msgstr "Has obtenido <Color:8>100 000 yenes<Color:Default> para el entrenamiento."
 
-#. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "22928"
 msgid "Akiyama"
 msgstr "Akiyama"
@@ -62,16 +55,14 @@ msgctxt "22932"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "22936"
 msgid "Elise Manager"
 msgstr "Gerente del Elise"
 
-#. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=3
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "22940"
 msgid "Naoki"
 msgstr "Naoki"
@@ -82,8 +73,6 @@ msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=5
 msgctxt "22948"
 msgid "Manager"
 msgstr "Gerente"
@@ -98,16 +87,13 @@ msgctxt "22956"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
-#. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=8
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "22960"
 msgid "Player"
 msgstr "Player"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=9
 msgctxt "22964"
 msgid "Hostess Club Scouting"
 msgstr "Reclutamiento de Hostess Club"
@@ -118,8 +104,6 @@ msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=11
 msgctxt "22972"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -231,9 +215,6 @@ msgid "The other clubs employ scouts to find new girls,  and even hire professio
 msgstr "Los otros clubes usan cazatalentos para encontrar nuevas chicas, incluso contratan profesionales para entrenarlas."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
 msgctxt "764_Manager"
 msgid "We should do the same if we want to compete. Otherwise, we'll keep losing money."
 msgstr "Deberíamos hacer lo mismo si queremos competir. O seguiremos perdiendo dinero."
@@ -334,9 +315,6 @@ msgid "Huh. That could be a problem."
 msgstr "Uh. Eso debe ser un problema."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=1
 msgctxt "1028_Manager"
 msgid "Indeed. We simply must find more hostesses. Otherwise, our business won't improve."
 msgstr "Lo es. Simplemente debemos encontrar mas hostesses. O nuestro negocio no mejorara."
@@ -417,9 +395,6 @@ msgid "I thought as much..."
 msgstr "Eso pensaba..."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=2
 msgctxt "1244_Manager"
 msgid "I think one more could be enough to turn things around. Could I ask you to recruit another hostess for us?"
 msgstr "Creo que una más podría ser suficiente para cambiar las cosas. ¿Podría pedirle que reclute a otra hostess para nosotros?"
@@ -620,9 +595,6 @@ msgid "...I've got it!"
 msgstr "... ¡Lo tengo!"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=3
 msgctxt "2048_Elise Manager"
 msgid "Why don't you work here for a while?"
 msgstr "¿Por que no trabajas aquí un tiempo?"
@@ -633,9 +605,6 @@ msgid "Sorry. I'm just not cut out for that."
 msgstr "Perdon. No estoy hecho para esto."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=4
 msgctxt "2072_Elise Manager"
 msgid "That's not true! Our staff will be more than happy to explain how to do it! Please! We need your help!"
 msgstr "¡No es verdad! ¡Nuestro personal estará encantado de explicarle cómo hacerlo! ¡Por favor! ¡Necesitamos tu ayuda!"
@@ -676,111 +645,52 @@ msgid "You can go ahead and get started. Koji here will explain what you need to
 msgstr "Puedes seguir adelante y empezar. Koji te explicará lo que tienes que hacer."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P9
 msgctxt "2192_Akiyama"
 msgid "I'll take care of this myself."
 msgstr "Yo mismo me encargaré de esto."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T3.P7
 msgctxt "2204_Akiyama"
 msgid "Well, good luck."
 msgstr "Bueno, Suerte."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P7
 msgctxt "2216_Akiyama"
 msgid "I'll sort it out."
 msgstr "Lo resolveré."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T4.P5
 msgctxt "2228_Akiyama"
 msgid "Well, good luck."
 msgstr "Bueno, Suerte."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T5.P7
 msgctxt "2240_Akiyama"
 msgid "All right."
 msgstr "Está bien."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T5.P5
 msgctxt "2252_Akiyama"
 msgid "Well, good luck."
 msgstr "Bueno, Suerte."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T14.P6
 msgctxt "2264_Akiyama"
 msgid "Accept"
 msgstr "Aceptar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T14.P4
 msgctxt "2276_Akiyama"
 msgid "Decline"
 msgstr "Rechazar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=4
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T14.P6
 msgctxt "2288_Akiyama"
 msgid "Accept"
 msgstr "Aceptar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=4
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T14.P4
 msgctxt "2300_Akiyama"
 msgid "Decline"
 msgstr "Rechazar"
+

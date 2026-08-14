@@ -1,22 +1,13 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01ee0135.po\n"
-"X-Crowdin-File-ID: 60612\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01EE0135
 #. y4:runtime_group_count=2
@@ -24,42 +15,48 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_BATTING.bin
 #. y4:runtime_play_command=y4.play_msg 01EE0135 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "388"
 msgid "You used a <Color:8>Batting Coupon<Color:Default>."
 msgstr "Usaste un <Color:8>Cupón de bateo<Color:Default>."
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "4720"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "4724"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "4728"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "4732"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "4736"
 msgid "Batting Center: Easy Game"
 msgstr "Centro de Béisbol: Modo Fácil"
 
+#. y4:line_status=translated
 msgctxt "268_Kiryu"
 msgid "(Sure, I'll do it for Haruka...)"
 msgstr "(Claro, lo haré por Haruka...)"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -67,6 +64,7 @@ msgctxt "316_Player"
 msgid "(Hmm... The Easy Game is 300 yen. Maybe I should give it a try.)"
 msgstr "(Mmm... El Modo Fácil cuesta 300 yenes. Quizá debería darle una oportunidad)."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -74,6 +72,7 @@ msgctxt "328_Player"
 msgid "(Hmm... The Easy Game is 300 yen. Maybe I should give it a try.)"
 msgstr "(Mmm... El Modo Fácil cuesta 300 yenes. Quizá debería darle una oportunidad)."
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -81,38 +80,48 @@ msgctxt "340_Player"
 msgid "(Hmm... The Easy Game is 300 yen. I can use a coupon to play it for free...)"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "352_Player"
 msgid "(Okay, let's do this.)"
 msgstr "(Está bien, lo intentaré.)"
 
+#. y4:line_status=translated
 msgctxt "376_Player"
 msgid "(Okay, let's do this.)"
 msgstr "(Está bien, lo intentaré.)"
 
+#. y4:line_status=translated
 msgctxt "424_Player"
 msgid "(Not right now.)"
 msgstr "(Ahora no)."
 
+#. y4:line_status=translated
 msgctxt "448_Kiryu"
 msgid "Press <Action:Button_Cross@Battingcenter> at the right time to hit the balls pitched by the pitching machine. Hit the home run targets to earn points."
 msgstr "Prensa <Action:Button_Cross@Battingcenter> en el momento adecuado para golpear las bolas lanzadas por la máquina de lanzar. Golpea los objetivos de jonrones para ganar puntos."
 
+#. y4:line_status=todo
 msgctxt "460_Kiryu"
 msgid "There are three targets in the Easy Game. Each target will grant the same number of points, but once a target is hit, it will not be restored until all the remaining targets are also hit."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "472_Kiryu"
 msgid "Use <Action:Button_LS_Up@Battingcenter><Action:Button_LS_Down@Battingcenter><Action:Button_LS_Left@Battingcenter><Action:Button_LS_Right@Battingcenter> to aim your swing. If you aim well enough, you can hit two targets at once and earn two times the points."
 msgstr ""
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "484_Kiryu"
 msgid "Once you hit all the targets, a bonus target will appear. However, you only get one chance to hit it. The bonus target disappears after one pitch, whether you hit it or not. Aim carefully and go for a new high score!"
-msgstr ""
+msgstr "Una vez que terminaste con todos, un objetivo extra aparecerá. Solo tienes una chance. El objetivo extra desaparecerá una vez salga la bola, tanto si le das como si no. ¡Apunta cuidadosamente y ve por ese nuevo récord!"
 
+#. y4:line_status=translated
 msgctxt "496_Player"
 msgid "(One Easy Game is 300 yen. I don't have enough money, though...)"
 msgstr "(Una partida fácil son 300 yenes. Pero... no tengo suficiente dinero)."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -123,6 +132,7 @@ msgctxt "520_Kiryu"
 msgid "Pay 300 Yen"
 msgstr "Pagar 300 yenes"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -133,6 +143,7 @@ msgctxt "532_Kiryu"
 msgid "Use a Coupon"
 msgstr "Usar un Cupón"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -143,6 +154,7 @@ msgctxt "544_Kiryu"
 msgid "Don't Play"
 msgstr "No jugar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -153,6 +165,7 @@ msgctxt "556_Kiryu"
 msgid "Read the Rules"
 msgstr "Leer las Reglas"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -163,6 +176,7 @@ msgctxt "568_Kiryu"
 msgid "Play"
 msgstr "Jugar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -173,6 +187,7 @@ msgctxt "580_Kiryu"
 msgid "Don't Play"
 msgstr "No jugar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -183,6 +198,7 @@ msgctxt "592_Kiryu"
 msgid "Read the Rules"
 msgstr "Leer las Reglas"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -193,6 +209,7 @@ msgctxt "604_Kiryu"
 msgid "Use a Coupon"
 msgstr "Usar un Cupón"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -203,6 +220,7 @@ msgctxt "616_Kiryu"
 msgid "Don't Play"
 msgstr "No jugar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -212,3 +230,4 @@ msgstr "No jugar"
 msgctxt "628_Kiryu"
 msgid "Read the Rules"
 msgstr "Leer las Reglas"
+

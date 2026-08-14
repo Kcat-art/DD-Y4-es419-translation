@@ -1,49 +1,38 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01ee011d.po\n"
-"X-Crowdin-File-ID: 62666\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=01EE011D
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_BANTAM.bin
-#. y4:runtime_play_command=y4.play_msg 01EE011D <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
 msgctxt "1804"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "1808"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "96_Player"
 msgid "All right, let's give it a go."
 msgstr "Muy bien, vamos a intentarlo."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "120_Player"
 msgid "(I feel a little dizzy from all that booze. Might be hard to play darts like this.)"
-msgstr ""
+msgstr "(Estoy un poco mareado por todo lo que tomé. Será complicado jugar dardos así.)"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "228_Player"
 msgid "All right, let's go."
-msgstr ""
+msgstr "Muy bien, juguemos."
+

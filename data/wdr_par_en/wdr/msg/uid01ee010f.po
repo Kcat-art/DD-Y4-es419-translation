@@ -1,47 +1,33 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01ee010f.po\n"
-"X-Crowdin-File-ID: 61924\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=01EE010F
-#. y4:runtime_group_count=6
-#. y4:runtime_groups=0|1|2|3|4|5
-#. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
-#. y4:runtime_play_command=y4.play_msg 01EE010F <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
 msgctxt "1376"
 msgid "Player"
 msgstr "Player"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=translated
 msgctxt "1380"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "148_Player"
 msgid "(I should go find her. Where would she hang out... Perhaps the place where I first recruited her?)"
-msgstr ""
+msgstr "(Debería buscarla. ¿Dónde podría haber ido...? ¿Capaz en el lugar donde la recluté por primera vez?)"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "256_Akiyama"
 msgid "(Whoops, haven't scoped out the club yet...)"
-msgstr ""
+msgstr "(Uh, no me fijé todavía en el club...)"
+

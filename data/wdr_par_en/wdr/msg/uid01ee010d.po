@@ -1,119 +1,87 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01ee010d.po\n"
-"X-Crowdin-File-ID: 61704\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=01EE010D
-#. y4:runtime_group_count=8
-#. y4:runtime_groups=0|1|2|3|4|5|6|7
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 01EE010D <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
 msgctxt "1988"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "268_Akiyama"
 msgid "(I don't have any more business here.)"
-msgstr ""
+msgstr "(No tengo nada más que hacer por aquí...)"
 
+#. y4:line_status=translated
 msgctxt "280_Akiyama"
 msgid "(Gotta scout some girls for the club...)"
 msgstr "(Tengo que ir a buscar candidatas para el club...)."
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
+#. y4:line_status=translated
 msgctxt "292_Akiyama"
 msgid "(Or should I stop recruiting for the moment?)"
 msgstr "(¿O debería detener el reclutamiento por ahora?)."
 
+#. y4:line_status=translated
 msgctxt "304_Akiyama"
 msgid "(I'll stop for now.)"
 msgstr "(Por ahora, voy a parar el reclutamiento)."
 
+#. y4:line_status=translated
 msgctxt "328_Akiyama"
 msgid "(No, I should keep looking.)"
 msgstr "(No, voy a seguir buscando)."
 
+#. y4:line_status=translated
 msgctxt "340_Akiyama"
 msgid "(Now's not the time for this.)"
 msgstr "(Ahora no es momento para distracciones...)."
 
+#. y4:line_status=translated
 msgctxt "352_Akiyama"
 msgid "(Now's not the time for this.)"
 msgstr "(Ahora no es momento para distracciones...)."
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=1
+#. y4:line_status=translated
 msgctxt "388_Akiyama"
 msgid "(Come to think of it, I was recruiting hostesses earlier. Maybe I should try again.)"
 msgstr "(Ahora que lo pienso, dejé el reclutamiento a medias. ¿Debería volver a buscar chicas para el club?)."
 
+#. y4:line_status=translated
 msgctxt "400_Akiyama"
 msgid "(Okay, I'll give it another try.)"
 msgstr "(Bien, retomemos el reclutamiento)."
 
+#. y4:line_status=translated
 msgctxt "424_Akiyama"
 msgid "(No, I have other things to do. I'll get back to recruiting later.)"
 msgstr "(No, todavía tengo cosas que hacer. Retomaré el reclutamiento más tarde)."
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P2
+#. y4:line_status=translated
 msgctxt "436_Akiyama"
 msgid "Stop Recruiting"
 msgstr "Dejar de Reclutar"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T2.P4
+#. y4:line_status=translated
 msgctxt "448_Akiyama"
 msgid "Continue Recruiting"
 msgstr "Continuar Reclutando"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T7.P1
+#. y4:line_status=translated
 msgctxt "460_Akiyama"
 msgid "Start Recruiting Again"
 msgstr "Empezar a Reclutar de Nuevo"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T7.P3
+#. y4:line_status=translated
 msgctxt "472_Akiyama"
 msgid "Not Now"
 msgstr "Ahora no"
+

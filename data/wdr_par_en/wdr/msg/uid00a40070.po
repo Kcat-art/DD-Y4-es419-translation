@@ -1,128 +1,138 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a40070.po\n"
-"X-Crowdin-File-ID: 61622\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00A40070
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 00A40070 <group>
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "3616"
 msgid "Akiyama"
 msgstr "Akiyama"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "3620"
 msgid "Miki's Friend"
 msgstr "Amiga de Miki"
 
+#. y4:line_status=translated
 msgctxt "3624"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "3628"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=translated
 msgctxt "3632"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:line_status=translated
 msgctxt "3636"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "3640"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "3644"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "84_Akiyama"
 msgid "Hey, you got a second? Are you Miki Nishihama-san's friend?"
 msgstr "Perdona, ¿tienes un minuto? ¿Eres la amiga de Miki Nishihama?"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "96_Miki's Friend"
 msgid "Yes, I am. Who are you?"
-msgstr "Así es. ¿Quién es usted?"
+msgstr "Sí. ¿Quién es usted?"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "108_Akiyama"
-msgid "Er, well... I know her father, you see, and I could've\\r\n"
-"sworn I heard you say he \"fooled\" someone... What's that\\r\n"
-"about?"
-msgstr "Eh... Conozco a su padre. Me pareció oír que el papá de\\r\n"
-"Miki \"engañó\" a alguien... ¿A qué te refieres?"
+msgid "Er, well... I know her father, you see, and I could've\\r\nsworn I heard you say he \"fooled\" someone... What's that\\r\nabout?"
+msgstr "Eh... Conozco a su padre. Me pareció oír que el papá de Miki \"engañó\" a alguien... ¿A qué te refieres?"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "120_Miki's Friend"
 msgid "Oh... Well, I dunno if I should say, but..."
-msgstr "Oh... Pues no sé si deba contar algo, pero..."
+msgstr "Ah... Pues no sé si deba contar algo, pero..."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "132_Miki's Friend"
-msgid "There's this, like, urban legend, y'know? About a legendary\\r\n"
-"loan shark who gives out money for free right here in\\r\n"
-"Kamurocho."
-msgstr "He oído que en Kamurocho hay un prestamista que\\r\n"
-"otorga préstamos sin pedir nada a cambio."
+msgid "There's this, like, urban legend, y'know? About a legendary\\r\nloan shark who gives out money for free right here in\\r\nKamurocho."
+msgstr "He oído que en Kamurocho hay un famoso prestamista que otorga préstamos sin pedir nada a cambio."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "144_Miki's Friend"
-msgid "I mean, he'll kill you if you don't pay up, but, like, if\\r\n"
-"you manage to really pull the wool over his eyes, you can\\r\n"
-"get by without paying a single yen."
-msgstr "Si no cumples con el pago, hay consecuencias graves,\\r\n"
-"pero si logras engañarlo, podrías evitar cualquier pago."
+msgid "I mean, he'll kill you if you don't pay up, but, like, if\\r\nyou manage to really pull the wool over his eyes, you can\\r\nget by without paying a single yen."
+msgstr "Si no cumples, hay consecuencias graves, pero si logras engañarlo, podrías evitar pagar."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "156_Akiyama"
 msgid "Huh... A \"legendary loan shark,\" you say?"
 msgstr "Mmm... Un \"famoso prestamista\", eh."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "168_Miki's Friend"
-msgid "Word is: Miki's dad totally fooled this guy and made off\\r\n"
-"with a buttload of cash. Maybe, like, two hundred million or\\r\n"
-"something..."
-msgstr "Se dice que el padre de Miki logró engañar a esta persona\\r\n"
-"y se llevó consigo una gran cantidad de dinero, alrededor de\\r\n"
-"doscientos millones de yenes..."
+msgid "Word is: Miki's dad totally fooled this guy and made off\\r\nwith a buttload of cash. Maybe, like, two hundred million or\\r\nsomething..."
+msgstr "Se dice que el padre de Miki logró engañar a esta persona y se llevó consigo una gran cantidad de dinero, alrededor de doscientos millones de yenes..."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "180_Miki's Friend"
-msgid "But, like, Mr. Nishihama has his own company and stuff, so I\\r\n"
-"thought for sure it was just a rumor..."
-msgstr "Pero, dado que el señor Nishihama tiene su propia empresa,\\r\n"
-"pensé que era simplemente un rumor..."
+msgid "But, like, Mr. Nishihama has his own company and stuff, so I\\r\nthought for sure it was just a rumor..."
+msgstr "Pero, dado que el señor Nishihama tiene su propia empresa, pensé que era simplemente un rumor..."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "192_Miki's Friend"
-msgid "Then again, she started buying all these brand-name clothes\\r\n"
-"and, like, a bunch of jewelry, so maybe it's true after all!"
-msgstr "Por otro lado, empezó a comprar todas estas prendas de marca\\r\n"
-"y, además, mucha joyería, así que puede que sea cierto después de todo."
+msgid "Then again, she started buying all these brand-name clothes\\r\nand, like, a bunch of jewelry, so maybe it's true after all!"
+msgstr "Por otro lado, empezó a comprar un montón de ropa de marca\ny mucha joyería, así que puede que sea cierto después de todo."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "204_Akiyama"
 msgid "Hmm... I see. Thanks. I think I get it now."
-msgstr "Mmm... Ya veo. Gracias. Creo que ya lo tengo."
+msgstr "Mmm... Ya veo. Gracias. Creo que ya entiendo todo."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "228_Akiyama"
 msgid "(Well, they're not exactly trying to cover it up... Fancy clothes and jewelry in Kamurocho? Must be Le Marche... I should go check it out.)"
-msgstr "(Parece que no les importa disimular... ¿Ropa y joyas de lujo en Kamurocho? Debe ser Le Marche... Debería ir a echar un vistazo)."
+msgstr "(Parece que no les importa disimular... ¿Ropa y joyas de lujo en Kamurocho? Debe ser de Le Marche... Debería ir a echar un vistazo)."
+

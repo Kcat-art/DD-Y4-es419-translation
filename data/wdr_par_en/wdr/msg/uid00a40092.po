@@ -1,63 +1,60 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a40092.po\n"
-"X-Crowdin-File-ID: 58148\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00A40092
-#. y4:runtime_group_count=3
-#. y4:runtime_groups=0|1|2
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 00A40092 <group>
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "880"
 msgid "Miki"
 msgstr "Miki"
 
+#. y4:line_status=translated
 msgctxt "884"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "888"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "892"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "112_Miki"
 msgid "Oh! Akiyama-san!"
 msgstr "¡Oh! ¡Akiyama-san!"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "124_Akiyama"
 msgid "Well, if it isn't Miki Nishihama!"
 msgstr "¡Eh, si es Miki Nishihama!"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "136_Miki"
 msgid "Miki!? I don't know any Miki!"
 msgstr "¡¿Miki?! ¡No conozco a ninguna Miki!"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "148_Akiyama"
 msgid "(Whew, she's fast... Might as well follow her.)"
-msgstr "(Uff, ¡qué rapidez! Será mejor que la siga)."
+msgstr "(Uff, ¡qué rápida! Será mejor que la siga)."
+

@@ -1,105 +1,111 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00130271.po\n"
-"X-Crowdin-File-ID: 59964\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00130271
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_JIMU03.bin
-#. y4:runtime_play_command=y4.play_msg 00130271 <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
 msgctxt "2796"
 msgid "Kondo"
 msgstr "Kondo"
 
+#. y4:line_status=translated
 msgctxt "2800"
 msgid "Talk_Sorry"
 msgstr "Talk_Sorry"
 
+#. y4:line_status=translated
 msgctxt "2804"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=3
+#. y4:line_status=translated
 msgctxt "2808"
 msgid "Akaishi"
 msgstr "Akaishi"
 
+#. y4:line_status=translated
 msgctxt "2812"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "2816"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=6
+#. y4:line_status=translated
 msgctxt "2820"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "56_Kondo"
 msgid "I'm sorry! Please, no more, no more!"
-msgstr ""
+msgstr "¡Lo siento! ¡Por favor, para, no más!"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "68_Kondo"
 msgid "I swear I won't do anythin' to get in your way again. Just please, let this one go!"
-msgstr ""
+msgstr "Te juro que no volveré a meterme en tu camino. ¡Por favor, déjame ir!"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "80_Akaishi"
 msgid "Listen here, Kondo-san, maybe our work does get in the way of your business."
-msgstr ""
+msgstr "Escúchame bien, Kondo-san, capaz nuestro trabajo sí interfiera en su negocio."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "92_Akaishi"
 msgid "You can hate me all you like, but if you got somethin' to say, don't pussy out. You come talk to the man in charge!"
-msgstr ""
+msgstr "Puedes odiarme lo que tanto quieras, pero si tienes algo que decir, no seas cobarde. ¡Y ve a hablar con el jefe!"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "104_Akaishi"
 msgid "Got that, asshole!?"
-msgstr ""
+msgstr "¡¿Te quedo claro?!"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "116_Kondo"
 msgid "Yes... Yes, sir!"
-msgstr ""
+msgstr "¡S-Si señor!"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "128_Akaishi"
 msgid "You ever try this bullshit again and you won't get off with just a beating!"
-msgstr ""
+msgstr "Si vuelves a jodernos una paliza, no te salvará."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "152_Akaishi"
 msgid "How long you gonna keep messin' around with this yakuza crap, anyhow? You decide you want out, you come talk to me anytime."
-msgstr ""
+msgstr "¿Cuánto tiempo seguirás con esta mierda yakuza? Si te retiras, ven a hablar conmigo cuando quieras."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "164_Akaishi"
 msgid "Tanimura-san, let's get the hell outta here."
-msgstr ""
+msgstr "Tanimura-san, vamonos de aqui..."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "176_Tanimura"
 msgid "Yeah, okay... Kondo-san, I'd watch what I do if I were you."
-msgstr ""
+msgstr "Ok... Kondo-san, si fuera tú, andaría con más cuidado."
 
+#. y4:line_status=translated
 msgctxt "188_Kondo"
 msgid "......"
 msgstr "......"
+

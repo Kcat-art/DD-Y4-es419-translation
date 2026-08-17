@@ -1,42 +1,28 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00130415.po\n"
-"X-Crowdin-File-ID: 59924\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00130415
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_DOJO_IKUSEI.bin
-#. y4:runtime_play_command=y4.play_msg 00130415 <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
 msgctxt "700"
 msgid "Sugiyama"
 msgstr "Sugiyama"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "72_Sugiyama"
-msgid "Saejima-san! It's been a while! Let me know when you need a partner in a tag tournament.\\r\n"
-"I'll be there in a flash!"
-msgstr ""
+msgid "Saejima-san! It's been a while! Let me know when you need a partner in a tag tournament.\\r\nI'll be there in a flash!"
+msgstr "¡Saejima-san, cuánto tiempo! Hazme saber cuando necesites un compañero para el torneo.\\r\n¡Estaré ahí en un parpadeo!"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "96_Sugiyama"
 msgid "Saejima-san. Nice to see you! Let me know when you need a partner in a tag tournament. I'll be there in a flash!"
-msgstr ""
+msgstr "¡Saejima-san, que bueno verte! Dime cuando necesites un compañero para el torneo. ¡Estaré ahí en nada!"
+

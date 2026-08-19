@@ -1,22 +1,13 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee0148.po\n"
-"X-Crowdin-File-ID: 59628\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00EE0148
 #. y4:runtime_group_count=1
@@ -24,30 +15,34 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CASINO_KAWARA.bin
 #. y4:runtime_play_command=y4.play_msg 00EE0148 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "3764"
 msgid "Employee"
 msgstr "Empleado"
 
+#. y4:line_status=translated
 msgctxt "3768"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 msgctxt "3772"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "3776"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=todo
 msgctxt "164_Employee"
 msgid "Welcome, sir. You can exchange money for chips here."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -55,54 +50,72 @@ msgctxt "176_Employee"
 msgid "How many would you like, sir?"
 msgstr ""
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "200_Employee"
 msgid "Very good, sir. Let me get you your chips."
-msgstr ""
+msgstr "Muy bien, señor. Permítame traer sus fichas."
 
+#. y4:line_status=todo
 msgctxt "212_Employee"
 msgid "Here are your 50 chips. Thank you very much."
 msgstr ""
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "248_Employee"
 msgid "Very good, sir. Let me get you your chips."
-msgstr ""
+msgstr "Muy bien, señor. Permítame traer sus fichas."
 
+#. y4:line_status=translated
 msgctxt "260_Employee"
 msgid "Here are your 100 chips. Thank you very much."
 msgstr "Aquí están sus 100 fichas. Muchas gracias."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "296_Employee"
 msgid "Very good, sir. Let me get you your chips."
-msgstr ""
+msgstr "Muy bien, señor. Permítame traer sus fichas."
 
+#. y4:line_status=translated
 msgctxt "308_Employee"
 msgid "Here are your 500 chips. Thank you very much."
 msgstr "Aquí están sus 500 fichas. Muchas gracias."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "344_Employee"
 msgid "Very good, sir. Let me get you your chips."
-msgstr ""
+msgstr "Muy bien, señor. Permítame traer sus fichas."
 
+#. y4:line_status=translated
 msgctxt "356_Employee"
 msgid "Here are your 1,000 chips. Thank you very much."
 msgstr "Aquí están sus 1.000 fichas. Muchas gracias."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "392_Employee"
 msgid "Very good, sir. Let me get you your chips."
-msgstr ""
+msgstr "Muy bien, señor. Permítame traer sus fichas."
 
+#. y4:line_status=translated
 msgctxt "404_Employee"
 msgid "Here are your 10,000 chips. Thank you very much."
 msgstr "Aquí están sus 10,000 fichas. Muchas gracias."
 
+#. y4:line_status=translated
 msgctxt "428_Employee"
 msgid "I'm afraid you don't have enough money to pay for these chips."
 msgstr "Me temo que no tienes suficiente dinero para pagar estas fichas."
 
+#. y4:line_status=translated
 msgctxt "440_Employee"
 msgid "Please stop by again soon."
 msgstr "Vuelva a visitarnos pronto."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -113,6 +126,7 @@ msgctxt "452_Employee"
 msgid "Buy 50 Chips for 5,000 Yen"
 msgstr "Comprar 50 fichas por 5.000 yenes"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -123,6 +137,7 @@ msgctxt "464_Employee"
 msgid "Buy 100 Chips for 10,000 Yen"
 msgstr "Comprar 100 fichas por 10.000 yenes"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -133,6 +148,7 @@ msgctxt "476_Employee"
 msgid "Buy 500 Chips for 50,000 Yen"
 msgstr "Comprar 500 fichas por 50.000 yenes"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -143,6 +159,7 @@ msgctxt "488_Employee"
 msgid "Buy 1,000 Chips for 100,000 Yen"
 msgstr "Comprar 1,000 fichas por 100.000 yenes"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -153,6 +170,7 @@ msgctxt "500_Employee"
 msgid "Buy 10,000 Chips for 1,000,000 Yen"
 msgstr "Comprar 10,000 fichas por 1.000.000 yenes"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -162,3 +180,4 @@ msgstr "Comprar 10,000 fichas por 1.000.000 yenes"
 msgctxt "512_Employee"
 msgid "Never Mind"
 msgstr "No importa"
+

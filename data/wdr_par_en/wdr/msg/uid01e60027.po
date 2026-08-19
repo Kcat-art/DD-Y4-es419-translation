@@ -1,91 +1,93 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01e60027.po\n"
-"X-Crowdin-File-ID: 60058\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=01E60027
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 01E60027 <group>
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 
-
-
+#. y4:line_status=translated
 msgctxt "2000"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=1
+#. y4:line_status=translated
 msgctxt "2004"
 msgid "Rio"
 msgstr "Rio"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=translated
 msgctxt "2008"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "2012"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
+#. y4:line_status=translated
 msgctxt "2016"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "2020"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "92_Rio"
 msgid "Akiyama-san? This is Rio! I need to talk to you!"
-msgstr ""
+msgstr "¿Akiyama-san? ¡Soy Río! Necesito hablar contigo."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "104_Rio"
 msgid "That photographer called. The president of the agency wants to meet me!"
-msgstr ""
+msgstr "Me llamó el fotógrafo. ¡El presidente de la agencia quiere conocerme!"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "116_Akiyama"
 msgid "That's kinda sudden... What was the agency called again?"
-msgstr ""
+msgstr "¡Wow! Que repen... ¿Espera que agencia te llamó?"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "128_Rio"
 msgid "Shino Productions. Have you heard of it?"
-msgstr ""
+msgstr "Shino Productions. ¿Escuchaste de ellos?"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "140_Akiyama"
 msgid "Never heard of it."
-msgstr "Nunca escuché de ello."
+msgstr "Nunca los escuche."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "152_Rio"
 msgid "I'm going to their office to see what the president has to say before making my decision."
-msgstr ""
+msgstr "Me voy a sus oficinas a ver qué quiere decir el presidente antes de tomar una decisión."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "164_Akiyama"
 msgid "Makes sense. Good luck!"
-msgstr ""
+msgstr "¡Con cuidado y buena suerte!"
 
+#. y4:line_status=translated
 msgctxt "176_Rio"
 msgid "Thanks!"
 msgstr "¡Gracias!"
 
+#. y4:line_status=todo
 msgctxt "236_Talk_Phone_st"
 msgid "(Shino Productions, huh? The <Color:7>manager over at Asia<Color:Default> knows a lot about this kind of thing. I should ask him about it.)"
 msgstr ""
+

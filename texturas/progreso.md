@@ -5,8 +5,8 @@
 - Archivos físicos: 1649
 - Archivos duplicados agrupados: 181
 - Grupos con duplicados: 121
-- Completadas: 412
+- Completadas: 513
 - Traducidas: 212
-- Marcadas como listas (no requieren traducción): 200
-- Pendientes: 1056
-- Progreso: 28.07%
+- Marcadas como listas (no requieren traducción): 301
+- Pendientes: 955
+- Progreso: 34.95%

@@ -6,13 +6,13 @@
   "physical_total": 1649,
   "duplicate_files": 181,
   "duplicate_groups": 121,
-  "completed": 862,
-  "translated": 262,
+  "completed": 866,
+  "translated": 266,
   "no_translation_needed": 600,
-  "reviewed": 3,
-  "pending": 606,
-  "progress_percent": 58.72,
-  "review_percent": 0.20,
+  "reviewed": 10,
+  "pending": 602,
+  "progress_percent": 58.99,
+  "review_percent": 0.68,
   "no_translation_needed_paths": [
     "2d/cse_en/keitai/2d_cf_keitai_anyone.dds",
     "2d/cse_en/pjs_get_ability_hires/2d_cf_get_ability_asc.dds",
@@ -618,6 +618,13 @@
   "reviewed_paths": [
     "2d/cse_en/keitai/2d_cf_keitai_anyone.dds",
     "2d/cse_en/najimi_pict/2d_cf_namjimi_dedokoro.dds",
+    "2d/cse_en/najimi_pict/2d_cf_namjimi_haburashi.dds",
+    "2d/cse_en/najimi_pict/2d_cf_namjimi_makura.dds",
+    "2d/cse_en/najimi_pict/2d_cf_namjimi_nemunemu.dds",
+    "2d/cse_en/najimi_pict/2d_cf_namjimi_osusume.dds",
+    "2d/cse_en/najimi_pict/2d_cf_namjimi_otameshi.dds",
+    "2d/cse_en/najimi_pict/2d_cf_namjimi_tokudai.dds",
+    "2d/cse_en/najimi_pict/2d_cf_namjimi_zasshi.dds",
     "2d/cse_en/pjs_get_ability_hires/2d_cf_get_ability_asc.dds"
   ]
 }

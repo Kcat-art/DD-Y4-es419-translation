@@ -6,13 +6,13 @@
   "physical_total": 1649,
   "duplicate_files": 181,
   "duplicate_groups": 121,
-  "completed": 842,
-  "translated": 242,
+  "completed": 851,
+  "translated": 251,
   "no_translation_needed": 600,
-  "reviewed": 1,
-  "pending": 626,
-  "progress_percent": 57.36,
-  "review_percent": 0.07,
+  "reviewed": 3,
+  "pending": 617,
+  "progress_percent": 57.97,
+  "review_percent": 0.20,
   "no_translation_needed_paths": [
     "2d/cse_en/keitai/2d_cf_keitai_anyone.dds",
     "2d/cse_en/pjs_get_ability_hires/2d_cf_get_ability_asc.dds",
@@ -616,6 +616,8 @@
     "pausepar/pause_en/item/2d_ys_meishi_saito01_l.dds"
   ],
   "reviewed_paths": [
+    "2d/cse_en/keitai/2d_cf_keitai_anyone.dds",
+    "2d/cse_en/najimi_pict/2d_cf_namjimi_dedokoro.dds",
     "2d/cse_en/pjs_get_ability_hires/2d_cf_get_ability_asc.dds"
   ]
 }

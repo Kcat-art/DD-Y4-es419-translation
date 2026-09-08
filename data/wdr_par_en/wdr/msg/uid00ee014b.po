@@ -6,18 +6,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00EE014B
-#. y4:runtime_group_count=2
-#. y4:runtime_groups=0|1
-#. y4:runtime_pac_names=pac_STID_ST_CASINO_KAWARA.bin
-#. y4:runtime_play_command=y4.play_msg 00EE014B <group>
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "7116"
 msgid "Dealer"
 msgstr "Crupier"
@@ -33,8 +26,6 @@ msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=3
 msgctxt "7128"
 msgid "Haruka"
 msgstr "Haruka"
@@ -45,8 +36,6 @@ msgid "HAL_stand_tlk_happy_small"
 msgstr "HAL_stand_tlk_happy_small"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=5
 msgctxt "7136"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -62,8 +51,6 @@ msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=8
 msgctxt "7148"
 msgid "Player"
 msgstr "Player"
@@ -79,10 +66,11 @@ msgctxt "260_Dealer"
 msgid "It looks like you don't have enough chips to play poker, sir."
 msgstr "Parece que no tienes suficientes fichas para jugar al póker, señor."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "272_Dealer"
 msgid "If you'd like to purchase chips, you can do so at the front desk."
-msgstr ""
+msgstr "Si desea comprar más fichas, puede hacerlo en la mesa del frente."
 
 #. y4:line_status=translated
 msgctxt "284_Dealer"
@@ -95,22 +83,21 @@ msgid "Uncle Kaz! I wanna watch you play poker. I bet you could get 2,000 points
 msgstr "¡Tío Kaz! Quiero verte jugar al póker. ¡Apuesto a que podrías conseguir 2000 puntos!"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
 msgctxt "320_Kiryu"
 msgid "(2,000 points in poker... Should I give it a try?)"
 msgstr "(2000 puntos en póker... ¿Debería intentarlo?)"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "332_Kiryu"
 msgid "All right, I'll play."
-msgstr ""
+msgstr "Muy bien, jugaré."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "344_Dealer"
 msgid "Very good, sir. Please take your seat."
-msgstr ""
+msgstr "Muy bien, señor. Por favor, tome asiento."
 
 #. y4:line_status=translated
 msgctxt "356_Haruka"
@@ -127,10 +114,11 @@ msgctxt "392_Dealer"
 msgid "Very well. We hope you'll play with us next time."
 msgstr "Muy bien. Esperamos que vuelvas a jugar con nosotros."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "404_Haruka"
 msgid "Aww, I wanted to watch you play... Maybe next time?"
-msgstr ""
+msgstr "Ay, quería verte jugar... ¿Quizás la próxima vez?"
 
 #. y4:line_status=translated
 msgctxt "416_Haruka"
@@ -138,22 +126,21 @@ msgid "Uncle Kaz! You're good at poker, right? I bet you could get 5,000 points!
 msgstr "¡Tío Kaz! Eres bueno en el póker, ¿no? ¡Apuesto a que podrías conseguir 5000 puntos!"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=1
 msgctxt "428_Kiryu"
 msgid "(5,000 points in poker... Should I give it a try?)"
 msgstr "(5000 puntos en póker... ¿Debería intentarlo?)"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "440_Kiryu"
 msgid "All right, I'll play."
-msgstr ""
+msgstr "Muy bien, jugaré."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "452_Dealer"
 msgid "Very good, sir. Please take your seat."
-msgstr ""
+msgstr "Muy bien, señor. Por favor, tome asiento."
 
 #. y4:line_status=translated
 msgctxt "464_Haruka"
@@ -170,15 +157,13 @@ msgctxt "500_Dealer"
 msgid "Very well. We hope you'll play with us next time."
 msgstr "Muy bien. Esperamos que vuelvas a jugar con nosotros."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "512_Haruka"
 msgid "Aww, I wanted to watch you play..."
-msgstr ""
+msgstr "Ay, quería verte jugar..."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=2
 msgctxt "524_Dealer"
 msgid "Welcome. Here, you can play Texas hold 'em poker. Would you like to play?"
 msgstr "Bienvenido. Aquí puedes jugar al póker Texas hold 'em. ¿Quieres jugar?"
@@ -189,9 +174,6 @@ msgid "Sure, I'll play."
 msgstr "Claro, jugaré."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=3
 msgctxt "548_Dealer"
 msgid "An excellent choice. What stakes would you like to play for?"
 msgstr "Una elección excelente. ¿Con qué apuestas le gustaría jugar?"
@@ -247,89 +229,42 @@ msgid "Very well. We hope you'll play with us next time."
 msgstr "Muy bien. Esperamos que vuelvas a jugar con nosotros."
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P7
 msgctxt "728_Dealer"
 msgid "Play"
 msgstr "Jugar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P11
 msgctxt "740_Dealer"
 msgid "Not Now"
 msgstr "Ahora no"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P16
 msgctxt "752_Dealer"
 msgid "Play"
 msgstr "Jugar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P20
 msgctxt "764_Dealer"
 msgid "Not Now"
 msgstr "Ahora no"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=2
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P1
 msgctxt "776_Dealer"
 msgid "Play"
 msgstr "Jugar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=2
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P15
 msgctxt "788_Dealer"
 msgid "Don't Play"
 msgstr "No jugar"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=3
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P3
 msgctxt "800_Dealer"
 msgid "Low Stakes (5 chips/10 chips)"
 msgstr "Apuestas Bajas (5 fichas/10 fichas)"
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=3
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P9
 msgctxt "812_Dealer"
 msgid "High Stakes (50 chips/100 chips)"
 msgstr "Apuestas Altas (50 fichas/100 fichas)"
+

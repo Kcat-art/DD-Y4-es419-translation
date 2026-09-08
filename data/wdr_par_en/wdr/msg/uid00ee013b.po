@@ -7,17 +7,10 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00EE013B
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_BATTING.bin
-#. y4:runtime_play_command=y4.play_msg 00EE013B <group>
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "3060"
 msgid "Manager"
 msgstr "Gerente"
@@ -27,33 +20,29 @@ msgctxt "3064"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "3068"
 msgid "Easy Game Prizes"
-msgstr ""
+msgstr "Premios Fáciles."
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=3
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "3072"
 msgid "Normal Game Prizes"
-msgstr ""
+msgstr "Premios Normales"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=4
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "3076"
 msgid "Hard Game Prizes"
-msgstr ""
+msgstr "Premios Difíciles"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=5
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "3080"
 msgid "Extra Hard Course Prizes"
-msgstr ""
+msgstr "Premios EX-Difíciles"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
@@ -62,24 +51,21 @@ msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=7
+#. y4:translated_by=MasterCry
 msgctxt "3088"
 msgid "Player"
-msgstr "Player"
+msgstr "Jugador"
 
 #. y4:line_status=translated
 msgctxt "3092"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:line_status=todo
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "100_Manager"
 msgid "Hello, sir. We have a variety of fabulous prizes for you here! Interested in hearing what we've got?"
-msgstr ""
+msgstr "Buenas, señor. ¡Tenemos una variedad de fabulosos premios justo aquí! ¿Le interesa escuchar qué puede conseguir?"
 
 #. y4:line_status=todo
 msgctxt "112_Manager"
@@ -111,29 +97,19 @@ msgctxt "172_Player"
 msgid "Not right now."
 msgstr "Ahora no."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "184_Manager"
 msgid "Oh, really? Well, they're all great prizes, so we hope you'll play to win one or more!"
-msgstr ""
+msgstr "¿Ah, sí? Bueno, son premios fantásticos, ¡así que esperamos que participes para ganar uno o más!"
 
 #. y4:line_status=todo
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P1
 msgctxt "196_Manager"
 msgid "Sure, let's hear it."
 msgstr ""
 
 #. y4:line_status=translated
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P6
 msgctxt "208_Manager"
 msgid "Not right now."
 msgstr "Ahora no."
+

@@ -1,135 +1,118 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee0178.po\n"
-"X-Crowdin-File-ID: 62782\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=00EE0178
-#. y4:runtime_group_count=3
-#. y4:runtime_groups=0|1|2
-#. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
-#. y4:runtime_play_command=y4.play_msg 00EE0178 <group>
+#. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 
-
-
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=0
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "200"
 msgid "Take a copy of Tokyo Sports?"
-msgstr ""
+msgstr "¿Tomo una copia de Tokyo Sports?"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=prompt
-#. y4:msg_decision_group=1
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "308"
 msgid "Take a copy of Tokyo Sports?"
-msgstr ""
+msgstr "¿Tomo una copia de Tokyo Sports?"
 
-#. y4:msg_role=name
-#. y4:msg_name_id=0
+#. y4:line_status=translated
 msgctxt "2496"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "2500"
 msgid "2d_cf_tohsupo_gougai00"
 msgstr "2d_cf_tohsupo_gougai00"
 
+#. y4:line_status=translated
 msgctxt "2504"
 msgid "2d_cf_tohsupo_gougai01"
 msgstr "2d_cf_tohsupo_gougai01"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "188_Player"
 msgid "(Looks like they're handing out a special edition of Tokyo Sports.)"
-msgstr ""
+msgstr "(Parece que están repartiendo una edición especial de Tokyo Sports.)"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "212_Player"
 msgid "(Guess I'll take one...)"
-msgstr ""
+msgstr "(Voy a tomar una...)"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "236_Player"
 msgid "You got a Special Edition of Tokyo Sports."
-msgstr ""
+msgstr "Conseguiste Tokyo Sport Edicion Especial."
 
+#. y4:line_status=translated
 msgctxt "260_Player"
 msgid "(Not right now...)"
 msgstr "(Ahora no...)"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "272_Player"
 msgid "(Looks like they're handing out a special edition of Tokyo Sports.)"
-msgstr ""
+msgstr "(Parece que están repartiendo una edición especial de Tokyo Sports.)"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "296_Player"
 msgid "(Looks like they're handing out a special edition of Tokyo Sports.)"
-msgstr ""
+msgstr "(Parece que están repartiendo una edición especial de Tokyo Sports.)"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "320_Player"
 msgid "(Guess I'll take one...)"
-msgstr ""
+msgstr "(Voy a tomar una...)"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "344_Player"
 msgid "You got a Special Edition of Tokyo Sports."
-msgstr ""
+msgstr "Conseguiste Tokyo Sport Edicion Especial."
 
+#. y4:line_status=translated
 msgctxt "368_Player"
 msgid "(Not right now...)"
 msgstr "(Ahora no...)"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "380_Player"
 msgid "(Looks like they're handing out a special edition of Tokyo Sports.)"
-msgstr ""
+msgstr "(Parece que están repartiendo una edición especial de Tokyo Sports.)"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P3
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "404_Player"
 msgid "Take One"
-msgstr ""
+msgstr "Tomar"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=0
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T0.P7
+#. y4:line_status=todo
 msgctxt "416_Player"
 msgid "Don't Take One"
 msgstr ""
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=1
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P3
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "428_Player"
 msgid "Take One"
-msgstr ""
+msgstr "Tomar"
 
-#. y4:msg_role=decision
-#. y4:msg_decision_role=choice
-#. y4:msg_decision_group=1
-#. y4:msg_choice_index=2
-#. y4:msg_branch_opcode=0x0111
-#. y4:msg_branch_target=T1.P7
+#. y4:line_status=todo
 msgctxt "440_Player"
 msgid "Don't Take One"
 msgstr ""
+

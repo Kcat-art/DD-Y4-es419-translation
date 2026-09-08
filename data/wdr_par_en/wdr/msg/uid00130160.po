@@ -1,22 +1,13 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00130160.po\n"
-"X-Crowdin-File-ID: 58892\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00130160
 #. y4:runtime_group_count=3
@@ -24,58 +15,71 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00130160 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "172"
 msgid "You got <Color:8>5,000 yen<Color:Default>."
 msgstr "Obtuviste <Color:8>5 000 yenes<Color:Default>."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2228"
 msgid "Persistent Barker"
-msgstr ""
+msgstr "Promotor Persistente"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "2232"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "2236"
 msgid "Man That Can't Decline"
-msgstr ""
+msgstr "Hombre que no puede negarse"
 
+#. y4:line_status=translated
 msgctxt "2240"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "2244"
 msgid "Sync_Send"
 msgstr "Sync_Send"
 
+#. y4:line_status=translated
 msgctxt "100_Persistent Barker"
 msgid "Yikes!"
 msgstr "¡Vaya!"
 
+#. y4:line_status=todo
 msgctxt "124_Tanimura"
 msgid "Those guys sure know how to run away. Oh, are you all right?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "136_Man That Can't Decline"
 msgid "Oh, um... I'm just fine. How much do I owe you for this? I really have no idea."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "148_Tanimura"
 msgid "How much? Oh, uh... Just whatever you feel is right."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "160_Man That Can't Decline"
 msgid "How about this?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "244_Man That Can't Decline"
 msgid "Thanks for helping me out."
 msgstr ""
+

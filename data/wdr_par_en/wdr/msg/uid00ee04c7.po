@@ -1,22 +1,13 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee04c7.po\n"
-"X-Crowdin-File-ID: 60938\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00EE04C7
 #. y4:runtime_group_count=7
@@ -24,138 +15,174 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
 #. y4:runtime_play_command=y4.play_msg 00EE04C7 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "5800"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "5804"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "5808"
 msgid "キャバ育名前"
 msgstr "キャバ育名前"
 
+#. y4:line_status=translated
 msgctxt "5812"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 msgctxt "5816"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=translated
 msgctxt "5820"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "5824"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "164_Akiyama"
 msgid "Well, let's get started."
-msgstr ""
+msgstr "Bueno, empezemos."
 
+#. y4:line_status=translated
 msgctxt "176_キャバ育名前"
 msgid "Yes, let's."
 msgstr "Sí, vamos."
 
+#. y4:line_status=translated
 msgctxt "188_Akiyama"
 msgid "First, let's get you changed into an outfit that brings out the best of your natural beauty. Don't worry, I guarantee you'll look great."
 msgstr "Primero, vamos a cambiarte a un atuendo que resalte lo mejor de tu belleza natural. No te preocupes, te garantizo que te verás genial."
 
+#. y4:line_status=translated
 msgctxt "224_Akiyama"
 msgid "Not bad."
 msgstr "Nada mal."
 
+#. y4:line_status=translated
 msgctxt "236_キャバ育名前"
 msgid "Really? This is a little embarrassing."
 msgstr "¿En serio? Esto es un poco vergonzoso."
 
+#. y4:line_status=translated
 msgctxt "248_Akiyama"
 msgid "It's time to go out on the club floor. Don't worry. I'm sure you'll get customers."
 msgstr "Es hora de que salgas. No te preocupes. Estoy seguro de que conseguirás clientes."
 
+#. y4:line_status=translated
 msgctxt "260_キャバ育名前"
 msgid "Okay..."
 msgstr "Bueno..."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "296_Akiyama"
 msgid "%s, huh? That works. You'll use that name at the club from now on."
-msgstr ""
+msgstr "%s, ¿eh? Funciona. Debes usar ese nombre en el club ahora."
 
+#. y4:line_status=translated
 msgctxt "308_キャバ育名前"
 msgid "Okay, thank you."
 msgstr "De acuerdo, gracias."
 
+#. y4:line_status=translated
 msgctxt "320_Akiyama"
 msgid "First, let's get you changed into an outfit that brings out the best of your natural beauty. Don't worry, I guarantee you'll look great."
 msgstr "Primero, vamos a cambiarte a un atuendo que resalte lo mejor de tu belleza natural. No te preocupes, te garantizo que te verás genial."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "344_Akiyama"
 msgid "Welcome to Elise. We're going to make you into this club's number one hostess."
-msgstr ""
+msgstr "Bienvenidos a Elise. Te haremos la hostess número uno del club."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "356_Akiyama"
 msgid "You'll need to come up with a name to use in the club. What would you like your name to be?"
-msgstr ""
+msgstr "Necesitas un nombre que usarás en el club. ¿Qué nombre te gustaría usar?"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "428_Akiyama"
-msgid "I'm not quite sure how to pronounce that... Why don't we\\r\n"
-"come up with something a bit more natural?"
-msgstr ""
+msgid "I'm not quite sure how to pronounce that... Why don't we\\r\ncome up with something a bit more natural?"
+msgstr "No me convence el cómo se pronuncia... Y si\\r\n¿Probamos algo un poco más natural?"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "488_キャバ育名前"
 msgid "Sorry, I should've called if I was going to skip work..."
-msgstr ""
+msgstr "Perdón, debería haber llamado diciendo que faltaría al trabajo."
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "500_Akiyama"
-msgid "It's okay. I haven't been the best manager, either.\\r\n"
-"I'll be sure to do a better job from now on."
-msgstr ""
+msgid "It's okay. I haven't been the best manager, either.\\r\nI'll be sure to do a better job from now on."
+msgstr "Está bien. Tampoco he sido el mejor jefe.\\r\nVoy a asegurarme de ser mejor ahora en adelante."
 
+#. y4:line_status=translated
 msgctxt "512_キャバ育名前"
 msgid "Okay..."
 msgstr "Bueno..."
 
+#. y4:line_status=todo
 msgctxt "548_Akiyama"
 msgid "You're working hard. Have you met any promising men yet?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "560_キャバ育名前"
 msgid "I have a lot of rich customers, but as men, they leave something to be desired, if you know what I mean."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "572_Akiyama"
 msgid "It's a hard road finding the perfect man, I've heard."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "584_Akiyama"
 msgid "How's your day job going? I imagine they keep you pretty busy."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "596_キャバ育名前"
 msgid "Actually, they've put me completely in charge of a project. So I'm busy, but I love it!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "608_Akiyama"
 msgid "Sounds like you're a natural leader. You could probably quit the company and work for yourself."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "620_キャバ育名前"
 msgid "Work for myself? I'd never thought of that..."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "632_キャバ育名前"
 msgid "Hmm..."
 msgstr "Mmm..."
 
+#. y4:line_status=todo
 msgctxt "644_Akiyama"
 msgid "(I think she'll do just fine.)"
 msgstr ""
+

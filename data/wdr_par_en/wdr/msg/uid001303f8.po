@@ -6,14 +6,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Keiner
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=001303F8
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_BOWL.bin
-#. y4:runtime_play_command=y4.play_msg 001303F8 <group>
 
 #. y4:line_status=translated
 msgctxt "560"
@@ -21,8 +16,6 @@ msgid "You got the <Color:8>Seal of the Dragon<Color:Default>."
 msgstr "Obtuviste un <Color:8>Sello de dragón<Color:Default>."
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "9268"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -32,12 +25,11 @@ msgctxt "9272"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=2
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "9276"
 msgid "Purple Killers Boss"
-msgstr ""
+msgstr "Jefe Purple Killers"
 
 #. y4:line_status=translated
 msgctxt "9280"
@@ -61,8 +53,6 @@ msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=7
 msgctxt "9296"
 msgid "Akaishi"
 msgstr "Akaishi"
@@ -148,10 +138,11 @@ msgctxt "176_Kiryu"
 msgid "There's a group trying to wipe out yakuza?"
 msgstr "¿Hay un grupo intentando acabar con la yakuza?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "188_Purple Killers Boss"
 msgid "So it would seem."
-msgstr ""
+msgstr "Eso parece."
 
 #. y4:line_status=translated
 msgctxt "200_Purple Killers Boss"
@@ -287,3 +278,4 @@ msgstr "Apreciamos tu ayuda para mantener la paz."
 msgctxt "584_Akaishi"
 msgid "It looks like the remaining members of the Purple Killers are on the run from the Dark Clan. Make sure to keep your guard up."
 msgstr "Parece que los miembros restantes de los Asesinos Púrpuras están huyendo del Clan Oscuro. Asegúrate de tener la guardia alta."
+

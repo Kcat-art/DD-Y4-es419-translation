@@ -1,22 +1,13 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee05ac.po\n"
-"X-Crowdin-File-ID: 59952\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00EE05AC
 #. y4:runtime_group_count=6
@@ -24,104 +15,128 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_ROOF01.bin
 #. y4:runtime_play_command=y4.play_msg 00EE05AC <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "548"
 msgid "You got a <Color:8>Small Bomb<Color:Default>."
 msgstr "Obtuviste una <Color:8>Bomba Pequeña<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "704"
 msgid "You got a <Color:8>Superalloy Pickaxe<Color:Default>."
 msgstr "Obtuviste un <Color:8>Pico Superalineado<Color:Default>."
 
+#. y4:line_status=todo
 msgctxt "776"
 msgid "You got a K Works Catalog 1."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "920"
 msgid "You got a K Works Catalog 3."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1064"
 msgid "You got a K Works Catalog 2."
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "10236"
 msgid "Kamiyama"
 msgstr "Kamiyama"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "10240"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "440_Kamiyama"
 msgid "Oh, hello. What can I do for you today?"
-msgstr ""
+msgstr "Buenas, ¿Que puedo hacer por ti?"
 
+#. y4:line_status=todo
 msgctxt "452_Saejima"
 msgid "Can you make me a small bomb from this high-grade explosive gunpowder and this battery?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "464_Kamiyama"
 msgid "A bomb? You're not particular about the case or cables I use, right?"
 msgstr " ¿Una bomba? ¿No eres exigente con el estuche o los cables que uso, ¿verdad?"
 
+#. y4:line_status=translated
 msgctxt "476_Kamiyama"
 msgid "I'll see what I can do."
 msgstr "Veré que puedo hacer."
 
+#. y4:line_status=translated
 msgctxt "536_Kamiyama"
 msgid "I finished! It's not the prettiest thing in the world, but what it lacks in beauty, it makes up for with power."
 msgstr "¡Terminé! No es la cosa mas bonita en el mundo, pero lo que le falta de belleza, lo compensa en poder."
 
+#. y4:line_status=translated
 msgctxt "572_Kamiyama"
 msgid "No need to pay me! You've done a lot to help me, after all."
 msgstr "¡No hace falta que me pagues! Ya hiciste mucho por mi."
 
+#. y4:line_status=todo
 msgctxt "584_Saejima"
 msgid "Thanks a lot. This'll be real helpful."
 msgstr ""
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "596_Kamiyama"
 msgid "Oh, hello. What can I do for you today?"
-msgstr ""
+msgstr "Buenas, ¿Que puedo hacer por ti?"
 
+#. y4:line_status=todo
 msgctxt "608_Saejima"
 msgid "Can you make me a pickaxe out of this Super Alloy and Chunk of Wood (Ash)?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "620_Kamiyama"
 msgid "This alloy is of such incredible high quality! Wow."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "632_Kamiyama"
 msgid "I'll see what I can do."
 msgstr "Veré que puedo hacer."
 
+#. y4:line_status=todo
 msgctxt "692_Kamiyama"
 msgid "I finished! This pickaxe will be able to break through anything."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "728_Kamiyama"
 msgid "No need to pay me! Getting to work with such a fine alloy is a rare treat."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "740_Saejima"
 msgid "Thanks a lot. This'll be real helpful."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "752_Kamiyama"
 msgid "Oh, hello, Saejima-san. I've started my own modding business."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "764_Kamiyama"
 msgid "In commemoration of my shop's opening, I'd like to give you a small gift. Please, take this."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -129,18 +144,22 @@ msgctxt "800_Kamiyama"
 msgid "So, what will it be today? My specialty is weapons modifications."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "884_Kamiyama"
 msgid "All right, then. Maybe next time."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "896_Kamiyama"
 msgid "Uh, hi there. I run a weapons modding shop here. I look forward to doing business with you."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "908_Kamiyama"
 msgid "In commemoration of my shop's opening, I'd like to give you a small gift. Please, take this."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -148,18 +167,22 @@ msgctxt "944_Kamiyama"
 msgid "So, what can I do for you today? My specialty is weapons modifications."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1028_Kamiyama"
 msgid "All right, then. Maybe next time."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1040_Kamiyama"
 msgid "Uh, hi there. I run a weapons modding shop here. I look forward to doing business with you."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1052_Kamiyama"
 msgid "In commemoration of my shop's opening, I'd like to give you a small gift. Please, take this."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -167,10 +190,12 @@ msgctxt "1088_Kamiyama"
 msgid "So, what can I do for you today? My specialty is weapons modifications."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1172_Kamiyama"
 msgid "All right, then. Maybe next time."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=3
@@ -178,10 +203,12 @@ msgctxt "1184_Kamiyama"
 msgid "Hey, there. I can help you mod or repair weapons. What can I do for you today?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1268_Kamiyama"
 msgid "All right, then. Maybe next time."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -192,6 +219,8 @@ msgctxt "1280_Kamiyama"
 msgid "Mod Gear or Accessories"
 msgstr ""
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -200,8 +229,10 @@ msgstr ""
 #. y4:msg_branch_target=T2.P9
 msgctxt "1292_Kamiyama"
 msgid "View Designs"
-msgstr ""
+msgstr "Ver Diseños"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -210,8 +241,9 @@ msgstr ""
 #. y4:msg_branch_target=T2.P10
 msgctxt "1304_Kamiyama"
 msgid "Buy Equipment/Designs"
-msgstr ""
+msgstr "Comprar Equipamiento/Diseños"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -222,6 +254,7 @@ msgctxt "1316_Kamiyama"
 msgid "Never Mind"
 msgstr "No importa"
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -232,6 +265,8 @@ msgctxt "1328_Kamiyama"
 msgid "Mod Gear or Accessories"
 msgstr ""
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -240,8 +275,10 @@ msgstr ""
 #. y4:msg_branch_target=T3.P9
 msgctxt "1340_Kamiyama"
 msgid "View Designs"
-msgstr ""
+msgstr "Ver Diseños"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -250,8 +287,9 @@ msgstr ""
 #. y4:msg_branch_target=T3.P10
 msgctxt "1352_Kamiyama"
 msgid "Buy Equipment/Designs"
-msgstr ""
+msgstr "Comprar Equipamiento/Diseños"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -262,6 +300,7 @@ msgctxt "1364_Kamiyama"
 msgid "Never Mind"
 msgstr "No importa"
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -272,6 +311,8 @@ msgctxt "1376_Kamiyama"
 msgid "Mod Gear or Accessories"
 msgstr ""
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -280,8 +321,10 @@ msgstr ""
 #. y4:msg_branch_target=T4.P9
 msgctxt "1388_Kamiyama"
 msgid "View Designs"
-msgstr ""
+msgstr "Ver Diseños"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -290,8 +333,9 @@ msgstr ""
 #. y4:msg_branch_target=T4.P10
 msgctxt "1400_Kamiyama"
 msgid "Buy Equipment/Designs"
-msgstr ""
+msgstr "Comprar Equipamiento/Diseños"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -302,6 +346,7 @@ msgctxt "1412_Kamiyama"
 msgid "Never Mind"
 msgstr "No importa"
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -312,6 +357,8 @@ msgctxt "1424_Kamiyama"
 msgid "Mod Gear or Accessories"
 msgstr ""
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -320,8 +367,10 @@ msgstr ""
 #. y4:msg_branch_target=T5.P5
 msgctxt "1436_Kamiyama"
 msgid "View Designs"
-msgstr ""
+msgstr "Ver Diseños"
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -330,8 +379,9 @@ msgstr ""
 #. y4:msg_branch_target=T5.P6
 msgctxt "1448_Kamiyama"
 msgid "Buy Equipment/Designs"
-msgstr ""
+msgstr "Comprar Equipamiento/Diseños"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -341,3 +391,4 @@ msgstr ""
 msgctxt "1460_Kamiyama"
 msgid "Never Mind"
 msgstr "No importa"
+

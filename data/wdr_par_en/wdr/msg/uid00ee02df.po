@@ -1,22 +1,13 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee02df.po\n"
-"X-Crowdin-File-ID: 60064\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
+#. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00EE02DF
 #. y4:runtime_group_count=3
@@ -24,109 +15,134 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00EE02DF <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "30180"
 msgid "Employee"
 msgstr "Empleado"
 
+#. y4:line_status=translated
 msgctxt "30184"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "30188"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "30192"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "30196"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=5
 msgctxt "30200"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "30204"
 msgid "MvM_nml_stand_phone_st"
 msgstr "MvM_nml_stand_phone_st"
 
+#. y4:line_status=translated
 msgctxt "30208"
 msgid "MvM_nml_stand_phone_ed"
 msgstr "MvM_nml_stand_phone_ed"
 
+#. y4:line_status=todo
 msgctxt "936_Employee"
 msgid "Don't mind the mess, sir! We might be a wreck right now, but we're still open for business!"
 msgstr ""
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "948_Employee"
 msgid "Hello, sir. What can I do for you today?"
-msgstr ""
+msgstr "Hola, señor, ¿en qué puedo ayudarle?"
 
+#. y4:line_status=todo
 msgctxt "960_Player"
 msgid "(Now's not the time for me to ask them to introduce me to a place.)"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "972_Player"
 msgid "Sorry, something just came up."
 msgstr "Perdona, me surgió algo."
 
+#. y4:line_status=todo
 msgctxt "984_Employee"
 msgid "Oh... Well, come by again soon, all right?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1008_Employee"
 msgid "Don't mind the mess, sir! We might be a wreck right now, but we're still open for business!"
 msgstr ""
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "1020_Employee"
 msgid "Hello, sir. What can I do for you today?"
-msgstr ""
+msgstr "Hola, señor, ¿en qué puedo ayudarle?"
 
+#. y4:line_status=translated
 msgctxt "1032_Player"
 msgid "(I need to be doing stuff for Elise right now. No time for detours.)"
 msgstr "(Tengo que estar al pendiente del Elise. No tengo tiempo para perder el tiempo)."
 
+#. y4:line_status=translated
 msgctxt "1044_Player"
 msgid "Sorry, something just came up."
 msgstr "Perdona, me surgió algo."
 
+#. y4:line_status=todo
 msgctxt "1056_Employee"
 msgid "Oh... Well, come by again soon, all right?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1080_Employee"
 msgid "Don't mind the mess, sir! We might be a wreck right now, but we're still open for business!"
 msgstr ""
 
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
 msgctxt "1092_Employee"
 msgid "Hello, sir. What can I do for you today?"
-msgstr ""
+msgstr "Hola, señor, ¿en qué puedo ayudarle?"
 
+#. y4:line_status=todo
 msgctxt "1104_Employee"
 msgid "Actually, I'm good."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1116_Employee"
 msgid "Okay, just let me know if you need anything."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1128_Player"
 msgid "Tell me about Jewel."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -134,110 +150,137 @@ msgctxt "1140_Employee"
 msgid "What would you like to know about Jewel?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1152_Employee"
 msgid "Tell me about Jewel itself."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1164_Employee"
 msgid "Jewel is a hostess club with a  laid-back atmosphere and friendly, down-to-earth girls."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1176_Employee"
 msgid "It's my top recommendation! You can find it over on Shichifuku Street."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1188_Employee"
 msgid "There's an 8,400 yen cover charge, a 3,150 yen hostess-selection charge, and a 3,150 yen service charge."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1212_Employee"
 msgid "Tell me about Noa Mizutani."
 msgstr "Háblame de Noa Mizutani."
 
+#. y4:line_status=todo
 msgctxt "1224_Employee"
 msgid "Noa-chan is cheerful and friendly. Talking to her is like talking to a good friend, even if you've only just met."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1236_Employee"
 msgid "She's a little ditzy at times, but I think you'll find it charming－especially when she doesn't realize she's being ditzy!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1248_Employee"
 msgid "She's 21, an Aquarius, and her blood type's B! She loves to eat anything fried but hates bitter vegetables."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1260_Talk_Smile"
 msgid "Hehehe... Once you get a taste of Noa-chan's cheery personality, you won't be able to stop coming back for more!"
 msgstr "Jejeje... Una vez que pruebes la alegre personalidad de Noa-chan, ¡no podrás dejar de volver a por más!"
 
+#. y4:line_status=todo
 msgctxt "1284_Employee"
 msgid "Tell me about Erena Aihara."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1296_Employee"
 msgid "Erena-chan is a spunky Kansai goddess! Her high energy is absolutely infectious."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1308_Employee"
 msgid "Here's something you might not expect: she also has a girly side! Your heart is guaranteed to skip a beat once you get a glimpse of it!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1320_Employee"
 msgid "She's 24, an Aries, and her blood type's O! Her favorite food is liver sashimi, and I hear she's really into perfume."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1332_Talk_Smile"
 msgid "Hehe... Let me tell you, once you live through one of Erena-chan's hyper-energetic conversations, you'll be totally hooked!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1356_Employee"
 msgid "Tell me about Chihiro Ikki."
 msgstr "Háblame acerca de Chihiro Ikki."
 
+#. y4:line_status=translated
 msgctxt "1368_Employee"
 msgid "Chihiro-chan's a college student! She's popular for her exceedingly normal personality－at least, normal compared to most hostesses."
 msgstr "¡Chihiro-chan es una estudiante universitaria! Es popular por tener una personalidad excesivamente normal - \"normal\" en comparación con la mayoría de las demás hostesses."
 
+#. y4:line_status=todo
 msgctxt "1380_Employee"
 msgid "You can tell she's trying really hard to keep up with \"adulting,\" as she'd call it. You'll want to watch over her and protect her!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1392_Employee"
 msgid "Just between you and me, I hear she's hiding a secret talent... Wonder what it could be."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1404_Employee"
 msgid "She's 20, an Aries, and her blood type's B! I hear she's not very good with alcohol, despite working in a hostess club."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1416_Talk_Smile"
 msgid "Hehehe... You'd best be careful with Chihiro-chan. One innocent look is all it takes for an addiction to start!"
 msgstr "Je, je, je... Será mejor que tenga cuidado con Chihiro-chan. ¡Una pequeña e inocente mirada es suficiente para volverte adicto!"
 
+#. y4:line_status=todo
 msgctxt "1440_Employee"
 msgid "Tell me about Maya Mori."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1452_Employee"
 msgid "Maya-chan is cool and stylish. She has a mysterious kind of charm about her, though maybe that comes from how calm and refined she comes off as."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1464_Employee"
 msgid "She loves going out on the town at night and has plenty of stories to tell about her nighttime adventures, though lately I hear she's grown up a little bit."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1476_Employee"
 msgid "She's 24, a Sagittarius, and her blood type's A! She absolutely loves chocolate, don't forget that."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1488_Talk_Smile"
 msgid "Hehehe... Just you wait. You'll take one look at Maya-chan's cute face and instantly fall in love!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1512_Player"
 msgid "Tell me about Shine."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -245,90 +288,112 @@ msgctxt "1524_Employee"
 msgid "What would you like to know about Shine?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1536_Employee"
 msgid "Tell me about Shine itself."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1548_Employee"
 msgid "Shine is a long-standing hostess club in Kamurocho."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1560_Employee"
 msgid "The manager scouts the girls himself, so there's not a butterface among them. You'll find it over on Pink Street."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1572_Employee"
 msgid "There's an 8,400 yen cover charge, a 3,150 yen hostess-selection charge, and a 3,150 yen service charge."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1596_Employee"
 msgid "Tell me about Rio."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1608_Employee"
 msgid "Rio-chan is half-Japanese. That gives her a sexy, exotic appeal, guaranteed to drive you wild."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1620_Employee"
 msgid "She's the number one hostess at the club, and not just for her looks! I heard that she recently got picked up to write a column for a Kamurocho magazine."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1632_Employee"
 msgid "She's 23, a Scorpio, and her blood type's A! Music is one of her many hobbies. Oh, also, she loves chocolate."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1644_Talk_Smile"
 msgid "Hehehe... No man could ever turn down the chance to go on a life-changing date with the super sexy Rio-chan!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1668_Employee"
 msgid "Tell me about Shizuka Saito."
 msgstr "Cuéntame sobre Shizuka Saito."
 
+#. y4:line_status=translated
 msgctxt "1680_Employee"
 msgid "Shizuka-chan is a traditional Japanese beauty with stunning black hair. She's polite and has incredibly good manners, something you don't see much in young people nowadays."
 msgstr "Shizuka-chan es una belleza tradicional japonesa con un impresionante cabello negro. Es educada y tiene muy buenos modales, algo que no se ve mucho en los jóvenes de hoy en día."
 
+#. y4:line_status=todo
 msgctxt "1692_Employee"
 msgid "Apparently, she's got a very interesting backstory, especially when it comes to how she came to work at a hostess club."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1704_Employee"
 msgid "She's 29, a Sagittarius, and her blood type's O! She loves desserts but hates spicy food."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1716_Talk_Smile"
 msgid "Hehehe... Sit down with Shizuka-chan for a few minutes, and watch as her unique aura soothes away all your troubles!"
 msgstr "Je, je, je... ¡Siéntase con Shizuka-chan durante unos minutos y observa cómo su aura única alivia todos tus problemas!"
 
+#. y4:line_status=todo
 msgctxt "1740_Employee"
 msgid "Tell me about Himeka Kawasaki."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1752_Employee"
 msgid "Himeka-chan is an energetic Kansai-grown girl. She's the star of her club and is well-known for her cheerful conversational style."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1764_Employee"
 msgid "She loves interacting with customers and drinking, too. Guess working at a hostess club is the perfect job for her!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1776_Employee"
 msgid "I hear there are even customers who come up all the way from Kansai just to meet Himeka-chan!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1788_Employee"
 msgid "She's 24, a Leo, and her blood type's O! She loves liver sashimi and fried foods, and I hear she's really into collecting perfume and going to hot springs."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1800_Talk_Smile"
 msgid "Hehehe... Who knows? You may find yourself among Himeka-chan's legions of fans very soon!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1824_Player"
 msgid "Tell me about Elise."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=3
@@ -336,190 +401,237 @@ msgctxt "1836_Employee"
 msgid "What would you like to know about Elise?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1848_Employee"
 msgid "Tell me about Elise itself."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1860_Employee"
 msgid "Elise is a hostess club that's been quickly rising through the ranks. It gains more and more popularity by the day, it seems."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1872_Employee"
 msgid "The club's name means \"paradise,\" and the girls there were all personally selected and trained by the shop's manager, so you know they've got to be good."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1884_Employee"
 msgid "You can find it over on Taihei Boulevard. There's a 5,000 yen cover charge, a 1,000 yen hostess-request fee, and a 1,000 yen service charge."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1920_Player"
 msgid "Tell me about %s."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1932_Employee"
 msgid "%s-chan is a shrewd career woman. It's no wonder she's got high expectations for the men who court her."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1944_Employee"
 msgid "I hear she's looking to get married soon. Who knows, you could be the lucky guy..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1956_Employee"
 msgid "She's 26, a Sagittarius, and her blood type's O! I hear she loves any kind of fruit."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1968_Talk_Smile"
 msgid "Hehehe... You'll need to be a gentleman above all others if you want to win %s-chan's heart..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2004_Player"
 msgid "Tell me about %s."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2016_Employee"
 msgid "%s-chan is great at sports! Her cheerful personality and passion for athletics are only two of her many charms."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2028_Employee"
 msgid "I hear that %s-chan's father is somewhat famous."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2040_Employee"
 msgid "She's 21, a Cancer, and her blood type's AB! She loves drinking parties, and lately I've heard she's starting to get into golf."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2052_Talk_Smile"
 msgid "Hehehe... The best remedy for a long day of work is an evening sharing a beer with %s-chan!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2088_Player"
 msgid "Tell me about %s."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2100_Employee"
 msgid "%s-chan is a tough girl who doesn't hesitate to tell you exactly what's on her mind."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2112_Employee"
 msgid "Oh, here's something you might find interesting: she's the lead singer in a band."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2124_Employee"
 msgid "She's 21, a Capricorn, and her blood type's O! She loves to eat junk food, and hates most vegetables."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2136_Talk_Smile"
 msgid "Hehehe... Once you see %s-chan's girly side, your heart will be completely hooked!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2160_Employee"
 msgid "Tell me about Love in Heart massage parlor."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2172_Employee"
 msgid "That's a popular massage parlor on Senryo Avenue."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2184_Employee"
 msgid "They offer two types of massages to soothe your tired body."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "2208_Employee"
 msgid "Tell me about Fusion video store."
 msgstr "Háblame del videoclub Fusion."
 
+#. y4:line_status=todo
 msgctxt "2220_Employee"
 msgid "It's a store over on North Senryo Avenue."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2232_Employee"
 msgid "They offer private rooms where you can watch \"special\" videos."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2256_Employee"
 msgid "Tell me about Bantam bar."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2268_Employee"
 msgid "It's a bar east of the Millennium Tower."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2280_Employee"
 msgid "It used to be called Bacchus, but after what went down over there, it ended up changing its name and its management."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2292_Employee"
 msgid "It's a fun spot to hang out and play darts. It might be a good place to take a girl on a date."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2316_Employee"
 msgid "Tell me about Asia bikini bar."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2328_Employee"
 msgid "It's over on Pink Street. That place has been there practically forever."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2340_Employee"
 msgid "You'll find different seats open every time you go. If you get lucky, you'll be able to sit right in front of the dancer!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "2364_Employee"
 msgid "Tell me about Earth Angel bar."
 msgstr "Háblame del bar Ángel Terrenal."
 
+#. y4:line_status=todo
 msgctxt "2376_Employee"
 msgid "It's a bar over in the Champion District."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2388_Employee"
 msgid "Their mama, Ako-chan, is practically famous around here."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2400_Employee"
 msgid "If you want to know exactly why she's famous, well, you should stop by and see for yourself."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2424_Employee"
 msgid "Tell me about Shellac bar."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2436_Employee"
 msgid "It's an old bar in the Champion District."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2448_Employee"
 msgid "It's a bit cramped, but still comfortable. I hear it has quite the share of regulars."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2460_Employee"
 msgid "It also has an impressive lineup of booze, all carefully selected by the owner."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2484_Employee"
 msgid "Tell me about Cuez Bar."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2496_Employee"
 msgid "Cuez Bar is a bar over in the Kamurocho Underground Mall."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2508_Employee"
 msgid "On top of the great drinks they offer, they've got a great pool table."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2520_Employee"
 msgid "I bet you could take a girl there for a pretty nice date. Why don't you stop by Cuez Bar sometime?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2556_Player"
 msgid "I need help getting somewhere. Think you could help me?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2580_Employee"
 msgid "It seems you have someone waiting for you. You probably shouldn't keep them waiting."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=4
@@ -527,6 +639,7 @@ msgctxt "2604_Employee"
 msgid "Where to, sir?"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=5
@@ -534,14 +647,17 @@ msgctxt "2616_Employee"
 msgid "Where to, sir?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2628_Saejima"
 msgid "(I shouldn't do anything that'll make me stand out...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2640_Employee"
 msgid "Take me to Jewel."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=6
@@ -549,14 +665,17 @@ msgctxt "2652_Employee"
 msgid "Jewel, the hostess club?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2664_Employee"
 msgid "Yeah, that's the one."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2676_Employee"
 msgid "Take me to Shine."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=7
@@ -564,14 +683,17 @@ msgctxt "2688_Employee"
 msgid "Shine, the hostess club?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2700_Employee"
 msgid "Yeah, that's the one."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2712_Employee"
 msgid "Take me to Elise."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=8
@@ -579,14 +701,17 @@ msgctxt "2724_Employee"
 msgid "Elise, the hostess club?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2736_Employee"
 msgid "Yeah, that's the one."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2748_Employee"
 msgid "Take me to Love in Heart."
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=9
@@ -594,14 +719,17 @@ msgctxt "2760_Employee"
 msgid "Love in Heart, the massage parlor?"
 msgstr "Love in Heart, ¿el salón de masajes?"
 
+#. y4:line_status=todo
 msgctxt "2772_Employee"
 msgid "Yeah, that's the one."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2784_Employee"
 msgid "Take me to Asia."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=10
@@ -609,34 +737,42 @@ msgctxt "2796_Employee"
 msgid "Asia, the bikini bar?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2808_Employee"
 msgid "Yeah, that's the one."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2820_Employee"
 msgid "Of course, sir. Just a moment, please."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2844_Employee"
 msgid "Hello? This is MEB calling. How are you this evening?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2856_Employee"
 msgid "Yes, well, I have a guest here who'd like to stop by."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2868_Employee"
 msgid "So we're good? Great! Thank you!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2892_Employee"
 msgid "Okay, sir, please follow me. I'll take you there right away."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2976_Employee"
 msgid "I'm sorry, sir, but you, um... You seem to be a little short on cash."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -647,6 +783,7 @@ msgctxt "2988_Employee"
 msgid "Tell me about Jewel."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -657,6 +794,7 @@ msgctxt "3000_Employee"
 msgid "Tell me about Shine."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -667,6 +805,7 @@ msgctxt "3012_Employee"
 msgid "Tell me about Elise."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -677,6 +816,7 @@ msgctxt "3024_Employee"
 msgid "Tell me about Love in Heart massage parlor."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -687,6 +827,7 @@ msgctxt "3036_Employee"
 msgid "Tell me about Asia bikini bar."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -697,6 +838,7 @@ msgctxt "3048_Employee"
 msgid "Tell me about Bantam bar."
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -707,6 +849,7 @@ msgctxt "3060_Employee"
 msgid "Tell me about Earth Angel bar."
 msgstr "Háblame del bar Ángel Terrenal."
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -717,6 +860,7 @@ msgctxt "3072_Employee"
 msgid "Tell me about Shellac bar."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -727,6 +871,7 @@ msgctxt "3084_Employee"
 msgid "Tell me about Cuez Bar."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -737,6 +882,7 @@ msgctxt "3096_Employee"
 msgid "Take me to a particular business."
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -747,6 +893,7 @@ msgctxt "3108_Employee"
 msgid "Never mind."
 msgstr "No importa."
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -757,6 +904,7 @@ msgctxt "3120_Employee"
 msgid "Tell me about the club itself."
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -767,6 +915,7 @@ msgctxt "3132_Employee"
 msgid "Tell me about Noa Mizutani."
 msgstr "Háblame de Noa Mizutani."
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -777,6 +926,7 @@ msgctxt "3144_Employee"
 msgid "Tell me about Erena Aihara."
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -787,6 +937,7 @@ msgctxt "3156_Employee"
 msgid "Tell me about Chihiro Ikki."
 msgstr "Háblame acerca de Chihiro Ikki."
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -797,6 +948,7 @@ msgctxt "3168_Employee"
 msgid "Tell me about Maya Mori."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -807,6 +959,7 @@ msgctxt "3180_Employee"
 msgid "Tell me about another hotspot."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -817,6 +970,7 @@ msgctxt "3192_Employee"
 msgid "Tell me about the club itself."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -827,6 +981,7 @@ msgctxt "3204_Employee"
 msgid "Tell me about Rio."
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -837,6 +992,7 @@ msgctxt "3216_Employee"
 msgid "Tell me about Shizuka Saito."
 msgstr "Cuéntame sobre Shizuka Saito."
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -847,6 +1003,7 @@ msgctxt "3228_Employee"
 msgid "Tell me about Himeka Kawasaki."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -857,6 +1014,7 @@ msgctxt "3240_Employee"
 msgid "Tell me about another hotspot."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -867,6 +1025,7 @@ msgctxt "3252_Employee"
 msgid "Tell me about the club itself."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -877,6 +1036,7 @@ msgctxt "3264_Employee"
 msgid "Tell me about the first girl."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -887,6 +1047,7 @@ msgctxt "3276_Employee"
 msgid "Tell me about the second girl."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -897,6 +1058,7 @@ msgctxt "3288_Employee"
 msgid "Tell me about the third girl."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -907,6 +1069,7 @@ msgctxt "3300_Employee"
 msgid "Tell me about another hotspot."
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4
@@ -917,6 +1080,7 @@ msgctxt "3312_Employee"
 msgid "Jewel"
 msgstr "Jewel"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4
@@ -927,6 +1091,7 @@ msgctxt "3324_Employee"
 msgid "Shine"
 msgstr "Shine"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4
@@ -937,6 +1102,7 @@ msgctxt "3336_Employee"
 msgid "Elise"
 msgstr "Elise"
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4
@@ -947,6 +1113,7 @@ msgctxt "3348_Employee"
 msgid "Stay Here"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=5
@@ -957,6 +1124,7 @@ msgctxt "3360_Employee"
 msgid "Jewel"
 msgstr "Jewel"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=5
@@ -967,6 +1135,7 @@ msgctxt "3372_Employee"
 msgid "Shine"
 msgstr "Shine"
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=5
@@ -977,6 +1146,7 @@ msgctxt "3384_Employee"
 msgid "Stay Here"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=6
@@ -987,6 +1157,7 @@ msgctxt "3396_Employee"
 msgid "Yes"
 msgstr "Sí"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=6
@@ -997,6 +1168,7 @@ msgctxt "3408_Employee"
 msgid "No"
 msgstr "No"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=7
@@ -1007,6 +1179,7 @@ msgctxt "3420_Employee"
 msgid "Yes"
 msgstr "Sí"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=7
@@ -1017,6 +1190,7 @@ msgctxt "3432_Employee"
 msgid "No"
 msgstr "No"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=8
@@ -1027,6 +1201,7 @@ msgctxt "3444_Employee"
 msgid "Yes"
 msgstr "Sí"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=8
@@ -1037,6 +1212,7 @@ msgctxt "3456_Employee"
 msgid "No"
 msgstr "No"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=9
@@ -1047,6 +1223,7 @@ msgctxt "3468_Employee"
 msgid "Yes"
 msgstr "Sí"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=9
@@ -1057,6 +1234,7 @@ msgctxt "3480_Employee"
 msgid "No"
 msgstr "No"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=10
@@ -1067,6 +1245,7 @@ msgctxt "3492_Employee"
 msgid "Yes"
 msgstr "Sí"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=10
@@ -1076,3 +1255,4 @@ msgstr "Sí"
 msgctxt "3504_Employee"
 msgid "No"
 msgstr "No"
+

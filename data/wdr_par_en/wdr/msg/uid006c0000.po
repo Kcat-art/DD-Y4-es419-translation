@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59416\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=006C0000
 #. y4:runtime_group_count=4
@@ -24,14 +26,15 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CABA01.bin
 #. y4:runtime_play_command=y4.play_msg 006C0000 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2128"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -39,14 +42,17 @@ msgctxt "264_Player"
 msgid "(Should I give her a present?)"
 msgstr "(¿Debería darle un regalo...?)"
 
+#. y4:line_status=translated
 msgctxt "288_Player"
 msgid " (Maybe she'd like this.)"
 msgstr " (Puede que le guste esto)."
 
+#. y4:line_status=translated
 msgctxt "300_Player"
 msgid "(On second thought, maybe not.)"
 msgstr "(Pensándolo bien... quizá no)."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -54,14 +60,17 @@ msgctxt "312_Player"
 msgid "(This might be a good time to leave, but I've got enough money. Should I stay a bit longer?)"
 msgstr "(Este parece ser un buen momento para irme, pero todavía tengo dinero. ¿Debería quedarme otro rato?)"
 
+#. y4:line_status=translated
 msgctxt "324_Player"
 msgid " (I think I'll stay just a bit longer.)"
 msgstr " (Supongo que puedo quedarme un rato más)."
 
+#. y4:line_status=translated
 msgctxt "336_Player"
 msgid "(I think it's time to go.)"
 msgstr "(Creo que es hora de irse)."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -69,6 +78,7 @@ msgctxt "348_Player"
 msgid "(What should I talk about?)"
 msgstr "(¿Sobre qué debo hablar?)."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -79,6 +89,7 @@ msgctxt "396_Player"
 msgid "Yes"
 msgstr "Sí"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -89,6 +100,7 @@ msgctxt "408_Player"
 msgid "No"
 msgstr "No"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -99,6 +111,7 @@ msgctxt "420_Player"
 msgid "Stay"
 msgstr "Quedarse"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -109,6 +122,7 @@ msgctxt "432_Player"
 msgid "Leave"
 msgstr "Irse"
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -119,6 +133,7 @@ msgctxt "444_Player"
 msgid "The rumor about ramen."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -129,6 +144,7 @@ msgctxt "456_Player"
 msgid "The rumor about gelato."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -138,3 +154,4 @@ msgstr ""
 msgctxt "468_Player"
 msgid "The rumor about fake brand-name goods."
 msgstr ""
+

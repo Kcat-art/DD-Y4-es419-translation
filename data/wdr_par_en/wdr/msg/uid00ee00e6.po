@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61536\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00EE00E6
 #. y4:runtime_group_count=2
@@ -24,32 +26,37 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CASINO.bin
 #. y4:runtime_play_command=y4.play_msg 00EE00E6 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2256"
 msgid "Dealer"
 msgstr "Crupier"
 
+#. y4:line_status=translated
 msgctxt "2260"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "2264"
 msgid "Player"
 msgstr "Jugador"
 
+#. y4:line_status=translated
 msgctxt "2268"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "2272"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -57,14 +64,17 @@ msgctxt "172_Dealer"
 msgid "Welcome. Would you like to play roulette?"
 msgstr "Bienvenido. ¿Le gustaría jugar a la ruleta?"
 
+#. y4:line_status=translated
 msgctxt "196_Player"
 msgid "Sure, I'll play."
 msgstr "Claro, jugaré."
 
+#. y4:line_status=translated
 msgctxt "220_Dealer"
 msgid "How about playing the house, one-on-one sir? You won't able to place outside bets, but you get five spins with double the odds."
 msgstr "¿Qué le parece jugar contra la casa uno contra uno, señor? No podrá hacer apuestas externas, pero tendrá cinco tiradas con el doble de probabilidades."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -72,24 +82,27 @@ msgctxt "232_Player"
 msgid "Hmm... Sure, sign me up."
 msgstr "Mmm... Claro, apúntame."
 
+#. y4:line_status=translated
 msgctxt "256_Dealer"
 msgid "Very good, sir. Please take your seat."
 msgstr "Muy bien, señor. Por favor, tome asiento."
 
+#. y4:line_status=translated
 msgctxt "280_Dealer"
 msgid "It looks like you don't have enough chips to play roulette, sir."
 msgstr "Parece que no tiene suficientes fichas para jugar a la ruleta, señor."
 
+#. y4:line_status=translated
 msgctxt "292_Player"
 msgid "Not right now."
 msgstr "Ahora no."
 
+#. y4:line_status=translated
 msgctxt "304_Dealer"
-msgid "All right. Come visit again sometime.\\r\n"
-"Please play next time."
-msgstr "Muy bien. Vuelva a visitarnos otra vez.\\r\n"
-"Por favor juegue la próxima vez."
+msgid "All right. Come visit again sometime.\\r\nPlease play next time."
+msgstr "Muy bien. Vuelva a visitarnos otra vez.\\r\nPor favor juegue la próxima vez."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -100,6 +113,7 @@ msgctxt "316_Dealer"
 msgid "Play"
 msgstr "Jugar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -110,6 +124,7 @@ msgctxt "328_Dealer"
 msgid "Not Now"
 msgstr "Ahora no"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -120,6 +135,7 @@ msgctxt "340_Dealer"
 msgid "Play Against the House"
 msgstr "Jugar Contra la Casa"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -129,3 +145,4 @@ msgstr "Jugar Contra la Casa"
 msgctxt "352_Dealer"
 msgid "Play a Standard Game"
 msgstr "Jugar una Partida Estándar"
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62526\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01EE00D2
 #. y4:runtime_group_count=1
@@ -24,40 +26,47 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CLUBSEGA_01.bin
 #. y4:runtime_play_command=y4.play_msg 01EE00D2 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1328"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=todo
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1332"
 msgid "AnswerxAnswer"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1336"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=todo
 msgctxt "128_Player"
 msgid "(Maybe I should read the instructions for AnswerxAnswer...)"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "188_Player"
 msgid "(All right, let's do this.)"
 msgstr "(Muy bien, empecemos.)"
 
+#. y4:line_status=translated
 msgctxt "212_Player"
 msgid "(I don't have enough money...)"
 msgstr "(No tengo suficiente dinero...)."
 
+#. y4:line_status=translated
 msgctxt "224_Player"
 msgid "(Maybe later.)"
 msgstr "(Tal vez más tarde)."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -68,6 +77,7 @@ msgctxt "236_Player"
 msgid "Play"
 msgstr "Jugar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -78,6 +88,7 @@ msgctxt "248_Player"
 msgid "Read the Instructions"
 msgstr "Leer las instrucciones"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -87,3 +98,4 @@ msgstr "Leer las instrucciones"
 msgctxt "260_Player"
 msgid "Don't Play"
 msgstr "No jugar"
+

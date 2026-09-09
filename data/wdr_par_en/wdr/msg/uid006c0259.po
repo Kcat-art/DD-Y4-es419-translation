@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61560\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=006C0259
 #. y4:runtime_group_count=4
@@ -24,216 +26,268 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 006C0259 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "380"
 msgid "I should get going. Bye bye!"
 msgstr "Ya debería irme. ¡Bye bye!"
 
+#. y4:line_status=translated
 msgctxt "440"
 msgid "I should get going. Bye bye!"
 msgstr "Ya debería irme. ¡Bye bye!"
 
+#. y4:line_status=translated
 msgctxt "512"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:line_status=translated
 msgctxt "1004"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "13668"
 msgid "望月京子：源氏名"
 msgstr "望月京子：源氏名"
 
+#. y4:line_status=translated
 msgctxt "13672"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "13676"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "13680"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "13684"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 msgctxt "13688"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "13692"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=todo
 msgctxt "116_望月京子：源氏名"
 msgid "Alright! There's no way I'm losing! Let's go in and settle this!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "128_Player"
 msgid "We'll see about that..."
 msgstr "Eso creo..."
 
+#. y4:line_status=todo
 msgctxt "140_望月京子：源氏名"
 msgid "Let's go inside, then."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "164_望月京子：源氏名"
 msgid "Alright! There's no way I'm losing! Let's go in and settle this!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "176_Talk_Yes"
 msgid "Let's go inside, then."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "188_Player"
 msgid "Wait a minute. I just realized that I'm short on cash."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "200_望月京子：源氏名"
 msgid "...Seriously?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "212_Player"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:line_status=todo
 msgctxt "224_望月京子：源氏名"
 msgid "From the way you act, I thought you had plenty of money. Oh well. I'll see you later."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "236_Player"
 msgid "(I should've made sure I had some cash...)"
 msgstr "(Debería haberme asegurado de tener algo de dinero...)"
 
+#. y4:line_status=todo
 msgctxt "344_望月京子：源氏名"
 msgid "That was amazing! You got the strength and the control down!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "356_Player"
 msgid "Heh. Thanks."
 msgstr "Je. Gracias."
 
+#. y4:line_status=todo
 msgctxt "368_望月京子：源氏名"
 msgid "I had so much fun today. We should do this again sometime. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "404_望月京子：源氏名"
 msgid "Man, that was so close! A tie, though, huh..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "416_Player"
 msgid "I totally thought I had you."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "428_望月京子：源氏名"
 msgid "Was still a good game!  Next time, we can try something else. Catch ya later."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "464_望月京子：源氏名"
 msgid "Too bad! I win this time. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "476_Player"
 msgid "Yeah... I didn't stand a chance."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "488_望月京子：源氏名"
 msgid "That was pretty fun. I should get going. Bye bye!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "596_望月京子：源氏名"
 msgid "Hehehehe... I won't lose to you, %s-san."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "608_Talk_Yes"
 msgid "Let's do this already!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "620_Player"
 msgid "All right."
 msgstr "Está bien."
 
+#. y4:line_status=todo
 msgctxt "644_望月京子：源氏名"
 msgid "Hehehehehe... I won't lose to you, %s-san."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "656_Talk_Yes"
 msgid "Let's do this already!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "668_Player"
 msgid "Wait a minute. I just realized that I'm short on cash."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "680_望月京子：源氏名"
 msgid "...Seriously?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "692_Player"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:line_status=todo
 msgctxt "704_望月京子：源氏名"
 msgid "From the way you act, I thought you had plenty of money. Oh well. I'll see you later."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "716_Player"
 msgid "(I should've made sure I had some cash...)"
 msgstr "(Debería haberme asegurado de tener algo de dinero...)"
 
+#. y4:line_status=todo
 msgctxt "824_望月京子：源氏名"
 msgid "That was amazing! You got the strength and the control down!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "836_Player"
 msgid "Heh. Thanks."
 msgstr "Je. Gracias."
 
+#. y4:line_status=translated
 msgctxt "848_望月京子：源氏名"
 msgid "I had so much fun today. Shall we head over to the club now? <Color:7>♥<Color:Default>"
 msgstr "Me divertí mucho hoy. Bueno, ¿deberíamos volver al club? <Color:7>♥<Color:Default>"
 
+#. y4:line_status=todo
 msgctxt "860_Player"
 msgid "Okay, sure."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "884_望月京子：源氏名"
 msgid "Man, so close! So, we tied..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "896_Player"
 msgid "Thought I had you for a minute there."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "908_望月京子：源氏名"
 msgid "It was still a good game!  Shall we head over to the club now? <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "920_Player"
 msgid "Okay, sure."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "944_望月京子：源氏名"
 msgid "Too bad! I win this time. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "956_Player"
 msgid "Yeah... I didn't stand a chance."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "968_望月京子：源氏名"
 msgid "That was pretty fun. Let's head to the club now."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "980_Player"
 msgid "Okay, sure."
 msgstr ""
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60682\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=018300EF
 #. y4:runtime_group_count=3
@@ -24,56 +26,66 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 018300EF <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "5232"
 msgid "Haruka"
 msgstr "Haruka"
 
+#. y4:line_status=translated
 msgctxt "5236"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "5240"
 msgid "Lily"
 msgstr "Lily"
 
+#. y4:line_status=translated
 msgctxt "5244"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "5248"
 msgid "Yasuko"
 msgstr "Yasuko"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=5
 msgctxt "5252"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "232_Haruka"
 msgid "What took you so long, Uncle Kaz? I got tired of waiting..."
 msgstr "¿Por qué demoraste tanto, tío Kaz? Me cansé de esperar..."
 
+#. y4:line_status=translated
 msgctxt "256_Haruka"
 msgid "Oh, you're back, Akiyama-san. Shall we go, then?"
 msgstr "Ah, ahí estás, Akiyama-san. ¿Vamos?"
 
+#. y4:line_status=translated
 msgctxt "268_Haruka"
 msgid "Oh, Kiryu-san, I've been waiting for you. Shall we go, then?"
 msgstr "Ah, Kiryu-san, te estaba esperando. ¿Nos vamos?"
 
+#. y4:line_status=translated
 msgctxt "304_Haruka"
 msgid "Are you... going in there, Uncle Kaz?"
 msgstr "¿Vas a entrar... ahí, tío Kaz?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -81,26 +93,32 @@ msgctxt "316_Player"
 msgid "(Haruka's with me. What should I do?)"
 msgstr "(Haruka está conmigo. ¿Qué podría hacer?)"
 
+#. y4:line_status=translated
 msgctxt "328_Haruka"
 msgid "Yeah, sorry. Think you can be a big girl and wait here while I'm gone?"
 msgstr "Sí, lo siento. ¿Podrías ser una niña grande y esperarme aquí mientras?"
 
+#. y4:line_status=translated
 msgctxt "340_Haruka"
 msgid "...Okay. Have fun, Uncle Kaz."
 msgstr "... Bueno, diviértete, tío Kaz."
 
+#. y4:line_status=translated
 msgctxt "352_Haruka"
 msgid "No, I'm okay."
 msgstr "No, estoy bien."
 
+#. y4:line_status=translated
 msgctxt "364_Haruka"
 msgid "Really? I don't mind."
 msgstr "¿En serio? No me importa."
 
+#. y4:line_status=translated
 msgctxt "388_Haruka"
 msgid "Um, are you going in here?"
 msgstr "Mm, ¿vas a entrar ahí?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -108,26 +126,32 @@ msgctxt "400_Player"
 msgid "(I forgot Lily-chan's with me. What to do...)"
 msgstr "(Me olvidé que Lily-chan estaba conmigo. Qué hago ahora...)."
 
+#. y4:line_status=translated
 msgctxt "412_Haruka"
 msgid "Yeah. Sorry, but could you wait a bit out here?"
 msgstr "Sí, ¿podría esperar aquí fuera?"
 
+#. y4:line_status=translated
 msgctxt "424_Lily"
 msgid "Oh, sure. I understand."
 msgstr "Claro. Entiendo."
 
+#. y4:line_status=translated
 msgctxt "436_Haruka"
 msgid "Actually, never mind."
 msgstr "Pensándolo bien, no importa."
 
+#. y4:line_status=translated
 msgctxt "448_Lily"
 msgid "I see... You don't have to worry about me though."
 msgstr "Entiendo... No tienes que preocuparte por mí."
 
+#. y4:line_status=translated
 msgctxt "460_Haruka"
 msgid "Um, are you going in here?"
 msgstr "Mm, ¿vas a entrar ahí?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -135,22 +159,27 @@ msgctxt "472_Player"
 msgid "(I forgot Yasuko-san's with me. What to do...)"
 msgstr "(Me olvidé que Yasuko-san estaba conmigo. Qué hago ahora...)."
 
+#. y4:line_status=translated
 msgctxt "484_Haruka"
 msgid "Sorry, but could you wait here for a bit?"
 msgstr "Disculpe, ¿podría esperar aquí un momento?"
 
+#. y4:line_status=translated
 msgctxt "496_Yasuko"
 msgid "Oh, sure. I understand."
 msgstr "Claro. Entiendo."
 
+#. y4:line_status=translated
 msgctxt "508_Haruka"
 msgid "Never mind."
 msgstr "No importa."
 
+#. y4:line_status=translated
 msgctxt "520_Yasuko"
 msgid "I see... You don't have to worry about me though."
 msgstr "Entiendo... No tienes que preocuparte por mí."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -161,6 +190,7 @@ msgctxt "616_Haruka"
 msgid "Go In Anyway"
 msgstr "Entrar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -171,6 +201,7 @@ msgctxt "628_Haruka"
 msgid "Forget It"
 msgstr "Olvidarlo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -181,6 +212,7 @@ msgctxt "640_Haruka"
 msgid "Go In Anyway"
 msgstr "Entrar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -191,6 +223,7 @@ msgctxt "652_Haruka"
 msgid "Forget It"
 msgstr "Olvidarlo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -201,6 +234,7 @@ msgctxt "664_Haruka"
 msgid "Go In Anyway"
 msgstr "Entrar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -210,3 +244,4 @@ msgstr "Entrar"
 msgctxt "676_Haruka"
 msgid "Forget It"
 msgstr "Olvidarlo"
+

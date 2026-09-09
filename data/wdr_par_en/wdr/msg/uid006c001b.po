@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58422\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=006C001B
 #. y4:runtime_group_count=3
@@ -24,14 +26,15 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CABA02.bin
 #. y4:runtime_play_command=y4.play_msg 006C001B <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1400"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -39,14 +42,17 @@ msgctxt "188_Player"
 msgid "(Should I give her a present?)"
 msgstr "(¿Debería darle un regalo...?)"
 
+#. y4:line_status=translated
 msgctxt "212_Player"
 msgid "(This one, then?)"
 msgstr "(¿Este, entonces?)"
 
+#. y4:line_status=translated
 msgctxt "224_Player"
 msgid "(On second thought... maybe not.)"
 msgstr "(Pensándolo bien... mejor no.)"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -54,14 +60,17 @@ msgctxt "236_Player"
 msgid "(This might be a good time to leave, but I've got enough money. Should I stay a bit longer?)"
 msgstr "(Este parece ser un buen momento para irme, pero todavía tengo dinero. ¿Debería quedarme otro rato?)"
 
+#. y4:line_status=translated
 msgctxt "248_Player"
 msgid "(I'll keep going a little longer, then.)"
 msgstr "(Me quedaré un poco más)."
 
+#. y4:line_status=translated
 msgctxt "260_Player"
 msgid "(On second thought... maybe not.)"
 msgstr "(Pensándolo bien... mejor no.)"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -72,6 +81,7 @@ msgctxt "272_Player"
 msgid "Yes"
 msgstr "Sí"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -82,6 +92,7 @@ msgctxt "284_Player"
 msgid "No"
 msgstr "No"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -92,6 +103,7 @@ msgctxt "296_Player"
 msgid "Yes"
 msgstr "Sí"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -101,3 +113,4 @@ msgstr "Sí"
 msgctxt "308_Player"
 msgid "No"
 msgstr "No"
+

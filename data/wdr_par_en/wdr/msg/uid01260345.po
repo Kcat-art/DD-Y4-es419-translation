@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60722\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01260345
 #. y4:runtime_group_count=1
@@ -24,8 +26,7 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_GOLF.bin
 #. y4:runtime_play_command=y4.play_msg 01260345 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -33,32 +34,40 @@ msgctxt "116"
 msgid "Who are you going to call?"
 msgstr "¿A quién vas a llamar?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1772"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "1776"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
+#. y4:line_status=translated
 msgctxt "1780"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
+#. y4:line_status=todo
 msgctxt "128_Player"
 msgid "(Let's give Rio a call...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "188_Player"
 msgid "(Let's give Noa a call...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "248_Player"
 msgid "(Let's give Erena a call...)"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -69,6 +78,7 @@ msgctxt "308_Player"
 msgid "Rio"
 msgstr "Rio"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -79,6 +89,7 @@ msgctxt "320_Player"
 msgid "Noa Mizutani"
 msgstr "Noa Mizutani"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -88,3 +99,4 @@ msgstr "Noa Mizutani"
 msgctxt "332_Player"
 msgid "Erena Aihara"
 msgstr "Erena Aihara"
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59146\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=019103FA
 #. y4:runtime_group_count=3
@@ -24,34 +26,41 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 019103FA <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "88"
 msgid "Nothing happened."
 msgstr "No pasó nada."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1284"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "1288"
 msgid "TNK_05_C_START"
 msgstr "TNK_05_C_START"
 
+#. y4:line_status=translated
 msgctxt "1292"
 msgid "TNK_05_C_E_START"
 msgstr "TNK_05_C_E_START"
 
+#. y4:line_status=translated
 msgctxt "1296"
 msgid "TNK_05_C_N_START"
 msgstr "TNK_05_C_N_START"
 
+#. y4:line_status=translated
 msgctxt "100_Player"
 msgid "(I should take a break and come back later...)"
 msgstr "(Debería tomarme un descanso y vuelvo más tarde...)"
 
+#. y4:line_status=todo
 msgctxt "124_Player"
 msgid "You learned the <Color:9>Essence of Ball and Chain<Color:Default>."
 msgstr ""
+

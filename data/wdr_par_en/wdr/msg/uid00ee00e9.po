@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62604\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00EE00E9
 #. y4:runtime_group_count=1
@@ -24,32 +26,37 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_MAHJONG.bin
 #. y4:runtime_play_command=y4.play_msg 00EE00E9 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1540"
 msgid "Customer"
 msgstr "Cliente"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1544"
 msgid "Player"
 msgstr "Jugador"
 
+#. y4:line_status=translated
 msgctxt "1548"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "1552"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "112_Customer"
 msgid "Wanting to play a game of mahjong? You need 25,000 sticks or it's a no go. You can buy 'em over at the desk."
 msgstr "¿Quieres jugar al mahjong? Necesitas 25,000 fichas o no hay partida. Puedes comprarlas en el mostrador."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -57,22 +64,27 @@ msgctxt "124_Customer"
 msgid "Wanting to play a game of mahjong? Goes without sayin', but we're pretty dang good."
 msgstr "¿Quieres jugar al mahjong? No es por presumir, pero se nos da bastante bien."
 
+#. y4:line_status=translated
 msgctxt "136_Customer"
 msgid "Yeah, I'll play."
 msgstr "Sí, jugaré."
 
+#. y4:line_status=translated
 msgctxt "148_Customer"
 msgid "That's what I'm talkin' about! Let's get started, then!"
 msgstr "¡Así se habla! ¡Dale, comencemos!"
 
+#. y4:line_status=translated
 msgctxt "172_Customer"
 msgid "Not right now."
 msgstr "Ahora no."
 
+#. y4:line_status=translated
 msgctxt "184_Customer"
 msgid "Aw, come on... Well, just say the word. We'll take you on anytime."
 msgstr "Lástima... Pero ya sabes, solo habla y te aceptamos el reto cuando sea."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -83,6 +95,7 @@ msgctxt "196_Customer"
 msgid "Play"
 msgstr "Jugar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -92,3 +105,4 @@ msgstr "Jugar"
 msgctxt "208_Customer"
 msgid "Not Now"
 msgstr "Ahora no"
+

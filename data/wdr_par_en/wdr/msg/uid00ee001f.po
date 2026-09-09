@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58564\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00EE001F
 #. y4:runtime_group_count=2
@@ -24,8 +26,7 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_SHOGIYA.bin
 #. y4:runtime_play_command=y4.play_msg 00EE001F <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -33,18 +34,22 @@ msgctxt "372"
 msgid "Hey buddy, you wanna play shogi? It'll be 500 yen."
 msgstr "Hey amigo, ¿quieres jugar al shogi? Serán 500 yenes."
 
+#. y4:line_status=translated
 msgctxt "420"
 msgid "You used a <Color:8>Shogi Coupon<Color:Default>."
 msgstr "Has usado un <Color:8>Cupón de Shogi<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "576"
 msgid "You used a <Color:8>Shogi Coupon<Color:Default>."
 msgstr "Has usado un <Color:8>Cupón de Shogi<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "780"
 msgid "I haven't seen you much in this place, buddy. So you wanna start playing shogi? That's great to hear."
 msgstr "No te he visto mucho por aquí, amigo. ¿Así que quieres empezar a jugar al shogi? Me alegra escuchar eso."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=3
@@ -52,30 +57,37 @@ msgctxt "864"
 msgid "Welcome! We're celebrating the emergence of a new Shogi King. For the duration, you can play with us for free."
 msgstr "¡Bienvenido! Estamos celebrando el nacimiento de un nuevo Rey del Shogi. Mientras dure, puedes jugar con nosotros gratis."
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "10224"
 msgid "Owner"
 msgstr "Propietario"
 
+#. y4:line_status=translated
 msgctxt "10228"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "10232"
 msgid "Player"
 msgstr "Jugador"
 
+#. y4:line_status=translated
 msgctxt "10236"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "312_Owner"
 msgid "Well, did you enjoy yourself? Thanks for coming!"
 msgstr "Bueno, ¿te lo has pasado bien? ¡Gracias por venir!"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -83,30 +95,37 @@ msgctxt "396_Owner"
 msgid "Hey there, you've got yourself a ticket. You can play a round for free. Want to use it?"
 msgstr "Hola, tienes un ticket. Puedes jugar una ronda gratis con él. ¿Quieres usarlo?"
 
+#. y4:line_status=translated
 msgctxt "444_Owner"
 msgid "A'right then, who do you wanna play?"
 msgstr "Muy bien, ¿con quién quieres jugar?"
 
+#. y4:line_status=translated
 msgctxt "456_Owner"
 msgid "No, I won't use it now."
 msgstr "No, no lo usaré ahora."
 
+#. y4:line_status=translated
 msgctxt "468_Owner"
 msgid "You sure? Then it'll be 500 yen. Who do you wanna play?"
 msgstr "¿Seguro? Entonces serán 500 yenes. ¿Con quién quieres jugar?"
 
+#. y4:line_status=translated
 msgctxt "480_Owner"
 msgid "Yeah, I'll play."
 msgstr "Sí, jugaré."
 
+#. y4:line_status=translated
 msgctxt "492_Owner"
 msgid "Great, now we're talkin'! Who do you wanna play?"
 msgstr "¡Ese es el espíritu! ¿Contra quién quieres jugar?"
 
+#. y4:line_status=translated
 msgctxt "516_Owner"
 msgid "All right, good luck!"
 msgstr "¡Muy bien, buena suerte!"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -114,98 +133,122 @@ msgctxt "552_Owner"
 msgid "Hey there, you've got yourself a ticket. You can play a round for free. Want to use it?"
 msgstr "Hola, tienes un ticket. Puedes jugar una ronda gratis con él. ¿Quieres usarlo?"
 
+#. y4:line_status=translated
 msgctxt "600_Owner"
 msgid "A'right then, who do you wanna play?"
 msgstr "Muy bien, ¿con quién quieres jugar?"
 
+#. y4:line_status=translated
 msgctxt "612_Owner"
 msgid "No, I won't use it now."
 msgstr "No, no lo usaré ahora."
 
+#. y4:line_status=translated
 msgctxt "624_Owner"
 msgid "You sure? Then it'll be 500 yen. Who do you wanna play?"
 msgstr "¿Seguro? Entonces serán 500 yenes. ¿Con quién quieres jugar?"
 
+#. y4:line_status=translated
 msgctxt "636_Owner"
 msgid "Sure, I'll play."
 msgstr "Claro, jugaré."
 
+#. y4:line_status=translated
 msgctxt "648_Owner"
 msgid "Great, now we're talkin'! Who do you wanna play?"
 msgstr "¡Ese es el espíritu! ¿Contra quién quieres jugar?"
 
+#. y4:line_status=translated
 msgctxt "684_Owner"
 msgid "All right, good luck!"
 msgstr "¡Muy bien, buena suerte!"
 
+#. y4:line_status=translated
 msgctxt "708_Owner"
 msgid "Ah, here you have to checkmate your opponent within a limited number of moves."
 msgstr "Ah, aquí tienes que dar jaque mate a tu oponente en un número limitado de movimientos."
 
+#. y4:line_status=translated
 msgctxt "720_Owner"
 msgid "You can use as many take backs as you need, so take your time to work out a strategy. All right, good luck!"
 msgstr "Puedes deshacer tantas jugadas como quieras, así que planea tu estrategia con calma. ¡Buena suerte!"
 
+#. y4:line_status=translated
 msgctxt "744_Owner"
 msgid "Not right now."
 msgstr "Ahora no."
 
+#. y4:line_status=translated
 msgctxt "756_Owner"
 msgid "No? Well, come back when you feel like it."
 msgstr "¿No? Bueno, vuelve cuando te animés."
 
+#. y4:line_status=translated
 msgctxt "768_Player"
 msgid "Tell me about this place."
 msgstr "Háblame de este lugar."
 
+#. y4:line_status=translated
 msgctxt "792_Owner"
 msgid "At our place, you can play ranked matches if you're aiming for the top, and shogi challenge matches to test your skill."
 msgstr "En nuestro local, puedes jugar partidas clasificatorias si aspiras a lo más alto, y desafío de shogi para poner a prueba tus habilidades."
 
+#. y4:line_status=translated
 msgctxt "804_Owner"
 msgid "In a ranked match, you pick opponents closest to your current ranking. If you wanna play against tough players, you'll have to climb the ranks."
 msgstr "En una partida clasificatoria, juegas contra oponentes de rango similar al tuyo. Si quieres enfrentarte a jugadores más fuertes, tendrás que subir de rango."
 
+#. y4:line_status=translated
 msgctxt "816_Owner"
 msgid "As far as ranks are concerned, by beating opponents higher rank than you, you'll take their rank. Just aim to keep going up and up."
 msgstr "En cuanto a los rangos: al vencer oponentes de mayor rango, tomarás su posición. Solo concéntrate en seguir subiendo."
 
+#. y4:line_status=translated
 msgctxt "828_Owner"
 msgid "The board is a bit special when it comes to a challenge match. When you start off, the board'll be more advantageous for you, but it'll gradually get harder."
 msgstr "El tablero es un poco especial en los desafíos: al inicio tendrás ventaja, pero poco a poco se pondrá más difícil."
 
+#. y4:line_status=translated
 msgctxt "840_Owner"
 msgid "It'll cost you 500 yen to play, but you can get some nice prizes if you win. Good luck."
 msgstr "Jugar cuesta 500 yenes, pero si ganas, puedes llevarte buenos premios. Buena suerte."
 
+#. y4:line_status=translated
 msgctxt "852_Owner"
 msgid "What's that buddy, you got no money? Come back when you have 500 yen."
 msgstr "¿Qué pasó, compa? ¿No traes plata? Vuelve cuando juntes 500 yenes."
 
+#. y4:line_status=translated
 msgctxt "876_Owner"
 msgid "Sure, I'll play."
 msgstr "Claro, jugaré."
 
+#. y4:line_status=translated
 msgctxt "888_Owner"
 msgid "All right. Who do you wanna play?"
 msgstr "Muy bien. ¿Contra quién quieres jugar?"
 
+#. y4:line_status=translated
 msgctxt "912_Owner"
 msgid "All right, good luck."
 msgstr "Perfecto, Buena suerte."
 
+#. y4:line_status=translated
 msgctxt "936_Owner"
 msgid "Sure, I'll play."
 msgstr "Claro, jugaré."
 
+#. y4:line_status=translated
 msgctxt "948_Owner"
 msgid "Great, now we're talkin'! Who do you wanna play?"
 msgstr "¡Ese es el espíritu! ¿Contra quién quieres jugar?"
 
+#. y4:line_status=translated
 msgctxt "972_Owner"
 msgid "All right, good luck!"
 msgstr "¡Muy bien, buena suerte!"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -216,6 +259,7 @@ msgctxt "1008_Owner"
 msgid "Play Ranked Match"
 msgstr "Jugar Partida Clasificatoria"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -226,6 +270,7 @@ msgctxt "1020_Owner"
 msgid "Play a Challenge Match"
 msgstr "Jugar un Desafío"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -236,6 +281,7 @@ msgctxt "1032_Owner"
 msgid "Learn About the Parlor"
 msgstr "Preguntar Sobre el Salón"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -246,6 +292,7 @@ msgctxt "1044_Owner"
 msgid "Never Mind"
 msgstr "No importa"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -256,6 +303,7 @@ msgctxt "1056_Owner"
 msgid "Use"
 msgstr "Usar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -266,6 +314,7 @@ msgctxt "1068_Owner"
 msgid "Don't Use"
 msgstr "No usarlo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -276,6 +325,7 @@ msgctxt "1080_Owner"
 msgid "Use"
 msgstr "Usar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -286,6 +336,7 @@ msgctxt "1092_Owner"
 msgid "Don't Use"
 msgstr "No usarlo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -296,6 +347,7 @@ msgctxt "1104_Owner"
 msgid "Play Ranked Match"
 msgstr "Jugar Partida Clasificatoria"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -306,6 +358,7 @@ msgctxt "1116_Owner"
 msgid "Play a Challenge Match"
 msgstr "Jugar un Desafío"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -316,6 +369,7 @@ msgctxt "1128_Owner"
 msgid "Learn About the Parlor"
 msgstr "Preguntar Sobre el Salón"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -325,3 +379,4 @@ msgstr "Preguntar Sobre el Salón"
 msgctxt "1140_Owner"
 msgid "Never Mind"
 msgstr "No importa"
+

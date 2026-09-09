@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61268\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=006C0232
 #. y4:runtime_group_count=4
@@ -24,236 +26,293 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 006C0232 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "524"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:line_status=translated
 msgctxt "1040"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "14176"
 msgid "Noa"
 msgstr "Noa"
 
+#. y4:line_status=translated
 msgctxt "14180"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "14184"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "14188"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "14192"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "14196"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "14200"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "14204"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 msgctxt "14208"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=todo
 msgctxt "116_Noa"
 msgid "Hehe, what are you going to get me?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "128_Player"
 msgid "You'll just have to wait and see."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "140_Noa"
 msgid "Okay... Come on, let's go inside."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "164_Noa"
 msgid "Hehe, what are you going to get me?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "176_Player"
 msgid "Um, wait a moment. I thought I had more cash than this..."
 msgstr "Um, espera un momento. Pensé que iba con mas dinero encima..."
 
+#. y4:line_status=translated
 msgctxt "188_Noa"
 msgid "Huh!? Really?"
 msgstr "¡¿Eh?! ¿En serio?"
 
+#. y4:line_status=translated
 msgctxt "200_Player"
 msgid "Yeah. Sorry..."
 msgstr "Sí. Lo siento..."
 
+#. y4:line_status=todo
 msgctxt "212_Noa"
 msgid "Oh. Well, that's too bad. This'll be the end of our date then. See you around."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "224_Player"
 msgid "(I'd better remember to bring enough cash next time...)"
 msgstr "(Será mejor que recuerde llevar suficiente dinero en efectivo la próxima vez...)"
 
+#. y4:line_status=todo
 msgctxt "332_Noa"
 msgid "Oh! It's great! You picked well."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "344_Player"
 msgid "Good. It looked perfect for you."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "356_Noa"
 msgid "I'll treasure it. Thank you so much. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "368_Noa"
 msgid "We should do this again sometime. Okay, I should be going."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "392_Noa"
 msgid "Oh! It's really okay for me to have this?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "404_Player"
 msgid "Of course."
 msgstr "No se preocupe."
 
+#. y4:line_status=todo
 msgctxt "416_Noa"
 msgid "I'll treasure it. Well, see you later."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "440_Noa"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "452_Player"
 msgid "What's wrong?"
 msgstr "¿Qué ocurre?"
 
+#. y4:line_status=todo
 msgctxt "464_Noa"
 msgid "Um... I don't think this is quite my style."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "476_Player"
 msgid "Huh? It's not?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "488_Noa"
 msgid "I think I'll just go home. See you at the club..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "500_Player"
 msgid "(Guess she didn't like the gift. Maybe I'll put some more thought into it next time.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "608_Noa"
 msgid "Hehe, what are you going to get me?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "620_Player"
 msgid "You'll just have to wait and see."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "632_Noa"
 msgid "Okay... Come on, let's go inside."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "656_Noa"
 msgid "Hehe, what are you going to get me?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "668_Player"
 msgid "Um, wait a moment. I thought I had more cash than this..."
 msgstr "Um, espera un momento. Pensé que iba con mas dinero encima..."
 
+#. y4:line_status=translated
 msgctxt "680_Noa"
 msgid "Huh!? Really?"
 msgstr "¡¿Eh?! ¿En serio?"
 
+#. y4:line_status=translated
 msgctxt "692_Player"
 msgid "Yeah. Sorry..."
 msgstr "Sí. Lo siento..."
 
+#. y4:line_status=todo
 msgctxt "704_Noa"
 msgid "Oh. Well, that's too bad. This'll be the end of our date then. See you around."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "716_Player"
 msgid "(I'd better remember to bring enough cash next time...)"
 msgstr "(Será mejor que recuerde llevar suficiente dinero en efectivo la próxima vez...)"
 
+#. y4:line_status=todo
 msgctxt "824_Noa"
 msgid "Oh! It's great! You picked well."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "836_Player"
 msgid "Good. It looked perfect for you."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "848_Noa"
 msgid "I'll treasure it. Thank you so much. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "860_Noa"
 msgid "I had a lot of fun today. Shall we continue this over at the club?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "872_Player"
 msgid "Sounds good."
 msgstr "Me parece bien."
 
+#. y4:line_status=todo
 msgctxt "896_Noa"
 msgid "Oh! It's really okay for me to have this?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "908_Player"
 msgid "Yeah..."
 msgstr "Sí..."
 
+#. y4:line_status=todo
 msgctxt "920_Noa"
 msgid "I'll treasure it. Shall we head over to the club, then?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "932_Player"
 msgid "Sounds good."
 msgstr "Me parece bien."
 
+#. y4:line_status=translated
 msgctxt "956_Noa"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "968_Player"
 msgid "What's wrong?"
 msgstr "¿Qué ocurre?"
 
+#. y4:line_status=todo
 msgctxt "980_Noa"
 msgid "I... I don't think this is for me."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "992_Player"
 msgid "Huh? It's not?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1004_Noa"
 msgid "Maybe we should head over to the club."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1016_Player"
 msgid "(Guess she didn't like the gift. Maybe I'll put some more thought into it next time.)"
 msgstr ""
+

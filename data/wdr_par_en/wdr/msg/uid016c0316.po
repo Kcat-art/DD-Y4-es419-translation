@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59488\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=016C0316
 #. y4:runtime_group_count=5
@@ -24,18 +26,20 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 016C0316 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "6112"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "432_Player"
 msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -43,14 +47,17 @@ msgctxt "444_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
+#. y4:line_status=translated
 msgctxt "492_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
+#. y4:line_status=translated
 msgctxt "516_Player"
 msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -58,14 +65,17 @@ msgctxt "528_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
+#. y4:line_status=translated
 msgctxt "576_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
+#. y4:line_status=translated
 msgctxt "600_Player"
 msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -73,14 +83,17 @@ msgctxt "612_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
+#. y4:line_status=translated
 msgctxt "660_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
+#. y4:line_status=translated
 msgctxt "684_Player"
 msgid "(Oh well, I didn't respond to her last email...)"
 msgstr "(Oh... me olvidé responder su último correo.)"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=3
@@ -88,10 +101,12 @@ msgctxt "696_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
+#. y4:line_status=translated
 msgctxt "744_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=4
@@ -99,10 +114,12 @@ msgctxt "756_Player"
 msgid "(I should reply to her email. Hmm... What should I write?)"
 msgstr "(Debería responder el correo. Mmm... ¿Qué debería escribir?)"
 
+#. y4:line_status=translated
 msgctxt "804_Player"
 msgid "(That should do.)"
 msgstr "(Eso debería bastar)."
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -113,6 +130,7 @@ msgctxt "816_Player"
 msgid "\"That's too cheap.\""
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -123,6 +141,7 @@ msgctxt "828_Player"
 msgid "\"I don't spend much on my clothes, either.\""
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -133,6 +152,7 @@ msgctxt "840_Player"
 msgid "\"What matters is how you wear them.\""
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -143,6 +163,7 @@ msgctxt "852_Player"
 msgid "\"You're homesick.\""
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -153,6 +174,7 @@ msgctxt "864_Player"
 msgid "\"I could come and sleep over.\""
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -163,6 +185,7 @@ msgctxt "876_Player"
 msgid "\"Deal with it.\""
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -173,6 +196,7 @@ msgctxt "888_Player"
 msgid "\"You'll get a beer belly.\""
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -183,6 +207,7 @@ msgctxt "900_Player"
 msgid "\"How much do you plan to drink?\""
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -193,6 +218,7 @@ msgctxt "912_Player"
 msgid "\"You shouldn't drink when you're not training.\""
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -203,6 +229,7 @@ msgctxt "924_Player"
 msgid "\"I wear them in the summertime.\""
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -213,6 +240,7 @@ msgctxt "936_Player"
 msgid "\"I even wear them at night.\""
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -223,6 +251,7 @@ msgctxt "948_Player"
 msgid "\"I think they'd look good on you.\""
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4
@@ -233,6 +262,7 @@ msgctxt "960_Player"
 msgid "\"So I'm like a beer snack to you?\""
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4
@@ -243,6 +273,7 @@ msgctxt "972_Player"
 msgid "\"I'll definitely go.\""
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4
@@ -252,3 +283,4 @@ msgstr ""
 msgctxt "984_Player"
 msgid "\"Is your enter key broken or something?\""
 msgstr ""
+

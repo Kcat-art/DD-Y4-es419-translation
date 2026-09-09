@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58838\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01EE0109
 #. y4:runtime_group_count=7
@@ -24,68 +26,81 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01EE0109 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "5816"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "5820"
 msgid "Haruka"
 msgstr "Haruka"
 
+#. y4:line_status=translated
 msgctxt "5824"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "5828"
 msgid "Lily"
 msgstr "Lily"
 
+#. y4:line_status=translated
 msgctxt "5832"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=5
 msgctxt "5836"
 msgid "Yasuko"
 msgstr "Yasuko"
 
+#. y4:line_status=translated
 msgctxt "284_Player"
 msgid "(Looks like it's closed right now. I'll come back later.)"
 msgstr "(Parece que está cerrado. Volveré más tarde)."
 
+#. y4:line_status=translated
 msgctxt "296_Player"
 msgid "(Now's not the time for that...)"
 msgstr "(Ahora no es el momento para eso...)."
 
+#. y4:line_status=translated
 msgctxt "308_Player"
 msgid "(Hostess club Jewel... Not interested.)"
 msgstr "(Club de Hostess Jewel... No me interesa)."
 
+#. y4:line_status=translated
 msgctxt "332_Player"
 msgid "What took you so long, Uncle Kaz? I got tired of waiting..."
 msgstr "¿Por qué demoraste tanto, tío Kaz? Me cansé de esperar..."
 
+#. y4:line_status=translated
 msgctxt "356_Player"
 msgid "Oh, you're back, Akiyama-san. Shall we go, then?"
 msgstr "Ah, ahí estás, Akiyama-san. ¿Vamos?"
 
+#. y4:line_status=translated
 msgctxt "368_Player"
 msgid "Oh, Kiryu-san, I've been waiting for you. Shall we go, then?"
 msgstr "Ah, Kiryu-san, te estaba esperando. ¿Nos vamos?"
 
+#. y4:line_status=translated
 msgctxt "404_Player"
 msgid "Are you... going in there, Uncle Kaz?"
 msgstr "¿Vas a entrar... ahí, tío Kaz?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -93,26 +108,32 @@ msgctxt "416_Player"
 msgid "(Haruka's with me. What should I do?)"
 msgstr "(Haruka está conmigo. ¿Qué podría hacer?)"
 
+#. y4:line_status=translated
 msgctxt "428_Player"
 msgid "Yeah, sorry. Think you can be a big girl and wait here while I'm gone?"
 msgstr "Sí, lo siento. ¿Podrías ser una niña grande y esperarme aquí mientras?"
 
+#. y4:line_status=translated
 msgctxt "440_Haruka"
 msgid "...Okay. Have fun, Uncle Kaz."
 msgstr "... Bueno, diviértete, tío Kaz."
 
+#. y4:line_status=translated
 msgctxt "452_Player"
 msgid "No, I'm okay."
 msgstr "No, estoy bien."
 
+#. y4:line_status=translated
 msgctxt "464_Haruka"
 msgid "Really? I don't mind."
 msgstr "¿En serio? No me importa."
 
+#. y4:line_status=translated
 msgctxt "488_Player"
 msgid "Um, are you going in here?"
 msgstr "Mm, ¿vas a entrar ahí?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -120,26 +141,32 @@ msgctxt "500_Player"
 msgid "(I forgot Lily-chan's with me. What to do...)"
 msgstr "(Me olvidé que Lily-chan estaba conmigo. Qué hago ahora...)."
 
+#. y4:line_status=translated
 msgctxt "512_Player"
 msgid "Yeah. Sorry, but could you wait a bit out here?"
 msgstr "Sí, ¿podría esperar aquí fuera?"
 
+#. y4:line_status=translated
 msgctxt "524_Lily"
 msgid "Oh, sure. I understand."
 msgstr "Claro. Entiendo."
 
+#. y4:line_status=translated
 msgctxt "536_Player"
 msgid "Actually, never mind."
 msgstr "Pensándolo bien, no importa."
 
+#. y4:line_status=translated
 msgctxt "548_Lily"
 msgid "I see... You don't have to worry about me though."
 msgstr "Entiendo... No tienes que preocuparte por mí."
 
+#. y4:line_status=translated
 msgctxt "560_Player"
 msgid "Um, are you going in here?"
 msgstr "Mm, ¿vas a entrar ahí?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -147,26 +174,32 @@ msgctxt "572_Player"
 msgid "(I forgot Yasuko-san's with me. What to do...)"
 msgstr "(Me olvidé que Yasuko-san estaba conmigo. Qué hago ahora...)."
 
+#. y4:line_status=translated
 msgctxt "584_Player"
 msgid "Sorry, but could you wait here for a bit?"
 msgstr "Disculpe, ¿podría esperar aquí un momento?"
 
+#. y4:line_status=translated
 msgctxt "596_Yasuko"
 msgid "Oh, sure. I understand."
 msgstr "Claro. Entiendo."
 
+#. y4:line_status=translated
 msgctxt "608_Player"
 msgid "Never mind."
 msgstr "No importa."
 
+#. y4:line_status=translated
 msgctxt "620_Yasuko"
 msgid "I see... You don't have to worry about me though."
 msgstr "Entiendo... No tienes que preocuparte por mí."
 
+#. y4:line_status=translated
 msgctxt "704_Player"
 msgid "(I need to be doing stuff for Elise right now. No time for detours.)"
 msgstr "(Tengo que estar al pendiente del Elise. No tengo tiempo para perder el tiempo)."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -177,6 +210,7 @@ msgctxt "728_Player"
 msgid "Go In Anyway"
 msgstr "Entrar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -187,6 +221,7 @@ msgctxt "740_Player"
 msgid "Forget It"
 msgstr "Olvidarlo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -197,6 +232,7 @@ msgctxt "752_Player"
 msgid "Go In Anyway"
 msgstr "Entrar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -207,6 +243,7 @@ msgctxt "764_Player"
 msgid "Forget It"
 msgstr "Olvidarlo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -217,6 +254,7 @@ msgctxt "776_Player"
 msgid "Go In Anyway"
 msgstr "Entrar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -226,3 +264,4 @@ msgstr "Entrar"
 msgctxt "788_Player"
 msgid "Forget It"
 msgstr "Olvidarlo"
+

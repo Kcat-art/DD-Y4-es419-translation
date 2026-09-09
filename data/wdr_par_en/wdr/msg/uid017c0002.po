@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59316\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=017C0002
 #. y4:runtime_group_count=9
@@ -24,8 +26,7 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_ASAGAO.bin
 #. y4:runtime_play_command=y4.play_msg 017C0002 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -33,101 +34,107 @@ msgctxt "332"
 msgid "Do you want to fish here?"
 msgstr "¿Quiere pescar aquí?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "4192"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "4196"
 msgid "Fishing"
 msgstr "Pesca"
 
+#. y4:line_status=translated
 msgctxt "344_Player"
 msgid "(Let's do some fishing.)"
 msgstr "(Hora de pescar un poco.)"
 
+#. y4:line_status=translated
 msgctxt "368_Player"
 msgid "(On second thought... Maybe not.)"
 msgstr "(Pensándolo bien... quizá no)."
 
+#. y4:line_status=translated
 msgctxt "380_Fishing"
-msgid "Select your bait, then decide where to cast your line.\\r\n"
-"\\r\n"
-"Each type of bait has a different range of effect, and the fish won't bite if you use the wrong bait. Items in your possession that can be used as bait will be shown in a list."
-msgstr "Seleccione su cebo, después, decida donde lanzar el sedal.\\r\n"
-"\\r\n"
-"Cada tipo de cebo tiene un rango de efecto diferente, y \\r\n"
-"los peces no pican si se usa el cebo incorrecto. Los \\r\n"
-"objetos en su posesión que se puedan usar de cebo se \\r\n"
-"le mostrarán en una lista."
+msgid "Select your bait, then decide where to cast your line.\\r\n\\r\nEach type of bait has a different range of effect, and the fish won't bite if you use the wrong bait. Items in your possession that can be used as bait will be shown in a list."
+msgstr "Seleccione su cebo, después, decida donde lanzar el sedal.\\r\n\\r\nCada tipo de cebo tiene un rango de efecto diferente, y \\r\nlos peces no pican si se usa el cebo incorrecto. Los \\r\nobjetos en su posesión que se puedan usar de cebo se \\r\nle mostrarán en una lista."
 
+#. y4:line_status=todo
 msgctxt "392_Fishing"
-msgid "\\r\n"
-"The gauge shows where fish are most concentrated. Use bait that is effective in those areas."
+msgid "\\r\nThe gauge shows where fish are most concentrated. Use bait that is effective in those areas."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "404_Fishing"
-msgid "Cast your line and wait for a fish to bite.\\r\n"
-"\\r\n"
-"The <Action:Button_Cross@Fishing> icon will appear when a fish is biting. Quickly press <Action:Button_Cross@Fishing> and reel the line in."
-msgstr "Lance el sedal y espere a que un pez muerda el anzuelo.\\r\n"
-"\\r\n"
-"El ícono <Action:Button_Cross@Fishing> aparecerá cuando un pez pique. \\r\n"
-"Presione rápidamente <Action:Button_Cross@Fishing> y recoja el sedal."
+msgid "Cast your line and wait for a fish to bite.\\r\n\\r\nThe <Action:Button_Cross@Fishing> icon will appear when a fish is biting. Quickly press <Action:Button_Cross@Fishing> and reel the line in."
+msgstr "Lance el sedal y espere a que un pez muerda el anzuelo.\\r\n\\r\nEl ícono <Action:Button_Cross@Fishing> aparecerá cuando un pez pique. \\r\nPresione rápidamente <Action:Button_Cross@Fishing> y recoja el sedal."
 
+#. y4:line_status=translated
 msgctxt "416_Fishing"
 msgid "<Action:Button_R1@Fishing> reels in, while <Action:Button_L1@Fishing> adds slack. Pay attention to the Tension Gauge, and don't let the fish snap your line. Use <Action:Button_LS_Left@Fishing><Action:Button_LS_Right@Fishing>, following the movement of the fish. Move it up and down to raise or lower the pole."
-msgstr "<Action:Button_R1@Fishing> enrolla, mientras que <Action:Button_L1@Fishing> suelta. Preste atención al indicador de tensión y no deje que los peces rompan el sedal. Mueva<Action:Button_LS_Left@Fishing><Action:Button_LS_Right@Fishing> siguiendo el movimiento del pez. Mueva arriba y abajo \\r\n"
-"para subir o bajar la caña."
+msgstr "<Action:Button_R1@Fishing> enrolla, mientras que <Action:Button_L1@Fishing> suelta. Preste atención al indicador de tensión y no deje que los peces rompan el sedal. Mueva<Action:Button_LS_Left@Fishing><Action:Button_LS_Right@Fishing> siguiendo el movimiento del pez. Mueva arriba y abajo \\r\npara subir o bajar la caña."
 
+#. y4:line_status=translated
 msgctxt "428_Fishing"
 msgid "If you control the line's tension and completely reel it in, you will successfully catch the fish."
-msgstr "Si controla la tensión del sedal y lo trae entero, \\r\n"
-"capturará el pescado con éxito."
+msgstr "Si controla la tensión del sedal y lo trae entero, \\r\ncapturará el pescado con éxito."
 
+#. y4:line_status=translated
 msgctxt "440_Player"
 msgid "(I bet there are lots of fish over there...)"
 msgstr "(Apuesto a que hay muchos peces por allí...)"
 
+#. y4:line_status=translated
 msgctxt "464_Player"
 msgid "(All right, let's get the bait ready. This is what I've got with me...)"
 msgstr "(Muy bien, a preparar el cebo. Esto es lo que llevo encima...)"
 
+#. y4:line_status=translated
 msgctxt "476_Player"
 msgid "(I should review the instructions.)"
 msgstr "(Debería repasar las instrucciones.)"
 
+#. y4:line_status=translated
 msgctxt "488_Player"
 msgid "(Maybe later.)"
 msgstr "(Tal vez más tarde)."
 
+#. y4:line_status=translated
 msgctxt "500_Player"
 msgid "(I didn't get a bite...)"
 msgstr "(Nada mordió el anzuelo...)"
 
+#. y4:line_status=translated
 msgctxt "512_Player"
 msgid "(My timing was off...)"
 msgstr "(Se me fue la mano...)"
 
+#. y4:line_status=translated
 msgctxt "524_Player"
 msgid "(The line broke...)"
 msgstr "(Se rompió el sedal...)"
 
+#. y4:line_status=translated
 msgctxt "536_Player"
 msgid "(The fish got away...)"
 msgstr "(El pez se escapó...)"
 
+#. y4:line_status=translated
 msgctxt "560_Player"
 msgid "(I need to put new bait on.)"
 msgstr "(Necesito poner cebo nuevo.)"
 
+#. y4:line_status=translated
 msgctxt "572_Player"
 msgid "(That's enough for now.)"
 msgstr "(Es suficiente por ahora.)"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -138,6 +145,7 @@ msgctxt "584_Player"
 msgid "Go Fishing"
 msgstr "Ir de Pesca"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -148,6 +156,7 @@ msgctxt "596_Player"
 msgid "Don't Fish"
 msgstr "No Pescar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -158,6 +167,7 @@ msgctxt "608_Player"
 msgid "Go Fishing"
 msgstr "Ir de Pesca"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -168,6 +178,7 @@ msgctxt "620_Player"
 msgid "Read Instructions"
 msgstr "Leer las Instrucciones"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -178,6 +189,7 @@ msgctxt "632_Player"
 msgid "Don't Fish"
 msgstr "No Pescar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -188,6 +200,7 @@ msgctxt "644_Player"
 msgid "Keep Fishing"
 msgstr "Seguir Pescando"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -197,3 +210,4 @@ msgstr "Seguir Pescando"
 msgctxt "656_Player"
 msgid "Stop Fishing"
 msgstr "Dejar de Pescar"
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61408\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01EE0570
 #. y4:runtime_group_count=5
@@ -24,38 +26,46 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01EE0570 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1584"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "1588"
 msgid "P_aki_stand_tlk_syagamu_st"
 msgstr "P_aki_stand_tlk_syagamu_st"
 
+#. y4:line_status=translated
 msgctxt "1592"
 msgid "P_stand_tlk_syagamu_st"
 msgstr "P_stand_tlk_syagamu_st"
 
+#. y4:line_status=translated
 msgctxt "1596"
 msgid "P_tan_stand_tlk_syagamu_st"
 msgstr "P_tan_stand_tlk_syagamu_st"
 
+#. y4:line_status=translated
 msgctxt "1600"
 msgid "P_sae_stand_tlk_manhole"
 msgstr "P_sae_stand_tlk_manhole"
 
+#. y4:line_status=translated
 msgctxt "120_Player"
 msgid "(There's a manhole here, but I can't take people through here...)"
 msgstr "(Hay una alcantarilla aquí, pero no puedo llevar a las personas por aquí...)"
 
+#. y4:line_status=translated
 msgctxt "228_Player"
 msgid "(A manhole, huh... Ain't hard to open this lid, but I don't need to do that right now.)"
 msgstr "(Una alcantarilla, eh... No es difícil abrir esta tapa, pero no necesito hacerlo ahora mismo.)"
 
+#. y4:line_status=translated
 msgctxt "240_Player"
 msgid "(A manhole, huh... The lid's too heavy for me to lift up and open.)"
 msgstr "(Una alcantarilla, ¿eh...? La tapa es demasiado pesada para que yo pueda abrirla.)"
+

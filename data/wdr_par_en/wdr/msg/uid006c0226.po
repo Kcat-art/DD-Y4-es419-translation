@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59932\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=006C0226
 #. y4:runtime_group_count=1
@@ -24,56 +26,68 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 006C0226 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "3796"
 msgid "Himeka"
 msgstr "Himeka"
 
+#. y4:line_status=translated
 msgctxt "3800"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "3804"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "3808"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "68_Himeka"
 msgid "Thanks for taking me out today."
 msgstr "Gracias por invitarme a salir hoy."
 
+#. y4:line_status=todo
 msgctxt "80_Talk_Yes"
 msgid "Wanna head into the club for some drinks?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "104_Himeka"
 msgid "Thanks for taking me out today."
 msgstr "Gracias por invitarme a salir hoy."
 
+#. y4:line_status=todo
 msgctxt "116_Talk_Yes"
 msgid "Wanna head into the club for some drinks?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "128_Player"
 msgid "Uh... Hold on a second. I just realized I'm short on cash."
 msgstr "Uh... Espera un segundo. Me acabo de dar cuenta de que no tengo dinero."
 
+#. y4:line_status=translated
 msgctxt "140_Himeka"
 msgid "Huh? You're kiddin', right?"
 msgstr "¿Eh? ¿Me estás tomando el pelo?"
 
+#. y4:line_status=translated
 msgctxt "152_Player"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:line_status=todo
 msgctxt "164_Himeka"
 msgid "That's so disappointin'... Well come back next time, okay...?"
 msgstr ""
+

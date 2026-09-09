@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61424\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01910401
 #. y4:runtime_group_count=5
@@ -24,34 +26,41 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01910401 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "144"
 msgid "Nothing happened."
 msgstr "No pasó nada."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1128"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "1132"
 msgid "TNK_09_C_START"
 msgstr "TNK_09_C_START"
 
+#. y4:line_status=translated
 msgctxt "1136"
 msgid "TNK_09_C_E_START"
 msgstr "TNK_09_C_E_START"
 
+#. y4:line_status=translated
 msgctxt "1140"
 msgid "TNK_09_C_N_START"
 msgstr "TNK_09_C_N_START"
 
+#. y4:line_status=translated
 msgctxt "156_Player"
 msgid "(I should take a break and come back later...)"
 msgstr "(Debería tomarme un descanso y vuelvo más tarde...)"
 
+#. y4:line_status=translated
 msgctxt "180_Player"
 msgid "You learned the <Color:9>Essence of Skull-Crushing<Color:Default>."
 msgstr "Aprendiste la <Color:9>Esencia del Aplastamiento de Cráneos<Color:Default>."
+

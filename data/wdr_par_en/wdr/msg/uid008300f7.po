@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59352\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=008300F7
 #. y4:runtime_group_count=5
@@ -24,82 +26,98 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 008300F7 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "480"
 msgid "The Asia employee is now your ally."
 msgstr "El empleado del Asia ahora es tu aliado."
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "11188"
 msgid "Barker"
 msgstr "Vocero"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "11192"
 msgid "Haruka"
 msgstr "Haruka"
 
+#. y4:line_status=translated
 msgctxt "11196"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "11200"
 msgid "Lily"
 msgstr "Lily"
 
+#. y4:line_status=translated
 msgctxt "11204"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=5
 msgctxt "11208"
 msgid "Yasuko"
 msgstr "Yasuko"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=6
 msgctxt "11212"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "444_Barker"
 msgid "Akiyama-san, thank you for your patronage!"
 msgstr "¡Akiyama-san, gracias por tu preferencia!"
 
+#. y4:line_status=translated
 msgctxt "456_Barker"
 msgid "I've got a special deal just for you."
 msgstr "Tengo una oferta especial solo para ti."
 
+#. y4:line_status=translated
 msgctxt "468_Barker"
 msgid "I made it so you can request your favorite dancer the next time you visit. I hope you'll come back again."
 msgstr "He hecho que puedas solicitar a tu bailarina favorita la próxima vez que nos visites. Espero que vuelvas pronto."
 
+#. y4:line_status=translated
 msgctxt "504_Barker"
 msgid "What took you so long, Uncle Kaz? I got tired of waiting..."
 msgstr "¿Por qué demoraste tanto, tío Kaz? Me cansé de esperar..."
 
+#. y4:line_status=translated
 msgctxt "528_Barker"
 msgid "Oh, you're back, Akiyama-san. Shall we go, then?"
 msgstr "Ah, ahí estás, Akiyama-san. ¿Vamos?"
 
+#. y4:line_status=translated
 msgctxt "540_Barker"
 msgid "Oh, Kiryu-san, I've been waiting for you. Shall we go, then?"
 msgstr "Ah, Kiryu-san, te estaba esperando. ¿Nos vamos?"
 
+#. y4:line_status=translated
 msgctxt "564_Barker"
 msgid "Hey, tough guy! How about a show? Only 3,000 yen! Satisfaction guaranteed!"
 msgstr "¡Oye fortachón! ¿Qué tal un espectáculo? ¡Solo 3,000 yenes! ¡Satisfacción garantizada!"
 
+#. y4:line_status=translated
 msgctxt "600_Barker"
 msgid "Are you... going in there, Uncle Kaz?"
 msgstr "¿Vas a entrar... ahí, tío Kaz?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -107,26 +125,32 @@ msgctxt "612_Player"
 msgid "(Shoot, I forgot Haruka was with me! What now!?)"
 msgstr "(¡Diablos, olvidé que Haruka estaba conmigo! ¿Y ahora qué hago!?)"
 
+#. y4:line_status=translated
 msgctxt "624_Barker"
 msgid "Yeah, sorry. Think you can be a big girl and wait here while I'm gone?"
 msgstr "Sí, lo siento. ¿Podrías ser una niña grande y esperarme aquí mientras?"
 
+#. y4:line_status=translated
 msgctxt "636_Haruka"
 msgid "...Okay. Have fun, Uncle Kaz."
 msgstr "... Bueno, diviértete, tío Kaz."
 
+#. y4:line_status=translated
 msgctxt "648_Barker"
 msgid "No, I changed my mind."
 msgstr "No, cambié de opinión."
 
+#. y4:line_status=translated
 msgctxt "660_Haruka"
 msgid "Really? I don't mind."
 msgstr "¿En serio? No me importa."
 
+#. y4:line_status=translated
 msgctxt "684_Barker"
 msgid "Um, are you going in here?"
 msgstr "Mm, ¿vas a entrar ahí?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -134,26 +158,32 @@ msgctxt "696_Player"
 msgid "(I forgot Lily-chan's with me. What to do...)"
 msgstr "(Me olvidé que Lily-chan estaba conmigo. Qué hago ahora...)."
 
+#. y4:line_status=translated
 msgctxt "708_Barker"
 msgid "Yeah. Sorry, but could you wait a bit out here?"
 msgstr "Sí, ¿podría esperar aquí fuera?"
 
+#. y4:line_status=translated
 msgctxt "720_Lily"
 msgid "Oh, sure. I understand."
 msgstr "Claro. Entiendo."
 
+#. y4:line_status=translated
 msgctxt "732_Barker"
 msgid "Actually, never mind."
 msgstr "Pensándolo bien, no importa."
 
+#. y4:line_status=translated
 msgctxt "744_Lily"
 msgid "I see... You don't have to worry about me though."
 msgstr "Entiendo... No tienes que preocuparte por mí."
 
+#. y4:line_status=translated
 msgctxt "756_Barker"
 msgid "Um, are you going in here?"
 msgstr "Mm, ¿vas a entrar ahí?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -161,34 +191,42 @@ msgctxt "768_Player"
 msgid "(I forgot Yasuko-san's with me. What to do...)"
 msgstr "(Me olvidé que Yasuko-san estaba conmigo. Qué hago ahora...)."
 
+#. y4:line_status=translated
 msgctxt "780_Barker"
 msgid "Sorry, but could I ask you to wait out here?"
 msgstr "Lo siento, pero ¿podrías esperar aquí afuera?"
 
+#. y4:line_status=translated
 msgctxt "792_Yasuko"
 msgid "Oh, sure. I understand."
 msgstr "Claro. Entiendo."
 
+#. y4:line_status=translated
 msgctxt "804_Barker"
 msgid "Never mind."
 msgstr "No importa."
 
+#. y4:line_status=translated
 msgctxt "816_Yasuko"
 msgid "I see... You don't have to worry about me though."
 msgstr "Entiendo... No tienes que preocuparte por mí."
 
+#. y4:line_status=translated
 msgctxt "828_Barker"
 msgid "Oh, you're short on cash? Too bad. You can always come back when you get more money!"
 msgstr "Oh, ¿te falta dinero? Qué pena. ¡Siempre puedes volver cuando tengas más dinero!"
 
+#. y4:line_status=translated
 msgctxt "840_Barker"
 msgid "Not in that kinda mood? Well, come on back when you are!"
 msgstr "¿No estás de humor? ¡Bueno, vuelve cuando lo estés!"
 
+#. y4:line_status=translated
 msgctxt "852_Barker"
 msgid "Right this way!"
 msgstr "¡Por aquí!"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=3
@@ -196,6 +234,7 @@ msgctxt "888_Barker"
 msgid "Hey, tough guy! How about a show? Only 3,000 yen! Satisfaction guaranteed!"
 msgstr "¡Oye fortachón! ¿Qué tal un espectáculo? ¡Solo 3,000 yenes! ¡Satisfacción garantizada!"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=4
@@ -203,18 +242,22 @@ msgctxt "900_Barker"
 msgid "Oh, hey, Akiyama-san! How about a show?"
 msgstr "¡Oh, hola, Akiyama-san! ¿Qué tal un espectáculo?"
 
+#. y4:line_status=translated
 msgctxt "936_Barker"
 msgid "Oh, you're short on cash? Too bad. You can always come back when you get more money!"
 msgstr "Oh, ¿te falta dinero? Qué pena. ¡Siempre puedes volver cuando tengas más dinero!"
 
+#. y4:line_status=translated
 msgctxt "948_Barker"
 msgid "Not in that kinda mood? Well, come on back when you are!"
 msgstr "¿No estás de humor? ¡Bueno, vuelve cuando lo estés!"
 
+#. y4:line_status=translated
 msgctxt "960_Barker"
 msgid "Right this way!"
 msgstr "¡Por aquí!"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=5
@@ -222,22 +265,27 @@ msgctxt "984_Barker"
 msgid "Just for you, Akiyama-san, you can choose a girl of your liking. What kind of girl would you like?"
 msgstr "Solo para ti, Akiyama-san, puedes elegir a la chica que más te guste. ¿Qué tipo de chica te gustaría?"
 
+#. y4:line_status=translated
 msgctxt "996_Barker"
 msgid "How about a glamorous girl?"
 msgstr "¿Qué tal una chica glamurosa?"
 
+#. y4:line_status=translated
 msgctxt "1020_Barker"
 msgid "Let's go with a normal girl."
 msgstr "Vamos con una chica normal."
 
+#. y4:line_status=translated
 msgctxt "1044_Barker"
 msgid "I'm feeling a slender girl today."
 msgstr "Hoy me siento una chica esbelta."
 
+#. y4:line_status=translated
 msgctxt "1068_Barker"
 msgid "All right. Now follow me."
 msgstr "De acuerdo. Ahora sígueme."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=6
@@ -245,18 +293,22 @@ msgctxt "1092_Barker"
 msgid "Hey, tough guy! How about a show? Only 3,000 yen! Satisfaction guaranteed!"
 msgstr "¡Oye fortachón! ¿Qué tal un espectáculo? ¡Solo 3,000 yenes! ¡Satisfacción garantizada!"
 
+#. y4:line_status=translated
 msgctxt "1116_Barker"
 msgid "Right this way!"
 msgstr "¡Por aquí!"
 
+#. y4:line_status=translated
 msgctxt "1140_Barker"
 msgid "Oh, you're short on cash? Too bad. You can always come back when you get more money!"
 msgstr "Oh, ¿te falta dinero? Qué pena. ¡Siempre puedes volver cuando tengas más dinero!"
 
+#. y4:line_status=translated
 msgctxt "1152_Barker"
 msgid "Not in that kinda mood? Well, come on back when you are!"
 msgstr "¿No estás de humor? ¡Bueno, vuelve cuando lo estés!"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -267,6 +319,7 @@ msgctxt "1164_Barker"
 msgid "Go In Anyway"
 msgstr "Entrar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -277,6 +330,7 @@ msgctxt "1176_Barker"
 msgid "Forget It"
 msgstr "Olvidarlo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -287,6 +341,7 @@ msgctxt "1188_Barker"
 msgid "Go In Anyway"
 msgstr "Entrar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -297,6 +352,7 @@ msgctxt "1200_Barker"
 msgid "Forget It"
 msgstr "Olvidarlo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -307,6 +363,7 @@ msgctxt "1212_Barker"
 msgid "Go In Anyway"
 msgstr "Entrar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -317,6 +374,7 @@ msgctxt "1224_Barker"
 msgid "Forget It"
 msgstr "Olvidarlo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -327,6 +385,7 @@ msgctxt "1236_Barker"
 msgid "Check It Out"
 msgstr "Echar un vistazo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -337,6 +396,7 @@ msgctxt "1248_Barker"
 msgid "Not Now"
 msgstr "Ahora no"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4
@@ -347,6 +407,7 @@ msgctxt "1260_Barker"
 msgid "Check It Out"
 msgstr "Echar un vistazo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4
@@ -357,6 +418,7 @@ msgctxt "1272_Barker"
 msgid "Not Now"
 msgstr "Ahora no"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=5
@@ -367,6 +429,7 @@ msgctxt "1284_Barker"
 msgid "A Glamourous Girl"
 msgstr "Una Chica Glamurosa"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=5
@@ -377,6 +440,7 @@ msgctxt "1296_Barker"
 msgid "A Normal Girl"
 msgstr "Una Chica Normal"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=5
@@ -387,6 +451,7 @@ msgctxt "1308_Barker"
 msgid "A Slender Girl"
 msgstr "Una Chica Esbelta"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=6
@@ -397,6 +462,7 @@ msgctxt "1320_Barker"
 msgid "Check It Out"
 msgstr "Echar un vistazo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=6
@@ -406,3 +472,4 @@ msgstr "Echar un vistazo"
 msgctxt "1332_Barker"
 msgid "Not Now"
 msgstr "Ahora no"
+

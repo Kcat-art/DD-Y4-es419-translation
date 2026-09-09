@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60540\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00EE00EE
 #. y4:runtime_group_count=1
@@ -24,56 +26,65 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_TOBA.bin
 #. y4:runtime_play_command=y4.play_msg 00EE00EE <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "4076"
 msgid "Staff"
 msgstr "Personal"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "4080"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "4084"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "4088"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "4092"
 msgid "How to Play Cho-han"
 msgstr "Cómo Jugar a Cho-han"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=5
 msgctxt "4096"
 msgid "Guessing the Number on One Die"
 msgstr "Adivinar el Número de Un Dado"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=6
 msgctxt "4100"
 msgid "Guessing the Numbers on Both Dice"
 msgstr "Adivinar los Números en Ambos Dados"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=7
 msgctxt "4104"
 msgid "Playing Against the House"
 msgstr "Jugar Contra la Casa"
 
+#. y4:line_status=translated
 msgctxt "264_Staff"
 msgid "Feelin' lucky? How 'bout a game of cho-han? Wait a sec,  you ain't got no chips. Go buy some at the front, then come see me."
 msgstr "¿Crees en tu suerte? ¿Qué tal una partida de cho-han...? Espera, no tienes fichas. Ve a comprar allá y regresa."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -81,6 +92,7 @@ msgctxt "276_Staff"
 msgid "This here's cho-han! Wanna give it a try?"
 msgstr "¡Aquí jugamos cho-han! ¿Te animas a probar?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -88,22 +100,27 @@ msgctxt "288_Staff"
 msgid "This here's cho-han! Wanna give it a try?"
 msgstr "¡Aquí jugamos cho-han! ¿Te animas a probar?"
 
+#. y4:line_status=translated
 msgctxt "300_Staff"
 msgid "Yeah, I'll play."
 msgstr "Sí, jugaré."
 
+#. y4:line_status=translated
 msgctxt "312_Staff"
 msgid "Okay, let's get started, then!"
 msgstr "¡Bien, empecemos entonces!"
 
+#. y4:line_status=translated
 msgctxt "336_Staff"
 msgid "Not right now."
 msgstr "Ahora no."
 
+#. y4:line_status=translated
 msgctxt "348_Staff"
 msgid "Well, all right. I hope you'll play next time!"
 msgstr "Bueno, ni modo. ¡Para la próxima sí juegas, eh!"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -111,26 +128,32 @@ msgctxt "360_Staff"
 msgid "Whaddya wanna know?"
 msgstr "¿Qué quieres saber?"
 
+#. y4:line_status=translated
 msgctxt "372_Staff"
 msgid "Cho-han is a gambling game where players predict whether the total value of two dice rolls will end up odd or even."
 msgstr "El Cho-han es un juego de apuestas donde los jugadores predicen si la suma de dos dados será par o impar."
 
+#. y4:line_status=translated
 msgctxt "384_Staff"
 msgid "The payout is based on how much you and the other players wagered."
 msgstr "Lo que ganes depende de cuánto hayan apostado tú y los demás jugadores."
 
+#. y4:line_status=translated
 msgctxt "396_Staff"
 msgid "You can bet on what number will show on one of the two dice. If you guess right, you can earn even more tags than by simply guessing odd or even."
 msgstr "Puedes apostar a qué número saldrá en uno de los dos dados. Si aciertas, puedes ganar incluso más fichas que solo adivinando par o impar."
 
+#. y4:line_status=translated
 msgctxt "408_Staff"
 msgid "You can also bet on which numbers will show on both dice. If you guess right, you get all of the money in the current pot."
 msgstr "También puedes apostar a qué números saldrán en ambos dados. Si aciertas, te llevas todo el dinero que hay."
 
+#. y4:line_status=translated
 msgctxt "420_Staff"
 msgid "To play against the house, first place any bet. Guess right, and the tags you win become your bet against the house. When playing against the house, you will guess either odd or even. Guess right, and you win double the tags you bet. Up to five rolls are possible."
 msgstr "Para jugar contra la banca, primero haz cualquier apuesta. Si aciertas, las fichas que ganes se convertirán en tu apuesta contra la banca. Al jugar contra la banca, deberás adivinar si saldrá par o impar. Si aciertas, ganas el doble de las fichas que apostaste. Puedes llegar hasta un máximo de cinco tiradas."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -141,6 +164,7 @@ msgctxt "432_Staff"
 msgid "Play"
 msgstr "Jugar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -151,6 +175,7 @@ msgctxt "444_Staff"
 msgid "Don't Play"
 msgstr "No jugar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -161,6 +186,7 @@ msgctxt "456_Staff"
 msgid "Play"
 msgstr "Jugar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -171,6 +197,7 @@ msgctxt "468_Staff"
 msgid "Not Now"
 msgstr "Ahora no"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -181,6 +208,7 @@ msgctxt "480_Staff"
 msgid "Learn the Rules"
 msgstr "Leer las Reglas"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -191,6 +219,7 @@ msgctxt "492_Staff"
 msgid "Ask About Cho-han"
 msgstr "Preguntar sobre Cho-han"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -201,6 +230,7 @@ msgctxt "504_Staff"
 msgid "Ask About Guessing One Die"
 msgstr "Preguntar Sobre Adivinar un Dado"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -211,6 +241,7 @@ msgctxt "516_Staff"
 msgid "Ask About Guessing Both Dice"
 msgstr "Pregunta Sobre Adivinar Ambos Dados"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -221,6 +252,7 @@ msgctxt "528_Staff"
 msgid "Ask About Playing Against the House"
 msgstr "Pregunta Sobre Jugar Contra la Casa"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -230,3 +262,4 @@ msgstr "Pregunta Sobre Jugar Contra la Casa"
 msgctxt "540_Staff"
 msgid "Go Back"
 msgstr "Volver"
+

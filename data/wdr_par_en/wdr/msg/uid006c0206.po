@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58930\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=006C0206
 #. y4:runtime_group_count=4
@@ -24,224 +26,278 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 006C0206 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "512"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:line_status=translated
 msgctxt "1004"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "13524"
 msgid "Rio"
 msgstr "Rio"
 
+#. y4:line_status=translated
 msgctxt "13528"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "13532"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "13536"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "13540"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "13544"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "13548"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 msgctxt "13552"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "13556"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=todo
 msgctxt "116_Rio"
 msgid "Mmm, the yakiniku here is yummy. I can't wait to stuff myself!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "128_Player"
 msgid "Yeah, let's go in."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "152_Rio"
 msgid "Mmm, the yakiniku here is yummy. I can't wait to stuff myself!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "164_Player"
 msgid "Um, wait a moment. I thought I had more cash than this..."
 msgstr "Um, espera un momento. Pensé que iba con mas dinero encima..."
 
+#. y4:line_status=translated
 msgctxt "176_Rio"
 msgid "Seriously? Not a single bill?"
 msgstr "¿En serio? ¿Ni un solo billete?"
 
+#. y4:line_status=translated
 msgctxt "188_Player"
 msgid "Yeah. Sorry..."
 msgstr "Sí. Lo siento..."
 
+#. y4:line_status=translated
 msgctxt "200_Rio"
 msgid "Oh. Um... That's... too bad. I should get going."
 msgstr "Oh. Esto... Vaya, qué mal. Debería irme."
 
+#. y4:line_status=translated
 msgctxt "212_Player"
 msgid "(I'd better remember to bring enough cash next time...)"
 msgstr "(Será mejor que recuerde llevar suficiente dinero en efectivo la próxima vez...)"
 
+#. y4:line_status=todo
 msgctxt "320_Rio"
 msgid "Oh, that was amazing. Kanrai has the best yakiniku."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "332_Player"
 msgid "Glad you liked it."
 msgstr "Me alegra que te haya gustado."
 
+#. y4:line_status=translated
 msgctxt "344_Rio"
 msgid "Thank you."
 msgstr "Gracias."
 
+#. y4:line_status=todo
 msgctxt "356_Rio"
 msgid "I had a great time. Goodbye! <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "380_Rio"
 msgid "Hmm. I could've eaten a bit more..."
 msgstr "Mmm. Creo que me quedé con hambre..."
 
+#. y4:line_status=translated
 msgctxt "392_Player"
 msgid "Oh..."
 msgstr "Oh..."
 
+#. y4:line_status=translated
 msgctxt "404_Rio"
 msgid "I had a great time. Come and see me at the club, okay?"
 msgstr "Lo pasé de maravilla. Ven al club a verme, ¿vale?"
 
+#. y4:line_status=translated
 msgctxt "428_Rio"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "440_Player"
 msgid "What's wrong?"
 msgstr "¿Qué ocurre?"
 
+#. y4:line_status=translated
 msgctxt "452_Rio"
 msgid "Nothing... It was just something I didn't like..."
 msgstr "Ah, no nada... Es solo que es algo que no me gusto..."
 
+#. y4:line_status=translated
 msgctxt "464_Player"
 msgid "Oh, I see..."
 msgstr "Ah, entiendo..."
 
+#. y4:line_status=translated
 msgctxt "476_Rio"
 msgid "Anyway, I should be getting home. See you at the club."
 msgstr "Bueno, debería irme a casa. Nos vemos en el club."
 
+#. y4:line_status=translated
 msgctxt "488_Player"
 msgid "(I shouldn't have ordered something she doesn't like...)"
 msgstr "(No debería haber pedido algo que no le gusta...)"
 
+#. y4:line_status=todo
 msgctxt "596_Rio"
 msgid "Mmm, the yakiniku here is yummy. I can't wait to stuff myself!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "608_Player"
 msgid "Yeah. Let's go in."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "632_Rio"
 msgid "Mmm, the yakiniku here is yummy. I can't wait to stuff myself!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "644_Player"
 msgid "Um, wait a moment. I thought I had more cash than this..."
 msgstr "Um, espera un momento. Pensé que iba con mas dinero encima..."
 
+#. y4:line_status=translated
 msgctxt "656_Rio"
 msgid "Seriously? Not a single bill?"
 msgstr "¿En serio? ¿Ni un solo billete?"
 
+#. y4:line_status=translated
 msgctxt "668_Player"
 msgid "Yeah. Sorry..."
 msgstr "Sí. Lo siento..."
 
+#. y4:line_status=translated
 msgctxt "680_Rio"
 msgid "Oh. Um... That's... too bad. I should get going."
 msgstr "Oh. Esto... Vaya, qué mal. Debería irme."
 
+#. y4:line_status=translated
 msgctxt "692_Player"
 msgid "(I'd better remember to bring enough cash next time...)"
 msgstr "(Será mejor que recuerde llevar suficiente dinero en efectivo la próxima vez...)"
 
+#. y4:line_status=todo
 msgctxt "800_Rio"
 msgid "Oh, that was amazing. Kanrai has the best yakiniku."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "812_Player"
 msgid "Glad you liked it."
 msgstr "Me alegra que te haya gustado."
 
+#. y4:line_status=translated
 msgctxt "824_Rio"
 msgid "Thank you. I had a great time. Let's head to the club. <Color:7>♥<Color:Default>"
 msgstr "Gracias. Lo pasé genial. Vamos al club. <Color:7>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "836_Player"
 msgid "Sounds good."
 msgstr "Me parece bien."
 
+#. y4:line_status=translated
 msgctxt "860_Rio"
 msgid "Hmm. I could've eaten a bit more..."
 msgstr "Mmm. Creo que me quedé con hambre..."
 
+#. y4:line_status=translated
 msgctxt "872_Player"
 msgid "Oh..."
 msgstr "Oh..."
 
+#. y4:line_status=todo
 msgctxt "884_Rio"
 msgid "Thank you. I had a great time. Let's head to the club next?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "896_Player"
 msgid "Sounds good."
 msgstr "Me parece bien."
 
+#. y4:line_status=translated
 msgctxt "920_Rio"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "932_Player"
 msgid "What's wrong?"
 msgstr "¿Qué ocurre?"
 
+#. y4:line_status=translated
 msgctxt "944_Rio"
 msgid "Nothing... It was just something I didn't like..."
 msgstr "Ah, no nada... Es solo que es algo que no me gusto..."
 
+#. y4:line_status=translated
 msgctxt "956_Player"
 msgid "You didn't? Oh..."
 msgstr "Ah, ¿no?..."
 
+#. y4:line_status=translated
 msgctxt "968_Rio"
 msgid "Let's head over to the club."
 msgstr "Vamos al club."
 
+#. y4:line_status=translated
 msgctxt "980_Player"
 msgid "(I shouldn't have ordered something she doesn't like...)"
 msgstr "(No debería haber pedido algo que no le gusta...)"
+

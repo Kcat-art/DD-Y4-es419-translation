@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61410\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00EE00F4
 #. y4:runtime_group_count=1
@@ -24,28 +26,32 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_BUKI.bin
 #. y4:runtime_play_command=y4.play_msg 00EE00F4 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1948"
 msgid "Employee"
 msgstr "Empleado"
 
+#. y4:line_status=translated
 msgctxt "1952"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1956"
 msgid "Player"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "1960"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -53,38 +59,47 @@ msgctxt "116_Employee"
 msgid "Hello! Let's see... I'd recommend these items for you, sir."
 msgstr "¡Hola! Veamos... Le recomendaría estos artículos, señor."
 
+#. y4:line_status=translated
 msgctxt "128_Player"
 msgid "Show me what you've got for sale."
 msgstr "Enséñame lo que tienes a la venta."
 
+#. y4:line_status=translated
 msgctxt "140_Employee"
 msgid "Equipment and weapons all have their strengths and weaknesses! That's why I've picked out a few that I think would interest you."
 msgstr "¡Tanto equipamiento como armas tienen sus pros y sus contras! Es por eso que he elegido algunos que creo te interesarán."
 
+#. y4:line_status=translated
 msgctxt "164_Employee"
 msgid "Thank you, and come again."
 msgstr "Gracias, y vuelva otra vez."
 
+#. y4:line_status=translated
 msgctxt "176_Player"
 msgid "I've got some things to sell."
 msgstr "Tengo algunas cosas que vender."
 
+#. y4:line_status=translated
 msgctxt "188_Employee"
 msgid "Sure thing. Let's see what you got there. But don't forget, used weapons are worth less than new weapons."
 msgstr "Seguro. Veamos qué tienes ahí. Pero no olvides que las armas usadas valen menos que las nuevas."
 
+#. y4:line_status=translated
 msgctxt "212_Employee"
 msgid "Thank you, and come again."
 msgstr "Gracias, y vuelva otra vez."
 
+#. y4:line_status=translated
 msgctxt "224_Player"
 msgid "Not right now."
 msgstr "Ahora no."
 
+#. y4:line_status=translated
 msgctxt "236_Employee"
 msgid "Is that so? Well, please come again."
 msgstr "Bueno, por favor, vuelve otra vez."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -95,6 +110,7 @@ msgctxt "248_Employee"
 msgid "I'm here to buy."
 msgstr "Estoy aquí para comprar."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -105,6 +121,7 @@ msgctxt "260_Employee"
 msgid "I'm here to sell."
 msgstr "Estoy aquí para vender."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -114,3 +131,4 @@ msgstr "Estoy aquí para vender."
 msgctxt "272_Employee"
 msgid "Never mind."
 msgstr "No importa."
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59198\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=006C023A
 #. y4:runtime_group_count=4
@@ -24,232 +26,283 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 006C023A <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "512"
-msgid "Major error! No flags set for conversation selection!\\r\n"
-"No flags set for conversation selection!"
-msgstr "Error grave. No hay banderas establecidas para la selección de conversación.\\r\n"
-"¡No hay banderas establecidas para la selección de conversación!"
+msgid "Major error! No flags set for conversation selection!\\r\nNo flags set for conversation selection!"
+msgstr "Error grave. No hay banderas establecidas para la selección de conversación.\\r\n¡No hay banderas establecidas para la selección de conversación!"
 
+#. y4:line_status=translated
 msgctxt "1016"
-msgid "Major error! No flags set for conversation selection!\\r\n"
-"No flags set for conversation selection!"
-msgstr "Error grave. No hay banderas establecidas para la selección de conversación.\\r\n"
-"¡No hay banderas establecidas para la selección de conversación!"
+msgid "Major error! No flags set for conversation selection!\\r\nNo flags set for conversation selection!"
+msgstr "Error grave. No hay banderas establecidas para la selección de conversación.\\r\n¡No hay banderas establecidas para la selección de conversación!"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "13620"
 msgid "Erena"
 msgstr "Erena"
 
+#. y4:line_status=translated
 msgctxt "13624"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "13628"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "13632"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "13636"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "13640"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "13644"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 msgctxt "13648"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "13652"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=todo
 msgctxt "116_Erena"
 msgid "I wonder what you're gonna buy me..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "128_Player"
 msgid "Let's go in and find out."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "152_Erena"
 msgid "I wonder what you're gonna buy me..."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "164_Player"
 msgid "Um, wait a moment. I thought I had more cash than this..."
 msgstr "Um, espera un momento. Pensé que iba con mas dinero encima..."
 
+#. y4:line_status=translated
 msgctxt "176_Erena"
 msgid "Huh? You serious?"
 msgstr "¿Eh? ¿Hablas en serio?"
 
+#. y4:line_status=translated
 msgctxt "188_Player"
 msgid "Yeah. Sorry..."
 msgstr "Sí. Lo siento..."
 
+#. y4:line_status=translated
 msgctxt "200_Erena"
 msgid "Geez, I didn't think you were so poor... I'll go home, then."
 msgstr "Caramba, no pensé que fueras tan pobre... Me iré a casa, entonces."
 
+#. y4:line_status=translated
 msgctxt "212_Player"
 msgid "(I should've made sure I had some cash...)"
 msgstr "(Debería haberme asegurado de tener algo de dinero...)"
 
+#. y4:line_status=todo
 msgctxt "320_Erena"
 msgid "This is awesome! Thank you so much!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "332_Player"
 msgid "Heh."
 msgstr "Je."
 
+#. y4:line_status=todo
 msgctxt "344_Erena"
 msgid "It was so sweet of you to get me this! Thanks for a great date!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "356_Talk_Ojigi"
 msgid "I'll see ya at the club!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "380_Erena"
 msgid "You sure it's okay for me to take this? 'Cause I won't let you have it back later!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "392_Player"
 msgid "Heh."
 msgstr "Je."
 
+#. y4:line_status=todo
 msgctxt "404_Erena"
 msgid "I had a great time today. I'll see ya at the club."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "428_Erena"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "440_Player"
 msgid "Something wrong?"
 msgstr "¿Todo bien?"
 
+#. y4:line_status=todo
 msgctxt "452_Erena"
 msgid "You wanna give this to me? It's not exactly what I would've gotten..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "464_Player"
 msgid "Oh, it's not?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "476_Erena"
 msgid "But I guess it's okay... Well, I'd better get goin'."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "488_Player"
 msgid "(Next time I'll give her something she likes better...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "596_Erena"
 msgid "I wonder what you're gonna buy me..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "608_Player"
 msgid "We can figure that out inside."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "632_Erena"
 msgid "I wonder what you're gonna buy me..."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "644_Player"
 msgid "Um, wait a moment. I thought I had more cash than this..."
 msgstr "Um, espera un momento. Pensé que iba con mas dinero encima..."
 
+#. y4:line_status=translated
 msgctxt "656_Erena"
 msgid "Huh? You serious?"
 msgstr "¿Eh? ¿Hablas en serio?"
 
+#. y4:line_status=translated
 msgctxt "668_Player"
 msgid "Yeah. Sorry..."
 msgstr "Sí. Lo siento..."
 
+#. y4:line_status=translated
 msgctxt "680_Erena"
 msgid "Geez, I didn't think you were so poor... I'll go home, then."
 msgstr "Caramba, no pensé que fueras tan pobre... Me iré a casa, entonces."
 
+#. y4:line_status=translated
 msgctxt "692_Player"
 msgid "(I should've made sure I had some cash...)"
 msgstr "(Debería haberme asegurado de tener algo de dinero...)"
 
+#. y4:line_status=todo
 msgctxt "800_Erena"
 msgid "This is awesome! Thank you so much!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "812_Player"
 msgid "Heh."
 msgstr "Je."
 
+#. y4:line_status=todo
 msgctxt "824_Erena"
 msgid "It was so sweet of you to get me this! I'll treasure it forever. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "836_Talk_Ojigi"
 msgid "I had a great time today! Wanna go to the club now?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "848_Player"
 msgid "Sounds good."
 msgstr "Me parece bien."
 
+#. y4:line_status=todo
 msgctxt "872_Erena"
 msgid "You sure it's okay for me to take this? 'Cause I won't let you have it back later!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "884_Player"
 msgid "Heh."
 msgstr "Je."
 
+#. y4:line_status=todo
 msgctxt "896_Erena"
 msgid "I had a good time today. Wanna go to the club now?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "908_Player"
 msgid "Sounds good."
 msgstr "Me parece bien."
 
+#. y4:line_status=translated
 msgctxt "932_Erena"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "944_Player"
 msgid "Something wrong?"
 msgstr "¿Todo bien?"
 
+#. y4:line_status=todo
 msgctxt "956_Erena"
 msgid "You wanna give this to me? It's not exactly what I would've gotten..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "968_Player"
 msgid "Oh, it's not?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "980_Erena"
 msgid "But I guess it's okay... Well, we'd better get back to the club."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "992_Player"
 msgid "(Next time I'll give her something she likes better...)"
 msgstr ""
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61584\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=006C0305
 #. y4:runtime_group_count=112
@@ -24,314 +26,387 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_AKI_CABA.bin
 #. y4:runtime_play_command=y4.play_msg 006C0305 <group>
 
-
-
+#. y4:line_status=todo
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "11660"
 msgid "Akko"
 msgstr ""
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "11664"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 msgctxt "11668"
 msgid "F_cab_sitsofa_tlk_happy"
 msgstr "F_cab_sitsofa_tlk_happy"
 
+#. y4:line_status=translated
 msgctxt "11672"
 msgid "F_cab_sitsofa_sync_order"
 msgstr "F_cab_sitsofa_sync_order"
 
+#. y4:line_status=translated
 msgctxt "11676"
 msgid "M_shp_sitgrd_sync_order"
 msgstr "M_shp_sitgrd_sync_order"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=5
 msgctxt "11680"
 msgid "Attendant"
 msgstr "Asistente"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=6
 msgctxt "11684"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "11688"
 msgid "F_cab_stand_tlk_byeA"
 msgstr "F_cab_stand_tlk_byeA"
 
+#. y4:line_status=translated
 msgctxt "11692"
 msgid "F_cab_stand_sync_byeC_st"
 msgstr "F_cab_stand_sync_byeC_st"
 
+#. y4:line_status=translated
 msgctxt "11696"
 msgid "P_stand_sync_byeC_st"
 msgstr "P_stand_sync_byeC_st"
 
+#. y4:line_status=translated
 msgctxt "11700"
 msgid "F_cab_stand_sync_byeC_ed"
 msgstr "F_cab_stand_sync_byeC_ed"
 
+#. y4:line_status=translated
 msgctxt "11704"
 msgid "P_stand_sync_byeC_ed"
 msgstr "P_stand_sync_byeC_ed"
 
+#. y4:line_status=translated
 msgctxt "11708"
 msgid "F_cab_stand_sync_dakiA_st"
 msgstr "F_cab_stand_sync_dakiA_st"
 
+#. y4:line_status=translated
 msgctxt "11712"
 msgid "P_stand_sync_dakiA_st"
 msgstr "P_stand_sync_dakiA_st"
 
+#. y4:line_status=translated
 msgctxt "11716"
 msgid "F_cab_stand_sync_dakiA_ed"
 msgstr "F_cab_stand_sync_dakiA_ed"
 
+#. y4:line_status=translated
 msgctxt "11720"
 msgid "P_stand_sync_dakiA_ed"
 msgstr "P_stand_sync_dakiA_ed"
 
+#. y4:line_status=todo
 msgctxt "2600_Akko"
 msgid "Do you wanna order something?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2624_Kiryu"
 msgid "I'll take one of these."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2636_Akko"
-msgid "Huh?\\r\n"
-"You're not gonna order anything?"
+msgid "Huh?\\r\nYou're not gonna order anything?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2648_Akko"
 msgid "Wanna go another round?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2672_Kiryu"
 msgid "I'll take one of these."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2684_Akko"
-msgid "Huh?\\r\n"
-"You don't want another?"
+msgid "Huh?\\r\nYou don't want another?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2696_Akko"
 msgid "Oooh, I love that, too!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2708_Akko"
 msgid "You like that stuff?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2720_Akko"
 msgid "All right, understood."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2732_Akko"
 msgid "Y'know, there are way yummier drinks..."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "2744_Akko"
 msgid "Oh, I see..."
 msgstr "Ah, entiendo..."
 
+#. y4:line_status=translated
 msgctxt "2756_Akko"
 msgid "How about something to eat?"
 msgstr "¿Y qué tal algo para comer?"
 
+#. y4:line_status=todo
 msgctxt "2780_Kiryu"
 msgid "I'll take one of these."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2792_Akko"
 msgid "Aww, you're not hungry?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2804_Akko"
 msgid "Want anything to eat?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2828_Kiryu"
 msgid "I'll take one of these."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2840_Akko"
 msgid "Oh, you're not hungry."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "2852_Akko"
 msgid "I love that!"
 msgstr "¡Uy, a mí me encanta eso! ♪"
 
+#. y4:line_status=translated
 msgctxt "2864_Akko"
 msgid "I love that!"
 msgstr "¡Uy, a mí me encanta eso! ♪"
 
+#. y4:line_status=todo
 msgctxt "2876_Akko"
 msgid "All right, understood."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2888_Akko"
 msgid "You really eat stuff like that?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2900_Akko"
 msgid "I really... don't like that."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2912_Akko"
 msgid "What's good about it?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "2924_Akko"
 msgid "I'll put in the order, then."
 msgstr "Bien, ahora haré el pedido."
 
+#. y4:line_status=translated
 msgctxt "2948_Akko"
 msgid "Yes?"
 msgstr "¿Sí?"
 
+#. y4:line_status=todo
 msgctxt "2960_M_shp_sitgrd_sync_order"
 msgid "This please!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2972_Akko"
 msgid "With pleasure."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "2996_Akko"
 msgid "Cheers!"
 msgstr "¡Salud!"
 
+#. y4:line_status=translated
 msgctxt "3008_Akko"
 msgid "Cheers."
 msgstr "Salud."
 
+#. y4:line_status=translated
 msgctxt "3020_M_shp_sitgrd_sync_order"
 msgid "Make yourself comfortable!"
 msgstr "¡Póngase cómodo!"
 
+#. y4:line_status=translated
 msgctxt "3032_Akko"
 msgid "Cheers."
 msgstr "Salud."
 
+#. y4:line_status=translated
 msgctxt "3044_Akko"
 msgid "Cheers."
 msgstr "Salud."
 
+#. y4:line_status=translated
 msgctxt "3056_M_shp_sitgrd_sync_order"
 msgid "Make yourself at home."
 msgstr "Siéntase como en casa."
 
+#. y4:line_status=todo
 msgctxt "3068_Akko"
 msgid "I'm making it right now."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "3080_Akko"
 msgid "All right..."
 msgstr "Claro..."
 
+#. y4:line_status=translated
 msgctxt "3092_Akko"
 msgid "Here you go!"
 msgstr "¡Aquí tiene!"
 
+#. y4:line_status=translated
 msgctxt "3128_Akko"
 msgid "Here you go!"
 msgstr "¡Aquí tiene!"
 
+#. y4:line_status=translated
 msgctxt "3140_Akko"
 msgid "Hmm..."
 msgstr "Mmm..."
 
+#. y4:line_status=translated
 msgctxt "3152_Akko"
 msgid "Can I smoke too?"
 msgstr "¿Puedo fumar yo también?"
 
+#. y4:line_status=translated
 msgctxt "3164_Akko"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:line_status=translated
 msgctxt "3176_Akko"
 msgid "Go on, drink up!"
 msgstr "¡Vamos, beba!"
 
+#. y4:line_status=translated
 msgctxt "3188_Akko"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:line_status=todo
 msgctxt "3200_Akko"
 msgid "I'll drink, too!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "3212_Akko"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:line_status=todo
 msgctxt "3224_Player"
 msgid "I should be getting home."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "3236_Akko"
 msgid "You're leaving already?"
 msgstr "¿Ya se va?"
 
+#. y4:line_status=todo
 msgctxt "3248_Akko"
 msgid "I think our time's almost up..."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "3260_Akko"
 msgid "Yeah..."
 msgstr "Sí..."
 
+#. y4:line_status=translated
 msgctxt "3368_Akko"
 msgid "Bye."
 msgstr "Adiós."
 
+#. y4:line_status=todo
 msgctxt "3380_Akko"
 msgid "See you later, okay?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "3392_Akko"
 msgid "%s-san!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "3404_Akko"
 msgid "See you later..."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "3416_Akko"
 msgid "Yeah..."
 msgstr "Sí..."
 
+#. y4:line_status=translated
 msgctxt "3428_F_cab_stand_sync_byeC_ed"
 msgid "Bye."
 msgstr "Adiós."
 
+#. y4:line_status=todo
 msgctxt "3440_Akko"
 msgid "%s-san!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "3452_Akko"
 msgid "Okay, I'll see you again."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "3464_Akko"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:line_status=translated
 msgctxt "3476_F_cab_stand_sync_dakiA_ed"
 msgid "Bye."
 msgstr "Adiós."
 
+#. y4:line_status=todo
 msgctxt "3536_Akko"
 msgid "Bye! <Color:7>♥<Color:Default>"
 msgstr ""
+

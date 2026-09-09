@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61246\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01020542
 #. y4:runtime_group_count=3
@@ -24,343 +26,425 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KOKYO.bin
 #. y4:runtime_play_command=y4.play_msg 01020542 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "16176"
 msgid "Zhao"
 msgstr "Zhao"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "16180"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "16184"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "16188"
 msgid "Hisai"
 msgstr "Hisai"
 
+#. y4:line_status=translated
 msgctxt "16192"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "16196"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "16200"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:line_status=translated
 msgctxt "16204"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:line_status=todo
 msgctxt "88_Zhao"
 msgid "Oh, Ma-chan, you're back. How'd the thing go?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "100_Tanimura"
 msgid "Well, I found the case report for the hit."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "112_Zhao"
 msgid "You did!? What did it say!?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "124_Tanimura"
 msgid "A lot of stuff I already knew, plus one new piece of info."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "136_Zhao"
 msgid "Oh?"
 msgstr "Oh..."
 
+#. y4:line_status=todo
 msgctxt "148_Tanimura"
 msgid "Sugiuchi was investigating that case... along with my dad."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "160_Zhao"
 msgid "Sugiuchi? The same one that's always giving you hell back at the station?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "172_Tanimura"
 msgid "Mhm. I've talked to him more times than I care to remember, but he never once mentioned being on a case with my dad."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "184_Tanimura"
 msgid "And that's despite him knowing how bad I want the truth."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "196_Zhao"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=todo
 msgctxt "208_Tanimura"
 msgid "That's not the worst of it, either. I'm starting to believe someone on the force did my father in."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "220_Tanimura"
 msgid "Katsuragi said as much when we met yesterday."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "232_Zhao"
 msgid "Another officer... Things just keep getting better, huh?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "244_Tanimura"
 msgid "Seriously..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "256_Zhao"
 msgid "Why don't you call it a day, Ma-chan? Even you need to rest at some point."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "268_Tanimura"
 msgid "...You're right. I think I'll knock out for a while."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "280_Zhao"
 msgid "You do that."
 msgstr "Hazlo."
 
+#. y4:line_status=todo
 msgctxt "292_Zhao"
 msgid "Hey, Mei Hua! Get Ma-chan's futon ready!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "340_Hisai"
 msgid "Either way, Tanimura-kun, that stunt you pulled had me worried half to death!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "352_Hisai"
 msgid "I got a call from Sugiuchi-kun in Homicide telling me you were trying to contact the Ueno Seiwa."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "364_Hisai"
 msgid "So I took it upon myself to search for you before you wound up in danger... Which ended up happening anyway!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "376_Tanimura"
 msgid "Ahh, so that's why you're here."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "388_Hisai"
 msgid "Tanimura-kun. You must have some inclination as to how dangerous the Ueno Seiwa Clan is right now. Are you even aware of the gravity of this situation?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "400_Tanimura"
 msgid "Eh, more or less."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "412_Hisai"
 msgid "*sigh*"
 msgstr "*suspiro*"
 
+#. y4:line_status=todo
 msgctxt "424_Zhao"
 msgid "Well, at least this Katsuragi seems to know something about your father's killer."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "436_Zhao"
 msgid "Sounds like progress to me."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "448_Tanimura"
 msgid "Yeah, I guess that's one way to look at it..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "460_Zhao"
 msgid "Then why the long face? You finally have a promising lead."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "472_Tanimura"
 msgid "Something that Katsuragi said has been bugging me."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "484_Zhao"
 msgid "And what was that?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "496_Tanimura"
 msgid "The police covered up the truth about the massacre in 1985."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "508_Tanimura"
 msgid "They knew the real killer was Katsuragi, but they pinned it all on Saejima."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "520_Zhao"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
+#. y4:line_status=translated
 msgctxt "532_Hisai"
 msgid "What!?"
 msgstr "¡¿Qué?!"
 
+#. y4:line_status=todo
 msgctxt "544_Tanimura"
 msgid "None of this rings a bell, Chief?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "556_Hisai"
 msgid "No. I'm not in Homicide, and back then I was as low on the totem pole as it gets."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "568_Tanimura"
 msgid "Fair enough."
 msgstr "Así es."
 
+#. y4:line_status=todo
 msgctxt "580_Zhao"
 msgid "So were the police trying to protect Katsuragi? If so, why?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "592_Tanimura"
 msgid "Who knows? But they obviously couldn't let a scandal like that go public."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "604_Zhao"
 msgid "Hrm..."
 msgstr "Hrm..."
 
+#. y4:line_status=todo
 msgctxt "628_Hisai"
 msgid "...I just thought of something."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "640_Tanimura"
 msgid "Hm?"
 msgstr "¿Mm?"
 
+#. y4:line_status=todo
 msgctxt "652_Hisai"
 msgid "Maybe we could dig something up at headquarters."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "664_Tanimura"
 msgid "Oh yeah? How?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "676_Hisai"
-msgid "Archive Room 13 on basement level 3...\\r\n"
-"The so-called Forbidden Room."
+msgid "Archive Room 13 on basement level 3...\\r\nThe so-called Forbidden Room."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "688_Zhao"
 msgid "Forbidden Room!?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "700_Hisai"
 msgid "That's right. Also known as the \"Scandal Graveyard.\""
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "712_Hisai"
 msgid "All records of police misconduct over the years supposedly end up there."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "724_Hisai"
 msgid "Or so the rumor goes."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "736_Tanimura"
 msgid "Interesting. Then we just might find something useful."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "748_Hisai"
 msgid "Yes. Or, well, it could all simply be a rumor."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "760_Tanimura"
 msgid "Still, worth a shot. In fact... I'm all over it."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "772_Hisai"
 msgid "Now hold your horses, Tanimura-kun! Think about it. Archive 13 is smack-dab in the middle of headquarters!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "784_Hisai"
 msgid "A rookie like you can't just go strolling in there without permission."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "796_Tanimura"
 msgid "I never planned on asking. I mean, we're dealing with someone who can cover up mass murder."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "808_Tanimura"
 msgid "I doubt they'd be keen on giving me access to the evidence."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "820_Zhao"
 msgid "You serious about this, Ma-chan...?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "832_Hisai"
 msgid "Tanimura-kun, I... No, nothing."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "844_Tanimura"
 msgid "So. We all ready to go?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "856_Hisai"
 msgid "Huh? Wait... \"We\" as in you and me?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "868_Tanimura"
 msgid "Of course! Us Community Safety boys gotta stick together, right? Besides, I've only been to HQ maybe once or twice."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "880_Tanimura"
 msgid "I probably couldn't find this archive even if I tried."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "892_Tanimura"
 msgid "But you know right where it is, don't you, Chief?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "904_Hisai"
 msgid "What? No, I... Well, I mean, yes, but be that as it may..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "916_Tanimura"
 msgid "Great! Then I'll be counting on you!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "940_Zhao"
 msgid "What!? You mean someone else killed those 18 men?"
 msgstr "¿¡Qué!? ¿Dices que alguien más mató a esos 18 hombres?"
 
+#. y4:line_status=todo
 msgctxt "952_Tanimura"
 msgid "Right. The Ueno Seiwa officers were taken out by one of their own: Katsuragi."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "964_Zhao"
 msgid "Then Yasuko Saejima's brother is innocent?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "976_Tanimura"
 msgid "Well, he did carry out the attack, so he's far from innocent."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "988_Tanimura"
 msgid "But there's a big difference in sentencing for murder and attempted murder."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1000_Zhao"
 msgid "Hrm..."
 msgstr "Hrm..."
 
+#. y4:line_status=todo
 msgctxt "1012_Hisai"
 msgid "Was this Katsuragi also responsible for killing your father?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1024_Tanimura"
 msgid "I couldn't get an answer out of him."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1036_Hisai"
 msgid "I see..."
 msgstr "Ya veo..."
+

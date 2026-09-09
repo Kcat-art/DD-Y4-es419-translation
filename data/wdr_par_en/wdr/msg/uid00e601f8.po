@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62348\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00E601F8
 #. y4:runtime_group_count=1
@@ -24,78 +26,92 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_JIMU01.bin
 #. y4:runtime_play_command=y4.play_msg 00E601F8 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "2272"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "2276"
 msgid "Takasu"
 msgstr "Takasu"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "2280"
 msgid "Tadashi"
 msgstr "Tadashi"
 
+#. y4:line_status=translated
 msgctxt "2284"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 msgctxt "2288"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=5
 msgctxt "2292"
 msgid "Fuse"
 msgstr "Fusible"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=6
 msgctxt "2296"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "2300"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "2304"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:line_status=translated
 msgctxt "80_Takasu"
 msgid "What's all the commotion? You two. What business do you have with me?"
 msgstr "¿A qué se debe todo este alboroto? Ustedes dos. ¿Qué es lo que quieren?"
 
+#. y4:line_status=translated
 msgctxt "92_Tadashi"
 msgid "So you're Takasu! My sister... Gimme back my sister!"
 msgstr "¡Así que tú eres Takasu! Mi hermana... ¡Devuélveme a mi hermana!"
 
+#. y4:line_status=translated
 msgctxt "104_Takasu"
 msgid "I beg your pardon?"
 msgstr "¿Cómo?"
 
+#. y4:line_status=translated
 msgctxt "128_Fuse"
 msgid "Please, sir, leave this to me."
 msgstr "Por favor, señor, déjeme esto a mí."
 
+#. y4:line_status=translated
 msgctxt "152_Saejima"
 msgid "Get behind me, Tadashi."
 msgstr "Quédate atrás, Tadashi."
 
+#. y4:line_status=translated
 msgctxt "176_Fuse"
-msgid "I don't know what you want, but don't think you can\\r\n"
-"smash up a yakuza office and waltz right on out again."
-msgstr "No sé cuál es tu problema, pero no creas que puedes\n"
-"destrozar nuestra oficina e irte como si nada."
+msgid "I don't know what you want, but don't think you can\\r\nsmash up a yakuza office and waltz right on out again."
+msgstr "No sé cuál es tu problema, pero no creas que puedes\ndestrozar nuestra oficina e irte como si nada."
 
+#. y4:line_status=translated
 msgctxt "188_Saejima"
 msgid "Don't worry. I ain't waltzin' nowhere."
 msgstr "No te preocupes. No voy a irme a ninguna parte."
+

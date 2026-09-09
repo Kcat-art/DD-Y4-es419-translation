@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60562\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01E60493
 #. y4:runtime_group_count=1
@@ -24,64 +26,75 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01E60493 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1980"
 msgid "Assassin"
 msgstr "Asesino"
 
+#. y4:line_status=translated
 msgctxt "1984"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1988"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "1992"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "1996"
 msgid "Saki-chan"
 msgstr "Saki-chan"
 
+#. y4:line_status=translated
 msgctxt "2000"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:line_status=translated
 msgctxt "2004"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "68_Assassin"
 msgid "...You have any idea what we're about to do to you?"
 msgstr "...¿Tienes idea de lo que estamos a punto de hacerte?"
 
+#. y4:line_status=translated
 msgctxt "80_Tanimura"
 msgid "That's my line."
 msgstr "Eso mismo iba a decir yo."
 
+#. y4:line_status=translated
 msgctxt "92_Assassin"
 msgid "What the!?"
 msgstr "¡¿Qué pasa...?!"
 
+#. y4:line_status=translated
 msgctxt "104_Saki-chan"
 msgid "Say your prayers, bitches!"
 msgstr "¡Prepárense para lo peor, perras!"
 
+#. y4:line_status=translated
 msgctxt "116_Tanimura"
 msgid "There's no escape now."
 msgstr "No tienen escapatoria."
 
+#. y4:line_status=translated
 msgctxt "128_Tanimura"
-msgid "Leave this to me, Saki-chan. As for you idiots...\\r\n"
-"Hurry up and bring it! I don't have all day here."
-msgstr "Yo me encargo, Saki-chan. Y ustedes, idiotas...\\r\n"
-"¡Apúrense y vengan a por mí! Que no tengo todo el día."
+msgid "Leave this to me, Saki-chan. As for you idiots...\\r\nHurry up and bring it! I don't have all day here."
+msgstr "Yo me encargo, Saki-chan. Y ustedes, idiotas...\\r\n¡Apúrense y vengan a por mí! Que no tengo todo el día."
+

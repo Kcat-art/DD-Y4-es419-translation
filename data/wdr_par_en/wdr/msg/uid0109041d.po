@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60740\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0109041D
 #. y4:runtime_group_count=1
@@ -24,47 +26,56 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CLUBSEGA_02.bin
 #. y4:runtime_play_command=y4.play_msg 0109041D <group>
 
-
-
+#. y4:line_status=todo
 msgctxt "104"
 msgid "It's the Tojo Terror, Kazuma Kiryu, over at Smile Burger grabbing a bite to eat. Some dweeb next to me seemed kinda pissed that I was talking on my phone."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "116"
 msgid "So I hit him with a, \"What's it to you, bitch!?\" That shut him up real good."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "128"
-msgid "Heh, that'll teach him to pick a fight with a legend. Anyways, signing off.\\r\n"
-"　　　　　　　　　　　-Kazuma Kiryu, Dragon of Dojima"
+msgid "Heh, that'll teach him to pick a fight with a legend. Anyways, signing off.\\r\n　　　　　　　　　　　-Kazuma Kiryu, Dragon of Dojima"
 msgstr ""
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1744"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 msgctxt "1748"
 msgid "Talk_Mail_st"
 msgstr "Talk_Mail_st"
 
+#. y4:line_status=translated
 msgctxt "1752"
 msgid "Talk_Mail_ed"
 msgstr "Talk_Mail_ed"
 
+#. y4:line_status=todo
 msgctxt "56_Kiryu"
 msgid "(Hm, don't see anyone who fits the bill. I must have just missed him.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "68_Kiryu"
 msgid "(I wonder if he's posted anything else on Hanage Park...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "92_Kiryu"
 msgid "(Oh, there's a new entry.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "140_Kiryu"
 msgid "(This guy's a real thug, huh? Sounds like I need to pay Smile Burger a little visit.)"
 msgstr ""
+

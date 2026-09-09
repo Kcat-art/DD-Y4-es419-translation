@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62572\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=000205DB
 #. y4:runtime_group_count=1
@@ -24,77 +26,90 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_SERENA.bin
 #. y4:runtime_play_command=y4.play_msg 000205DB <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2220"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "2224"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "2228"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "2232"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
 msgctxt "100_Kiryu"
-msgid "If you need a break, now's the time to do it. I can take\\r\n"
-"care of any errands you need run in the meantime."
-msgstr "Si necesitas un descanso, ahora es el momento de hacerlo. Puedo\\r\n"
-"encargarme de cualquier tarea que necesites hacer mientras tanto."
+msgid "If you need a break, now's the time to do it. I can take\\r\ncare of any errands you need run in the meantime."
+msgstr "Si necesitas un descanso, ahora es el momento de hacerlo. Puedo\\r\nencargarme de cualquier tarea que necesites hacer mientras tanto."
 
+#. y4:line_status=translated
 msgctxt "124_Player"
 msgid "No, it's okay."
 msgstr "No, está bien."
 
+#. y4:line_status=translated
 msgctxt "136_Player"
 msgid "Sorry, gonna have to take a rain check."
 msgstr "Lo siento, pero lo dejaré para después."
 
+#. y4:line_status=translated
 msgctxt "148_Player"
 msgid "Think I'm good."
 msgstr "Creo que estoy bien."
 
+#. y4:line_status=translated
 msgctxt "160_Player"
 msgid "Appreciate the offer, but I'm gonna have to pass."
 msgstr "Aprecio la oferta, pero voy a tener que pasar."
 
+#. y4:line_status=translated
 msgctxt "172_Kiryu"
 msgid "All right. Just don't overdo it, okay?"
 msgstr "Está bien. Pero no tardes mucho, ¿de acuerdo?"
 
+#. y4:line_status=translated
 msgctxt "196_Player"
 msgid "That's a good idea. Thanks, Kiryu."
 msgstr "Es una buena idea. Gracias, Kiryu."
 
+#. y4:line_status=translated
 msgctxt "208_Player"
 msgid "Sure, guess I wouldn't mind taking a little breather."
 msgstr "Claro, supongo que no me importaría tomarme un pequeño respiro."
 
+#. y4:line_status=translated
 msgctxt "220_Player"
 msgid "Yeah, gotta catch my breath."
 msgstr "Sí, tengo que recuperar el aliento."
 
+#. y4:line_status=translated
 msgctxt "232_Player"
 msgid "Thanks, I'll do that."
 msgstr "Gracias, lo haré."
 
+#. y4:line_status=translated
 msgctxt "244_Kiryu"
 msgid "Great. I'll be back later."
 msgstr "Bien. Volveré más tarde."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -105,6 +120,7 @@ msgctxt "268_Kiryu"
 msgid "No, it's okay."
 msgstr "No, está bien."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -114,3 +130,4 @@ msgstr "No, está bien."
 msgctxt "280_Kiryu"
 msgid "Sure."
 msgstr "Claro."
+

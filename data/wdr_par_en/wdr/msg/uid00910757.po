@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58308\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00910757
 #. y4:runtime_group_count=2
@@ -24,28 +26,33 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00910757 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "680"
 msgid "Businessman"
 msgstr "Empresario"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "684"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "84_Businessman"
 msgid "At the end of this street there's a young girl collecting donations."
 msgstr "Al final de esta calle hay una jovencita recogiendo donaciones."
 
+#. y4:line_status=translated
 msgctxt "96_Businessman"
 msgid "But only homeless people hang around there. Can't imagine she's collecting too much..."
 msgstr "Pero solo hay sintechos por ahí. No creo que haya conseguido mucho..."
 
+#. y4:line_status=translated
 msgctxt "108_Tanimura"
 msgid "(Collecting donations in a homeless area? That just might lead to a <Color:7>Revelation<Color:Default>. I should go and check it out.)"
 msgstr "(¿Recogiendo donaciones donde hay sintechos? Puede que esto sea una <Color:7>revelación<Color:Default>. Debería ir a revisar)."
+

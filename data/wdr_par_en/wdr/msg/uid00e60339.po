@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60450\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00E60339
 #. y4:runtime_group_count=1
@@ -24,141 +26,158 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_TOUGI_UKE.bin
 #. y4:runtime_play_command=y4.play_msg 00E60339 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "4256"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "4260"
 msgid "Tadokoro's Subordinate"
 msgstr "Subordinado de Tadokoro"
 
+#. y4:line_status=translated
 msgctxt "4264"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
+#. y4:line_status=translated
 msgctxt "4268"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "4272"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:line_status=translated
 msgctxt "4276"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "4280"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:line_status=translated
 msgctxt "4284"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "4288"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 msgctxt "4292"
 msgid "SetM_nml_sitgrd_down_03"
 msgstr "SetM_nml_sitgrd_down_03"
 
+#. y4:line_status=translated
 msgctxt "4296"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "4300"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "56_Saejima"
 msgid "Well, I won. Just like I said I would."
 msgstr "Bueno, gané. Justo como prometí."
 
+#. y4:line_status=translated
 msgctxt "68_Tadokoro's Subordinate"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "80_Saejima"
 msgid "Hey, where's Tadokoro? Where's Tadashi?"
 msgstr "Eh, ¿dónde está Tadokoro? ¿Y Tadashi?"
 
+#. y4:line_status=translated
 msgctxt "92_Tadokoro's Subordinate"
 msgid "Don't be concerned. They've already departed."
 msgstr "No te preocupes. Ya se han ido."
 
+#. y4:line_status=translated
 msgctxt "104_Saejima"
-msgid "I completed the job, Tadashi gets to see his sister.\\r\n"
-"That was the deal. So where's the boy?"
-msgstr "Complete el trabajo, Tadashi puede ver a su hermana. \n"
-"Ese fue el trato. Dime, ¿dónde está el chico?"
+msgid "I completed the job, Tadashi gets to see his sister.\\r\nThat was the deal. So where's the boy?"
+msgstr "Complete el trabajo, Tadashi puede ver a su hermana. \nEse fue el trato. Dime, ¿dónde está el chico?"
 
+#. y4:line_status=translated
 msgctxt "116_Tadokoro's Subordinate"
 msgid "If you'll just－"
 msgstr "Si solo hubieras -"
 
+#. y4:line_status=translated
 msgctxt "128_Saejima"
 msgid "I asked ya where Tadashi's at! Get Tadokoro back here now!"
 msgstr "¡Pregunte donde está Tadashi! ¡Haz que Tadokoro vuelva ahora!"
 
+#. y4:line_status=translated
 msgctxt "140_Tadokoro's Subordinate"
 msgid "I see you won't listen to reason."
 msgstr "Veo que no vas a entrar en razón."
 
+#. y4:line_status=translated
 msgctxt "152_Saejima"
 msgid "Ex-fuckin'-scuse me?"
 msgstr "¿Qué mierda dijiste?"
 
+#. y4:line_status=translated
 msgctxt "164_Tadokoro's Subordinate"
-msgid "Such a pity. The boss didn't want me to hurt you,\\r\n"
-"but I suppose this was bound to happen."
-msgstr "Que lastima. El jefe no quería que te lastimara,\n"
-"pero era obvio que no se iba a poder."
+msgid "Such a pity. The boss didn't want me to hurt you,\\r\nbut I suppose this was bound to happen."
+msgstr "Que lastima. El jefe no quería que te lastimara,\npero era obvio que no se iba a poder."
 
+#. y4:line_status=translated
 msgctxt "224_Saejima"
 msgid "Where's Tadashi, and what the fuck's Tadokoro up to!?"
 msgstr "¡¿Dónde está Tadashi, y que planea ese hijo de puta de Tadokoro?!"
 
+#. y4:line_status=translated
 msgctxt "236_Tadokoro's Subordinate"
 msgid "You－You're... much too dangerous..."
 msgstr "Tú - eres.... demasiado peligroso..."
 
+#. y4:line_status=translated
 msgctxt "248_Saejima"
 msgid "What're ya gettin' at?"
 msgstr "¿Qué quieres decir?"
 
+#. y4:line_status=translated
 msgctxt "260_Tadokoro's Subordinate"
-msgid "My boss wanted a puppet, someone he could string along.\\r\n"
-"But you're too wild, too powerful to be used like that.\\r\n"
-"A puppet who breaks his strings can't be controlled."
-msgstr "Mi jefe quería un títere, alguien a quien pudiera manipular.\n"
-"Pero eres demasiado salvaje, muy fuerte para ser uno.\n"
-"Un títere que rompe sus cuerdas no puede ser controlado."
+msgid "My boss wanted a puppet, someone he could string along.\\r\nBut you're too wild, too powerful to be used like that.\\r\nA puppet who breaks his strings can't be controlled."
+msgstr "Mi jefe quería un títere, alguien a quien pudiera manipular.\nPero eres demasiado salvaje, muy fuerte para ser uno.\nUn títere que rompe sus cuerdas no puede ser controlado."
 
+#. y4:line_status=translated
 msgctxt "272_Saejima"
 msgid "'Scuse me?"
 msgstr "¿Disculpa?"
 
+#. y4:line_status=translated
 msgctxt "284_Tadokoro's Subordinate"
 msgid "But now that you know who the puppetmaster is, he can't just exit stage left. It'd be easier for him to just... dispose of you."
-msgstr "Pero ahora que sabes quién mueve las cuerdas, no puede\n"
-"simplemente, desaparecer de la escena. Sería más fácil...\n"
-"deshacerse de ti."
+msgstr "Pero ahora que sabes quién mueve las cuerdas, no puede\nsimplemente, desaparecer de la escena. Sería más fácil...\ndeshacerse de ti."
 
+#. y4:line_status=translated
 msgctxt "296_Tadokoro's Subordinate"
-msgid "So he tried to get you killed under the pretext\\r\n"
-"of doing one last job for him."
-msgstr "Así que, intento que te mataran en el proceso\n"
-"con el pretexto de que sería un último trabajo."
+msgid "So he tried to get you killed under the pretext\\r\nof doing one last job for him."
+msgstr "Así que, intento que te mataran en el proceso\ncon el pretexto de que sería un último trabajo."
 
+#. y4:line_status=translated
 msgctxt "308_Saejima"
-msgid "What bullshit. Sounds like somethin' that asswipe\\r\n"
-"would come up with, though."
+msgid "What bullshit. Sounds like somethin' that asswipe\\r\nwould come up with, though."
 msgstr "Qué estupidez. Aunque parece algo que ese idiota diría."
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62602\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00EE00EF
 #. y4:runtime_group_count=3
@@ -24,68 +26,81 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_TOBA.bin
 #. y4:runtime_play_command=y4.play_msg 00EE00EF <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "4684"
 msgid "Staff"
 msgstr "Personal"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "4688"
 msgid "Haruka"
 msgstr "Haruka"
 
+#. y4:line_status=translated
 msgctxt "4692"
 msgid "HAL_stand_tlk_happy_small"
 msgstr "HAL_stand_tlk_happy_small"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "4696"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 msgctxt "4700"
 msgid "Talk_Info_L"
 msgstr "Talk_Info_L"
 
+#. y4:line_status=translated
 msgctxt "4704"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "4708"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=7
 msgctxt "4712"
 msgid "Player"
 msgstr "Jugador"
 
+#. y4:line_status=translated
 msgctxt "4716"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "220_Staff"
 msgid "Sir, it seems you don't have enough wooden tags to play cee-lo."
 msgstr "Señor, parece que no tiene suficientes fichas de madera para jugar cee-lo."
 
+#. y4:line_status=translated
 msgctxt "232_Staff"
 msgid "The minimum bet is 10 tags. You can play after you buy some more wooden tags."
 msgstr "La apuesta mínima es de 10 fichas. Puedes jugar después de comprar más fichas de madera."
 
+#. y4:line_status=translated
 msgctxt "244_Staff"
 msgid "Excuse me, sir. Would you like to play cee-lo?"
 msgstr "Disculpe, señor. ¿Le gustaría jugar cee-lo?"
 
+#. y4:line_status=translated
 msgctxt "268_Haruka"
 msgid "Uncle Kaz! I bet you can get 500 points in cee-lo!"
 msgstr "¡Tío Kaz! ¡Apuesto a que puedes sacar 500 puntos en el cee-lo!"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -93,34 +108,42 @@ msgctxt "280_Kiryu"
 msgid "(500 points in cee-lo... Should I give it a try?)"
 msgstr "(500 puntos en cee-lo... ¿Debería intentarlo?)."
 
+#. y4:line_status=translated
 msgctxt "292_Staff"
 msgid "Sure, I'll play."
 msgstr "Claro, jugaré."
 
+#. y4:line_status=translated
 msgctxt "304_Staff"
 msgid "All right. Right this way."
 msgstr "Perfecto. Por aquí."
 
+#. y4:line_status=translated
 msgctxt "316_Haruka"
 msgid "Good luck, Uncle Kaz!"
 msgstr "¡Buena suerte, Tío Kaz!"
 
+#. y4:line_status=translated
 msgctxt "340_Staff"
 msgid "Not right now."
 msgstr "Ahora no."
 
+#. y4:line_status=translated
 msgctxt "352_Staff"
 msgid "Very well. Please come again."
 msgstr "Está bien. Por favor, vuelva pronto."
 
+#. y4:line_status=translated
 msgctxt "364_Haruka"
 msgid "Aww, I wanted to watch you play cee-lo, though..."
 msgstr "Ayyy... pero yo quería verte jugar al cee-lo..."
 
+#. y4:line_status=translated
 msgctxt "376_Haruka"
 msgid "Uncle Kaz! Can we play cee-lo? I bet you could get 1,000 points!"
 msgstr "¡Tío Kaz! ¿Podemos jugar cee-lo? ¡Apuesto a que puedes sacar 1,000 puntos!"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -128,30 +151,37 @@ msgctxt "388_Kiryu"
 msgid "(1,000 points in cee-lo... Should I give it a try?)"
 msgstr "(1,000 puntos en el cee-lo... ¿Debería intentarlo?)."
 
+#. y4:line_status=translated
 msgctxt "400_Staff"
 msgid "Sure, I'll play."
 msgstr "Claro, jugaré."
 
+#. y4:line_status=translated
 msgctxt "412_Staff"
 msgid "All right. Right this way."
 msgstr "Perfecto. Por aquí."
 
+#. y4:line_status=translated
 msgctxt "424_Haruka"
 msgid "Good luck, Uncle Kaz!"
 msgstr "¡Buena suerte, Tío Kaz!"
 
+#. y4:line_status=translated
 msgctxt "448_Staff"
 msgid "Not right now."
 msgstr "Ahora no."
 
+#. y4:line_status=translated
 msgctxt "460_Staff"
 msgid "Very well. Please come again."
 msgstr "Está bien. Por favor, vuelva pronto."
 
+#. y4:line_status=translated
 msgctxt "472_Haruka"
 msgid "Aww, I wanted to watch you play cee-lo, though..."
 msgstr "Ayyy... pero yo quería verte jugar al cee-lo..."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -159,22 +189,27 @@ msgctxt "484_Staff"
 msgid "Excuse me, sir. Would you like to play cee-lo?"
 msgstr "Disculpe, señor. ¿Le gustaría jugar cee-lo?"
 
+#. y4:line_status=translated
 msgctxt "496_Staff"
 msgid "Sure, I'll play."
 msgstr "Claro, jugaré."
 
+#. y4:line_status=translated
 msgctxt "508_Staff"
 msgid "All right. Right this way."
 msgstr "Perfecto. Por aquí."
 
+#. y4:line_status=translated
 msgctxt "532_Staff"
 msgid "Not right now."
 msgstr "Ahora no."
 
+#. y4:line_status=translated
 msgctxt "544_Staff"
 msgid "Very well. Please come again."
 msgstr "Está bien. Por favor, vuelva pronto."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -185,6 +220,7 @@ msgctxt "556_Staff"
 msgid "Play"
 msgstr "Jugar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -195,6 +231,7 @@ msgctxt "568_Staff"
 msgid "Not Now"
 msgstr "Ahora no"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -205,6 +242,7 @@ msgctxt "580_Staff"
 msgid "Play"
 msgstr "Jugar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -215,6 +253,7 @@ msgctxt "592_Staff"
 msgid "Not Now"
 msgstr "Ahora no"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -225,6 +264,7 @@ msgctxt "604_Staff"
 msgid "Play"
 msgstr "Jugar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -234,3 +274,4 @@ msgstr "Jugar"
 msgctxt "616_Staff"
 msgid "Not Now"
 msgstr "Ahora no"
+

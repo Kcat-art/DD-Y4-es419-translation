@@ -7,28 +7,23 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=translated
-#. y4:last_reviewer=Keiner
+#. y4:last_reviewer=Karu
 
 #. y4:line_status=translated
 #. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=0
 msgctxt "8352"
 msgid "Foreign Man"
 msgstr "Hombre Extranjero"
 
 #. y4:line_status=translated
 #. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=1
 msgctxt "8356"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=2
 msgctxt "8360"
 msgid "Kiryu"
 msgstr "Kiryu"
@@ -36,24 +31,18 @@ msgstr "Kiryu"
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
 #. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=3
 msgctxt "8364"
 msgid "Talk_OK"
 msgstr "Talk_OK"
 
 #. y4:line_status=translated
 #. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=4
 msgctxt "8368"
 msgid "Slumdogs Member"
 msgstr "Miembro de Slumdogs"
 
 #. y4:line_status=translated
 #. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=5
 msgctxt "8372"
 msgid "Talk_No"
 msgstr "Talk_No"
@@ -61,39 +50,30 @@ msgstr "Talk_No"
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Keiner
 #. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=6
 msgctxt "8376"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
 #. y4:line_status=translated
 #. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=7
 msgctxt "8380"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
 #. y4:line_status=translated
 #. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=8
 msgctxt "8384"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
 #. y4:line_status=translated
 #. y4:msg_type=id
-#. y4:msg_label=Nombre interno
-#. y4:msg_id_index=9
 msgctxt "8388"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=1
 #. y4:msg_location=T1.P1
@@ -105,7 +85,6 @@ msgstr "¡Oye! ¿Eres, eh, Kiryu-san?"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=2
 #. y4:msg_location=T1.P2
@@ -117,7 +96,6 @@ msgstr "Sí, ese soy yo."
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=3
 #. y4:msg_location=T1.P3
@@ -129,7 +107,6 @@ msgstr "¡Escuché que quien te derrote se convierte en el campeón de toda la c
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=4
 #. y4:msg_location=T1.P4
@@ -141,7 +118,6 @@ msgstr "Ya veo. Entonces, ¿sois los Slumdogs?"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=5
 #. y4:msg_location=T1.P5
@@ -153,7 +129,6 @@ msgstr "¡Sí, sí! ¡Los Slumdogs! ¿Nombre guay, eh?"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=6
 #. y4:msg_location=T1.P6
@@ -165,7 +140,6 @@ msgstr "Espera, ¿cómo sabes nuestro nombre? ¿¡Somos famosos!?"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=7
 #. y4:msg_location=T1.P7
@@ -177,7 +151,6 @@ msgstr "No, la verdad es que no. Y muy pronto, será un nombre que nadie volver�
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=8
 #. y4:msg_location=T1.P8
@@ -189,7 +162,6 @@ msgstr "¿Eh? ¿Por qué dices eso?"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=9
 #. y4:msg_location=T1.P9
@@ -201,7 +173,6 @@ msgstr "Porque cada pandilla que se ha cruzado en mi camino hasta ahora se ha de
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=10
 #. y4:msg_location=T1.P10
@@ -213,7 +184,6 @@ msgstr "¡Ja, ja, ja! ¡Pues ya sé la respuesta! ¿Todas esas pandillas japones
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=11
 #. y4:msg_location=T1.P11
@@ -225,7 +195,6 @@ msgstr "¿Así que ustedes son bastante fuertes, me imagino?"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=12
 #. y4:msg_location=T1.P12
@@ -237,7 +206,6 @@ msgstr "¡Por supuesto! ¡Mucho, mucho más fuertes que esos japoneses débiles 
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=13
 #. y4:msg_location=T1.P13
@@ -249,7 +217,6 @@ msgstr "Veamos qué tan fuertes son, ¿sí? ¡Luchemos!"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=14
 #. y4:msg_location=T1.P14
@@ -261,7 +228,6 @@ msgstr "¡Hola! ¿Kiryu, verdad?"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=15
 #. y4:msg_location=T1.P15
@@ -273,7 +239,6 @@ msgstr "¡No hay tiempo para charlas! ¡El jefe quiere tu cabeza en una bandeja!
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=16
 #. y4:msg_location=T1.P16
@@ -285,7 +250,6 @@ msgstr "¡Te voy a destrozar y te llevaré!"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=17
 #. y4:msg_location=T1.P17
@@ -297,7 +261,6 @@ msgstr "¡Te encontré!"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=18
 #. y4:msg_location=T1.P18
@@ -309,7 +272,6 @@ msgstr "¡Es hora de derrotarte, lo siento!"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=1
 #. y4:msg_phrase=19
 #. y4:msg_location=T1.P19
@@ -321,7 +283,6 @@ msgstr "¿Kiryu, verdad? ¡Espero que estés listo para morir!"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=1
 #. y4:msg_location=T2.P1
@@ -333,7 +294,6 @@ msgstr "......"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=2
 #. y4:msg_location=T2.P2
@@ -345,7 +305,6 @@ msgstr "Parece que deberías dejar de subestimar a los japoneses."
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=3
 #. y4:msg_location=T2.P3
@@ -357,7 +316,6 @@ msgstr "Sí, bueno, ¡tú eres un campeón del Coliseo! ¡No eres como otros jap
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=4
 #. y4:msg_location=T2.P4
@@ -369,7 +327,6 @@ msgstr "Espera, ¿cómo sabes sobre el Coliseo? ¿Has peleado allí?"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=5
 #. y4:msg_location=T2.P5
@@ -381,7 +338,6 @@ msgstr "No, no. Nuestro jefe sabe mucha información clandestina."
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=6
 #. y4:msg_location=T2.P6
@@ -393,7 +349,6 @@ msgstr "¡Por eso nuestra pandilla es muy, muy diferente a las demás!"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=7
 #. y4:msg_location=T2.P7
@@ -405,7 +360,6 @@ msgstr "Ya veo."
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=8
 #. y4:msg_location=T2.P8
@@ -417,7 +371,6 @@ msgstr "Dime entonces, ¿dónde está tu jefe? ¿Reign, era?"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=9
 #. y4:msg_location=T2.P9
@@ -429,7 +382,6 @@ msgstr "¡¿Cómo sabes eso?!"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=10
 #. y4:msg_location=T2.P10
@@ -441,7 +393,6 @@ msgstr "Yo también tengo algunos contactos clandestinos. No me paso todo mi tie
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=11
 #. y4:msg_location=T2.P11
@@ -453,7 +404,6 @@ msgstr "Je..."
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=12
 #. y4:msg_location=T2.P12
@@ -465,7 +415,6 @@ msgstr "¿Tienes contactos? Pero no sabes dónde está Reign, ¿verdad? ¡No son
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=1
 #. y4:msg_location=T2.P1
@@ -477,7 +426,6 @@ msgstr "......"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=14
 #. y4:msg_location=T2.P14
@@ -489,7 +437,6 @@ msgstr "Bueno, no te lo diré, ¡no, señor! ¡Prueba con el próximo tipo con q
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=15
 #. y4:msg_location=T2.P15
@@ -501,7 +448,6 @@ msgstr "Oogh, todo duele..."
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=16
 #. y4:msg_location=T2.P16
@@ -513,7 +459,6 @@ msgstr "Se acabó. Dime dónde está Reign."
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=17
 #. y4:msg_location=T2.P17
@@ -525,7 +470,6 @@ msgstr "¡No puedo! Si hago eso, ¡me matan! ¡Nuestras órdenes son solo vencer
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=18
 #. y4:msg_location=T2.P18
@@ -537,7 +481,6 @@ msgstr "¡Déjame ir!"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=19
 #. y4:msg_location=T2.P19
@@ -549,7 +492,6 @@ msgstr "Urgh..."
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=20
 #. y4:msg_location=T2.P20
@@ -561,7 +503,6 @@ msgstr "¿Ahora quieres decirme dónde está Reign?"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=21
 #. y4:msg_location=T2.P21
@@ -573,7 +514,6 @@ msgstr "¿Qué!? ¡No! No puedo."
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=22
 #. y4:msg_location=T2.P22
@@ -585,7 +525,6 @@ msgstr "Mierda... ¡Algún día te ganaremos! ¡Recuerda esto!"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=2
 #. y4:msg_phrase=23
 #. y4:msg_location=T2.P23
@@ -597,7 +536,6 @@ msgstr "(Siguen llegando. Será mejor que encuentre Reign rápido y ponga fin a 
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=3
 #. y4:msg_phrase=1
 #. y4:msg_location=T3.P1
@@ -609,7 +547,6 @@ msgstr "Si crees que los Slumdogs renuncian fácilmente, ¡piensa otra vez!"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=3
 #. y4:msg_phrase=2
 #. y4:msg_location=T3.P2
@@ -621,7 +558,6 @@ msgstr "Hemos perdido..."
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=3
 #. y4:msg_phrase=3
 #. y4:msg_location=T3.P3
@@ -633,7 +569,6 @@ msgstr "¡Déjame ir! ¡Lo siento! ¡Lo siento mucho!"
 
 #. y4:line_status=translated
 #. y4:msg_type=dialogue
-#. y4:msg_label=Diálogo
 #. y4:msg_talk=3
 #. y4:msg_phrase=4
 #. y4:msg_location=T3.P4
@@ -642,3 +577,4 @@ msgstr "¡Déjame ir! ¡Lo siento! ¡Lo siento mucho!"
 msgctxt "716_Foreign Man"
 msgid "We make you pay someday!"
 msgstr "¡Algún día te haremos pagar!"
+

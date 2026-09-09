@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62066\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00E601F7
 #. y4:runtime_group_count=1
@@ -24,38 +26,43 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_JIMU01.bin
 #. y4:runtime_play_command=y4.play_msg 00E601F7 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "844"
 msgid "Takasu Family Member"
 msgstr "Miembro de la familia Takasu"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "848"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "852"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
+#. y4:line_status=translated
 msgctxt "856"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 msgctxt "56_Takasu Family Member"
 msgid "Who are you!?"
 msgstr "¡¿Quién eres?!"
 
+#. y4:line_status=translated
 msgctxt "68_Saejima"
-msgid "We got business with the patriarch of the Takasu Family.\\r\n"
-"Get 'im out here!"
-msgstr "Tenemos algo que discutir con el patriarca.\n"
-"¡Tráiganlo aquí ahora!"
+msgid "We got business with the patriarch of the Takasu Family.\\r\nGet 'im out here!"
+msgstr "Tenemos algo que discutir con el patriarca.\n¡Tráiganlo aquí ahora!"
 
+#. y4:line_status=translated
 msgctxt "80_Takasu Family Member"
 msgid "Our boss doesn't talk to fuckwits－least of all dead ones!"
 msgstr "El jefe no va a hablar con un don nadie, ¡y menos con uno muerto!"
+

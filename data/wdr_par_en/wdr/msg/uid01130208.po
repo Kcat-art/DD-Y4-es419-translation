@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61476\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01130208
 #. y4:runtime_group_count=1
@@ -24,56 +26,68 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_PARKING.bin
 #. y4:runtime_play_command=y4.play_msg 01130208 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1740"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "1744"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "1748"
 msgid "M_ykz_stand"
 msgstr "M_ykz_stand"
 
+#. y4:line_status=translated
 msgctxt "1752"
 msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "1756"
 msgid "Robber"
 msgstr "Ladrón"
 
+#. y4:line_status=translated
 msgctxt "1760"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "1764"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=todo
 msgctxt "68_Tanimura"
 msgid "You should learn to cover your ass, as they say. Hey, I see you!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "128_Robber"
 msgid "Shit... I thought I was hiding pretty well. You're pretty sharp!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "140_Tanimura"
 msgid "How could I possibly not find you?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "152_Tanimura"
 msgid "You ought to give the police more credit. We're not total morons, like you."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "164_Robber"
 msgid "What did you say!? Now you've really gone and  pissed me off! You're dead!"
 msgstr ""
+

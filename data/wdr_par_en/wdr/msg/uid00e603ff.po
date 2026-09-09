@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62412\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00E603FF
 #. y4:runtime_group_count=1
@@ -24,36 +26,43 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_JIMU01.bin
 #. y4:runtime_play_command=y4.play_msg 00E603FF <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1388"
 msgid "Tsugawa"
 msgstr "Tsugawa"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1392"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "1396"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
+#. y4:line_status=translated
 msgctxt "56_Tsugawa"
 msgid "...Tanimura!?"
 msgstr "... ¿¡Tanimura!?"
 
+#. y4:line_status=translated
 msgctxt "68_Tanimura"
 msgid "So you're Tsugawa?"
 msgstr "¿Así que tú eres Tsugawa?"
 
+#. y4:line_status=translated
 msgctxt "80_Tsugawa"
 msgid "Hmph. So you came all this way, just to run into a literal dead end."
 msgstr "Tsk. Así que viniste hasta aquí solo para llegar a un callejón sin salida."
 
+#. y4:line_status=translated
 msgctxt "92_Tsugawa"
 msgid "Look, pal. You're in deep shit. And I mean the deep end of deep shit. You're in over your head in shit. In fact, you're about to be buried in it, just like that corpse of a writer."
 msgstr "Mira, amigo. Estás en un buen lío. Y hablo de un lío de los grandes. Estás completamente metido en un problema que no sabes ni cómo manejar. De hecho, estás a punto de ser enterrado en él, como ese cadáver del escritor."
+

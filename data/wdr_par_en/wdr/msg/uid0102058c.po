@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59660\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0102058C
 #. y4:runtime_group_count=1
@@ -24,105 +26,122 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_OKI_POLICE.bin
 #. y4:runtime_play_command=y4.play_msg 0102058C <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "3868"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 msgctxt "3872"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "3876"
 msgid "Hamazaki"
 msgstr "Hamazaki"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "3880"
 msgid "Woman"
 msgstr "Mujer"
 
+#. y4:line_status=translated
 msgctxt "3884"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=todo
 #. y4:msg_role=name
 #. y4:msg_name_id=5
 msgctxt "3888"
 msgid "Policeman"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "3892"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "3896"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=todo
 msgctxt "116_Kiryu"
 msgid "You sure about this, Hamazaki?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "128_Hamazaki"
-msgid "One hundred percent. The only way I'm reuniting with Saejima\\r\n"
-"is when we're both back in the slammer."
+msgid "One hundred percent. The only way I'm reuniting with Saejima\\r\nis when we're both back in the slammer."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "140_Kiryu"
 msgid "Hamazaki..."
 msgstr "Hamazaki..."
 
+#. y4:line_status=todo
 msgctxt "152_Woman"
 msgid "Please, why won't you listen to me!?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "164_Woman"
 msgid "My brother was sent to a prison in Okinawa! I know he was!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "176_Policeman"
-msgid "You can say that all you want, lady, but I've never heard of\\r\n"
-"this Penitentiary No. 2 you keep going on about."
+msgid "You can say that all you want, lady, but I've never heard of\\r\nthis Penitentiary No. 2 you keep going on about."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "188_Policeman"
 msgid "Now go home already!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "200_Woman"
 msgid "No, please! You have to listen to me! I'm begging you!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "212_Policeman"
 msgid "We already have listened!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "224_Policeman"
 msgid "*sigh* Listen."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "236_Policeman"
-msgid "I already told you, we looked through the logs of every\\r\n"
-"prisoner shipped down here. Your brother isn't, and has\\r\n"
-"never been, in an Okinawa prison."
+msgid "I already told you, we looked through the logs of every\\r\nprisoner shipped down here. Your brother isn't, and has\\r\nnever been, in an Okinawa prison."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "248_Woman"
-msgid "He is, I just know he is! Please, check for Taiga Saejima\\r\n"
-"one more time! Please, officer!"
+msgid "He is, I just know he is! Please, check for Taiga Saejima\\r\none more time! Please, officer!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "260_Kiryu"
 msgid "What!?"
 msgstr "¡¿Qué?!"
 
+#. y4:line_status=translated
 msgctxt "272_Hamazaki"
 msgid "Huh!?"
 msgstr "¡¿Eh?!"
+

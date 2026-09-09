@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58542\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0013020D
 #. y4:runtime_group_count=2
@@ -24,58 +26,68 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_PARKING.bin
 #. y4:runtime_play_command=y4.play_msg 0013020D <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1656"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "1660"
 msgid "P_tan_stand_tlk_techo"
 msgstr "P_tan_stand_tlk_techo"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1664"
 msgid "Robber"
 msgstr "Ladrón"
 
+#. y4:line_status=translated
 msgctxt "1668"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:line_status=translated
 msgctxt "1672"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 msgctxt "1676"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "84_Tanimura"
-msgid "You're those robbers, aren't you? You're all\\r\n"
-"under arrest. Don't try anything funny."
-msgstr "Ustedes son los ladrones, ¿no es así? ¡Están todos\\r\n"
-"bajo arresto! ¡No se les ocurra resistirse!"
+msgid "You're those robbers, aren't you? You're all\\r\nunder arrest. Don't try anything funny."
+msgstr "Ustedes son los ladrones, ¿no es así? ¡Están todos\\r\nbajo arresto! ¡No se les ocurra resistirse!"
 
+#. y4:line_status=translated
 msgctxt "96_Robber"
 msgid "Goddamnit... The cops followed us here?"
 msgstr "Tch... ¡Maldita sea! Nos siguió hasta aquí."
 
+#. y4:line_status=translated
 msgctxt "108_Robber"
 msgid "Everyone, run for it!"
 msgstr "¡Todos, corran!"
 
+#. y4:line_status=translated
 msgctxt "120_Tanimura"
 msgid "Hey, get back here! Damn!"
 msgstr "¡Eh, vuelvan aquí! ...¡Mierda!"
 
+#. y4:line_status=translated
 msgctxt "132_Tanimura"
 msgid "We've got the exits covered, so they shouldn't be able to make it out of the garage."
 msgstr "Tenemos las salidas completamente cubiertas, así que es imposible que salgan del garaje."
 
+#. y4:line_status=translated
 msgctxt "144_Tanimura"
 msgid "I'll hunt them down and take all the credit!"
 msgstr "Los encontraré y los atraparé a todos... ¡Todo el mérito será mío!"
+

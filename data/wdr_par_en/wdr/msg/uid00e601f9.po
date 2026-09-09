@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60236\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00E601F9
 #. y4:runtime_group_count=1
@@ -24,101 +26,121 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_JIMU01.bin
 #. y4:runtime_play_command=y4.play_msg 00E601F9 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2936"
 msgid "Fuse"
 msgstr "Fusible"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "2940"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "2944"
 msgid "Takasu"
 msgstr "Takasu"
 
+#. y4:line_status=translated
 msgctxt "2948"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "2952"
 msgid "Tadashi"
 msgstr "Tadashi"
 
+#. y4:line_status=translated
 msgctxt "2956"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=6
 msgctxt "2960"
 msgid "?"
 msgstr "¿?"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=7
 msgctxt "2964"
 msgid "Akiko"
 msgstr "Akiko"
 
+#. y4:line_status=translated
 msgctxt "2968"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:line_status=translated
 msgctxt "56_Fuse"
 msgid "Damn, that hurts... Who the hell even are you?"
 msgstr "Maldita sea... ¿Quién demonios eres?"
 
+#. y4:line_status=translated
 msgctxt "68_Saejima"
 msgid "Takasu-san..."
 msgstr "Takasu-san..."
 
+#. y4:line_status=translated
 msgctxt "80_Takasu"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "92_Saejima"
 msgid "This young man is named Tadashi. He'd like a word with you, so please give him a second of your time."
-msgstr "Este muchacho se llama Tadashi. Por favor, concédale\n"
-"un minuto de su tiempo, quiere hablarle sobre algo."
+msgstr "Este muchacho se llama Tadashi. Por favor, concédale\nun minuto de su tiempo, quiere hablarle sobre algo."
 
+#. y4:line_status=translated
 msgctxt "104_Tadashi"
 msgid "My sister... Akiko is here somewhere! Let her go!"
 msgstr "Mi hermana... ¡Akiko está aquí en alguna parte! ¡Déjala ir!"
 
+#. y4:line_status=translated
 msgctxt "116_Takasu"
 msgid "So you... You're Akiko's..."
 msgstr "Así que tú... Eres él..."
 
+#. y4:line_status=translated
 msgctxt "140_?"
 msgid "Stop!"
 msgstr "¡Espera!"
 
+#. y4:line_status=translated
 msgctxt "152_Tadashi"
 msgid "Akiko?"
 msgstr "¿Akiko?"
 
+#. y4:line_status=translated
 msgctxt "164_Akiko"
 msgid "Don't do anything bad to Uncle Tatsuya!"
 msgstr "¡No hagan daño al tío Tatsuya!"
 
+#. y4:line_status=translated
 msgctxt "176_Tadashi"
 msgid "Akiko!"
 msgstr "¡Akiko!"
 
+#. y4:line_status=translated
 msgctxt "188_Akiko"
 msgid "Tadashi? Tadashi, is that you?"
 msgstr "¿Tadashi? Tadashi, ¿eres tú?"
 
+#. y4:line_status=translated
 msgctxt "200_Tadashi"
 msgid "Akiko..."
 msgstr "Akiko..."
+

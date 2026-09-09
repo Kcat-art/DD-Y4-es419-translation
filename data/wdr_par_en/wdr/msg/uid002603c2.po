@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59898\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=002603C2
 #. y4:runtime_group_count=2
@@ -24,46 +26,53 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 002603C2 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1084"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "1088"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1092"
 msgid "Businessman"
 msgstr "Empresario"
 
+#. y4:line_status=translated
 msgctxt "1096"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "1100"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
+#. y4:line_status=translated
 msgctxt "84_Saejima"
 msgid "Hey, punk. You one of Shirakawa's agents?"
 msgstr "A ver tú. ¿Eres un un peón de Shirakawa?"
 
+#. y4:line_status=translated
 msgctxt "96_Businessman"
 msgid "If you must know, I am planning on voting for Shirakawa-san in the upcoming election. Is that a problem?"
 msgstr "¿Qué pasa...? Pues, sí, pienso votar por Shirakawa en las próximas elecciones... ¿Y qué?"
 
+#. y4:line_status=translated
 msgctxt "108_Businessman"
-msgid "Wait, are you trying to scare me into changing my vote?\\r\n"
-"Who does Numai think he is, a yakuza?"
-msgstr "Un Momento, ¿Me estás intimidando para que cambie mi voto?\\r\n"
-"¿Qué se cree Numai, un miembro de la Yakuza?"
+msgid "Wait, are you trying to scare me into changing my vote?\\r\nWho does Numai think he is, a yakuza?"
+msgstr "Un Momento, ¿Me estás intimidando para que cambie mi voto?\\r\n¿Qué se cree Numai, un miembro de la Yakuza?"
 
+#. y4:line_status=translated
 msgctxt "120_Saejima"
 msgid "(Well, fuck me. Came to listen after all.)"
 msgstr "(Maldición... Al final sí vino a escuchar)."
+

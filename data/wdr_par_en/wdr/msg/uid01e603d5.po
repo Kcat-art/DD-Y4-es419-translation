@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61452\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01E603D5
 #. y4:runtime_group_count=3
@@ -24,22 +26,25 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01E603D5 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2300"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "2304"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "176_Tanimura"
 msgid "(Okay, so that's the arcade... Isn't Bridge's syndicate supposed to be somewhere around here?)"
 msgstr "(Ok, así que este es el arcade... ¿No se supone que el sindicato de Bridge debería estar por aquí?)"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -47,18 +52,22 @@ msgctxt "188_Tanimura"
 msgid "(Should I go in?)"
 msgstr "(¿Deberia entrar?)"
 
+#. y4:line_status=translated
 msgctxt "200_Tanimura"
 msgid "(It might get rough in there. I need to be ready for this.)"
 msgstr "(Podría llegar a ponerse feo. Necesito prepararme para esto.)"
 
+#. y4:line_status=translated
 msgctxt "212_Tanimura"
 msgid "(Okay, I'm going in.)"
 msgstr "(Vale, voy a pasar.)"
 
+#. y4:line_status=translated
 msgctxt "236_Tanimura"
 msgid "(Behind the arcade... Bridge's syndicate should have an office around there.)"
 msgstr "(Detrás del arcade... El sindicato de Bridge debería tener una oficina aquí.)"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -66,22 +75,27 @@ msgctxt "248_Tanimura"
 msgid "(Should I go in?)"
 msgstr "(¿Deberia entrar?)"
 
+#. y4:line_status=translated
 msgctxt "260_Tanimura"
 msgid "(It might get rough in there. I need to be ready for this.)"
 msgstr "(Podría llegar a ponerse feo. Necesito prepararme para esto.)"
 
+#. y4:line_status=translated
 msgctxt "272_Tanimura"
 msgid "(Okay, I'm going in.)"
 msgstr "(Vale, voy a pasar.)"
 
+#. y4:line_status=translated
 msgctxt "296_Tanimura"
 msgid "(So Yabe hid some info, huh? But without any leads, I might as well be running in circles.)"
 msgstr "(Así que Yabe ocultó algo de información, ¿eh? Pero sin pistas, podría estar corriendo en círculos.)"
 
+#. y4:line_status=translated
 msgctxt "308_Tanimura"
 msgid "(There is that greedy old fortune teller... Guess I gotta rely on her again.)"
 msgstr "(Está esa vieja adivina tan codiciosa... Supongo que tengo que confiar en ella de nuevo)"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -92,6 +106,7 @@ msgctxt "320_Tanimura"
 msgid "I should prepare first."
 msgstr "Deberia organizarme primero."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -102,6 +117,7 @@ msgctxt "332_Tanimura"
 msgid "I'm going in."
 msgstr "Voy a pasar."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -112,6 +128,7 @@ msgctxt "344_Tanimura"
 msgid "I should prepare first."
 msgstr "Deberia organizarme primero."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -121,3 +138,4 @@ msgstr "Deberia organizarme primero."
 msgctxt "356_Tanimura"
 msgid "I'm going in."
 msgstr "Voy a pasar."
+

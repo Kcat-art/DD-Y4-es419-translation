@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61662\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01020231
 #. y4:runtime_group_count=3
@@ -24,32 +26,38 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_OKI_PRISON01.bin
 #. y4:runtime_play_command=y4.play_msg 01020231 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1108"
 msgid "Prison Guards"
 msgstr "Guardia de la Cárcel"
 
+#. y4:line_status=translated
 msgctxt "1112"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1116"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "88_Prison Guards"
 msgid "What are you guys doing!?"
 msgstr "¡¿Qué están haciendo?!"
 
+#. y4:line_status=translated
 msgctxt "112_Prison Guards"
 msgid "What are you guys doing!?"
 msgstr "¡¿Qué están haciendo?!"
 
+#. y4:line_status=translated
 msgctxt "136_Saejima"
 msgid "(Better get this done before the guards come.)"
 msgstr "(Mejor terminemos esto antes de que lleguen los guardias.)"
+

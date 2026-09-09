@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61724\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00A401FF
 #. y4:runtime_group_count=3
@@ -24,68 +26,78 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00A401FF <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1952"
 msgid "Drunkard"
 msgstr "Borracho"
 
+#. y4:line_status=translated
 msgctxt "1956"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1960"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "1964"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "1968"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "1972"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "100_Drunkard"
-msgid "Watch where you're going, the both of you...\\r\n"
-"And stop spinning around like that!"
-msgstr "¡Miren por donde van ustedes dos...\\r\n"
-"y dejen de dar vueltas así!"
+msgid "Watch where you're going, the both of you...\\r\nAnd stop spinning around like that!"
+msgstr "¡Miren por donde van ustedes dos...\\r\ny dejen de dar vueltas así!"
 
+#. y4:line_status=translated
 msgctxt "112_Drunkard"
 msgid "Sheesh, this is why I hate punks. If they're not chasing down women, they're running around bumping into people!"
 msgstr "Agh, por esto odio a los vándalos. ¡Si no están persiguiendo mujeres, van por ahí chocándose con la gente!"
 
+#. y4:line_status=translated
 msgctxt "124_Saejima"
 msgid "You saw some punks chasin' a woman?"
 msgstr "¿Has visto a unos tipos perseguir a una mujer?"
 
+#. y4:line_status=translated
 msgctxt "136_Drunkard"
-msgid "I dunno, I just figured her for a dine-n'-dasher.\\r\n"
-"They kept yelling for their money back."
-msgstr "No lo sé, Pensé que la señorita se había escapado de un restaurante después de no pagar.\\r\n"
-"No paraban de gritarle pidiendo que les devolviera el dinero."
+msgid "I dunno, I just figured her for a dine-n'-dasher.\\r\nThey kept yelling for their money back."
+msgstr "No lo sé, Pensé que la señorita se había escapado de un restaurante después de no pagar.\\r\nNo paraban de gritarle pidiendo que les devolviera el dinero."
 
+#. y4:line_status=translated
 msgctxt "148_Saejima"
 msgid "So this wasn't a young lady in a black jacket?"
 msgstr "¿Esta señorita llevaba una chaqueta negra?"
 
+#. y4:line_status=translated
 msgctxt "160_Drunkard"
 msgid "Purple, maybe? And she wasn't what I'd call young, either."
 msgstr "Quizás era morada. Y yo no diría que fuera una señorita, sino una señora."
 
+#. y4:line_status=translated
 msgctxt "172_Saejima"
 msgid "(Doesn't sound like Makiko. I gotta find her, and fast.)"
 msgstr "(No parece ser Makiko. Tengo que encontrarla, y rápido.)"
 
+#. y4:line_status=translated
 msgctxt "196_Drunkard"
 msgid "What now? Aren't you done interrogating me?"
 msgstr "¿Y ahora qué? ¿Ya terminaste tu entrevista?"
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58718\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0009059C
 #. y4:runtime_group_count=2
@@ -24,54 +26,58 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 0009059C <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1100"
 msgid "Chatty Guy"
 msgstr "Tipo Hablador"
 
+#. y4:line_status=translated
 msgctxt "1104"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1108"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 msgctxt "1112"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "1116"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:line_status=translated
 msgctxt "84_Chatty Guy"
-msgid "Hey, pal, you hear some shit's going down with the loan shark\\r\n"
-"who lives here?"
-msgstr "Oye, amigo, ¿has oído que hay problemas con el prestamista\\r\n"
-"que vive aquí?"
+msgid "Hey, pal, you hear some shit's going down with the loan shark\\r\nwho lives here?"
+msgstr "Oye, amigo, ¿has oído que hay problemas con el prestamista\\r\nque vive aquí?"
 
+#. y4:line_status=translated
 msgctxt "96_Kiryu"
 msgid "I didn't even know there <Italic>was</Italic> a loan shark here."
 msgstr "Ni siquiera sabía que <Italic>había</Italic> un prestamista aquí."
 
+#. y4:line_status=translated
 msgctxt "108_Chatty Guy"
-msgid "Oh yeah, up on the top floor. Sounds like the cops are\\r\n"
-"finally cracking down on him, though."
-msgstr "Ah, sí, arriba, en el último piso. Parece que al fin le cayó\\r\n"
-"la ley."
+msgid "Oh yeah, up on the top floor. Sounds like the cops are\\r\nfinally cracking down on him, though."
+msgstr "Ah, sí, arriba, en el último piso. Parece que al fin le cayó\\r\nla ley."
 
+#. y4:line_status=translated
 msgctxt "120_Kiryu"
 msgid "Why, what did he do?"
 msgstr "¿Por qué? ¿Qué hizo?"
 
+#. y4:line_status=translated
 msgctxt "132_Chatty Guy"
-msgid "Dunno! I bet it was something nice and meaty, though. They\\r\n"
-"were carrying out tons of stuff from his place!"
-msgstr "Pues, no estoy muy seguro, pero vi que estaban sacando un\\r\n"
-"montón de cosas del local. ¡Seguro que hicieron algo turbio!"
+msgid "Dunno! I bet it was something nice and meaty, though. They\\r\nwere carrying out tons of stuff from his place!"
+msgstr "Pues, no estoy muy seguro, pero vi que estaban sacando un\\r\nmontón de cosas del local. ¡Seguro que hicieron algo turbio!"
+

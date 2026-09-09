@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60198\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00E601F5
 #. y4:runtime_group_count=3
@@ -24,58 +26,65 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E601F5 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1840"
 msgid "Tadashi"
 msgstr "Tadashi"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1844"
 msgid "Hoodlum"
 msgstr "Hoodlum"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1848"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "1852"
 msgid "M_cld_stand_tlk_kamae"
 msgstr "M_cld_stand_tlk_kamae"
 
+#. y4:line_status=translated
 msgctxt "1856"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "100_Tadashi"
 msgid "Yow!"
 msgstr "¡Auch!"
 
+#. y4:line_status=translated
 msgctxt "112_Hoodlum"
-msgid "I'm getting real sick of your loud mouth, squirt.\\r\n"
-"I told you, I don't know no Akiko. Now scram!"
-msgstr "Me estoy hartando de tu griterío, bastardo.\n"
-"Ya te dije, no conozco a ninguna Akiko ¡Ahora lárgate!"
+msgid "I'm getting real sick of your loud mouth, squirt.\\r\nI told you, I don't know no Akiko. Now scram!"
+msgstr "Me estoy hartando de tu griterío, bastardo.\nYa te dije, no conozco a ninguna Akiko ¡Ahora lárgate!"
 
+#. y4:line_status=translated
 msgctxt "124_Tadashi"
 msgid "I hate you... I hate all of you!"
 msgstr "Te odio... ¡Los odio a todos!"
 
+#. y4:line_status=translated
 msgctxt "148_Saejima"
 msgid "Hey, now. Why don't ya pick on someone your own size?"
 msgstr "Oye. ¿Por qué no te metes con alguien de tu tamaño?"
 
+#. y4:line_status=translated
 msgctxt "160_Hoodlum"
 msgid "Like you? If you got a problem, old timer, I'm all ears!"
 msgstr "¿Y quién, tú? Si tienes un problema viejo, ¡soy todo oídos!"
 
+#. y4:line_status=translated
 msgctxt "172_Saejima"
-msgid "Waste of breath. Some folks just can't see straight\\r\n"
-"till you knock some sense into 'em."
-msgstr "Pierdo el tiempo. Algunas personas simplemente no pueden\n"
-"ver las cosas como son, hay que hacerles entrar en razón."
+msgid "Waste of breath. Some folks just can't see straight\\r\ntill you knock some sense into 'em."
+msgstr "Pierdo el tiempo. Algunas personas simplemente no pueden\nver las cosas como son, hay que hacerles entrar en razón."
+

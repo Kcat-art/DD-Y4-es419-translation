@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61228\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0063004F
 #. y4:runtime_group_count=8
@@ -24,33 +26,37 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KARAOKE.bin
 #. y4:runtime_play_command=y4.play_msg 0063004F <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "4820"
 msgid "松岡里緒奈：源氏名"
 msgstr "松岡里緒奈：源氏名"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "4824"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=todo
 msgctxt "256_松岡里緒奈：源氏名"
 msgid "Hehe... I happen to love singing! <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "268_松岡里緒奈：源氏名"
 msgid "What should I sing? \"Summer Memories,\" or \"Shooting Star\"? <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "280_松岡里緒奈：源氏名"
-msgid "Hehe! Not bad, right? I love how you were totally getting\\r\n"
-"into it. <Color:7>♥<Color:Default>"
+msgid "Hehe! Not bad, right? I love how you were totally getting\\r\ninto it. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -58,34 +64,42 @@ msgctxt "292_松岡里緒奈：源氏名"
 msgid "You should sing something, too."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "304_Kiryu"
 msgid "Sure, why not."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "316_松岡里緒奈：源氏名"
 msgid "Ooh, I really like your Adam's apple! <Color:7>♥<Color:Default> I wonder what your singing voice sounds like. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "328_Kiryu"
 msgid "No, I'm good."
 msgstr "No, estoy bien."
 
+#. y4:line_status=todo
 msgctxt "340_松岡里緒奈：源氏名"
 msgid "Oh... Okay. I wish I could have heard you sing though."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "352_松岡里緒奈：源氏名"
 msgid "That was hard to sing... You totally bummed me out."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "364_Kiryu"
 msgid "Sorry."
 msgstr "Lo siento."
 
+#. y4:line_status=todo
 msgctxt "376_松岡里緒奈：源氏名"
 msgid "That was awesome! You really know how to cheer a girl on! <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -93,46 +107,57 @@ msgctxt "388_松岡里緒奈：源氏名"
 msgid "You should sing something, too."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "400_Kiryu"
 msgid "Sure, why not."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "412_松岡里緒奈：源氏名"
 msgid "Ooh, I really like your Adam's apple! <Color:7>♥<Color:Default> I wonder what your singing voice sounds like. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "424_Kiryu"
 msgid "No, I'm good."
 msgstr "No, estoy bien."
 
+#. y4:line_status=todo
 msgctxt "436_松岡里緒奈：源氏名"
 msgid "Oh... Okay. I wish I could have heard you sing though."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "448_松岡里緒奈：源氏名"
 msgid "Wow, I'm impressed!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "460_Kiryu"
 msgid "Heh, oh yeah?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "472_松岡里緒奈：源氏名"
 msgid "Oh, are you done? I haven't picked a song yet. Hmm... What should I sing?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "484_Kiryu"
 msgid "Oh..."
 msgstr "Oh..."
 
+#. y4:line_status=todo
 msgctxt "496_松岡里緒奈：源氏名"
 msgid "You've got a really hot voice! I could listen to you forever. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "508_Kiryu"
 msgid "Oh yeah? Thanks."
 msgstr "¿Ah, sí? Gracias."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -143,6 +168,7 @@ msgctxt "520_松岡里緒奈：源氏名"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -153,6 +179,7 @@ msgctxt "532_松岡里緒奈：源氏名"
 msgid "Not me."
 msgstr "Yo no."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -163,6 +190,7 @@ msgctxt "544_松岡里緒奈：源氏名"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -172,3 +200,4 @@ msgstr "Claro."
 msgctxt "556_松岡里緒奈：源氏名"
 msgid "Not me."
 msgstr "Yo no."
+

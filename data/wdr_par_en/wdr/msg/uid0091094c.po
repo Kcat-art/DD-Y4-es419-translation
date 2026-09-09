@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58510\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0091094C
 #. y4:runtime_group_count=2
@@ -24,82 +26,100 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 0091094C <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2472"
 msgid "Blue"
 msgstr "Azul"
 
+#. y4:line_status=translated
 msgctxt "2476"
 msgid "Talk_Udekumi_lp"
 msgstr "Talk_Udekumi_lp"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "2480"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 msgctxt "2484"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
+#. y4:line_status=translated
 msgctxt "2488"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "2492"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=todo
 #. y4:msg_role=name
 #. y4:msg_name_id=6
 msgctxt "2496"
 msgid "Man with Dark Clan"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "2500"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:line_status=todo
 msgctxt "72_Blue"
 msgid "Gah... Do not think this is the end..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "144_Kiryu"
 msgid "(So he was the Blue Dragon from that text? And Zero's brother was the Black Tortoise.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "156_Kiryu"
 msgid "(That leaves Vermillion Bird and White Tiger. Guess there must be at least two of them left. I'll have to wait for a text from them.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "216_Kiryu"
 msgid "Are you from the Dark Clan?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "228_Man with Dark Clan"
 msgid "Yes, from Four Emperors. Codename, Blue."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "240_Kiryu"
 msgid "Where are you from?"
 msgstr "¿De dónde eres?"
 
+#. y4:line_status=translated
 msgctxt "252_Blue"
 msgid "Hong Kong."
 msgstr "Hong Kong."
 
+#. y4:line_status=translated
 msgctxt "264_Kiryu"
 msgid "And why is it that you have to fight me?"
 msgstr "¿Y por qué tú tienes que pelear conmigo?"
 
+#. y4:line_status=translated
 msgctxt "276_Blue"
 msgid "That I know not. But in our way, so I get rid of you."
 msgstr "Eso no lo sé. Pero estás en nuestro camino, entonces me voy a deshacer de tí."
 
+#. y4:line_status=translated
 msgctxt "288_Blue"
 msgid "No more talking. I kill you now!"
 msgstr "No vamos a hablar más. ¡Voy a matarte ahora!"
+

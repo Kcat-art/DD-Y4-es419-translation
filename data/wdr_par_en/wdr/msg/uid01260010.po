@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61722\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01260010
 #. y4:runtime_group_count=1
@@ -24,264 +26,307 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01260010 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "320"
 msgid "You got a <Color:8>Photo of Akune<Color:Default>."
 msgstr "Obtuviste una <Color:8>Foto de Akune<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "380"
 msgid "You got a <Color:8>Photo of Kamei<Color:Default>."
 msgstr "Obtuviste una <Color:8>Foto de Kamei<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "440"
 msgid "You got a <Color:8>Photo of Maria<Color:Default>."
 msgstr "Obtuviste una <Color:8>Foto de María<Color:Default>."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "7124"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "7128"
 msgid "Talk_SmileBig_st"
 msgstr "Talk_SmileBig_st"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "7132"
 msgid "Scowling Homeless Man"
 msgstr "Vagabundo con el ceño fruncido"
 
+#. y4:line_status=translated
 msgctxt "7136"
 msgid "Talk_SmileBig_ed"
 msgstr "Talk_SmileBig_ed"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "7140"
 msgid "Groomed Homeless Man"
 msgstr "Vagabundo arreglado"
 
+#. y4:line_status=translated
 msgctxt "7144"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "7148"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:line_status=translated
 msgctxt "7152"
 msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=8
 msgctxt "7156"
 msgid "Distinguished Homeless Man"
 msgstr "Vagabundo distinguido"
 
+#. y4:line_status=translated
 msgctxt "7160"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
+#. y4:line_status=translated
 msgctxt "7164"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "7168"
 msgid "2d_cf_pict_target1"
 msgstr "2d_cf_pict_target1"
 
+#. y4:line_status=translated
 msgctxt "7172"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
 
+#. y4:line_status=translated
 msgctxt "7176"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
+#. y4:line_status=translated
 msgctxt "7180"
 msgid "2d_cf_pict_target2"
 msgstr "2d_cf_pict_target2"
 
+#. y4:line_status=translated
 msgctxt "7184"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "7188"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:line_status=translated
 msgctxt "7192"
 msgid "2d_cf_pict_target3"
 msgstr "2d_cf_pict_target3"
 
+#. y4:line_status=translated
 msgctxt "7196"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:line_status=translated
 msgctxt "7200"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "7204"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:line_status=translated
 msgctxt "7208"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "7212"
 msgid "SetM_old_stand_talk"
 msgstr "SetM_old_stand_talk"
 
+#. y4:line_status=translated
 msgctxt "7216"
 msgid "SetM_nml_sitgrd_agura_03"
 msgstr "SetM_nml_sitgrd_agura_03"
 
+#. y4:line_status=translated
 msgctxt "7220"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "56_Tanimura"
 msgid "(Is it... this place?)"
 msgstr "(¿Acaso es... este lugar?)"
 
+#. y4:line_status=translated
 msgctxt "68_Tanimura"
 msgid "Hey, is this the Dragon Palace?"
 msgstr "Oye, ¿es este el Palacio del Dragón?"
 
+#. y4:line_status=translated
 msgctxt "80_Scowling Homeless Man"
 msgid "Get outta here, kid."
 msgstr "Largo de aquí, chico."
 
+#. y4:line_status=translated
 msgctxt "92_Groomed Homeless Man"
 msgid "Yeah, beat it. Don't know nothin' about no Dragon Palace."
 msgstr "Sí, supéralo. No sé nada sobre ningún Palacio del Dragón."
 
+#. y4:line_status=translated
 msgctxt "104_Tanimura"
 msgid "You sure about that?"
 msgstr "¿Estás seguro?"
 
+#. y4:line_status=translated
 msgctxt "116_Groomed Homeless Man"
 msgid "Oh, I'm sure."
 msgstr "Oh, sí que lo estoy."
 
+#. y4:line_status=translated
 msgctxt "128_Tanimura"
 msgid "All right..."
 msgstr "Claro..."
 
+#. y4:line_status=translated
 msgctxt "140_Distinguished Homeless Man"
 msgid "Wait a second, young man."
 msgstr "Espera un segundo, jovencito."
 
+#. y4:line_status=translated
 msgctxt "152_Tanimura"
 msgid "Hmm?"
 msgstr "¿Mmm?"
 
+#. y4:line_status=translated
 msgctxt "164_Distinguished Homeless Man"
 msgid "Why are you looking for the Dragon Palace?"
 msgstr "¿Por qué buscas el Palacio del Dragón?"
 
+#. y4:line_status=translated
 msgctxt "176_Tanimura"
 msgid "I just have a few expenses I need to cover. Why do you ask?"
 msgstr "Solo son algunos gastos que necesito cubrir. ¿Por qué lo preguntas?"
 
+#. y4:line_status=translated
 msgctxt "188_Distinguished Homeless Man"
-msgid "I was thinking you could help me out. If you do, I'll show\\r\n"
-"you into the Dragon Palace."
-msgstr "Estaba pensando que podrías ayudarme. Si lo haces, te mostraré\\r\n"
-"el Palacio del Dragón."
+msgid "I was thinking you could help me out. If you do, I'll show\\r\nyou into the Dragon Palace."
+msgstr "Estaba pensando que podrías ayudarme. Si lo haces, te mostraré\\r\nel Palacio del Dragón."
 
+#. y4:line_status=translated
 msgctxt "200_Tanimura"
 msgid "You will?"
 msgstr "¿Lo harás?"
 
+#. y4:line_status=translated
 msgctxt "212_Groomed Homeless Man"
-msgid "Come on, boss! You're not really gonna show him, are you?\\r\n"
-"That's a trade secret!"
-msgstr "¡Vamos, jefe! Realmente no se lo vas a mostrar, ¿verdad?\\r\n"
-"¡Eso es un secreto comercial!"
+msgid "Come on, boss! You're not really gonna show him, are you?\\r\nThat's a trade secret!"
+msgstr "¡Vamos, jefe! Realmente no se lo vas a mostrar, ¿verdad?\\r\n¡Eso es un secreto comercial!"
 
+#. y4:line_status=translated
 msgctxt "224_Scowling Homeless Man"
 msgid "Yeah! And besides, I don't like the look of this kid!"
 msgstr "¡Sí! Y además, ¡no me gusta el aspecto de este niño!"
 
+#. y4:line_status=translated
 msgctxt "236_Distinguished Homeless Man"
-msgid "Now, now. Don't be like that. Besides, we do need a\\r\n"
-"little help, don't we?"
-msgstr "A ver, a ver. No seas así. Además, necesitamos un\\r\n"
-"poco de ayuda, ¿no?"
+msgid "Now, now. Don't be like that. Besides, we do need a\\r\nlittle help, don't we?"
+msgstr "A ver, a ver. No seas así. Además, necesitamos un\\r\npoco de ayuda, ¿no?"
 
+#. y4:line_status=translated
 msgctxt "248_Distinguished Homeless Man"
 msgid "The truth is, some customers ran off without paying their tabs. I'm sure a young fellow like you could catch them."
-msgstr "La verdad es que algunos clientes se fueron sin pagar sus cuentas.\\r\n"
-"Estoy seguro de que un joven como tú podría atraparlos."
+msgstr "La verdad es que algunos clientes se fueron sin pagar sus cuentas.\\r\nEstoy seguro de que un joven como tú podría atraparlos."
 
+#. y4:line_status=translated
 msgctxt "260_Tanimura"
 msgid "Do you have any idea where they could be?"
 msgstr "¿Tienes alguna idea de dónde podrían estar?"
 
+#. y4:line_status=translated
 msgctxt "284_Distinguished Homeless Man"
 msgid "I have their pictures and their descriptions right here."
 msgstr "Tengo sus fotos y sus descripciones aquí mismo."
 
+#. y4:line_status=translated
 msgctxt "308_Scowling Homeless Man"
 msgid "There's three of 'em. The first is a lawyer named Akune."
 msgstr "Hay tres de ellos. El primero es un abogado llamado Akune."
 
+#. y4:line_status=translated
 msgctxt "344_Scowling Homeless Man"
-msgid "He's a really fast runner. He slips away right when ya think\\r\n"
-"you got him."
-msgstr "Es un corredor muy rápido. Él se escapa justo cuando piensas\\r\n"
-"que ya lo has atrapado."
+msgid "He's a really fast runner. He slips away right when ya think\\r\nyou got him."
+msgstr "Es un corredor muy rápido. Él se escapa justo cuando piensas\\r\nque ya lo has atrapado."
 
+#. y4:line_status=translated
 msgctxt "356_Scowling Homeless Man"
 msgid "He's sometimes seen in the underground parking lot."
 msgstr "A veces se le ve en el estacionamiento subterráneo."
 
+#. y4:line_status=translated
 msgctxt "368_Groomed Homeless Man"
 msgid "The second is a surgeon named Kamei."
 msgstr "El segundo es un cirujano llamado Kamei."
 
+#. y4:line_status=translated
 msgctxt "404_Groomed Homeless Man"
-msgid "He may be a doctor, but he's an avid kick boxer, too.\\r\n"
-"He even beat the hell out of our buddy Nori-san the other\\r\n"
-"day."
-msgstr "Puede que sea médico, pero también es un ávido kick boxer.\\r\n"
-"Incluso le dio una paliza a nuestro amigo Nori-san, el otro\\r\n"
-"día."
+msgid "He may be a doctor, but he's an avid kick boxer, too.\\r\nHe even beat the hell out of our buddy Nori-san the other\\r\nday."
+msgstr "Puede que sea médico, pero también es un ávido kick boxer.\\r\nIncluso le dio una paliza a nuestro amigo Nori-san, el otro\\r\ndía."
 
+#. y4:line_status=translated
 msgctxt "416_Groomed Homeless Man"
 msgid "He's sometimes seen in the Champion District."
 msgstr "A veces se le ve en el Distrito Champion."
 
+#. y4:line_status=translated
 msgctxt "428_Distinguished Homeless Man"
 msgid "The third person is Maria. She owns a high-end club."
 msgstr "La tercera persona es María. Es dueña de un club de lujo."
 
+#. y4:line_status=translated
 msgctxt "464_Distinguished Homeless Man"
-msgid "She uses her vast wealth to hire a group of tough-looking\\r\n"
-"bodyguards."
-msgstr "Ella usa su vasta riqueza para contratar a un grupo de\\r\n"
-"guardaespaldas del tipo gorila."
+msgid "She uses her vast wealth to hire a group of tough-looking\\r\nbodyguards."
+msgstr "Ella usa su vasta riqueza para contratar a un grupo de\\r\nguardaespaldas del tipo gorila."
 
+#. y4:line_status=translated
 msgctxt "476_Distinguished Homeless Man"
 msgid "She's always around the Millennium Tower, but we can't get anywhere near her. That'd only get us beaten to a pulp."
-msgstr "Siempre está alrededor de la Torre Millennium, pero no podemos\\r\n"
-"acercarnos a ella. Eso solo haría llamar a la caballería."
+msgstr "Siempre está alrededor de la Torre Millennium, pero no podemos\\r\nacercarnos a ella. Eso solo haría llamar a la caballería."
 
+#. y4:line_status=translated
 msgctxt "488_Distinguished Homeless Man"
 msgid "Do you have any questions?"
 msgstr "¿Tienes alguna duda?"
 
+#. y4:line_status=translated
 msgctxt "500_Tanimura"
 msgid "No, I think I got it. Akune, Kamei, and Maria..."
 msgstr "No, creo que ya lo capto. Akune, Kamei y María..."
 
+#. y4:line_status=translated
 msgctxt "512_Distinguished Homeless Man"
 msgid "Great. We'll be waiting here for you."
 msgstr "Genial. Aquí te esperaremos."
+

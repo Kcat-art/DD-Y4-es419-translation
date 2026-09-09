@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61736\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00090520
 #. y4:runtime_group_count=1
@@ -24,48 +26,58 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00090520 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1040"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "1044"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1048"
 msgid "Client"
 msgstr "Cliente"
 
+#. y4:line_status=translated
 msgctxt "1052"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "56_Saejima"
 msgid "Phew."
 msgstr "Uf."
 
+#. y4:line_status=translated
 msgctxt "68_Saejima"
 msgid "Hey, you still kickin'?"
 msgstr "Oye, ¿sigues ahí?"
 
+#. y4:line_status=translated
 msgctxt "80_Client"
 msgid "Yes, I'm still alive..."
 msgstr "Sí, todavía estoy vivo..."
 
+#. y4:line_status=translated
 msgctxt "92_Saejima"
 msgid "Heh. You're a real survivor, y'know that?"
 msgstr "Je. Eres un verdadero superviviente, ¿lo sabías?"
 
+#. y4:line_status=translated
 msgctxt "104_Client"
 msgid "Hahaha..."
 msgstr "Ja, ja, ja..."
 
+#. y4:line_status=translated
 msgctxt "116_Saejima"
 msgid "Alright, let's hit the road."
 msgstr "Muy bien, pongámonos en marcha."
+

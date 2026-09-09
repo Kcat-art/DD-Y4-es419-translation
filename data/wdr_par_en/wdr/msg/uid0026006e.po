@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62518\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0026006E
 #. y4:runtime_group_count=2
@@ -24,57 +26,63 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 0026006E <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1472"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1476"
 msgid "Tadokoro"
 msgstr "Tadokoro"
 
+#. y4:line_status=translated
 msgctxt "1480"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "1484"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
+#. y4:line_status=translated
 msgctxt "1488"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "1492"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
 
+#. y4:line_status=translated
 msgctxt "84_Saejima"
 msgid "Looks like I kept ya waitin'. This where the job's at?"
 msgstr "Disculpa la demora. ¿Este es el lugar?"
 
+#. y4:line_status=translated
 msgctxt "96_Tadokoro"
 msgid "Ah, Suzuki-san. Here you are at last."
 msgstr "Ah, Suzuki-san. Por fin ha llegado."
 
+#. y4:line_status=translated
 msgctxt "108_Tadokoro"
 msgid "By the by, do you know about the Dragon Palace?"
 msgstr "A propósito, ¿conoce el Palacio del Dragón?"
 
+#. y4:line_status=translated
 msgctxt "120_Saejima"
-msgid "Not that horseshit again. I swear you guys are trying\\r\n"
-"to yank my chain."
+msgid "Not that horseshit again. I swear you guys are trying\\r\nto yank my chain."
 msgstr "¿Otra vez con eso? Pareciera que intentan tomarme el pelo."
 
+#. y4:line_status=translated
 msgctxt "132_Tadokoro"
-msgid "No, Suzuki-san, of course not. It's not a place most\\r\n"
-"people would even hear about. Allow me to show you\\r\n"
-"the Dragon Palace of Kamurocho. Please, follow me."
-msgstr "No es ese el caso, Suzuki-san. Este es el Palacio del Dragón,\n"
-"un lugar del que muy pocos han oído. Venga conmigo, le\n"
-"enseñaré de qué se trata."
+msgid "No, Suzuki-san, of course not. It's not a place most\\r\npeople would even hear about. Allow me to show you\\r\nthe Dragon Palace of Kamurocho. Please, follow me."
+msgstr "No es ese el caso, Suzuki-san. Este es el Palacio del Dragón,\nun lugar del que muy pocos han oído. Venga conmigo, le\nenseñaré de qué se trata."
+

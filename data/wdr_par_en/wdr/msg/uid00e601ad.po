@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58504\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00E601AD
 #. y4:runtime_group_count=1
@@ -24,50 +26,55 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_JIMU04.bin
 #. y4:runtime_play_command=y4.play_msg 00E601AD <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1252"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1256"
 msgid "Tadokoro"
 msgstr "Tadokoro"
 
+#. y4:line_status=translated
 msgctxt "1260"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "1264"
 msgid "Tadokoro's Apprentice"
 msgstr "Aprendiz de Tadokoro"
 
+#. y4:line_status=translated
 msgctxt "1268"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:line_status=translated
 msgctxt "56_Saejima"
 msgid "Tadokoro! I know you're in here. Show yourself!"
 msgstr "¡Tadokoro! Sé que estás aquí. ¡Muéstrate!"
 
+#. y4:line_status=translated
 msgctxt "68_Tadokoro"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "80_Tadokoro's Apprentice"
-msgid "The boss is a very busy man. But we'll gladly listen\\r\n"
-"to whatever you have to say."
-msgstr "El jefe es un hombre muy ocupado. Pero nosotros escucharemos encantadamente\\r\n"
-"a cualquier cosa que tengas que decir."
+msgid "The boss is a very busy man. But we'll gladly listen\\r\nto whatever you have to say."
+msgstr "El jefe es un hombre muy ocupado. Pero nosotros escucharemos encantadamente\\r\na cualquier cosa que tengas que decir."
 
+#. y4:line_status=translated
 msgctxt "92_Saejima"
-msgid "I already told the boys outside I ain't talkin' to chumps.\\r\n"
-"Get in my way, and you're gonna get hurt."
-msgstr "Ya les dije a los de afuera que no hablaré con recaderos.\\r\n"
-"Si te pones en mi camino, saldrás lastimado."
+msgid "I already told the boys outside I ain't talkin' to chumps.\\r\nGet in my way, and you're gonna get hurt."
+msgstr "Ya les dije a los de afuera que no hablaré con recaderos.\\r\nSi te pones en mi camino, saldrás lastimado."
+

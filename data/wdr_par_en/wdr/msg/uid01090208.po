@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58198\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01090208
 #. y4:runtime_group_count=2
@@ -24,70 +26,83 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01090208 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2456"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "2460"
 msgid "Nui"
 msgstr "Nui"
 
+#. y4:line_status=translated
 msgctxt "2464"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "2468"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "84_Tanimura"
 msgid "You can't hide there forever, you know."
 msgstr "No puedes ocultarte allí para siempre, lo sabes."
 
+#. y4:line_status=translated
 msgctxt "96_Nui"
 msgid "Yikes! You found me!"
 msgstr "¡Vaya! ¡Me encontraste!"
 
+#. y4:line_status=translated
 msgctxt "168_Tanimura"
-msgid "Look, I'm not mad at you or anything, but I need to know\\r\n"
-"why you've been tagging. Will you tell me?"
-msgstr "Mira, no estoy enojado contigo ni nada, pero necesito saber\\r\n"
-"por qué has estado pintando esas cosas. ¿Me lo dirás?"
+msgid "Look, I'm not mad at you or anything, but I need to know\\r\nwhy you've been tagging. Will you tell me?"
+msgstr "Mira, no estoy enojado contigo ni nada, pero necesito saber\\r\npor qué has estado pintando esas cosas. ¿Me lo dirás?"
 
+#. y4:line_status=translated
 msgctxt "180_Nui"
 msgid "I'm not telling anything!"
 msgstr "¡No te voy a contar nada!"
 
+#. y4:line_status=translated
 msgctxt "192_Tanimura"
 msgid "Come on, I promise I won't get you in trouble. I just want to hear your side of things."
 msgstr "Vamos, te prometo que no te meteré en problemas. Solo quiero escuchar tu versión de las cosas."
 
+#. y4:line_status=translated
 msgctxt "204_Tanimura"
 msgid "So could you wait for me in West Park for a little while?"
 msgstr "Entonces, ¿podrías esperarme un rato en el Parque Oeste?"
 
+#. y4:line_status=translated
 msgctxt "216_Tanimura"
 msgid "That okay with you?"
 msgstr "¿Te parece bien?"
 
+#. y4:line_status=translated
 msgctxt "228_Nui"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "240_Nui"
 msgid "...Whatever."
 msgstr "... Lo que sea."
 
+#. y4:line_status=translated
 msgctxt "252_Nui"
 msgid "Fine."
 msgstr "Bien."
 
+#. y4:line_status=translated
 msgctxt "288_Tanimura"
 msgid "Next is the building across from Homeland."
 msgstr "Al lado está el edificio frente a Homeland."
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60664\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00E60511
 #. y4:runtime_group_count=2
@@ -24,48 +26,52 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_BATTING.bin
 #. y4:runtime_play_command=y4.play_msg 00E60511 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1976"
 msgid "Baba"
 msgstr "Baba"
 
+#. y4:line_status=translated
 msgctxt "1980"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=translated
 msgctxt "1984"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "1988"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "1992"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 msgctxt "1996"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "116_Baba"
-msgid "Hahaha! Well? Looks like this is one curveball you can't\\r\n"
-"hit."
-msgstr "¡Jajaja! ¿Y bien? Parece que esta es una bola curva que no\\r\n"
-"puedes golpear."
+msgid "Hahaha! Well? Looks like this is one curveball you can't\\r\nhit."
+msgstr "¡Jajaja! ¿Y bien? Parece que esta es una bola curva que no\\r\npuedes golpear."
 
+#. y4:line_status=translated
 msgctxt "128_Baba"
-msgid "What's wrong? Can't handle the bitter taste of defeat? Try\\r\n"
-"again if you want. I'll still beat you, hahaha!"
-msgstr "¿Qué pasa? ¿No puedes con el amargo sabor de la derrota? Intentalo\\r\n"
-"de nuevo si quieres. Te seguiré ganando, ¡jajaja!"
+msgid "What's wrong? Can't handle the bitter taste of defeat? Try\\r\nagain if you want. I'll still beat you, hahaha!"
+msgstr "¿Qué pasa? ¿No puedes con el amargo sabor de la derrota? Intentalo\\r\nde nuevo si quieres. Te seguiré ganando, ¡jajaja!"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -73,28 +79,27 @@ msgctxt "140_Baba"
 msgid "You ready for the pain? I'll bring it if you wanna take it!"
 msgstr "¿Listo para sufrir? ¡Porque yo no me voy a contener!"
 
+#. y4:line_status=translated
 msgctxt "152_Kiryu"
 msgid "Fine, but I won't be the one hurting."
 msgstr "Vale, pero no seré yo al que le duela nada."
 
+#. y4:line_status=translated
 msgctxt "164_Baba"
-msgid "Heh, talk all you want! But all those words don't mean a\\r\n"
-"damn thing if you can't back 'em up!"
-msgstr "Je, ¡habla todo lo que quieras! Pero esas palabras no significan\\r\n"
-"nada si no puedes respaldarlas!"
+msgid "Heh, talk all you want! But all those words don't mean a\\r\ndamn thing if you can't back 'em up!"
+msgstr "Je, ¡habla todo lo que quieras! Pero esas palabras no significan\\r\nnada si no puedes respaldarlas!"
 
+#. y4:line_status=translated
 msgctxt "188_Kiryu"
 msgid "I think I'm good."
 msgstr "Creo que estoy bien."
 
+#. y4:line_status=translated
 msgctxt "200_Baba"
-msgid "Heh, the only thing you are is a sore loser! Oh well, just\\r\n"
-"let me know if you're ever up for the challenge. Not that\\r\n"
-"the outcome'll be any different."
-msgstr "Je, ¡lo único que eres es un perdedor resentido! Oh bueno,\\r\n"
-"hazmelo saber si estás listo para el desafío. No es que el\\r\n"
-"resultado vaya a ser diferente."
+msgid "Heh, the only thing you are is a sore loser! Oh well, just\\r\nlet me know if you're ever up for the challenge. Not that\\r\nthe outcome'll be any different."
+msgstr "Je, ¡lo único que eres es un perdedor resentido! Oh bueno,\\r\nhazmelo saber si estás listo para el desafío. No es que el\\r\nresultado vaya a ser diferente."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -105,6 +110,7 @@ msgctxt "212_Baba"
 msgid "Challenge Baba"
 msgstr "Desafía a Baba"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -114,3 +120,4 @@ msgstr "Desafía a Baba"
 msgctxt "224_Baba"
 msgid "Not Now"
 msgstr "Ahora no"
+

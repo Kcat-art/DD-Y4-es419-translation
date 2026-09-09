@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62350\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=010205B6
 #. y4:runtime_group_count=2
@@ -24,18 +26,21 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 010205B6 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "744"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "72_Tanimura"
 msgid "(Mishima's supposed to be hiding in a warehouse on the docks. Getting there by cab would draw the least attention.)"
 msgstr "(Dicen que Mishima está en un almacén del muelle. Tomemos un taxi.)"
 
+#. y4:line_status=translated
 msgctxt "96_Tanimura"
 msgid "(Huh... So Sky Finance was here all along...)"
 msgstr "(¿Así que aquí está Sky Finance...?)."
+

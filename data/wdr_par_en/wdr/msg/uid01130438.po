@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60598\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01130438
 #. y4:runtime_group_count=1
@@ -24,144 +26,176 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_DOJO_IKUSEI.bin
 #. y4:runtime_play_command=y4.play_msg 01130438 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "9408"
 msgid "Sodachi"
 msgstr "Sodachi"
 
+#. y4:line_status=translated
 msgctxt "9412"
 msgid "M_nml_stand"
 msgstr "M_nml_stand"
 
+#. y4:line_status=translated
 msgctxt "9416"
 msgid "M_big_stand"
 msgstr "M_big_stand"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "9420"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "9424"
 msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
+#. y4:line_status=translated
 msgctxt "9428"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=todo
 #. y4:msg_role=name
 #. y4:msg_name_id=6
 msgctxt "9432"
 msgid "Tokita"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "9436"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:line_status=translated
 msgctxt "9440"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=9
 msgctxt "9444"
 msgid "Watanabe"
 msgstr "Watanabe"
 
+#. y4:line_status=translated
 msgctxt "9448"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "9452"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "9456"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
+#. y4:line_status=translated
 msgctxt "9460"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "9464"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "9468"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "9472"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "9476"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=todo
 msgctxt "176_Sodachi"
 msgid "I tell you, it's wonderful to see the apprentices training together. It's just beautiful."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "188_Saejima"
 msgid "Yeah. It is."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "200_Sodachi"
 msgid "Hehe. If they kept just practicing amongst themselves, I wouldn't have to do a thing!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "212_Sodachi"
 msgid "Heheheheh..."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "224_Saejima"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=todo
 msgctxt "236_Tokita"
 msgid "Give me a break!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "248_Saejima"
 msgid "Hm? What's the matter?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "260_Tokita"
 msgid "This guy isn't even trying. Hmph! You'd better stop treating me like some idiot!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "272_Watanabe"
 msgid "But, that's not what I'm doing..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "284_Tokita"
 msgid "I've had enough! I don't want to see your face anymore!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "296_Tokita"
 msgid "This just makes me sick... I'm going home!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "320_Sodachi"
 msgid "Wow, looks like you pissed off Tokita-kun pretty good."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "332_Watanabe"
 msgid "But I didn't mean to... I just wanted Tokita-san to enjoy his sparring..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "344_Sodachi"
 msgid "So, you took it easy on him?"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -169,86 +203,107 @@ msgctxt "356_Watanabe"
 msgid "Yeah... I thought it was a good idea. I was just trying to be nice. I don't understand what happened."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "368_Saejima"
 msgid "Hmph. 'Course he's angry. Tokita was tryin' to have a serious match with you. And ya sold him short."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "380_Watanabe"
 msgid "...!"
 msgstr "¡...!"
 
+#. y4:line_status=todo
 msgctxt "392_Saejima"
 msgid "Makin' someone look good ain't always gonna go over well with 'em. You should remember that."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "404_Watanabe"
 msgid "I understand..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "416_Watanabe"
 msgid "I thought it would be good for him, but I guess I wasn't really thinking about his feelings."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "428_Saejima"
 msgid "(Looks like he figured out his mistake. Guess it was a good talk.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "440_Saejima"
 msgid "You're a nice guy. But that didn't work for ya this time."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "452_Watanabe"
 msgid "I'll never forgive myself for this. But what did I do wrong?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "464_Watanabe"
 msgid "How am I supposed to act around Tokita-san from now on?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "476_Saejima"
 msgid "(Maybe I shoulda been more clear... Seems like he's even more depressed than before.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "488_Saejima"
 msgid "That ain't kindness."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "500_Watanabe"
 msgid "What do you mean!?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "512_Saejima"
 msgid "If ya wanna be kind, you gotta take the feelin's of others into consideration."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "524_Saejima"
 msgid "Did ya even think about why Tokita wanted to fight ya?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "536_Watanabe"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=todo
 msgctxt "548_Saejima"
 msgid "He wanted to have a serious match with ya. But you didn't take 'im seriously. Ya just took it easy on 'im."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "560_Saejima"
 msgid "Hmph. 'Course he's angry."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "572_Watanabe"
 msgid "I see... I just forced my own definition of \"kindness\" on him without thinking about his feelings."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "584_Watanabe"
 msgid "Maybe I've been running away from having to face people. I'm going to go apologize to Tokita-san!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "596_Saejima"
 msgid "(Good. Looks like he's realized his mistake.)"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -259,6 +314,7 @@ msgctxt "680_Sodachi"
 msgid "Of course he's angry."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -269,6 +325,7 @@ msgctxt "692_Sodachi"
 msgid "You're a nice guy."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -278,3 +335,4 @@ msgstr ""
 msgctxt "704_Sodachi"
 msgid "That ain't kindness."
 msgstr ""
+

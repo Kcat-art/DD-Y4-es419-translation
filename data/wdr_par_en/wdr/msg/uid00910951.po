@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62900\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00910951
 #. y4:runtime_group_count=1
@@ -24,106 +26,130 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_ROOF01.bin
 #. y4:runtime_play_command=y4.play_msg 00910951 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2176"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=todo
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "2180"
 msgid "Man with Dark Clan"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "2184"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "2188"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "2192"
 msgid "Blanc"
 msgstr "Blanc"
 
+#. y4:line_status=translated
 msgctxt "2196"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
+#. y4:line_status=translated
 msgctxt "2200"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
+#. y4:line_status=translated
 msgctxt "2204"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
+#. y4:line_status=translated
 msgctxt "2208"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "2212"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
+#. y4:line_status=translated
 msgctxt "2216"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:line_status=translated
 msgctxt "2220"
 msgid "Talk_Kosite_ed"
 msgstr "Talk_Kosite_ed"
 
+#. y4:line_status=todo
 msgctxt "56_Kiryu"
 msgid "You're one of the Dark Clan?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "68_Man with Dark Clan"
 msgid "My name is Blanc. You are Kiryu?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "80_Kiryu"
 msgid "Right. And I'm guessing you're not Japanese?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "92_Blanc"
 msgid "Korean."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "104_Kiryu"
 msgid "Korean, huh? A while back, I had some trouble with a group called the Jingweon Mafia. You from the mafia, too?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "116_Blanc"
 msgid "Not anymore. In Japan, mafia is weak. Dark Clan is better."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "128_Kiryu"
 msgid "Who's giving you your orders?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "140_Blanc"
 msgid "Can not tell. But you, die. Is your fate."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "152_Kiryu"
 msgid "What do I have to do with anything?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "164_Blanc"
 msgid "Power balance not good when you are here. Not good for Kamurocho. So they call me."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "176_Kiryu"
 msgid "Balance? What balance?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "188_Blanc"
 msgid "You die, balance is okay."
 msgstr ""
+

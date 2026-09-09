@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59708\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01A40007
 #. y4:runtime_group_count=2
@@ -24,158 +26,179 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01A40007 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "4952"
 msgid "Suited Goon"
 msgstr "Matón Trajeado"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "4956"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "4960"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "4964"
 msgid "?"
 msgstr "¿?"
 
+#. y4:line_status=translated
 msgctxt "4968"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=5
 msgctxt "4972"
 msgid "Shine Scout"
 msgstr "Scout del Shine"
 
+#. y4:line_status=translated
 msgctxt "4976"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "4980"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:line_status=translated
 msgctxt "4984"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "4988"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "4992"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=11
 msgctxt "4996"
 msgid "Suited Thug"
 msgstr "Matón Trajeado"
 
+#. y4:line_status=translated
 msgctxt "5000"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:line_status=translated
 msgctxt "72_Suited Goon"
 msgid "Urk... Dammit!"
 msgstr "Uf... ¡Maldita sea!"
 
+#. y4:line_status=translated
 msgctxt "84_Saejima"
-msgid "I dunno fuck-all 'bout no woman. Ya wanna find her?\\r\n"
-"Then start lookin', assholes."
-msgstr "No tengo ni la más puta idea de esa mujer. ¿La quieren \\r\n"
-"encontrar? Entonces empiecen a buscar, idiotas."
+msgid "I dunno fuck-all 'bout no woman. Ya wanna find her?\\r\nThen start lookin', assholes."
+msgstr "No tengo ni la más puta idea de esa mujer. ¿La quieren \\r\nencontrar? Entonces empiecen a buscar, idiotas."
 
+#. y4:line_status=translated
 msgctxt "132_Saejima"
 msgid "(Saori's gotten herself into some serious shit.)"
 msgstr "(Saori se metió en algo muy turbio.)"
 
+#. y4:line_status=translated
 msgctxt "144_?"
 msgid "Er, 'scuse me..."
 msgstr "Eh, disculpe..."
 
+#. y4:line_status=translated
 msgctxt "156_Saejima"
 msgid "Whaddya want?"
 msgstr "¿Qué pasa?"
 
+#. y4:line_status=translated
 msgctxt "168_Shine Scout"
 msgid "I work as a scout for Shine, a hostess club on Pink Street."
 msgstr "Trabajo como scout para el Shine, un club de hostess en Pink Street."
 
+#. y4:line_status=translated
 msgctxt "180_Saejima"
-msgid "None of that made a damn lick of sense. Let's walk it back\\r\n"
-"and start over at \"scout,\" yeah?"
+msgid "None of that made a damn lick of sense. Let's walk it back\\r\nand start over at \"scout,\" yeah?"
 msgstr "No entendí nada. Vamos paso a paso… empieza otra vez desde ‘scout’, ¿sí? "
 
+#. y4:line_status=translated
 msgctxt "192_Shine Scout"
 msgid "Huh? Oh. A scout's, uh... like a doorman, I guess?"
 msgstr "¿Eh? Oh. Un scout es... eh... ¿como un portero, supongo?"
 
+#. y4:line_status=translated
 msgctxt "204_Saejima"
-msgid "Oh, a doorman. Shoulda said so in the first place.\\r\n"
-"So what's goin' on?"
-msgstr "Ah, un portero. Deberías haber empezado por ahí.\\r\n"
-"Bueno, ¿qué es lo que pasa?"
+msgid "Oh, a doorman. Shoulda said so in the first place.\\r\nSo what's goin' on?"
+msgstr "Ah, un portero. Deberías haber empezado por ahí.\\r\nBueno, ¿qué es lo que pasa?"
 
+#. y4:line_status=translated
 msgctxt "216_Shine Scout"
-msgid "You know those men in black you just fought off?\\r\n"
-"There are some lurking around our club, too."
-msgstr "¿Sabes esos hombres de negro con los que acabas de pelear?\\r \n"
-"Hay algunos que tambien dan vueltas por nuestro club."
+msgid "You know those men in black you just fought off?\\r\nThere are some lurking around our club, too."
+msgstr "¿Sabes esos hombres de negro con los que acabas de pelear?\\r \nHay algunos que tambien dan vueltas por nuestro club."
 
+#. y4:line_status=translated
 msgctxt "228_Saejima"
 msgid "And?"
 msgstr "¿Y? ¿Qué más?"
 
+#. y4:line_status=translated
 msgctxt "240_Shine Scout"
 msgid "I was just wondering if you happened to know who they are...?"
 msgstr "Me preguntaba si sabías quiénes eran..."
 
+#. y4:line_status=translated
 msgctxt "252_Saejima"
 msgid "Nope. Sorry."
 msgstr "No. Lo siento."
 
+#. y4:line_status=translated
 msgctxt "264_Shine Scout"
 msgid "Oh, all right. I suppose I'll have to alert the police, then."
 msgstr "Oh, bueno. Supongo que tendré que informar a la polícia."
 
+#. y4:line_status=translated
 msgctxt "276_Shine Scout"
-msgid "With those creeps hanging around, our guests don't feel safe.\\r\n"
-"We're losing business, and fast."
+msgid "With those creeps hanging around, our guests don't feel safe.\\r\nWe're losing business, and fast."
 msgstr "Con esos tipos rondando el lugar, nuestros clientes no se sienten seguros. Estamos perdiendo negocio, y rápido."
 
+#. y4:line_status=translated
 msgctxt "288_Shine Scout"
-msgid "It's fine, though. If you don't know, you don't know.\\r\n"
-"Thanks anyway, and sorry to have bothered you!"
-msgstr "Pero está bien. Si no lo sabes, no pasa nada.\n"
-"Gracias igual, ¡y disculpa que te haya molestado!"
+msgid "It's fine, though. If you don't know, you don't know.\\r\nThanks anyway, and sorry to have bothered you!"
+msgstr "Pero está bien. Si no lo sabes, no pasa nada.\nGracias igual, ¡y disculpa que te haya molestado!"
 
+#. y4:line_status=translated
 msgctxt "312_Saejima"
 msgid "(So those suits have some buddies over on Pink Street, huh?)"
 msgstr "(Así que los trajeados tienen amiguitos en Pink Street, eh?)"
 
+#. y4:line_status=translated
 msgctxt "348_Suited Goon"
 msgid "You... You're the one who helped that woman escape."
 msgstr "Tú... tú eres el que ayudó a escapar a esa mujer."
 
+#. y4:line_status=translated
 msgctxt "360_Saejima"
 msgid "What gives?"
 msgstr "¿Si, y qué?"
 
+#. y4:line_status=translated
 msgctxt "372_Suited Thug"
-msgid "Where'd she go? You'll tell us, all right,\\r\n"
-"even if we have to beat it out of you!"
-msgstr "¿A dónde fue? ¡Nos lo vas a decir por las buenas\\r \n"
-"o ya te puedes preparar para las malas!"
+msgid "Where'd she go? You'll tell us, all right,\\r\neven if we have to beat it out of you!"
+msgstr "¿A dónde fue? ¡Nos lo vas a decir por las buenas\\r \no ya te puedes preparar para las malas!"
+

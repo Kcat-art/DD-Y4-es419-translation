@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58518\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00260185
 #. y4:runtime_group_count=1
@@ -24,101 +26,110 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00260185 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "3048"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "3052"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "3056"
 msgid "Suspect"
 msgstr "Sospechoso"
 
+#. y4:line_status=translated
 msgctxt "3060"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "3064"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "3068"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=6
 msgctxt "3072"
 msgid "Culprit"
 msgstr "Culpable"
 
+#. y4:line_status=translated
 msgctxt "3076"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:line_status=translated
 msgctxt "3080"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:line_status=translated
 msgctxt "56_Tanimura"
 msgid "Hey, you."
 msgstr "Oye, tú."
 
+#. y4:line_status=translated
 msgctxt "68_Suspect"
 msgid "Huh? Whaddya want?"
 msgstr "¿Eh? ¿Qué quieres?"
 
+#. y4:line_status=translated
 msgctxt "80_Tanimura"
-msgid "I'm with the police. You were involved in a robbery,\\r\n"
-"weren't you? I'm placing you under arrest."
-msgstr "Estoy con la policía. Estuviste involucrado en un robo,\\r\n"
-"¿No es así? Te pondré bajo arresto."
+msgid "I'm with the police. You were involved in a robbery,\\r\nweren't you? I'm placing you under arrest."
+msgstr "Estoy con la policía. Estuviste involucrado en un robo,\\r\n¿No es así? Te pondré bajo arresto."
 
+#. y4:line_status=translated
 msgctxt "92_Suspect"
-msgid "Whaaaat? Me? You must be mistaken, officer－I haven't robbed\\r\n"
-"a soul. Just look at these innocent eyes!"
-msgstr "¿Qué? ¿Yo? Debe estar equivocado, oficial. Yo no he robado\\r\n"
-"ni a un alma. ¡Solo mira estos ojos inocentes!"
+msgid "Whaaaat? Me? You must be mistaken, officer－I haven't robbed\\r\na soul. Just look at these innocent eyes!"
+msgstr "¿Qué? ¿Yo? Debe estar equivocado, oficial. Yo no he robado\\r\nni a un alma. ¡Solo mira estos ojos inocentes!"
 
+#. y4:line_status=translated
 msgctxt "104_Tanimura"
 msgid "(He's denying it, but his face and jacket are exactly what the artist described. Maybe I should press him a little further.)"
-msgstr "(Él lo niega, pero su cara y su chaqueta son exactamente lo que el artista\\r\n"
-"describió. Tal vez debería presionarlo un poco más)."
+msgstr "(Él lo niega, pero su cara y su chaqueta son exactamente lo que el artista\\r\ndescribió. Tal vez debería presionarlo un poco más)."
 
+#. y4:line_status=translated
 msgctxt "116_Tanimura"
-msgid "Yeah? Then if what you're saying is true, show me what's\\r\n"
-"inside that jacket."
-msgstr "¿Sí? Entonces, si lo que estás diciendo es cierto, muéstrame lo que hay\\r\n"
-"dentro de tu chaqueta."
+msgid "Yeah? Then if what you're saying is true, show me what's\\r\ninside that jacket."
+msgstr "¿Sí? Entonces, si lo que estás diciendo es cierto, muéstrame lo que hay\\r\ndentro de tu chaqueta."
 
+#. y4:line_status=translated
 msgctxt "128_Tanimura"
 msgid "Shouldn't be a big deal... Unless, of course, you have done something suspicious."
-msgstr "No debería ser un gran problema... A menos, por supuesto, que hayas hecho\\r\n"
-"algo sospechoso."
+msgstr "No debería ser un gran problema... A menos, por supuesto, que hayas hecho\\r\nalgo sospechoso."
 
+#. y4:line_status=translated
 msgctxt "140_Suspect"
 msgid "You... wanna peek inside the jacket, huh..."
 msgstr "Tú... Quiero echar un vistazo dentro de mi chaqueta, eh..."
 
+#. y4:line_status=translated
 msgctxt "152_Culprit"
 msgid "Dammit! How'd you know it was me!? I was sure nobody saw my face..."
 msgstr "¡Maldita sea! ¡¿Cómo supiste que era yo?! Estaba seguro de que nadie me había visto la cara..."
 
+#. y4:line_status=translated
 msgctxt "164_Tanimura"
-msgid "Yeah, well, maybe you weren't as careful as you thought.\\r\n"
-"Now I suggest you come along quietly."
-msgstr "Sí, bueno, tal vez no fuiste tan cuidadoso como pensabas.\\r\n"
-"Ahora te sugiero que vengas en silencio."
+msgid "Yeah, well, maybe you weren't as careful as you thought.\\r\nNow I suggest you come along quietly."
+msgstr "Sí, bueno, tal vez no fuiste tan cuidadoso como pensabas.\\r\nAhora te sugiero que vengas en silencio."
 
+#. y4:line_status=translated
 msgctxt "176_Culprit"
 msgid "Damn... We went to all that trouble fighting the yakuza to get those weapons! No way in hell we're gonna get busted before we even use 'em!"
-msgstr "Maldito... ¡Nos tomamos la molestia de luchar contra la yakuza para conseguir\\r\n"
-"esas armas! ¡De ninguna manera nos van a arrestar antes de que las usemos!"
+msgstr "Maldito... ¡Nos tomamos la molestia de luchar contra la yakuza para conseguir\\r\nesas armas! ¡De ninguna manera nos van a arrestar antes de que las usemos!"
+

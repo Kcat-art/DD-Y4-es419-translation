@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59238\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01260180
 #. y4:runtime_group_count=1
@@ -24,44 +26,53 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01260180 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "1060"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1064"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1068"
 msgid "望月京子：源氏名"
 msgstr "望月京子：源氏名"
 
+#. y4:line_status=translated
 msgctxt "1072"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
+#. y4:line_status=translated
 msgctxt "1076"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=todo
 msgctxt "92_Kiryu"
 msgid "I got your guitar back."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "104_望月京子：源氏名"
 msgid "Really!? Oh, thank you! Can you bring it to the venue where I'm performing?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "116_望月京子：源氏名"
 msgid "There's not much time!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "128_Kiryu"
 msgid "I'll bring it right over."
 msgstr ""
+

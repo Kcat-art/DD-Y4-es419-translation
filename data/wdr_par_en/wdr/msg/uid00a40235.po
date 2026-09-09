@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58960\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00A40235
 #. y4:runtime_group_count=3
@@ -24,38 +26,44 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00A40235 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "5000"
 msgid "Man in Black"
 msgstr "Hombre de Negro"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "5004"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "5008"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "5012"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "5016"
 msgid "Takeda"
 msgstr "Takeda"
 
+#. y4:line_status=translated
 msgctxt "5020"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -63,72 +71,77 @@ msgctxt "176_Man in Black"
 msgid "Have you reconsidered, Saejima-san?"
 msgstr "¿Has cambiado de parecer, Saejima-san?"
 
+#. y4:line_status=translated
 msgctxt "188_Saejima"
 msgid "Sorry. Not interested. Find someone else."
 msgstr "Lo lamento. No me interesa. Búscate a alguien más."
 
+#. y4:line_status=translated
 msgctxt "200_Man in Black"
-msgid "I really do think you'd find this job worth your while.\\r\n"
-"I'll be here if you change your mind."
-msgstr "De verdad creo que este trabajo te viene como anillo al dedo.\\r\n"
-"Estaré por aquí si cambias de opinión."
+msgid "I really do think you'd find this job worth your while.\\r\nI'll be here if you change your mind."
+msgstr "De verdad creo que este trabajo te viene como anillo al dedo.\\r\nEstaré por aquí si cambias de opinión."
 
+#. y4:line_status=translated
 msgctxt "212_Saejima"
 msgid "I don't come cheap, y'know."
 msgstr "No salgo barato, ¿sabes?"
 
+#. y4:line_status=translated
 msgctxt "224_Man in Black"
 msgid "I understand. But I'm happy to hear you're interested."
 msgstr "Comprendo. Pero me alegra oír que estés interesado."
 
+#. y4:line_status=translated
 msgctxt "236_Takeda"
-msgid "I'm Takeda, a manager at Oyamada Talent Productions.\\r\n"
-"Let's head to our office to discuss the particulars."
-msgstr "Me llamo Takeda, soy un manager en Oyamada Talent Productions.\\r\n"
-"Acompañame a mi oficina para discutir los detalles."
+msgid "I'm Takeda, a manager at Oyamada Talent Productions.\\r\nLet's head to our office to discuss the particulars."
+msgstr "Me llamo Takeda, soy un manager en Oyamada Talent Productions.\\r\nAcompañame a mi oficina para discutir los detalles."
 
+#. y4:line_status=translated
 msgctxt "284_Man in Black"
 msgid "Excuse me, are you Saejima-san?"
 msgstr "Perdona, ¿eres Saejima-san?"
 
+#. y4:line_status=translated
 msgctxt "296_Saejima"
 msgid "Who's askin'?"
 msgstr "¿Quién pregunta?"
 
+#. y4:line_status=translated
 msgctxt "308_Man in Black"
-msgid "A friend. I'm a respectable businessman, I assure you.\\r\n"
-"I've been looking for you."
-msgstr "Un amigo. Me considero un hombre de negocios respetable, eso te lo garantizo.\\r\n"
-"Llevo tiempo buscándote."
+msgid "A friend. I'm a respectable businessman, I assure you.\\r\nI've been looking for you."
+msgstr "Un amigo. Me considero un hombre de negocios respetable, eso te lo garantizo.\\r\nLlevo tiempo buscándote."
 
+#. y4:line_status=translated
 msgctxt "320_Saejima"
 msgid "How'd ya hear 'bout me, anyhow?"
 msgstr "¿Cómo supiste sobre mí?"
 
+#. y4:line_status=translated
 msgctxt "332_Man in Black"
-msgid "You can relax. I just happen to have some homeless men\\r\n"
-"in my circle of acquaintances."
-msgstr "Puedes estar relajado. Resulta que tengo a unos cuantos sin techo\\r\n"
-"en mi lista de contactos."
+msgid "You can relax. I just happen to have some homeless men\\r\nin my circle of acquaintances."
+msgstr "Puedes estar relajado. Resulta que tengo a unos cuantos sin techo\\r\nen mi lista de contactos."
 
+#. y4:line_status=translated
 msgctxt "344_Man in Black"
-msgid "I asked one if he knew anybody who could help me out,\\r\n"
-"and your name came up."
-msgstr "Le pregunté a uno si conocía a alguien que me pudiera ayudar con algo,\\r\n"
-"y surgió tu nombre."
+msgid "I asked one if he knew anybody who could help me out,\\r\nand your name came up."
+msgstr "Le pregunté a uno si conocía a alguien que me pudiera ayudar con algo,\\r\ny surgió tu nombre."
 
+#. y4:line_status=translated
 msgctxt "356_Saejima"
 msgid "Alright, then. So whaddya want?"
 msgstr "Bueno, entonces. ¿Qué es lo que quieres?"
 
+#. y4:line_status=translated
 msgctxt "368_Man in Black"
 msgid "Actually, there's a little, uh, job I'd like you to do."
 msgstr "De hecho, te tengo un pequeño, eh, trabajito con el que me gustaría que me ayudaras."
 
+#. y4:line_status=translated
 msgctxt "380_Saejima"
 msgid "A paying job?"
 msgstr "¿Y ese trabajito es remunerado?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -136,30 +149,32 @@ msgctxt "392_Man in Black"
 msgid "Yes. Can you spare a moment to hear more about it?"
 msgstr "Claro que sí. ¿Me das un momento para explicártelo más a fondo?"
 
+#. y4:line_status=translated
 msgctxt "404_Saejima"
 msgid "I don't come cheap, y'know."
 msgstr "No salgo barato, ¿sabes?"
 
+#. y4:line_status=translated
 msgctxt "416_Man in Black"
 msgid "I understand. But I'm happy to hear you're interested."
 msgstr "Comprendo. Pero me alegra oír que estés interesado."
 
+#. y4:line_status=translated
 msgctxt "428_Takeda"
-msgid "I'm Takeda, a manager at Oyamada Talent Productions.\\r\n"
-"Let's head to our office to discuss the particulars."
-msgstr "Me llamo Takeda, soy un manager en Oyamada Talent Productions.\\r\n"
-"Acompañame a mi oficina para discutir los detalles."
+msgid "I'm Takeda, a manager at Oyamada Talent Productions.\\r\nLet's head to our office to discuss the particulars."
+msgstr "Me llamo Takeda, soy un manager en Oyamada Talent Productions.\\r\nAcompañame a mi oficina para discutir los detalles."
 
+#. y4:line_status=translated
 msgctxt "452_Saejima"
 msgid "Nope."
 msgstr "No."
 
+#. y4:line_status=translated
 msgctxt "464_Man in Black"
-msgid "I'd really like to discuss this opportunity with you.\\r\n"
-"Meet me here if you happen to change your mind."
-msgstr "De verdad me encantaría discutir esta oportunidad contigo.\\r\n"
-"Estaré justo aquí por si cambias de parecer."
+msgid "I'd really like to discuss this opportunity with you.\\r\nMeet me here if you happen to change your mind."
+msgstr "De verdad me encantaría discutir esta oportunidad contigo.\\r\nEstaré justo aquí por si cambias de parecer."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -170,6 +185,7 @@ msgctxt "476_Man in Black"
 msgid "Hear Him Out"
 msgstr "Escucharlo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -180,6 +196,7 @@ msgctxt "488_Man in Black"
 msgid "Turn Him Down"
 msgstr "Rechazarlo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -190,6 +207,7 @@ msgctxt "500_Man in Black"
 msgid "Hear Him Out"
 msgstr "Escucharlo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -199,3 +217,4 @@ msgstr "Escucharlo"
 msgctxt "512_Man in Black"
 msgid "Turn Him Down"
 msgstr "Rechazarlo"
+

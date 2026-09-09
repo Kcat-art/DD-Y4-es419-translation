@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58736\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=006C0222
 #. y4:runtime_group_count=4
@@ -24,244 +26,303 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 006C0222 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "536"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:line_status=translated
 msgctxt "1064"
 msgid "Major error! No flags set for conversation selection!"
 msgstr "Major error! No flags set for conversation selection!"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "14556"
 msgid "Himeka"
 msgstr "Himeka"
 
+#. y4:line_status=translated
 msgctxt "14560"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "14564"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "14568"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "14572"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "14576"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "14580"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "14584"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 msgctxt "14588"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=todo
 msgctxt "116_Himeka"
 msgid "Hehehe! I wonder what you're gonna get me!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "128_Tanimura"
 msgid "You'll just have to wait and see."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "140_Himeka"
 msgid "This is excitin'! C'mon, let's go in!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "164_Himeka"
 msgid "Hehehe! I wonder what you're gonna get me!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "176_Tanimura"
 msgid "Uh... Hold on a second. I just realized I'm short on cash."
 msgstr "Uh... Espera un segundo. Me acabo de dar cuenta de que no tengo dinero."
 
+#. y4:line_status=translated
 msgctxt "188_Himeka"
 msgid "Huh? You're kiddin', right?"
 msgstr "¿Eh? ¿Me estás tomando el pelo?"
 
+#. y4:line_status=translated
 msgctxt "200_Tanimura"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:line_status=translated
 msgctxt "212_Himeka"
 msgid "Well, that's the end of our date for today. See ya later, Tanimura-san..."
 msgstr "Bueno, ese es el final de nuestra cita de hoy. Hasta luego, Tanimura-san..."
 
+#. y4:line_status=translated
 msgctxt "224_Tanimura"
 msgid "(I'd better remember to bring enough cash next time...)"
 msgstr "(Será mejor que recuerde llevar suficiente dinero en efectivo la próxima vez...)"
 
+#. y4:line_status=todo
 msgctxt "332_Himeka"
 msgid "Hehe. Thanks. I've been wantin' something like this... <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "344_Tanimura"
 msgid "I'm glad you liked it."
 msgstr "Me alegra que te haya gustado."
 
+#. y4:line_status=todo
 msgctxt "356_Himeka"
 msgid "It's just perfect. Thanks so much! <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "368_Himeka"
 msgid "I had a great time today! Let's do this again sometime. See ya!"
 msgstr "¡Hoy me la pasé genial! Repitamos en una siguiente ocasión. ¡Nos vemos luego!"
 
+#. y4:line_status=todo
 msgctxt "392_Himeka"
 msgid "Wow. You really want to give me this?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "404_Tanimura"
 msgid "Yeah, of course."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "416_Himeka"
 msgid "Thank you, Tanimura-san. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "428_Himeka"
 msgid "I had a great time today. See ya!"
 msgstr "Me divertí mucho. ¡Nos vemos!"
 
+#. y4:line_status=translated
 msgctxt "452_Himeka"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "464_Tanimura"
 msgid "Is something wrong?"
 msgstr "¿Pasa algo?"
 
+#. y4:line_status=todo
 msgctxt "476_Himeka"
 msgid "I... I don't think this is for me."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "488_Tanimura"
 msgid "Oh..."
 msgstr "Oh..."
 
+#. y4:line_status=todo
 msgctxt "500_Himeka"
 msgid "Well, I should get goin'. See ya at the club."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "512_Tanimura"
 msgid "(I should've put some more thought into it...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "620_Himeka"
 msgid "Hehehe! I wonder what you're gonna get me!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "632_Tanimura"
 msgid "You'll just have to wait and see."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "644_Himeka"
 msgid "This is excitin'! C'mon, let's go in!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "668_Himeka"
 msgid "Hehehe! I wonder what you're gonna get me!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "680_Tanimura"
 msgid "Uh... Hold on a second. I just realized I'm short on cash."
 msgstr "Uh... Espera un segundo. Me acabo de dar cuenta de que no tengo dinero."
 
+#. y4:line_status=translated
 msgctxt "692_Himeka"
 msgid "Huh? You're kiddin', right?"
 msgstr "¿Eh? ¿Me estás tomando el pelo?"
 
+#. y4:line_status=translated
 msgctxt "704_Tanimura"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:line_status=translated
 msgctxt "716_Himeka"
 msgid "Well, that's the end of our date for today. See ya later, Tanimura-san..."
 msgstr "Bueno, ese es el final de nuestra cita de hoy. Hasta luego, Tanimura-san..."
 
+#. y4:line_status=translated
 msgctxt "728_Tanimura"
 msgid "(I'd better remember to bring enough cash next time...)"
 msgstr "(Será mejor que recuerde llevar suficiente dinero en efectivo la próxima vez...)"
 
+#. y4:line_status=todo
 msgctxt "836_Himeka"
 msgid "Hehe. Thanks. I've been wantin' something like this. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "848_Tanimura"
 msgid "I'm glad you liked it."
 msgstr "Me alegra que te haya gustado."
 
+#. y4:line_status=todo
 msgctxt "860_Himeka"
 msgid "It's just perfect. Thanks so much! <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "872_Himeka"
 msgid "I had a great time today! Let's do this again sometime. Wanna head over to the club now?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "884_Tanimura"
 msgid "Sure. Sounds good."
 msgstr "Claro. Suena bien."
 
+#. y4:line_status=todo
 msgctxt "908_Himeka"
 msgid "Wow. You really wanna give me this?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "920_Tanimura"
 msgid "Yeah, of course."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "932_Himeka"
 msgid "Thank you, Tanimura-san. <Color:7>♥<Color:Default>"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "944_Himeka"
 msgid "I had a great time today. Wanna head over to the club now?"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "956_Tanimura"
 msgid "Sure. Sounds good."
 msgstr "Claro. Suena bien."
 
+#. y4:line_status=translated
 msgctxt "980_Himeka"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "992_Tanimura"
 msgid "Is something wrong?"
 msgstr "¿Pasa algo?"
 
+#. y4:line_status=todo
 msgctxt "1004_Himeka"
 msgid "I... I don't think this is for me."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1016_Tanimura"
 msgid "Oh..."
 msgstr "Oh..."
 
+#. y4:line_status=todo
 msgctxt "1028_Himeka"
 msgid "Let's just head over to the club."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1040_Tanimura"
 msgid "(I should've put some more thought into it...)"
 msgstr ""
+

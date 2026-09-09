@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62420\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=001301F1
 #. y4:runtime_group_count=2
@@ -24,42 +26,50 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 001301F1 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "980"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "984"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "988"
 msgid "Officer"
 msgstr "Oficial"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "992"
 msgid "Suspicious Man"
 msgstr "Hombre sospechoso"
 
+#. y4:line_status=translated
 msgctxt "84_Tanimura"
 msgid "Is there a problem here?"
 msgstr "¿Hay algún problema aquí?"
 
+#. y4:line_status=translated
 msgctxt "96_Officer"
 msgid "Yes, there is. For some reason, he won't let me see what's in his bag."
 msgstr "Sí, lo hay. Por algún motivo, no me deja ver qué hay en su bolsa."
 
+#. y4:line_status=translated
 msgctxt "108_Suspicious Man"
 msgid "I told you, there's nothing inside!"
 msgstr "¡Ya te lo dije, no hay nada dentro!"
 
+#. y4:line_status=translated
 msgctxt "120_Tanimura"
 msgid "Hey! Now hold up!"
 msgstr "¡Hey! ¡Espera!"
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61548\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00630050
 #. y4:runtime_group_count=8
@@ -24,36 +26,42 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KARAOKE.bin
 #. y4:runtime_play_command=y4.play_msg 00630050 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "4928"
 msgid "Maya"
 msgstr "Maya"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "4932"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 msgctxt "256_Maya"
 msgid "Karaoke, huh? Hehe, can't wait. <Color:7>♥<Color:Default>"
 msgstr "¿Karaoke, eh? Je, je, no puedo esperar. <Color:7>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "268_Maya"
 msgid "What should I sing? I think I'll go with \"Get to the Top\"! <Color:7>♥<Color:Default>"
 msgstr "¿Qué debería cantar? ¡Creo que optaré por \"Get to the Top\"! <Color:7>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "280_Maya"
 msgid "Hehe, that was fun! <Color:7>♥<Color:Default> I never knew you could get so lively!"
 msgstr "¡Je, je, eso fue divertido! <Color:7>♥<Color:Default> ¡Nunca supe que podías ponerte tan animado!"
 
+#. y4:line_status=translated
 msgctxt "292_Maya"
 msgid "Now let me hear you sing!"
 msgstr "¡Ahora déjame oírte cantar!"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -61,40 +69,47 @@ msgctxt "304_Maya"
 msgid "Ooh, I have the best idea! Why don't we sing a duet? <Color:7>♥<Color:Default>"
 msgstr "¡Oh, tengo una mejor idea! ¿Por qué no hacemos un dueto? <Color:7>♥<Color:Default>"
 
+#. y4:line_status=todo
 msgctxt "316_Kiryu"
 msgid "Sure, why not."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "328_Maya"
 msgid "Great! I can't wait to hear you sing. <Color:7>♥<Color:Default>"
 msgstr "¡Estupendo! Estoy deseando oírte cantar. <Color:7>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "340_Kiryu"
 msgid "Nah, not right now."
 msgstr "No, ahora no."
 
+#. y4:line_status=translated
 msgctxt "352_Maya"
 msgid "Huh? Seriously? You're no fun..."
 msgstr "¿Eh? ¿En serio? No eres divertido..."
 
+#. y4:line_status=translated
 msgctxt "364_Maya"
 msgid "That was... different."
 msgstr "Eso fue... distinto."
 
+#. y4:line_status=translated
 msgctxt "376_Kiryu"
 msgid "Sorry."
 msgstr "Lo siento."
 
+#. y4:line_status=translated
 msgctxt "388_Maya"
-msgid "That felt great. <Color:7>♥<Color:Default>\\r\n"
-"Has anyone ever told you that you have a great sense of rhythm?"
-msgstr "Eso se sintió genial. <Color:7>♥<Color:Default>\\r\n"
-"¿Alguna vez te han dicho que tienes un gran sentido del ritmo?"
+msgid "That felt great. <Color:7>♥<Color:Default>\\r\nHas anyone ever told you that you have a great sense of rhythm?"
+msgstr "Eso se sintió genial. <Color:7>♥<Color:Default>\\r\n¿Alguna vez te han dicho que tienes un gran sentido del ritmo?"
 
+#. y4:line_status=translated
 msgctxt "400_Maya"
 msgid "Now let me hear you sing!"
 msgstr "¡Ahora déjame oírte cantar!"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -102,46 +117,57 @@ msgctxt "412_Maya"
 msgid "Ooh, I have the best idea! Why don't we sing a duet? <Color:7>♥<Color:Default>"
 msgstr "¡Oh, tengo una mejor idea! ¿Por qué no hacemos un dueto? <Color:7>♥<Color:Default>"
 
+#. y4:line_status=todo
 msgctxt "424_Kiryu"
 msgid "Sure, why not."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "436_Maya"
 msgid "Great! I can't wait to hear you sing. <Color:7>♥<Color:Default>"
 msgstr "¡Estupendo! Estoy deseando oírte cantar. <Color:7>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "448_Kiryu"
 msgid "Nah, not right now."
 msgstr "No, ahora no."
 
+#. y4:line_status=translated
 msgctxt "460_Maya"
 msgid "Huh? Seriously? You're no fun..."
 msgstr "¿Eh? ¿En serio? No eres divertido..."
 
+#. y4:line_status=translated
 msgctxt "472_Maya"
 msgid "Did I manage to stay in key?"
 msgstr "¿Logré mantenerme en tono?"
 
+#. y4:line_status=translated
 msgctxt "484_Kiryu"
 msgid "Yeah, you were great."
 msgstr "Sí, estuviste genial."
 
+#. y4:line_status=translated
 msgctxt "496_Maya"
 msgid "Umm... Maybe you should try again later."
 msgstr "Bueno... Quizás deberías intentarlo de nuevo más tarde."
 
+#. y4:line_status=translated
 msgctxt "508_Kiryu"
 msgid "Sorry."
 msgstr "Lo siento."
 
+#. y4:line_status=translated
 msgctxt "520_Maya"
 msgid "We've got great harmony. <Color:7>♥<Color:Default> I think we might be perfect for each other... <Color:7>♥<Color:Default>"
 msgstr "Tenemos una gran armonía. <Color:7>♥<Color:Default> Creo que podríamos ser perfectos el uno para el otro... <Color:7>♥<Color:Default>"
 
+#. y4:line_status=todo
 msgctxt "532_Kiryu"
 msgid "Heh, oh yeah?"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -152,6 +178,7 @@ msgctxt "544_Maya"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -162,6 +189,7 @@ msgctxt "556_Maya"
 msgid "I'd rather not."
 msgstr "Preferiría no hacerlo."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -172,6 +200,7 @@ msgctxt "568_Maya"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -181,3 +210,4 @@ msgstr "Claro."
 msgctxt "580_Maya"
 msgid "I'd rather not."
 msgstr "Preferiría no hacerlo."
+

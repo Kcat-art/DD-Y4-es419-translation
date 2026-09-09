@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61440\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=010208FE
 #. y4:runtime_group_count=2
@@ -24,48 +26,58 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_ROOF02.bin
 #. y4:runtime_play_command=y4.play_msg 010208FE <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2344"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=todo
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "2348"
 msgid "Ueno Seiwa Clan Member"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "2352"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "2356"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "72_Tanimura"
 msgid "(This is taking way too long. I need to get there, now!)"
 msgstr "(He perdido demasiado tiempo. ¡Tengo que darme prisa!)"
 
+#. y4:line_status=translated
 msgctxt "144_Ueno Seiwa Clan Member"
 msgid "Ngh... Argh..."
 msgstr "Ngh... Argh..."
 
+#. y4:line_status=translated
 msgctxt "156_Tanimura"
 msgid "Sorry, but you'll have to try harder than that."
 msgstr "Lo siento, pero tendrás que echarle más ganas."
 
+#. y4:line_status=translated
 msgctxt "168_Ueno Seiwa Clan Member"
 msgid "Too many... goddamn... tackles... Think I busted a rib!"
 msgstr "Esto... no... ha terminado..."
 
+#. y4:line_status=translated
 msgctxt "192_Ueno Seiwa Clan Member"
 msgid "Heheh... Going somewhere?"
 msgstr "Je, je... ¿Adónde crees que vas?"
 
+#. y4:line_status=translated
 msgctxt "216_Tanimura"
 msgid "You people really don't give up, do you? Fine... If it's a fight you want, you got it!"
 msgstr "De verdad que no se dan por vencidos, ¿eh? Está bien... Si quieren pelea, ¡la tendrán!"
+

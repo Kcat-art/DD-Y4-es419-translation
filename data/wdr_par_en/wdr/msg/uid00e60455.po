@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61056\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00E60455
 #. y4:runtime_group_count=1
@@ -24,200 +26,247 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E60455 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "6860"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "6864"
 msgid "Assassin"
 msgstr "Asesino"
 
+#. y4:line_status=translated
 msgctxt "6868"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "6872"
 msgid "Saki-chan"
 msgstr "Saki-chan"
 
+#. y4:line_status=translated
 msgctxt "6876"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "6880"
 msgid "P_sae_stand_tlk_tukamu_st"
 msgstr "P_sae_stand_tlk_tukamu_st"
 
+#. y4:line_status=translated
 msgctxt "6884"
 msgid "M_nml_stand_tlk_tukamu_st"
 msgstr "M_nml_stand_tlk_tukamu_st"
 
+#. y4:line_status=translated
 msgctxt "6888"
 msgid "P_sae_stand_tlk_tukamu_ed"
 msgstr "P_sae_stand_tlk_tukamu_ed"
 
+#. y4:line_status=translated
 msgctxt "6892"
 msgid "M_nml_stand_tlk_tukamu_ed02"
 msgstr "M_nml_stand_tlk_tukamu_ed02"
 
+#. y4:line_status=translated
 msgctxt "6896"
 msgid "P_stand_tlk_kamae"
 msgstr "P_stand_tlk_kamae"
 
+#. y4:line_status=translated
 msgctxt "6900"
 msgid "P_stand"
 msgstr "P_stand"
 
+#. y4:line_status=translated
 msgctxt "6904"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
+#. y4:line_status=translated
 msgctxt "6908"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "6912"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
+#. y4:line_status=translated
 msgctxt "6916"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:line_status=translated
 msgctxt "6920"
 msgid "F_sxy_stand"
 msgstr "F_sxy_stand"
 
+#. y4:line_status=translated
 msgctxt "6924"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "6928"
 msgid "SetM_nml_sitgrd_down_02"
 msgstr "SetM_nml_sitgrd_down_02"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=18
 msgctxt "6932"
 msgid "Naomi"
 msgstr "Naomi"
 
+#. y4:line_status=translated
 msgctxt "6936"
 msgid "Talk_Phone_yes"
 msgstr "Talk_Phone_yes"
 
+#. y4:line_status=translated
 msgctxt "6940"
 msgid "Talk_Hirou_st"
 msgstr "Talk_Hirou_st"
 
+#. y4:line_status=translated
 msgctxt "56_Tanimura"
 msgid "Call your boss and tell him you've gotten rid of me."
 msgstr "Llama a tu jefe y dile que te deshiciste de mí."
 
+#. y4:line_status=translated
 msgctxt "68_Assassin"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "80_Tanimura"
 msgid "Hurry up and do it!"
 msgstr "¡Date prisa y hazlo ya!"
 
+#. y4:line_status=translated
 msgctxt "92_Saki-chan"
 msgid "You're going way too soft on him, sweetie."
 msgstr "Estás siendo demasiado blando con él, cariño."
 
+#. y4:line_status=translated
 msgctxt "104_Tanimura"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
+#. y4:line_status=translated
 msgctxt "116_Saki-chan"
 msgid "Back when I was cracking heads and solving cases with the Hiroshima PD, they had a little nickname for me. Ever heard of \"Saki the Demon,\" asshole!? No, of course you haven't..."
 msgstr "Cuando partía cráneos y resolvía casos en la policía de Hiroshima, me pusieron un apodo. ¡¿Alguna vez escuchaste sobre \"Saki la Demonio\", imbécil?! No, por supuesto que no..."
 
+#. y4:line_status=translated
 msgctxt "128_Saki-chan"
 msgid "Then listen up good, you little shit!"
 msgstr "¡Escucha bien lo que te voy a decir, maldito insecto!"
 
+#. y4:line_status=translated
 msgctxt "140_Assassin"
 msgid "What's happening!?"
 msgstr "¡¿Qué demonios le pasa a este sujeto?!"
 
+#. y4:line_status=translated
 msgctxt "152_Saki-chan"
 msgid "Are you fucking braindead? Make... the goddamn... <Italic>call</Italic>! Or I will pry open your skull like a sea otter cracking an oyster and canvas the street with your head goo!"
 msgstr "¡Deja de parlotear y Haz... la maldita... <Italic>llamada ya</Italic>! ¡O te voy a reventar la cabeza y esparciré tus sesos por toda la calle!"
 
+#. y4:line_status=translated
 msgctxt "164_Assassin"
 msgid "There's... no need to go that far! Fine, I'll do as you say!"
 msgstr "¡No... no hay necesidad de llegar tan lejos! ¡Haré lo que me dices!"
 
+#. y4:line_status=translated
 msgctxt "188_Assassin"
 msgid "It's me. Tanimura's a done deal... That's right."
 msgstr "Soy yo. Ya nos deshicimos de Tanimura... Así es."
 
+#. y4:line_status=translated
 msgctxt "200_Saki-chan"
 msgid "Good boy."
 msgstr "¿Y bien?"
 
+#. y4:line_status=translated
 msgctxt "284_Saki-chan"
 msgid "Well? How was I?"
 msgstr "¿Qué tal? ¿Cómo lo hice?"
 
+#. y4:line_status=translated
 msgctxt "296_Tanimura"
 msgid "Scary as hell! You make one badass detective."
 msgstr "¡Aterradora como un demonio! Eres una detective increíblemente ruda."
 
+#. y4:line_status=translated
 msgctxt "356_Tanimura"
 msgid "Tanimura here."
 msgstr "Aquí Tanimura."
 
+#. y4:line_status=translated
 msgctxt "368_Naomi"
 msgid "I have some information for you."
 msgstr "Tengo información valiosa para ti."
 
+#. y4:line_status=translated
 msgctxt "380_Tanimura"
 msgid "What?"
 msgstr "¿Qué?"
 
+#. y4:line_status=translated
 msgctxt "392_Naomi"
 msgid "Next Monday, Katsuura will be holding a symposium at none other than the Millennium Tower."
 msgstr "El próximo lunes, Katsuura organizará un simposio ni más ni menos que en la Torre Millennium."
 
+#. y4:line_status=translated
 msgctxt "404_Naomi"
 msgid "And would you believe it, the name of this symposium is \"Empowering Asian Women.\""
 msgstr "¿Y sabes qué? El nombre de este simposio es \"Empoderando a las Mujeres Asiáticas\"."
 
+#. y4:line_status=translated
 msgctxt "416_Naomi"
 msgid "Katsuura is apparently finishing his preparations there as we speak. It's rare for him to be out in public like this."
 msgstr "Aparentemente, Katsuura está terminando sus preparativos allí. Es raro verlo en público de esta manera."
 
+#. y4:line_status=translated
 msgctxt "428_Tanimura"
 msgid "Perfect. Then this is my chance to take him out."
 msgstr "Perfecto. Esta es la oportunidad ideal para acorralarlo."
 
+#. y4:line_status=translated
 msgctxt "440_Naomi"
 msgid "I would exercise extreme caution if I were you."
 msgstr "Actúa con cautela."
 
+#. y4:line_status=translated
 msgctxt "452_Tanimura"
 msgid "Appreciate the tip."
 msgstr "Aprecio el consejo."
 
+#. y4:line_status=translated
 msgctxt "488_Tanimura"
 msgid "Now I've got his ass."
 msgstr "Ahora lo tengo justo donde quería."
 
+#. y4:line_status=translated
 msgctxt "500_Saki-chan"
 msgid "I'll watch these three while you do what you have to do. Guess this is what we've been waiting for... Best of luck, hon!"
 msgstr "Voy a vigilar a estos tres mientras haces lo que tienes que hacer. Ha llegado el momento... ¡Ve con cuidado, Cariño!"
 
+#. y4:line_status=translated
 msgctxt "512_Tanimura"
 msgid "Thanks. Hopefully I won't need it."
 msgstr "Gracias... Voy para allá."
+

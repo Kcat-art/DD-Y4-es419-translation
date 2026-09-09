@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60442\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00090576
 #. y4:runtime_group_count=2
@@ -24,54 +26,58 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00090576 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "952"
 msgid "Businessman"
 msgstr "Empresario"
 
+#. y4:line_status=translated
 msgctxt "956"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "960"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "964"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "968"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "84_Businessman"
-msgid "That mahjong parlor over there's holding a\\r\n"
-"tournament called the Four Gods Cup."
-msgstr "Esa sala de mahjong está promocionando\n"
-"un torneo llamado \"copa de los cuatro dioses\"."
+msgid "That mahjong parlor over there's holding a\\r\ntournament called the Four Gods Cup."
+msgstr "Esa sala de mahjong está promocionando\nun torneo llamado \"copa de los cuatro dioses\"."
 
+#. y4:line_status=translated
 msgctxt "96_Businessman"
 msgid "It's a contest to crown the best mahjong player in Kamurocho. You should enter if you feel up to the challenge."
-msgstr "Lo hacen para conocer al mejor jugador de\n"
-"Kamurocho. Si le apetece un desafío debería\n"
-"inscribirse."
+msgstr "Lo hacen para conocer al mejor jugador de\nKamurocho. Si le apetece un desafío debería\ninscribirse."
 
+#. y4:line_status=translated
 msgctxt "108_Tanimura"
 msgid "Have you ever tried it out?"
 msgstr "¿Ya has participado?"
 
+#. y4:line_status=translated
 msgctxt "120_Businessman"
 msgid "Actually, I have."
 msgstr "De hecho, sí."
 
+#. y4:line_status=translated
 msgctxt "132_Businessman"
-msgid "But I never managed to make it beyond the bottom pool.\\r\n"
-"The competition is really fierce."
-msgstr "Pero nunca logro salir de los últimos lugares.\n"
-"Hay muchos jugadores buenísimos."
+msgid "But I never managed to make it beyond the bottom pool.\\r\nThe competition is really fierce."
+msgstr "Pero nunca logro salir de los últimos lugares.\nHay muchos jugadores buenísimos."
+

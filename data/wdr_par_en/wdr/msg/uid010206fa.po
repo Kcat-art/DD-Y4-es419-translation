@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58978\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=010206FA
 #. y4:runtime_group_count=1
@@ -24,64 +26,77 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_OKI_PRISON01.bin
 #. y4:runtime_play_command=y4.play_msg 010206FA <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1996"
 msgid "Prison Guards"
 msgstr "Guardia de la Cárcel"
 
+#. y4:line_status=translated
 msgctxt "2000"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "2004"
 msgid "Prison Guard"
 msgstr "Guardia de Prisión"
 
+#. y4:line_status=translated
 msgctxt "2008"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "2012"
 msgid "Hamazaki"
 msgstr "Hamazaki"
 
+#. y4:line_status=translated
 msgctxt "2016"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "2020"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=7
 msgctxt "2024"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "68_Prison Guard"
 msgid "Hey, I need backup over here! I found the prisoners!"
 msgstr "¡Hey, venid a ayudarme! ¡He encontrado a los prisioneros!"
 
+#. y4:line_status=translated
 msgctxt "80_Prison Guards"
 msgid "We can't let them get away!"
 msgstr "¡Atrápenlos!"
 
+#. y4:line_status=translated
 msgctxt "152_Hamazaki"
 msgid "Holy hell, that's a lot of guys."
 msgstr "Maldición, hay demasiados."
 
+#. y4:line_status=translated
 msgctxt "164_Hamazaki"
 msgid "We're almost to the yard, though. Can't let them stop us now."
 msgstr "El patio se encuentra justo enfrente. ¡No podemos darnos por vencidos!"
 
+#. y4:line_status=translated
 msgctxt "176_Saejima"
 msgid "Gotcha. Let's rock these fools!"
 msgstr "Entendido. ¡Vamos!"
+

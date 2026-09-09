@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60444\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0063004E
 #. y4:runtime_group_count=5
@@ -24,46 +26,48 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KARAOKE.bin
 #. y4:runtime_play_command=y4.play_msg 0063004E <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1356"
 msgid "Chihiro"
 msgstr "Chihiro"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1360"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "120_Chihiro"
-msgid "Here goes!\\r\n"
-"Now you get to hear the results of my voice training! <Color:7>♥<Color:Default>"
-msgstr "¡Ahora sí!\\r\n"
-"¡Tendrá que escuchar los resultados de mis clases de canto! <Color:7>♥<Color:Default>"
+msgid "Here goes!\\r\nNow you get to hear the results of my voice training! <Color:7>♥<Color:Default>"
+msgstr "¡Ahora sí!\\r\n¡Tendrá que escuchar los resultados de mis clases de canto! <Color:7>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "132_Chihiro"
-msgid "Hmm, what should I sing?\\r\n"
-"How about \"Get to the Top\"? <Color:7>♥<Color:Default>"
-msgstr "Mmm, ¿qué debería cantar?\\r\n"
-"¡Ah! ¿Qué tal si canto: \"Get to the Top\"? <Color:7>♥<Color:Default>"
+msgid "Hmm, what should I sing?\\r\nHow about \"Get to the Top\"? <Color:7>♥<Color:Default>"
+msgstr "Mmm, ¿qué debería cantar?\\r\n¡Ah! ¿Qué tal si canto: \"Get to the Top\"? <Color:7>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "144_Chihiro"
 msgid "Hehe, thanks!"
 msgstr "Je, je, ¡gracias!"
 
+#. y4:line_status=translated
 msgctxt "156_Chihiro"
 msgid "You made it really hard to sing..."
 msgstr "Hiciste que cantar se me hiciera mucho más difícil..."
 
+#. y4:line_status=translated
 msgctxt "168_Tanimura"
 msgid "Sorry."
 msgstr "Lo siento."
 
+#. y4:line_status=translated
 msgctxt "180_Chihiro"
-msgid "That felt SO good! <Color:7>♥<Color:Default>\\r\n"
-"And it's all thanks to you cheering me on! <Color:7>♥<Color:Default>"
-msgstr "¡Eso estuvo BUENÍSIMO! <Color:7>♥<Color:Default>\\r\n"
-"¡Y todo gracias a que usted estaba animándome! <Color:7>♥<Color:Default>"
+msgid "That felt SO good! <Color:7>♥<Color:Default>\\r\nAnd it's all thanks to you cheering me on! <Color:7>♥<Color:Default>"
+msgstr "¡Eso estuvo BUENÍSIMO! <Color:7>♥<Color:Default>\\r\n¡Y todo gracias a que usted estaba animándome! <Color:7>♥<Color:Default>"
+

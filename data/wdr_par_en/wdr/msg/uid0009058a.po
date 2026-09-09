@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58738\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0009058A
 #. y4:runtime_group_count=2
@@ -24,48 +26,53 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 0009058A <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1160"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1164"
 msgid "Studious Dude"
 msgstr "Tipo Estudioso"
 
+#. y4:line_status=translated
 msgctxt "1168"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "84_Tanimura"
 msgid "Hey, did you just say someone got abducted?"
 msgstr "Oiga, ¿es cierto que alguien fue secuestrado?"
 
+#. y4:line_status=translated
 msgctxt "96_Studious Dude"
-msgid "Yeah, I saw it with my own eyes. This really pretty lady\\r\n"
-"was practically dragged away by some scary-looking guy.\\r\n"
-"She was struggling like crazy..."
-msgstr "Sí, yo mismo lo vi. Una mujer muy guapa fue prácticamente\\r\n"
-"arrastrada a la fuerza por un tipo que daba mucho miedo.\\r\n"
-"Ella forcejeaba con todas sus fuerzas..."
+msgid "Yeah, I saw it with my own eyes. This really pretty lady\\r\nwas practically dragged away by some scary-looking guy.\\r\nShe was struggling like crazy..."
+msgstr "Sí, yo mismo lo vi. Una mujer muy guapa fue prácticamente\\r\narrastrada a la fuerza por un tipo que daba mucho miedo.\\r\nElla forcejeaba con todas sus fuerzas..."
 
+#. y4:line_status=translated
 msgctxt "108_Tanimura"
 msgid "Dammit... You see where they went?"
 msgstr "¡Maldición...! ¿Vio hacia dónde fueron?"
 
+#. y4:line_status=translated
 msgctxt "120_Studious Dude"
 msgid "They got into a car waiting just over there. I heard them say something about the harbor."
 msgstr "Subieron a un auto que los esperaba ahí mismo. Alcance a oír que dijeron algo del puerto."
 
+#. y4:line_status=translated
 msgctxt "132_Tanimura"
 msgid "Okay, thanks."
 msgstr "Entendido, gracias."
 
+#. y4:line_status=translated
 msgctxt "144_Tanimura"
 msgid "(So that guy wasn't bluffing when they said they took her to the docks. Better hurry over there.)"
 msgstr "(Parece que es cierto que la llevaron al muelle. No puedo perder más tiempo, debo dirigirme allí de inmediato)."
+

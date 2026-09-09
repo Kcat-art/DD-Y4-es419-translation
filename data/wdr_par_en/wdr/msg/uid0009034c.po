@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61394\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0009034C
 #. y4:runtime_group_count=1
@@ -24,76 +26,87 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_FISHING.bin
 #. y4:runtime_play_command=y4.play_msg 0009034C <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1920"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1924"
 msgid "?"
 msgstr "¿?"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1928"
 msgid "Fisherman"
 msgstr "Pescador"
 
+#. y4:line_status=translated
 msgctxt "1932"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "1936"
 msgid "Jewel Thief"
 msgstr "Ladrón de Joyas"
 
+#. y4:line_status=translated
 msgctxt "1940"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "1944"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:line_status=translated
 msgctxt "56_Saejima"
 msgid "(Damn, this is one heavy briefcase.)"
 msgstr "(Maldición, sí que pesa este maletín.)"
 
+#. y4:line_status=translated
 msgctxt "68_?"
 msgid "So you finally found it."
 msgstr "Así que finalmente lo encontraste."
 
+#. y4:line_status=translated
 msgctxt "80_Saejima"
 msgid "The hell?"
 msgstr "¿Que diablos?"
 
+#. y4:line_status=translated
 msgctxt "92_Fisherman"
-msgid "That's important property that belongs to my family.\\r\n"
-"Now, how about you just hand it over?"
+msgid "That's important property that belongs to my family.\\r\nNow, how about you just hand it over?"
 msgstr "Es una posesión importante que le pertenece a mi familia. Ahora, ¿qué tal si simplemente me la entregas?"
 
+#. y4:line_status=translated
 msgctxt "104_Saejima"
-msgid "I get it now. You were just pretending to go fishin'\\r\n"
-"while ya kept an eye on the place."
+msgid "I get it now. You were just pretending to go fishin'\\r\nwhile ya kept an eye on the place."
 msgstr "Ya entiendo. Estabas fingiendo pescar para tener vigilado el lugar."
 
+#. y4:line_status=translated
 msgctxt "116_Saejima"
-msgid "Yep, I heard about a jewel heist not too long ago.\\r\n"
-"Never thought they'd hide the goods underwater."
+msgid "Yep, I heard about a jewel heist not too long ago.\\r\nNever thought they'd hide the goods underwater."
 msgstr "Síp. Oí hablar de un robo de joyas hace poco. Nunca pensé que esconderían los bienes bajo el agua."
 
+#. y4:line_status=translated
 msgctxt "128_Jewel Thief"
-msgid "And I never thought you'd figure all that out.\\r\n"
-"I hate to do this to a fellow angler, but..."
+msgid "And I never thought you'd figure all that out.\\r\nI hate to do this to a fellow angler, but..."
 msgstr "Y nunca pensé que lo fueras a descubrir. Odio tener que hacer esto a un compañero pescador, pero..."
 
+#. y4:line_status=translated
 msgctxt "140_Jewel Thief"
 msgid "I'll have to send you to sleep with the fishes!"
 msgstr "¡Tendré que mandarte a dormir con los peces!"
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61482\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=002603B1
 #. y4:runtime_group_count=1
@@ -24,118 +26,135 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 002603B1 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "320"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "3996"
 msgid "Hirauchi"
 msgstr "Hirauchi"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "4000"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "4004"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "4008"
 msgid "Numai"
 msgstr "Numai"
 
+#. y4:line_status=translated
 msgctxt "4012"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "4016"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 msgctxt "4020"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "4024"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "4028"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "4032"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "56_Hirauchi"
 msgid "The speech ended without incident. Did anything crop up on your end?"
 msgstr "El discurso terminó sin incidentes. ¿Ha ocurrido algo?"
 
+#. y4:line_status=translated
 msgctxt "68_Saejima"
-msgid "Yeah. Found the guy who was sendin' punks to heckle ya.\\r\n"
-"We had us a little debate."
-msgstr "Sí. Encontré al tipo que estaba enviando matones a\\r \n"
-"molestarte. Tuvimos un pequeño debate."
+msgid "Yeah. Found the guy who was sendin' punks to heckle ya.\\r\nWe had us a little debate."
+msgstr "Sí. Encontré al tipo que estaba enviando matones a\\r \nmolestarte. Tuvimos un pequeño debate."
 
+#. y4:line_status=translated
 msgctxt "80_Hirauchi"
 msgid "Aha, I knew it! He was on Shirakawa's payroll, wasn't he?"
 msgstr "¡Ajá, lo sabía! Estaba pagado por Shirakawa, ¿no?"
 
+#. y4:line_status=translated
 msgctxt "92_Numai"
 msgid "Was he...?"
 msgstr "¿Era él...?"
 
+#. y4:line_status=translated
 msgctxt "104_Saejima"
-msgid "Nah. I thought he was, so I gave 'em the third degree.\\r\n"
-"Turns out he was actin' alone."
-msgstr "No. Pensé que lo era, así que lo interrogué en profundidad.\\r\n"
-"Resulta que estaba actuando solo."
+msgid "Nah. I thought he was, so I gave 'em the third degree.\\r\nTurns out he was actin' alone."
+msgstr "No. Pensé que lo era, así que lo interrogué en profundidad.\\r\nResulta que estaba actuando solo."
 
+#. y4:line_status=translated
 msgctxt "116_Hirauchi"
 msgid "Oh, I see."
 msgstr "Oh, ya veo."
 
+#. y4:line_status=translated
 msgctxt "128_Numai"
-msgid "What did I tell you, Hirauchi-kun? Don't accuse good men\\r\n"
-"without proof. Do you understand why that is now?"
-msgstr "¿Qué te dije, Hirauchi-kun? No acuses a hombres honestos sin\\r \n"
-"pruebas. ¿Entiendes ahora por qué?"
+msgid "What did I tell you, Hirauchi-kun? Don't accuse good men\\r\nwithout proof. Do you understand why that is now?"
+msgstr "¿Qué te dije, Hirauchi-kun? No acuses a hombres honestos sin\\r \npruebas. ¿Entiendes ahora por qué?"
 
+#. y4:line_status=translated
 msgctxt "140_Hirauchi"
 msgid "Yes, sir. I'm sorry."
 msgstr "Sí, señor. Lo siento."
 
+#. y4:line_status=translated
 msgctxt "152_Numai"
-msgid "Thank you for your help today, Saejima-san. I regret that\\r\n"
-"my position prevents me from offering a token of gratitude."
-msgstr "Gracias por su ayuda hoy, Saejima-san. Lamento que\\r\n"
-"mi posición me impide ofrecerle una muestra de gratitud."
+msgid "Thank you for your help today, Saejima-san. I regret that\\r\nmy position prevents me from offering a token of gratitude."
+msgstr "Gracias por su ayuda hoy, Saejima-san. Lamento que\\r\nmi posición me impide ofrecerle una muestra de gratitud."
 
+#. y4:line_status=translated
 msgctxt "164_Saejima"
 msgid "Don't mention it. Civic duty and all that."
 msgstr "No te preocupes. Es el Deber cívico y todo eso."
 
+#. y4:line_status=translated
 msgctxt "176_Hirauchi"
 msgid "I really appreciate it, too. Well, goodbye then."
 msgstr "Yo también te lo agradezco. Bueno, adiós."
 
+#. y4:line_status=translated
 msgctxt "200_Hirauchi"
 msgid "Sensei?"
 msgstr "¿Señor?"
 
+#. y4:line_status=translated
 msgctxt "212_Numai"
 msgid "Thank you again, Saejima-san. For everything."
 msgstr "Gracias de nuevo, Saejima-san. Por todo."
 
+#. y4:line_status=translated
 msgctxt "224_Saejima"
 msgid "You bet. Knock 'em dead."
 msgstr "De nada, Numai-san, de nada..."
+

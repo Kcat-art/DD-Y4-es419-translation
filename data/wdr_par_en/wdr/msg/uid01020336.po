@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59092\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01020336
 #. y4:runtime_group_count=1
@@ -24,36 +26,43 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_OKI_PRISON01.bin
 #. y4:runtime_play_command=y4.play_msg 01020336 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "892"
 msgid "P_sae_stand"
 msgstr "P_sae_stand"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "896"
 msgid "Hamazaki"
 msgstr "Hamazaki"
 
+#. y4:line_status=translated
 msgctxt "900"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "904"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=todo
 msgctxt "80_Hamazaki"
 msgid "We're gonna need to pick up the grappling hook before we start scaling the guard tower."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "92_Hamazaki"
 msgid "C'mon! The roof'll take us out to the yard."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "104_Saejima"
 msgid "Gotcha."
 msgstr "Ya veo."
+

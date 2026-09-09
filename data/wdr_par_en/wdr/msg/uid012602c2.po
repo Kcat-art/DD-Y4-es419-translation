@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61234\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=012602C2
 #. y4:runtime_group_count=1
@@ -24,92 +26,112 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 012602C2 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "256"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
+#. y4:line_status=translated
 msgctxt "304"
 msgid "You handed over <Color:8>50,000 yen<Color:Default>."
 msgstr "Has entregado <Color:8>50.000 yenes<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "424"
 msgid "You got a <Color:8>Cat's Key<Color:Default>."
 msgstr "Conseguiste un <Color:8>Llave de gato<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "544"
 msgid "You gained 5,000 EXP."
 msgstr "Has obtenido 5000 de EXP."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "5916"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=todo
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "5920"
 msgid "Cat-loving Homeless Man"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "5924"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "5928"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "5932"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "5936"
 msgid "Talk_Send"
 msgstr "Talk_Send"
 
+#. y4:line_status=translated
 msgctxt "5940"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:line_status=translated
 msgctxt "5944"
 msgid "Talk_Info_L"
 msgstr "Talk_Info_L"
 
+#. y4:line_status=translated
 msgctxt "5948"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "5952"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:line_status=translated
 msgctxt "5956"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 msgctxt "5960"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "5964"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "100_Saejima"
 msgid "(So this is the treasure, huh? Enough to keep those cats fat n' happy for life...)"
 msgstr "(¿Así que este es el tesoro, eh? Suficiente para mantener gordos a esos gatos por toda su vida...)"
 
+#. y4:line_status=translated
 msgctxt "124_Cat-loving Homeless Man"
 msgid "Hey, pal! What are you doing down here?"
 msgstr "¡Oye, Amigo! ¿Qué haces por aquí abajo?"
 
+#. y4:line_status=translated
 msgctxt "136_Saejima"
 msgid "Hey yourself."
 msgstr "Oye, tú."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -117,74 +139,92 @@ msgctxt "148_Saejima"
 msgid "(If this money's for the cats' upkeep, should I give it to the guy who's takin' care of 'em?)"
 msgstr "(Este dinero es para el mantenimiento de los gatos, ¿debería dárselo al tipo que los está cuidando?)"
 
+#. y4:line_status=translated
 msgctxt "160_Saejima"
 msgid "(It'll be alright. He seems more into the cats than the treasure, anyhow.)"
 msgstr "(Estará bien. De todos modos, parecen interesarle más los gatos que el tesoro.)"
 
+#. y4:line_status=translated
 msgctxt "172_Cat-loving Homeless Man"
 msgid "Um... Is something wrong?"
 msgstr "¿Um... Pasa algo?"
 
+#. y4:line_status=translated
 msgctxt "184_Saejima"
 msgid "Oh, uh... nope."
 msgstr "Oh, eh... no nada."
 
+#. y4:line_status=translated
 msgctxt "196_Cat-loving Homeless Man"
 msgid "All right, then. Whoa, look at the time. I've got places to be. See you!"
 msgstr "Pues buen, entonces. Guau, mira la hora. Tengo cosas que hacer. ¡Nos vemos!"
 
+#. y4:line_status=translated
 msgctxt "208_Saejima"
 msgid "Yeah."
 msgstr "Sí."
 
+#. y4:line_status=translated
 msgctxt "232_Saejima"
 msgid "(That left a bad taste in my mouth.)"
 msgstr "(Me ha dejado mal sabor de boca.)"
 
+#. y4:line_status=translated
 msgctxt "280_Saejima"
 msgid "Great timin'. Here ya go."
 msgstr "Qué buen momento. Toma."
 
+#. y4:line_status=translated
 msgctxt "316_Cat-loving Homeless Man"
 msgid "Goodness! Where'd this come from?"
 msgstr "¡Dios mío! ¿De dónde has sacado esto?"
 
+#. y4:line_status=translated
 msgctxt "328_Saejima"
 msgid "It was in the locker."
 msgstr "Estaba en la taquilla."
 
+#. y4:line_status=translated
 msgctxt "340_Cat-loving Homeless Man"
 msgid "Ah, so this is the treasure? There really was something in there!"
 msgstr "Ah, ¿entonces esto es el tesoro? ¡De verdad había algo ahí dentro!"
 
+#. y4:line_status=translated
 msgctxt "352_Saejima"
 msgid "Yeah. I figured it's to pay for the cats' room n' board, so I'm givin' it to you."
 msgstr "Sí. Imagino que es para pagar por la casita de los gatos, así que te lo daré a ti."
 
+#. y4:line_status=translated
 msgctxt "364_Cat-loving Homeless Man"
 msgid "What? You really don't have to do that!"
 msgstr "¿Qué? ¡En serio, no tienes que hacer esto!"
 
+#. y4:line_status=translated
 msgctxt "376_Saejima"
 msgid "You're the one who's lookin' after these little guys. Go on. Take it."
 msgstr "Tú eres el que está cuidando a estos pequeños. Así que adelante. Tómalo."
 
+#. y4:line_status=translated
 msgctxt "388_Cat-loving Homeless Man"
 msgid "Wow. I just... I don't know how to thank you."
 msgstr "Wow. Es solo que... no sé como agradecértelo."
 
+#. y4:line_status=translated
 msgctxt "400_Cat-loving Homeless Man"
 msgid "Oh, I know! I wouldn't call this a fair trade, but it's yours now."
 msgstr "¡Oh, ya sé! No diría que esto es un intercambio equivalente, pero es tuyo ahora."
 
+#. y4:line_status=translated
 msgctxt "448_Cat-loving Homeless Man"
 msgid "I kept it because it was so cute, but now that I have these fellas, I want it to be yours. Call it a souvenir."
 msgstr "Lo guardé porque era muy lindo, pero ahora que tengo a estos pequeñines, quiero que sea tuyo. Llévatelo como recuerdo."
 
+#. y4:line_status=translated
 msgctxt "460_Saejima"
 msgid "Sure. Thanks."
 msgstr "Claro. Gracias."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -195,6 +235,7 @@ msgctxt "556_Saejima"
 msgid "Give It to Him"
 msgstr "Dársela"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -204,3 +245,4 @@ msgstr "Dársela"
 msgctxt "568_Saejima"
 msgid "Keep the Cash"
 msgstr "Quedarse con el dinero"
+

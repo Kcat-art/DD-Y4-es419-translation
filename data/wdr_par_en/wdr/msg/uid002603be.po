@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61136\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=002603BE
 #. y4:runtime_group_count=2
@@ -24,60 +26,70 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 002603BE <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1240"
 msgid "Irritable Voter"
 msgstr "Elector Irritable"
 
+#. y4:line_status=translated
 msgctxt "1244"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1248"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "1252"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "1256"
 msgid "Honest Voter"
 msgstr "Votante Honesto"
 
+#. y4:line_status=translated
 msgctxt "1260"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "1264"
 msgid "Talk_Udekumi_ed"
 msgstr "Talk_Udekumi_ed"
 
+#. y4:line_status=translated
 msgctxt "84_Irritable Voter"
 msgid "That Numai sure has a sneaky way of getting publicity."
 msgstr "Numai tiene una forma bastante descarada de ganarse la popularidad, ¿no crees?"
 
+#. y4:line_status=translated
 msgctxt "96_Saejima"
 msgid "Hey, you two. Somebody send ya here to make trouble?"
 msgstr "Oigan ustedes dos. ¿Alguien les pidió que interrumpieran el discurso?"
 
+#. y4:line_status=translated
 msgctxt "108_Irritable Voter"
 msgid "Excuse me? I don't know what you're talking about."
 msgstr "¿Eh? ¿De qué estás hablando?"
 
+#. y4:line_status=translated
 msgctxt "120_Honest Voter"
-msgid "Wait, what? Is Numai-san the kind of person who'd slap\\r\n"
-"a gag order on voters? Pretty shocking, if you ask me."
-msgstr "¿Será que? ¿Numai-san es del tipo de persona que censura\\r\n"
-"la libertad de expresión? Eso me decepciona un poco..."
+msgid "Wait, what? Is Numai-san the kind of person who'd slap\\r\na gag order on voters? Pretty shocking, if you ask me."
+msgstr "¿Será que? ¿Numai-san es del tipo de persona que censura\\r\nla libertad de expresión? Eso me decepciona un poco..."
 
+#. y4:line_status=translated
 msgctxt "132_Saejima"
 msgid "(Aw, shit. He actually wanted to hear what the guy had to say.)"
 msgstr "(Maldición. Parece que sí le interesaba lo que tenía que decir el tipo)."
+

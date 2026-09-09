@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61284\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01020553
 #. y4:runtime_group_count=1
@@ -24,40 +26,48 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01020553 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1612"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "1616"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1620"
 msgid "Hisai"
 msgstr "Hisai"
 
+#. y4:line_status=todo
 msgctxt "56_Tanimura"
 msgid "Chief, I have a few things I need to check out. Why don't I see you later?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "68_Hisai"
 msgid "That's fine. I'll be back at the station if you need me."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "80_Hisai"
 msgid "Just don't do anything crazy, you hear? Your father wouldn't want you going out guns blazing over this."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "92_Tanimura"
 msgid "I wouldn't go that far..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "116_Tanimura"
 msgid "(I think I'll head back to <Color:7>Homeland<Color:Default> for now. I need some time to digest all this.)"
 msgstr ""
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60778\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00260298
 #. y4:runtime_group_count=1
@@ -24,36 +26,43 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_GOLF.bin
 #. y4:runtime_play_command=y4.play_msg 00260298 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "632"
 msgid "Himeka"
 msgstr "Himeka"
 
+#. y4:line_status=translated
 msgctxt "636"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "640"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "644"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "56_Himeka"
 msgid "Sorry... I hit the ball into a sand trap..."
 msgstr "Perdón... Mandé la bola a un bunker..."
 
+#. y4:line_status=translated
 msgctxt "68_Tanimura"
 msgid "Don't worry. Leave the rest to me."
 msgstr "No te preocupes. Déjame el resto a mí."
 
+#. y4:line_status=translated
 msgctxt "80_Himeka"
 msgid "Okay! <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡Vale! <Color:255,200,200,255>♥️<Color:Default>"
+

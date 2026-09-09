@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60008\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=011303D7
 #. y4:runtime_group_count=2
@@ -24,60 +26,72 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_WATAMI.bin
 #. y4:runtime_play_command=y4.play_msg 011303D7 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "33348"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "33352"
 msgid "Ochiai"
 msgstr "Ochiai"
 
+#. y4:line_status=translated
 msgctxt "33356"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 msgctxt "33360"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "33364"
 msgid "Talk_SmileBig_st"
 msgstr "Talk_SmileBig_st"
 
+#. y4:line_status=translated
 msgctxt "33368"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "33372"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=translated
 msgctxt "33376"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "33380"
 msgid "Talk_Kansin"
 msgstr "Talk_Kansin"
 
+#. y4:line_status=translated
 msgctxt "33384"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "33388"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "33392"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -85,34 +99,42 @@ msgctxt "684_Saejima"
 msgid "(So, what should I talk about?)"
 msgstr "(Bueno, ¿qué podría decir?)."
 
+#. y4:line_status=todo
 msgctxt "732_Ochiai"
 msgid "Bo-ring. Don't you have anything interesting to talk about?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "744_Ochiai"
 msgid "I don't give a fuck about psychology and shit."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "756_Saejima"
 msgid "(Looks like he ain't interested in this topic. I can't ever win with this kid.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "804_Ochiai"
 msgid "Save your fancy analyses for your own time. My interest level in this is bubbling just over zero percent. Ugh, this is so boring..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "816_Saejima"
 msgid "(Looks like he ain't interested in this topic. I can't ever win with this kid.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "864_Ochiai"
 msgid "Bwahahaha! That's friggin' hilarious! I can't believe you did that! And completely naked, too! Hahaha!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "876_Saejima"
 msgid "(Looks like he likes this topic. He's really openin' up, too. I'm glad we came.)"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -120,30 +142,37 @@ msgctxt "888_Saejima"
 msgid "(So, what should I talk about?)"
 msgstr "(Bueno, ¿qué podría decir?)."
 
+#. y4:line_status=todo
 msgctxt "936_Ochiai"
 msgid "Math? What's got into you all of a sudden, huh? And what the hell is so interesting about math? Are you stupid or something?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "948_Saejima"
 msgid "(Looks like he ain't interested in this topic. I can't ever win with this kid.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "996_Ochiai"
 msgid "Literature? The column I write is literature. \"The literary genius Fukushi Ochiai.\" Sounds perfect! Heheh."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1008_Saejima"
 msgid "(He's gettin' on my nerves, but at least it looks like he's feeling better.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1056_Ochiai"
 msgid "The arts? Huh! You're not worthy enough to talk about stuff like that! Only sophisticated people like me are allowed to talk about the arts!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1068_Saejima"
 msgid "(Fuckin' kid...)"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -151,30 +180,37 @@ msgctxt "1080_Saejima"
 msgid "(So, what should I talk about?)"
 msgstr "(Bueno, ¿qué podría decir?)."
 
+#. y4:line_status=translated
 msgctxt "1128_Ochiai"
 msgid "Zzz..."
 msgstr "Zzz..."
 
+#. y4:line_status=todo
 msgctxt "1140_Saejima"
 msgid "(Fuckin' kid...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1188_Ochiai"
 msgid "Bwahahaha! Wow, you screwed up pretty bad! That's friggin' hilarious! Hwahahahaha!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1200_Saejima"
 msgid "(He's gettin' on my nerves, but at least it looks like he's feeling better.)"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1248_Ochiai"
 msgid "Zzz..."
 msgstr "Zzz..."
 
+#. y4:line_status=todo
 msgctxt "1260_Saejima"
 msgid "(Fuckin' kid...)"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=3
@@ -182,30 +218,37 @@ msgctxt "1272_Saejima"
 msgid "(So, what should I talk about?)"
 msgstr "(Bueno, ¿qué podría decir?)."
 
+#. y4:line_status=translated
 msgctxt "1320_Ochiai"
 msgid "Zzz..."
 msgstr "Zzz..."
 
+#. y4:line_status=todo
 msgctxt "1332_Saejima"
 msgid "(Fuckin' kid...)"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1380_Ochiai"
 msgid "Zzz..."
 msgstr "Zzz..."
 
+#. y4:line_status=todo
 msgctxt "1392_Saejima"
 msgid "(Fuckin' kid...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1440_Ochiai"
 msgid "Bwahahaha! That's hilarious! How did you fit something like that in your nose? Hahaha!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1452_Saejima"
 msgid "(Looks like he likes this topic. He's really openin' up, too. I'm glad we came.)"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=4
@@ -213,30 +256,37 @@ msgctxt "1464_Saejima"
 msgid "(So, what should I talk about?)"
 msgstr "(Bueno, ¿qué podría decir?)."
 
+#. y4:line_status=todo
 msgctxt "1512_Ochiai"
 msgid "Heheheh. I knew you wanted to know more. I guess I have no choice but to give you the whole unrated story... Heheheh."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1524_Saejima"
 msgid "(That was one long story... But at least he opened up. And it looks like he's more motivated, too.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1572_Ochiai"
 msgid "I could care less about that stupid baldy."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1584_Saejima"
 msgid "(Stupid baldy...?)"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1632_Ochiai"
 msgid "Zzz..."
 msgstr "Zzz..."
 
+#. y4:line_status=todo
 msgctxt "1644_Saejima"
 msgid "(Fuckin' kid...)"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=5
@@ -244,50 +294,62 @@ msgctxt "1656_Saejima"
 msgid "(So, what should I talk about?)"
 msgstr "(Bueno, ¿qué podría decir?)."
 
+#. y4:line_status=todo
 msgctxt "1704_Ochiai"
 msgid "You should study harder. I may not look it, but I actually like to study. Maybe you need to practice self discipline."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1716_Saejima"
 msgid "(......)"
 msgstr "(......)"
 
+#. y4:line_status=todo
 msgctxt "1764_Ochiai"
 msgid "I feel exactly the same way. You say some interesting things every now and then. Maybe you're not so bad after all."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1776_Saejima"
 msgid "(I finally found somethin' he's interested in. Looks like he's startin' to open up.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1824_Ochiai"
 msgid "Well, you should've done your homework, idiot. I may not look like it, but I like to study. Maybe you need to practice self discipline."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1836_Saejima"
 msgid "(......)"
 msgstr "(......)"
 
+#. y4:line_status=todo
 msgctxt "1872_Saejima"
 msgid "So, tell me, Fukushi... Why do ya wanna become a champion?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1884_Ochiai"
 msgid "No big reason. Champions are cool. That's all."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1896_Ochiai"
 msgid "Plus, I'll get a lot of girls. Heheheh..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1908_Saejima"
 msgid "You ain't got a more passionate reason?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1920_Ochiai"
 msgid "Nope. And anyway, fighting is a result-oriented game. Who gives a shit about the details?"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=6
@@ -295,98 +357,122 @@ msgctxt "1932_Ochiai"
 msgid "No need for motivation or a reason. Am I right?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1944_Saejima"
 msgid "Exactly. In the end, the winner's the better fighter. That's the name o' the game."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1956_Saejima"
 msgid "No matter how admirable yer reasons, if ya don't win, it don't mean shit."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1968_Ochiai"
 msgid "I totally agree! But... if you knew that already, then why the hell did you ask!? Fucking waste of my time."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1980_Saejima"
 msgid "(Didn't get my point across... That didn't go well...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1992_Saejima"
 msgid "True, the winner's the better fighter. That's what fightin's about. But motivation's important too."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2004_Saejima"
 msgid "Fighters with motivation are ten times stronger than unmotivated fighters."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2016_Ochiai"
 msgid "Hm...? Why's that?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2028_Saejima"
 msgid "See, what would ya do if yer mom was bein' attacked by some street thugs?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2040_Ochiai"
 msgid "That's obvious! I'd protect my mom. I'd beat the hell out of those thugs and give it everything I've got!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2052_Saejima"
 msgid "What if ya start a fight for no reason with a passerby? Could you fight that person with everythin' ya got?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2064_Ochiai"
 msgid "Hmmm... I don't know... I mean, I don't really have a reason to be fighting."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2076_Ochiai"
 msgid "I would definitely fight harder against the thugs that were attacking my mom."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2088_Saejima"
 msgid "That's my point. People who got somethin' to protect－people with a motivation or goal－are stronger 'cause they fight harder."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2100_Ochiai"
 msgid "Huh! I get it! That was really easy to understand!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2112_Ochiai"
 msgid "I guess I have to come up with some goals for myself. Mmhm!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2124_Saejima"
 msgid "(Looks like I got my point across. That went real well.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2136_Saejima"
 msgid "Results don't matter at all. What's important is how ya fight."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2148_Saejima"
 msgid "People respect effort more than a borin' win."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2160_Ochiai"
 msgid "Huh. But if you don't win then you can't become champion, right?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2172_Ochiai"
 msgid "What you're saying is loser's logic. A simple excuse. Your explanation makes no fucking sense. You're pissing me off."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2184_Saejima"
 msgid "(Didn't get my point across... That didn't go well...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2196_Saejima"
 msgid "So, whaddya do on yer days off?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2208_Ochiai"
 msgid "Well, let's see. Lately I've started watching anime. There's this one anime about a robot that I really like."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=7
@@ -394,62 +480,77 @@ msgctxt "2220_Saejima"
 msgid "Anime, huh...?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2232_Saejima"
 msgid "Anime, huh? That's a pretty childish hobby, ain't it?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2244_Ochiai"
 msgid "What!? What are you saying, old man? You trying to start something with me?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2256_Saejima"
 msgid "(Looks like that put 'im in a foul mood... That didn't go well.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2268_Saejima"
 msgid "That's great. Anime's a revered part o' culture, ain't it?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2280_Saejima"
 msgid "They call it \"Japanimation\" or somethin', right? I heard about it from Sodachi."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2292_Ochiai"
 msgid "Stop talking out of your ass, you old freak. That's the most aggravating thing you could possibly say to a cultured man like myself!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2304_Saejima"
 msgid "(Er... That didn't go well...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2316_Saejima"
 msgid "Y'know, I was real into an anime about robots, too. Made me realize that even bad guys have their own purpose and sense o' justice."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2328_Ochiai"
 msgid "Wait, the anime you're talking about might actually be the same one that I like..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2340_Ochiai"
 msgid "This is starting to get fun! Let's talk more about this!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2352_Saejima"
 msgid "(That was a good talk. I'm glad we came.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2364_Ochiai"
 msgid "So, old man. Can you do any tricks?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2376_Saejima"
 msgid "Tricks...?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2388_Ochiai"
 msgid "Yeah, I'm good at impersonations. What can you do? There must be something that you're good at."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=8
@@ -457,67 +558,82 @@ msgctxt "2400_Saejima"
 msgid "Tricks, huh? Hmmm..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2412_Saejima"
 msgid "I guess I'm good at makin' faces."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2424_Ochiai"
 msgid "Really!? Faces!? I have to see this! Come on, show me one! Please!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "2436_Saejima"
 msgid "Fine..."
 msgstr "Bueno..."
 
+#. y4:line_status=translated
 msgctxt "2448_Saejima"
 msgid "How's this?"
 msgstr "¿Así está bien?"
 
+#. y4:line_status=todo
 msgctxt "2460_Ochiai"
 msgid "Ha... Hahaha! Bwahahahahahahaha! That's great! I'm impressed!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2472_Ochiai"
 msgid "That was awesome! Consider us friends for life! Hahahaha!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2484_Saejima"
 msgid "(That went a lot better than I expected...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2496_Saejima"
-msgid "I can recite the number pi indefinitely. Listen.\\r\n"
-"3.1415926535..."
+msgid "I can recite the number pi indefinitely. Listen.\\r\n3.1415926535..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2508_Ochiai"
 msgid "Okay, okay, enough already. This is boring. Sorry I asked."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2520_Saejima"
 msgid "(Huh. He didn't like that. It took me ages to remember those damn numbers...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2532_Saejima"
 msgid "I'm no good at tricks. And I ain't interested in learning any."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2544_Ochiai"
 msgid "Bo-ring. Loser!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2556_Ochiai"
 msgid "I hate it when people just write off ideas like that! Who knows－it might be fun if you just tried. You have a really negative attitude."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2568_Saejima"
 msgid "(Hmph. Didn't think I'd be lectured...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2580_Ochiai"
 msgid "I'm curious... Out of these three, which do you like the most?"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=9
@@ -525,66 +641,82 @@ msgctxt "2592_Saejima"
 msgid "What kinda question is that? Hmph. Lemme see..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2604_Saejima"
 msgid "I gotta go with the dragon. They're cool-lookin'. And anyway, real men like dragons."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2616_Ochiai"
 msgid "Haha! I knew you would say that! But you do got that right. Dragons sure are cool!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2628_Saejima"
 msgid "Great. But why'd ya ask me such a random question?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2640_Ochiai"
 msgid "Hm? Oh, don't worry. It's just something personal. Nothing to do with you. But dragons really are cool, huh? Yeah..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2652_Saejima"
 msgid "(What a weird guy. But at least he looks satisfied.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2664_Saejima"
 msgid "I've got a tiger tattoo on my back, y'know. I gotta go with the tiger."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2676_Ochiai"
 msgid "A tiger!? Why not the dragon? Dragons are number one! Tigers are so lame!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2688_Saejima"
 msgid "Ain't sure how to respond to that... But why'd ya ask me such a random question?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2700_Ochiai"
 msgid "Hm? Oh, don't worry. It's just something personal. Nothing to do with you. But dragons really are the coolest, okay?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2712_Saejima"
 msgid "(Looks like I hurt his feelin's a bit... What a weird guy. I sure don't get 'im.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2724_Saejima"
 msgid "Never really thought about it before. But if I gotta choose, I'd probably go with the colossus."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2736_Ochiai"
 msgid "What!? You must be joking. Why didn't you choose the dragon? You must know that dragons are number one!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2748_Saejima"
 msgid "Ain't sure how to respond to that... But why'd ya ask me such a random question?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2760_Ochiai"
 msgid "Hm? Oh, don't worry. It's just something personal. Nothing to do with you. But dragons really are the coolest, okay?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "2772_Saejima"
 msgid "(Looks like I hurt his feelin's a bit... What a weird guy. I sure don't get 'im.)"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -595,6 +727,7 @@ msgctxt "2796_Saejima"
 msgid "Something Motivational"
 msgstr "Algo Motivacional"
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -605,6 +738,7 @@ msgctxt "2808_Saejima"
 msgid "A Cool Analysis"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -615,6 +749,7 @@ msgctxt "2820_Saejima"
 msgid "Something Comical"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -625,6 +760,7 @@ msgctxt "2832_Saejima"
 msgid "Math"
 msgstr "Matemática"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -635,6 +771,7 @@ msgctxt "2844_Saejima"
 msgid "Literature"
 msgstr "Literatura"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -645,6 +782,7 @@ msgctxt "2856_Saejima"
 msgid "Art"
 msgstr "Arte"
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -655,6 +793,7 @@ msgctxt "2868_Saejima"
 msgid "Brag About Something"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -665,6 +804,7 @@ msgctxt "2880_Saejima"
 msgid "Talk About Failure"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -675,6 +815,7 @@ msgctxt "2892_Saejima"
 msgid "Talk About Success"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -685,6 +826,7 @@ msgctxt "2904_Saejima"
 msgid "The Japanese Pension System"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -695,6 +837,7 @@ msgctxt "2916_Saejima"
 msgid "Diplomacy and the Yen"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -705,6 +848,7 @@ msgctxt "2928_Saejima"
 msgid "Something Comical"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4
@@ -715,6 +859,7 @@ msgctxt "2940_Saejima"
 msgid "Fukushi Ochiai"
 msgstr "Fukushi Ochiai"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4
@@ -725,6 +870,7 @@ msgctxt "2952_Saejima"
 msgid "Sodachi"
 msgstr "Sodachi"
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4
@@ -735,6 +881,7 @@ msgctxt "2964_Saejima"
 msgid "Myself"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=5
@@ -745,6 +892,7 @@ msgctxt "2976_Saejima"
 msgid "Bad Test Score"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=5
@@ -755,6 +903,7 @@ msgctxt "2988_Saejima"
 msgid "Japanese Education System"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=5
@@ -765,6 +914,7 @@ msgctxt "3000_Saejima"
 msgid "Forgotten Homework"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=6
@@ -775,6 +925,7 @@ msgctxt "3012_Saejima"
 msgid "Exactly. You just gotta win."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=6
@@ -785,6 +936,7 @@ msgctxt "3024_Saejima"
 msgid "Motivation is real important."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=6
@@ -795,6 +947,7 @@ msgctxt "3036_Saejima"
 msgid "Results don't matter."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=7
@@ -805,6 +958,7 @@ msgctxt "3048_Saejima"
 msgid "That's kids stuff."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=7
@@ -815,6 +969,7 @@ msgctxt "3060_Saejima"
 msgid "Anime is respectable Japanese culture."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=7
@@ -825,6 +980,7 @@ msgctxt "3072_Saejima"
 msgid "I used to love anime."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=8
@@ -835,6 +991,7 @@ msgctxt "3084_Saejima"
 msgid "I'm good at makin' faces."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=8
@@ -845,6 +1002,7 @@ msgctxt "3096_Saejima"
 msgid "I can recite pi indefinitely."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=8
@@ -855,6 +1013,7 @@ msgctxt "3108_Saejima"
 msgid "I got nothin'."
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=9
@@ -865,6 +1024,7 @@ msgctxt "3120_Saejima"
 msgid "Dragon"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=9
@@ -875,6 +1035,7 @@ msgctxt "3132_Saejima"
 msgid "Tiger"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=9
@@ -884,3 +1045,4 @@ msgstr ""
 msgctxt "3144_Saejima"
 msgid "Colossus"
 msgstr ""
+

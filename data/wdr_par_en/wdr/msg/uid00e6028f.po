@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61592\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00E6028F
 #. y4:runtime_group_count=3
@@ -24,86 +26,95 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E6028F <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "244"
 msgid "You gained 3,000 EXP."
 msgstr "Obtuviste 3,000 de experiencia."
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2412"
 msgid "Yusuke"
 msgstr "Yusuke"
 
+#. y4:line_status=translated
 msgctxt "2416"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "2420"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "2424"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "2428"
 msgid "Naoya"
 msgstr "Naoya"
 
+#. y4:line_status=translated
 msgctxt "2432"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 msgctxt "2436"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "2440"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:line_status=translated
 msgctxt "2444"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "100_Yusuke"
 msgid "Hey... It's you!"
 msgstr "¡Ey...! ¡Tú eres el de aquel entonces!"
 
+#. y4:line_status=translated
 msgctxt "112_Yusuke"
-msgid "Why the hell'd you stab me in the back like that!? Now all\\r\n"
-"Akino talks about is you!"
-msgstr "¿Por qué rayos me traicionaste así? ¡Por tu culpa, Akino\\r\n"
-"no hace más que hablar de ti...!"
+msgid "Why the hell'd you stab me in the back like that!? Now all\\r\nAkino talks about is you!"
+msgstr "¿Por qué rayos me traicionaste así? ¡Por tu culpa, Akino\\r\nno hace más que hablar de ti...!"
 
+#. y4:line_status=translated
 msgctxt "124_Tanimura"
-msgid "Actually, there's a perfectly reasonable explanation...\\r\n"
-"Okay, no there isn't. Sorry about that."
-msgstr "De hecho, tengo una explicación lógica...\\r\n"
-"En realidad, no la hay. Perdón por eso."
+msgid "Actually, there's a perfectly reasonable explanation...\\r\nOkay, no there isn't. Sorry about that."
+msgstr "De hecho, tengo una explicación lógica...\\r\nEn realidad, no la hay. Perdón por eso."
 
+#. y4:line_status=translated
 msgctxt "136_Naoya"
 msgid "We trusted you, dude... What a letdown you were."
 msgstr "Confiamos en ti, traidor..., Qué gran decepción resultaste."
 
+#. y4:line_status=translated
 msgctxt "148_Naoya"
-msgid "Sorry, but all you're getting out of this is a free meal.\\r\n"
-"Seeing as how emotionally messed up you made Yusuke...\\r\n"
-"Let's just call it even."
-msgstr "Lo siento, pero lo único que obtendrás es una comida gratis.\\r\n"
-"Considerando lo emocionalmente jodido que dejaste a Yusuke...\\r\n"
-"Digamos que estamos en paz."
+msgid "Sorry, but all you're getting out of this is a free meal.\\r\nSeeing as how emotionally messed up you made Yusuke...\\r\nLet's just call it even."
+msgstr "Lo siento, pero lo único que obtendrás es una comida gratis.\\r\nConsiderando lo emocionalmente jodido que dejaste a Yusuke...\\r\nDigamos que estamos en paz."
 
+#. y4:line_status=translated
 msgctxt "160_Tanimura"
 msgid "Right... That was my bad."
 msgstr "Sí... Fue mi error."
 
+#. y4:line_status=translated
 msgctxt "172_Yusuke"
 msgid "\"My bad,\" my ass! If apologies solved everything, we wouldn't need the police! Geez..."
 msgstr "¡\"Mi error\" ni que nada! Si las disculpas arreglaran todo, ¡no necesitaríamos a la policía! Ridículo..."
+

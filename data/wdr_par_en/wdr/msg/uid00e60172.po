@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61088\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00E60172
 #. y4:runtime_group_count=1
@@ -24,72 +26,88 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E60172 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "224"
-msgid "You gained 10,000 EXP.	"
-msgstr "Has ganado 10 000 EXP.	"
+msgid "You gained 10,000 EXP.\t"
+msgstr "Has ganado 10 000 EXP.\t"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2156"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "2160"
 msgid "Chihiro"
 msgstr "Chihiro"
 
+#. y4:line_status=translated
 msgctxt "2164"
 msgid "F_sxy_stand_sync_dakitukiA_ed"
 msgstr "F_sxy_stand_sync_dakitukiA_ed"
 
+#. y4:line_status=translated
 msgctxt "2168"
 msgid "P_stand_sync_dakitukiA_ed"
 msgstr "P_stand_sync_dakitukiA_ed"
 
+#. y4:line_status=translated
 msgctxt "2172"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "2176"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=translated
 msgctxt "2180"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "2184"
 msgid "P_tan_stand"
 msgstr "P_tan_stand"
 
+#. y4:line_status=translated
 msgctxt "2188"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "68_Tanimura"
 msgid "What's wrong? You kinda zoned out there."
 msgstr "¿Qué pasa? Estabas como desconectada."
 
+#. y4:line_status=translated
 msgctxt "80_Chihiro"
 msgid "I think I'm too happy... It's like a dream... What if I wake up tomorrow and none of this happened?"
 msgstr "Nada es solo que, siento que estoy muy feliz... Es como un sueño... ¿Y si me despierto por la mañana y nada de esto fue real?"
 
+#. y4:line_status=translated
 msgctxt "92_Tanimura"
 msgid "Heh, that's just silly."
 msgstr "Je, eso es una tontería."
 
+#. y4:line_status=translated
 msgctxt "116_Chihiro"
 msgid "Thank you for everything. I'm never going to give up my dream of becoming an actress."
 msgstr "Gracias por todo. Nunca renunciaré a mi sueño de ser actriz."
 
+#. y4:line_status=translated
 msgctxt "128_Tanimura"
 msgid "I'll do whatever I can to help."
 msgstr "Haré todo lo que pueda para ayudar."
 
+#. y4:line_status=translated
 msgctxt "140_Chihiro"
 msgid "I love you! <Color:7>♥<Color:Default>"
 msgstr "¡Te amo! <Color:7>♥<Color:Default>"
+

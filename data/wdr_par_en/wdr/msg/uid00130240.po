@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60270\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00130240
 #. y4:runtime_group_count=2
@@ -24,74 +26,90 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00130240 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2124"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "2128"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "2132"
 msgid "Officer"
 msgstr "Oficial"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "2136"
 msgid "Dine-and-Dasher"
 msgstr "Comensal furtivo"
 
+#. y4:line_status=translated
 msgctxt "2140"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:line_status=translated
 msgctxt "2144"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=todo
 msgctxt "72_Tanimura"
 msgid "Somebody took off without paying for their meal, right? What'd they look like?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "84_Officer"
 msgid "Well, he looked like－"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "96_Officer"
 msgid "Hey! There he is!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "108_Dine-and-Dasher"
 msgid "Hahaha! I am the legendary dine-and-dash master!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "120_Dine-and-Dasher"
 msgid "You think you can catch me, boy!?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "144_Tanimura"
 msgid "Somebody took off without paying for their meal, right? What'd they look like?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "156_Officer"
 msgid "Well, he looked like－"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "168_Officer"
 msgid "Hey! There he is!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "180_Tanimura"
 msgid "You again!?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "192_Dine-and-Dasher"
 msgid "Nice to see you, too! I'll show you what the dine-and-dash master is truly made of!"
 msgstr ""
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59510\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00130236
 #. y4:runtime_group_count=2
@@ -24,46 +26,54 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00130236 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2152"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "2156"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=todo
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "2160"
 msgid "Stern-Looking Yakuza"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "2164"
 msgid "Infuriated Yakuza"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "2168"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:line_status=todo
 msgctxt "128_Tanimura"
 msgid "I'm with the police! You oughta think twice about fighting in the middle of the street!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "140_Stern-Looking Yakuza"
 msgid "Aw, shit..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "152_Infuriated Yakuza"
 msgid "Better back your po-lice ass up, or you're gonna be the first one I take out!"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -71,18 +81,22 @@ msgctxt "164_Tanimura"
 msgid "(He sure took off in a hurry...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "176_Tanimura"
 msgid "Hey, get back here! Stop!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "200_Tanimura"
 msgid "Might as well take this guy on first. He seems to love police officers."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "212_Tanimura"
 msgid "You asked for it!"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -93,6 +107,7 @@ msgctxt "236_Tanimura"
 msgid "Chase the Guy who Took Off"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -102,3 +117,4 @@ msgstr ""
 msgctxt "248_Tanimura"
 msgid "Fight the Guy with the Big Mouth"
 msgstr ""
+

@@ -7,7 +7,7 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=translated
-#. y4:last_reviewer=Keiner
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00260086
 #. y4:runtime_group_count=1
@@ -15,7 +15,8 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CASINO.bin
 #. y4:runtime_play_command=y4.play_msg 00260086 <group>
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "5996"
@@ -211,3 +212,4 @@ msgstr "Está bien. Entonces, básicamente, me encargo de sacar la\nbasura, ¿no
 msgctxt "392_Casino Manager"
 msgid "More or less, yes. Thank you again."
 msgstr "Algo así. Es una interpretación válida. Le doy las gracias\nnuevamente."
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60132\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00AE0001
 #. y4:runtime_group_count=1
@@ -24,8 +26,7 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_TE_0009.bin
 #. y4:runtime_play_command=y4.play_msg 00AE0001 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -33,30 +34,37 @@ msgctxt "164"
 msgid "Welcome."
 msgstr "Bienvenido."
 
+#. y4:line_status=translated
 msgctxt "200"
 msgid "What drink?"
 msgstr "¿Qué bebida?"
 
+#. y4:line_status=translated
 msgctxt "224"
 msgid "What food?"
 msgstr "¿Qué comida?"
 
+#. y4:line_status=translated
 msgctxt "272"
 msgid "Cooking Instructions."
 msgstr "Instrucciones de cocina."
 
+#. y4:line_status=translated
 msgctxt "296"
 msgid "Thank you very much."
 msgstr "Muchas gracias."
 
+#. y4:line_status=translated
 msgctxt "308"
 msgid "Your bill comes to %s!"
 msgstr "¡Su factura asciende a %s!"
 
+#. y4:line_status=translated
 msgctxt "320"
 msgid "Thanks bunches."
 msgstr "Muchas gracias."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -67,6 +75,7 @@ msgctxt "356"
 msgid "Normal food"
 msgstr "Comida normal"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -77,6 +86,7 @@ msgctxt "368"
 msgid "Food, pay later"
 msgstr "Comida, paga después"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -87,6 +97,7 @@ msgctxt "380"
 msgid "Food, pay later x2"
 msgstr "Comida, paga después x2"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -97,6 +108,8 @@ msgctxt "392"
 msgid "Sam's Maui"
 msgstr "Sam's Maui"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -107,6 +120,7 @@ msgctxt "404"
 msgid "Date"
 msgstr "Date"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -116,3 +130,4 @@ msgstr "Date"
 msgctxt "416"
 msgid "Bar"
 msgstr "Bar"
+

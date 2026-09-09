@@ -7,7 +7,7 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=translated
-#. y4:last_reviewer=Keiner
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01830187
 #. y4:runtime_group_count=8
@@ -15,7 +15,8 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_GOLF.bin
 #. y4:runtime_play_command=y4.play_msg 01830187 <group>
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1020"
@@ -57,3 +58,4 @@ msgstr "¡Tío Kaz! ¡Consigue 500 puntos en el desafío de aproximación al hoy
 msgctxt "252_Haruka"
 msgid "Uncle Kaz! Get at least +2 in Competition Mode!"
 msgstr "¡Tío Kaz! ¡Consigue al menos un +2 en el Modo Competición!"
+

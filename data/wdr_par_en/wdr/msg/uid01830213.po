@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60900\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01830213
 #. y4:runtime_group_count=2
@@ -24,138 +26,160 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01830213 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "4612"
 msgid "Man in Disguise"
 msgstr "Hombre Disfrazado"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "4616"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "4620"
 msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "4624"
 msgid "\"Akiyama\""
 msgstr "\"Akiyama\""
 
+#. y4:line_status=translated
 msgctxt "4628"
 msgid "SetM_nml_sitgrd_down_03"
 msgstr "SetM_nml_sitgrd_down_03"
 
+#. y4:line_status=translated
 msgctxt "4632"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "4636"
 msgid "Talk_Chohatu"
 msgstr "Talk_Chohatu"
 
+#. y4:line_status=translated
 msgctxt "4640"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 msgctxt "4644"
 msgid "Talk_Odosu"
 msgstr "Talk_Odosu"
 
+#. y4:line_status=translated
 msgctxt "72_Man in Disguise"
 msgid "Gaaagh!"
 msgstr "¡Aaagh!"
 
+#. y4:line_status=translated
 msgctxt "84_Akiyama"
 msgid "That'll show you!"
 msgstr "¡Así aprenderás!"
 
+#. y4:line_status=translated
 msgctxt "96_\"Akiyama\""
 msgid "You did it! Amazing!"
 msgstr "¡Lo lograste! ¡Eres asombroso!"
 
+#. y4:line_status=translated
 msgctxt "108_Man in Disguise"
 msgid "Arrrgh..."
 msgstr "Arrrgh..."
 
+#. y4:line_status=translated
 msgctxt "144_\"Akiyama\""
 msgid "Yikes!"
 msgstr "¡Vaya!"
 
+#. y4:line_status=translated
 msgctxt "192_\"Akiyama\""
 msgid "Oh, no! He took the case!"
 msgstr "¡Oh, no! ¡Me robó el maletín!"
 
+#. y4:line_status=translated
 msgctxt "204_Akiyama"
 msgid "Seriously? I told you to hold onto it!"
 msgstr "¿Lo dices en serio? ¡Te dije que no lo soltaras!"
 
+#. y4:line_status=translated
 msgctxt "216_\"Akiyama\""
 msgid "Now what do we do? What do we do, Suzuki-san!?"
 msgstr "¿Y ahora qué hacemos? ¡¿Qué hacemos, Suzuki san?!"
 
+#. y4:line_status=translated
 msgctxt "228_Akiyama"
-msgid "Take a deep breath. The case is gone. You can't get it back\\r\n"
-"now, so why don't we just go on ahead to the drop-off point?"
-msgstr "Respira hondo. Se llevaron el maletín. No lo podemos\\r\n"
-"recuperar ahora, ¿así que por qué no vamos directamente al punto de entrega?"
+msgid "Take a deep breath. The case is gone. You can't get it back\\r\nnow, so why don't we just go on ahead to the drop-off point?"
+msgstr "Respira hondo. Se llevaron el maletín. No lo podemos\\r\nrecuperar ahora, ¿así que por qué no vamos directamente al punto de entrega?"
 
+#. y4:line_status=translated
 msgctxt "240_\"Akiyama\""
 msgid "Are you sure? Do you think they'll forgive me?"
 msgstr "¿Seguro? ¿Crees que lo dejarán pasar?"
 
+#. y4:line_status=translated
 msgctxt "276_\"Akiyama\""
-msgid "Phew... We're about halfway there. So far, so good. All we\\r\n"
-"have to do is keep this up and－"
-msgstr "Fiu... Ya casi llegamos. Por ahora, vamos bien. Solo\\r\n"
-"tenemos que mantenernos así y－"
+msgid "Phew... We're about halfway there. So far, so good. All we\\r\nhave to do is keep this up and－"
+msgstr "Fiu... Ya casi llegamos. Por ahora, vamos bien. Solo\\r\ntenemos que mantenernos así y－"
 
+#. y4:line_status=translated
 msgctxt "288_Man in Disguise"
 msgid "Halt."
 msgstr "Alto ahí."
 
+#. y4:line_status=translated
 msgctxt "300_\"Akiyama\""
 msgid "Eeek!"
 msgstr "¡Ay!"
 
+#. y4:line_status=translated
 msgctxt "312_Man in Disguise"
 msgid "Leave the case and go."
 msgstr "Suelten el maletín y lárguense."
 
+#. y4:line_status=translated
 msgctxt "324_\"Akiyama\""
 msgid "No..."
 msgstr "No..."
 
+#. y4:line_status=translated
 msgctxt "336_\"Akiyama\""
-msgid "Hey, I know! Suzuki-san! If you want that hundred million,\\r\n"
-"take care of these guys!"
-msgstr "¡Eh, ya sé, Suzuki-san! ¡Si de verdad quieres esos cien millones,\\r\n"
-"encárgate de ellos!"
+msgid "Hey, I know! Suzuki-san! If you want that hundred million,\\r\ntake care of these guys!"
+msgstr "¡Eh, ya sé, Suzuki-san! ¡Si de verdad quieres esos cien millones,\\r\nencárgate de ellos!"
 
+#. y4:line_status=translated
 msgctxt "348_Akiyama"
 msgid "Really? But..."
 msgstr "¿De verdad? Pero yo..."
 
+#. y4:line_status=translated
 msgctxt "360_\"Akiyama\""
 msgid "Do you want the loan or not!?"
 msgstr "¡¿Vas a querer el préstamo o no?!"
 
+#. y4:line_status=translated
 msgctxt "372_Akiyama"
-msgid "Okay, I get you... Just make sure you hold onto that case,\\r\n"
-"all right?"
-msgstr "Está bien, ya entendí... Solo asegúrate de no soltar ese maletín,\\r\n"
-"¿vale?"
+msgid "Okay, I get you... Just make sure you hold onto that case,\\r\nall right?"
+msgstr "Está bien, ya entendí... Solo asegúrate de no soltar ese maletín,\\r\n¿vale?"
 
+#. y4:line_status=translated
 msgctxt "384_\"Akiyama\""
 msgid "Right. I'll defend it with my very life!"
 msgstr "Claro. ¡Lo defenderé con mi vida!"
 
+#. y4:line_status=translated
 msgctxt "396_Akiyama"
 msgid "Here goes... All right, you ruffians, come and get me!"
 msgstr "Aquí vamos... ¡De acuerdo, Rufianes, derrótenme si pueden!"
+

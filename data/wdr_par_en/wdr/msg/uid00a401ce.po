@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60218\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00A401CE
 #. y4:runtime_group_count=2
@@ -24,64 +26,70 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00A401CE <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1424"
 msgid "Forex Company Employee"
 msgstr "Empleado de compañía de forex"
 
+#. y4:line_status=translated
 msgctxt "1428"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1432"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "1436"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "1440"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "1444"
 msgid "Talk_Info_R"
 msgstr "Talk_Info_R"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
 msgctxt "128_Forex Company Employee"
-msgid "Are you here for the forex information session?\\r\n"
-"Thank you very much!"
-msgstr "¿Viene por la charla informativa de forex?\\r\n"
-"¡Un placer tenerle aquí!"
+msgid "Are you here for the forex information session?\\r\nThank you very much!"
+msgstr "¿Viene por la charla informativa de forex?\\r\n¡Un placer tenerle aquí!"
 
+#. y4:line_status=translated
 msgctxt "140_Akiyama"
 msgid "I'm not particularly interested in forex, no."
 msgstr "No. No estoy muy interesado en el FX."
 
+#. y4:line_status=translated
 msgctxt "152_Forex Company Employee"
-msgid "Oh, you aren't? Well, we're always holding information\\r\n"
-"sessions here, so stop by if you ever want to learn more!"
-msgstr "¿Seguro? Bueno, siempre tenemos charlas de estas, así\\r\n"
-"que le esperamos por aquí si alguna vez quiere aprender."
+msgid "Oh, you aren't? Well, we're always holding information\\r\nsessions here, so stop by if you ever want to learn more!"
+msgstr "¿Seguro? Bueno, siempre tenemos charlas de estas, así\\r\nque le esperamos por aquí si alguna vez quiere aprender."
 
+#. y4:line_status=translated
 msgctxt "164_Akiyama"
-msgid "I am a little interested in forex, yes. I came by to learn\\r\n"
-"more."
+msgid "I am a little interested in forex, yes. I came by to learn\\r\nmore."
 msgstr "Estoy un poco interesado en el FX. Vine a informarme."
 
+#. y4:line_status=translated
 msgctxt "176_Forex Company Employee"
 msgid "Thank you very much! Please, right this way."
 msgstr "¡Es un placer tenerlo aquí! Por favor, acompáñeme."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -92,6 +100,7 @@ msgctxt "200_Forex Company Employee"
 msgid "I'm not interested."
 msgstr "No me interesa."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -101,3 +110,4 @@ msgstr "No me interesa."
 msgctxt "212_Forex Company Employee"
 msgid "I came to hear the talk."
 msgstr "Vine a escuchar la charla."
+

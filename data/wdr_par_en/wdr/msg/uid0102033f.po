@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59570\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0102033F
 #. y4:runtime_group_count=1
@@ -24,42 +26,50 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KOMAMACHI.bin
 #. y4:runtime_play_command=y4.play_msg 0102033F <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "1156"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1160"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1164"
 msgid "Sukegawa"
 msgstr "Sukegawa"
 
+#. y4:line_status=translated
 msgctxt "1168"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "1172"
 msgid "Yakuza"
 msgstr "Yakuza"
 
+#. y4:line_status=todo
 msgctxt "80_Akiyama"
 msgid "Hey there, friends. You wouldn't happen to know where I could find a Hatsushiba-san, would you?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "92_Sukegawa"
 msgid "Give us back our home, you filth!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "104_Yakuza"
 msgid "Ugh, first the old geezer upstairs, now this? Guess the only way to shut you up is to kill you!"
 msgstr ""
+

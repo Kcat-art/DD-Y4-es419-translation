@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61892\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00910742
 #. y4:runtime_group_count=3
@@ -24,114 +26,138 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00910742 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "5628"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "5632"
 msgid "Woman"
 msgstr "Mujer"
 
+#. y4:line_status=translated
 msgctxt "5636"
 msgid "F_ol_stand"
 msgstr "F_ol_stand"
 
+#. y4:line_status=translated
 msgctxt "5640"
 msgid "Idle"
 msgstr "Idle"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "5644"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "5648"
 msgid "Talk_Away"
 msgstr "Talk_Away"
 
+#. y4:line_status=translated
 msgctxt "5652"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:line_status=translated
 msgctxt "5656"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 msgctxt "5660"
 msgid "Talk_Ase"
 msgstr "Talk_Ase"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=9
 msgctxt "5664"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 msgctxt "5668"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "5672"
 msgid "Talk_CryBig_st"
 msgstr "Talk_CryBig_st"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=12
 msgctxt "5676"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=translated
 msgctxt "5680"
 msgid "Talk_Udekumi_st"
 msgstr "Talk_Udekumi_st"
 
+#. y4:line_status=translated
 msgctxt "5684"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=translated
 msgctxt "5688"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 msgctxt "5692"
 msgid "Talk_Udekumi_Yes"
 msgstr "Talk_Udekumi_Yes"
 
+#. y4:line_status=translated
 msgctxt "5696"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "5700"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "232_Player"
 msgid "(I should come back when I'm alone.)"
 msgstr "(Debería volver cuando este solo.)"
 
+#. y4:line_status=todo
 msgctxt "244_Woman"
 msgid "*singing Filipino song*"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "256_Woman"
 msgid "!?"
 msgstr "!?"
 
+#. y4:line_status=translated
 msgctxt "340_Woman"
 msgid "*speaking Tagalog*"
 msgstr "*Naghahanap ako ng tao*"
 
+#. y4:line_status=todo
 msgctxt "352_Akiyama"
 msgid "(Shit... I have no idea what she's saying.)"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -139,38 +165,47 @@ msgctxt "364_Akiyama"
 msgid "(Hmm. What should I do?)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "376_Akiyama"
 msgid "(I guess I'll just say something...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "388_Akiyama"
 msgid "*attempting to speak Tagalog* Hahaha!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "400_Woman"
 msgid "!!!"
 msgstr "!!!"
 
+#. y4:line_status=todo
 msgctxt "412_Woman"
 msgid "*actually speaking Tagalog*"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "424_Woman"
 msgid "*speaking Tagalog*"
 msgstr "*Naghahanap ako ng tao*"
 
+#. y4:line_status=todo
 msgctxt "436_Akiyama"
 msgid "(Uh-oh. I think I pissed her off.)"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "472_Woman"
 msgid "*speaking Tagalog*"
 msgstr "*Naghahanap ako ng tao*"
 
+#. y4:line_status=todo
 msgctxt "484_Saejima"
 msgid "(She ain't speakin' Japanese!? Aw shit...)"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -178,38 +213,47 @@ msgctxt "496_Saejima"
 msgid "(What should I do?)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "508_Saejima"
 msgid "(I'll just take my chances!)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "520_Saejima"
 msgid "*attempting to speak Tagalog*"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "532_Woman"
 msgid "!!!"
 msgstr "!!!"
 
+#. y4:line_status=todo
 msgctxt "544_Woman"
 msgid "*actually speaking Tagalog*"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "556_Woman"
 msgid "*speaking Tagalog*"
 msgstr "*Naghahanap ako ng tao*"
 
+#. y4:line_status=todo
 msgctxt "568_Saejima"
 msgid "(I made her cry! What did I do...)"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "604_Woman"
 msgid "*speaking Tagalog*"
 msgstr "*Naghahanap ako ng tao*"
 
+#. y4:line_status=todo
 msgctxt "616_Kiryu"
 msgid "(She's not Japanese, and doesn't seem to understand Japanese either...)"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -217,34 +261,42 @@ msgctxt "628_Kiryu"
 msgid "(I suppose I could, but...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "640_Kiryu"
 msgid "(She might understand if I just try talking.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "652_Kiryu"
 msgid "*attempting to speak Tagalog*"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "664_Woman"
 msgid "!!!"
 msgstr "!!!"
 
+#. y4:line_status=todo
 msgctxt "676_Woman"
 msgid "*actually speaking Tagalog*"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "688_Woman"
 msgid "*speaking Tagalog*"
 msgstr "*Naghahanap ako ng tao*"
 
+#. y4:line_status=todo
 msgctxt "700_Kiryu"
 msgid "(I don't know what I said, but she looks happy. I guess that's that.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "712_Player"
 msgid "(I'm just gonna leave...)"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -255,6 +307,7 @@ msgctxt "772_Player"
 msgid "Make Up Random Words"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -265,6 +318,7 @@ msgctxt "784_Player"
 msgid "Leave"
 msgstr "Irse"
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -275,6 +329,7 @@ msgctxt "796_Player"
 msgid "Make Up Random Words"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -285,6 +340,7 @@ msgctxt "808_Player"
 msgid "Leave"
 msgstr "Irse"
 
+#. y4:line_status=todo
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -295,6 +351,7 @@ msgctxt "820_Player"
 msgid "Make Up Random Words"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -304,3 +361,4 @@ msgstr ""
 msgctxt "832_Player"
 msgid "Leave"
 msgstr "Irse"
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61354\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00A90003
 #. y4:runtime_group_count=8
@@ -24,120 +26,138 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KARAOKE.bin
 #. y4:runtime_play_command=y4.play_msg 00A90003 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "4684"
 msgid "Hana"
 msgstr "Hana"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "4688"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "256_Hana"
-msgid "I can't believe I'm going to karaoke with you, Chief...\\r\n"
-"I'm so excited. Now, what should I sing?"
-msgstr "No puedo creer que vaya al karaoke contigo, Jefe...\\r\n"
-"Estoy tan emocionada. Ahora, ¿qué debería cantar?"
+msgid "I can't believe I'm going to karaoke with you, Chief...\\r\nI'm so excited. Now, what should I sing?"
+msgstr "No puedo creer que vaya al karaoke contigo, Jefe...\\r\nEstoy tan emocionada. Ahora, ¿qué debería cantar?"
 
+#. y4:line_status=translated
 msgctxt "268_Hana"
 msgid "I think I'll try \"Raindrops.\" The lyrics are heartrending, but it's one of my favorite songs."
 msgstr "Creo que intentaré \"Raindrops.\" La letra es desgarradora, pero es una de mis canciones favoritas."
 
+#. y4:line_status=translated
 msgctxt "280_Hana"
 msgid "Not bad, Chief! I never knew you were so good at cheering people on."
 msgstr "¡Nada mal, Jefe! No sabía que eras tan bueno animando."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
 msgctxt "292_Hana"
 msgid "Aren't you going to sing? Oh, I know! Why don't we sing a duet!?"
-msgstr "¿No va a cantar, jefe? ¡Ah, cierto!\n"
-"¡¿Qué tal si hacemos un dúo?!"
+msgstr "¿No va a cantar, jefe? ¡Ah, cierto!\n¡¿Qué tal si hacemos un dúo?!"
 
+#. y4:line_status=translated
 msgctxt "304_Akiyama"
 msgid "A duet, huh? Sure, why not? How about \"Pure Love in Kamurocho\"?"
-msgstr "¿Un dúo? Interesante.\n"
-"¿Qué tal \"Pure Love in Kamurocho\"?"
+msgstr "¿Un dúo? Interesante.\n¿Qué tal \"Pure Love in Kamurocho\"?"
 
+#. y4:line_status=translated
 msgctxt "316_Hana"
 msgid "Perfect! I can't wait!"
 msgstr "¡Perfecto! ¡No puedo esperar!"
 
+#. y4:line_status=translated
 msgctxt "328_Akiyama"
 msgid "Sorry, not today."
 msgstr "No, lo siento."
 
+#. y4:line_status=translated
 msgctxt "340_Hana"
 msgid "Really? Oh, all right. Too bad..."
 msgstr "Eh... Entiendo, es una pena."
 
+#. y4:line_status=translated
 msgctxt "352_Hana"
 msgid "Chief... You're breaking my rhythm."
 msgstr "Jefe... Arruina mi ritmo."
 
+#. y4:line_status=translated
 msgctxt "364_Akiyama"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:line_status=translated
 msgctxt "376_Hana"
 msgid "That felt out of this world! I never knew you were so good at cheering people on, Chief!"
 msgstr "¡Eso se sintió de otro mundo! ¡No sabía que fueras tan bueno animando a la gente, Jefe!"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
 msgctxt "388_Hana"
 msgid "Aren't you going to sing? Oh, I know! Why don't we sing a duet!?"
-msgstr "¿No va a cantar, jefe? ¡Ah, cierto!\n"
-"¡¿Qué tal si hacemos un dúo?!"
+msgstr "¿No va a cantar, jefe? ¡Ah, cierto!\n¡¿Qué tal si hacemos un dúo?!"
 
+#. y4:line_status=translated
 msgctxt "400_Akiyama"
 msgid "A duet, huh? Sure, why not? How about \"Pure Love in Kamurocho\"?"
-msgstr "¿Un dúo? Interesante.\n"
-"¿Qué tal \"Pure Love in Kamurocho\"?"
+msgstr "¿Un dúo? Interesante.\n¿Qué tal \"Pure Love in Kamurocho\"?"
 
+#. y4:line_status=translated
 msgctxt "412_Hana"
 msgid "Perfect! I can't wait!"
 msgstr "¡Perfecto! ¡No puedo esperar!"
 
+#. y4:line_status=translated
 msgctxt "424_Akiyama"
 msgid "Sorry, not today."
 msgstr "No, lo siento."
 
+#. y4:line_status=translated
 msgctxt "436_Hana"
 msgid "Really? Oh, all right. Too bad..."
 msgstr "Eh... Entiendo, es una pena."
 
+#. y4:line_status=translated
 msgctxt "448_Hana"
 msgid "Hehe... Don't you think we were completely in sync? We were flowing like pros."
 msgstr "Jeje... ¿No crees que estábamos completamente sincronizados? Fluíamos como profesionales."
 
+#. y4:line_status=translated
 msgctxt "460_Akiyama"
 msgid "Heheh, I guess so."
 msgstr "Heheh, supongo que sí."
 
+#. y4:line_status=translated
 msgctxt "472_Hana"
 msgid "Chief... Stop getting in my way."
 msgstr "Jefe... Deje de meterse en mi camino."
 
+#. y4:line_status=translated
 msgctxt "484_Akiyama"
 msgid "Sorry..."
 msgstr "Lo siento..."
 
+#. y4:line_status=translated
 msgctxt "496_Hana"
 msgid "That was perfect! I think we could release a CD. <Color:7>♥<Color:Default>"
 msgstr "¡Eso fue perfecto! Creo que podríamos lanzar un CD. <Color:7>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "508_Akiyama"
 msgid "Heheh, sure."
 msgstr "Jejeje, claro."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -148,6 +168,7 @@ msgctxt "520_Hana"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -158,6 +179,7 @@ msgctxt "532_Hana"
 msgid "I'd rather not."
 msgstr "Preferiría no hacerlo."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -168,6 +190,7 @@ msgctxt "544_Hana"
 msgid "Sure."
 msgstr "Claro."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -177,3 +200,4 @@ msgstr "Claro."
 msgctxt "556_Hana"
 msgid "I'd rather not."
 msgstr "Preferiría no hacerlo."
+

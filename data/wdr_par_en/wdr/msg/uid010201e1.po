@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61494\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=010201E1
 #. y4:runtime_group_count=1
@@ -24,52 +26,63 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 010201E1 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1976"
 msgid "Lily"
 msgstr "Lily"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1980"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "1984"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "1988"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "92_Lily"
 msgid "Hm..."
 msgstr "Mm..."
 
+#. y4:line_status=translated
 msgctxt "104_Akiyama"
 msgid "Is it somewhere in here?"
 msgstr "¿Es por aquí?"
 
+#. y4:line_status=translated
 msgctxt "116_Lily"
 msgid "Yeah, I think so."
 msgstr "Creo que sí..."
 
+#. y4:line_status=translated
 msgctxt "128_Lily"
 msgid "Though... I don't remember this building being here before."
 msgstr "Aunque... No recuerdo que este edificio estuviera aquí."
 
+#. y4:line_status=translated
 msgctxt "140_Akiyama"
 msgid "Really? It's been around at least as long as I have. Probably way longer."
 msgstr "¿Eh? Este edificio ha estado aquí desde hace bastante tiempo."
 
+#. y4:line_status=translated
 msgctxt "152_Lily"
 msgid "Do you think we could head inside? I'd like to see it for myself if you don't mind."
 msgstr "Oye... ¿te molestaría si entramos un momento?"
 
+#. y4:line_status=translated
 msgctxt "164_Akiyama"
 msgid "Oh, uh, sure..."
 msgstr "Oh, ah... claro, no hay problema."
+

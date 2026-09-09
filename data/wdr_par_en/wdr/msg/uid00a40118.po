@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59594\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00A40118
 #. y4:runtime_group_count=1
@@ -24,81 +26,93 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_CONV_P_02.bin
 #. y4:runtime_play_command=y4.play_msg 00A40118 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2044"
 msgid "Poppo Manager"
 msgstr "Gerente de Poppo"
 
+#. y4:line_status=translated
 msgctxt "2048"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "2052"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "2056"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:line_status=translated
 msgctxt "2060"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
+#. y4:line_status=translated
 msgctxt "2064"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "2068"
 msgid "2d_cf_pict_nigaoe_hana"
 msgstr "2d_cf_pict_nigaoe_hana"
 
+#. y4:line_status=translated
 msgctxt "2072"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "2076"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "56_Poppo Manager"
 msgid "Hello, Akiyama-san."
 msgstr "Hola, Akiyama-san."
 
+#. y4:line_status=translated
 msgctxt "68_Akiyama"
 msgid "Yo. How's business?"
 msgstr "Oye. ¿Cómo va el negocio?"
 
+#. y4:line_status=translated
 msgctxt "80_Poppo Manager"
-msgid "You know, I gotta say, the competition's pretty fierce...\\r\n"
-"Throw in some shoplifters, and it's a real struggle."
-msgstr "Sinceramente, en la ciudad hay mucha competencia...\\r\n"
-"Eso, sumado a la cantidad de robos, resulta abrumador."
+msgid "You know, I gotta say, the competition's pretty fierce...\\r\nThrow in some shoplifters, and it's a real struggle."
+msgstr "Sinceramente, en la ciudad hay mucha competencia...\\r\nEso, sumado a la cantidad de robos, resulta abrumador."
 
+#. y4:line_status=translated
 msgctxt "92_Akiyama"
-msgid "Sounds rough. Listen, can you do me a favor and let me know\\r\n"
-"if you see this guy?"
+msgid "Sounds rough. Listen, can you do me a favor and let me know\\r\nif you see this guy?"
 msgstr "Suena difícil. Escucha, ¿Puedes llamarme si ves a este tipo?"
 
+#. y4:line_status=translated
 msgctxt "104_Poppo Manager"
 msgid "...This some kinda  Rorschach test?"
 msgstr "... ¿Que es esto? ¿Una prueba de Rorschach?"
 
+#. y4:line_status=translated
 msgctxt "116_Akiyama"
-msgid "A what now? No, supposedly, the resemblance is uncanny.\\r\n"
-"So if you see him..."
-msgstr "¿Y eso? No. Pero, supuestamente tiene un extraño parecido.\\r\n"
-"Así que, si lo ves..."
+msgid "A what now? No, supposedly, the resemblance is uncanny.\\r\nSo if you see him..."
+msgstr "¿Y eso? No. Pero, supuestamente tiene un extraño parecido.\\r\nAsí que, si lo ves..."
 
+#. y4:line_status=translated
 msgctxt "128_Poppo Manager"
 msgid "You got it."
 msgstr "Está bien."
 
+#. y4:line_status=translated
 msgctxt "152_Akiyama"
 msgid "(Now to stop by Volcano... Lots of people there.)"
 msgstr "(Ahora pasare por Volcano... Allí anda mucha gente)"
+

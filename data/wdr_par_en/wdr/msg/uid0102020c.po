@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60566\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0102020C
 #. y4:runtime_group_count=1
@@ -24,67 +26,80 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_HATSUSHIBA.bin
 #. y4:runtime_play_command=y4.play_msg 0102020C <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1916"
 msgid "Hatsushiba"
 msgstr "Hatsushiba"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1920"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1924"
 msgid "Kido"
 msgstr "Kido"
 
+#. y4:line_status=translated
 msgctxt "1928"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "1932"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "56_Hatsushiba"
 msgid "I was doing Shibata a favor. He wanted me to help find some bitch named Lily."
 msgstr "Le estaba haciendo un favor a Shibata. Me dijo que quería que encontrara a una mujer llamada Lily."
 
+#. y4:line_status=translated
 msgctxt "68_Akiyama"
 msgid "Did you just say Lily?"
 msgstr "¿A Lily-chan?"
 
+#. y4:line_status=translated
 msgctxt "80_Kido"
 msgid "What's Shibata want with her?"
 msgstr "¿Por qué Shibata la está buscando?"
 
+#. y4:line_status=translated
 msgctxt "92_Hatsushiba"
 msgid "Hell if I know, but he looked really pissed when he was talking about her."
 msgstr "Quién sabe. No me dio muchos detalles. Pero estaba totalmente decidido a encontrarla, se lo tomó muy en serio."
 
+#. y4:line_status=translated
 msgctxt "104_Akiyama"
 msgid "So that's why you took my registry?"
 msgstr "¿Así que por eso se llevaron la lista de clientes?"
 
+#. y4:line_status=translated
 msgctxt "116_Hatsushiba"
 msgid "Yeah. We knew she'd come to see you."
 msgstr "Sí. Ya tenía información de que Lily había ido a Sky Finance."
 
+#. y4:line_status=translated
 msgctxt "128_Hatsushiba"
 msgid "If she came as a client, you'd have her contact info in your registry."
 msgstr "Entonces, si conseguía la lista de clientes, podría averiguar alguna forma de contactarla."
 
+#. y4:line_status=translated
 msgctxt "140_Kido"
 msgid "That still doesn't explain why Shibata wants her so badly."
-msgstr "Aun así, ¿por qué Shibata está tan obsesionado\n"
-"con esa tal Lily...?"
+msgstr "Aun así, ¿por qué Shibata está tan obsesionado\ncon esa tal Lily...?"
 
+#. y4:line_status=translated
 msgctxt "152_Akiyama"
 msgid "Hm..."
 msgstr "Mm..."
+

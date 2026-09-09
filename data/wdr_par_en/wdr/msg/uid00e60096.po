@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60410\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00E60096
 #. y4:runtime_group_count=2
@@ -24,54 +26,60 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E60096 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1060"
 msgid "Grumpy Owner"
 msgstr "Dueño gruñón"
 
+#. y4:line_status=translated
 msgctxt "1064"
 msgid "Talk_Angry"
 msgstr "Talk_Angry"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1068"
 msgid "Calming Man"
 msgstr "Hombre calmado"
 
+#. y4:line_status=translated
 msgctxt "1072"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "1076"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "1080"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "84_Grumpy Owner"
-msgid "Why's that scout always bringing in the fat girls? I thought\\r\n"
-"I told him to find me the best girls he could find!"
-msgstr "¿Por qué ese scout siempre me trae chicas gordas? ¡Pensé\\r\n"
-"haberle dicho que me trajera las mejores chicas que pudiera encontrar!"
+msgid "Why's that scout always bringing in the fat girls? I thought\\r\nI told him to find me the best girls he could find!"
+msgstr "¿Por qué ese scout siempre me trae chicas gordas? ¡Pensé\\r\nhaberle dicho que me trajera las mejores chicas que pudiera encontrar!"
 
+#. y4:line_status=translated
 msgctxt "96_Calming Man"
 msgid "Well, you know... To each his own."
 msgstr "Bueno, ya sabes... Cada quien con sus gustos."
 
+#. y4:line_status=translated
 msgctxt "108_Grumpy Owner"
-msgid "He's out looking for new girls on Pink Street today. If he\\r\n"
-"he brings me another chunker, he's fired!"
-msgstr "Está buscando chicas nuevas en la Calle Pink ahora, Si me vuelve\\r\n"
-"a traer otra chica rechoncha, ¡lo despediré!"
+msgid "He's out looking for new girls on Pink Street today. If he\\r\nhe brings me another chunker, he's fired!"
+msgstr "Está buscando chicas nuevas en la Calle Pink ahora, Si me vuelve\\r\na traer otra chica rechoncha, ¡lo despediré!"
 
+#. y4:line_status=translated
 msgctxt "120_Akiyama"
 msgid "(Seems there's a scout on Pink Street who's only going after bigger girls... He might be just the man I'm looking for!)"
 msgstr "(Al parecer hay un scout en la Calle Pink que solo va tras chicas de talla grande... ¡A lo mejor él es a quien estoy buscando!)"
+

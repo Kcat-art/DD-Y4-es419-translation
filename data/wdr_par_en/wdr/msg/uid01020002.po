@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58924\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01020002
 #. y4:runtime_group_count=5
@@ -24,36 +26,42 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_FINANCE.bin
 #. y4:runtime_play_command=y4.play_msg 01020002 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1532"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1536"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=todo
 msgctxt "164_Akiyama"
 msgid "(I can't be going back to the office right now. I need to find Midorikawa, and get back Kido-chan and the client list...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "176_Akiyama"
 msgid "(The girl we were training at Elise just disappeared.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "188_Akiyama"
 msgid "(I need to find her quickly. Where would she be... Maybe where we recruited her?)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "200_Akiyama"
 msgid "(The manager's asked me to go scout for him. I've got to find some potential hostesses.)"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -61,18 +69,22 @@ msgctxt "212_Akiyama"
 msgid "(Or should I stop recruiting for the moment?)"
 msgstr "(¿O debería detener el reclutamiento por ahora?)."
 
+#. y4:line_status=translated
 msgctxt "224_Akiyama"
 msgid "(I'll stop for now.)"
 msgstr "(Por ahora, voy a parar el reclutamiento)."
 
+#. y4:line_status=translated
 msgctxt "248_Akiyama"
 msgid "(No, I should keep looking.)"
 msgstr "(No, voy a seguir buscando)."
 
+#. y4:line_status=todo
 msgctxt "272_Player"
 msgid "(Looks like it's locked.)"
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -83,6 +95,7 @@ msgctxt "284_Akiyama"
 msgid "Stop Recruiting"
 msgstr "Dejar de Reclutar"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -92,3 +105,4 @@ msgstr "Dejar de Reclutar"
 msgctxt "296_Akiyama"
 msgid "Continue Recruiting"
 msgstr "Continuar Reclutando"
+

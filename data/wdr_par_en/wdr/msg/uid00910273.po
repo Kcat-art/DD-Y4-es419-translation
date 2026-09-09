@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62028\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00910273
 #. y4:runtime_group_count=2
@@ -24,68 +26,81 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00910273 <group>
 
-
-
+#. y4:line_status=todo
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1208"
 msgid "Senpai Businessman"
 msgstr ""
 
+#. y4:line_status=todo
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1212"
 msgid "Kohai Businessman"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "1216"
 msgid "Talk_SmileBig_st"
 msgstr "Talk_SmileBig_st"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "1220"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "1224"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=5
 msgctxt "1228"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=6
 msgctxt "1232"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=todo
 msgctxt "84_Senpai Businessman"
 msgid "Have you heard about this married couple around here that are experts at kung fu?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "96_Kohai Businessman"
 msgid "I wonder what their fights are like!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "108_Kiryu"
 msgid "Error if this shows up."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "120_Akiyama"
 msgid "(I'm sure their fights are like a kung-fu movie. I should have a look. I may be able to have a <Color:7>Revelation<Color:Default>...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "132_Saejima"
 msgid "(A couple fighting, huh... Kamurocho has always had its fair share of rowdy couples. Maybe it'll give me a <Color:7>Revelation<Color:Default>...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "144_Tanimura"
 msgid "Error if this shows up."
 msgstr ""
+

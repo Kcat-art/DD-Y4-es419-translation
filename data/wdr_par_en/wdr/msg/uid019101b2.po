@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59188\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=019101B2
 #. y4:runtime_group_count=3
@@ -24,56 +26,68 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 019101B2 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "1704"
 msgid "Player_AORI_0.8_ON"
 msgstr "Player_AORI_0.8_ON"
 
+#. y4:line_status=translated
 msgctxt "1708"
 msgid "P_stand_tlk_kyoro_lp"
 msgstr "P_stand_tlk_kyoro_lp"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1712"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "1716"
 msgid "10_-15_SLOWER_VF_ON"
 msgstr "10_-15_SLOWER_VF_ON"
 
+#. y4:line_status=translated
 msgctxt "1720"
 msgid "Player_BACK��_2.5_ON"
 msgstr "Player_BACK��_2.5_ON"
 
+#. y4:line_status=translated
 msgctxt "1724"
 msgid "P_damage"
 msgstr "P_damage"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=6
 msgctxt "1728"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=translated
 msgctxt "1732"
 msgid "Idle"
 msgstr "Idle"
 
+#. y4:line_status=translated
 msgctxt "112_Player_AORI_0.8_ON"
 msgid "I lost her..."
 msgstr "La perdí de vista..."
 
+#. y4:line_status=translated
 msgctxt "160_Player_AORI_0.8_ON"
 msgid "I lost her..."
 msgstr "La perdí de vista..."
 
+#. y4:line_status=translated
 msgctxt "208_Player_AORI_0.8_ON"
 msgid "*pant* *pant*"
 msgstr "*jadeo* *jadeo*"
 
+#. y4:line_status=translated
 msgctxt "220_Player"
 msgid "No good... I can't run anymore..."
 msgstr "No puede ser... Ya no tengo fuerzas para correr..."
+

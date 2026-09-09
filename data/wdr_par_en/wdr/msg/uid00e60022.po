@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62592\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00E60022
 #. y4:runtime_group_count=2
@@ -24,40 +26,48 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 00E60022 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "992"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "996"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1000"
 msgid "Waiting Man"
 msgstr "Hombre Esperando"
 
+#. y4:line_status=translated
 msgctxt "1004"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:line_status=translated
 msgctxt "84_Akiyama"
 msgid "Hey, excuse me. Do you know where Shino Productions is?"
 msgstr "Oye, discúlpame. ¿Sabes dónde está Shino Productions?"
 
+#. y4:line_status=translated
 msgctxt "96_Waiting Man"
 msgid "Hm? Shino Productions? It's right in this building."
 msgstr "¿Hm? ¿Shino Producciones? Está justo en este edificio."
 
+#. y4:line_status=translated
 msgctxt "108_Akiyama"
 msgid "Great, thanks."
 msgstr "Genial, gracias."
 
+#. y4:line_status=translated
 msgctxt "120_Akiyama"
 msgid "(I should pay them a little visit.)"
 msgstr "(Debería hacerles una pequeña visita.)"
+

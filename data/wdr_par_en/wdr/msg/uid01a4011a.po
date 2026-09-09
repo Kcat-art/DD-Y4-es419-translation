@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58380\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01A4011A
 #. y4:runtime_group_count=1
@@ -24,62 +26,73 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 01A4011A <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "1676"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1680"
 msgid "Homeless Man"
 msgstr "Hombre sin hogar"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1684"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "1688"
 msgid "Talk_Phone_yes"
 msgstr "Talk_Phone_yes"
 
+#. y4:line_status=translated
 msgctxt "1692"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
+#. y4:line_status=translated
 msgctxt "1696"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "92_Homeless Man"
 msgid "Hey, Akiyama, is that you?"
 msgstr "Buenas, ¿Hablo con Akiyama?"
 
+#. y4:line_status=translated
 msgctxt "104_Akiyama"
 msgid "Uh-huh. You find him?"
 msgstr "Ajá. ¿Lo encontraste?"
 
+#. y4:line_status=translated
 msgctxt "116_Homeless Man"
 msgid "Yup. My buddy said he was skulkin' around Pink Street."
 msgstr "Sep. Mi amigo dice que anda por la Calle Pink."
 
+#. y4:line_status=translated
 msgctxt "128_Homeless Man"
 msgid "Couldn't believe how much he looked like the picture, neither."
 msgstr "No puedo creer lo mucho que se parece al dibujo."
 
+#. y4:line_status=translated
 msgctxt "140_Akiyama"
-msgid "Wow, that's pretty incredible. Okay, I'll go check it out.\\r\n"
-"Thanks. I owe you one."
-msgstr "Wow, eso es increíble. Bueno, iré a verlo. Muchas gracias\\r\n"
-"Te debo una."
+msgid "Wow, that's pretty incredible. Okay, I'll go check it out.\\r\nThanks. I owe you one."
+msgstr "Wow, eso es increíble. Bueno, iré a verlo. Muchas gracias\\r\nTe debo una."
 
+#. y4:line_status=translated
 msgctxt "152_Homeless Man"
 msgid "Aw, it's nothin'! See ya later."
 msgstr "Bah, ¡No es nada! Nos vemos."
 
+#. y4:line_status=translated
 msgctxt "212_Akiyama"
 msgid "(Pink Street, huh...? If I hurry, I might still catch him.)"
 msgstr "(Calle Pink, ¿Ah...? Si me apresuro, quizás lo atrape.)"
+

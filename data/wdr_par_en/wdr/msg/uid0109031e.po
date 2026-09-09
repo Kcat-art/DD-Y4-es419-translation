@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58642\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0109031E
 #. y4:runtime_group_count=1
@@ -24,26 +26,31 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 0109031E <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1060"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "1064"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "1068"
 msgid "Talk_Info_L"
 msgstr "Talk_Info_L"
 
+#. y4:line_status=translated
 msgctxt "1072"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 msgctxt "56_Akiyama"
 msgid "Hey, that's Arima..."
 msgstr "Hey, ese es Arima..."
+

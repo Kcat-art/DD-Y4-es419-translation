@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59780\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01400000
 #. y4:runtime_group_count=30
@@ -24,208 +26,256 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_CHOHAN.bin
 #. y4:runtime_play_command=y4.play_msg 01400000 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "604"
 msgid "Game on!"
 msgstr "¡A jugar!"
 
+#. y4:line_status=todo
 msgctxt "796"
 msgid "Promise me you'll be back."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "820"
 msgid "I do have a thing for strong men."
 msgstr ""
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "5584"
 msgid "Dealer"
 msgstr "Crupier"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "5588"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "5592"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "5596"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "5600"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=5
 msgctxt "5604"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=todo
 msgctxt "520_Dealer"
 msgid "Welcome. Go easy on me, please..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "532_Dealer"
 msgid "Welcome back. Heh... Go easy on me, please..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "544_Dealer"
 msgid "Nice of you to join us. Here we go."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "556_Dealer"
 msgid "I was waiting for you. Here we go."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "568_Dealer"
 msgid "Ready? Here we go."
 msgstr "¿Listos? Allá vamos."
 
+#. y4:line_status=translated
 msgctxt "580_Dealer"
 msgid "What's it gonna be!?"
 msgstr "¡Vamos, apuesten, apuesten!"
 
+#. y4:line_status=translated
 msgctxt "592_Dealer"
 msgid "Now they fall."
 msgstr "Las fichas del cho-han están listas."
 
+#. y4:line_status=todo
 msgctxt "616_Dealer"
 msgid "Hm, not bad."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "628_Dealer"
 msgid "Not too bad!"
 msgstr "¡No está mal!"
 
+#. y4:line_status=todo
 msgctxt "640_Dealer"
 msgid "Impressive!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "652_Dealer"
 msgid "I knew you'd get it."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "664_Dealer"
 msgid "Hm, that's the way it goes."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "676_Dealer"
 msgid "That's the way it goes."
 msgstr "Asi son las cosas."
 
+#. y4:line_status=todo
 msgctxt "688_Dealer"
 msgid "What's wrong? I've never seen you like this."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "700_Dealer"
 msgid "Don't worry. You'll make up for it next time."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "712_Dealer"
 msgid "So, what'll it be?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "724_Dealer"
 msgid "So, what'll it be?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "736_Dealer"
 msgid "So, what'll it be?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "748_Dealer"
 msgid "So, what'll it be?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "760_Dealer"
 msgid "Heh, try again next time."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "772_Dealer"
 msgid "Come again."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "784_Dealer"
 msgid "Hold on now..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "808_Dealer"
 msgid "Hold on now..."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "832_Dealer"
 msgid "Try again next time!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "844_Dealer"
 msgid "What're you goin' on about!? Quit making excuses and make a bet already!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "856_Kiryu"
 msgid "Heh... Fine."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "868_Akiyama"
 msgid "Heh... All right."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "880_Saejima"
 msgid "Hmph... Fine."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "892_Tanimura"
 msgid "Heh... Okay."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "904_Dealer"
 msgid "Hmph... You don't have a shred of proof, so just bet!"
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "916_Player"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=todo
 msgctxt "928_Dealer"
 msgid "(She kept her cool... Guess I was wrong.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "940_Dealer"
 msgid "(She's not even fazed. Was I mistaken?)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "952_Dealer"
 msgid "(She ain't even fazed. Was I wrong?)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "964_Dealer"
 msgid "(She kept her cool... Guess I was wrong.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "976_Dealer"
 msgid "Carry over your winnings to play the house?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "988_Dealer"
 msgid "Carry over your winnings to play the house?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1000_Dealer"
 msgid "Carry over your winnings to play the house?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "1012_Dealer"
 msgid "Carry over your winnings to play the house?"
 msgstr ""
+

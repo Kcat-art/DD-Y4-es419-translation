@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58664\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01E6009B
 #. y4:runtime_group_count=5
@@ -24,206 +26,238 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_FINANCE.bin
 #. y4:runtime_play_command=y4.play_msg 01E6009B <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "8468"
 msgid "Hana"
 msgstr "Hana"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "8472"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "8476"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:line_status=translated
 msgctxt "8480"
 msgid "Talk_NoBig"
 msgstr "Talk_NoBig"
 
+#. y4:line_status=translated
 msgctxt "8484"
 msgid "Talk_Quest"
 msgstr "Talk_Quest"
 
+#. y4:line_status=translated
 msgctxt "8488"
 msgid "Talk_No"
 msgstr "Talk_No"
 
+#. y4:line_status=translated
 msgctxt "8492"
 msgid "P_aki_sitsofa_tlk_kamae_st"
 msgstr "P_aki_sitsofa_tlk_kamae_st"
 
+#. y4:line_status=translated
 msgctxt "8496"
 msgid "P_aki_sitsofa_tlk_kamae"
 msgstr "P_aki_sitsofa_tlk_kamae"
 
+#. y4:line_status=translated
 msgctxt "8500"
 msgid "P_aki_stand_tlk_kamae"
 msgstr "P_aki_stand_tlk_kamae"
 
+#. y4:line_status=translated
 msgctxt "8504"
 msgid "Talk_Kamae"
 msgstr "Talk_Kamae"
 
+#. y4:line_status=translated
 msgctxt "8508"
 msgid "Talk_Surp"
 msgstr "Talk_Surp"
 
+#. y4:line_status=translated
 msgctxt "8512"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "8516"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "168_Hana"
 msgid "Hi, Chief."
 msgstr "Hola, jefe."
 
+#. y4:line_status=translated
 msgctxt "180_Akiyama"
 msgid "Hi, Hana-chan. I brought you something to eat."
 msgstr "Hola, Hana-chan. Te he traído algo de comer."
 
+#. y4:line_status=translated
 msgctxt "192_Hana"
 msgid "You whaaat!?"
 msgstr "¡¿Que tu quééé?!"
 
+#. y4:line_status=translated
 msgctxt "204_Akiyama"
 msgid "The deluxe kalbi lunch set from Kanrai. Your favorite!"
 msgstr "El set de kalbi de lujo del Kanrai. ¡Tu favorito!"
 
+#. y4:line_status=translated
 msgctxt "216_Hana"
-msgid "Oh, uh, thank you very much! But I'm not very hungry... You\\r\n"
-"can have it."
-msgstr "Oh, uh, ¡pues muchas gracias! Pero no tengo mucha hambre... Te\\r\n"
-"lo puedes comer tú."
+msgid "Oh, uh, thank you very much! But I'm not very hungry... You\\r\ncan have it."
+msgstr "Oh, uh, ¡pues muchas gracias! Pero no tengo mucha hambre... Te\\r\nlo puedes comer tú."
 
+#. y4:line_status=translated
 msgctxt "228_Akiyama"
-msgid "What? But you love their special kalbi! Just take it. You\\r\n"
-"can always eat it later."
-msgstr "¿Cómo? ¡Pero si te encanta su kalbi especial! Mejor guárdalo. Siempre\\r\n"
-"te los puedes comer luego."
+msgid "What? But you love their special kalbi! Just take it. You\\r\ncan always eat it later."
+msgstr "¿Cómo? ¡Pero si te encanta su kalbi especial! Mejor guárdalo. Siempre\\r\nte los puedes comer luego."
 
+#. y4:line_status=translated
 msgctxt "240_Hana"
 msgid "It'd be a shame to let it spoil. Please, eat it."
 msgstr "Sería una lástima que se pudra. Por favor, comételo tú."
 
+#. y4:line_status=translated
 msgctxt "252_Akiyama"
-msgid "Well, all right... But what's going on? Ordinarily, you'd be\\r\n"
-"snatching it out of my hands."
-msgstr "Bueno, pues... ¿Te pasa algo? Normalmente, ya me lo estarías\\r\n"
-"quitando de las manos."
+msgid "Well, all right... But what's going on? Ordinarily, you'd be\\r\nsnatching it out of my hands."
+msgstr "Bueno, pues... ¿Te pasa algo? Normalmente, ya me lo estarías\\r\nquitando de las manos."
 
+#. y4:line_status=translated
 msgctxt "300_Akiyama"
 msgid "Are you sure you're not hungry, Hana-chan?"
 msgstr "¿Segura que no tienes hambre, Hana-chan?"
 
+#. y4:line_status=translated
 msgctxt "312_Hana"
 msgid "I'm sure. Please eat it."
 msgstr "Estoy segurísima. Por favor, comételo tú."
 
+#. y4:line_status=translated
 msgctxt "324_Akiyama"
-msgid "Well, I say something's up. But if you really don't need it,\\r\n"
-"I'm not going to force you."
-msgstr "Está bien, Diría que te pasa algo. Pero si de verdad no lo quieres,\\r\n"
-"No te voy a forzar."
+msgid "Well, I say something's up. But if you really don't need it,\\r\nI'm not going to force you."
+msgstr "Está bien, Diría que te pasa algo. Pero si de verdad no lo quieres,\\r\nNo te voy a forzar."
 
+#. y4:line_status=translated
 msgctxt "396_Akiyama"
 msgid "You're not on a diet, are you, Hana-chan?"
 msgstr "Hana-Chan, no estarás a dieta, ¿verdad?"
 
+#. y4:line_status=translated
 msgctxt "408_Hana"
 msgid "......"
 msgstr "......"
 
+#. y4:line_status=translated
 msgctxt "420_Akiyama"
-msgid "That's it, isn't it! You're dieting! I just know it! Well,\\r\n"
-"am I right? Huh?"
-msgstr "Es eso, ¿verdad? ¡Estás a dieta! ¡Lo sabía!\\r\n"
-"¿Le atiné, cierto?"
+msgid "That's it, isn't it! You're dieting! I just know it! Well,\\r\nam I right? Huh?"
+msgstr "Es eso, ¿verdad? ¡Estás a dieta! ¡Lo sabía!\\r\n¿Le atiné, cierto?"
 
+#. y4:line_status=translated
 msgctxt "432_Hana"
 msgid "Enough!"
 msgstr "¡Suficiente!"
 
+#. y4:line_status=translated
 msgctxt "444_Akiyama"
 msgid "Yikes!"
 msgstr "¡Vaya!"
 
+#. y4:line_status=translated
 msgctxt "456_Hana"
 msgid "So what if I'm dieting? What's wrong with that?"
 msgstr "¿Y qué si estoy a dieta? ¿Algún problema?"
 
+#. y4:line_status=translated
 msgctxt "468_Akiyama"
 msgid "Nothing... It's just－my Hana-chan, dieting?"
 msgstr "Nada... Es solo que... － mi Hana-chan, ¿a dieta?"
 
+#. y4:line_status=translated
 msgctxt "480_Hana"
 msgid "Are you saying it'd be pointless for me to diet?"
 msgstr "¿Estás insinuando que no tiene sentido que haga dieta?"
 
+#. y4:line_status=translated
 msgctxt "492_Akiyama"
 msgid "No, no, that's not it at all..."
 msgstr "No, no, para nada..."
 
+#. y4:line_status=translated
 msgctxt "504_Hana"
 msgid "Well, what is it, then!?"
 msgstr "Bueno, entonces, ¿Qué es, si no?!"
 
+#. y4:line_status=translated
 msgctxt "516_Akiyama"
 msgid "You're wonderful just the way you are."
 msgstr "Eres maravillosa tal y como eres."
 
+#. y4:line_status=translated
 msgctxt "528_Hana"
 msgid "Don't gimme that crap, Chief! Men don't date fat women."
 msgstr "¡No me vengas con esa basura, Jefe! A los hombres no les gusta salir con gordas."
 
+#. y4:line_status=translated
 msgctxt "540_Akiyama"
-msgid "That's not true. There are plenty of men who'd gladly prefer\\r\n"
-"a curvier woman like yourself."
-msgstr "Eso no es cierto. Hay muchos hombres que con gusto prefieren\\r\n"
-"chicas curvilíneas como tú."
+msgid "That's not true. There are plenty of men who'd gladly prefer\\r\na curvier woman like yourself."
+msgstr "Eso no es cierto. Hay muchos hombres que con gusto prefieren\\r\nchicas curvilíneas como tú."
 
+#. y4:line_status=translated
 msgctxt "552_Hana"
 msgid "Hmm..."
 msgstr "Mmm..."
 
+#. y4:line_status=translated
 msgctxt "564_Akiyama"
 msgid "What?"
 msgstr "¿Qué?"
 
+#. y4:line_status=translated
 msgctxt "576_Hana"
 msgid "Okay, then, bring me one."
 msgstr "Bien, pues, tráeme uno."
 
+#. y4:line_status=translated
 msgctxt "588_Akiyama"
 msgid "Bring you one what?"
 msgstr "¿Traerte un qué?"
 
+#. y4:line_status=translated
 msgctxt "600_Hana"
-msgid "You have thirty minutes to bring in a man who likes chubby\\r\n"
-"girls like me!"
-msgstr "¡Te doy treinta minutos para que me traigas un chico que al que le guste una chica gordita\\r\n"
-"como yo!"
+msgid "You have thirty minutes to bring in a man who likes chubby\\r\ngirls like me!"
+msgstr "¡Te doy treinta minutos para que me traigas un chico que al que le guste una chica gordita\\r\ncomo yo!"
 
+#. y4:line_status=translated
 msgctxt "612_Akiyama"
 msgid "Kinda short notice, don't you think...?"
 msgstr "Que poca antelación, ¿No crees...?"
 
+#. y4:line_status=translated
 msgctxt "624_Hana"
 msgid "If there are so many of them, one measly man should be easy to find!"
 msgstr "Si crees que hay tantos, ¡un mísero hombre debería ser fácil de encontrar!"
 
+#. y4:line_status=translated
 msgctxt "636_Akiyama"
 msgid "But..."
 msgstr "Pero..."
 
+#. y4:line_status=translated
 msgctxt "648_Hana"
 msgid "You have twenty-nine minutes and forty-five seconds left... Forty-four... Forty-three..."
 msgstr "Te van quedando veintinueve minutos y cuarenta y cinco segundos... Cuarenta y cuatro... Cuarenta y tres..."
+

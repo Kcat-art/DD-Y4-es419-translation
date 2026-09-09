@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 58292\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0183020D
 #. y4:runtime_group_count=1
@@ -24,46 +26,53 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 0183020D <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1176"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 msgctxt "1180"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
+#. y4:line_status=translated
 msgctxt "1184"
 msgid "Talk_Phone_ed"
 msgstr "Talk_Phone_ed"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "1188"
 msgid "\"Akiyama\""
 msgstr "\"Akiyama\""
 
+#. y4:line_status=translated
 msgctxt "56_Akiyama"
 msgid "(Now what...?)"
 msgstr "(Bien, entonces ahora...)"
 
+#. y4:line_status=translated
 msgctxt "92_Akiyama"
 msgid "Hana-chan? Yes, I'm on my way there now."
 msgstr "Ah, ¿Hana-chan? Sí, iré para allá ahora mismo."
 
+#. y4:line_status=translated
 msgctxt "116_\"Akiyama\""
-msgid "A phone call, at a time like this? You're ruining the\\r\n"
-"moment!"
-msgstr "¿Una llamada en un momento como este? ¡Estás\\r\n"
-"arruinando el momento!"
+msgid "A phone call, at a time like this? You're ruining the\\r\nmoment!"
+msgstr "¿Una llamada en un momento como este? ¡Estás\\r\narruinando el momento!"
 
+#. y4:line_status=translated
 msgctxt "128_Akiyama"
 msgid "Sorry about that. Debt collector's pestering me."
 msgstr "Perdón por eso, es un cobrador que me insiste demasiado."
 
+#. y4:line_status=translated
 msgctxt "140_\"Akiyama\""
 msgid "Come on!"
 msgstr "¡Adelante!"
+

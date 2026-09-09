@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62450\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0091075A
 #. y4:runtime_group_count=2
@@ -24,52 +26,62 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 0091075A <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1216"
 msgid "Young Person"
 msgstr "Joven"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "1220"
 msgid "Kiryu"
 msgstr "Kiryu"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "1224"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "1228"
 msgid "Saejima"
 msgstr "Saejima"
 
+#. y4:line_status=todo
 msgctxt "84_Young Person"
 msgid "Just a minute ago there was this old man in that convenience store, drunk off his ass!"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "96_Young Person"
 msgid "He even had his tie around his head! That's definitely not something you see everyday."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "108_Kiryu"
 msgid "(A drunk with a tie around his head... That is pretty rare. It may be a chance to have a <Color:7>Revelation<Color:Default>.)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "120_Akiyama"
 msgid "Error if this shows up."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "132_Saejima"
 msgid "(Back in the day everyone used to wrap their tie around their head when drinkin'. Let's take a look－I may have a <Color:7>Revelation<Color:Default>...)"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "144_Saejima"
 msgid "Error if this shows up."
 msgstr ""
+

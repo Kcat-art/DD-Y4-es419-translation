@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 60052\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01630085
 #. y4:runtime_group_count=7
@@ -24,149 +26,158 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KARAOKE.bin
 #. y4:runtime_play_command=y4.play_msg 01630085 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "6336"
 msgid "Karaoke Rules"
 msgstr "Reglas del Karaoke"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "6340"
 msgid "Employee"
 msgstr "Empleado"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "6344"
 msgid "Player"
 msgstr "Player"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "6348"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=4
 msgctxt "6352"
 msgid "Tanimura"
 msgstr "Tanimura"
 
+#. y4:line_status=translated
 msgctxt "284_Karaoke Rules"
 msgid "Karaoke is a rhythm game in which you press buttons shown on-screen in time with a song. Simply press the indicated button when the cursor reaches it. Make sure to press the correct buttons at the right time to get the most points."
 msgstr "El karaoke es un juego de ritmo en el que presionas los botones que aparecen en pantalla al ritmo de una canción. Simplemente presiona el botón indicado cuando el cursor lo alcance. Asegúrate de presionar los botones correctos en el momento adecuado para obtener la mayor cantidad de puntos."
 
+#. y4:line_status=translated
 msgctxt "296_Karaoke Rules"
-msgid "The better your timing, the more points you will get.\\r\n"
-"If your timing is really off, your press won't count\\r\n"
-"even if it was the correct button."
-msgstr "Entre mejor sea tu sincronización, más puntos obtendrás.\\r\n"
-"Si tu sincronización es muy mala, tu pulsación no contará,\\r\n"
-"aunque hayas presionado el botón correcto."
+msgid "The better your timing, the more points you will get.\\r\nIf your timing is really off, your press won't count\\r\neven if it was the correct button."
+msgstr "Entre mejor sea tu sincronización, más puntos obtendrás.\\r\nSi tu sincronización es muy mala, tu pulsación no contará,\\r\naunque hayas presionado el botón correcto."
 
+#. y4:line_status=translated
 msgctxt "308_Karaoke Rules"
-msgid "Do your best to keep time with the song to rack up the\\r\n"
-"points and get a high score."
-msgstr "Esfuérzate por seguir el ritmo de la canción para acumular\\r\n"
-"puntos y conseguir un puntaje alto."
+msgid "Do your best to keep time with the song to rack up the\\r\npoints and get a high score."
+msgstr "Esfuérzate por seguir el ritmo de la canción para acumular\\r\npuntos y conseguir un puntaje alto."
 
+#. y4:line_status=translated
 msgctxt "320_Karaoke Rules"
-msgid "Complete the game by singing (or letting your partner sing)\\r\n"
-"a song from start to finish. Familiarize yourself with each\\r\n"
-"song and perfect your technique as you aim for a new high\\r\n"
-"score."
-msgstr "Completa el juego cantando (o dejando que tu compañera cante)\\r\n"
-"una canción de principio a fin. Familiarízate con cada canción\\r\n"
-"y perfecciona tu técnica para lograr un nuevo récord."
+msgid "Complete the game by singing (or letting your partner sing)\\r\na song from start to finish. Familiarize yourself with each\\r\nsong and perfect your technique as you aim for a new high\\r\nscore."
+msgstr "Completa el juego cantando (o dejando que tu compañera cante)\\r\nuna canción de principio a fin. Familiarízate con cada canción\\r\ny perfecciona tu técnica para lograr un nuevo récord."
 
+#. y4:line_status=translated
 msgctxt "332_Karaoke Rules"
-msgid "<Color:14>You can choose to switch between English and Japanese lyrics\\r\n"
-"in the Options Menu.<Color:Default>"
-msgstr "<Color:14>Puedes cambiar entre letras en inglés y japonés\\r\n"
-"en el Menú de Opciones.<Color:Default>"
+msgid "<Color:14>You can choose to switch between English and Japanese lyrics\\r\nin the Options Menu.<Color:Default>"
+msgstr "<Color:14>Puedes cambiar entre letras en inglés y japonés\\r\nen el Menú de Opciones.<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "344_Employee"
 msgid "I'm afraid your time is up. Please bring your microphones and payment slip to the reception desk when you leave."
 msgstr "Me temo que su tiempo ha terminado. Por favor, devuelva los micrófonos y entregue el comprobante de pago en la recepción al salir."
 
+#. y4:line_status=translated
 msgctxt "356_Employee"
 msgid "I'm afraid your time is up. Please bring your microphones and payment slip to the reception desk when you leave."
 msgstr "Me temo que su tiempo ha terminado. Por favor, devuelva los micrófonos y entregue el comprobante de pago en la recepción al salir."
 
+#. y4:line_status=translated
 msgctxt "368_Employee"
 msgid "I'm afraid your time is up. Please bring your microphones and payment slip to the reception desk when you leave."
 msgstr "Me temo que su tiempo ha terminado. Por favor, devuelva los micrófonos y entregue el comprobante de pago en la recepción al salir."
 
+#. y4:line_status=translated
 msgctxt "380_Employee"
 msgid "I'm afraid your time is up. Would you like to extend your time for only 500 yen?"
 msgstr "Me temo que su tiempo ha terminado. ¿Desea extender su sesión por sólo 500 yenes?"
 
+#. y4:line_status=translated
 msgctxt "404_Player"
-msgid "(Not if I don't have the dough...)\\r\n"
-"　No thanks."
-msgstr "(No como si tuviera el dinero...)\\r\n"
-"　No, gracias."
+msgid "(Not if I don't have the dough...)\\r\n　No thanks."
+msgstr "(No como si tuviera el dinero...)\\r\n　No, gracias."
 
+#. y4:line_status=translated
 msgctxt "416_Player"
 msgid "Yeah, sounds good."
 msgstr "Sí, suena bien."
 
+#. y4:line_status=translated
 msgctxt "428_Karaoke Rules"
 msgid "An extension? Yes, sir. Thank you very much. Enjoy your time."
 msgstr "¿Una extensión? Sí, señor. Muchas gracias. Disfrute su tiempo."
 
+#. y4:line_status=translated
 msgctxt "440_Employee"
 msgid "Understood. Please bring your microphones and payment slip to the reception desk when you leave."
 msgstr "Entendido. Por favor, entregue los micrófonos y el comprobante de pago en recepción al salir."
 
+#. y4:line_status=translated
 msgctxt "452_Employee"
 msgid "I'm afraid your time is up. Would you like to extend your time for only 500 yen?"
 msgstr "Me temo que su tiempo ha terminado. ¿Desea extender su sesión por sólo 500 yenes?"
 
+#. y4:line_status=translated
 msgctxt "476_Akiyama"
-msgid "(Not if I don't have the dough...)\\r\n"
-"　No thanks."
-msgstr "(No como si tuviera el dinero...)\\r\n"
-"　No, gracias."
+msgid "(Not if I don't have the dough...)\\r\n　No thanks."
+msgstr "(No como si tuviera el dinero...)\\r\n　No, gracias."
 
+#. y4:line_status=translated
 msgctxt "488_Akiyama"
 msgid "Yeah, sounds good."
 msgstr "Sí, suena bien."
 
+#. y4:line_status=translated
 msgctxt "500_Karaoke Rules"
 msgid "An extension? Yes, sir. Thank you very much. Enjoy your time."
 msgstr "¿Una extensión? Sí, señor. Muchas gracias. Disfrute su tiempo."
 
+#. y4:line_status=translated
 msgctxt "512_Employee"
 msgid "Understood. Please bring your microphones and payment slip to the reception desk when you leave."
 msgstr "Entendido. Por favor, entregue los micrófonos y el comprobante de pago en recepción al salir."
 
+#. y4:line_status=translated
 msgctxt "524_Employee"
 msgid "I'm afraid your time is up. Would you like to extend your time for only 500 yen?"
 msgstr "Me temo que su tiempo ha terminado. ¿Desea extender su sesión por sólo 500 yenes?"
 
+#. y4:line_status=translated
 msgctxt "548_Tanimura"
-msgid "(Not if I don't have the dough...)\\r\n"
-"　No thanks."
-msgstr "(No como si tuviera el dinero...)\\r\n"
-"　No, gracias."
+msgid "(Not if I don't have the dough...)\\r\n　No thanks."
+msgstr "(No como si tuviera el dinero...)\\r\n　No, gracias."
 
+#. y4:line_status=translated
 msgctxt "560_Tanimura"
 msgid "Yeah, sounds good."
 msgstr "Sí, suena bien."
 
+#. y4:line_status=translated
 msgctxt "572_Karaoke Rules"
 msgid "An extension? Yes, sir. Thank you very much. Enjoy your time."
 msgstr "¿Una extensión? Sí, señor. Muchas gracias. Disfrute su tiempo."
 
+#. y4:line_status=translated
 msgctxt "584_Employee"
 msgid "Understood. Please bring your microphones and payment slip to the reception desk when you leave."
 msgstr "Entendido. Por favor, entregue los micrófonos y el comprobante de pago en recepción al salir."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -177,6 +188,7 @@ msgctxt "596_Karaoke Rules"
 msgid "Why not?"
 msgstr "¿Por qué no?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -187,6 +199,7 @@ msgctxt "608_Karaoke Rules"
 msgid "No thanks."
 msgstr "No, gracias."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -197,6 +210,7 @@ msgctxt "620_Karaoke Rules"
 msgid "Why not?"
 msgstr "¿Por qué no?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -207,6 +221,7 @@ msgctxt "632_Karaoke Rules"
 msgid "No thanks."
 msgstr "No, gracias."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -217,6 +232,7 @@ msgctxt "644_Karaoke Rules"
 msgid "Why not?"
 msgstr "¿Por qué no?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -226,3 +242,4 @@ msgstr "¿Por qué no?"
 msgctxt "656_Karaoke Rules"
 msgid "No thanks."
 msgstr "No, gracias."
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61794\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01A401BE
 #. y4:runtime_group_count=1
@@ -24,46 +26,52 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_BRAND.bin
 #. y4:runtime_play_command=y4.play_msg 01A401BE <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "5280"
 msgid "Akiyama"
 msgstr "Akiyama"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "5284"
 msgid "Employee"
 msgstr "Empleado"
 
+#. y4:line_status=translated
 msgctxt "5288"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=translated
 msgctxt "5292"
 msgid "Talk_Kosite_st"
 msgstr "Talk_Kosite_st"
 
+#. y4:line_status=translated
 msgctxt "5296"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "5300"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
+#. y4:line_status=translated
 msgctxt "5304"
 msgid "Talk_Kosite_Yes"
 msgstr "Talk_Kosite_Yes"
 
+#. y4:line_status=translated
 msgctxt "176_Akiyama"
-msgid "Excuse me. I'd like to purchase a complete ensemble, clothes\\r\n"
-"and accessories both."
-msgstr "Disculpe. Quisiera comprar un conjunto completo, ropa\\r\n"
-"y todos los accesorios."
+msgid "Excuse me. I'd like to purchase a complete ensemble, clothes\\r\nand accessories both."
+msgstr "Disculpe. Quisiera comprar un conjunto completo, ropa\\r\ny todos los accesorios."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -71,44 +79,52 @@ msgctxt "188_Employee"
 msgid "Certainly, sir. What kind of ensemble would you like today?"
 msgstr "Ciertamente, señor. ¿Qué tipo de conjunto le gustaría llevarse?"
 
+#. y4:line_status=translated
 msgctxt "200_Akiyama"
 msgid "Let's see. Do you have any chic suits?"
 msgstr "Vamos a ver. ¿Tiene algún traje elegante?"
 
+#. y4:line_status=translated
 msgctxt "212_Employee"
 msgid "We do have some new Italian suits in stock."
 msgstr "Tenemos unos nuevos trajes italianos en stock."
 
+#. y4:line_status=translated
 msgctxt "224_Akiyama"
 msgid "I'll take one of those, then."
 msgstr "Entonces me llevo uno de esos."
 
+#. y4:line_status=translated
 msgctxt "236_Akiyama"
-msgid "Let's see... Do you have anything you would call\\r\n"
-"\"American casual\"?"
-msgstr "Vamos a ver... ¿Tienen algo que a lo que se le\\r\n"
-"pudiera decir \"estilo americano casual\"?"
+msgid "Let's see... Do you have anything you would call\\r\n\"American casual\"?"
+msgstr "Vamos a ver... ¿Tienen algo que a lo que se le\\r\npudiera decir \"estilo americano casual\"?"
 
+#. y4:line_status=translated
 msgctxt "248_Employee"
 msgid "Ah, yes. I know just the thing."
 msgstr "Oh, claro. Sé justo a lo que se refiere."
 
+#. y4:line_status=translated
 msgctxt "260_Akiyama"
 msgid "I'll take that, then."
 msgstr "Me llevo ese entonces."
 
+#. y4:line_status=translated
 msgctxt "272_Akiyama"
 msgid "Let's see... Do you have any psychedelic shirts?"
 msgstr "Vamos a ver... ¿Tiene alguna camisa psicodélica?"
 
+#. y4:line_status=translated
 msgctxt "284_Employee"
 msgid "We do have one in silk. It's quite luxurious."
 msgstr "Tenemos una en seda. Es bastante lujosa."
 
+#. y4:line_status=translated
 msgctxt "296_Akiyama"
 msgid "I'll take that, then."
 msgstr "Me llevo ese entonces."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -116,64 +132,77 @@ msgctxt "308_Employee"
 msgid "Thank you very much. Now, what accessories can I show you?"
 msgstr "Muchas gracias. Ahora bien, ¿qué tipo de accesorios quiere ver?"
 
+#. y4:line_status=translated
 msgctxt "320_Akiyama"
 msgid "Let's see... Do you have any elegant vests?"
 msgstr "Vamos a ver... ¿Tienen algún chaleco elegante?"
 
+#. y4:line_status=translated
 msgctxt "332_Employee"
 msgid "This one is rather fashionable at the moment."
 msgstr "Este de aquí está bastante de moda en estos momentos."
 
+#. y4:line_status=translated
 msgctxt "344_Akiyama"
 msgid "I'll take one of those, then."
 msgstr "Entonces me llevo uno de esos."
 
+#. y4:line_status=translated
 msgctxt "356_Akiyama"
 msgid "Let's see... Do you have any sophisticated hats?"
 msgstr "Vamos a ver... ¿Tienen algún sombrero sofisticado?"
 
+#. y4:line_status=translated
 msgctxt "368_Employee"
-msgid "Ah, yes. This particular style is proving to be quite\\r\n"
-"popular among the elite, I hear."
-msgstr "Oh, sí. Este estilo en particular se está volviendo bastante\\r\n"
-"popular entre la elite, o al menos eso he escuchado."
+msgid "Ah, yes. This particular style is proving to be quite\\r\npopular among the elite, I hear."
+msgstr "Oh, sí. Este estilo en particular se está volviendo bastante\\r\npopular entre la elite, o al menos eso he escuchado."
 
+#. y4:line_status=translated
 msgctxt "380_Akiyama"
 msgid "I'll take one of those, then."
 msgstr "Entonces me llevo uno de esos."
 
+#. y4:line_status=translated
 msgctxt "392_Akiyama"
 msgid "You wouldn't happen to have any afro wigs here, would you?"
 msgstr "Por casualidad, ¿No tendrán pelucas afros aquí, verdad?"
 
+#. y4:line_status=translated
 msgctxt "404_Employee"
 msgid "Wigs? If you mean extensions, then, yes, indeed we do."
 msgstr "¿Pelucas? Si se refiere a extensiones, pues, sí, de hecho, tenemos."
 
+#. y4:line_status=translated
 msgctxt "416_Akiyama"
 msgid "Seriously? Wow. I guess it never hurts to ask..."
 msgstr "¿De verdad? Wow. Supongo que nunca hace daño preguntar..."
 
+#. y4:line_status=translated
 msgctxt "488_Employee"
 msgid "Will that be all?"
 msgstr "¿Eso sería todo?"
 
+#. y4:line_status=translated
 msgctxt "500_Akiyama"
 msgid "That's it. What do I owe you?"
 msgstr "Eso es todo. ¿Cuánto le debo?"
 
+#. y4:line_status=translated
 msgctxt "512_Employee"
 msgid "That will be 98,000 yen."
 msgstr "Serían 98.000 yenes."
 
+#. y4:line_status=translated
 msgctxt "524_Akiyama"
 msgid "Thanks for your help."
 msgstr "Gracias por la ayuda."
 
+#. y4:line_status=translated
 msgctxt "536_Employee"
 msgid "It's been my pleasure. I look forward to seeing you again."
 msgstr "Ha sido un placer. Espero volver a verlos."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -184,6 +213,7 @@ msgctxt "560_Akiyama"
 msgid "You can't go wrong with a chic suit."
 msgstr "No hay forma de equivocarse con un traje elegante."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -194,6 +224,7 @@ msgctxt "572_Akiyama"
 msgid "A wild, American casual look might work."
 msgstr "Un estilo americano salvaje puede funcionar."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -204,6 +235,7 @@ msgctxt "584_Akiyama"
 msgid "How about a psychedelic '60s look?"
 msgstr "¿Qué tal un look psicodélico de los 60?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -214,6 +246,7 @@ msgctxt "596_Akiyama"
 msgid "A no-nonsense vest."
 msgstr "Un chaleco sencillo."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -224,6 +257,7 @@ msgctxt "608_Akiyama"
 msgid "A stylin' hat."
 msgstr "Un sombrero con estilo."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -233,3 +267,4 @@ msgstr "Un sombrero con estilo."
 msgctxt "620_Akiyama"
 msgid "How about an afro wig?"
 msgstr "¿Qué tal una peluca afro?"
+

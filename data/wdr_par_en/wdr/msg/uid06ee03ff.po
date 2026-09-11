@@ -6,8 +6,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
 #. y4:last_translator=Keiner
+#. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=06EE03FF
 #. y4:runtime_group_count=2
@@ -58,7 +59,8 @@ msgctxt "228_Save Point"
 msgid "Use the Item Box"
 msgstr "Usar el Baúl de objetos"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -68,3 +70,4 @@ msgstr "Usar el Baúl de objetos"
 msgctxt "240_Save Point"
 msgid "Cancel"
 msgstr "Cancelar"
+

@@ -17,6 +17,10 @@ msgstr ""
 "X-Crowdin-File-ID: 60254\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=001301AF
 #. y4:runtime_group_count=2
@@ -24,18 +28,24 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_KAMURO.bin
 #. y4:runtime_play_command=y4.play_msg 001301AF <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "212"
 msgid "Not Frightened Man"
-msgstr "Hombre NO asustado"
+msgstr "Hombre para nada asustado"
 
+#. y4:line_status=translated
 msgctxt "216"
 msgid "Talk_Ojigi"
 msgstr "Talk_Ojigi"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "84_Not Frightened Man"
 msgid "Thank you very much!"
-msgstr "¡Muchísimas gracias!"
+msgstr "¡Muchas gracias!"
+

@@ -1,34 +1,16 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: es_419\n"
-"Language-Team: es-419\n"
-"Last-Translator: \n"
+"Project-Id-Version: y4-msg-translator\n"
 "MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Project-Id-Version: unknown-project\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Crowdin-Project: unknown-project\n"
-"X-Crowdin-Project-ID: 497403\n"
-"X-Crowdin-Language: es-419\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid0102048c.po\n"
-"X-Crowdin-File-ID: 60358\n"
-"PO-Revision-Date: 2026-04-26 00:21\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 
 #. y4:file_status=untranslated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Karu
-#. y4:runtime_kind=msg
-#. y4:runtime_uid=0102048C
-#. y4:runtime_group_count=1
-#. y4:runtime_groups=0
-#. y4:runtime_pac_names=pac_STID_ST_KOKYO.bin
-#. y4:runtime_play_command=y4.play_msg 0102048C <group>
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=0
 msgctxt "11540"
 msgid "Zhao"
 msgstr "Zhao"
@@ -40,8 +22,6 @@ msgstr "Talk_Yes"
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Karu
-#. y4:msg_role=name
-#. y4:msg_name_id=2
 msgctxt "11548"
 msgid "Tanimura"
 msgstr "Tanimura"
@@ -66,12 +46,11 @@ msgctxt "11564"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:line_status=todo
-#. y4:msg_role=name
-#. y4:msg_name_id=7
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "11568"
 msgid "Manager of Midori"
-msgstr ""
+msgstr "Manager de Midori"
 
 #. y4:line_status=translated
 msgctxt "11572"
@@ -109,41 +88,44 @@ msgid "Talk_Think"
 msgstr "Talk_Think"
 
 #. y4:line_status=translated
-#. y4:msg_role=name
-#. y4:msg_name_id=15
 msgctxt "11600"
 msgid "Mei Hua"
 msgstr "Mei Hua"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "56_Zhao"
 msgid "So what kept you today? I thought you'd be here earlier."
-msgstr ""
+msgstr "¿Qué ha pasado? Pensé que vendrías más temprano."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "68_Tanimura"
 msgid "This detective, Sugiuchi-san, was grilling me back at the station. Ever since that shooting, Homicide's been all up in my ass."
-msgstr ""
+msgstr "Fue por el detective, Sugiuchi-san; me estuvo interrogando. Desde lo del tiroteo, la sala de homicidios es un calvario."
 
 #. y4:line_status=translated
 msgctxt "80_Zhao"
 msgid "Hah, police questioning police? That's ridiculous."
 msgstr "¿Ah, la policía cuestiona a la policía? Es ridículo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "92_Tanimura"
 msgid "Yeah, normally I wouldn't give a damn... But apparently, this wasn't just one random punk killing another."
-msgstr ""
+msgstr "Si... Normalmente me importaría una mierda. Pero aparentemente, esto no es un asesinato cualquiera."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "104_Tanimura"
 msgid "It was significant enough to set the Tojo Clan against itself."
-msgstr ""
+msgstr "Fue lo suficientemente grande para que el clan Tojo se peleara entre sí."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "116_Tanimura"
 msgid "...Although why Homicide cares so much about mob activity is beyond me. That's what Organized Crime's for."
-msgstr ""
+msgstr "...Aunque no entiendo por qué a Homicidios le importa tanto la yakuza. Sí, para eso están los de Crimen Organizado."
 
 #. y4:line_status=translated
 msgctxt "128_Zhao"
@@ -155,80 +137,94 @@ msgctxt "140_Tanimura"
 msgid "Oh, and it's not just the Tojo Clan. I hear the Ueno Seiwa's involved."
 msgstr "Oh, y no es solo el Clan Tojo. He oído que el Clan Ueno Seiwa también está involucrado."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "152_Zhao"
 msgid "Ueno Seiwa? Wait, isn't that...?"
-msgstr ""
+msgstr "¿Ueno Seiwa? Espera, ¿no es eso...?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "164_Tanimura"
 msgid "Yeah. The same clan my dad was investigating after the Yoshiharu Ueno hit... Right around when he was murdered."
-msgstr ""
+msgstr "Si. El mismo clan que mi padre investigaba despues del atentado a Yoshiharu Ueno... Justo en el momento que fue asesinado."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "176_Zhao"
 msgid "...You think this is connected somehow?"
-msgstr ""
+msgstr "... ¿Crees que todo esto está conectado?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "188_Tanimura"
 msgid "Can't say. All I know is the Ueno Seiwa Clan's been quiet for 25 years..."
-msgstr ""
+msgstr "No lo sé. Sé que el clan Ueno Seiwa está bastante callado hace 25 años..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "200_Tanimura"
 msgid "But now there's this shooting a week ago, and suddenly they've gone into overdrive? Something's definitely up."
-msgstr ""
+msgstr "Pero con lo del tiroteo de la semana pasada, ¿es que ahora se van a poner las pilas? Algo raro pasa."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "212_Tanimura"
 msgid "Following this case could lead me to someone who knows the truth... about who killed my dad."
-msgstr ""
+msgstr "Seguir con el caso me podrá llevar a la verdad... de quién mató a mi padre."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "224_Zhao"
 msgid "You still looking for that woman?"
-msgstr ""
+msgstr "¿Sigues buscando a esa mujer?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "236_Tanimura"
 msgid "Yeah, Yasuko Saejima. Her brother Taiga's the one who carried out the hit on Ueno."
-msgstr ""
+msgstr "Sep, Yasuko Saejima. Hermana de Taiga, el que asesino a Ueno."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "248_Tanimura"
 msgid "She's been missing ever since that went down."
-msgstr ""
+msgstr "Ella desapareció desde que pasó aquello."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "260_Zhao"
 msgid "And you really think this Yasuko Saejima knows why your father was killed?"
-msgstr ""
+msgstr "¿Crees que Yasuko Saejima sabe por qué mataron a tu padre?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "272_Tanimura"
 msgid "Maybe, maybe not. But the last thing written in his notebook was, \"Meet with Yasuko Saejima.\" That has to mean something."
-msgstr ""
+msgstr "Puede que sí, como que no. Mi padre escribió en sus notas antes de morir \"Reunirme con Yasuko Saejima\". Puede que sepa algo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "284_Zhao"
 msgid "So she might even be the last person who saw him alive..."
-msgstr ""
+msgstr "Así que ella puede ser la última persona que lo vio con vida..."
 
 #. y4:line_status=translated
 msgctxt "296_Tanimura"
 msgid "......"
 msgstr "......"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "332_Manager of Midori"
 msgid "Is this Tanimura?"
-msgstr ""
+msgstr "¿Es Tanimura?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "344_Tanimura"
 msgid "Yeah, speaking."
-msgstr ""
+msgstr "Tanimura al habla."
 
 #. y4:line_status=translated
 msgctxt "356_Manager of Midori"

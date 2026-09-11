@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 61606\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00EE01C6
 #. y4:runtime_group_count=5
@@ -24,120 +26,148 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_BOWL.bin
 #. y4:runtime_play_command=y4.play_msg 00EE01C6 <group>
 
-
-
+#. y4:line_status=translated
 msgctxt "132"
 msgid "You got a <Color:8>Staminan X<Color:Default>."
 msgstr "Obtuviste un <Color:8>Staminan X<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "360"
 msgid "You got a bottle of <Color:8>French Cologne<Color:Default>."
 msgstr "Has obtenido una botella de<Color:8>colonia francesa<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "408"
 msgid "You got a bottle of <Color:8>Italian Cologne<Color:Default>."
 msgstr "Has obtenido una botella de<Color:8>colonia italiana<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "456"
 msgid "You got a <Color:8>Swiss Watch<Color:Default>."
 msgstr "Has obtenido un <Color:8>reloj suizo<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "768"
 msgid "You got a bottle of <Color:8>French Cologne<Color:Default>."
 msgstr "Has obtenido una botella de<Color:8>colonia francesa<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "816"
 msgid "You got a bottle of <Color:8>Italian Cologne<Color:Default>."
 msgstr "Has obtenido una botella de<Color:8>colonia italiana<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "864"
 msgid "You got a <Color:8>Swiss Watch<Color:Default>."
 msgstr "Has obtenido un <Color:8>reloj suizo<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "1176"
 msgid "You got a bottle of <Color:8>French Cologne<Color:Default>."
 msgstr "Has obtenido una botella de<Color:8>colonia francesa<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "1224"
 msgid "You got a bottle of <Color:8>Italian Cologne<Color:Default>."
 msgstr "Has obtenido una botella de<Color:8>colonia italiana<Color:Default>."
 
+#. y4:line_status=translated
 msgctxt "1272"
 msgid "You got a <Color:8>Swiss Watch<Color:Default>."
 msgstr "Has obtenido un <Color:8>reloj suizo<Color:Default>."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "15304"
 msgid "Himeka"
 msgstr "Himeka"
 
+#. y4:line_status=translated
 msgctxt "15308"
 msgid "dummy"
 msgstr "dummy"
 
+#. y4:line_status=translated
 msgctxt "15312"
 msgid "0"
 msgstr "0"
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=3
 msgctxt "15316"
 msgid "Noa"
 msgstr "Noa"
 
+#. y4:line_status=translated
 msgctxt "15320"
 msgid "Talk_Call"
 msgstr "Talk_Call"
 
+#. y4:line_status=translated
 msgctxt "120_Himeka"
 msgid "Good game! Here you go. <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡Buena partida! Aquí tienes. <Color:255,200,200,255>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "168_Himeka"
 msgid "That was really fun. ♪ Ask me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡La pasé genial! ♪ Invítame otra vez, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "240_Himeka"
 msgid "Oh! One more thing. I have a present for you, Tanimura-san. Here you go! ♪"
 msgstr "¡Oh! Una cosita más. Tengo un regalo para ti, Tanimura-san. ¡Aquí tienes! ♪"
 
+#. y4:line_status=translated
 msgctxt "492_Himeka"
 msgid "That was really fun. ♪ Ask me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡La pasé genial! ♪ Invítame otra vez, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "552_Noa"
 msgid "Good game! Aww, a tie?"
 msgstr "¡Qué buena partida! Ay, ¿empatamos?"
 
+#. y4:line_status=translated
 msgctxt "576_Noa"
 msgid "That was really fun. ♪ Ask me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡La pasé genial! ♪ Invítame otra vez, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "648_Noa"
 msgid "Oh! One more thing. I have a present for you, Tanimura-san. Here you go! ♪"
 msgstr "¡Oh! Una cosita más. Tengo un regalito para ti, Tanimura-san. ¡Toma! ♪"
 
+#. y4:line_status=translated
 msgctxt "900_Noa"
 msgid "That was really fun. ♪ Ask me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡La pasé genial! ♪ Invítame otra vez, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "960_Himeka"
 msgid "Good game! I was pretty good, huh?"
 msgstr "¡Buena partida! Soy muy buena, ¿eh?"
 
+#. y4:line_status=translated
 msgctxt "984_Himeka"
 msgid "That was really fun. ♪ Ask me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡La pasé genial! ♪ Invítame otra vez, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "1056_Himeka"
 msgid "Oh! One more thing. I have a present for you, Tanimura-san. Here you go! ♪"
 msgstr "¡Oh! Una cosita más. Tengo un regalito para ti, Tanimura-san. ¡Toma! ♪"
 
+#. y4:line_status=translated
 msgctxt "1308_Himeka"
 msgid "That was really fun. ♪ Ask me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡La pasé genial! ♪ Invítame otra vez, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
+#. y4:line_status=translated
 msgctxt "1368_Himeka"
 msgid "Sorry for the wait! <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡Perdón por la espera! <Color:255,200,200,255>♥<Color:Default>"
+

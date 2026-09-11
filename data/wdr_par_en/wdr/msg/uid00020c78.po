@@ -6,8 +6,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=translated
-#. y4:last_reviewer=Keiner
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00020C78
 #. y4:runtime_group_count=2
@@ -15,7 +17,8 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_OKI_PRISON01.bin
 #. y4:runtime_play_command=y4.play_msg 00020C78 <group>
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "1828"
@@ -46,32 +49,41 @@ msgctxt "1844"
 msgid "Talk_No"
 msgstr "Talk_No"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "72_Haga"
 msgid "See that guy in the corner?"
 msgstr "Oye, ¿conoces al tipo que está en esa esquina?\\r\n¿Sabes algo de él?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "108_Saejima"
 msgid "What about him?"
 msgstr "¿Qué pasa con él?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "120_Haga"
 msgid "Keep your guard up 'round him. Word is he's real jumpy."
-msgstr "Será mejor que te mantengas alerta con él.\\r\nAl parecer, tiene todo tipo de herramientas de autodefensa\\r\ny está preparado para cualquier cosa."
+msgstr "Será mejor que te mantengas alerta con él.\nAl parecer, tiene todo tipo de herramientas de defensa\ny está preparado para cualquier cosa."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "132_Saejima"
 msgid "Why, someone after him?"
-msgstr "... ¿Alguien lo está amenazando?"
+msgstr "¿Alguien lo está amenazando?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "144_Haga"
 msgid "The whole damn prison's after him! After all of us. It's no wonder he started hoardin' up body armor like there was no tomorrow. It's nice at least <Italic>feelin'</Italic> safe, y'know?"
 msgstr "No es que alguien lo esté amenazando, ¿sabes?\\r\nEste lugar muy peligroso, supongo que se volvió\\r\nparanoico con todas las precauciones que tomó."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "156_Haga"
 msgid "But all it's done is paint a big ol' target on his back. Drawing attention's the best way to speed up your execution date. Better to keep a low profile."
 msgstr "Puedo llegar a entenderlo. Pero destacar demasiado\\r\npuede hacer que sea blanco de atención.\\r\nEn este lugar, es más inteligente mantenerse tranquilo."
+

@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59094\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00AE0026
 #. y4:runtime_group_count=1
@@ -24,8 +26,7 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_TE_0009.bin
 #. y4:runtime_play_command=y4.play_msg 00AE0026 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -33,6 +34,7 @@ msgctxt "144"
 msgid "Fantasizing?"
 msgstr "¿Fantaseando?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -40,6 +42,8 @@ msgctxt "168"
 msgid "Table tennis?"
 msgstr "¿Tenis de mesa?"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -50,6 +54,7 @@ msgctxt "204"
 msgid "Yes"
 msgstr "Sí"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -60,6 +65,8 @@ msgctxt "216"
 msgid "No"
 msgstr "No"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -70,6 +77,7 @@ msgctxt "228"
 msgid "Yes"
 msgstr "Sí"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -79,3 +87,4 @@ msgstr "Sí"
 msgctxt "240"
 msgid "No"
 msgstr "No"
+

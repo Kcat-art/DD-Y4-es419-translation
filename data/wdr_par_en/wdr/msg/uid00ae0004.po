@@ -17,6 +17,9 @@ msgstr ""
 "X-Crowdin-File-ID: 61184\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00AE0004
 #. y4:runtime_group_count=1
@@ -24,33 +27,41 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_TE_0009.bin
 #. y4:runtime_play_command=y4.play_msg 00AE0004 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
 msgctxt "132"
-msgid "Your pack is too full with items.\\r\n"
-"This will activate when you get another item."
-msgstr "Tu mochila está demasiado llena.\\r\n"
-"Esto se activará cuando consigas otro objeto."
+msgid "Your pack is too full with items.\\r\nThis will activate when you get another item."
+msgstr "Tu mochila está demasiado llena.\\r\nEsto se activará cuando consigas otro objeto."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "144"
 msgid "Throw away: got 1 item"
 msgstr "Tirar: tiene 1 objeto"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "156"
 msgid "Throw away: got a full stack of items"
 msgstr "Tirar: tengo una pila llena de objetos"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "168"
 msgid "Send: got 1 item."
 msgstr "Enviar: recibido 1 objeto."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "180"
 msgid "Send: got a full stack of items."
 msgstr "Enviar: tengo una pila completa de objetos."
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -61,6 +72,8 @@ msgctxt "216"
 msgid "Throw away: item acquisition → 1"
 msgstr "Tirar: adquisición de objetos → 1"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -71,6 +84,8 @@ msgctxt "228"
 msgid "Throw away: item acquisition → full"
 msgstr "Tirar: adquisición de objetos → lleno"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -81,6 +96,8 @@ msgctxt "240"
 msgid "Send: item acquisition → 1"
 msgstr "Enviar: adquisición de objetos → 1"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -90,3 +107,4 @@ msgstr "Enviar: adquisición de objetos → 1"
 msgctxt "252"
 msgid "Send: item acquisition → full"
 msgstr "Enviar: adquisición de objeto → lleno"
+

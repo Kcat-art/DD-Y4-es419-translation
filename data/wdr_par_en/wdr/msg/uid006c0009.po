@@ -17,9 +17,9 @@ msgstr ""
 "X-Crowdin-File-ID: 61156\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
 #. y4:last_translator=Traductor
-#. y4:last_reviewer=Karu
+#. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=006C0009
 #. y4:runtime_group_count=121
@@ -32,11 +32,12 @@ msgctxt "15396"
 msgid "Thank you."
 msgstr "Gracias."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Traductor
+#. y4:reviewed_by=Kcat0
 msgctxt "15948"
 msgid " Excuse me!"
-msgstr "¿Disculpa, mesero!"
+msgstr " ¡Disculpe!"
 
 #. y4:line_status=translated
 msgctxt "16032"
@@ -82,69 +83,82 @@ msgctxt "208168"
 msgid "P_sitsofaR_tlk_yes"
 msgstr "P_sitsofaR_tlk_yes"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=name
 #. y4:msg_name_id=2
 msgctxt "208172"
 msgid "Maya"
 msgstr "Maya"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "208176"
 msgid "F_cab_sitsofa_tlk_thinkA"
 msgstr "F_cab_sitsofa_tlk_thinkA"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "208180"
 msgid "F_cab_sitsofa_tlk_yes"
 msgstr "F_cab_sitsofa_tlk_yes"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "208184"
 msgid "P_sitsofaR_tlk_surp"
 msgstr "P_sitsofaR_tlk_surp"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "208188"
 msgid "F_cab_sitsofa_talk_smileA"
 msgstr "F_cab_sitsofa_talk_smileA"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "208192"
 msgid "P_sitsofaR_tlk_no"
 msgstr "P_sitsofaR_tlk_no"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "208196"
 msgid "P_sitsofaR_tlk_smile"
 msgstr "P_sitsofaR_tlk_smile"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "208200"
 msgid "F_cab_sitsofa_tlk_noA"
 msgstr "F_cab_sitsofa_tlk_noA"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "208204"
 msgid "F_cab_sitsofa_sp2_sync_hiza"
 msgstr "F_cab_sitsofa_sp2_sync_hiza"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "208208"
 msgid "P_sitsofaR_tlk_quest"
 msgstr "P_sitsofaR_tlk_quest"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "208212"
 msgid "F_cab_sitsofa_sp1_sync_yop"
 msgstr "F_cab_sitsofa_sp1_sync_yop"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "208216"
 msgid "P_sitsofaR_tlk_comment"
 msgstr "P_sitsofaR_tlk_comment"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "208220"
 msgid "F_cab_sitsofa_tlk_suprise"
 msgstr "F_cab_sitsofa_tlk_suprise"
@@ -407,7 +421,7 @@ msgstr "¿En serio? ¿Por qué?"
 #. y4:line_status=translated
 msgctxt "4200_Maya"
 msgid "Hahaha! That's not something that I'd share with a first time customer."
-msgstr "¡Ja, ja, ja! No es algo que compartiría con un cliente nuevo. "
+msgstr "¡Ja, ja, ja! No es algo que le contaría a un cliente nuevo."
 
 #. y4:line_status=translated
 msgctxt "4212_Kiryu"
@@ -530,7 +544,7 @@ msgstr "Acabamos de conocernos. Y me gustaría conocerte un poco mejor."
 #. y4:line_status=translated
 msgctxt "4488_Maya"
 msgid "Hehe. You're cute."
-msgstr "Je, je. Eres lindo."
+msgstr "Je, je. Qué lindo es usted."
 
 #. y4:line_status=translated
 msgctxt "4500_Maya"
@@ -542,20 +556,20 @@ msgctxt "4512_Kiryu"
 msgid "Are you sure?"
 msgstr "¿Estás segura?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "4524_Maya"
 msgid "Yep. You're fun to talk to."
-msgstr ""
+msgstr "Sí. Es agradable hablar con usted."
 
 #. y4:line_status=translated
 msgctxt "4536_Kiryu"
 msgid "Heh. All right, then."
 msgstr "Je. De acuerdo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "4548_Maya"
 msgid "But you have to promise to come and see me every day, okay?"
-msgstr ""
+msgstr "Pero prométame que vendrá a verme todos los días, ¿sí?"
 
 #. y4:line_status=translated
 msgctxt "4560_Kiryu"
@@ -565,7 +579,7 @@ msgstr "Dare lo mejor de mí."
 #. y4:line_status=translated
 msgctxt "4572_Maya"
 msgid "I became friends with this girl recently, and we really hit it off. We have the same interests and everything."
-msgstr "Recientemente, me hice amiga de esta chica, y realmente nos llevamos bien. Tenemos los mismos intereses."
+msgstr "Hace poco me hice amiga de esta chica y nos llevamos muy bien. Tenemos los mismos intereses y todo."
 
 #. y4:line_status=translated
 msgctxt "4584_Kiryu"
@@ -603,7 +617,7 @@ msgstr "Estoy de acuerdo con ella. Alguien que siempre está junto a ti, todo el
 #. y4:line_status=translated
 msgctxt "4656_Maya"
 msgid "What? You think so too?"
-msgstr "¿Qué? ¿Tú también lo crees?"
+msgstr "¿Qué? ¿Usted también lo cree?"
 
 #. y4:line_status=translated
 msgctxt "4668_Kiryu"
@@ -633,7 +647,7 @@ msgstr "Mientras tengas en cuenta los sentimientos del hombre, no parecerás ego
 #. y4:line_status=translated
 msgctxt "4728_Maya"
 msgid "Okay. I guess you have to be devoted while still leaving a little space between you. It sounds a little tricky."
-msgstr "Ok. Supongo que tienes que ser devoto y a la vez dejar un poco de espacio entre vosotros. Suena un poco difícil."
+msgstr "Bueno, supongo que una debe ser entregada, pero sin dejar de darle un poco de espacio al otro. Suena algo complicado."
 
 #. y4:line_status=translated
 msgctxt "4740_Kiryu"
@@ -643,7 +657,7 @@ msgstr "No hay nada de malo en que seas comprometida. Un hombre debería sentirs
 #. y4:line_status=translated
 msgctxt "4752_Maya"
 msgid "You agree with me?"
-msgstr "¿Estás de acuerdo conmigo?"
+msgstr "¿Está de acuerdo conmigo?"
 
 #. y4:line_status=translated
 msgctxt "4764_Kiryu"
@@ -653,7 +667,7 @@ msgstr "Claro. Es mucho mejor que tener una mujer que te ponga los cuernos."
 #. y4:line_status=translated
 msgctxt "4776_Maya"
 msgid "Hehe. You look like a ladies' man, but you're actually sweet, aren't you? <Color:7>♥<Color:Default>"
-msgstr "Ji, ji. Pareces todo un casanova, pero, en realidad eres tierno, ¿no? <Color:7> ♥<Color:Default>"
+msgstr "Je, je. Parece todo un conquistador, pero en realidad es muy dulce, ¿verdad? <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "4788_Kiryu"
@@ -700,15 +714,15 @@ msgctxt "4884_Maya"
 msgid "So, which is it?"
 msgstr "Entonces, ¿cuál es?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "4896_Kiryu"
 msgid "I can't say. I like having a woman around, but sometimes I want to be alone. I can't choose between the two."
-msgstr ""
+msgstr "No puedo decirlo. Me gusta tener a una mujer cerca, pero a veces quiero estar solo. No puedo elegir entre las dos cosas."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "4908_Maya"
 msgid "Oh. I didn't expect you to be so indecisive."
-msgstr ""
+msgstr "Ah. No esperaba que fuera tan indeciso."
 
 #. y4:line_status=translated
 msgctxt "4920_Kiryu"
@@ -743,7 +757,7 @@ msgstr "¿Esta vez? ¿Te interrogan a menudo?"
 #. y4:line_status=translated
 msgctxt "4992_Maya"
 msgid "Yeah. Do I look that suspicious to you?"
-msgstr "Sí. ¿Crees que me veo sospechosa?"
+msgstr "Sí. ¿De verdad parezco tan sospechosa?"
 
 #. y4:line_status=translated
 msgctxt "5004_Kiryu"
@@ -816,7 +830,7 @@ msgstr "¿Lo haces? ¡Tal vez deberíamos crear un club!"
 #. y4:line_status=translated
 msgctxt "5160_Maya"
 msgid "It must be because you have a wild and dangerous look about you."
-msgstr "Eso debe ser porque tienes un aspecto salvaje y peligroso."
+msgstr "Debe ser porque tiene un aire rebelde y peligroso."
 
 #. y4:line_status=translated
 msgctxt "5172_Kiryu"
@@ -836,7 +850,7 @@ msgstr "Eso es porque casi nunca me atrapan."
 #. y4:line_status=translated
 msgctxt "5208_Maya"
 msgid "Hahaha! It sounds like you're an expert. I should try running next time."
-msgstr "¡Ja, ja, ja! Se ve que eres un experto. Deberías entrar en una maratón."
+msgstr "¡Ja, ja, ja! Se nota que es un experto. Debería intentar correr la próxima vez."
 
 #. y4:line_status=translated
 msgctxt "5220_Kiryu"
@@ -868,15 +882,15 @@ msgctxt "5280_Maya"
 msgid "Ha! You'll make me blush if you keep talking like that. <Color:7>♥<Color:Default>"
 msgstr "¡Ja! Me vas a sonrojar si sigues hablando así. <Color:7>♥<Color:Default>"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "5292_Kiryu"
 msgid "Heh, sorry."
-msgstr ""
+msgstr "Je, perdón."
 
 #. y4:line_status=translated
 msgctxt "5304_Maya"
 msgid "I hate arrogant men. You know, the kind of guy who acts like he knows you and bosses you around, even though you just met?"
-msgstr "Odio a los hombres arrogantes. Ya sabes, ese tipo de persona que actúa como si fuera el jefe de todos y que te da órdenes, ¿Conoces a alguien así?"
+msgstr "Odio a los hombres arrogantes. Ya sabe, esos tipos que actúan como si lo conocieran y le dan órdenes aunque apenas lo hayan conocido."
 
 #. y4:line_status=translated
 msgctxt "5316_Kiryu"
@@ -886,7 +900,7 @@ msgstr "¿No estarás hablando de mí?"
 #. y4:line_status=translated
 msgctxt "5328_Maya"
 msgid "No, no. You're fine. A bit of swagger suits you."
-msgstr "No, no. Usted está bien. A ti te va bien él fanfarroneó."
+msgstr "No, no. Usted está bien. Un poco de fanfarronería le sienta bien."
 
 #. y4:line_status=translated
 msgctxt "5340_Kiryu"
@@ -924,7 +938,7 @@ msgstr "Son jóvenes. No saben nada."
 #. y4:line_status=translated
 msgctxt "5412_Maya"
 msgid "I'd take a polite older man over an arrogant young guy any day. They could learn a thing or two from you. <Color:7>♥<Color:Default>"
-msgstr "Preferiría a un hombre mayor cortés que a un joven arrogante común. Podría aprender un par de cosas de ti. <Color:7>♥<Color:Default>"
+msgstr "Preferiría a un hombre mayor y educado antes que a un joven arrogante cualquier día. Los demás podrían aprender un par de cosas de usted. <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "5424_Kiryu"
@@ -979,7 +993,7 @@ msgstr "La primera impresión es especialmente importante. Tienes que tomar la i
 #. y4:line_status=translated
 msgctxt "5544_Maya"
 msgid "So you agree with how those guys act? That's ridiculous."
-msgstr "¿Así que estás de acuerdo con cómo actúan esos tipos? Eso es estúpido."
+msgstr "¿Así que está de acuerdo con la forma en que actúan esos tipos? Qué absurdo."
 
 #. y4:line_status=translated
 msgctxt "5556_Maya"
@@ -1072,7 +1086,7 @@ msgstr "No lo sé, pero la relación de tu amigo no es sana. Ella debería de de
 #. y4:line_status=translated
 msgctxt "5760_Maya"
 msgid "You're right. I'd have broken up with him after the first time."
-msgstr "Tienes toda la razón. Yo habría roto después de la primera vez."
+msgstr "Tiene razón. Yo habría terminado con él después de la primera vez."
 
 #. y4:line_status=translated
 msgctxt "5772_Kiryu"
@@ -1112,7 +1126,7 @@ msgstr "Él solo está demostrando su hombría. Esa tipa debería estar totalmen
 #. y4:line_status=translated
 msgctxt "5856_Maya"
 msgid "What the hell are you talking about!?"
-msgstr "¿¡De qué carajos estás hablando!?"
+msgstr "¿¡De qué demonios está hablando!?"
 
 #. y4:line_status=translated
 msgctxt "5868_Kiryu"
@@ -1127,7 +1141,7 @@ msgstr "Tu amiga consiguió un macho con esos recursos. Debería estar contenta.
 #. y4:line_status=translated
 msgctxt "5892_Maya"
 msgid "I can't believe you! Trying to justify it is even worse than sneaking around!"
-msgstr "¡No lo puedo creer! ¡Engañar a una mujer es una cosa, pero justificarlo es incluso peor! "
+msgstr "¡No lo puedo creer! ¡Engañar a una mujer es una cosa, pero justificarlo es incluso peor!"
 
 #. y4:line_status=translated
 msgctxt "5904_Maya"
@@ -1175,7 +1189,7 @@ msgstr "También deberías probar el jugo de tomate. Eso ayuda a descomponer el 
 #. y4:line_status=translated
 msgctxt "6000_Maya"
 msgid "Wow. You know a lot about this."
-msgstr "Vaya. Sabes mucho de estas cosas."
+msgstr "Vaya. Sabe mucho de esto."
 
 #. y4:line_status=translated
 msgctxt "6012_Kiryu"
@@ -1215,7 +1229,7 @@ msgstr "Pero beber no tiene ningún beneficio real. Cuesta dinero y puedes volve
 #. y4:line_status=translated
 msgctxt "6096_Maya"
 msgid "Yeah, I guess you're right."
-msgstr "Sí, supongo que tienes razón."
+msgstr "Sí, supongo que tiene razón."
 
 #. y4:line_status=translated
 msgctxt "6108_Kiryu"
@@ -1240,17 +1254,17 @@ msgstr "Y eso también es cierto para los bebedores empedernidos. Cualquiera pue
 #. y4:line_status=translated
 msgctxt "6156_Maya"
 msgid "I guess you're right. I'd rather drink slowly and enjoy myself than drink a lot and get sick."
-msgstr "Supongo que tienes razón. Prefiero beber despacio y disfrutar que beber mucho y caer enferma."
+msgstr "Supongo que tiene razón. Prefiero beber despacio y disfrutarlo que beber mucho y enfermarme."
 
 #. y4:line_status=translated
 msgctxt "6168_Kiryu"
 msgid "It takes experience to know how to drink, but you'll get it eventually."
 msgstr "Hace falta experiencia para saber beber, pero al final lo conseguirás."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "6180_Maya"
 msgid "Yes. Thanks for your help!"
-msgstr ""
+msgstr "Sí. ¡Gracias por su ayuda!"
 
 #. y4:line_status=translated
 msgctxt "6192_Maya"
@@ -1378,7 +1392,7 @@ msgstr "Es broma."
 #. y4:line_status=translated
 msgctxt "6480_Maya"
 msgid "What!? Why you! Don't scare me like that!"
-msgstr "¿¡Qué!? ¡No me asustes así!"
+msgstr "¿¡Qué!? ¡Oiga, no me asuste así!"
 
 #. y4:line_status=translated
 msgctxt "6492_Kiryu"
@@ -1388,17 +1402,17 @@ msgstr "Ja, ja. Parece que realmente no sabes de lo que has hablado antes."
 #. y4:line_status=translated
 msgctxt "6504_Maya"
 msgid "Yeah, you're right. Maybe I've got a bad memory."
-msgstr "Sí, tienes razón. Es posible que tenga mala memoria."
+msgstr "Sí, tiene razón. Quizá tenga mala memoria."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "6516_Kiryu"
 msgid "If you tell me about this again, we'll know."
-msgstr ""
+msgstr "Si vuelves a contarme esto, lo sabremos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "6528_Maya"
 msgid "Then I'd better be extra careful not to mention this again!"
-msgstr ""
+msgstr "Entonces será mejor que tenga mucho cuidado de no volver a mencionarlo."
 
 #. y4:line_status=translated
 msgctxt "6540_Maya"
@@ -1511,7 +1525,7 @@ msgstr "Exacto. Me pregunto si hay algún tipo de descuento que pueda obtener."
 #. y4:line_status=translated
 msgctxt "6792_Kiryu"
 msgid "And even after you get your license, it can be expensive to own a car. You'd need to make some changes in your life."
-msgstr "E incluso después de sacarte la licencia, puede resultar caro tener un coche. Tendrías que hacer algunos cambios en tu vida."
+msgstr "E incluso después de sacarte la licencia, puede resultar caro tener un auto. Tendrías que hacer algunos cambios en tu vida."
 
 #. y4:line_status=translated
 msgctxt "6804_Maya"
@@ -1624,7 +1638,7 @@ msgstr "¿Solías beber mucho? No mucha gente se subía a una barra, aunque estu
 #. y4:line_status=translated
 msgctxt "7056_Maya"
 msgid "You're probably right. I could've gotten in trouble."
-msgstr "Probablemente tengas razón. Podría haberme metido en problemas."
+msgstr "Probablemente tenga razón. Podría haberme metido en problemas."
 
 #. y4:line_status=translated
 msgctxt "7068_Kiryu"
@@ -1691,10 +1705,10 @@ msgctxt "7212_Maya"
 msgid "But I don't drink too much nowadays, so it's not a big deal anymore."
 msgstr "Pero ya no bebo mucho, así que no es un problema."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7224_Maya"
 msgid "Do you go to Yokohama very often?"
-msgstr ""
+msgstr "¿Va seguido a Yokohama?"
 
 #. y4:line_status=translated
 msgctxt "7236_Kiryu"
@@ -1706,286 +1720,286 @@ msgctxt "7248_Maya"
 msgid "Oh."
 msgstr "Oh."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7260_Kiryu"
 msgid "Why do you ask?"
-msgstr ""
+msgstr "¿Por qué lo preguntas?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7272_Maya"
 msgid "I'm from Yokohama."
-msgstr ""
+msgstr "Soy de Yokohama."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7284_Kiryu"
 msgid "You are? It's certainly a nice city."
-msgstr ""
+msgstr "¿De verdad? Sin duda es una ciudad bonita."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7296_Maya"
 msgid "Yeah. It's also a great place for dates."
-msgstr ""
+msgstr "Sí. También es un lugar excelente para tener citas."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7308_Kiryu"
 msgid "True. There are a lot of date spots there."
-msgstr ""
+msgstr "Es cierto. Hay muchos lugares para salir allí."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=9
 msgctxt "7320_Maya"
 msgid "I'm not just talking about the famous places. There are lots of spots only the locals know."
-msgstr ""
+msgstr "No me refiero solo a los lugares famosos. Hay muchos sitios que solo conocen los lugareños."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7332_Kiryu"
 msgid "You go on a lot of dates then?"
-msgstr ""
+msgstr "¿Entonces tienes muchas citas?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7344_Maya"
 msgid "Hmm? Do I detect a hint of jealousy?"
-msgstr ""
+msgstr "¿Mmm? ¿Acaso detecto un poco de celos?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7356_Kiryu"
 msgid "That's not how I meant it. You just sounded like you knew a lot about it."
-msgstr ""
+msgstr "No quise decir eso. Es que parecía que conocías mucho del tema."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7368_Maya"
 msgid "Come on. You don't have to be embarrassed."
-msgstr ""
+msgstr "Vamos, no tiene por qué avergonzarse."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7380_Maya"
 msgid "Don't you know of any places like that? Special places to take your girlfriend?"
-msgstr ""
+msgstr "¿No conoce lugares así? ¿Sitios especiales para llevar a su novia?"
 
 #. y4:line_status=translated
 msgctxt "7392_Kiryu"
 msgid "No."
 msgstr "Así es."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7404_Maya"
 msgid "Oh. Well, I should show you mine! They have my seal of approval!"
-msgstr ""
+msgstr "Ah. Bueno, ¡debería enseñarle los míos! ¡Tienen mi sello de aprobación!"
 
 #. y4:line_status=translated
 msgctxt "7416_Kiryu"
 msgid "I'd like that."
 msgstr "Eso me gustaría."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7428_Kiryu"
 msgid "Wouldn't you stand out more there? If all the locals know about it..."
-msgstr ""
+msgstr "¿No llamarías más la atención allí? Si todos los lugareños lo conocen..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7440_Maya"
 msgid "Yeah, that's true. I do seem to run into friends a lot when there."
-msgstr ""
+msgstr "Sí, es verdad. Parece que allí siempre me encuentro con amigos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7452_Kiryu"
 msgid "Then everybody knows who is dating whom. And where they go. Wouldn't it be better if you went somewhere private?"
-msgstr ""
+msgstr "Entonces todos saben quién sale con quién y a dónde van. ¿No sería mejor ir a un lugar privado?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7464_Maya"
 msgid "I don't need to sneak around my own hometown!"
-msgstr ""
+msgstr "¡No tengo por qué esconderme en mi propia ciudad!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7476_Maya"
 msgid "Or do you not want to be seen with the people you go out with?"
-msgstr ""
+msgstr "¿O es que no quiere que lo vean con las personas con las que sale?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7488_Kiryu"
 msgid "Uh, that's not what I meant at all."
-msgstr ""
+msgstr "Eh, no quise decir eso."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7500_Maya"
 msgid "I'm a little disappointed. I was going to tell you about this great place, but never mind."
-msgstr ""
+msgstr "Estoy un poco decepcionada. Iba a contarle sobre un lugar genial, pero olvídelo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7512_Kiryu"
 msgid "Wha...?"
-msgstr ""
+msgstr "¿Qué...?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7524_Kiryu"
 msgid "Maybe you can show me sometime. I'd like to see what these places are like."
-msgstr ""
+msgstr "Tal vez puedas enseñármelos algún día. Me gustaría ver cómo son esos lugares."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7536_Maya"
 msgid "Um... Does that mean you want to go out on a date with me?"
-msgstr ""
+msgstr "Eh... ¿Eso significa que quiere salir conmigo?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7548_Kiryu"
 msgid "Sure does."
-msgstr ""
+msgstr "Así es."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7560_Maya"
 msgid "Oh, I don't know. I don't take just anyone to these places. They're special to me."
-msgstr ""
+msgstr "Ah, no sé. No llevo a cualquiera a esos lugares. Son especiales para mí."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7572_Kiryu"
 msgid "You're the one who brought them up."
-msgstr ""
+msgstr "Tú fuiste quien los mencionó."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7584_Maya"
 msgid "Ha, that's true."
-msgstr ""
+msgstr "Ja, eso es verdad."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7596_Maya"
 msgid "All right. Once I know you a little better, I can show you my favorite dating spots."
-msgstr ""
+msgstr "De acuerdo. Cuando lo conozca un poco mejor, puedo enseñarle mis lugares favoritos para salir."
 
 #. y4:line_status=translated
 msgctxt "7608_Kiryu"
 msgid "I look forward to it."
 msgstr "Lo estaré esperando."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7620_Maya"
 msgid "I had a modeling job today. I wore some of the cutest outfits!"
-msgstr ""
+msgstr "Hoy tuve un trabajo de modelaje. ¡Llevé algunos atuendos lindísimos!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7632_Kiryu"
 msgid "That's good. It must be tough to have two jobs, though."
-msgstr ""
+msgstr "Está bien, pero debe ser difícil tener dos trabajos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7644_Maya"
 msgid "Kinda. But modeling's not so bad this time of year. It's terrible in the summer and winter."
-msgstr ""
+msgstr "Más o menos. Pero modelar no está tan mal en esta época del año. Es terrible en verano y en invierno."
 
 #. y4:line_status=translated
 msgctxt "7656_Kiryu"
 msgid "Why's that?"
 msgstr "¿Por qué?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7668_Maya"
 msgid "They always start selling seasonal clothes a bit early, and we have to do the photoshoots even earlier."
-msgstr ""
+msgstr "Siempre empiezan a vender la ropa de temporada un poco antes, y nosotros tenemos que hacer las sesiones todavía más temprano."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=10
 msgctxt "7680_Maya"
 msgid "So we're posing in light summer clothes in the winter and in hot winter clothes in the middle of summer."
-msgstr ""
+msgstr "Así que posamos con ropa ligera de verano en invierno y con ropa abrigada de invierno en pleno verano."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7692_Kiryu"
 msgid "That does sound terrible. And you have to look happy for the cameras, right?"
-msgstr ""
+msgstr "Sí que suena terrible. Y tienes que verte feliz para las cámaras, ¿verdad?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7704_Maya"
 msgid "That's right. If the shoot lasts too long in the summer, I start to sweat."
-msgstr ""
+msgstr "Eso es. Si la sesión dura demasiado en verano, empiezo a sudar."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7716_Kiryu"
 msgid "Why don't they just do it indoors?"
-msgstr ""
+msgstr "¿Por qué no las hacen en interiores?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7728_Maya"
 msgid "Sometimes they do. I'm pretty used to it either way."
-msgstr ""
+msgstr "A veces sí. Ya estoy bastante acostumbrada de cualquier forma."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7740_Kiryu"
 msgid "Okay. Well, good luck."
-msgstr ""
+msgstr "De acuerdo. Bueno, mucha suerte."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7752_Kiryu"
 msgid "They really start that early? How do they know what's going to be popular?"
-msgstr ""
+msgstr "¿De verdad empiezan tan temprano? ¿Cómo saben qué estará de moda?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7764_Maya"
 msgid "What? Oh, haha! You don't understand, do you? They don't have to know."
-msgstr ""
+msgstr "¿Qué? ¡Ah, ja, ja! No lo saben, ¿verdad? No tienen que saberlo."
 
 #. y4:line_status=translated
 msgctxt "7776_Kiryu"
 msgid "What do you mean?"
 msgstr "¿A qué te refieres?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7788_Maya"
 msgid "It's the fashion industry that makes the trends. They decide what's going to be popular before they do the photoshoot."
-msgstr ""
+msgstr "La industria de la moda crea las tendencias. Deciden qué estará de moda antes de hacer la sesión."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7800_Kiryu"
 msgid "Oh, I see. You must know what's going to be popular next season, then."
-msgstr ""
+msgstr "Ah, ya veo. Entonces usted debe saber qué estará de moda la próxima temporada."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7812_Maya"
 msgid "Yep! That's why models like me are called trendsetters!"
-msgstr ""
+msgstr "¡Sí! Por eso a las modelos como yo nos llaman creadoras de tendencias."
 
 #. y4:line_status=translated
 msgctxt "7824_Kiryu"
 msgid "Haha."
 msgstr "Ja, ja."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7836_Kiryu"
 msgid "I'm surprised you don't get sick. Wouldn't you catch a cold in the winter?"
-msgstr ""
+msgstr "Me sorprende que no te enfermes. ¿No te resfriarías en invierno?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7848_Maya"
 msgid "Well, I'm pretty used to it by now. I guess it's not that big of a deal."
-msgstr ""
+msgstr "Bueno, ya estoy bastante acostumbrada. Supongo que no es para tanto."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7860_Maya"
 msgid "What's worse is having to get up so early on the day of a shoot."
-msgstr ""
+msgstr "Lo peor es tener que levantarse tan temprano el día de una sesión."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7872_Kiryu"
 msgid "That's not so bad. You just have to go to bed early."
-msgstr ""
+msgstr "No es tan grave. Solo tienes que acostarte temprano."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7884_Maya"
 msgid "I do go to bed early! But then I can't go out with my friends. That's the problem."
-msgstr ""
+msgstr "¡Sí me acuesto temprano! Pero entonces no puedo salir con mis amigas. Ese es el problema."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "7896_Kiryu"
 msgid "Heh. A lot of people have that kind of problem."
-msgstr ""
+msgstr "Je. Mucha gente tiene ese tipo de problema."
 
 #. y4:line_status=translated
 msgctxt "7908_Maya"
 msgid "Can I ask you something?"
-msgstr "Akiyama-san. ¿Puedo preguntarle algo?"
+msgstr "¿Puedo preguntarle algo?"
 
 #. y4:line_status=translated
 msgctxt "7920_Kiryu"
@@ -2110,15 +2124,15 @@ msgctxt "8196_Maya"
 msgid "Oh."
 msgstr "Oh."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "8208_Maya"
 msgid "Now that you put it that way, I think you might be right. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "Ahora que lo pone así, creo que quizá tenga razón. <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "8220_Maya"
 msgid "Do you remember that policeman who stopped me while we were on our date?"
-msgstr "¿Recuerdas al policía que me detuvo mientras estábamos en nuestra cita?"
+msgstr "¿Recuerda a aquel policía que me detuvo cuando estábamos en nuestra cita?"
 
 #. y4:line_status=translated
 msgctxt "8232_Kiryu"
@@ -2176,7 +2190,7 @@ msgstr "¿Y por qué saliste con él?"
 #. y4:line_status=translated
 msgctxt "8352_Maya"
 msgid "Huh? I had a little free time, so I thought I'd be nice to him."
-msgstr "¿Eh? Tenía tiempo libre, así que pensé en ser amable con él."
+msgstr "¿Eh? Tenía un poco de tiempo libre, así que pensé en ser amable con él."
 
 #. y4:line_status=translated
 msgctxt "8364_Kiryu"
@@ -2186,17 +2200,17 @@ msgstr "¿Qué tiene de divertido salir con alguien que ni siquiera te gusta?"
 #. y4:line_status=translated
 msgctxt "8376_Maya"
 msgid "Well, it wasn't really much fun. He kept asking all of these questions. Like, did I have a boyfriend?"
-msgstr "Bueno, en realidad no fue muy divertido. No paraba de hacer preguntas. Como, ¿tienes novio?"
+msgstr "Bueno, en realidad no fue muy divertido. No paraba de hacer preguntas. Como si me preguntara si tenía novio."
 
 #. y4:line_status=translated
 msgctxt "8388_Kiryu"
 msgid "Huh."
 msgstr "Ya veo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "8400_Maya"
 msgid "It's okay. I won't see him again. You don't have to worry. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "Está bien. No volveré a verlo. No tiene de qué preocuparse. <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "8412_Kiryu"
@@ -2221,12 +2235,12 @@ msgstr "También hay policías malos. Yo no confiaría en un tipo que invita a s
 #. y4:line_status=translated
 msgctxt "8460_Maya"
 msgid "You're right, but I'm a big girl. I can take care of myself."
-msgstr "Tienes razón, pero soy una chica grande. Soy capaz de cuidarme sola."
+msgstr "Tiene razón, pero ya soy una mujer adulta. Sé cuidarme sola."
 
 #. y4:line_status=translated
 msgctxt "8472_Maya"
 msgid "You're not my father. You don't have protect me, okay?"
-msgstr "No eres mi papá. No tienes que protegerme, ¿de acuerdo?"
+msgstr "Usted no es mi padre. No tiene que protegerme, ¿de acuerdo?"
 
 #. y4:line_status=translated
 msgctxt "8484_Kiryu"
@@ -2304,7 +2318,7 @@ msgstr "Sí. Tal vez tuve una corazonada."
 #. y4:msg_decision_group=13
 msgctxt "8652_Maya"
 msgid "What do you think? Should I quit?"
-msgstr "¿Qué crees que deba hacer? ¿Debo renunciar?"
+msgstr "¿Qué opina? ¿Debería renunciar?"
 
 #. y4:line_status=translated
 msgctxt "8664_Kiryu"
@@ -2324,7 +2338,7 @@ msgstr "No quieres marcharte, ¿verdad? No pasa nada. Puedes decirlo."
 #. y4:line_status=translated
 msgctxt "8700_Maya"
 msgid "Huh. That's pretty arrogant of you."
-msgstr "Huh. Eso es bastante arrogante de tu parte."
+msgstr "Vaya. Qué arrogante es usted."
 
 #. y4:line_status=translated
 msgctxt "8712_Maya"
@@ -2334,7 +2348,7 @@ msgstr "Es como si no te importara si me quedo o no."
 #. y4:line_status=translated
 msgctxt "8724_Maya"
 msgid "You really don't understand women, do you?"
-msgstr "Realmente no entiendes a las mujeres, ¿no?"
+msgstr "De verdad no entiende a las mujeres, ¿verdad?"
 
 #. y4:line_status=translated
 msgctxt "8736_Kiryu"
@@ -2374,7 +2388,7 @@ msgstr "Ya lo he dicho. Debes hacer lo que desees."
 #. y4:line_status=translated
 msgctxt "8820_Maya"
 msgid "Oh. You can be kind of dense sometimes."
-msgstr "Oh. Puedes ser un poco lento a veces."
+msgstr "Oh. A veces puede ser un poco despistado."
 
 #. y4:line_status=translated
 msgctxt "8832_Kiryu"
@@ -2384,7 +2398,7 @@ msgstr "No puedes renunciar. Deberías seguir trabajando aquí."
 #. y4:line_status=translated
 msgctxt "8844_Maya"
 msgid "Why?"
-msgstr "¿Tú?"
+msgstr "¿Por qué?"
 
 #. y4:line_status=translated
 msgctxt "8856_Kiryu"
@@ -2411,158 +2425,158 @@ msgctxt "8904_Kiryu"
 msgid "You're quite a handful."
 msgstr "Eres bastante difícil de tratar."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "8916_Maya"
 msgid "Do you ever go to other hostess clubs?"
-msgstr ""
+msgstr "¿Alguna vez va a otros clubes de hostess?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "8928_Kiryu"
 msgid "Hmm? Well, I might go to other places from time to time.\\r\nI'm not always in Kamurocho, you know."
-msgstr ""
+msgstr "Mmm... Bueno, de vez en cuando voy a otros lugares.\r\nNo siempre estoy en Kamurocho, ya sabes."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "8940_Maya"
 msgid "So you must have other girls you like drinking with, huh?"
-msgstr ""
+msgstr "Entonces debe tener otras chicas con las que le gusta beber, ¿eh?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "8952_Kiryu"
 msgid "Heh. What's with the third degree all of a sudden? Are you feeling jealous?"
-msgstr ""
+msgstr "Je. ¿Y ese interrogatorio tan repentino? ¿Estás celosa?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=14
 msgctxt "8964_Maya"
 msgid "Not jealous exactly. I just can't stand men who cheat."
-msgstr ""
+msgstr "No exactamente celosa. Es que no soporto a los hombres infieles."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "8976_Kiryu"
 msgid "What counts as cheating? Is going to another hostess club cheating?"
-msgstr ""
+msgstr "¿Qué cuenta como infidelidad? ¿Ir a otro club de hostess cuenta como engañar?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "8988_Maya"
 msgid "It might if you were my boyfriend. But right now, I'd say requesting another hostess would be like cheating."
-msgstr ""
+msgstr "Podría serlo si fuera mi novio. Pero ahora mismo, diría que solicitar a otra hostess sería como serme infiel."
 
 #. y4:line_status=translated
 msgctxt "9000_Kiryu"
 msgid "Really?"
 msgstr "¿De verdad?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9012_Maya"
 msgid "Yes. So? Have you done that?"
-msgstr ""
+msgstr "Sí. ¿Y? ¿Lo ha hecho?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9024_Kiryu"
 msgid "Me? I never request anybody at other clubs. I just stop by when I want a drink."
-msgstr ""
+msgstr "¿Yo? Nunca solicito a nadie en otros clubes. Solo paso por allí cuando quiero beber."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9036_Maya"
 msgid "Oh, okay. That makes me feel a little better. So I'm the only girl you request?"
-msgstr ""
+msgstr "Ah, bueno. Eso me hace sentir un poco mejor. Entonces, ¿soy la única que solicita?"
 
 #. y4:line_status=translated
 msgctxt "9048_Kiryu"
 msgid "Uh, sure."
 msgstr "Sí, claro."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9060_Kiryu"
 msgid "Now you're just being silly. We're not dating. It's not your place to say what a customer can or can't do outside the club."
-msgstr ""
+msgstr "Ahora sí estás diciendo tonterías. No estamos saliendo. No te corresponde decirme lo que un cliente puede o no puede hacer fuera del club."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9072_Maya"
 msgid "That must mean you've cheated on me.\\r\nThat's horrible."
-msgstr ""
+msgstr "Eso debe significar que me ha engañado.\r\nQué horrible."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9084_Kiryu"
 msgid "Look, you're the one I have the most fun with. And you're the one I see the most often."
-msgstr ""
+msgstr "Mira, contigo es con quien más me divierto y a quien veo con mayor frecuencia."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9096_Maya"
 msgid "You probably tell that to the other girls, too."
-msgstr ""
+msgstr "Seguro que también les dice eso a las otras chicas."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9108_Kiryu"
 msgid "No. Just you."
-msgstr ""
+msgstr "No. Solo a ti."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9120_Maya"
 msgid "Hmph. You said that way too easily."
-msgstr ""
+msgstr "Hmph. Lo dijo demasiado rápido."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9132_Maya"
 msgid "I really thought you were different..."
-msgstr ""
+msgstr "De verdad creí que era diferente..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9144_Kiryu"
 msgid "Do I look like the kind of man who'd cheat?"
-msgstr ""
+msgstr "¿Parezco el tipo de hombre que engañaría a su pareja?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9156_Maya"
 msgid "No, you don't. You're a man who'd love someone for the rest of his life, once he gives his heart to them. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "No, no lo parece. Es un hombre que, una vez que entrega su corazón, amaría a alguien por el resto de su vida. <Color:7>♥<Color:Default>"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9168_Kiryu"
 msgid "Ever since I met you, there's been no one else."
-msgstr ""
+msgstr "Desde que te conocí, no ha habido nadie más."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9180_Maya"
 msgid "Really? That makes me so happy! <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "¿De verdad? ¡Eso me hace muy feliz! <Color:7>♥<Color:Default>"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9192_Kiryu"
 msgid "And it's nice to know you're such a faithful woman, too."
-msgstr ""
+msgstr "Y también es bueno saber que eres una mujer tan fiel."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9204_Maya"
 msgid "Yeah! If we started going out, we'd be in love until the day we die."
-msgstr ""
+msgstr "¡Sí! Si empezáramos a salir, estaríamos enamorados hasta el día de nuestra muerte."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9216_Kiryu"
 msgid "Heh. Right."
-msgstr ""
+msgstr "Je. Cierto."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9228_Maya"
 msgid "Do you come right out and tell a woman if you like her?"
-msgstr ""
+msgstr "¿Le dice directamente a una mujer si le gusta?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9240_Kiryu"
 msgid "Huh? Why do you ask?"
-msgstr ""
+msgstr "¿Eh? ¿Por qué lo preguntas?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9252_Maya"
 msgid "Just answer me."
-msgstr ""
+msgstr "Solo respóndame."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9264_Kiryu"
 msgid "Yeah, I'd tell her. I don't like to leave things up in the air."
-msgstr ""
+msgstr "Sí, se lo diría. No me gusta dejar las cosas en el aire."
 
 #. y4:line_status=translated
 msgctxt "9276_Maya"
@@ -2574,695 +2588,695 @@ msgctxt "9288_Kiryu"
 msgid "What about you?"
 msgstr "¿Qué hay de ti?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9300_Maya"
 msgid "I like the man to be the one to say it first."
-msgstr ""
+msgstr "A mí me gusta que sea el hombre quien lo diga primero."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=15
 msgctxt "9312_Maya"
 msgid "Then I'll say, \"Yes! I was waiting for you to say that!\""
-msgstr ""
+msgstr "Entonces yo diría: \"¡Sí! ¡Estaba esperando a que lo dijera!\""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9324_Kiryu"
 msgid "What if you don't like the guy? It's not possible to like every man who falls for you, right?"
-msgstr ""
+msgstr "¿Y si el tipo no te gusta? No es posible que te guste cada hombre que se enamora de ti, ¿verdad?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9336_Maya"
 msgid "If I don't like him, I tell him that I'm not interested."
-msgstr ""
+msgstr "Si no me gusta, le digo que no estoy interesada."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9348_Kiryu"
 msgid "Huh. If you're going to be picky and choose like that, why don't you just tell the guys you like first?"
-msgstr ""
+msgstr "Vaya. Si vas a ser tan exigente, ¿por qué no les dices primero a los hombres que te gustan?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9360_Maya"
 msgid "That's no good. The man has to take the initiative."
-msgstr ""
+msgstr "Eso no está bien. El hombre tiene que tomar la iniciativa."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9372_Maya"
 msgid "So I'll be waiting if you have anything you want to tell me."
-msgstr ""
+msgstr "Así que esperaré, por si tiene algo que decirme."
 
 #. y4:line_status=translated
 msgctxt "9384_Kiryu"
 msgid "What's that supposed to mean?"
 msgstr "¿Qué se supone que significa eso?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9396_Kiryu"
 msgid "You can't just sit back and wait for it. If you do, you might lose your chance."
-msgstr ""
+msgstr "No puedes quedarte sentada esperando. Si lo haces, podrías perder tu oportunidad."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9408_Maya"
 msgid "I dunno. There's just something wrong about the girl being the one to say it."
-msgstr ""
+msgstr "No sé. Simplemente hay algo que no está bien en que la chica sea quien lo diga."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9420_Kiryu"
 msgid "But what if the guy is waiting for you to say something, too? You'll both wait forever."
-msgstr ""
+msgstr "Pero ¿qué pasa si el chico también está esperando a que tú digas algo? Los dos esperarán para siempre."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9432_Maya"
 msgid "Well then, I would figure something out. I'll create a mood that'll make him confess his love for me."
-msgstr ""
+msgstr "Bueno, entonces se me ocurriría algo. Crearía el ambiente perfecto para que él me confesara su amor."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9444_Kiryu"
 msgid "That's practically the same thing as telling him, isn't it?"
-msgstr ""
+msgstr "Eso es prácticamente lo mismo que decírselo tú, ¿no?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9456_Maya"
 msgid "Why do you care!? You'd tell a girl if you like her, so what difference does it make!?"
-msgstr ""
+msgstr "¿¡Por qué le importa!? Usted le diría a una chica que le gusta, así que ¿qué diferencia hay!?"
 
 #. y4:line_status=translated
 msgctxt "9468_Kiryu"
 msgid "Sorry."
 msgstr "Lo siento."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9480_Kiryu"
 msgid "Haven't you ever told someone yourself?"
-msgstr ""
+msgstr "¿Alguna vez se lo has dicho tú a alguien?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9492_Maya"
 msgid "No comment!"
-msgstr ""
+msgstr "¡Sin comentarios!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9504_Kiryu"
 msgid "Heh. You're not afraid of being rejected, are you?"
-msgstr ""
+msgstr "Je. No tienes miedo de que te rechacen, ¿verdad?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9516_Maya"
 msgid "No, I just think that the man should be the one to confess his love to the woman."
-msgstr ""
+msgstr "No. Simplemente creo que el hombre debería ser quien le confiese su amor a la mujer."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9528_Kiryu"
 msgid "So women should be more passive?"
-msgstr ""
+msgstr "¿Entonces las mujeres deberían ser más pasivas?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9540_Maya"
 msgid "Sure. Who wants an aggressive man-eater for a girlfriend?"
-msgstr ""
+msgstr "Claro. ¿Quién querría tener como novia a una mujer agresiva que se come a los hombres?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9552_Kiryu"
 msgid "Good point..."
-msgstr ""
+msgstr "Buen punto..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9564_Maya"
 msgid "Hmm!"
-msgstr ""
+msgstr "¡Mmm!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9576_Kiryu"
 msgid "Did something good happen?"
-msgstr ""
+msgstr "¿Pasó algo bueno?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9588_Maya"
 msgid "Why do you ask?"
-msgstr ""
+msgstr "¿Por qué lo pregunta?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9600_Kiryu"
 msgid "Oh, you just seemed happy."
-msgstr ""
+msgstr "Ah, es que parecía contenta."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9612_Maya"
 msgid "You think so, too?"
-msgstr ""
+msgstr "¿Usted también lo cree?"
 
 #. y4:line_status=translated
 msgctxt "9624_Kiryu"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9636_Maya"
 msgid "My friends always tell me I look happy, even when I'm not."
-msgstr ""
+msgstr "Mis amigas siempre me dicen que parezco feliz, incluso cuando no lo estoy."
 
 #. y4:line_status=translated
 msgctxt "9648_Kiryu"
 msgid "Oh, okay."
 msgstr "Ah, entiendo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=16
 msgctxt "9660_Maya"
 msgid "I wonder why..."
-msgstr ""
+msgstr "Me pregunto por qué..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9672_Kiryu"
 msgid "You look like you don't have any worries. If you act bright and cheery, of course people will think you're happy."
-msgstr ""
+msgstr "Pareces no tener preocupaciones. Si actúas alegre y radiante, es lógico que la gente piense que eres feliz."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9684_Maya"
 msgid "Hey, that makes me sound like an airhead. I'm not cheerful all the time."
-msgstr ""
+msgstr "Oiga, eso hace que parezca una cabeza hueca. No estoy alegre todo el tiempo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9696_Kiryu"
 msgid " But I've never seen you upset. Do you try to keep your negative feelings from showing?"
-msgstr ""
+msgstr " Pero nunca te he visto molesta. ¿Intentas que no se noten tus sentimientos negativos?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9708_Maya"
 msgid "I guess so. How you feel inside can affect how you look outside."
-msgstr ""
+msgstr "Supongo que sí. Lo que uno siente por dentro puede afectar su aspecto por fuera."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9720_Maya"
 msgid "I always try to get rid of stress instead of bottling it up."
-msgstr ""
+msgstr "Siempre intento deshacerme del estrés en vez de guardármelo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9732_Kiryu"
 msgid "So that's your beauty secret, huh?"
-msgstr ""
+msgstr "Así que ese es tu secreto de belleza, ¿eh?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9744_Kiryu"
 msgid "It's annoying when people jump to conclusions."
-msgstr ""
+msgstr "Es molesto que la gente saque conclusiones apresuradas."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9756_Maya"
 msgid "Yeah. One of my friends is always being told that she doesn't look like she has a boyfriend."
-msgstr ""
+msgstr "Sí. A una de mis amigas siempre le dicen que no parece tener novio."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9768_Maya"
 msgid "I don't think her feelings are really hurt by it, but it is irritating."
-msgstr ""
+msgstr "No creo que de verdad le duela, pero sí es irritante."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9780_Kiryu"
 msgid "You shouldn't judge people on their appearances."
-msgstr ""
+msgstr "No deberías juzgar a las personas por su apariencia."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9792_Maya"
 msgid "Right! I wish people would think before they say things like that. They probably wouldn't like it if they were on the receiving end."
-msgstr ""
+msgstr "¡Exacto! Ojalá la gente pensara antes de decir cosas así. Seguro que no les gustaría estar del otro lado."
 
 #. y4:line_status=translated
 msgctxt "9804_Kiryu"
 msgid "Yeah."
 msgstr "Sí."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9816_Kiryu"
 msgid "Do you have a hard time hiding your feelings?"
-msgstr ""
+msgstr "¿Te cuesta ocultar lo que sientes?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9828_Maya"
 msgid "Yeah. I can never get away with trying to hide something."
-msgstr ""
+msgstr "Sí. Nunca logro ocultar algo por mucho tiempo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9840_Kiryu"
 msgid "Heh. I thought so."
-msgstr ""
+msgstr "Je. Eso pensé."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9852_Maya"
 msgid "But people tell me I look happy, even when I'm not feeling very good."
-msgstr ""
+msgstr "Pero la gente me dice que parezco feliz incluso cuando no me siento muy bien."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9864_Kiryu"
 msgid "Oh. I guess this is a different problem, then."
-msgstr ""
+msgstr "Ah. Entonces este es un problema distinto."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9876_Maya"
 msgid "Nobody understands me. I've got problems like everybody else. I'm not happy all the time."
-msgstr ""
+msgstr "Nadie me entiende. Tengo problemas como todo el mundo. No soy feliz todo el tiempo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9888_Kiryu"
 msgid "What do you do to relax?"
-msgstr ""
+msgstr "¿Qué haces para relajarte?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9900_Maya"
 msgid "I go shopping, or I'm out drinking with my friends. Normal stuff, I guess."
-msgstr ""
+msgstr "Voy de compras o salgo a beber con mis amigas. Lo normal, supongo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9912_Kiryu"
 msgid "Hmm. I'm a little surprised."
-msgstr ""
+msgstr "Mmm. Me sorprende un poco."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9924_Maya"
 msgid "I used to go out to clubs all the time, but I had to cut back."
-msgstr ""
+msgstr "Antes solía salir de fiesta a clubes todo el tiempo, pero tuve que bajar el ritmo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9936_Maya"
 msgid "You should've seen me when I was in high school."
-msgstr ""
+msgstr "Debió haberme visto cuando estaba en la preparatoria."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9948_Kiryu"
 msgid "Everybody's a little wild at that age."
-msgstr ""
+msgstr "A esa edad todos son un poco alocados."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9960_Maya"
 msgid "All I cared about was looking good and having fun."
-msgstr ""
+msgstr "Lo único que me importaba era verme bien y divertirme."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9972_Maya"
 msgid "But around the time I turned twenty, my way of thinking changed. I started caring more about the kind of person I was on the inside."
-msgstr ""
+msgstr "Pero cuando cumplí unos veinte años, mi forma de pensar cambió. Empecé a darle más importancia a la clase de persona que era por dentro."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=17
 msgctxt "9984_Maya"
 msgid "So I don't go out and party like I used to anymore."
-msgstr ""
+msgstr "Así que ya no salgo de fiesta como antes."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "9996_Kiryu"
 msgid "Maybe you were too wild as a teenager. Besides, everyone's got to cut back on luxuries in this economy."
-msgstr ""
+msgstr "Tal vez eras demasiado alocada de adolescente. Además, con esta economía todos tienen que recortar los lujos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10008_Maya"
 msgid "It does seem like people aren't spending as much on going out as they used to."
-msgstr ""
+msgstr "Parece que la gente ya no gasta tanto en salir como antes."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10020_Kiryu"
 msgid "It's good that you're happier this way."
-msgstr ""
+msgstr "Es bueno que ahora seas más feliz."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10032_Maya"
 msgid "I really am. I've grown up a little bit, huh?"
-msgstr ""
+msgstr "Y lo soy. He madurado un poco, ¿eh?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10044_Maya"
 msgid "Maybe someday I can become a woman others look up to."
-msgstr ""
+msgstr "Quizá algún día pueda convertirme en una mujer a la que los demás admiren."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10056_Kiryu"
 msgid "I think so."
-msgstr ""
+msgstr "Creo que sí."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10068_Kiryu"
 msgid "I bet you hang out with a different crowd, too. When you're around adults, you realize how immature you are."
-msgstr ""
+msgstr "Seguro que también te juntas con otro tipo de gente. Cuando estás rodeada de adultos, te das cuenta de lo inmadura que eres."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10080_Maya"
 msgid "That's true! When I saw my friends growing up, I panicked a little bit."
-msgstr ""
+msgstr "¡Es verdad! Cuando vi que mis amigas estaban madurando, me entró un poco el pánico."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10092_Maya"
 msgid "So I decided to become a mature adult."
-msgstr ""
+msgstr "Así que decidí convertirme en una mujer madura."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10104_Kiryu"
 msgid "You'll have to work on your drinking, then."
-msgstr ""
+msgstr "Entonces tendrás que moderar tu forma de beber."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10116_Maya"
 msgid "I'm done with that! I haven't gotten drunk since last year!"
-msgstr ""
+msgstr "¡Ya dejé eso! ¡No me emborracho desde el año pasado!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10128_Maya"
 msgid "I take my time and enjoy what I drink."
-msgstr ""
+msgstr "Bebo despacio y disfruto lo que tomo."
 
 #. y4:line_status=translated
 msgctxt "10140_Kiryu"
 msgid "That's good."
 msgstr "Genial."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10152_Kiryu"
 msgid "That's a surprisingly sensible thing to say. I'm impressed."
-msgstr ""
+msgstr "Es algo sorprendentemente sensato. Me sorprendes."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10164_Maya"
 msgid "What do you mean, surprisingly?"
-msgstr ""
+msgstr "¿Qué quiere decir con \"sorprendentemente\"?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10176_Kiryu"
 msgid "Oh, you just don't look like you worry about that kind of thing. You're always smiling."
-msgstr ""
+msgstr "Ah, es que no pareces preocuparte por ese tipo de cosas. Siempre estás sonriendo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10188_Maya"
 msgid "Well, you can't be a teenager forever. Sooner or later, you have to start acting your age."
-msgstr ""
+msgstr "Bueno, nadie puede ser adolescente para siempre. Tarde o temprano hay que comportarse de acuerdo con la edad."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10200_Maya"
 msgid "But it works both ways. If you're not careful, you could get stuck in the past."
-msgstr ""
+msgstr "Pero también funciona al revés. Si uno no tiene cuidado, puede quedarse atrapado en el pasado."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10212_Kiryu"
 msgid "Oh. Yeah."
-msgstr ""
+msgstr "Ah. Sí."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10224_Maya"
 msgid "What did you think the first time you saw me?"
-msgstr ""
+msgstr "¿Qué pensó la primera vez que me vio?"
 
 #. y4:line_status=translated
 msgctxt "10236_Kiryu"
 msgid "Huh? Why?"
 msgstr "¿Eh? ¿Por qué?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10248_Maya"
 msgid "A lot of people think I'm scary the first time they meet me."
-msgstr ""
+msgstr "Mucha gente piensa que doy miedo la primera vez que me conoce."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10260_Kiryu"
 msgid "They do? That's a surprise."
-msgstr ""
+msgstr "¿De verdad? Qué sorpresa."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=18
 msgctxt "10272_Maya"
 msgid "I think it's because I'm a little shy at first. So I tense up and don't smile much."
-msgstr ""
+msgstr "Creo que es porque al principio soy un poco tímida. Me pongo tensa y no sonrío mucho."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10284_Kiryu"
 msgid "People say I'm scary, too. I know how you feel."
-msgstr ""
+msgstr "A mí también me dicen que doy miedo. Sé cómo te sientes."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10296_Maya"
 msgid "Yeah, I thought so."
-msgstr ""
+msgstr "Sí, me lo imaginaba."
 
 #. y4:line_status=translated
 msgctxt "10308_Kiryu"
 msgid "Hey."
 msgstr "Oye."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10320_Maya"
 msgid "But how can I stop people from thinking that?"
-msgstr ""
+msgstr "Pero ¿cómo puedo evitar que la gente piense eso?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10332_Kiryu"
 msgid "Maybe it'd help if you made an effort to talk to them."
-msgstr ""
+msgstr "Tal vez ayudaría que hicieras un esfuerzo por hablar con ellos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10344_Maya"
 msgid "But that's the problem. I'm shy! I can't just jump in and talk to them."
-msgstr ""
+msgstr "Pero ese es el problema. ¡Soy tímida! No puedo acercarme sin más a hablarles."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10356_Kiryu"
 msgid "You have to do your best. You might be embarrassed sometimes, but you'll get used to it eventually."
-msgstr ""
+msgstr "Tienes que esforzarte al máximo. A veces te dará vergüenza, pero con el tiempo te acostumbrarás."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10368_Maya"
 msgid "Okay. I'll give it a try next time."
-msgstr ""
+msgstr "De acuerdo. Lo intentaré la próxima vez."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10380_Maya"
 msgid "Of course, I've never had any trouble smiling and talking to you."
-msgstr ""
+msgstr "Claro, nunca he tenido problemas para sonreír y hablar con usted."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10392_Kiryu"
 msgid "That's comforting."
-msgstr ""
+msgstr "Eso me tranquiliza."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10404_Kiryu"
 msgid "That impression doesn't last long, does it? They probably don't think you're scary once they get to know you."
-msgstr ""
+msgstr "Esa impresión no dura mucho, ¿verdad? Probablemente no piensen que das miedo una vez que te conocen."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10416_Maya"
 msgid "That's true. But what about people who've only met me once?"
-msgstr ""
+msgstr "Es verdad. Pero ¿qué pasa con la gente que solo me ha visto una vez?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10428_Maya"
 msgid "If I hadn't scared them off, we might have become good friends."
-msgstr ""
+msgstr "Si no los hubiera asustado, quizá nos habríamos hecho buenos amigos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10440_Kiryu"
 msgid "Yeah... Still, you can't force yourself to act in a way that makes people like you. That would be tiring."
-msgstr ""
+msgstr "Sí... Aun así, no puedes obligarte a comportarte de una forma que haga que la gente te quiera. Sería agotador."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10452_Kiryu"
 msgid "It's best to be yourself."
-msgstr ""
+msgstr "Lo mejor es ser tú misma."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10464_Maya"
 msgid "Thank you. I feel a little better now."
-msgstr ""
+msgstr "Gracias. Ahora me siento un poco mejor."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10476_Kiryu"
 msgid "You've got a kind of aura about you. I could tell right away that you're something special."
-msgstr ""
+msgstr "Tienes un aura especial. Desde el primer momento supe que eras alguien especial."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10488_Maya"
 msgid "Huh? What do you mean!?"
-msgstr ""
+msgstr "¿Eh? ¡¿Qué quiere decir?!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10500_Kiryu"
 msgid "People are just intimidated. That's probably why they avoid you."
-msgstr ""
+msgstr "La gente simplemente se intimida. Probablemente por eso te evita."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10512_Maya"
 msgid "Oh. That's kind of depressing."
-msgstr ""
+msgstr "Ah. Eso es un poco deprimente."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10524_Kiryu"
 msgid "Well, it's better than everybody thinking they're your best friend, isn't it?"
-msgstr ""
+msgstr "Bueno, es mejor que todos pensaran que son tus mejores amigos, ¿no?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10536_Maya"
 msgid "No, it's not better at all! I don't want people to avoid me! That's terrible!"
-msgstr ""
+msgstr "¡No, no es mejor en absoluto! ¡No quiero que la gente me evite! ¡Es terrible!"
 
 #. y4:line_status=translated
 msgctxt "10548_Maya"
 msgid "Ugh. What should I do?"
 msgstr "Ugh. ¿Qué debería hacer?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10560_Kiryu"
 msgid "You haven't been drinking much. Are you feeling all right?"
-msgstr ""
+msgstr "No has bebido mucho. ¿Te sientes bien?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10572_Maya"
 msgid "I'm fine. I didn't want to get drunk and cause any trouble. I'm trying to cut back."
-msgstr ""
+msgstr "Estoy bien. No quería emborracharme y causar problemas. Estoy intentando beber menos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10584_Kiryu"
 msgid "Heh. You can be a little unpredictable when you're drunk."
-msgstr ""
+msgstr "Je. Cuando te emborrachas puedes ser un poco impredecible."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10596_Maya"
 msgid "You got that right!"
-msgstr ""
+msgstr "¡Eso es verdad!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10608_Maya"
 msgid "This one time back in Yokohama, I did something really crazy."
-msgstr ""
+msgstr "Una vez, cuando estaba en Yokohama, hice algo realmente disparatado."
 
 #. y4:line_status=translated
 msgctxt "10620_Kiryu"
 msgid "What was it?"
 msgstr "¿Qué era?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=19
 msgctxt "10632_Maya"
 msgid "Well, apparently I ran around Chinatown with a corset wrapped around my waist."
-msgstr ""
+msgstr "Bueno, al parecer corrí por Chinatown con un corsé atado a la cintura."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10644_Kiryu"
 msgid "A corset?"
-msgstr ""
+msgstr "¿Un corsé?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10656_Maya"
 msgid "Yeah. You know, one of those medical corsets. My friend was wearing it for an injury."
-msgstr ""
+msgstr "Sí. Ya sabe, uno de esos corsés médicos. Mi amiga lo llevaba por una lesión."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10668_Kiryu"
 msgid "And you put it on? Why would your friend be okay with that?"
-msgstr ""
+msgstr "¿Y te lo pusiste? ¿Por qué tu amiga estaría de acuerdo con eso?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10680_Maya"
 msgid "Um. I'm not sure she was..."
-msgstr ""
+msgstr "Eh... No estoy segura de que lo estuviera..."
 
 #. y4:line_status=translated
 msgctxt "10692_Kiryu"
 msgid "What!?"
 msgstr "¡¿Qué?!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10704_Maya"
 msgid "Hehe! She did say it took two extra weeks to heal because of me."
-msgstr ""
+msgstr "¡Je, je! Dijo que por mi culpa tardó dos semanas más en sanar."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10716_Kiryu"
 msgid "Um... I think you should definitely cut back."
-msgstr ""
+msgstr "Mmm... Creo que definitivamente deberías beber menos."
 
 #. y4:line_status=translated
 msgctxt "10728_Maya"
 msgid "Me too."
 msgstr "Yo también."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10740_Kiryu"
 msgid "Apparently? You don't remember it?"
-msgstr ""
+msgstr "¿Al parecer? ¿No lo recuerdas?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10752_Maya"
 msgid "Not at all! You'd think I would, but nope!"
-msgstr ""
+msgstr "¡Para nada! Uno pensaría que lo recordaría, pero ¡no!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10764_Maya"
 msgid "My friends said I made about three laps around Chinatown, screaming at the top of my lungs."
-msgstr ""
+msgstr "Mis amigas dijeron que di como tres vueltas por Chinatown, gritando a todo pulmón."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10776_Kiryu"
 msgid "That's really something."
-msgstr ""
+msgstr "Eso sí que es algo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10788_Maya"
 msgid "Oh, come on! Everybody's done something like that!"
-msgstr ""
+msgstr "¡Ay, vamos! ¡Todo el mundo ha hecho algo así!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10800_Kiryu"
 msgid "Not that I can recall."
-msgstr ""
+msgstr "No que yo recuerde."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10812_Maya"
 msgid "See! You were drinking so much you can't even remember it!"
-msgstr ""
+msgstr "¡Lo ve! Bebió tanto que ni siquiera puede recordarlo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10824_Kiryu"
 msgid "That's not what I meant..."
-msgstr ""
+msgstr "No me refería a eso..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10836_Maya"
 msgid "Oh, sure. We'll just leave it at that."
-msgstr ""
+msgstr "Ah, claro. Dejémoslo así."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10848_Kiryu"
 msgid "Don't worry about it. Here, have a drink."
-msgstr ""
+msgstr "No te preocupes por eso. Toma, bebe algo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10860_Maya"
 msgid "Wait, why should I?"
-msgstr ""
+msgstr "Espere, ¿por qué debería hacerlo?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10872_Kiryu"
 msgid "Well, I'm interested to see what you'll do."
-msgstr ""
+msgstr "Bueno, me interesa ver qué harás."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10884_Maya"
 msgid "Hey, this isn't some kind of experiment!"
-msgstr ""
+msgstr "Oiga, esto no es un experimento cualquiera."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10896_Maya"
 msgid "And I have a reputation here. They know me as a calm, mature woman."
-msgstr ""
+msgstr "Además, tengo una reputación aquí. Me conocen como una mujer tranquila y madura."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10908_Kiryu"
 msgid "Uh-oh. I think you're already drunk. You're just talking nonsense now."
-msgstr ""
+msgstr "Uy. Creo que ya estás borracha. Ahora solo estás diciendo tonterías."
 
 #. y4:line_status=translated
 msgctxt "10920_Maya"
@@ -3274,261 +3288,261 @@ msgctxt "10932_Kiryu"
 msgid "Haha."
 msgstr "Ja, ja."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10944_Maya"
 msgid "Do you enjoy talking with me?"
-msgstr ""
+msgstr "¿Disfruta hablando conmigo?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10956_Kiryu"
 msgid "Of course I do. Would I come back so many times if I didn't?"
-msgstr ""
+msgstr "Claro que sí. ¿Volvería tantas veces si no fuera así?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10968_Maya"
 msgid "Hehe. ♪ Thanks. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "Je, je. ♪ Gracias. <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "10980_Kiryu"
 msgid "What's wrong?"
 msgstr "¿Qué ocurre?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "10992_Maya"
 msgid "Well, I'm not very good at entertaining people."
-msgstr ""
+msgstr "Bueno, no soy muy buena entreteniendo a la gente."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=20
 msgctxt "11004_Maya"
 msgid "I think I'm kind of boring compared to the other girls here. And I'm not well-educated, either."
-msgstr ""
+msgstr "Creo que soy un poco aburrida comparada con las otras chicas de aquí. Y tampoco tengo mucha educación."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11016_Kiryu"
 msgid "That's what I like about you. I love watching you try so hard to be entertaining."
-msgstr ""
+msgstr "Eso es lo que me gusta de ti. Me encanta verte esforzarte tanto por entretenerme."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11028_Maya"
 msgid "Hey, are you making fun of me?"
-msgstr ""
+msgstr "Oiga, ¿se está burlando de mí?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11040_Kiryu"
 msgid "No, no. I'd rather have you try it your own way than copy what the other girls do."
-msgstr ""
+msgstr "No, no. Prefiero que lo intentes a tu manera en vez de copiar lo que hacen las otras chicas."
 
 #. y4:line_status=translated
 msgctxt "11052_Maya"
 msgid "Really?"
 msgstr "¿De verdad?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11064_Kiryu"
 msgid "Sure. In fact, I want you to relax and be yourself instead of worrying about what I think."
-msgstr ""
+msgstr "Claro. De hecho, quiero que te relajes y seas tú misma en vez de preocuparte por lo que pienso."
 
 #. y4:line_status=translated
 msgctxt "11076_Maya"
 msgid "Hmm..."
 msgstr "Mmm..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11088_Maya"
 msgid "Okay! I'll try not to worry about it from now on!"
-msgstr ""
+msgstr "¡De acuerdo! ¡A partir de ahora intentaré no preocuparme!"
 
 #. y4:line_status=translated
 msgctxt "11100_Kiryu"
 msgid "Good."
 msgstr "Perfecto."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11112_Kiryu"
 msgid "Don't worry about that. You don't have to try so hard to be entertaining. Some people are better listeners than talkers."
-msgstr ""
+msgstr "No te preocupes por eso. No tienes que esforzarte tanto por entretener. Algunas personas son mejores escuchando que hablando."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11124_Maya"
 msgid "A better listener, huh? But I have trouble asking the right kind of follow-up questions."
-msgstr ""
+msgstr "¿Mejor escuchando, eh? Pero me cuesta hacer las preguntas adecuadas para continuar la conversación."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11136_Kiryu"
 msgid "Then the man should be talking about something more interesting."
-msgstr ""
+msgstr "Entonces el hombre debería hablar de algo más interesante."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11148_Maya"
 msgid "Haha! You're kinda strict toward men, aren't you?"
-msgstr ""
+msgstr "¡Ja, ja! Es un poco duro con los hombres, ¿no?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11160_Kiryu"
 msgid "Yes. A real gentleman should learn how to talk to a lady."
-msgstr ""
+msgstr "Sí. Un verdadero caballero debe aprender a conversar con una dama."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11172_Maya"
 msgid "Hehe. You certainly know how to do that. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "Je, je. Desde luego sabe cómo hacerlo. <Color:7>♥<Color:Default>"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11184_Kiryu"
 msgid "Education isn't always a good thing. Some men prefer girls who aren't as well-educated as they are."
-msgstr ""
+msgstr "La educación no siempre es algo bueno. Algunos hombres prefieren a las chicas que no tienen tanta educación como ellos."
 
 #. y4:line_status=translated
 msgctxt "11196_Maya"
 msgid "What about you?"
-msgstr "¿Qué hay de ti?"
+msgstr "¿Y usted?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11208_Kiryu"
 msgid "Well, I don't judge women like that, so it doesn't matter to me."
-msgstr ""
+msgstr "Bueno, yo no juzgo a las mujeres de esa manera, así que no importa."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11220_Maya"
 msgid "Huh. That's not much help."
-msgstr ""
+msgstr "Vaya. Eso no ayuda mucho."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11232_Kiryu"
 msgid "What your customers want is important, but so is knowing what kind of hostess you want to be."
-msgstr ""
+msgstr "Lo que quieren tus clientes es importante, pero también lo es saber qué clase de hostess quieres ser."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11244_Maya"
 msgid "Yeah. I know what my weaknesses are, so I can work to make them better."
-msgstr ""
+msgstr "Sí. Sé cuáles son mis debilidades, así que puedo trabajar para mejorarlas."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11256_Maya"
 msgid "*yawns*"
-msgstr ""
+msgstr "*bosteza*"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11268_Kiryu"
 msgid "You look tired. Did you have another photoshoot today?"
-msgstr ""
+msgstr "Te ves cansada. ¿Tuviste otra sesión de fotos hoy?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11280_Maya"
 msgid "Oh, I'm sorry. Yes, I did. I had to get up really early today."
-msgstr ""
+msgstr "Ah, perdón. Sí, hoy tuve que levantarme muy temprano."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11292_Maya"
 msgid "If I'm not careful, I might fall asleep."
-msgstr ""
+msgstr "Si no tengo cuidado, podría quedarme dormida."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11304_Kiryu"
 msgid "You could really sleep in a noisy place like this?"
-msgstr ""
+msgstr "¿De verdad podrías dormir en un lugar tan ruidoso como este?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=21
 msgctxt "11316_Maya"
 msgid "Yep. Models are always a little sleep-deprived, so we catch a nap whenever we can."
-msgstr ""
+msgstr "Sí. Las modelos siempre dormimos un poco menos de lo necesario, así que aprovechamos para echar una siesta cuando podemos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11328_Kiryu"
 msgid "Aren't you working yourself a bit too hard? Maybe you should take some time off from the club."
-msgstr ""
+msgstr "¿No estás trabajando demasiado? Quizá deberías tomarte un descanso del club."
 
 #. y4:line_status=translated
 msgctxt "11340_Maya"
 msgid "But..."
 msgstr "Pero..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11352_Kiryu"
 msgid "There's no point making money if you get sick. Your health is more important."
-msgstr ""
+msgstr "No tiene sentido ganar dinero si vas a enfermarte. Tu salud es más importante."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11364_Maya"
 msgid "I'm not here for the money. I'm here because I want to see you."
-msgstr ""
+msgstr "No estoy aquí por el dinero. Estoy aquí porque quiero verlo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11376_Kiryu"
 msgid "What? That's why...?"
-msgstr ""
+msgstr "¿Qué? ¿Por eso...?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11388_Maya"
 msgid "But you thought I only cared about money! Maybe I should quit after all."
-msgstr ""
+msgstr "¡Pero usted pensaba que a mí solo me importaba el dinero! Tal vez debería renunciar después de todo."
 
 #. y4:line_status=translated
 msgctxt "11400_Kiryu"
 msgid "I'm sorry."
 msgstr "Lo siento."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11412_Kiryu"
 msgid "Do you fall asleep while doing your makeup?"
-msgstr ""
+msgstr "¿Te quedas dormida mientras te maquillas?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11424_Maya"
 msgid "Yeah, I've done that before. And some models even fall asleep while changing clothes."
-msgstr ""
+msgstr "Sí, me ha pasado. Y algunas modelos incluso se quedan dormidas mientras se cambian de ropa."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11436_Kiryu"
 msgid "I thought models had to change clothes in a hurry so they could wear as many outfits as possible."
-msgstr ""
+msgstr "Pensaba que las modelos tenían que cambiarse rápido para poder usar tantos atuendos como fuera posible."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11448_Maya"
 msgid "That's just during fashion shows. It's more relaxed during shoots."
-msgstr ""
+msgstr "Eso es solo durante los desfiles. En las sesiones es más relajado."
 
 #. y4:line_status=translated
 msgctxt "11460_Kiryu"
 msgid "Heh. Sounds like fun."
 msgstr "Je. Suena divertido."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11472_Maya"
 msgid "It is. I hope I can be a model forever."
-msgstr ""
+msgstr "Así es. Espero poder ser modelo para siempre."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11484_Kiryu"
 msgid "I'm a little disappointed. Modeling seems so glamorous, but in reality you get bags under your eyes."
-msgstr ""
+msgstr "Estoy un poco decepcionado. Modelar parece tan glamuroso, pero en realidad te salen ojeras."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11496_Maya"
 msgid "Haha! That's okay. The makeup covers it up."
-msgstr ""
+msgstr "¡Ja, ja! No pasa nada. El maquillaje las cubre."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11508_Kiryu"
 msgid "But you're not exactly relaxing and chatting in your dressing room."
-msgstr ""
+msgstr "Pero no es como si te relajaras y charlaras en tu camerino."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11520_Maya"
 msgid "Nope. You have to rest when you get the chance."
-msgstr ""
+msgstr "No. Tiene que descansar cuando tenga la oportunidad."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11532_Maya"
 msgid "We try not to use any more energy than we have to."
-msgstr ""
+msgstr "Intentamos no gastar más energía de la necesaria."
 
 #. y4:line_status=translated
 msgctxt "11544_Kiryu"
@@ -3576,7 +3590,7 @@ msgstr "Pero denunciar a un policía por acoso es un gran problema, así que..."
 #. y4:line_status=translated
 msgctxt "11640_Maya"
 msgid "Haha, yeah. You're right. I'd like to see what would happen, though."
-msgstr "Ja, ja. Tienes razón, pero me gustaría ver qué pasaría."
+msgstr "Ja, ja. Tiene razón, pero me gustaría ver qué pasaría."
 
 #. y4:line_status=translated
 msgctxt "11652_Kiryu"
@@ -3588,10 +3602,10 @@ msgctxt "11664_Maya"
 msgid "Yeah. Hopefully it won't come to that."
 msgstr "Sí. Esperemos que no llegue a eso."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11676_Kiryu"
 msgid "Why don't you just ignore his emails? That should take care of it."
-msgstr ""
+msgstr "¿Por qué no ignoras sus correos? Con eso debería bastar."
 
 #. y4:line_status=translated
 msgctxt "11688_Maya"
@@ -3636,12 +3650,12 @@ msgstr "Tienes que tener más cuidado. Hay gente mala por ahí."
 #. y4:line_status=translated
 msgctxt "11784_Maya"
 msgid "You don't have to rub it in. I figured he'd be safe, since he's a cop."
-msgstr "No tienes que recordármelo. Pensé que estaría a salvo, ya que es policía."
+msgstr "No tiene que echármelo en cara. Pensé que estaría a salvo, ya que es policía."
 
 #. y4:line_status=translated
 msgctxt "11796_Maya"
 msgid "I was hoping that you could give me a little advice, but I guess you're more interested in scolding me."
-msgstr "Esperaba que pudieras aconsejarme, pero supongo que estás más interesado en regañarme."
+msgstr "Esperaba que pudiera darme un consejo, pero supongo que le interesa más regañarme."
 
 #. y4:line_status=translated
 msgctxt "11808_Kiryu"
@@ -3651,7 +3665,7 @@ msgstr "......"
 #. y4:line_status=translated
 msgctxt "11820_Maya"
 msgid "Do you think I should email him back? It can't be a good idea to ignore him, can it?"
-msgstr "¿Crees que deba enviarle un email? No me parece correcto ignorarlo."
+msgstr "¿Cree que debería responderle? Ignorarlo no puede ser buena idea, ¿verdad?"
 
 #. y4:line_status=translated
 msgctxt "11832_Kiryu"
@@ -3661,7 +3675,7 @@ msgstr "¿Te refieres a ese policía? ¿Qué escribirías?"
 #. y4:line_status=translated
 msgctxt "11844_Maya"
 msgid "I don't know. Do you have any ideas?"
-msgstr "No lo sé... ¿Tienes alguna idea?"
+msgstr "No lo sé. ¿Tiene alguna idea?"
 
 #. y4:line_status=translated
 #. y4:msg_role=decision
@@ -3701,10 +3715,10 @@ msgctxt "11928_Kiryu"
 msgid "Right. I guess that wasn't a very good idea."
 msgstr "Cierto. Supongo que no fue una buena idea."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "11940_Maya"
 msgid "This is giving me such a headache."
-msgstr ""
+msgstr "Esto me está dando un dolor de cabeza."
 
 #. y4:line_status=translated
 msgctxt "11952_Kiryu"
@@ -3729,7 +3743,7 @@ msgstr "No lo había pensado..."
 #. y4:line_status=translated
 msgctxt "12000_Maya"
 msgid "Okay, I'll try it. And you can be my boyfriend."
-msgstr "Ok, lo intentaré. Y tú podrías ser mi novio."
+msgstr "De acuerdo, lo intentaré. Y usted puede ser mi novio."
 
 #. y4:line_status=translated
 msgctxt "12012_Maya"
@@ -3771,10 +3785,10 @@ msgctxt "12096_Kiryu"
 msgid "Well, it's possible."
 msgstr "Bueno, es una posibilidad."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "12108_Maya"
 msgid "Hmm. I think I need another idea."
-msgstr ""
+msgstr "Mmm. Creo que necesito otra idea."
 
 #. y4:line_status=translated
 msgctxt "12120_Maya"
@@ -3822,12 +3836,12 @@ msgstr "Pero, siempre me ves cuando vengo al club. ¿Eso no es suficiente?"
 #. y4:line_status=translated
 msgctxt "12216_Maya"
 msgid "But then you're just one of my customers. I want our relationship to be more than that."
-msgstr "Pero solo eres uno de mis clientes. Quiero que nuestra relación sea más que eso."
+msgstr "Pero entonces usted solo sería uno de mis clientes. Quiero que nuestra relación sea algo más."
 
 #. y4:line_status=translated
 msgctxt "12228_Maya"
 msgid "Unless you don't want it to be. Maybe I'm just a hostess to you."
-msgstr "A menos que no quieras que lo sea. Tal vez solo soy una Hostess para ti."
+msgstr "A menos que usted no quiera que lo sea. Tal vez para usted solo soy una hostess."
 
 #. y4:line_status=translated
 msgctxt "12240_Kiryu"
@@ -3867,7 +3881,7 @@ msgstr "¿Renunciarías por mí?"
 #. y4:line_status=translated
 msgctxt "12324_Maya"
 msgid "Hehe. It's more for me than for you. I'm quitting because I want to see more of you."
-msgstr "Je, je. Es más por mí que por ti. Lo dejo porque quiero ver más de ti."
+msgstr "Je, je. Es más por mí que por usted. Renuncio porque quiero verlo más."
 
 #. y4:line_status=translated
 msgctxt "12336_Kiryu"
@@ -3887,7 +3901,7 @@ msgstr "Sí. En realidad, estoy fuera casi todo el tiempo. Estoy muy ocupado. No
 #. y4:line_status=translated
 msgctxt "12372_Maya"
 msgid "But you have enough time to come here."
-msgstr "Pero tienes tiempo de sobra para venir aquí."
+msgstr "Pero sí tiene tiempo para venir aquí."
 
 #. y4:line_status=translated
 msgctxt "12384_Kiryu"
@@ -3899,15 +3913,15 @@ msgctxt "12396_Maya"
 msgid "Hmm. It sounds like it would be better if I just stayed here."
 msgstr "Mmm. Parece que sería mejor que me quedara aquí."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "12408_Maya"
 msgid "Aw. And I'd finally made up my mind, too."
-msgstr ""
+msgstr "Ay. Y justo por fin me había decidido."
 
 #. y4:line_status=translated
 msgctxt "12420_Kiryu"
 msgid "I guess I hadn't mentioned this before, but I actually live in Okinawa."
-msgstr "Cree que nunca te lo dije... Pero yo vivo en Okinawa."
+msgstr "Creo que no te lo había mencionado, pero en realidad vivo en Okinawa."
 
 #. y4:line_status=translated
 msgctxt "12432_Maya"
@@ -3939,15 +3953,15 @@ msgctxt "12492_Kiryu"
 msgid "Huh?"
 msgstr "Uh, ¿y eso?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "12504_Maya"
 msgid "I'll go with you to Okinawa!"
-msgstr ""
+msgstr "¡Iré con usted a Okinawa!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "12516_Kiryu"
 msgid "What!? You will?"
-msgstr ""
+msgstr "¿¡Qué!? ¿De verdad irás?"
 
 #. y4:line_status=translated
 msgctxt "12528_Maya"
@@ -3962,7 +3976,7 @@ msgstr "Ja, ja. Supongo que no."
 #. y4:line_status=translated
 msgctxt "12552_Maya"
 msgid "Remember how I told you about my friend whose boyfriend cheated on her?"
-msgstr "¿Recuerdas que te hablé de mi amiga cuyo novio la engañó?"
+msgstr "¿Recuerda que le conté de mi amiga cuyo novio le fue infiel?"
 
 #. y4:line_status=translated
 msgctxt "12564_Kiryu"
@@ -4000,7 +4014,7 @@ msgstr "Parece una buena idea. No la conozco, pero no es sano estar en una relac
 #. y4:line_status=translated
 msgctxt "12636_Maya"
 msgid "Right!"
-msgstr "¡Tienes razón!"
+msgstr "¡Tiene razón!"
 
 #. y4:line_status=translated
 msgctxt "12648_Maya"
@@ -4034,7 +4048,7 @@ msgstr "Pero podrías salvarla de toda una vida de infelicidad."
 #. y4:translated_by=Traductor
 msgctxt "12708_Maya"
 msgid "Yeah. Yeah, you're right! Thanks for listening!"
-msgstr "Sí. ¡Sí, tienes razón! ¡Gracias por escucharme!"
+msgstr "Sí. Sí, tiene razón. ¡Gracias por escucharme!"
 
 #. y4:line_status=translated
 #. y4:translated_by=Traductor
@@ -4087,7 +4101,7 @@ msgstr "Está bien."
 #. y4:translated_by=Traductor
 msgctxt "12816_Maya"
 msgid "I guess being a friend means knowing when to give someone space. Thanks for the advice. <Color:7>♥<Color:Default>"
-msgstr "Supongo que ser una amiga significa saber cuando hay que dejarle espacio a alguien. Muchas gracuas por el consejo. <Color:7>⑮<Color:Default>"
+msgstr "Supongo que ser amiga significa saber cuándo darle espacio a alguien. Gracias por el consejo. <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 #. y4:translated_by=Traductor
@@ -4149,173 +4163,173 @@ msgctxt "12936_Maya"
 msgid "Thank you. I'll do my best to make her understand how I feel."
 msgstr "Gracias. Haré todo lo posible para que ella entienda cómo me siento."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "12948_Maya"
 msgid "Do you think we'll always be like this?"
-msgstr ""
+msgstr "¿Cree que siempre seremos así?"
 
 #. y4:line_status=translated
 msgctxt "12960_Kiryu"
 msgid "What do you mean?"
 msgstr "¿A qué te refieres?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "12972_Maya"
 msgid "Always a hostess and a customer."
-msgstr ""
+msgstr "Siempre una hostess y un cliente."
 
 #. y4:line_status=translated
 msgctxt "12984_Kiryu"
 msgid "Oh."
 msgstr "Oh."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "12996_Maya"
 msgid "I can't be a hostess for the rest of my life. This club won't be around forever."
-msgstr ""
+msgstr "No puedo ser hostess el resto de mi vida. Este club no durará para siempre."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13008_Maya"
 msgid "And you have to pay to come here and see me."
-msgstr ""
+msgstr "Y usted tiene que pagar para venir aquí a verme."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=26
 msgctxt "13020_Maya"
 msgid "This can't last forever, can it?"
-msgstr ""
+msgstr "Esto no puede durar para siempre, ¿verdad?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13032_Kiryu"
 msgid "It'll be all right. This kind of thing can keep going for a long time."
-msgstr ""
+msgstr "No pasa nada. Esto puede durar mucho tiempo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13044_Maya"
 msgid "That's all you want from our relationship?"
-msgstr ""
+msgstr "¿Eso es todo lo que quiere de nuestra relación?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13056_Kiryu"
 msgid "Is there a problem with that?"
-msgstr ""
+msgstr "¿Hay algún problema con eso?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13068_Maya"
 msgid "Yeah. I need more. I've got hopes and dreams."
-msgstr ""
+msgstr "Sí. Necesito más. Tengo esperanzas y sueños."
 
 #. y4:line_status=translated
 msgctxt "13080_Kiryu"
 msgid "Like what?"
 msgstr "Un sueño..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13092_Maya"
 msgid "Well, you know..."
-msgstr ""
+msgstr "Bueno, ya sabe..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13104_Kiryu"
 msgid "I know?"
-msgstr ""
+msgstr "¿Yo?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13116_Maya"
 msgid "Oh, come on! Can't you even figure that much out!?"
-msgstr ""
+msgstr "¡Ay, vamos! ¿Ni siquiera puede darse cuenta de a qué me refiero!?"
 
 #. y4:line_status=translated
 msgctxt "13128_Kiryu"
 msgid "...?"
 msgstr "...?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13140_Kiryu"
 msgid "That depends on us. We might not be able to stay hostess and customer, but we're more than that."
-msgstr ""
+msgstr "Eso depende de nosotros. Quizá no podamos seguir siendo hostess y cliente, pero somos algo más que eso."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13152_Kiryu"
 msgid "We can see each other outside of the club, can't we?"
-msgstr ""
+msgstr "Podemos vernos fuera del club, ¿no?"
 
 #. y4:line_status=translated
 msgctxt "13164_Maya"
 msgid "Yeah!"
 msgstr "¡Sí!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13176_Maya"
 msgid "But we'd be taking a step towards becoming a real couple..."
-msgstr ""
+msgstr "Pero estaríamos dando un paso hacia convertirnos en una pareja de verdad..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13188_Kiryu"
 msgid "I suppose."
-msgstr ""
+msgstr "Supongo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13200_Maya"
 msgid "I don't know. I'm not even sure what I really want yet."
-msgstr ""
+msgstr "No lo sé. Ni siquiera estoy segura de qué quiero todavía."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13212_Kiryu"
 msgid "There's no reason to hurry, is there? We don't have to change right now."
-msgstr ""
+msgstr "No hay razón para apresurarnos, ¿verdad? No tenemos que cambiar las cosas ahora."
 
 #. y4:line_status=translated
 msgctxt "13224_Maya"
 msgid "You're right."
-msgstr "Tienes razón."
+msgstr "Tiene razón."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13236_Maya"
 msgid "Ugh! I just don't know what to do!"
-msgstr ""
+msgstr "¡Uf! ¡No sé qué hacer!"
 
 #. y4:line_status=translated
 msgctxt "13248_Kiryu"
 msgid "Hahaha!"
 msgstr "¡Ja, ja, ja!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13260_Kiryu"
 msgid "It could be time for us to move on. Maybe I  shouldn't see you anymore."
-msgstr ""
+msgstr "Podría ser hora de seguir adelante. Tal vez ya no debería verte."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13272_Maya"
 msgid "What!? No! That's not what I meant at all!"
-msgstr ""
+msgstr "¡¿Qué!? ¡No! ¡Eso no es lo que quería decir!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13284_Maya"
 msgid "This is terrible..."
-msgstr ""
+msgstr "Esto es terrible..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13296_Kiryu"
 msgid "Just kidding. I'll keep coming to see you."
-msgstr ""
+msgstr "Es broma. Seguiré viniendo a verte."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13308_Maya"
 msgid "Huh!? Hey! You shouldn't play with a girl's feelings like that!"
-msgstr ""
+msgstr "¡¿Eh!? ¡Oiga! ¡No juegue así con los sentimientos de una chica!"
 
 #. y4:line_status=translated
 msgctxt "13320_Kiryu"
 msgid "Er, sorry."
 msgstr "Lo siento..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13332_Maya"
 msgid "Ugh. Now I'm having second thoughts about you in general."
-msgstr ""
+msgstr "Uf. Ahora estoy empezando a reconsiderar lo que pienso de usted."
 
 #. y4:line_status=translated
 msgctxt "13344_Kiryu"
@@ -4477,7 +4491,7 @@ msgstr "¿Estás segura de que no estabas en coma? Tienes suerte de haber desper
 #. y4:translated_by=Traductor
 msgctxt "13656_Maya"
 msgid "Heh, you might be right."
-msgstr "Puede que tengas razón."
+msgstr "Je, quizá tenga razón."
 
 #. y4:line_status=translated
 #. y4:translated_by=Traductor
@@ -4495,7 +4509,7 @@ msgstr "Tu cuerpo estaba en estado de shock. En esos casos, tienes que beber poc
 #. y4:translated_by=Traductor
 msgctxt "13692_Maya"
 msgid "You know a lot about this kind of thing, huh?"
-msgstr "Sabes de un montón de estas cosas, ¿no?"
+msgstr "Sabe mucho de estas cosas, ¿eh?"
 
 #. y4:line_status=translated
 #. y4:translated_by=Traductor
@@ -4507,549 +4521,549 @@ msgstr "Sí. Estudié un poco para saber qué hacer en caso de que le pasara alg
 #. y4:translated_by=Traductor
 msgctxt "13716_Maya"
 msgid "Well then, you can wake me up the next time I sleep too long. <Color:7>♥<Color:Default>"
-msgstr "Muy bien, pues, ya me puedes despertar la próxima vez que me quede dormida. <Color:7>⑮<Color:Predeterminado>"
+msgstr "Bueno, entonces puede despertarme la próxima vez que duerma demasiado. <Color:7>♥<Color:Default>"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13728_Maya"
 msgid "I've been thinking about doing yoga."
-msgstr ""
+msgstr "He estado pensando en hacer yoga."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13740_Kiryu"
 msgid "Yoga?"
-msgstr ""
+msgstr "¿Yoga?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13752_Maya"
 msgid "Yep. Have you ever done it?"
-msgstr ""
+msgstr "Sí. ¿Alguna vez lo ha hecho?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13764_Kiryu"
 msgid "I'm afraid not."
-msgstr ""
+msgstr "Me temo que no."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13776_Maya"
 msgid "Yeah, you don't seem like the yoga type."
-msgstr ""
+msgstr "Sí, no parece del tipo que hace yoga."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13788_Kiryu"
 msgid "What made you think about taking it up?"
-msgstr ""
+msgstr "¿Qué te hizo pensar en empezar?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=28
 msgctxt "13800_Maya"
 msgid "Well... My body is going to change as I get older. I figured I should start doing something about it."
-msgstr ""
+msgstr "Bueno... Mi cuerpo va a cambiar a medida que envejezca. Pensé que debería empezar a hacer algo al respecto."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13812_Kiryu"
 msgid "You don't need to worry about that. You're so thin now. You'll be fine."
-msgstr ""
+msgstr "No tienes que preocuparte por eso. Ahora eres muy delgada. Estarás bien."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13824_Maya"
 msgid "You'd be surprised how quickly a girl can go downhill."
-msgstr ""
+msgstr "Le sorprendería lo rápido que una mujer puede perder la figura."
 
 #. y4:line_status=translated
 msgctxt "13836_Kiryu"
 msgid "Really?"
 msgstr "¿De verdad?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13848_Maya"
 msgid "Sure. I see girls who are younger than me and notice how much nicer they look. They're so thin."
-msgstr ""
+msgstr "Claro. Veo chicas más jóvenes que yo y noto lo mucho mejor que se ven. Son tan delgadas."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13860_Kiryu"
 msgid "That's silly. You're thinner and prettier than most girls. You don't have anything to worry about."
-msgstr ""
+msgstr "Qué tontería. Eres más delgada y bonita que la mayoría. No tienes nada de qué preocuparte."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13872_Maya"
 msgid "Hmph. Men just don't get it."
-msgstr ""
+msgstr "Hmph. Los hombres no entienden estas cosas."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13884_Kiryu"
 msgid "Like how men do weight training?"
-msgstr ""
+msgstr "¿Como cuando los hombres levantan pesas?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13896_Maya"
 msgid "That's right! It's the same thing."
-msgstr ""
+msgstr "¡Exacto! Es lo mismo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13908_Maya"
 msgid "Men who were fit when they were young end up with beer bellies if they aren't careful. It's sad."
-msgstr ""
+msgstr "Los hombres que estaban en forma de jóvenes terminan con una barriga cervecera si no tienen cuidado. Es triste."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13920_Kiryu"
 msgid "Staying fit isn't that hard, but getting back what you've lost is another story."
-msgstr ""
+msgstr "Mantenerse en forma no es tan difícil, pero recuperar lo que has perdido es otra historia."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13932_Maya"
 msgid "Exactly. That's why I should start doing something now."
-msgstr ""
+msgstr "Exacto. Por eso debería empezar a hacer algo ahora."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13944_Maya"
 msgid "Oh, I know! You can do yoga with me! You'd get really flexible!"
-msgstr ""
+msgstr "¡Ah, ya sé! ¡Puede hacer yoga conmigo! ¡Se volvería muy flexible!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13956_Kiryu"
 msgid "Uh, I'll pass."
-msgstr ""
+msgstr "Eh, paso."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13968_Kiryu"
 msgid "Actually, you could stand to gain some weight. You're already too thin."
-msgstr ""
+msgstr "De hecho, te vendría bien subir un poco de peso. Ya estás demasiado delgada."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13980_Maya"
 msgid "What!? You're kidding me!"
-msgstr ""
+msgstr "¿¡Qué!? ¡Está bromeando!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "13992_Kiryu"
 msgid "If you diet too much when you're young, it can become a serious problem when you're older."
-msgstr ""
+msgstr "Si haces demasiada dieta cuando eres joven, puede convertirse en un problema serio cuando seas mayor."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14004_Maya"
 msgid "But yoga should be fine, right? If anything, it will get me into better shape."
-msgstr ""
+msgstr "Pero el yoga está bien, ¿verdad? Si acaso, me pondrá en mejor forma."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14016_Kiryu"
 msgid " As long as you eat well, yes. But without a healthy lifestyle, you could end up hurting yourself."
-msgstr ""
+msgstr " Siempre que comas bien, sí. Pero sin un estilo de vida saludable, podrías terminar lastimándote."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14028_Maya"
 msgid "Yeah. And working as a hostess makes it hard to get enough sleep."
-msgstr ""
+msgstr "Sí. Y trabajar como hostess hace que sea difícil dormir lo suficiente."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14040_Kiryu"
 msgid "Then that's what you need to work on first."
-msgstr ""
+msgstr "Entonces eso es lo primero que debes mejorar."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14052_Maya"
 msgid "Okay. Thanks for the advice!"
-msgstr ""
+msgstr "De acuerdo. ¡Gracias por el consejo!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14064_Maya"
 msgid "I haven't been going out recently, except for work."
-msgstr ""
+msgstr "Últimamente no he estado saliendo, excepto para trabajar."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14076_Kiryu"
 msgid "What do you do at home?"
-msgstr ""
+msgstr "¿Qué haces en casa?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14088_Maya"
 msgid "Mostly, I watch DVDs of foreign TV shows."
-msgstr ""
+msgstr "Sobre todo, veo DVD de series de televisión extranjeras."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14100_Kiryu"
 msgid "Huh. I keep hearing people say that. I guess it's a popular hobby."
-msgstr ""
+msgstr "Vaya. Sigo oyendo a gente decir eso. Supongo que es un pasatiempo popular."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14112_Maya"
 msgid "Well, I'm not doing it because it's popular. Remember how I was a wild kid?"
-msgstr ""
+msgstr "Bueno, no lo hago porque esté de moda. ¿Recuerda que era una chica alocada?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=29
 msgctxt "14124_Maya"
 msgid "Now I'm doing my best to act my age, so I just stay home."
-msgstr ""
+msgstr "Ahora hago lo posible por comportarme de acuerdo con mi edad, así que me quedo en casa."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14136_Kiryu"
 msgid "Is that such a good idea? You should try to do things outdoors, too."
-msgstr ""
+msgstr "¿Es tan buena idea? También deberías hacer cosas al aire libre."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14148_Maya"
 msgid "I know. I like to travel. And I love to go to the beach and play water sports."
-msgstr ""
+msgstr "Lo sé. Me gusta viajar. Y me encanta ir a la playa y practicar deportes acuáticos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14160_Kiryu"
 msgid "Oh, you do have an active side, then. I'm a bit surprised."
-msgstr ""
+msgstr "Ah, así que también tienes un lado activo. Me sorprende un poco."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14172_Maya"
 msgid "See? I figure it's okay for me to spend time indoors, too."
-msgstr ""
+msgstr "¿Ve? Creo que también está bien que pase tiempo en casa."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14184_Kiryu"
 msgid "Just try not to cause trouble for the neighbors."
-msgstr ""
+msgstr "Solo intenta no molestar a los vecinos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14196_Maya"
 msgid "Hey, what do you think I do at home, anyway?"
-msgstr ""
+msgstr "Oiga, ¿qué cree que hago en casa?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14208_Maya"
 msgid "A mature woman like me is always quiet and well-behaved."
-msgstr ""
+msgstr "Una mujer madura como yo siempre es tranquila y bien portada."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14220_Kiryu"
 msgid "Oh, sure..."
-msgstr ""
+msgstr "Ah, claro..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14232_Kiryu"
 msgid "You're just shutting out the outside world. Is that something a mature woman would do?"
-msgstr ""
+msgstr "Solo te estás aislando del mundo exterior. ¿Eso haría una mujer madura?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14244_Maya"
 msgid "What do you mean? Enjoying alone time at home at night proves that I'm an adult."
-msgstr ""
+msgstr "¿Qué quiere decir? Disfrutar de un tiempo a solas en casa por la noche demuestra que soy adulta."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14256_Kiryu"
 msgid "But aren't most people home at night?"
-msgstr ""
+msgstr "¿Pero no está la mayoría de la gente en casa por la noche?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14268_Maya"
 msgid "Huh? Are they?"
-msgstr ""
+msgstr "¿Eh? ¿La mayoría?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14280_Kiryu"
 msgid "What do you mean, \"Are they?\" Don't tell me you spent literally every night partying as a kid?"
-msgstr ""
+msgstr "¿Qué quieres decir con \"¿Lo está?\"? No me digas que pasabas literalmente todas las noches de fiesta cuando eras joven."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14292_Maya"
 msgid "Of course not. Sometimes I partied during the day, too!"
-msgstr ""
+msgstr "¡Claro que no! ¡A veces también salía de fiesta durante el día!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14304_Kiryu"
 msgid "So you partied 24 hours a day...?"
-msgstr ""
+msgstr "Entonces, ¿estabas de fiesta las veinticuatro horas...?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14316_Kiryu"
 msgid "You've really grown. Now you just need to learn how to cook and sew."
-msgstr ""
+msgstr "Has madurado mucho. Ahora solo te falta aprender a cocinar y coser."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14328_Maya"
 msgid "I know! I'm on my way to becoming the perfect woman."
-msgstr ""
+msgstr "¡Lo sé! Estoy en camino de convertirme en la mujer perfecta."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14340_Kiryu"
 msgid "But wait, you're just lying around watching DVDs, right? Is that a mature thing to do?"
-msgstr ""
+msgstr "Pero espera, solo estás tirada viendo DVD, ¿verdad? ¿Eso es propio de una mujer madura?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14352_Maya"
 msgid "Oh, I can worry about the other stuff once I find a boyfriend."
-msgstr ""
+msgstr "Ah, puedo preocuparme por lo demás cuando tenga novio."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14364_Kiryu"
 msgid "What if you lose your figure? You might not be able to find a boyfriend then."
-msgstr ""
+msgstr "¿Y si pierdes tu figura? Quizá entonces no puedas conseguir novio."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14376_Maya"
 msgid "Oh no! I hadn't thought of that. I really should start doing yoga!"
-msgstr ""
+msgstr "¡Oh, no! No había pensado en eso. ¡De verdad debería empezar a hacer yoga!"
 
 #. y4:line_status=translated
 msgctxt "14388_Kiryu"
 msgid "Heh."
 msgstr "Je."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14400_Maya"
 msgid "Ooh, it just bothers me so much!"
-msgstr ""
+msgstr "¡Ay, me molesta muchísimo!"
 
 #. y4:line_status=translated
 msgctxt "14412_Kiryu"
 msgid "What?"
 msgstr "¿Qué?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14424_Maya"
 msgid "You know how you get that red stuff with your yakisoba noodles?"
-msgstr ""
+msgstr "¿Sabe esa cosa roja que ponen con los fideos yakisoba?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14436_Kiryu"
 msgid "Red stuff? You mean the pickled ginger?"
-msgstr ""
+msgstr "¿La cosa roja? ¿Te refieres al jengibre encurtido?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14448_Maya"
 msgid "That's right! I hate that stuff!"
-msgstr ""
+msgstr "¡Eso! ¡Odio esa cosa!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=30
 msgctxt "14460_Maya"
 msgid "When I see it on my noodles I wanna scream, \"Get lost, ginger! Who needs you!?\""
-msgstr ""
+msgstr "Cuando la veo sobre mis fideos quiero gritar: \"¡Lárgate, jengibre! ¿¡Quién te necesita!?\""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14472_Kiryu"
 msgid "You don't get it, do you? You've got to have pickled ginger with yakisoba."
-msgstr ""
+msgstr "No lo entiendes, ¿verdad? El yakisoba tiene que llevar jengibre encurtido."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14484_Maya"
 msgid "What!? Why? What's the point?"
-msgstr ""
+msgstr "¿¡Qué!? ¿Por qué? ¿Para qué sirve?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14496_Kiryu"
 msgid "Well, let's see. It tastes good, the color makes the dish more attractive, and the flavor contrasts nicely with the noodles."
-msgstr ""
+msgstr "Bueno, veamos. Sabe bien, el color hace que el platillo se vea más atractivo y el sabor contrasta muy bien con los fideos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14508_Kiryu"
 msgid "In fact, I always ask for extra."
-msgstr ""
+msgstr "De hecho, siempre pido extra."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14520_Maya"
 msgid "Ugh. We don't have the same taste in food, do we?"
-msgstr ""
+msgstr "Uf. No tenemos los mismos gustos para la comida, ¿verdad?"
 
 #. y4:line_status=translated
 msgctxt "14532_Kiryu"
 msgid "......"
 msgstr "......"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14544_Kiryu"
 msgid "Yeah, I don't like it much myself. Yakisoba tastes great without it."
-msgstr ""
+msgstr "Sí, a mí tampoco me gusta mucho. El yakisoba sabe muy bien sin eso."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14556_Maya"
 msgid "I know! I'm glad you understand. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "¡Lo sabía! Me alegra que me entienda. <Color:7>♥<Color:Default>"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14568_Kiryu"
 msgid "Yeah. The ginger that comes with sushi is there to help get rid of the fishiness, so it at least has a purpose."
-msgstr ""
+msgstr "Sí. El jengibre que viene con el sushi sirve para quitar el sabor a pescado, así que al menos tiene un propósito."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14580_Kiryu"
 msgid "I've got no idea why they put it on yakisoba."
-msgstr ""
+msgstr "No tengo idea de por qué lo ponen en el yakisoba."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14592_Maya"
 msgid "This world would be a happier place without it, that's for sure."
-msgstr ""
+msgstr "Sin duda, el mundo sería un lugar más feliz sin eso."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14604_Kiryu"
 msgid "Well, that may be going a bit far..."
-msgstr ""
+msgstr "Bueno, quizá eso sea un poco exagerado..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14616_Kiryu"
 msgid "Have you even tried it? It's pretty tasty."
-msgstr ""
+msgstr "¿Pero siquiera lo has probado? Es bastante sabroso."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14628_Maya"
 msgid "Well, no, but I can tell from the noodles it touches that it's gross!"
-msgstr ""
+msgstr "Bueno, no, pero basta con ver los fideos que toca para saber que es asqueroso."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14640_Maya"
 msgid "How could you think it tastes good!?"
-msgstr ""
+msgstr "¿¡Cómo puede pensar que sabe bien!?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14652_Kiryu"
 msgid "Then don't eat the part it touches."
-msgstr ""
+msgstr "Entonces no te comas la parte que toca."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14664_Maya"
 msgid "That's what I do, but I feel like I'm wasting food."
-msgstr ""
+msgstr "Eso hago, pero siento que desperdicio comida."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14676_Maya"
 msgid "Why can't they put it on the side? I hate having it forced on me."
-msgstr ""
+msgstr "¿Por qué no pueden ponerlo a un lado? Odio que me lo impongan."
 
 #. y4:line_status=translated
 msgctxt "14688_Kiryu"
 msgid "......"
 msgstr "......"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14700_Maya"
 msgid "I just can't seem to quit this job."
-msgstr ""
+msgstr "Parece que no puedo renunciar a este trabajo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14712_Kiryu"
 msgid "Maybe you're more suited to it than you think."
-msgstr ""
+msgstr "Tal vez se te da mejor de lo que crees."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14724_Maya"
 msgid "You might be right. I've been enjoying it more recently."
-msgstr ""
+msgstr "Puede que tenga razón. Últimamente lo he estado disfrutando más."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14736_Maya"
 msgid "When I get a new customer, I try to figure out what kind of person he is. And it makes me happy when I turn out to be right."
-msgstr ""
+msgstr "Cuando tengo un cliente nuevo, intento descubrir qué clase de persona es. Y me hace feliz acertar."
 
 #. y4:line_status=translated
 msgctxt "14748_Kiryu"
 msgid "Heh. That's good."
-msgstr "Je, Me alegra escuchar eso."
+msgstr "Je. Me alegra escuchar eso."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14760_Maya"
 msgid "By the way, thanks."
-msgstr ""
+msgstr "Por cierto, gracias."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14772_Kiryu"
 msgid "Thanks? For what?"
-msgstr ""
+msgstr "¿Gracias? ¿Por qué?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=31
 msgctxt "14784_Maya"
 msgid "Don't be coy with me. For our date."
-msgstr ""
+msgstr "No se haga el que no sabe. Es por nuestra cita."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14796_Kiryu"
 msgid "Are you sure you remember it? You do have a tendency to black out."
-msgstr ""
+msgstr "¿Seguro que la recuerdas? Tiendes a perder la memoria cuando bebes."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14808_Maya"
 msgid "Even I couldn't forget something like that. <Color:7>♥<Color:Default> And I wasn't even drinking, anyway!"
-msgstr ""
+msgstr "Ni yo podría olvidar algo así. <Color:7>♥<Color:Default> Y, de todos modos, ni siquiera estaba bebiendo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14820_Kiryu"
 msgid "Oh? Your face was so red I thought you must have had a few drinks."
-msgstr ""
+msgstr "¿Ah, sí? Tenías la cara tan roja que pensé que habías tomado unas copas."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14832_Maya"
 msgid "No... I was just a little flushed with excitement, that's all!"
-msgstr ""
+msgstr "No... Solo estaba un poco sonrojada de la emoción, eso es todo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14844_Kiryu"
 msgid "Heh. I see."
-msgstr ""
+msgstr "Je. Ya veo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14856_Kiryu"
 msgid "We should go out again. When are you free?"
-msgstr ""
+msgstr "Deberíamos volver a salir. ¿Cuándo estás libre?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14868_Maya"
 msgid "Hehe. That was just a one time thing. Now we have to go back to being hostess and customer."
-msgstr ""
+msgstr "Je, je. Eso fue solo una vez. Ahora tenemos que volver a ser hostess y cliente."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14880_Kiryu"
 msgid "Oh, come on."
-msgstr ""
+msgstr "Ay, vamos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14892_Maya"
 msgid "Well, I might change my mind if you buy me an expensive drink."
-msgstr ""
+msgstr "Bueno, podría cambiar de opinión si me compra una bebida cara."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14904_Kiryu"
 msgid "Hey, are you just trying to squeeze me for money? I thought you liked me..."
-msgstr ""
+msgstr "Oye, ¿solo estás intentando sacarme dinero? Pensé que te gustaba..."
 
 #. y4:line_status=translated
 msgctxt "14916_Kiryu"
 msgid "I love you."
 msgstr "Te amo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14928_Maya"
 msgid "What!? What's with you all of a sudden?"
-msgstr ""
+msgstr "¿¡Qué!? ¿A qué viene eso de repente?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14940_Kiryu"
 msgid "I thought you liked the idea of couples saying that from the start."
-msgstr ""
+msgstr "Pensé que desde el principio te gustaba la idea de que las parejas se dijeran eso."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14952_Maya"
 msgid "Hahaha! Well, that's true. It's just kind of embarrassing, that's all..."
-msgstr ""
+msgstr "¡Ja, ja, ja! Bueno, es verdad. Es solo que me da un poco de vergüenza, eso es todo..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14964_Kiryu"
 msgid "Aren't you going to say it too?"
-msgstr ""
+msgstr "¿No vas a decirlo tú también?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "14976_Maya"
 msgid "Um... I love you too. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "Eh... Yo también lo amo. <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "15000_Maya"
 msgid "You came to see me!"
-msgstr "¡Has venido para verme!"
+msgstr "¡Ha venido a verme!"
 
 #. y4:line_status=translated
 msgctxt "15036_Maya"
@@ -5071,27 +5085,28 @@ msgctxt "15072_Maya"
 msgid "Thanks for our date. I had a lot of fun."
 msgstr "Gracias por la cita. Me divertí mucho."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15084_Maya"
 msgid "%s-san... You never showed up for our date. I was waiting for you..."
-msgstr ""
-
-#. y4:line_status=todo
-msgctxt "15096_Maya"
-msgid "I'm sorry about before. We should go out again sometime."
-msgstr ""
-
-#. y4:line_status=todo
-msgctxt "15108_Maya"
-msgid "%s-san... I was really looking forward to going out with you..."
-msgstr ""
-
-#. y4:line_status=todo
-msgctxt "15120_Maya"
-msgid "I'm sorry about before. We should try again."
-msgstr ""
+msgstr "%s-san... No se presentó a nuestra cita. Lo estaba esperando..."
 
 #. y4:line_status=translated
+msgctxt "15096_Maya"
+msgid "I'm sorry about before. We should go out again sometime."
+msgstr "Lo siento por lo de antes. Deberíamos salir otra vez algún día."
+
+#. y4:line_status=translated
+msgctxt "15108_Maya"
+msgid "%s-san... I was really looking forward to going out with you..."
+msgstr "%s-san... Tenía muchas ganas de salir con usted..."
+
+#. y4:line_status=translated
+msgctxt "15120_Maya"
+msgid "I'm sorry about before. We should try again."
+msgstr "Lo siento por lo de antes. Deberíamos intentarlo de nuevo."
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "15132_Maya"
 msgid "Allow me to introduce myself. I'm Maya. Nice to meet you."
 msgstr "Permíteme presentarme. Soy Maya. Un gusto en conocerte."
@@ -5121,15 +5136,15 @@ msgctxt "15192_Maya"
 msgid "We should go on another date."
 msgstr "Deberíamos tener otra cita."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15204_Maya"
 msgid "Let's go out again sometime."
-msgstr ""
+msgstr "Salgamos otra vez algún día."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15216_Maya"
 msgid "Let's go out again sometime."
-msgstr ""
+msgstr "Salgamos otra vez algún día."
 
 #. y4:line_status=translated
 msgctxt "15228_Maya"
@@ -5146,10 +5161,10 @@ msgctxt "15252_Maya"
 msgid "Would you mind taking me out again?"
 msgstr "¿Le importaría invitarme a salir otra vez?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15264_Maya"
 msgid "You look incredible today! <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "¡Hoy se ve increíble! <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "15276_Maya"
@@ -5161,40 +5176,40 @@ msgctxt "15288_Maya"
 msgid "You always seem to wear the same clothes."
 msgstr "Siempre llevas el mismo traje."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15300_Maya"
 msgid "Do you really like that look? Shouldn't you try to be a bit more... fashionable?"
-msgstr ""
+msgstr "¿De verdad le gusta ese estilo? ¿No debería intentar vestirse un poco más... a la moda?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15312_Maya"
 msgid "You should pay more attention to how you look."
-msgstr ""
+msgstr "Debería prestar más atención a su apariencia."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15324_Kiryu"
 msgid "You're handsome, but it's wasted on an outfit like that."
-msgstr ""
+msgstr "Eres guapo, pero ese atuendo desperdicia tu atractivo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15336_Maya"
 msgid "You look incredible today! <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "¡Hoy se ve increíble! <Color:7>♥<Color:Default>"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15348_Maya"
 msgid "What!? You're kidding! Really!?"
-msgstr ""
+msgstr "¡¿Qué!? ¡No puede ser! ¿¡De verdad!?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15360_Kiryu"
 msgid "I've been looking for something like this forever!"
-msgstr ""
+msgstr "¡Llevo una eternidad buscando algo así!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15372_F_cab_sitsofa_tlk_happy"
 msgid "I'm so happy! I'll treasure it always. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "¡Estoy tan feliz! Lo atesoraré para siempre. <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "15384_Maya"
@@ -5211,132 +5226,136 @@ msgctxt "15420_Kiryu"
 msgid "Thanks."
 msgstr "Gracias."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15432_Maya"
 msgid "Huh? What is that?"
-msgstr ""
+msgstr "¿Eh? ¿Qué es eso?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15444_F_cab_sitsofa_tlk_noA"
 msgid "I'm sorry, but what do you expect me to do with it?"
-msgstr ""
+msgstr "Lo siento, pero ¿qué espera que haga con esto?"
 
 #. y4:line_status=translated
 msgctxt "15456_Maya"
 msgid "Huh? What's that?"
 msgstr "¿Eh? ¿Qué es eso?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15468_F_cab_sitsofa_tlk_angry"
 msgid " Are you teasing me or something?"
-msgstr ""
+msgstr " ¿Me está tomando el pelo o algo así?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15480_Maya"
 msgid "Hmm? You already gave me one of those."
-msgstr ""
+msgstr "¿Mmm? Ya me dio uno de esos."
 
 #. y4:line_status=translated
 msgctxt "15492_F_cab_sitsofa_tlk_noA"
 msgid "Or did you forget?"
 msgstr "O acaso, ¿se le olvidó?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15504_Maya"
 msgid "What!? You're kidding! Really!?"
-msgstr ""
-
-#. y4:line_status=todo
-msgctxt "15516_Kiryu"
-msgid "I've been looking for something like this forever!"
-msgstr ""
-
-#. y4:line_status=todo
-msgctxt "15528_F_cab_sitsofa_tlk_happy"
-msgid " I'm so happy! I'll treasure it always. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "¡¿Qué!? ¡No puede ser! ¿¡De verdad!?"
 
 #. y4:line_status=translated
+msgctxt "15516_Kiryu"
+msgid "I've been looking for something like this forever!"
+msgstr "¡Llevo una eternidad buscando algo así!"
+
+#. y4:line_status=translated
+msgctxt "15528_F_cab_sitsofa_tlk_happy"
+msgid " I'm so happy! I'll treasure it always. <Color:7>♥<Color:Default>"
+msgstr " ¡Estoy tan feliz! Lo atesoraré para siempre. <Color:7>♥<Color:Default>"
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "15540_Maya"
 msgid "What would you like?"
 msgstr "¿Qué le gustaría pedir?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "15564_Player"
 msgid "I guess I'll have this."
 msgstr "Creo que me pediré esto."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15576_Kiryu"
 msgid "You don't want anything to drink? But I love drinking..."
-msgstr ""
+msgstr "¿No quieres tomar nada? Pero a mí me encanta beber..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15588_Maya"
 msgid "Your glass is empty. Would you like to have another drink?"
-msgstr ""
+msgstr "Tiene el vaso vacío. ¿Le gustaría otra bebida?"
 
 #. y4:line_status=translated
 msgctxt "15612_Player"
 msgid "I guess I'll have this."
 msgstr "Creo que me pediré esto."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15624_Kiryu"
 msgid "Not much of a drinker, huh? That's too bad. I was just getting in the mood."
-msgstr ""
+msgstr "No eres de mucho beber, ¿eh? Qué lástima. Apenas estaba entrando en ambiente."
 
 #. y4:line_status=translated
 msgctxt "15636_Maya"
 msgid "I like that too!"
 msgstr "¡A mí también me gusta!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15648_Kiryu"
 msgid "I guess we have similar tastes."
-msgstr ""
+msgstr "Creo que tenemos gustos parecidos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15660_Maya"
 msgid "You like that kind of drink?"
-msgstr ""
+msgstr "¿Le gusta ese tipo de bebida?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15672_Kiryu"
 msgid "I'm a little surprised. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "Me sorprende un poco. <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "15684_Maya"
 msgid "All right, then."
 msgstr "Muy bien."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15696_Maya"
 msgid "You like that?"
-msgstr ""
+msgstr "¿Le gusta eso?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15708_Kiryu"
 msgid "I didn't picture you drinking something like that."
-msgstr ""
+msgstr "No te imaginaba bebiendo algo así."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15720_Maya"
 msgid "You drink that?"
-msgstr ""
+msgstr "¿Usted toma eso?"
 
 #. y4:line_status=translated
 msgctxt "15732_Kiryu"
 msgid "Huh."
 msgstr "Ya veo."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "15744_Maya"
 msgid "Would you like something to eat?"
-msgstr "¿Quieres comer algo?"
+msgstr "¿Le gustaría comer algo?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "15768_Player"
 msgid "I guess I'll have this."
 msgstr "Creo que me pediré esto."
@@ -5349,7 +5368,7 @@ msgstr "¿No tienes hambre?"
 #. y4:line_status=translated
 msgctxt "15792_Maya"
 msgid "Would you like something to eat?"
-msgstr "¿Quieres comer algo?"
+msgstr "¿Le gustaría comer algo?"
 
 #. y4:line_status=translated
 msgctxt "15816_Player"
@@ -5359,7 +5378,7 @@ msgstr "Creo que me pediré esto."
 #. y4:line_status=translated
 msgctxt "15828_Kiryu"
 msgid "Are you full already?"
-msgstr "¿Ya está lleno?"
+msgstr "¿Ya estás lleno?"
 
 #. y4:line_status=translated
 msgctxt "15840_Maya"
@@ -5369,54 +5388,58 @@ msgstr "¡Adoro esto! Je, je."
 #. y4:line_status=translated
 msgctxt "15852_Kiryu"
 msgid "Maybe I can sneak a bite of yours."
-msgstr "Quizás le dé un bocado a tus espaldas."
+msgstr "Tal vez pueda robarte un bocado."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15864_Maya"
 msgid "You eat that kind of food? What a coincidence."
-msgstr ""
+msgstr "¿Come ese tipo de comida? Qué coincidencia."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15876_Kiryu"
 msgid "I like it too!"
-msgstr ""
+msgstr "¡A mí también me gusta!"
 
 #. y4:line_status=translated
 msgctxt "15888_Maya"
 msgid "All right, then."
 msgstr "Muy bien."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "15900_Maya"
 msgid "I'm surprised you eat that."
-msgstr ""
-
-#. y4:line_status=todo
-msgctxt "15912_Maya"
-msgid "I don't care for that."
-msgstr ""
-
-#. y4:line_status=todo
-msgctxt "15924_Kiryu"
-msgid "But you can order whatever you like, of course."
-msgstr ""
+msgstr "Me sorprende que coma eso."
 
 #. y4:line_status=translated
+msgctxt "15912_Maya"
+msgid "I don't care for that."
+msgstr "A mí no me gusta."
+
+#. y4:line_status=translated
+msgctxt "15924_Kiryu"
+msgid "But you can order whatever you like, of course."
+msgstr "Pero, por supuesto, puedes pedir lo que quieras."
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "15936_Maya"
 msgid "Okay, I'll order."
 msgstr "Bien, voy a ordenar."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "15960_Kiryu"
 msgid "Yes?"
 msgstr "¿Sí?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "15972_F_cab_sitsofa_tlk_yes"
 msgid "Here's our order."
 msgstr "Aquí está nuestro pedido."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "15984_Kiryu"
 msgid "Right away."
 msgstr "Enseguida vuelvo."
@@ -5441,10 +5464,10 @@ msgctxt "16056_Kiryu"
 msgid "Cheers."
 msgstr "Salud."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "16080_Maya"
 msgid "Just give me a moment..."
-msgstr ""
+msgstr "Deme un momento..."
 
 #. y4:line_status=translated
 msgctxt "16092_Kiryu"
@@ -5469,7 +5492,7 @@ msgstr "<Color:8>\\r\n<Color:Default>"
 #. y4:line_status=translated
 msgctxt "16164_Kiryu"
 msgid "You got a business card."
-msgstr "Obtuviste la tarjeta de visita de Noa."
+msgstr "Has obtenido la tarjeta de presentación de Maya."
 
 #. y4:line_status=translated
 msgctxt "16200_Kiryu"
@@ -5511,10 +5534,10 @@ msgctxt "16332_Maya"
 msgid "Do you mind if I smoke?"
 msgstr "¿Te importa si fumo?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "16344_Kiryu"
 msgid "No, go ahead."
-msgstr ""
+msgstr "No, adelante."
 
 #. y4:line_status=translated
 msgctxt "16356_Maya"
@@ -5526,10 +5549,10 @@ msgctxt "16368_Kiryu"
 msgid "All right."
 msgstr "Está bien."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "16380_Maya"
 msgid "I may have a little sip myself!"
-msgstr ""
+msgstr "¡Tal vez yo también dé un sorbito!"
 
 #. y4:line_status=translated
 msgctxt "16392_Kiryu"
@@ -5623,10 +5646,10 @@ msgctxt "16644_F_cab_sitsofa_tlk_yes"
 msgid "Bye."
 msgstr "Adiós."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "16668_Kiryu"
 msgid "I really had a good time. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "La pasé muy bien. <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "16680_Kiryu"
@@ -5653,15 +5676,15 @@ msgctxt "16740_F_cab_sitsofa_tlk_yes"
 msgid "Well, I'll be waiting for you."
 msgstr "Lo estaremos esperando."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "16752_Maya"
 msgid "I hope you'll come back again soon!"
-msgstr ""
+msgstr "¡Espero que vuelva pronto!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "16764_Kiryu"
 msgid "Yeah, I will."
-msgstr ""
+msgstr "Sí, lo haré."
 
 #. y4:line_status=translated
 msgctxt "16776_F_cab_stand_sp12_sync_mune_ed"
@@ -5683,10 +5706,10 @@ msgctxt "16812_F_cab_stand_sp15_sync_yubi_ed"
 msgid "Bye."
 msgstr "Adiós."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "16824_Maya"
 msgid "Thanks a lot for coming."
-msgstr ""
+msgstr "Muchas gracias por venir."
 
 #. y4:line_status=translated
 msgctxt "16836_Kiryu"
@@ -5711,12 +5734,12 @@ msgstr "Después de la cita."
 #. y4:line_status=translated
 msgctxt "16884_Maya"
 msgid "Hey, have you heard anything interesting lately?"
-msgstr "Oye, ¿has oído algo interesante últimamente?"
+msgstr "Oiga, ¿ha oído algo interesante últimamente?"
 
 #. y4:line_status=translated
 msgctxt "16896_Kiryu"
 msgid "I've been so busy with work that I haven't been keeping up with the latest gossip."
-msgstr "Estuve tan ocupada con el trabajo que no estoy al día con los últimos chismes."
+msgstr "He estado tan ocupado con el trabajo que no he podido seguir los últimos chismes."
 
 #. y4:line_status=translated
 #. y4:msg_role=decision
@@ -5764,7 +5787,7 @@ msgstr "Oh, eso es bueno."
 #. y4:line_status=translated
 msgctxt "17112_Maya"
 msgid "Hehe. Which part of my body do you think he complimented me on? Go on, guess."
-msgstr "Je, je. ¿Qué parte de mi cuerpo crees que me felicitó? Anda, adivina."
+msgstr "Je, je. ¿Qué parte de mi cuerpo cree que elogió? A ver, adivine."
 
 #. y4:line_status=translated
 msgctxt "17124_Kiryu"
@@ -5776,10 +5799,10 @@ msgctxt "17160_Maya"
 msgid "Look! This is the present you gave me the other day!"
 msgstr "¡Mire! ¡Este es el regalo que usted me dio el otro dia!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "17172_Kiryu"
 msgid "Doesn't it look nice? I really like it. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "¿No se ve bien? Me gusta mucho. <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 #. y4:msg_role=decision
@@ -5789,10 +5812,10 @@ msgctxt "17184_Maya"
 msgid "I'm thirsty! Can I order something?"
 msgstr "¡Estoy sedienta! ¿Le molesta si pido algo?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "17208_Kiryu"
 msgid "Yay! All right then, I'll go ahead and order."
-msgstr ""
+msgstr "¡Genial! De acuerdo, voy a pedirlo."
 
 #. y4:line_status=translated
 msgctxt "17220_F_cab_sitsofa_sync_order"
@@ -5810,37 +5833,37 @@ msgstr "Aw. ¿Por qué no?"
 #. y4:msg_decision_group=34
 msgctxt "17256_Maya"
 msgid "I've got a craving for something sweet. Could I order some <Color:7>Chocolate<Color:Default>?"
-msgstr "Me está antojando comer algo dulce. ¿Podrías ordenar algo con <Color:7>chocolate<Color:7>?"
+msgstr "Se me antoja algo dulce. ¿Podría pedir un poco de <Color:7>chocolate<Color:Default>?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "17268_Maya"
 msgid "Thank you! All right then, I'll go ahead and order."
-msgstr ""
+msgstr "¡Gracias! De acuerdo, voy a pedirlo."
 
 #. y4:line_status=translated
 msgctxt "17280_F_cab_sitsofa_sync_order"
 msgid "Excuse me!"
 msgstr "¡Disculpe!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "17292_Kiryu"
 msgid "Sorry. I don't think I have enough money."
-msgstr ""
+msgstr "Lo siento. No creo tener suficiente dinero."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "17304_Maya"
 msgid "Huh!? You don't? That's disappointing..."
-msgstr ""
+msgstr "¡¿Qué!? ¿No tiene? Qué decepción..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "17316_Maya"
 msgid "Aw. I never thought you were the cheap type."
-msgstr ""
+msgstr "Ay. Nunca pensé que fuera tacaño."
 
 #. y4:line_status=translated
 msgctxt "17328_Maya"
 msgid "You're the romantic type, aren't you? I was so happy that you replied to my email. <Color:7>♥<Color:Default>"
-msgstr "Eres del tipo romántico, ¿no? Estaba muy feliz cuando respondiste mi correo."
+msgstr "Es usted del tipo romántico, ¿verdad? Me hizo muy feliz que respondiera a mi correo. <Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "17340_Kiryu"
@@ -5852,10 +5875,10 @@ msgctxt "17352_Maya"
 msgid "The wrap party for that modeling job I emailed you about was so much fun! We went to the coolest little bar I've seen."
 msgstr "La fiesta de despedida del trabajo de modelo de la que te hablé fue muy divertida. Fuimos al bar más genial que he visto."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "17364_Kiryu"
 msgid "That's nice."
-msgstr ""
+msgstr "Qué bien."
 
 #. y4:line_status=translated
 msgctxt "17376_Maya"
@@ -5882,10 +5905,10 @@ msgctxt "17424_Kiryu"
 msgid "Heh. I've never heard of a mother who wants to focus her child's education on fashion."
 msgstr "Je. Nunca he oído hablar de una madre que se centre en la educación de su hijo en la moda."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 msgctxt "17436_Maya"
 msgid "Being so busy that I don't have time to party may be healthier for me. I don't end up staying out all night."
-msgstr ""
+msgstr "Estar tan ocupada que no tengo tiempo para salir de fiesta quizá sea más saludable. No termino pasando toda la noche fuera."
 
 #. y4:line_status=translated
 msgctxt "17448_Kiryu"
@@ -6209,7 +6232,7 @@ msgctxt "17820_Kiryu"
 msgid "A backpack?"
 msgstr "¿Una mochila?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=9
@@ -6218,9 +6241,9 @@ msgstr "¿Una mochila?"
 #. y4:msg_branch_target=T9.P9
 msgctxt "17832_Kiryu"
 msgid "You go on a lot of dates then?"
-msgstr ""
+msgstr "¿Entonces tienes muchas citas?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=9
@@ -6229,9 +6252,9 @@ msgstr ""
 #. y4:msg_branch_target=T9.P17
 msgctxt "17844_Kiryu"
 msgid "Wouldn't you stand out more there?"
-msgstr ""
+msgstr "¿No llamarías aún más la atención allí?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=9
@@ -6240,9 +6263,9 @@ msgstr ""
 #. y4:msg_branch_target=T9.P25
 msgctxt "17856_Kiryu"
 msgid "Maybe you can show me sometime."
-msgstr ""
+msgstr "Tal vez puedas enseñármelos algún día."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=10
@@ -6251,9 +6274,9 @@ msgstr ""
 #. y4:msg_branch_target=T10.P6
 msgctxt "17868_Kiryu"
 msgid "That does sound terrible."
-msgstr ""
+msgstr "Sí que suena terrible."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=10
@@ -6262,9 +6285,9 @@ msgstr ""
 #. y4:msg_branch_target=T10.P11
 msgctxt "17880_Kiryu"
 msgid "They really start that early?"
-msgstr ""
+msgstr "¿De verdad empiezan tan temprano?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=10
@@ -6273,7 +6296,7 @@ msgstr ""
 #. y4:msg_branch_target=T10.P18
 msgctxt "17892_Kiryu"
 msgid "I'm surprised you don't get sick."
-msgstr ""
+msgstr "Me sorprende que no te enfermes."
 
 #. y4:line_status=translated
 #. y4:msg_role=decision
@@ -6374,7 +6397,7 @@ msgctxt "18000_Kiryu"
 msgid "You can't quit."
 msgstr "No puedes renunciar."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=14
@@ -6383,9 +6406,9 @@ msgstr "No puedes renunciar."
 #. y4:msg_branch_target=T14.P5
 msgctxt "18012_Kiryu"
 msgid "What counts as cheating?"
-msgstr ""
+msgstr "¿Qué cuenta como infidelidad?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=14
@@ -6394,9 +6417,9 @@ msgstr ""
 #. y4:msg_branch_target=T14.P12
 msgctxt "18024_Kiryu"
 msgid "Now you're just being silly."
-msgstr ""
+msgstr "Ahora sí estás diciendo tonterías."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=14
@@ -6405,9 +6428,9 @@ msgstr ""
 #. y4:msg_branch_target=T14.P19
 msgctxt "18036_Kiryu"
 msgid "Do I look like the kind of man who'd cheat?"
-msgstr ""
+msgstr "¿Parezco el tipo de hombre que engañaría a su pareja?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=15
@@ -6416,9 +6439,9 @@ msgstr ""
 #. y4:msg_branch_target=T15.P8
 msgctxt "18048_Kiryu"
 msgid "What if you don't like the guy?"
-msgstr ""
+msgstr "¿Y si el tipo no te gusta?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=15
@@ -6427,9 +6450,9 @@ msgstr ""
 #. y4:msg_branch_target=T15.P14
 msgctxt "18060_Kiryu"
 msgid "You can't just sit back and wait for it."
-msgstr ""
+msgstr "No puedes quedarte sentada esperando."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=15
@@ -6438,9 +6461,9 @@ msgstr ""
 #. y4:msg_branch_target=T15.P21
 msgctxt "18072_Kiryu"
 msgid "Haven't you ever told someone yourself?"
-msgstr ""
+msgstr "¿Tú nunca se lo has dicho a nadie?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=16
@@ -6449,9 +6472,9 @@ msgstr ""
 #. y4:msg_branch_target=T16.P9
 msgctxt "18084_Kiryu"
 msgid "You look like you don't have any worries."
-msgstr ""
+msgstr "Pareces no tener preocupaciones."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=16
@@ -6460,9 +6483,9 @@ msgstr ""
 #. y4:msg_branch_target=T16.P15
 msgctxt "18096_Kiryu"
 msgid "It's annoying when people jump to conclusions."
-msgstr ""
+msgstr "Es molesto que la gente saque conclusiones apresuradas."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=16
@@ -6471,9 +6494,9 @@ msgstr ""
 #. y4:msg_branch_target=T16.P21
 msgctxt "18108_Kiryu"
 msgid "Do you have a hard time hiding your feelings?"
-msgstr ""
+msgstr "¿Te cuesta ocultar lo que sientes?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=17
@@ -6482,9 +6505,9 @@ msgstr ""
 #. y4:msg_branch_target=T17.P9
 msgctxt "18120_Kiryu"
 msgid "Maybe you were too wild as a teenager."
-msgstr ""
+msgstr "Tal vez eras demasiado alocada de adolescente."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=17
@@ -6493,9 +6516,9 @@ msgstr ""
 #. y4:msg_branch_target=T17.P15
 msgctxt "18132_Kiryu"
 msgid "I bet you hang out with a different crowd, too."
-msgstr ""
+msgstr "Seguro que también te juntas con otro tipo de gente."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=17
@@ -6504,9 +6527,9 @@ msgstr ""
 #. y4:msg_branch_target=T17.P22
 msgctxt "18144_Kiryu"
 msgid "That's a surprisingly sensible thing to say."
-msgstr ""
+msgstr "Es algo sorprendentemente sensato. Me impresiona."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=18
@@ -6515,9 +6538,9 @@ msgstr ""
 #. y4:msg_branch_target=T18.P5
 msgctxt "18156_Kiryu"
 msgid "People say I'm scary, too."
-msgstr ""
+msgstr "A mí también me dicen que doy miedo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=18
@@ -6526,9 +6549,9 @@ msgstr ""
 #. y4:msg_branch_target=T18.P15
 msgctxt "18168_Kiryu"
 msgid "That impression doesn't last long, does it?"
-msgstr ""
+msgstr "Esa impresión no dura mucho, ¿verdad?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=18
@@ -6537,9 +6560,9 @@ msgstr ""
 #. y4:msg_branch_target=T18.P21
 msgctxt "18180_Kiryu"
 msgid "You've got a kind of aura about you."
-msgstr ""
+msgstr "Tienes un aire especial."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=19
@@ -6548,9 +6571,9 @@ msgstr ""
 #. y4:msg_branch_target=T19.P7
 msgctxt "18192_Kiryu"
 msgid "A corset?"
-msgstr ""
+msgstr "¿Un corsé?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=19
@@ -6559,9 +6582,9 @@ msgstr ""
 #. y4:msg_branch_target=T19.P15
 msgctxt "18204_Kiryu"
 msgid "Apparently? You don't remember it?"
-msgstr ""
+msgstr "¿Al parecer? ¿No lo recuerdas?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=19
@@ -6570,9 +6593,9 @@ msgstr ""
 #. y4:msg_branch_target=T19.P24
 msgctxt "18216_Kiryu"
 msgid "Don't worry about it. Here, have a drink."
-msgstr ""
+msgstr "No te preocupes por eso. Toma, bebe algo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=20
@@ -6581,7 +6604,7 @@ msgstr ""
 #. y4:msg_branch_target=T20.P6
 msgctxt "18228_Kiryu"
 msgid "That's what I like about you."
-msgstr ""
+msgstr "Eso es lo que me gusta de ti."
 
 #. y4:line_status=translated
 #. y4:msg_role=decision
@@ -6748,7 +6771,7 @@ msgctxt "18408_Kiryu"
 msgid "Sounds like a good idea to me."
 msgstr "Parece una buena idea."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=25
@@ -6757,9 +6780,9 @@ msgstr "Parece una buena idea."
 #. y4:msg_branch_target=T25.P14
 msgctxt "18420_Kiryu"
 msgid "I don't think you should get involved."
-msgstr ""
+msgstr "No creo que debas meterte."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=25
@@ -6768,9 +6791,9 @@ msgstr ""
 #. y4:msg_branch_target=T25.P23
 msgctxt "18432_Kiryu"
 msgid "There are no right or wrong answers in love."
-msgstr ""
+msgstr "En el amor no hay respuestas correctas o incorrectas."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=26
@@ -6779,9 +6802,9 @@ msgstr ""
 #. y4:msg_branch_target=T26.P7
 msgctxt "18444_Kiryu"
 msgid "It'll be all right."
-msgstr ""
+msgstr "Estará bien."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=26
@@ -6790,9 +6813,9 @@ msgstr ""
 #. y4:msg_branch_target=T26.P16
 msgctxt "18456_Kiryu"
 msgid "That depends on us."
-msgstr ""
+msgstr "Eso depende de nosotros."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=26
@@ -6801,9 +6824,9 @@ msgstr ""
 #. y4:msg_branch_target=T26.P26
 msgctxt "18468_Kiryu"
 msgid "It could be time for us to move on."
-msgstr ""
+msgstr "Podría ser hora de seguir adelante."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=27
@@ -6812,9 +6835,9 @@ msgstr ""
 #. y4:msg_branch_target=T27.P12
 msgctxt "18480_Kiryu"
 msgid "How could something like that happen?"
-msgstr ""
+msgstr "¿Cómo pudo pasar algo así?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=27
@@ -6823,9 +6846,9 @@ msgstr ""
 #. y4:msg_branch_target=T27.P18
 msgctxt "18492_Kiryu"
 msgid "Why didn't your family wake you up?"
-msgstr ""
+msgstr "¿Por qué tu familia no te despertó?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=27
@@ -6834,9 +6857,9 @@ msgstr ""
 #. y4:msg_branch_target=T27.P24
 msgctxt "18504_Kiryu"
 msgid "Are you sure you weren't in a coma?"
-msgstr ""
+msgstr "¿Seguro que no estabas en coma?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=28
@@ -6845,9 +6868,9 @@ msgstr ""
 #. y4:msg_branch_target=T28.P7
 msgctxt "18516_Kiryu"
 msgid "You don't need to worry about that."
-msgstr ""
+msgstr "No tienes que preocuparte por eso."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=28
@@ -6856,9 +6879,9 @@ msgstr ""
 #. y4:msg_branch_target=T28.P13
 msgctxt "18528_Kiryu"
 msgid "Like how men do weight training?"
-msgstr ""
+msgstr "¿Como cuando los hombres levantan pesas?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=28
@@ -6867,9 +6890,9 @@ msgstr ""
 #. y4:msg_branch_target=T28.P20
 msgctxt "18540_Kiryu"
 msgid "Actually, you could stand to gain some weight."
-msgstr ""
+msgstr "De hecho, te vendría bien subir un poco de peso. Ya estás demasiado delgada."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=29
@@ -6878,9 +6901,9 @@ msgstr ""
 #. y4:msg_branch_target=T29.P6
 msgctxt "18552_Kiryu"
 msgid "Is that such a good idea?"
-msgstr ""
+msgstr "¿Es tan buena idea?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=29
@@ -6889,9 +6912,9 @@ msgstr ""
 #. y4:msg_branch_target=T29.P14
 msgctxt "18564_Kiryu"
 msgid "You're just shutting out the outside world."
-msgstr ""
+msgstr "Solo te estás aislando del mundo exterior."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=29
@@ -6900,9 +6923,9 @@ msgstr ""
 #. y4:msg_branch_target=T29.P21
 msgctxt "18576_Kiryu"
 msgid "You've really grown."
-msgstr ""
+msgstr "Has madurado mucho."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=30
@@ -6911,9 +6934,9 @@ msgstr ""
 #. y4:msg_branch_target=T30.P6
 msgctxt "18588_Kiryu"
 msgid "You don't get it, do you?"
-msgstr ""
+msgstr "No lo entiendes, ¿verdad?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=30
@@ -6922,9 +6945,9 @@ msgstr ""
 #. y4:msg_branch_target=T30.P12
 msgctxt "18600_Kiryu"
 msgid "Yeah, I don't like it much myself."
-msgstr ""
+msgstr "Sí, a mí tampoco me gusta mucho. El yakisoba sabe muy bien sin eso."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=30
@@ -6933,9 +6956,9 @@ msgstr ""
 #. y4:msg_branch_target=T30.P18
 msgctxt "18612_Kiryu"
 msgid "Have you even tried it?"
-msgstr ""
+msgstr "¿Pero siquiera lo has probado? Es bastante sabroso."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=31
@@ -6944,9 +6967,9 @@ msgstr ""
 #. y4:msg_branch_target=T31.P8
 msgctxt "18624_Kiryu"
 msgid "Are you sure you remember it?"
-msgstr ""
+msgstr "¿Seguro que la recuerdas? Tiendes a perder la memoria cuando bebes."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=31
@@ -6955,7 +6978,7 @@ msgstr ""
 #. y4:msg_branch_target=T31.P13
 msgctxt "18636_Kiryu"
 msgid "We should go out again."
-msgstr ""
+msgstr "Deberíamos volver a salir."
 
 #. y4:line_status=translated
 #. y4:msg_role=decision

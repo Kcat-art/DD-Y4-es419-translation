@@ -11,9 +11,9 @@ Repositorio para la traducción de **Yakuza 4 Remastered** de [Dragones de Dojim
 ## Progreso del proyecto
 
 **Traducción global:** 93116/104382 (89,21%)
-**Revisión global:** 9131/104382 (8,75%)
+**Revisión global:** 9452/104382 (9,06%)
 **Texturas:** 945/1648 (57,34%)
-**Progreso global:** 49,04%
+**Progreso global:** 49,20%
 
 | Área | Traducción | Revisión |
 |---|---:|---:|

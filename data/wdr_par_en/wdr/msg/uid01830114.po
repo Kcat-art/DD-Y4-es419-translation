@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62768\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01830114
 #. y4:runtime_group_count=9
@@ -24,8 +26,7 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_BILLIARD_BAR.bin
 #. y4:runtime_play_command=y4.play_msg 01830114 <group>
 
-
-
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -33,6 +34,7 @@ msgctxt "616"
 msgid "Select the number of input devices to use."
 msgstr "Seleccione el número de dispositivos de entrada que desea utilizar."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -40,6 +42,7 @@ msgctxt "652"
 msgid "Select the game you want to play."
 msgstr "Seleccione el modo que desea jugar."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -47,6 +50,7 @@ msgctxt "712"
 msgid "Do you want to play again?"
 msgstr "¿Quieres volver a jugar?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=3
@@ -54,10 +58,12 @@ msgctxt "760"
 msgid "It costs 800 yen to play another game."
 msgstr "Jugar otra partida cuesta 800 yenes."
 
+#. y4:line_status=translated
 msgctxt "808"
 msgid "Two input devices are required to play in this mode."
 msgstr "Se necesitan dos dispositivos de entrada para jugar este modo."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=4
@@ -65,6 +71,7 @@ msgctxt "820"
 msgid "Do you want to see the tutorial?"
 msgstr "¿Quiere ver el tutorial?"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=5
@@ -72,6 +79,7 @@ msgctxt "868"
 msgid "It costs 1,600 yen to play another game."
 msgstr "Jugar otra partida cuesta 1,600 yenes."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=6
@@ -79,29 +87,32 @@ msgctxt "916"
 msgid "Select an opponent."
 msgstr "Elige un oponente."
 
+#. y4:line_status=translated
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "5500"
 msgid "Employee"
 msgstr "Empleado"
 
+#. y4:line_status=translated
 msgctxt "796_Employee"
 msgid "Please come again."
 msgstr "Vuelva pronto."
 
+#. y4:line_status=translated
 msgctxt "904_Employee"
 msgid "Please come again."
 msgstr "Vuelva pronto."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=7
 msgctxt "988_Employee"
-msgid "Show the cue ball's predicted path?\\r\n"
-"(Displaying the trajectory enables easier play.)"
-msgstr "¿Mostrar la trayectoria de la bola blanca?\\r\n"
-"(Ver la trayectoria facilita el juego)."
+msgid "Show the cue ball's predicted path?\\r\n(Displaying the trajectory enables easier play.)"
+msgstr "¿Mostrar la trayectoria de la bola blanca?\\r\n(Ver la trayectoria facilita el juego)."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -112,6 +123,7 @@ msgctxt "1024_Employee"
 msgid "One"
 msgstr "Uno"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -122,6 +134,7 @@ msgctxt "1036_Employee"
 msgid "Two"
 msgstr "Dos"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -132,6 +145,7 @@ msgctxt "1048_Employee"
 msgid "Nine-ball"
 msgstr "Bola nueve"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -142,6 +156,7 @@ msgctxt "1060_Employee"
 msgid "Rotation"
 msgstr "Rotación"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -152,6 +167,7 @@ msgctxt "1072_Employee"
 msgid "Eight-ball"
 msgstr "Bola ocho"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -162,6 +178,7 @@ msgctxt "1084_Employee"
 msgid "Four-ball"
 msgstr "Bola cuatro"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -172,6 +189,8 @@ msgctxt "1096_Employee"
 msgid "Play Again"
 msgstr "Volver a jugar"
 
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -182,6 +201,7 @@ msgctxt "1108_Employee"
 msgid "Quit"
 msgstr "Salir"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -192,6 +212,7 @@ msgctxt "1120_Employee"
 msgid "Pay 800 Yen"
 msgstr "Pagar 800 yenes"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -202,6 +223,7 @@ msgctxt "1132_Employee"
 msgid "That's enough."
 msgstr "Ya fue suficiente."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4
@@ -212,6 +234,7 @@ msgctxt "1144_Employee"
 msgid "Yes"
 msgstr "Sí"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4
@@ -222,6 +245,7 @@ msgctxt "1156_Employee"
 msgid "No"
 msgstr "No"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=5
@@ -232,6 +256,7 @@ msgctxt "1168_Employee"
 msgid "Pay 1,600 Yen"
 msgstr "Pagar 1,600 yenes"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=5
@@ -242,6 +267,7 @@ msgctxt "1180_Employee"
 msgid "That's enough."
 msgstr "Ya fue suficiente."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=6
@@ -252,6 +278,7 @@ msgctxt "1192_Employee"
 msgid "Makoto Kano (Beginner)"
 msgstr "Makoto Kano (Principiante)."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=6
@@ -262,6 +289,7 @@ msgctxt "1204_Employee"
 msgid "Shunichi Arahama (Intermediate)"
 msgstr "Shunichi Arahama (Intermedio)."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=6
@@ -272,6 +300,7 @@ msgctxt "1216_Employee"
 msgid "Kiko Hirakawa (Advanced)"
 msgstr "Kiko Hirakawa (Avanzado)."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=6
@@ -282,6 +311,7 @@ msgctxt "1228_Employee"
 msgid "Seiji Nakazato (Expert)"
 msgstr "Seiji Nakazato (Experto)."
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=6
@@ -292,6 +322,7 @@ msgctxt "1240_Employee"
 msgid "Play Alone"
 msgstr "Jugar Solo"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=7
@@ -302,6 +333,7 @@ msgctxt "1252_Employee"
 msgid "Display"
 msgstr "Pantalla"
 
+#. y4:line_status=translated
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=7
@@ -311,3 +343,4 @@ msgstr "Pantalla"
 msgctxt "1264_Employee"
 msgid "Hide"
 msgstr "Ocultar"
+

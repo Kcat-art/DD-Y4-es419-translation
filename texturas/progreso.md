@@ -5,10 +5,10 @@
 - Archivos físicos: 1649
 - Archivos duplicados agrupados: 181
 - Grupos con duplicados: 121
-- Completadas: 923
-- Traducidas: 301
-- Marcadas como listas (no requieren traducción): 622
-- Revisadas y testeadas: 64
-- Pendientes: 545
-- Progreso de traducción/listas: 62.87%
-- Progreso de revisión: 4.36%
+- Completadas: 960
+- Traducidas: 329
+- Marcadas como listas (no requieren traducción): 631
+- Revisadas y testeadas: 141
+- Pendientes: 508
+- Progreso de traducción/listas: 65.40%
+- Progreso de revisión: 9.60%

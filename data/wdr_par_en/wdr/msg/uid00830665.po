@@ -17,6 +17,10 @@ msgstr ""
 "X-Crowdin-File-ID: 61316\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00830665
 #. y4:runtime_group_count=1
@@ -24,23 +28,30 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_BILLIARD_BAR.bin
 #. y4:runtime_play_command=y4.play_msg 00830665 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "736"
 msgid "Maya"
 msgstr "Maya"
 
+#. y4:line_status=translated
 msgctxt "740"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "56_Maya"
 msgid "A female panther pose? Are you kidding me? <Color:255,200,200,255>♥<Color:Default>"
-msgstr ""
+msgstr "¿Posar como pantera? ¿En serio? <Color:255,200,200,255>♥<Color:Default>"
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "68_Maya"
-msgid "Hmph, fine. I'll do it. But you're the only one\\r\n"
-"who gets to see this! <Color:255,200,200,255>♥<Color:Default>"
-msgstr ""
+msgid "Hmph, fine. I'll do it. But you're the only one\\r\nwho gets to see this! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Mmmm, bien, lo haré. ¡Pero serás el único que podrá verlo! <Color:255,200,200,255>♥<Color:Default>"
+

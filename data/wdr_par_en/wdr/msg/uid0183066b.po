@@ -17,6 +17,10 @@ msgstr ""
 "X-Crowdin-File-ID: 58506\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=0183066B
 #. y4:runtime_group_count=1
@@ -24,17 +28,24 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_BILLIARD_BAR.bin
 #. y4:runtime_play_command=y4.play_msg 0183066B <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "56"
-msgid "Banking:\\r\n"
-"Before playing, you must decide who goes first."
-msgstr ""
+msgid "Banking:\\r\nBefore playing, you must decide who goes first."
+msgstr "Tiro de banda:\nAntes de jugar, se debe decidir que jugador va primero."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "68"
 msgid "Each player strikes the cue ball. The player whose ball stops closest to them, goes first."
-msgstr ""
+msgstr "Cada jugador golpea la bola. El jugador que logre que la bola quede más cerca de él, va primero."
 
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "80"
 msgid "However, the ball must hit the opposing cushion once in order to be counted."
-msgstr ""
+msgstr "Pero la bola debe golpear la banda contraria para que sea contada."
+

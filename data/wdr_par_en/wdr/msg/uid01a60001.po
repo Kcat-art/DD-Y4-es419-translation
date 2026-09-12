@@ -17,6 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62386\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=untranslated
+#. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01A60001
 #. y4:runtime_group_count=4
@@ -24,34 +26,41 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_ROULETTE.bin
 #. y4:runtime_play_command=y4.play_msg 01A60001 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "848"
 msgid "Dealer"
 msgstr "Crupier"
 
+#. y4:line_status=todo
 msgctxt "104_Dealer"
 msgid "Welcome to the roulette table."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "116_Dealer"
 msgid "Let's begin the game."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "128_Dealer"
 msgid "Welcome to the roulette table. Would you like to play one-on-one against the house?"
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "140_Dealer"
 msgid "Let's begin the game."
 msgstr ""
 
+#. y4:line_status=todo
 msgctxt "152_Dealer"
 msgid "We look forward to seeing you again."
 msgstr ""
 
+#. y4:line_status=translated
 msgctxt "164_Dealer"
 msgid "You seem to be short on chips. Please come visit us again soon."
 msgstr "Parece que te faltan fichas. Vuelva a visitarnos pronto."
+

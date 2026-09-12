@@ -6,7 +6,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
 #. y4:last_translator=MasterCry
 #. y4:last_reviewer=Karu
 
@@ -75,10 +75,11 @@ msgctxt "368_Haruka"
 msgid "Uncle Kaz! Hit ten or more targets in a Normal Game! I know you can do it!"
 msgstr "¡Tío kaz! ¡En un Juego Normal tienes que darle a 10 o mas objetivos! ¡Se que puedes!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "380_Kiryu"
 msgid "(Hit ten or more targets in a normal game... One try is 300 yen. Should I do it?)"
-msgstr ""
+msgstr "(Hay diez o más objetivos en un juego normal... El intento son 300 yenes. ¿Debería?)"
 
 #. y4:line_status=translated
 msgctxt "392_Kiryu"
@@ -95,35 +96,41 @@ msgctxt "428_Kiryu"
 msgid "(Not right now.)"
 msgstr "(Ahora no)."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "440_Haruka"
 msgid "Aww, I really wanted to see you do it..."
-msgstr ""
-
-#. y4:line_status=todo
-msgctxt "452_Kiryu"
-msgid "(Wish I had enough money to play... 300 yen shouldn't be too hard to come by, though.)"
-msgstr ""
-
-#. y4:line_status=todo
-msgctxt "464_Haruka"
-msgid "Aww, c'mon..."
-msgstr ""
+msgstr "Ay, tenía muchas ganas de verte hacerlo..."
 
 #. y4:line_status=translated
+#. y4:translated_by=MasterCry
+msgctxt "452_Kiryu"
+msgid "(Wish I had enough money to play... 300 yen shouldn't be too hard to come by, though.)"
+msgstr "(Ojalá tuviera suficiente dinero para jugar... aunque 300 yenes no deberían ser difíciles de conseguir)."
+
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
+msgctxt "464_Haruka"
+msgid "Aww, c'mon..."
+msgstr "Ay, vamos..."
+
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "476_Kiryu"
 msgid "Press <Action:Button_Cross@Battingcenter> at the right time to hit the balls pitched by the pitching machine. Hit the home run targets to earn points."
-msgstr "Prensa <Action:Button_Cross@Battingcenter> en el momento adecuado para golpear las bolas lanzadas por la máquina de lanzar. Golpea los objetivos de jonrones para ganar puntos."
+msgstr "Presiona <Action:Button_Cross@Battingcenter> en el momento justo en el que el pitcher lanza la pelota. Acierta en los homeruns para ganar puntos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "488_Kiryu"
 msgid "There are five targets in the Normal Game. Each target will grant the same number of points, but once a target is hit, it will not be restored until all the remaining targets are also hit."
-msgstr ""
+msgstr "Hay cinco objetivos en un juego normal. Cada objetivo da la misma cantidad de puntos, pero cada objetivo golpeado no será restaurado hasta que los demás también sean golpeados."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "500_Kiryu"
 msgid "Use <Action:Button_LS_Up@Battingcenter><Action:Button_LS_Down@Battingcenter><Action:Button_LS_Left@Battingcenter><Action:Button_LS_Right@Battingcenter> to aim your swing. If you aim well enough, you can hit three targets at once and earn three times the points."
-msgstr ""
+msgstr "Usa <Action:Button_LS_Up@Battingcenter><Action:Button_LS_Down@Battingcenter><Action:Button_LS_Left@Battingcenter><Action:Button_LS_Right@Battingcenter> para apuntar tu bat. Si apuntas bien, puedes golpear tres objetivos a la vez y ganar el triple de puntos."
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
@@ -131,20 +138,23 @@ msgctxt "512_Kiryu"
 msgid "Once you hit all the targets, a bonus target will appear. However, you only get one chance to hit it. The bonus target disappears after one pitch, whether you hit it or not. Aim carefully and go for a new high score!"
 msgstr "Una vez que terminaste con todos, un objetivo extra aparecerá. Solo tienes una chance. El objetivo extra desaparecerá una vez salga la bola, tanto si le das como si no. ¡Apunta cuidadosamente y ve por ese nuevo récord!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "560_Player"
 msgid "(Hmm... The Normal Game is 300 yen. Maybe I should give it a try.)"
-msgstr ""
+msgstr "(Hmm... El juego normal son 300 yenes. Debería intentarlo.)"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "572_Player"
 msgid "(Hmm... The Normal Game is 300 yen. Maybe I should give it a try.)"
-msgstr ""
+msgstr "(Hmm... El juego normal son 300 yenes. Debería intentarlo.)"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "584_Player"
 msgid "(Hmm... The Normal Game is 300 yen. I can play it for free if I use a coupon...)"
-msgstr ""
+msgstr "(Hmm... El juego normal son 300 yenes. Puedo jugar gratis si uso el cupón.)"
 
 #. y4:line_status=translated
 msgctxt "596_Player"
@@ -162,19 +172,22 @@ msgid "(Not right now.)"
 msgstr "(Ahora no)."
 
 #. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "692_Kiryu"
 msgid "Press <Action:Button_Cross@Battingcenter> at the right time to hit the balls pitched by the pitching machine. Hit the home run targets to earn points."
-msgstr "Prensa <Action:Button_Cross@Battingcenter> en el momento adecuado para golpear las bolas lanzadas por la máquina de lanzar. Golpea los objetivos de jonrones para ganar puntos."
+msgstr "Presiona <Action:Button_Cross@Battingcenter> en el momento justo en el que el pitcher lanza la pelota. Acierta en los homeruns para ganar puntos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "704_Kiryu"
 msgid "There are five targets in the Normal Game. Each target will grant the same number of points, but once a target is hit, it will not be restored until all the remaining targets are also hit."
-msgstr ""
+msgstr "Hay cinco objetivos en un juego normal. Cada objetivo da la misma cantidad de puntos, pero cada objetivo golpeado no será restaurado hasta que los demás también sean golpeados."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "716_Kiryu"
 msgid "Use <Action:Button_LS_Up@Battingcenter><Action:Button_LS_Down@Battingcenter><Action:Button_LS_Left@Battingcenter><Action:Button_LS_Right@Battingcenter> to aim your shot. If you aim well enough, you can hit three targets at once and earn three times the points."
-msgstr ""
+msgstr "Usa <Action:Button_LS_Up@Battingcenter><Action:Button_LS_Down@Battingcenter><Action:Button_LS_Left@Battingcenter><Action:Button_LS_Right@Battingcenter> para apuntar. Si apuntas bien, puedes alcanzar tres objetivos a la vez y ganar el triple de puntos."
 
 #. y4:line_status=translated
 #. y4:translated_by=MasterCry
@@ -182,10 +195,11 @@ msgctxt "728_Kiryu"
 msgid "Once you hit all the targets, a bonus target will appear. However, you only get one chance to hit it. The bonus target disappears after one pitch, whether you hit it or not. Aim carefully and go for a new high score!"
 msgstr "Una vez que terminaste con todos, un objetivo extra aparecerá. Solo tienes una chance. El objetivo extra desaparecerá una vez salga la bola, tanto si le das como si no. ¡Apunta cuidadosamente y ve por ese nuevo récord!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "740_Player"
 msgid "(Wish I had enough money to play... 300 yen shouldn't be too hard to come by, though.)"
-msgstr ""
+msgstr "(Ojalá tuviera suficiente dinero para jugar... aunque 300 yenes no deberían ser difíciles de conseguir)."
 
 #. y4:line_status=translated
 msgctxt "764_Kiryu"

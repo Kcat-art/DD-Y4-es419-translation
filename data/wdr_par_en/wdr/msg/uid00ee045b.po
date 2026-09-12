@@ -18,6 +18,7 @@ msgstr ""
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
 #. y4:file_status=untranslated
+#. y4:last_translator=Kcat0
 #. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00EE045B
@@ -31,7 +32,8 @@ msgctxt "588"
 msgid "You paid <Color:8>50,000 yen<Color:Default>."
 msgstr "Pagaste <Color:8>50,000 yenes<Color:Default>."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "29512"
@@ -81,17 +83,20 @@ msgctxt "29544"
 msgid "Talk_Gakkari"
 msgstr "Talk_Gakkari"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "29548"
 msgid "F_nml_sitchr_tlk_kamae"
 msgstr "F_nml_sitchr_tlk_kamae"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "29552"
 msgid "P_tan_sitsofa_tlk_kamae"
 msgstr "P_tan_sitsofa_tlk_kamae"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "29556"
 msgid "P_tan_sitsofa"
 msgstr "P_tan_sitsofa"
@@ -116,7 +121,8 @@ msgctxt "29572"
 msgid "Talk_Phone_st"
 msgstr "Talk_Phone_st"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=name
 #. y4:msg_name_id=16
 msgctxt "29576"
@@ -841,7 +847,8 @@ msgctxt "2028_Naomi"
 msgid "Oh, I'll just tell you. What I mean is, check the Pause Menu sometimes. If you still don't know what I'm talking about, press the <Action:Button_Options@Adventure> button."
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -852,7 +859,9 @@ msgctxt "2040_Naomi"
 msgid "Pay"
 msgstr "Pagar"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -861,5 +870,5 @@ msgstr "Pagar"
 #. y4:msg_branch_target=T1.P8
 msgctxt "2052_Naomi"
 msgid "Don't Pay"
-msgstr "No Pagar"
+msgstr "No pagar"
 

@@ -17,7 +17,9 @@ msgstr ""
 "X-Crowdin-File-ID: 61808\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_translator=Kcat0
 #. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=018306DF
@@ -26,15 +28,19 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_DARTS_02.bin
 #. y4:runtime_play_command=y4.play_msg 018306DF <group>
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "56"
 msgid "How to Play '01 Games:"
-msgstr ""
+msgstr "Cómo jugar al '01:"
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "68"
 msgid "Players attempt to reduce their score from a fixed number until they reach exactly zero."
-msgstr ""
+msgstr "Los jugadores intentan reducir su puntaje hasta llegar a cero."
 
 #. y4:line_status=reviewed
 #. y4:reviewed_by=Kcat0
@@ -42,22 +48,29 @@ msgctxt "80"
 msgid "You bust if you go under zero, at which point your opponent gets to play. Your points will revert to what they were when the round started."
 msgstr "Si te pasas de cero, pierdes tu turno y juega tu oponente. Tu puntaje regresa al que tenías al inicio de la ronda."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "92"
 msgid "The first player to reach exactly zero at the end of the assigned number of rounds wins."
-msgstr ""
+msgstr "El primer jugador en lograrlo en el número de rondas asignado, gana."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "104"
 msgid "If neither player can reach zero during the allotted rounds, the player with fewer remaining points is declared the winner."
-msgstr ""
+msgstr "Si ningún jugador lo logra, el jugador con menos puntos gana."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "116"
 msgid "In '01 Games, both the outer and inner bull are worth 50 points."
-msgstr ""
+msgstr "En los juegos de '01, tanto el bull exterior como el interior valen 50 puntos."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "128"
 msgid "Have fun and give it your all."
 msgstr "Diviértete y da lo mejor de ti."

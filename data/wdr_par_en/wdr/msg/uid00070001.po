@@ -6,8 +6,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
 #. y4:last_translator=Keiner
+#. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00070001
 #. y4:runtime_group_count=7
@@ -15,67 +16,85 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_TOUGI_UKE.bin
 #. y4:runtime_play_command=y4.play_msg 00070001 <group>
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "12016"
 msgid "Receptionist"
 msgstr "Recepcionista"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=name
 #. y4:msg_name_id=1
 msgctxt "12020"
 msgid "The Underground Coliseum"
-msgstr "El Coliseo Subterráneo"
+msgstr "El coliseo subterráneo"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "740_Receptionist"
 msgid "This facility is for members only."
 msgstr "Este lugar es solo para miembros."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "752_Receptionist"
 msgid "I'm sorry, only registered customers can enter this facility."
 msgstr "Lo siento, solo los clientes registrados pueden entrar a este lugar."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "764_Receptionist"
 msgid "Thank you very much. Come back when you want to fight again."
-msgstr "Muchas gracias. Vuelve cuando quieras volver a pelear."
+msgstr "Muchas gracias. Vuelva cuando quiera volver a pelear."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "800_Receptionist"
 msgid "Congratulations. Here is your reward for winning."
-msgstr "¡Felicidades! Aquí tienes tu recompensa."
+msgstr "¡Felicidades! Aquí tiene su recompensa."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "836_Receptionist"
 msgid "Congratulations!"
 msgstr "¡Felicidades!"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "848_Receptionist"
 msgid "Your nickname has been upgraded! You can check it out from the menu."
-msgstr "¡Tu apodo ha sido actualizado! Puedes comprobarlo en el menú."
+msgstr "¡Su apodo ha sido actualizado! Puede comprobarlo en el menú."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "860_Receptionist"
 msgid "Welcome. This is the Underground Coliseum."
-msgstr "Bienvenido al Coliseo Subterráneo."
+msgstr "Bienvenido al coliseo subterráneo."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "872_Receptionist"
 msgid "Is this your first time here? We will have to register you first.\\r\nHave a look at the rules while you wait."
-msgstr "¿Es tu primera vez aquí? Tendrás que registrarte antes de poder luchar.\\r\nEcha un vistazo a las reglas mientras esperas."
+msgstr "¿Es su primera vez aquí? Tendrá que registrarse antes de poder luchar. Eche un vistazo a las reglas mientras espera."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "896_Receptionist"
 msgid "Your registration is complete."
 msgstr "Su registro está completo."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Keiner
+#. y4:reviewed_by=Kcat0
 msgctxt "908_Receptionist"
 msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nRead <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\nYou can access the Pause Menu with the <Action:Button_Options@Adventure> button."
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
@@ -172,8 +191,9 @@ msgctxt "1220_Receptionist"
 msgid "Thank you. Please come again."
 msgstr "Muchas gracias. Por favor, vuelva otra vez."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Keiner
+#. y4:reviewed_by=Kcat0
 msgctxt "1244_Receptionist"
 msgid "This information has been added as a <Color:14>memo<Color:Default>.\\r\nRead <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\\r\nYou can access the Pause Menu with the <Action:Button_Options@Adventure> button."
 msgstr "Esta información ha sido añadida como una <Color:14>nota<Color:Default>.\nLee las <Color:14>notas<Color:Default> seleccionando <Color:14>Notas<Color:Default> en el menú de pausa.\nPuedes acceder al menú de pausa con el botón <Action:Button_Options@Adventure>."
@@ -599,3 +619,4 @@ msgstr "Información del Oponente en Combate por Equipos"
 msgctxt "1916_Receptionist"
 msgid "Back"
 msgstr "Volver"
+

@@ -27,7 +27,8 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_BILLIARD_BAR.bin
 #. y4:runtime_play_command=y4.play_msg 01830114 <group>
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -35,7 +36,8 @@ msgctxt "616"
 msgid "Select the number of input devices to use."
 msgstr "Seleccione el número de dispositivos de entrada que desea utilizar."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -43,7 +45,8 @@ msgctxt "652"
 msgid "Select the game you want to play."
 msgstr "Seleccione el modo que desea jugar."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
@@ -59,12 +62,14 @@ msgctxt "760"
 msgid "It costs 800 yen to play another game."
 msgstr "Jugar otra partida cuesta 800 yenes."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "808"
 msgid "Two input devices are required to play in this mode."
 msgstr "Se necesitan dos dispositivos de entrada para jugar este modo."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=4
@@ -113,7 +118,8 @@ msgctxt "988_Employee"
 msgid "Show the cue ball's predicted path?\\r\n(Displaying the trajectory enables easier play.)"
 msgstr "¿Mostrar la trayectoria de la bola blanca?\\r\n(Ver la trayectoria facilita el juego)."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -124,7 +130,8 @@ msgctxt "1024_Employee"
 msgid "One"
 msgstr "Uno"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -179,7 +186,8 @@ msgctxt "1084_Employee"
 msgid "Four-ball"
 msgstr "Bola cuatro"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2

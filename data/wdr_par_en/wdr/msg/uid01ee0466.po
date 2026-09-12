@@ -18,6 +18,7 @@ msgstr ""
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
 #. y4:file_status=untranslated
+#. y4:last_translator=Kcat0
 #. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01EE0466
@@ -26,7 +27,8 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_DARTS_02.bin
 #. y4:runtime_play_command=y4.play_msg 01EE0466 <group>
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
@@ -34,7 +36,8 @@ msgctxt "480"
 msgid "Select the number of input devices to use."
 msgstr "Seleccione el número de dispositivos de entrada que desea utilizar."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
@@ -42,15 +45,18 @@ msgctxt "516"
 msgid "Select the game you want to play."
 msgstr "Seleccione el modo que desea jugar."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=2
 msgctxt "528"
 msgid "Select the score for the '01 Game."
-msgstr "Seleccione la cantidad de puntos para '01."
+msgstr "Seleccione la cantidad de puntos en '01."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=3
@@ -58,7 +64,8 @@ msgctxt "540"
 msgid "Select the cricket variation you want to play."
 msgstr "Seleccione la variación de cricket que quiere jugar."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=4
@@ -66,12 +73,14 @@ msgctxt "648"
 msgid "Do you want to play again?"
 msgstr "¿Quieres volver a jugar?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "684"
 msgid "Two input devices are required to play in this mode."
 msgstr "Se necesitan dos dispositivos de entrada para jugar este modo."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=5
@@ -79,7 +88,8 @@ msgctxt "696"
 msgid "Do you want to see the tutorial?"
 msgstr "¿Quiere ver el tutorial?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -90,7 +100,8 @@ msgctxt "732"
 msgid "One"
 msgstr "Uno"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -101,7 +112,8 @@ msgctxt "744"
 msgid "Two"
 msgstr "Dos"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -112,7 +124,8 @@ msgctxt "756"
 msgid "'01"
 msgstr "'01"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -123,7 +136,9 @@ msgctxt "768"
 msgid "Cricket"
 msgstr "Cricket"
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=1
@@ -132,9 +147,10 @@ msgstr "Cricket"
 #. y4:msg_branch_target=T1.P10
 msgctxt "780"
 msgid "Count-Up"
-msgstr ""
+msgstr "Count-up"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -145,7 +161,8 @@ msgctxt "792"
 msgid "301"
 msgstr "301"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -156,7 +173,8 @@ msgctxt "804"
 msgid "501"
 msgstr "501"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -167,7 +185,8 @@ msgctxt "816"
 msgid "701"
 msgstr "701"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -178,7 +197,8 @@ msgctxt "828"
 msgid "901"
 msgstr "901"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=2
@@ -189,7 +209,8 @@ msgctxt "840"
 msgid "Back"
 msgstr "Volver"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -222,7 +243,8 @@ msgctxt "876"
 msgid "Hidden"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=3
@@ -233,7 +255,8 @@ msgctxt "888"
 msgid "Back"
 msgstr "Volver"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=4

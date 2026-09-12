@@ -7,8 +7,8 @@ msgstr ""
 "Language: es\n"
 
 #. y4:file_status=untranslated
-#. y4:last_translator=MasterCry
-#. y4:last_reviewer=Karu
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00EE0222
 #. y4:runtime_group_count=2
@@ -434,7 +434,8 @@ msgctxt "1096_Dealer"
 msgid "Never Mind"
 msgstr "No importa"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=5
@@ -445,7 +446,9 @@ msgctxt "1108_Dealer"
 msgid "Pay"
 msgstr "Pagar"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=5
@@ -454,5 +457,5 @@ msgstr "Pagar"
 #. y4:msg_branch_target=T1.P3
 msgctxt "1120_Dealer"
 msgid "Don't Pay"
-msgstr "No Pagar"
+msgstr "No pagar"
 

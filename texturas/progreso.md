@@ -8,7 +8,7 @@
 - Completadas: 1088
 - Traducidas: 431
 - Marcadas como listas (no requieren traducción): 658
-- Revisadas y testeadas: 650
+- Revisadas y testeadas: 812
 - Pendientes: 380
 - Progreso de traducción/listas: 74.11%
-- Progreso de revisión: 44.28%
+- Progreso de revisión: 55.31%

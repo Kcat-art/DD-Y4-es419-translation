@@ -9,7 +9,6 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 
-
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
@@ -32,6 +31,25 @@ BOOT_SUBSTORY_PATH = ROOT / "data" / "bootpar" / "boot_en" / "boot_en" / "substo
 OUT_DIR = ROOT / "assets" / "bot"
 OUT_PATH = OUT_DIR / "progress.json"
 
+# Nombres verificados en el contenido de Hostess.
+HOSTESS_SPEAKERS = {
+    "Rio": {"rio"},
+    "Himeka Kawasaki": {"himeka"},
+    "Shizuka": {"shizuka"},
+    "Noa Mizutani": {"noa"},
+    "Erena Aihara": {"erena"},
+    "Chihiro Ikki": {"chihiro"},
+    "Maya Mori": {"maya"},
+}
+
+# Sufijos de speaker usados por los cuatro protagonistas en los PO de WDR.
+PROTAGONIST_SPEAKERS = {
+    "Akiyama": {"akiyama"},
+    "Saejima": {"saejima"},
+    "Tanimura": {"tanimura"},
+    "Kiryu": {"kiryu"},
+}
+
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
@@ -53,7 +71,6 @@ def load_json(path: Path) -> dict:
 
 
 def build_po_index() -> dict[str, list[Path]]:
-    """Índice basename -> rutas .po del repositorio."""
     result: dict[str, list[Path]] = defaultdict(list)
 
     for path in ROOT.rglob("*.po"):
@@ -88,11 +105,34 @@ def resolve_repo_path(repo_path: str) -> Path | None:
     return path if path.is_file() else None
 
 
+def is_hidden_block(block: str, hidden_terms: list[str]) -> bool:
+    haystack = "\n".join(
+        extract_po_field(block, field)
+        for field in ("msgctxt", "msgid", "msgstr")
+    ).lower()
+    return any(term in haystack for term in hidden_terms)
+
+
+def block_reviewed(block: str, file_reviewed: bool) -> bool:
+    statuses = LINE_STATUS_RE.findall(block)
+    return bool(
+        (statuses and normalize_status(statuses[-1]) == "reviewed")
+        or REVIEWED_BY_RE.search(block)
+        or file_reviewed
+    )
+
+
+def speaker_from_context(msgctxt: str) -> str:
+    value = str(msgctxt or "").strip()
+    if "_" not in value:
+        return ""
+    return value.rsplit("_", 1)[-1].strip().casefold()
+
+
 def parse_boot_contexts(
     contexts: set[int],
     hidden_terms: list[str],
 ) -> dict:
-    """Cuenta solo los msgctxt de substory.po indicados por boot_contexts."""
     result = {
         "total": 0,
         "translated": 0,
@@ -121,12 +161,7 @@ def parse_boot_contexts(
         if context_id not in contexts:
             continue
 
-        haystack = "\n".join(
-            extract_po_field(block, field)
-            for field in ("msgctxt", "msgid", "msgstr")
-        ).lower()
-
-        if any(term in haystack for term in hidden_terms):
+        if is_hidden_block(block, hidden_terms):
             result["hidden"] += 1
             continue
 
@@ -135,17 +170,7 @@ def parse_boot_contexts(
         if extract_po_field(block, "msgstr") != "":
             result["translated"] += 1
 
-        statuses = LINE_STATUS_RE.findall(block)
-        reviewed = (
-            (
-                statuses
-                and normalize_status(statuses[-1]) == "reviewed"
-            )
-            or REVIEWED_BY_RE.search(block)
-            or file_reviewed
-        )
-
-        if reviewed:
+        if block_reviewed(block, file_reviewed):
             result["reviewed"] += 1
 
     return result
@@ -159,7 +184,7 @@ def main() -> None:
     def stats_for(path_text: str) -> tuple[int, int, int, int]:
         return parse_po(Path(path_text), hidden_terms)
 
-    def aggregate(paths: list[Path]) -> dict:
+    def unique_existing_paths(paths: list[Path]) -> list[Path]:
         unique: dict[str, Path] = {}
 
         for path in paths:
@@ -167,9 +192,13 @@ def main() -> None:
                 key = norm(path.relative_to(ROOT).as_posix())
                 unique[key] = path
 
+        return list(unique.values())
+
+    def aggregate(paths: list[Path]) -> dict:
+        unique = unique_existing_paths(paths)
         total = translated = reviewed = hidden = 0
 
-        for path in unique.values():
+        for path in unique:
             t, tr, rv, hi = stats_for(str(path))
             total += t
             translated += tr
@@ -186,9 +215,80 @@ def main() -> None:
             "pct_reviewed": pct(reviewed, total),
         }
 
-    # ------------------------------------------------------------------
+    def aggregate_speakers(
+        paths: list[Path],
+        groups: dict[str, set[str]],
+    ) -> list[dict]:
+        aliases: dict[str, str] = {}
+
+        for display_name, group_aliases in groups.items():
+            for alias in group_aliases:
+                aliases[str(alias).strip().casefold()] = display_name
+
+        buckets: dict[str, dict] = {
+            display_name: {
+                "name": display_name,
+                "total": 0,
+                "translated": 0,
+                "reviewed": 0,
+                "hidden": 0,
+                "_files": set(),
+            }
+            for display_name in groups
+        }
+
+        for path in unique_existing_paths(paths):
+            text = path.read_text(encoding="utf-8", errors="replace")
+            file_reviewed = any(
+                normalize_status(status) == "reviewed"
+                for status in FILE_STATUS_RE.findall(text)
+            )
+            rel_path = path.relative_to(ROOT).as_posix()
+
+            for block in iter_entries(text):
+                speaker = speaker_from_context(extract_po_field(block, "msgctxt"))
+                display_name = aliases.get(speaker)
+
+                if display_name is None:
+                    continue
+
+                bucket = buckets[display_name]
+
+                if is_hidden_block(block, hidden_terms):
+                    bucket["hidden"] += 1
+                    continue
+
+                bucket["total"] += 1
+                bucket["_files"].add(rel_path)
+
+                if extract_po_field(block, "msgstr") != "":
+                    bucket["translated"] += 1
+
+                if block_reviewed(block, file_reviewed):
+                    bucket["reviewed"] += 1
+
+        output: list[dict] = []
+
+        for display_name in groups:
+            bucket = buckets[display_name]
+            total = int(bucket["total"])
+
+            output.append(
+                {
+                    "name": display_name,
+                    "files": len(bucket["_files"]),
+                    "total": total,
+                    "translated": int(bucket["translated"]),
+                    "reviewed": int(bucket["reviewed"]),
+                    "hidden": int(bucket["hidden"]),
+                    "pct_translated": pct(int(bucket["translated"]), total),
+                    "pct_reviewed": pct(int(bucket["reviewed"]), total),
+                }
+            )
+
+        return output
+
     # SUBHISTORIAS
-    # ------------------------------------------------------------------
     substories_data = load_json(SUBSTORIES_PATH)
     substories_out: list[dict] = []
     all_substory_basenames: set[str] = set()
@@ -200,6 +300,7 @@ def main() -> None:
 
         for item in substory.get("files", []):
             uid = str(item.get("uid", "")).strip().casefold()
+
             if not uid or uid in seen_uids:
                 continue
 
@@ -208,6 +309,7 @@ def main() -> None:
             all_substory_basenames.add(basename.casefold())
 
             path = resolve_uid(po_index, uid)
+
             if path is None:
                 missing_uids.append(uid)
             else:
@@ -232,12 +334,19 @@ def main() -> None:
         data.update(
             {
                 "id": substory.get("id"),
-                "name": substory.get("name", f"Subhistoria {substory.get('id', '?')}"),
-                "protagonist": substory.get("protagonist", "Sin protagonista"),
+                "name": substory.get(
+                    "name",
+                    f"Subhistoria {substory.get('id', '?')}",
+                ),
+                "protagonist": substory.get(
+                    "protagonist",
+                    "Sin protagonista",
+                ),
                 "boot_contexts_counted": boot["total"],
                 "missing_uids": missing_uids,
             }
         )
+
         substories_out.append(data)
 
     substories_out.sort(
@@ -247,14 +356,13 @@ def main() -> None:
         )
     )
 
-    # ------------------------------------------------------------------
     # HOSTESS
-    # ------------------------------------------------------------------
     hostess_paths: list[Path] = []
     hostess_missing: list[str] = []
 
     for repo_path in sorted(HOSTESS_PO_PATHS):
         path = resolve_repo_path(repo_path)
+
         if path is None:
             hostess_missing.append(repo_path)
         else:
@@ -265,6 +373,11 @@ def main() -> None:
         {
             "name": "Hostess",
             "missing_files": hostess_missing,
+            "individual_metric": "speaker_lines",
+            "individual": aggregate_speakers(
+                hostess_paths,
+                HOSTESS_SPEAKERS,
+            ),
         }
     )
 
@@ -273,9 +386,7 @@ def main() -> None:
         for path in HOSTESS_PO_PATHS
     }
 
-    # ------------------------------------------------------------------
     # HISTORIA / ESCENARIO
-    # ------------------------------------------------------------------
     file_tags_data = load_json(FILE_TAGS_PATH)
     tagged_files = file_tags_data.get("files", {})
 
@@ -286,17 +397,24 @@ def main() -> None:
         if not isinstance(tags, list):
             continue
 
-        normalized_tags = {str(tag).strip().casefold() for tag in tags}
+        normalized_tags = {
+            str(tag).strip().casefold()
+            for tag in tags
+        }
+
         if "escenario" not in normalized_tags:
             continue
 
         base_cf = Path(basename).name.casefold()
+
         if base_cf in all_substory_basenames:
             continue
+
         if base_cf in hostess_basenames:
             continue
 
         path = resolve_basename(po_index, basename)
+
         if path is None:
             history_missing.append(str(basename))
         else:
@@ -308,11 +426,16 @@ def main() -> None:
             "name": "Historia principal",
             "classification": "Escenario - Subhistorias - Hostess",
             "missing_files": history_missing,
+            "protagonist_metric": "speaker_lines",
+            "protagonistas": aggregate_speakers(
+                history_paths,
+                PROTAGONIST_SPEAKERS,
+            ),
         }
     )
 
     output = {
-        "schema_version": 1,
+        "schema_version": 2,
         "repository": "Kcat-art/DD-Y4-es419-translation",
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "subhistorias": substories_out,
@@ -332,11 +455,13 @@ def main() -> None:
         f"{hostess_out['pct_translated']:.2f}% traducido / "
         f"{hostess_out['pct_reviewed']:.2f}% revisado"
     )
+    print(f"Hostesses individuales: {len(hostess_out['individual'])}")
     print(
         "Historia: "
         f"{history_out['pct_translated']:.2f}% traducido / "
         f"{history_out['pct_reviewed']:.2f}% revisado"
     )
+    print(f"Protagonistas: {len(history_out['protagonistas'])}")
 
 
 if __name__ == "__main__":

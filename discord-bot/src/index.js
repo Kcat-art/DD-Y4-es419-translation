@@ -37,9 +37,11 @@ function splitLongLine(line, maxLength) {
 
   while (remaining.length > maxLength) {
     let cut = remaining.lastIndexOf(" ", maxLength);
+
     if (cut < Math.floor(maxLength * 0.6)) {
       cut = maxLength;
     }
+
     result.push(remaining.slice(0, cut));
     remaining = remaining.slice(cut).trimStart();
   }
@@ -78,7 +80,9 @@ function splitMessage(text, maxLength = MESSAGE_LIMIT) {
 }
 
 function formatSubstories(data) {
-  const items = Array.isArray(data.subhistorias) ? data.subhistorias : [];
+  const items = Array.isArray(data.subhistorias)
+    ? data.subhistorias
+    : [];
 
   if (!items.length) {
     return "SUBHISTORIAS — YAKUZA 4\n\nNo hay datos de subhistorias.";
@@ -88,13 +92,15 @@ function formatSubstories(data) {
 
   for (const item of items) {
     const protagonist = item.protagonist || "Otros";
+
     if (!byProtagonist.has(protagonist)) {
       byProtagonist.set(protagonist, []);
     }
+
     byProtagonist.get(protagonist).push(item);
   }
 
-  const lines = ["📖 SUBHISTORIAS — YAKUZA 4", ""];
+  const lines = ["SUBHISTORIAS — YAKUZA 4", ""];
 
   for (const [protagonist, group] of byProtagonist.entries()) {
     lines.push(`**${String(protagonist).toUpperCase()}**`);
@@ -102,6 +108,7 @@ function formatSubstories(data) {
     for (const item of group) {
       const id = item.id ?? "?";
       const name = item.name || `Subhistoria ${id}`;
+
       lines.push(
         `${id}. ${name}: ${formatPct(item.pct_translated)} traducido / ${formatPct(item.pct_reviewed)} revisado`
       );
@@ -120,8 +127,13 @@ function formatSubstories(data) {
     { total: 0, translated: 0, reviewed: 0 }
   );
 
-  const translatedPct = total.total ? (total.translated * 100) / total.total : 0;
-  const reviewedPct = total.total ? (total.reviewed * 100) / total.total : 0;
+  const translatedPct = total.total
+    ? (total.translated * 100) / total.total
+    : 0;
+
+  const reviewedPct = total.total
+    ? (total.reviewed * 100) / total.total
+    : 0;
 
   lines.push("**TOTAL SUBHISTORIAS**");
   lines.push(`Traducción: ${formatPct(translatedPct)}`);
@@ -132,26 +144,72 @@ function formatSubstories(data) {
 
 function formatHostess(data) {
   const h = data.hostess || {};
+  const individual = Array.isArray(h.individual)
+    ? h.individual
+    : [];
 
-  return [
+  const lines = [
     "HOSTESS — YAKUZA 4",
-    "",
-    `Hostess: ${formatPct(h.pct_translated)} traducido / ${formatPct(h.pct_reviewed)} revisado`,
-    `Líneas: ${Number(h.translated || 0)}/${Number(h.total || 0)} traducidas`,
+    ""
+  ];
+
+  if (individual.length) {
+    for (const item of individual) {
+      lines.push(
+        `${item.name}: ${formatPct(item.pct_translated)} traducido / ${formatPct(item.pct_reviewed)} revisado`
+      );
+    }
+
+    lines.push("");
+  }
+
+  lines.push("**TOTAL HOSTESS**");
+  lines.push(
+    `${formatPct(h.pct_translated)} traducido / ${formatPct(h.pct_reviewed)} revisado`
+  );
+  lines.push(
+    `Líneas: ${Number(h.translated || 0)}/${Number(h.total || 0)} traducidas`
+  );
+  lines.push(
     `Revisadas: ${Number(h.reviewed || 0)}/${Number(h.total || 0)}`
-  ].join("\n");
+  );
+
+  return lines.join("\n");
 }
 
 function formatStory(data) {
   const h = data.historia || {};
+  const protagonists = Array.isArray(h.protagonistas)
+    ? h.protagonistas
+    : [];
 
-  return [
+  const lines = [
     "HISTORIA PRINCIPAL — YAKUZA 4",
-    "",
-    `Historia principal: ${formatPct(h.pct_translated)} traducido / ${formatPct(h.pct_reviewed)} revisado`,
-    `Líneas: ${Number(h.translated || 0)}/${Number(h.total || 0)} traducidas`,
+    ""
+  ];
+
+  if (protagonists.length) {
+    for (const item of protagonists) {
+      lines.push(
+        `${item.name}: ${formatPct(item.pct_translated)} traducido / ${formatPct(item.pct_reviewed)} revisado`
+      );
+    }
+
+    lines.push("");
+  }
+
+  lines.push("**TOTAL HISTORIA PRINCIPAL**");
+  lines.push(
+    `${formatPct(h.pct_translated)} traducido / ${formatPct(h.pct_reviewed)} revisado`
+  );
+  lines.push(
+    `Líneas: ${Number(h.translated || 0)}/${Number(h.total || 0)} traducidas`
+  );
+  lines.push(
     `Revisadas: ${Number(h.reviewed || 0)}/${Number(h.total || 0)}`
-  ].join("\n");
+  );
+
+  return lines.join("\n");
 }
 
 async function loadProgress(env) {
@@ -163,14 +221,17 @@ async function loadProgress(env) {
   });
 
   if (!response.ok) {
-    throw new Error(`No se pudo descargar progress.json: HTTP ${response.status}`);
+    throw new Error(
+      `No se pudo descargar progress.json: HTTP ${response.status}`
+    );
   }
 
   return await response.json();
 }
 
 async function editOriginal(interaction, content) {
-  const url = `${DISCORD_API}/webhooks/${interaction.application_id}/${interaction.token}/messages/@original`;
+  const url =
+    `${DISCORD_API}/webhooks/${interaction.application_id}/${interaction.token}/messages/@original`;
 
   const response = await fetch(url, {
     method: "PATCH",
@@ -185,12 +246,16 @@ async function editOriginal(interaction, content) {
 
   if (!response.ok) {
     const body = await response.text();
-    throw new Error(`No se pudo editar la respuesta: HTTP ${response.status} ${body}`);
+
+    throw new Error(
+      `No se pudo editar la respuesta: HTTP ${response.status} ${body}`
+    );
   }
 }
 
 async function sendFollowup(interaction, content) {
-  const url = `${DISCORD_API}/webhooks/${interaction.application_id}/${interaction.token}`;
+  const url =
+    `${DISCORD_API}/webhooks/${interaction.application_id}/${interaction.token}`;
 
   const response = await fetch(url, {
     method: "POST",
@@ -205,7 +270,10 @@ async function sendFollowup(interaction, content) {
 
   if (!response.ok) {
     const body = await response.text();
-    throw new Error(`No se pudo enviar follow-up: HTTP ${response.status} ${body}`);
+
+    throw new Error(
+      `No se pudo enviar follow-up: HTTP ${response.status} ${body}`
+    );
   }
 }
 
@@ -222,7 +290,8 @@ async function deliver(interaction, text) {
 async function processCommand(interaction, env) {
   try {
     const progress = await loadProgress(env);
-    const command = String(interaction.data?.name || "").toLowerCase();
+    const command =
+      String(interaction.data?.name || "").toLowerCase();
 
     let text;
 
@@ -262,21 +331,34 @@ async function processCommand(interaction, env) {
 export default {
   async fetch(request, env, ctx) {
     if (request.method === "GET") {
-      return new Response("DD-Y4 Discord Bot OK", { status: 200 });
+      return new Response(
+        "DD-Y4 Discord Bot OK",
+        { status: 200 }
+      );
     }
 
     if (request.method !== "POST") {
-      return new Response("Method Not Allowed", { status: 405 });
+      return new Response(
+        "Method Not Allowed",
+        { status: 405 }
+      );
     }
 
-    const signature = request.headers.get("x-signature-ed25519");
-    const timestamp = request.headers.get("x-signature-timestamp");
+    const signature =
+      request.headers.get("x-signature-ed25519");
+
+    const timestamp =
+      request.headers.get("x-signature-timestamp");
 
     if (!signature || !timestamp) {
-      return new Response("Missing Discord signature", { status: 401 });
+      return new Response(
+        "Missing Discord signature",
+        { status: 401 }
+      );
     }
 
-    const rawBody = await request.clone().arrayBuffer();
+    const rawBody =
+      await request.clone().arrayBuffer();
 
     const valid = await verifyKey(
       rawBody,
@@ -286,7 +368,10 @@ export default {
     );
 
     if (!valid) {
-      return new Response("Bad request signature", { status: 401 });
+      return new Response(
+        "Bad request signature",
+        { status: 401 }
+      );
     }
 
     const interaction = await request.json();
@@ -297,7 +382,10 @@ export default {
       });
     }
 
-    if (interaction.type !== InteractionType.APPLICATION_COMMAND) {
+    if (
+      interaction.type !==
+      InteractionType.APPLICATION_COMMAND
+    ) {
       return jsonResponse(
         {
           type: 4,
@@ -309,10 +397,15 @@ export default {
         200
       );
     }
-    ctx.waitUntil(processCommand(interaction, env));
+
+    ctx.waitUntil(
+      processCommand(interaction, env)
+    );
 
     return jsonResponse({
-      type: InteractionResponseType.DEFERRED_CHANNEL_MESSAGE_WITH_SOURCE
+      type:
+        InteractionResponseType
+          .DEFERRED_CHANNEL_MESSAGE_WITH_SOURCE
     });
   }
 };

@@ -2,62 +2,61 @@ name: Rebuild progress assets
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
     paths:
-      - 'data/**/*.po'
-      - 'texturas/original/**/*.dds'
-      - 'texturas/traducidas/**/*.dds'
-      - 'texturas/progreso.json'
-      - 'README.md'
-      - '.github/workflows/rebuild-progress-assets.yml'
-      - 'tools/progress/build_progress_assets.py'
+      - "data/**/*.po"
+      - "texturas/**/*.dds"
+      - "texturas/progreso.json"
+      - "assets/companion/substories.json"
+      - "assets/companion/file_tags.json"
+      - "assets/companion/hidden_lines.json"
+      - "scripts/build_bot_progress.py"
+      - "tools/progress/build_progress_assets.py"
+      - ".github/workflows/rebuild-progress-assets.yml"
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: rebuild-progress-assets-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
-  rebuild-progress:
+  build:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - uses: actions/setup-python@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-      - name: Generate progress assets
-        run: python -u tools/progress/build_progress_assets.py
-      - name: Update README progress section
+          python-version: "3.12"
+
+      - name: Rebuild existing progress assets
+        run: python tools/progress/build_progress_assets.py
+
+      - name: Rebuild Discord bot progress
+        run: python scripts/build_bot_progress.py
+
+      - name: Commit generated progress
         shell: bash
         run: |
-          python - <<'PY'
-          from pathlib import Path
-          readme_path = Path('README.md')
-          progress = Path('assets/progress/readme_progress.md').read_text(encoding='utf-8').strip()
-          readme = readme_path.read_text(encoding='utf-8')
-          start, end = '<!-- PROGRESS_SECTION_START -->', '<!-- PROGRESS_SECTION_END -->'
-          a, b = readme.find(start), readme.find(end)
-          if a < 0 or b < a: raise SystemExit('No se encontraron los marcadores del README')
-          readme_path.write_text(readme[:a] + f'{start}\n{progress}\n{end}' + readme[b+len(end):], encoding='utf-8')
-          PY
-      - name: Add texture badge to README
-        shell: bash
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          path = Path('README.md'); text = path.read_text(encoding='utf-8')
-          badge = '![Texturas](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Kcat-art/DD-Y4-es419-translation/main/assets/progress/texture_badge.json)'
-          review = '![Revisión](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Kcat-art/DD-Y4-es419-translation/main/assets/progress/review_badge.json)'
-          if badge not in text: text = text.replace(review, review + '\n' + badge)
-          path.write_text(text, encoding='utf-8')
-          PY
-      - name: Commit generated assets
-        shell: bash
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/progress README.md
-          git diff --cached --quiet && exit 0
-          git commit -m 'Update progress assets'
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md assets/progress assets/bot/progress.json
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios de progreso."
+            exit 0
+          fi
+
+          git commit -m "chore: actualizar progreso [skip ci]"
           git push

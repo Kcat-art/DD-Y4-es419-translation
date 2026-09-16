@@ -1,7 +1,7 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "repository": "Kcat-art/DD-Y4-es419-translation",
-  "generated_at": "2026-09-16T01:51:13.943691+00:00",
+  "generated_at": "2026-09-16T03:19:01.893785+00:00",
   "subhistorias": [
     {
       "files": 16,
@@ -903,7 +903,80 @@
     "pct_translated": 81.67,
     "pct_reviewed": 3.71,
     "name": "Hostess",
-    "missing_files": []
+    "missing_files": [],
+    "individual_metric": "speaker_lines",
+    "individual": [
+      {
+        "name": "Rio",
+        "files": 1,
+        "total": 720,
+        "translated": 678,
+        "reviewed": 8,
+        "hidden": 0,
+        "pct_translated": 94.17,
+        "pct_reviewed": 1.11
+      },
+      {
+        "name": "Himeka Kawasaki",
+        "files": 1,
+        "total": 743,
+        "translated": 113,
+        "reviewed": 3,
+        "hidden": 0,
+        "pct_translated": 15.21,
+        "pct_reviewed": 0.4
+      },
+      {
+        "name": "Shizuka",
+        "files": 1,
+        "total": 813,
+        "translated": 804,
+        "reviewed": 6,
+        "hidden": 0,
+        "pct_translated": 98.89,
+        "pct_reviewed": 0.74
+      },
+      {
+        "name": "Noa Mizutani",
+        "files": 7,
+        "total": 708,
+        "translated": 704,
+        "reviewed": 5,
+        "hidden": 0,
+        "pct_translated": 99.44,
+        "pct_reviewed": 0.71
+      },
+      {
+        "name": "Erena Aihara",
+        "files": 1,
+        "total": 748,
+        "translated": 364,
+        "reviewed": 2,
+        "hidden": 0,
+        "pct_translated": 48.66,
+        "pct_reviewed": 0.27
+      },
+      {
+        "name": "Chihiro Ikki",
+        "files": 1,
+        "total": 595,
+        "translated": 595,
+        "reviewed": 1,
+        "hidden": 0,
+        "pct_translated": 100.0,
+        "pct_reviewed": 0.17
+      },
+      {
+        "name": "Maya Mori",
+        "files": 1,
+        "total": 559,
+        "translated": 559,
+        "reviewed": 57,
+        "hidden": 0,
+        "pct_translated": 100.0,
+        "pct_reviewed": 10.2
+      }
+    ]
   },
   "historia": {
     "files": 897,
@@ -30827,6 +30900,49 @@
       "uid00a0002a.po",
       "uid00010505.po",
       "uid00ee0105.po"
+    ],
+    "protagonist_metric": "speaker_lines",
+    "protagonistas": [
+      {
+        "name": "Akiyama",
+        "files": 94,
+        "total": 932,
+        "translated": 853,
+        "reviewed": 44,
+        "hidden": 0,
+        "pct_translated": 91.52,
+        "pct_reviewed": 4.72
+      },
+      {
+        "name": "Saejima",
+        "files": 133,
+        "total": 878,
+        "translated": 725,
+        "reviewed": 190,
+        "hidden": 0,
+        "pct_translated": 82.57,
+        "pct_reviewed": 21.64
+      },
+      {
+        "name": "Tanimura",
+        "files": 176,
+        "total": 2001,
+        "translated": 1954,
+        "reviewed": 31,
+        "hidden": 0,
+        "pct_translated": 97.65,
+        "pct_reviewed": 1.55
+      },
+      {
+        "name": "Kiryu",
+        "files": 109,
+        "total": 1687,
+        "translated": 1225,
+        "reviewed": 59,
+        "hidden": 0,
+        "pct_translated": 72.61,
+        "pct_reviewed": 3.5
+      }
     ]
   }
 }

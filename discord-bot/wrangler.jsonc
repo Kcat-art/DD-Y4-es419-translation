@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "dd-y4-discord-bot",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-15",
+  "vars": {
+    "PROGRESS_URL": "https://raw.githubusercontent.com/Kcat-art/DD-Y4-es419-translation/main/assets/bot/progress.json"
+  }
+}

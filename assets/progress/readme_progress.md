@@ -2,8 +2,8 @@
 
 **Traducción global:** 93622/104382 (89,69%)
 **Revisión global:** 14068/104382 (13,48%)
-**Texturas:** 1220/1648 (74,03%)
-**Progreso global:** 51,76%
+**Texturas:** 1291/1648 (78,34%)
+**Progreso global:** 51,79%
 
 | Área | Traducción | Revisión |
 |---|---:|---:|

@@ -17,6 +17,9 @@ msgstr ""
 "X-Crowdin-File-ID: 58332\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
+#. y4:file_status=translated
+#. y4:last_translator=Crazy56
+#. y4:last_reviewer=Crazy56
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=00020227
 #. y4:runtime_group_count=2
@@ -24,26 +27,27 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_MONITOR.bin
 #. y4:runtime_play_command=y4.play_msg 00020227 <group>
 
-
-
+#. y4:line_status=reviewed
+#. y4:translated_by=Crazy56
+#. y4:reviewed_by=Crazy56
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "524"
 msgid "The Florist"
-msgstr "El florista"
+msgstr "Florista"
 
+#. y4:line_status=translated
 msgctxt "528"
 msgid "Talk_Yes"
 msgstr "Talk_Yes"
 
+#. y4:line_status=translated
 msgctxt "72_The Florist"
-msgid "At the moment, the whole city is crawling with cops.\\r\n"
-"Lay low in your hideout until things calm down."
-msgstr "Por el momento, toda la ciudad está repleta de policías.\\r\n"
-"Acuéstese en su escondite hasta que las cosas se calmen."
+msgid "At the moment, the whole city is crawling with cops.\\r\nLay low in your hideout until things calm down."
+msgstr "Por el momento, toda la ciudad está repleta de policías.\\r\nAcuéstese en su escondite hasta que las cosas se calmen."
 
+#. y4:line_status=translated
 msgctxt "84_The Florist"
-msgid "Good thing you're big enough to lift a manhole cover.\\r\n"
-"Use the tunnels to move freely beneath the streets."
-msgstr "Lo bueno es que eres lo suficientemente grande como para levantar una tapa de alcantarilla.\\r\n"
-"Usa los túneles para moverte libremente debajo de las calles."
+msgid "Good thing you're big enough to lift a manhole cover.\\r\nUse the tunnels to move freely beneath the streets."
+msgstr "Lo bueno es que eres lo suficientemente grande como para levantar una tapa de alcantarilla.\\r\nUsa los túneles para moverte libremente debajo de las calles."
+

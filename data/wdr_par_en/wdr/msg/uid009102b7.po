@@ -18,6 +18,7 @@ msgstr ""
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
 #. y4:file_status=translated
+#. y4:last_translator=Karu
 #. y4:last_reviewer=Karu
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=009102B7
@@ -784,7 +785,9 @@ msgctxt "2420_Player"
 msgid "Yes."
 msgstr "Sí."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Karu
+#. y4:reviewed_by=Karu
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -793,5 +796,5 @@ msgstr "Sí."
 #. y4:msg_branch_target=T6.P1
 msgctxt "2432_Player"
 msgid "Maybe next time."
-msgstr "Quizá la próxima vez."
+msgstr "Mejor en otra ocasión"
 

@@ -18,7 +18,7 @@ msgstr ""
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
 #. y4:file_status=untranslated
-#. y4:last_translator=Kcat0
+#. y4:last_translator=Crazy56
 #. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01EE00C1
@@ -412,45 +412,53 @@ msgctxt "1116_Player"
 msgid "(What game should I play?)"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 msgctxt "1128_Rio"
 msgid "Okay, let's play Count-Up."
-msgstr ""
+msgstr "De acuerdo, juguemos al Count-Up."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 msgctxt "1140_Rio"
 msgid "Okay, let's play '01 Game 301."
-msgstr ""
+msgstr "De acuerdo, juguemos al 301."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 msgctxt "1152_Rio"
 msgid "Okay, let's play '01 Game 501."
-msgstr ""
+msgstr "De acuerdo, juguemos al 501."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 msgctxt "1164_Rio"
 msgid "Okay, let's play '01 Game 701."
-msgstr ""
+msgstr "De acuerdo, juguemos al 701."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 msgctxt "1176_Rio"
 msgid "Okay, let's play '01 Game 901."
-msgstr ""
+msgstr "De acuerdo, juguemos al 901."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 msgctxt "1188_Rio"
 msgid "Okay, let's play Standard Cricket."
-msgstr ""
+msgstr "De acuerdo, juguemos al cricket estándar."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 msgctxt "1200_Rio"
 msgid "Okay, let's play Random Cricket."
-msgstr ""
+msgstr "De acuerdo, juguemos al cricket aleatorio."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 msgctxt "1212_Rio"
 msgid "Okay, let's play Hidden Cricket."
-msgstr ""
+msgstr "De acuerdo, juguemos al cricket oculto."
 
 #. y4:line_status=todo
 msgctxt "1236_Rio"
@@ -587,7 +595,8 @@ msgctxt "2160_Rio"
 msgid "Count-Up"
 msgstr "Count-up"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -596,9 +605,10 @@ msgstr "Count-up"
 #. y4:msg_branch_target=T1.P42
 msgctxt "2172_Rio"
 msgid "'01 Game 301"
-msgstr ""
+msgstr "301"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -607,9 +617,10 @@ msgstr ""
 #. y4:msg_branch_target=T1.P43
 msgctxt "2184_Rio"
 msgid "'01 Game 501"
-msgstr ""
+msgstr "501"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -618,9 +629,10 @@ msgstr ""
 #. y4:msg_branch_target=T1.P44
 msgctxt "2196_Rio"
 msgid "'01 Game 701"
-msgstr ""
+msgstr "701"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -629,9 +641,10 @@ msgstr ""
 #. y4:msg_branch_target=T1.P45
 msgctxt "2208_Rio"
 msgid "'01 Game 901"
-msgstr ""
+msgstr "901"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -640,9 +653,10 @@ msgstr ""
 #. y4:msg_branch_target=T1.P46
 msgctxt "2220_Rio"
 msgid "Standard Cricket"
-msgstr ""
+msgstr "Cricket estándar"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -651,9 +665,10 @@ msgstr ""
 #. y4:msg_branch_target=T1.P47
 msgctxt "2232_Rio"
 msgid "Random Cricket"
-msgstr ""
+msgstr "Cricket aleatorio"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 #. y4:msg_role=decision
 #. y4:msg_decision_role=choice
 #. y4:msg_decision_group=0
@@ -662,7 +677,7 @@ msgstr ""
 #. y4:msg_branch_target=T1.P48
 msgctxt "2244_Rio"
 msgid "Hidden Cricket"
-msgstr ""
+msgstr "Cricket oculto"
 
 #. y4:line_status=reviewed
 #. y4:translated_by=Kcat0

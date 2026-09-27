@@ -17,8 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 59394\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
-#. y4:file_status=untranslated
-#. y4:last_translator=Kcat0
+#. y4:file_status=translated
+#. y4:last_translator=Crazy56
 #. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=018300A7
@@ -27,30 +27,35 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_MG_DARTS_02.bin
 #. y4:runtime_play_command=y4.play_msg 018300A7 <group>
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 msgctxt "56"
 msgid "How to Play Hidden Cricket:"
-msgstr ""
+msgstr "Como jugar cricket oculto."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 msgctxt "68"
 msgid "Unlike standard cricket, hidden cricket uses seven hidden numbers."
-msgstr ""
+msgstr "A diferencia del cricket estándar, el cricket oculto se juega con siete números ocultos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 msgctxt "80"
 msgid "The seven numbers are hidden at the start of the game, and are not revealed until they are hit by a player."
-msgstr ""
+msgstr "Al iniciar una partida los siete números se encuentran ocultos y no se revelan hasta que un jugador acierte en ellos."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 msgctxt "92"
 msgid "Players who reveal a hidden number by hitting it for the first time receive an open bonus."
-msgstr ""
+msgstr "El jugador que revele un número oculto al acertar por primera vez, recibirá un bonus por abrirlo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 msgctxt "104"
 msgid "Hitting numbers in the single ring counts as one hit, the double ring as two hits, and the triple ring as three hits."
-msgstr ""
+msgstr "Acertar en la zona simple cuenta como un acierto, en el anillo de dobles como dos aciertos y en el anillo de triples como tres aciertos."
 
 #. y4:line_status=translated
 msgctxt "116"
@@ -69,10 +74,11 @@ msgctxt "140"
 msgid "However, if your opponent closes that number as well, you will no longer get points when you hit it."
 msgstr "Sin embargo, si tu oponente también cierra ese número, ya no podrás ganar puntos cuando lo aciertes."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Crazy56
 msgctxt "152"
 msgid "The player with the highest score at the end of the allotted number of rounds wins."
-msgstr ""
+msgstr "Ganará el jugador que tenga la puntuación más alta al final del número de rondas establecido."
 
 #. y4:line_status=translated
 msgctxt "164"

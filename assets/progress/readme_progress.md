@@ -1,9 +1,9 @@
 ## Progreso del proyecto
 
 **Traducción global:** 93660/104382 (89,73%)
-**Revisión global:** 16825/104382 (16,12%)
+**Revisión global:** 16902/104382 (16,19%)
 **Texturas:** 1508/1648 (91,50%)
-**Progreso global:** 53,23%
+**Progreso global:** 53,26%
 
 | Área | Traducción | Revisión |
 |---|---:|---:|

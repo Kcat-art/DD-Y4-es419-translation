@@ -17,8 +17,10 @@ msgstr ""
 "X-Crowdin-File-ID: 58378\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
-#. y4:file_status=translated
-#. y4:last_reviewer=Karu
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Karu2nd
+#. y4:last_translator=Karu2nd
+#. y4:last_reviewer=Karu2nd
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01A4015F
 #. y4:runtime_group_count=1
@@ -26,12 +28,14 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_SUSHI.bin
 #. y4:runtime_play_command=y4.play_msg 01A4015F <group>
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Karu2nd
+#. y4:reviewed_by=Karu2nd
 #. y4:msg_role=name
 #. y4:msg_name_id=0
 msgctxt "2220"
 msgid "Owner"
-msgstr "Propietario"
+msgstr "Maestro sushi"
 
 #. y4:line_status=translated
 msgctxt "2224"
@@ -61,53 +65,72 @@ msgctxt "2240"
 msgid "Talk_Think"
 msgstr "Talk_Think"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Karu2nd
+#. y4:reviewed_by=Karu2nd
 msgctxt "56_Owner"
 msgid "Hi, welcome! Ah, if it isn't Akiyama-san."
-msgstr "¡Hola, bienvenido! Ah, pues sí es Akiyama-san."
+msgstr "¡Hola, bienvenido! Ey, pero si es Akiyama-san."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Karu2nd
+#. y4:reviewed_by=Karu2nd
 msgctxt "68_Akiyama"
 msgid "Hi there. I think you got a call from Hana-chan, right? So\\r\nhow did Shoko-san do?"
-msgstr "Buenas. Creo que Hana-chan te llamó, ¿cierto? Así que,\\r\n¿qué comió Shoko-san?"
+msgstr "Buenas. Creo que Hana-chan te llamó, ¿verdad?\n¿Qué tal le fue a Shoko-san?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Karu2nd
+#. y4:reviewed_by=Karu2nd
 msgctxt "80_Owner"
 msgid "I have some great tuna today, so I recommended the otoro.\\r\nBut wouldn't you know it? All she ate was the daily special\\r\nbefore going on her way."
-msgstr "Hoy tengo un atún exquisito, así que, se lo recomendé que comiera otoro.\\r\nPero apuesto que no lo adivinas. Lo único que comió fue el menú del día\\r\ny se fue."
+msgstr "Ah, el atún de hoy era exquisito, así que le recomendé que comiera otoro. Lo raro aquí es que solo se pidió el menú del día. Luego de eso, se fue."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Karu2nd
+#. y4:reviewed_by=Karu2nd
 msgctxt "92_Akiyama"
 msgid "How much is the special?"
-msgstr "¿Cuánto cuesta el menú del día?"
+msgstr "¿Cuánto cuesta ese menú?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Karu2nd
 msgctxt "104_Owner"
 msgid "980 yen."
 msgstr "980 yenes."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Karu2nd
+#. y4:reviewed_by=Karu2nd
 msgctxt "116_Akiyama"
 msgid "Wow, cheap! Can I have one?"
-msgstr "¡Wow, qué barato! ¿Me puedo pedir uno?"
+msgstr "¡¡Pero qué barato!! ¡Yo también quiero uno!"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Karu2nd
+#. y4:reviewed_by=Karu2nd
 msgctxt "128_Owner"
 msgid "All sold out, I'm afraid. But, you know, she was a little\\r\noff today. She usually only eats uni, awabi－you know, the\\r\npricey stuff. What's going on?"
-msgstr "Me temo que ya se acabaron. Pero, sabes, estaba un poco rara\\r\nhoy. Siempre se pide uni, awabi - ya sabes, las\\r\ncosas caras. ¿Le pasa algo?"
+msgstr "Me temo que ya se acabaron. Pero sabe, esa chica estaba rara hoy. Usualmente solo come uni, awabi, ya sabes, las cosas caras. ¿Le estará pasando algo?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Karu2nd
+#. y4:reviewed_by=Karu2nd
 msgctxt "140_Akiyama"
 msgid "Hmm. So I guess she hasn't touched that million yen, then."
-msgstr "Mmm. Así que supongo que no ha tocado el millón de yenes."
+msgstr "Mmm, ya veo. Supongo que aún no ha tocado el millón de yenes."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Karu2nd
+#. y4:reviewed_by=Karu2nd
 msgctxt "152_Owner"
 msgid "Wait, what? When Hana-chan told me to make her spend\\r\nmoney... Hey, is this another one of your tests?"
-msgstr "Espera, ¿qué? Entonces cuándo Hana-chan me pidió que la hiciera\\r\ngastar dinero... Oye, ¿es esto otra de tus \"pruebas\"?"
+msgstr "¿Qué? Entonces, cuando me pidieron que le hiciera gastar dinero... Un momento, ¿no será esto otra de tus \"pruebas\"?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Karu2nd
+#. y4:reviewed_by=Karu2nd
 msgctxt "164_Akiyama"
 msgid "Something like that. Thanks for your help. I'll have to drop\\r\nby again soon."
-msgstr "Algo así. Gracias por su ayuda. Ya vendré\\r\nen otra ocasión."
+msgstr "Algo así. Gracias por su ayuda. Ya vendré en otra ocasión."
 

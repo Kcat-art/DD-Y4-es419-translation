@@ -16,10 +16,11 @@ msgstr ""
 #. y4:runtime_pac_names=pac_STID_ST_BILLIARDS.bin
 #. y4:runtime_play_command=y4.play_msg 00EE02A6 <group>
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "1064"
 msgid "You used a <Color:8>Pool Coupon<Color:Default>."
-msgstr ""
+msgstr "Has usado un <Color:8>Cupon de billar<Color:Default>."
 
 #. y4:line_status=translated
 #. y4:msg_role=decision
@@ -195,38 +196,44 @@ msgctxt "29452"
 msgid "Talk_Smile"
 msgstr "Talk_Smile"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "416_Bartender"
 msgid "One game of pool costs 800 yen."
-msgstr ""
+msgstr "Una partida de billar son 800 yenes."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "440_Haruka"
 msgid "Uncle Kaz! Can you clear beginner level four-ball by getting two points in a row more than once? It sounds complicated, but I bet you could do it!"
-msgstr ""
+msgstr "¡Tío Kaz! ¿Puedes hacer el nivel principiante de cuatro bolas consiguiendo dos puntos seguidos más de una vez? Suena complicado, pero ¡seguro que tú puedes!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=0
 msgctxt "452_Kiryu"
 msgid "(Clear beginner four-ball by getting two consecutive points more than once... Should I give it a go?)"
-msgstr ""
+msgstr "(Debo completar el nivel principiante de cuatro bolas consiguiendo dos puntos consecutivos más de una vez... ¿Lo intento?)"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "476_Bartender"
 msgid "I'm sorry, sir, but... you don't have enough money. Please come back when you do."
-msgstr ""
+msgstr "Lo siento, señor. Pero... No tiene el dinero suficiente. Vuelva cuando tenga el suficiente, por favor."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "488_Haruka"
 msgid "Aww, I really wanted to watch you play pool..."
-msgstr ""
+msgstr "Aww, quería verte jugar al billar..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "500_Bartender"
 msgid "Very good, sir. Enjoy your game."
-msgstr ""
+msgstr "Muy bien, señor. Disfrute su partida."
 
 #. y4:line_status=translated
 msgctxt "512_Haruka"
@@ -238,38 +245,44 @@ msgctxt "536_Bartender"
 msgid "I see. Please come again."
 msgstr "Entiendo. Por favor, vuelva pronto."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "548_Haruka"
 msgid "Aww, I really wanted to watch you play pool..."
-msgstr ""
+msgstr "Aww, quería verte jugar al billar..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "560_Haruka"
 msgid "Uncle Kaz, can you clear a nine-ball game without making a foul? I bet you could! Can I watch you do it?"
-msgstr ""
+msgstr "Tío Kaz, ¿puedes hacer la partida de nueve bolas sin hacer faltas? ¡Apuesto que sí! ¿Puedo verte haciéndolo?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 #. y4:msg_role=decision
 #. y4:msg_decision_role=prompt
 #. y4:msg_decision_group=1
 msgctxt "572_Kiryu"
 msgid "(Clear a nine-ball game without fouling... Could be tough. Should I give it a try?)"
-msgstr ""
+msgstr "(Debo hacer nueve bolas sin fallar... Esto será complicado. ¿Lo intento?)"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "596_Bartender"
 msgid "I'm sorry, sir, but... you don't have enough money. Please come back when you do."
-msgstr ""
+msgstr "Lo siento, señor. Pero... No tiene el dinero suficiente. Vuelva cuando tenga el suficiente, por favor."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "608_Haruka"
 msgid "Aww, I really wanted to watch you play pool..."
-msgstr ""
+msgstr "Aww, quería verte jugar al billar..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "620_Bartender"
 msgid "Very good, sir. Enjoy your game."
-msgstr ""
+msgstr "Muy bien, señor. Disfrute su partida."
 
 #. y4:line_status=translated
 msgctxt "632_Haruka"
@@ -281,10 +294,11 @@ msgctxt "656_Bartender"
 msgid "I see. Please come again."
 msgstr "Entiendo. Por favor, vuelva pronto."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "668_Haruka"
 msgid "Aww, I really wanted to watch you play pool..."
-msgstr ""
+msgstr "Aww, quería verte jugar al billar..."
 
 #. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
@@ -305,10 +319,11 @@ msgctxt "716_Erena"
 msgid "That was so much fun! Ask me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
 msgstr "¡Eso fue muy divertido! Tenemos que salir otra vez, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "728_Himeka"
 msgid "That was really fun. ♪ Ask me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
-msgstr ""
+msgstr "¡La pasé genial! ♪ Invítame otra vez, ¿sí? <Color:255,200,200,255>♥<Color:Default>"
 
 #. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
@@ -555,20 +570,23 @@ msgctxt "1976_Bartender"
 msgid "Sorry if you waited long. <Color:7>♥<Color:Default> You're so spontaneous, %s-san!"
 msgstr "Lo siento si me esperaste mucho. <Color:7>♥<Color:Default> ¡Eres tan espontáneo, %s-san!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "1988_Player"
 msgid "You okay to be here?"
-msgstr ""
+msgstr "¿Estas bien? "
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "2000_Erena"
 msgid "Hehehe. <Color:7>♥<Color:Default> Oh, for sure. I just finished an after-hours date. I'm totally fine."
-msgstr ""
+msgstr "Je, je, je. <Color:7>♥<Color:Default> Oh, sí, Kiryu-san. Pasa que terminé una cita fuera del horario. Pero estoy bien. "
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "2012_Bartender"
 msgid "Anyway, let's do this!"
-msgstr ""
+msgstr "En fin, ¡vamos a hacerlo!"
 
 #. y4:line_status=translated
 msgctxt "2024_Employee"
@@ -580,10 +598,11 @@ msgctxt "2048_Bartender"
 msgid "(Let's see if Chihiro's interested.)"
 msgstr "(Veamos si Chihiro está interesada.)"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "2132_Bartender"
 msgid "Sorry if you waited long. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "Siento si me esperaste mucho.<Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "2144_Player"
@@ -610,10 +629,11 @@ msgctxt "2204_Bartender"
 msgid "(Let's see if Hiyori is interested.)"
 msgstr "(Veamos si Hiyori está interesada.)"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "2288_Bartender"
 msgid "Sorry if you waited long. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "Siento si me esperaste mucho.<Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "2300_Player"
@@ -640,10 +660,11 @@ msgctxt "2360_Bartender"
 msgid "(Let's see if Kyoko is interested.)"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "2444_Bartender"
 msgid "Sorry if you waited long. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "Siento si me esperaste mucho.<Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "2456_Player"
@@ -670,10 +691,11 @@ msgctxt "2516_Bartender"
 msgid "(Let's see if Nanami is interested.)"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "2600_Bartender"
 msgid "Sorry if you waited long. <Color:7>♥<Color:Default>"
-msgstr ""
+msgstr "Siento si me esperaste mucho.<Color:7>♥<Color:Default>"
 
 #. y4:line_status=translated
 msgctxt "2612_Player"

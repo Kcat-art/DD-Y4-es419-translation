@@ -6,9 +6,9 @@
 - Archivos duplicados agrupados: 181
 - Grupos con duplicados: 121
 - Completadas: 1457
-- Traducidas: 637
-- Marcadas como listas (no requieren traducción): 858
-- Revisadas y testeadas: 1440
+- Traducidas: 638
+- Marcadas como listas (no requieren traducción): 857
+- Revisadas y testeadas: 1439
 - Pendientes: 11
 - Progreso de traducción/listas: 99.25%
-- Progreso de revisión: 98.09%
+- Progreso de revisión: 98.02%

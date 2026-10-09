@@ -60,52 +60,64 @@ msgctxt "0\t557\t6\tCHK"
 msgid "You cannot turn back from this point. It is recommended to not overwrite the Save Data and create a new file. Do you want to save?"
 msgstr "A partir de aquí no podrás volver atrás. Se recomienda no sobrescribir los datos de guardado y crear un nuevo archivo. ¿Desea guardar?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t688\t7\tCHK"
 msgid "You will create data that will be used for the newly unlocked post-clear mode. This will save all elements, but if you begin a \"New Game using Clear Data,\" then elements such as substory progression will not be saved. It is recommended to create a new Save Data. Please be aware of this when overwriting an existing Save Data. Save this Clear Data?"
-msgstr "Crearás datos que se utilizarán para el nuevo modo desbloqueado tras completar el juego. Esto guardará todos los elementos, pero si empiezas una \"Nueva partida usando los datos de una partida finalizada\", entonces elementos como el progreso de las subhistorias no se guardarán. Se recomienda crear nuevos datos de guardado. Por favor, ten esto en cuenta cuando sobrescribas cualquier dato guardado existente. ¿Guardar estos datos de partida finalizada?"
+msgstr "Crearás datos que se utilizarán para el nuevo modo tras completar el juego. Esto guardará todos los objetos, pero si empiezas una \"Nueva partida usando los datos de una partida finalizada\", entonces elementos como el progreso de las subhistorias no se guardarán. Se recomienda crear nuevos datos de guardado. Por favor, ten esto en cuenta cuando sobrescribas cualquier dato guardado existente. ¿Guardar estos datos de partida terminada?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1037\t8\tCHK"
 msgid "Received \"Gion Bell\" as a present."
-msgstr "Recibiste \"campana gion\" como regalo."
+msgstr "Recibiste \"campana Gion\" como regalo."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1072\t9\tCHK"
 msgid "No new updates found."
 msgstr "No se encontraron nuevas actualizaciones."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1094\t10\tCHK"
 msgid "Update canceled."
 msgstr "Actualización cancelada."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1111\t11\tCHK"
 msgid "An error occurred."
 msgstr "Se ha producido un error."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1130\t12\tCHK"
 msgid "Failed to acquire trophy."
 msgstr "Error al adquirir el trofeo."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1156\t13\tCHK"
 msgid "A trophy error occurred."
 msgstr "Ha ocurrido un error con el trofeo."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1181\t14\tCHK"
 msgid "Save completed."
 msgstr "Guardado exitoso."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1197\t15\tCHK"
 msgid "New System Data"
 msgstr "Nuevos datos del sistema"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1213\t16\tCHK"
 msgid "New Save Data"
 msgstr "Nuevos datos de guardado"
@@ -146,20 +158,24 @@ msgctxt "0\t1286\t22\tCHK"
 msgid "Cancel saving?"
 msgstr "¿Cancelar el guardado?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1301\t23\tCHK"
 msgid "Cancel loading?"
 msgstr "¿Cancelar la carga?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1317\t24\tCHK"
 msgid "Load completed."
 msgstr "Cargado exitoso."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1333\t25\tCHK"
 msgid "Save Data"
-msgstr "Guardar datos"
+msgstr "Datos guardados"
 
 #. y4:line_status=translated
 msgctxt "0\t1343\t26\tCHK"
@@ -406,62 +422,74 @@ msgctxt "0\t2732\t74\tCHK"
 msgid "Akiyama ${value1} people vs Hana-chan ${value2} people"
 msgstr "Akiyama ${value1} personas vs Hana-chan ${value2} personas"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2787\t75\tCHK"
 msgid "${value}Y"
 msgstr "${value}Y"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2797\t76\tCHK"
 msgid "${value}pt"
 msgstr "${value}pt"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2808\t77\tCHK"
 msgid "Hole ${value}"
 msgstr "Hoyo ${value}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2822\t78\tCHK"
 msgid "Par ${value}"
 msgstr "Par ${value}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2835\t79\tCHK"
 msgid "＋${value}"
 msgstr "＋${value}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2847\t80\tCHK"
 msgid "－${value}"
 msgstr "－${value}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2859\t81\tCHK"
 msgid "Chairman of the Hakuho Clan, a Tojo Clan Subsidiary\nYoshitaka Mine"
 msgstr "Líder del clan Hakuho, filial del Clan Tojo,\nYoshitaka Mine"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2926\t82\tCHK"
 msgid "Patriarch of the Hamazaki Family, a Tojo Clan Subsidiary\nGoh Hamazaki"
 msgstr "Patriarca de la familia Hamazaki, filial del Clan Tojo,\nGoh Hamazaki"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2996\t83\tCHK"
 msgid "Third Patriarch of the Nishikiyama Family, a Tojo Clan Subsidiary\nTsuyoshi Kanda"
 msgstr "Tercer patriarca de la familia Nishikiyama, filial del Clan Tojo,\nTsuyoshi Kanda"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t3077\t84\tCHK"
 msgid "Tojo Clan Captain and Second Patriarch of the Kazama Family, a Tojo Clan Subsidiary\nOsamu Kashiwagi"
 msgstr "Capitán del Clan Tojo y segundo patriarca de la familia Kazama, filial del Clan Tojo,\nOsamu Kashiwagi"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t3177\t85\tCHK"
 msgid "Patriarch of the Majima Family, a Tojo Clan Subsidiary\nGoro Majima"
 msgstr "Patriarca de la familia Majima, filial del Clan Tojo,\nGoro Majima"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t3244\t86\tCHK"
 msgid "Sixth Chairman of the Tojo Clan\nDaigo Dojima"
 msgstr "Sexto presidente del Clan Tojo,\nDaigo Dojima"
@@ -511,57 +539,68 @@ msgctxt "0\t3636\t95\tCHK"
 msgid "Not submitted"
 msgstr "No enviado"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t3650\t96\tCHK"
 msgid "Save"
 msgstr "Guardar"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t3655\t97\tCHK"
 msgid "Change Clothes"
 msgstr "Cambiar atuendo"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t3670\t98\tCHK"
 msgid "Change Name"
 msgstr "Cambiar nombre"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t3682\t99\tCHK"
 msgid "Save ${value}"
 msgstr "Guardar ${value}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t3696\t100\tCHK"
 msgid "  ${value}"
 msgstr "  $${value}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t3707\t101\tSUS"
 msgid "   ∞"
 msgstr "   ∞"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t3714\t102\tSUS"
 msgid "▲${value}"
 msgstr "▲${value}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t3726\t103\tSUS"
 msgid "▼${value}"
 msgstr "▼${value}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t3738\t104\tCHK"
 msgid "-"
 msgstr "-"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t3740\t105\tCHK"
 msgid "－"
 msgstr "－"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t3744\t106\tCHK"
 msgid "x${value}"
 msgstr "x${value}"

@@ -177,117 +177,144 @@ msgctxt "0\t1333\t25\tCHK"
 msgid "Save Data"
 msgstr "Datos guardados"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1343\t26\tCHK"
 msgid "${title}\nPlay time: ${hour}:${min}:${sec}\nNumber of saves: ${save} times\nNumber of continues: ${continue} times\nDifficulty: ${difficulty}\n${hint}"
-msgstr "Datos de partida finalizada\nTiempo: ${hour}:${min}:${sec}\nGuardaste partida: ${save} veces\nVeces que continuaste: ${continue} veces\nDificultad: ${difficulty}"
+msgstr "Datos de partida terminada\nTiempo: ${hour}:${min}:${sec}\nGuardaste partida: ${save} veces\nVeces que continuaste: ${continue} veces\nDificultad: ${difficulty}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1489\t27\tCHK"
 msgid "Clear Data\nClear time: ${hour}:${min}:${sec}\nNumber of saves: ${save} times\nNumber of continues: ${continue} times\nDifficulty: ${difficulty}"
-msgstr "Datos de partida finalizada\nTiempo: ${hour}:${min}:${sec}\nGuardaste partida: ${save} veces\nVeces que continuaste: ${continue} veces\nDificultad: ${difficulty}"
+msgstr "Datos de partida terminada\nTiempo: ${hour}:${min}:${sec}\nGuardaste partida: ${save} veces\nVeces que continuaste: ${continue} veces\nDificultad: ${difficulty}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1630\t28\tCHK"
 msgid "Premium Adventure\nPlay time: ${hour}:${min}:${sec}\nNumber of saves: ${save} times\nNumber of continues: ${continue} times\n${hint}"
-msgstr "Aventura prémium\nTiempo de juego: ${hour}:${min}:${sec}\nGuardaste partida: ${save} veces\nVeces que continuaste: ${continue} veces\n${hint}"
+msgstr "Aventura prémium\nTiempo jugado: ${hour}:${min}:${sec}\nGuardaste partida: ${save} veces\nVeces que continuaste: ${continue} veces\n${hint}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1759\t29\tCHK"
 msgid "Save Data ${value}"
 msgstr "Dato de guardado n.­° ${value}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1778\t30\tCHK"
 msgid "While in the Premium Adventure"
-msgstr "En la Aventura prémium"
+msgstr "En la aventura prémium"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1809\t31\tCHK"
 msgid "Go where you want to go and do what you want to do."
 msgstr "Eres libre de hacer lo que te plazca."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1861\t32\tCHK"
 msgid "There is no Save Data."
 msgstr "No existen datos de guardado."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1884\t33\tCHK"
 msgid "There is no System Data."
 msgstr "No existen datos del sistema."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1909\t34\tCHK"
 msgid "There is no Clear Data."
 msgstr "No existen datos de partida finalizada."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1933\t35\tCHK"
 msgid "Yakuza 4"
 msgstr "Yakuza 4"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t1942\t36\tCHK"
 msgid "To load this Save Data, you will need to wait for the game to be installed first."
 msgstr "Para cargar estos datos de guardado, primero debes esperar a que finalice la instalación del juego."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2024\t37\tCHK"
 msgid "This Save Data is not compatible with the trial version."
 msgstr "Datos de guardado no compatibles con la versión de prueba."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2081\t38\tCHK"
 msgid "Easy"
 msgstr "Fácil"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2086\t39\tCHK"
 msgid "Normal"
 msgstr "Normal"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2093\t40\tCHK"
 msgid "Hard"
 msgstr "Difícil"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2098\t41\tCHK"
 msgid "Ex-Hard"
 msgstr "Extremo"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2106\t42\tCHK"
 msgid "${value} times"
 msgstr "${value} veces"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2121\t43\tCHK"
 msgid "Name: ${name}"
 msgstr "Nombre: ${name}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2135\t44\tSUS"
 msgid "Stamina: ∞"
 msgstr "Resistencia: ∞"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2148\t45\tCHK"
 msgid "Stamina: ${value}"
 msgstr "Resistencia: ${value}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2166\t46\tCHK"
 msgid "ATK ${value}"
 msgstr "Atq ${value}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2179\t47\tCHK"
 msgid "DEF ${value1} Blades ${value2} Guns ${value3}"
 msgstr "Def ${value1} Armas bl. ${value2} Armas de f. ${value3}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2225\t48\tCHK"
 msgid "Bats/Clubs"
 msgstr "Bates/Palos"
@@ -297,85 +324,104 @@ msgctxt "0\t2236\t49\tCHK"
 msgid "Polearms"
 msgstr "Armas de asta"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2245\t50\tCHK"
 msgid "Blades"
 msgstr "Armas blancas"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2252\t51\tCHK"
 msgid "Hammers"
 msgstr "Martillos"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2260\t52\tCHK"
 msgid "Knuckles"
 msgstr "Manoplas"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2269\t53\tCHK"
 msgid "Tonfa"
 msgstr "Tonfa"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2275\t54\tCHK"
 msgid "Nunchaku"
 msgstr "Nunchaku"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2284\t55\tCHK"
 msgid "Kali Sticks"
 msgstr "Palos kali"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2296\t56\tCHK"
 msgid "Guns"
 msgstr "Armas de fuego"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2301\t57\tCHK"
 msgid "Others"
 msgstr "Otros"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2308\t58\tCHK"
 msgid "Gear"
-msgstr "Equipamiento"
+msgstr "Equipo"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2313\t59\tCHK"
 msgid "Accessories"
 msgstr "Accesorios"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2325\t60\tCHK"
 msgid "${timing}Lv increased"
 msgstr "${timing} Nv. aumentado"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2347\t61\tCHK"
 msgid "${timing}Lv.${value}"
 msgstr "${timing}Nv.${value}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2368\t62\tCHK"
 msgid "${value}%"
 msgstr "${value}%"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2378\t63\tCHK"
 msgid "Completion Rate "
-msgstr "Tiempo de finalización "
+msgstr "Tasa de finalización "
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2395\t64\tCHK"
 msgid "${value}Km"
 msgstr "${value}Km"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2406\t65\tCHK"
 msgid "Match ${match} ${win} Wins ${lose} Losses"
-msgstr "${match} Combates ${win} victorias ${lose} derrotas"
+msgstr "${match} combate(s) ${win} victoria(s) ${lose} derrota(s)"
 
 #. y4:line_status=translated
 msgctxt "0\t2448\t66\tCHK"
@@ -387,22 +433,27 @@ msgctxt "0\t2515\t67\tCHK"
 msgid " Match ? ? Wins ? Losses Win Ratio ?%"
 msgstr " Combates  Victorias  Derrotas ％ de victorias ?%"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2553\t68\tCHK"
 msgid "Completion time ${min}：${sec}：${hmsec}"
-msgstr "Tiempo de finalización ${min}：${sec}：${hmsec}"
+msgstr "Tiempo de terminado ${min}：${sec}：${hmsec}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2596\t69\tCHK"
 msgid "Remaining time ${min}：${sec}：${hmsec}"
 msgstr "Tiempo restante ${min}：${sec}：${hmsec}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2638\t70\tCHK"
 msgid "Total damage ${value}"
 msgstr "Daño total ${value}"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2660\t71\tCHK"
 msgid "${value} hits"
 msgstr "${value} veces"
@@ -412,7 +463,8 @@ msgctxt "0\t2674\t72\tCHK"
 msgid "You can now select ${name} ${index}."
 msgstr "Ahora puedes seleccionar ${index} ${name}."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t2711\t73\tCHK"
 msgid "${value} people left"
 msgstr "${value} personas restantes"
@@ -1108,90 +1160,123 @@ msgctxt "0\t5889\t205\tCHK"
 msgid "Maracas"
 msgstr "Maracas"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t5897\t206\tCHK"
 msgid "MiniMap Size"
 msgstr "Tamaño del Minimapa"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t5910\t207\tCHK"
 msgid "Move Bat Down"
-msgstr "Mover Bate Hacia Abajo"
+msgstr "Mover bate hacia abajo"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t5924\t208\tCHK"
 msgid "Move Bat Left"
-msgstr "Mover Bate Hacia la Izquierda"
+msgstr "Mover bate hacia la izquierda"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t5938\t209\tCHK"
 msgid "Move Bat Right"
-msgstr "Mover Bate Hacia la Derecha"
+msgstr "Mover bate hacia la derecha"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t5953\t210\tCHK"
 msgid "Move Bat Up"
-msgstr "Mover Bate Hacia Arriba"
+msgstr "Mover bate hacia arriba"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t5965\t211\tCHK"
 msgid "Move Camera (Left)"
-msgstr "Mover Cámara (Izquierda)"
+msgstr "Mover cámara (izquierda)"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t5984\t212\tCHK"
 msgid "Move Camera (Right)"
-msgstr "Mover Cámara (Derecha)"
+msgstr "Mover cámara (derecha)"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t6004\t213\tCHK"
 msgid "Move Camera Left"
-msgstr "Mover Cámara a la Izquierda"
+msgstr "Mover cámara a la izquierda"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t6021\t214\tCHK"
 msgid "Move Camera Right"
-msgstr "Mover Cámara a la Derecha"
+msgstr "Mover cámara a la derecha"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t6039\t215\tCHK"
 msgid "Move Crane"
-msgstr "Mover Garra"
+msgstr "Mover garra"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t6050\t216\tCHK"
 msgid "Move Cursor (Down)"
-msgstr "Mover cursor (Abajo)"
+msgstr "Mover cursor (abajo)"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t6069\t217\tCHK"
 msgid "Move Cursor (Down) / Change Category (Down)"
-msgstr "Mover Cursor (Abajo) / Cambiar Categoría (Abajo)"
+msgstr "Mover cursor (abajo) / Cambiar categoría (abajo)"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t6113\t218\tCHK"
 msgid "Move Cursor (Left)"
-msgstr "Mover cursor (Izquierda)"
+msgstr "Mover cursor (izquierda)"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t6132\t219\tCHK"
 msgid "Move Cursor (Left) / Change Category (Left) "
-msgstr "Mover Cursor (Izquierda) / Cambiar Categoría (Izquierda) "
+msgstr "Mover cursor (izquierda) / Cambiar categoría (izquierda) "
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t6177\t220\tCHK"
 msgid "Move Cursor (Right)"
-msgstr "Mover cursor (Derecha)"
+msgstr "Mover cursor (derecha)"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t6197\t221\tCHK"
 msgid "Move Cursor (Right) / Change Category (Right) "
-msgstr "Mover Cursor (Derecha) / Cambiar Categoría (Derecha) "
+msgstr "Mover cursor (derecha) / Cambiar categoría (derecha) "
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "0\t6244\t222\tCHK"
 msgid "Move Cursor (Up)"
-msgstr "Mover cursor (Arriba)"
+msgstr "Mover cursor (arriba)"
 
 #. y4:line_status=translated
 msgctxt "0\t6261\t223\tCHK"

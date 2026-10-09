@@ -17,8 +17,8 @@ msgstr ""
 "X-Crowdin-File-ID: 62632\n"
 "PO-Revision-Date: 2026-04-26 00:21\n"
 
-#. y4:file_status=untranslated
-#. y4:last_translator=Kcat0
+#. y4:file_status=translated
+#. y4:last_translator=MasterCry
 #. y4:last_reviewer=Kcat0
 #. y4:runtime_kind=msg
 #. y4:runtime_uid=01260368
@@ -36,33 +36,38 @@ msgid "Tutorial"
 msgstr "Tutorial"
 
 #. y4:line_status=translated
-#. y4:translated_by=Kcat0
+#. y4:translated_by=MasterCry
 msgctxt "136_Tutorial"
 msgid "Use <Action:Button_LS_Left@Golf><Action:Button_LS_Right@Golf> to adjust the shot direction."
-msgstr "Usa "
+msgstr "Usa <Action:Button_LS_Left@Golf><Action:Button_LS_Right@Golf> para ajustar la dirección del tiro."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "148_Tutorial"
 msgid "Press <Action:Button_L1@Golf><Action:Button_R1@Golf> to change clubs."
-msgstr ""
+msgstr "Presiona <Action:Button_L1@Golf><Action:Button_R1@Golf> para cambiar de palo."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "160_Tutorial"
 msgid "Press <Action:Button_Triangle@Golf> to alter the shot range to half the distance."
-msgstr ""
+msgstr "Presiona <Action:Button_Triangle@Golf> para cambiar el poder de tiro a la mitad de la distancia."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "172_Tutorial"
 msgid "Use the <Action:Button_DPad_Up@Golf><Action:Button_DPad_Down@Golf><Action:Button_DPad_Left@Golf><Action:Button_DPad_Right@Golf> to change the impact point. Some points can put a spin on the ball."
-msgstr ""
+msgstr "Usa los <Action:Button_DPad_Up@Golf><Action:Button_DPad_Down@Golf><Action:Button_DPad_Left@Golf><Action:Button_DPad_Right@Golf> para cambiar el punto de impacto. Golpear en ciertos puntos pueden darle efectos a la pelota."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "184_Tutorial"
 msgid "Press <Action:Button_Cross@Golf>  to get the cursor moving.\\r\nPress <Action:Button_Cross@Golf> again to stop the cursor and set the shot power."
-msgstr ""
+msgstr "Pulsa <Action:Button_Cross@Golf> para que el cursor se mueva.\\r\nPulsa nuevamente <Action:Button_Cross@Golf> para parar el cursor y confirmar la potencia del tiro."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=MasterCry
 msgctxt "196_Tutorial"
 msgid "After setting the power, press <Action:Button_Cross@Golf> just as the cursor is aligned with the ball to deliver optimal impact."
-msgstr ""
+msgstr "Luego de establecer la potencia, presiona <Action:Button_Cross@Golf> justo cuando el cursor esté alineado\\r\ncon la bola para hacer un tiro óptimo"
 
